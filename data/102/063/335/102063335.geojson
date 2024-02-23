@@ -45,6 +45,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:deu_x_preferred":[
+        "Landkreis Pfaffenhofen a.d. Ilm"
+    ],
     "name:eng_x_preferred":[
         "Pfaffenhofen an der Ilm"
     ],
@@ -91,15 +94,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"091086",
         "eurostat:nuts_2021_id":"DE21J",
         "hasc:id":"DE.BY.PI",
         "ldbv:SCH":9186
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -115,7 +113,7 @@
         }
     ],
     "wof:id":102063335,
-    "wof:lastmodified":1695886602,
+    "wof:lastmodified":1695367079,
     "wof:name":"Pfaffenhofen a.d. Ilm",
     "wof:parent_id":404227567,
     "wof:placetype":"county",

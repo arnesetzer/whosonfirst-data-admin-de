@@ -347,7 +347,7 @@
         102191581,
         85633111,
         102063495,
-        1377689613,
+        1377689757,
         404227565,
         85682571
     ],
@@ -373,7 +373,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063495,
-            "localadmin_id":1377689613,
+            "localadmin_id":1377689757,
             "locality_id":101826831,
             "macrocounty_id":404227565,
             "region_id":85682571
@@ -385,7 +385,7 @@
     ],
     "wof:lastmodified":1695367036,
     "wof:name":"Winkelhaid",
-    "wof:parent_id":1377689613,
+    "wof:parent_id":1377689757,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:population_rank":4,

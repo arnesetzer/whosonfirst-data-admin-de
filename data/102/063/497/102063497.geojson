@@ -45,6 +45,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:deu_x_preferred":[
+        "Weiden i.d. OPf."
+    ],
     "name:eng_x_preferred":[
         "Weiden in der Oberpfalz"
     ],
@@ -91,15 +94,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"093063",
         "eurostat:nuts_2021_id":"DE233",
         "hasc:id":"DE.BY.WO",
         "ldbv:SCH":9363
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:coterminous":[
         101842197
     ],
@@ -118,7 +116,7 @@
         }
     ],
     "wof:id":102063497,
-    "wof:lastmodified":1695886610,
+    "wof:lastmodified":1695367081,
     "wof:name":"Weiden i.d. OPf.",
     "wof:parent_id":404227545,
     "wof:placetype":"county",

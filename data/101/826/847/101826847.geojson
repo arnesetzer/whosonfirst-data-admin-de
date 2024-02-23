@@ -338,7 +338,7 @@
         102191581,
         85633111,
         102063495,
-        1377689533,
+        1377685801,
         404227565,
         85682571
     ],
@@ -363,7 +363,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063495,
-            "localadmin_id":1377689533,
+            "localadmin_id":1377685801,
             "locality_id":101826847,
             "macrocounty_id":404227565,
             "region_id":85682571
@@ -372,7 +372,7 @@
     "wof:id":101826847,
     "wof:lastmodified":1695367004,
     "wof:name":"Weigendorf",
-    "wof:parent_id":1377689533,
+    "wof:parent_id":1377685801,
     "wof:placetype":"locality",
     "wof:population":1230,
     "wof:population_rank":3,

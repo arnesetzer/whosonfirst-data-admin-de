@@ -115,7 +115,7 @@
         "Augsburg"
     ],
     "name:deu_x_preferred":[
-        "Augsburg"
+        "Landkreis Augsburg"
     ],
     "name:diq_x_preferred":[
         "Augsburg"
@@ -488,21 +488,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"097072",
         "eurostat:nuts_2021_id":"DE276",
         "hasc:id":"DE.BY.AG",
         "ldbv:SCH":9772,
         "wd:id":"Q2749"
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"808e011d7fc1d72454d2aa7800f89a19",
+    "wof:geomhash":"52f1f4029fb464657fa3c79d719c4039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -513,7 +508,7 @@
         }
     ],
     "wof:id":102063311,
-    "wof:lastmodified":1695886600,
+    "wof:lastmodified":1695367088,
     "wof:name":"Augsburg",
     "wof:parent_id":404227547,
     "wof:placetype":"county",

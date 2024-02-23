@@ -228,7 +228,7 @@
         102191581,
         85633111,
         102063273,
-        1377692951,
+        1377692931,
         404227567,
         85682571
     ],
@@ -254,7 +254,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063273,
-            "localadmin_id":1377692951,
+            "localadmin_id":1377692931,
             "locality_id":101756217,
             "macrocounty_id":404227567,
             "region_id":85682571
@@ -266,7 +266,7 @@
     ],
     "wof:lastmodified":1695366978,
     "wof:name":"Neubiberg",
-    "wof:parent_id":1377692951,
+    "wof:parent_id":1377692931,
     "wof:placetype":"locality",
     "wof:population":14785,
     "wof:population_rank":6,

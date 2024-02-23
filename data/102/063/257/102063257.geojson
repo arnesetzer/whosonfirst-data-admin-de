@@ -88,7 +88,7 @@
         "Landsberg am Lech"
     ],
     "name:deu_x_preferred":[
-        "Landsberg am Lech"
+        "Landkreis Landsberg am Lech"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03ac\u03bd\u03c4\u03c3\u03bc\u03c0\u03b5\u03c1\u03b3\u03ba \u03b1\u03bc \u039b\u03b5\u03c7"
@@ -287,21 +287,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"091081",
         "eurostat:nuts_2021_id":"DE21E",
         "hasc:id":"DE.BY.LL",
         "ldbv:SCH":9181,
         "wd:id":"Q494299"
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"ceeea1c9a97b26236b13785387e93a0d",
+    "wof:geomhash":"41acfad3db09634dce5385f9f5b85bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +307,7 @@
         }
     ],
     "wof:id":102063257,
-    "wof:lastmodified":1695886597,
+    "wof:lastmodified":1695367078,
     "wof:name":"Landsberg am Lech",
     "wof:parent_id":404227567,
     "wof:placetype":"county",

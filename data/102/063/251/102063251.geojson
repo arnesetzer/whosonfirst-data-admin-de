@@ -79,7 +79,7 @@
         "Traunstein"
     ],
     "name:deu_x_preferred":[
-        "Traunstein"
+        "Landkreis Traunstein"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03ac\u03bf\u03c5\u03bd\u03c3\u03c4\u03b1\u03ca\u03bd"
@@ -251,21 +251,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"091089",
         "eurostat:nuts_2021_id":"DE21M",
         "hasc:id":"DE.BY.TA",
         "ldbv:SCH":9189,
         "wd:id":"Q253119"
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"2129d76b7064ea09d0ba7965bc5138f8",
+    "wof:geomhash":"ef8da3f6dfdf07c56d37212125b414ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -276,7 +271,7 @@
         }
     ],
     "wof:id":102063251,
-    "wof:lastmodified":1695886596,
+    "wof:lastmodified":1695367079,
     "wof:name":"Traunstein",
     "wof:parent_id":404227567,
     "wof:placetype":"county",

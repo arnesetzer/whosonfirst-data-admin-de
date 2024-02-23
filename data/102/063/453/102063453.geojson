@@ -393,18 +393,15 @@
         404227545,
         85682571
     ],
-    "wof:breaches":[],
+    "wof:breaches":[
+        102063509
+    ],
     "wof:concordances":{
-        "de-bkg:id":"093061",
         "eurostat:nuts_2021_id":"DE231",
         "hasc:id":"DE.BY.AM",
         "ldbv:SCH":9361,
         "wd:id":"Q7042"
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:coterminous":[
         101842175,
         1377685621
@@ -413,7 +410,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"061fd3a0bd0424eb8fd41aba35ca198c",
+    "wof:geomhash":"9d2193e16b8a7926bf85cbf6e777bd8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -424,7 +421,7 @@
         }
     ],
     "wof:id":102063453,
-    "wof:lastmodified":1695886608,
+    "wof:lastmodified":1695367081,
     "wof:name":"Amberg",
     "wof:parent_id":404227545,
     "wof:placetype":"county",

@@ -495,7 +495,7 @@
         102191581,
         85633111,
         102063425,
-        1377690117,
+        1377688863,
         404227565,
         85682571
     ],
@@ -519,7 +519,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063425,
-            "localadmin_id":1377690117,
+            "localadmin_id":1377688863,
             "locality_id":101905935,
             "macrocounty_id":404227565,
             "region_id":85682571
@@ -528,7 +528,7 @@
     "wof:id":101905935,
     "wof:lastmodified":1695367030,
     "wof:name":"N\u00fcrnberg",
-    "wof:parent_id":1377690117,
+    "wof:parent_id":1377688863,
     "wof:placetype":"locality",
     "wof:population":518370,
     "wof:population_rank":11,

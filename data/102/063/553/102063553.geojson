@@ -100,7 +100,7 @@
         "Aschaffenburg"
     ],
     "name:deu_x_preferred":[
-        "Aschaffenburg"
+        "Landkreis Aschaffenburg"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03ac\u03c6\u03b5\u03bd\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
@@ -419,16 +419,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"096061",
         "eurostat:nuts_2021_id":"DE261",
         "hasc:id":"DE.BY.AL",
         "ldbv:SCH":9661,
         "wd:id":"Q3942"
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:coterminous":[
         101748567,
         1377690299
@@ -437,7 +432,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"5bf8a909110b7372bc3eda2039981b94",
+    "wof:geomhash":"4289cc7ee595c9e27ea8a7e7e9857583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -448,7 +443,7 @@
         }
     ],
     "wof:id":102063553,
-    "wof:lastmodified":1695886613,
+    "wof:lastmodified":1695367086,
     "wof:name":"Aschaffenburg",
     "wof:parent_id":404227569,
     "wof:placetype":"county",

@@ -97,7 +97,7 @@
         "Dachau"
     ],
     "name:deu_x_preferred":[
-        "Dachau"
+        "Landkreis Dachau"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b1\u03c7\u03ac\u03bf\u03c5"
@@ -404,21 +404,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"091074",
         "eurostat:nuts_2021_id":"DE217",
         "hasc:id":"DE.BY.DC",
         "ldbv:SCH":9174,
         "wd:id":"Q7077"
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"791423326dde5a8c0af58ee097579f1c",
+    "wof:geomhash":"9c896731302fec2992cbc6affd457dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -429,7 +424,7 @@
         }
     ],
     "wof:id":102063287,
-    "wof:lastmodified":1695886599,
+    "wof:lastmodified":1695367077,
     "wof:name":"Dachau",
     "wof:parent_id":404227567,
     "wof:placetype":"county",

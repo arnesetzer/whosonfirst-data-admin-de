@@ -88,7 +88,7 @@
         "Garmisch-Partenkirchen"
     ],
     "name:deu_x_preferred":[
-        "Garmisch-Partenkirchen"
+        "Landkreis Garmisch-Partenkirchen"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03ac\u03c1\u03bc\u03b9\u03c2-\u03a0\u03b1\u03c1\u03c4\u03b5\u03bd\u03ba\u03af\u03c1\u03c7\u03b5\u03bd"
@@ -302,21 +302,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"091080",
         "eurostat:nuts_2021_id":"DE21D",
         "hasc:id":"DE.BY.GP",
         "ldbv:SCH":9180,
         "wd:id":"Q127043"
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"7b9bbb5a26756ccdd56e7bb5de2e653d",
+    "wof:geomhash":"55bb4e206fdf6dc5cadb7c9abfd9b93f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -327,7 +322,7 @@
         }
     ],
     "wof:id":102063197,
-    "wof:lastmodified":1695886589,
+    "wof:lastmodified":1695367078,
     "wof:name":"Garmisch-Partenkirchen",
     "wof:parent_id":404227567,
     "wof:placetype":"county",

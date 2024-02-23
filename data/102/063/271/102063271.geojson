@@ -82,7 +82,7 @@
         "F\u00fcrstenfeldbruck"
     ],
     "name:deu_x_preferred":[
-        "F\u00fcrstenfeldbruck"
+        "Landkreis F\u00fcrstenfeldbruck"
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03ad\u03c1\u03c3\u03c4\u03b5\u03bd\u03c6\u03b5\u03bb\u03bd\u03c4\u03bc\u03c0\u03c1\u03bf\u03c5\u03ba"
@@ -257,21 +257,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"091079",
         "eurostat:nuts_2021_id":"DE21C",
         "hasc:id":"DE.BY.FF",
         "ldbv:SCH":9179,
         "wd:id":"Q16003"
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"edca97df7341f79b87d0b460ee4d73e8",
+    "wof:geomhash":"22628b63ce224968ed15897f5094bbaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -282,7 +277,7 @@
         }
     ],
     "wof:id":102063271,
-    "wof:lastmodified":1695886598,
+    "wof:lastmodified":1695367078,
     "wof:name":"F\u00fcrstenfeldbruck",
     "wof:parent_id":404227567,
     "wof:placetype":"county",

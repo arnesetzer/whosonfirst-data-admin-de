@@ -203,7 +203,7 @@
         102191581,
         85633111,
         102063585,
-        1377688591,
+        1377688625,
         404227583,
         85682571
     ],
@@ -228,7 +228,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063585,
-            "localadmin_id":1377688591,
+            "localadmin_id":1377688625,
             "locality_id":101825907,
             "macrocounty_id":404227583,
             "region_id":85682571
@@ -237,7 +237,7 @@
     "wof:id":101825907,
     "wof:lastmodified":1695367028,
     "wof:name":"Marktzeuln",
-    "wof:parent_id":1377688591,
+    "wof:parent_id":1377688625,
     "wof:placetype":"locality",
     "wof:population":1544,
     "wof:population_rank":3,

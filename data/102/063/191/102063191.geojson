@@ -79,7 +79,7 @@
         "Lindau"
     ],
     "name:deu_x_preferred":[
-        "Lindau"
+        "Landkreis Lindau"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03af\u03bd\u03c4\u03b1\u03bf\u03c5"
@@ -244,15 +244,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"097076",
         "eurostat:nuts_2021_id":"DE27A",
         "hasc:id":"DE.BY.LN",
         "ldbv:SCH":9776
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -268,7 +263,7 @@
         }
     ],
     "wof:id":102063191,
-    "wof:lastmodified":1695886588,
+    "wof:lastmodified":1695367089,
     "wof:name":"Lindau",
     "wof:parent_id":404227547,
     "wof:placetype":"county",

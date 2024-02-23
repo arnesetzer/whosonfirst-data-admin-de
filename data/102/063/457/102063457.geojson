@@ -58,7 +58,7 @@
         "Cham"
     ],
     "name:deu_x_preferred":[
-        "Cham"
+        "Landkreis Cham"
     ],
     "name:eng_x_preferred":[
         "Cham"
@@ -151,15 +151,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"093072",
         "eurostat:nuts_2021_id":"DE235",
         "hasc:id":"DE.BY.CA",
         "ldbv:SCH":9372
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -175,7 +170,7 @@
         }
     ],
     "wof:id":102063457,
-    "wof:lastmodified":1695886608,
+    "wof:lastmodified":1695367082,
     "wof:name":"Cham",
     "wof:parent_id":404227545,
     "wof:placetype":"county",

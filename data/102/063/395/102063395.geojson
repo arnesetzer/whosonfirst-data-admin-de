@@ -88,7 +88,7 @@
         "Regen"
     ],
     "name:deu_x_preferred":[
-        "Regen"
+        "Landkreis Regen"
     ],
     "name:eng_x_preferred":[
         "Regen"
@@ -338,21 +338,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"092076",
         "eurostat:nuts_2021_id":"DE229",
         "hasc:id":"DE.BY.RE",
         "ldbv:SCH":9276,
         "wd:id":"Q489059"
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"f59ea750e1715b5fc38d06c746fb6707",
+    "wof:geomhash":"457e79ea35fabb5a1f955a9aa540fb7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -363,7 +358,7 @@
         }
     ],
     "wof:id":102063395,
-    "wof:lastmodified":1695886605,
+    "wof:lastmodified":1695367081,
     "wof:name":"Regen",
     "wof:parent_id":404227559,
     "wof:placetype":"county",

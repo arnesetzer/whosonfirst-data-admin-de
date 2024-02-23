@@ -25,13 +25,13 @@
     "geom:longitude":12.098852,
     "iso:country":"DE",
     "label:deu_x_preferred_longname":[
-        "Neustadt a.d. Waldnaab"
+        "Landkreis Neustadt a.d. Waldnaab"
     ],
     "label:deu_x_preferred_placetype":[
         "landkreis"
     ],
     "label:eng_x_preferred_longname":[
-        "Neustadt a.d. Waldnaab"
+        "Neustadt a.d. Waldnaab District"
     ],
     "label:eng_x_preferred_placetype":[
         "rural district"
@@ -45,6 +45,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:deu_x_preferred":[
+        "Landkreis Neustadt a.d. Waldnaab"
+    ],
     "name:eng_x_preferred":[
         "Neustadt an der Waldnaab"
     ],
@@ -93,15 +96,10 @@
         102063497
     ],
     "wof:concordances":{
-        "de-bkg:id":"093074",
         "eurostat:nuts_2021_id":"DE237",
         "hasc:id":"DE.BY.NW",
         "ldbv:SCH":9374
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -117,7 +115,7 @@
         }
     ],
     "wof:id":102063523,
-    "wof:lastmodified":1695886611,
+    "wof:lastmodified":1695367082,
     "wof:name":"Neustadt a.d. Waldnaab",
     "wof:parent_id":404227545,
     "wof:placetype":"county",

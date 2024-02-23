@@ -45,7 +45,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
+        "Landkreis Neumarkt i.d. OPf."
+    ],    "name:eng_x_preferred":[
         "Neumarkt in der Oberpfalz"
     ],
     "name:fra_x_preferred":[
@@ -91,15 +93,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"093073",
         "eurostat:nuts_2021_id":"DE236",
         "hasc:id":"DE.BY.NO",
         "ldbv:SCH":9373
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -115,7 +112,7 @@
         }
     ],
     "wof:id":102063439,
-    "wof:lastmodified":1695886607,
+    "wof:lastmodified":1695367082,
     "wof:name":"Neumarkt i.d. OPf.",
     "wof:parent_id":404227545,
     "wof:placetype":"county",

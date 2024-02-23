@@ -46,7 +46,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
-        "Ha\u00dfberge"
+        "Landkreis Ha\u00dfberge"
     ],
     "name:eng_x_preferred":[
         "Hassberge"
@@ -94,15 +94,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "de-bkg:id":"096074",
         "eurostat:nuts_2021_id":"DE267",
         "hasc:id":"DE.BY.HB",
         "ldbv:SCH":9674
     },
-    "wof:concordances_official":"de-bkg:id",
-    "wof:concordances_official_alt":[
-        "hasc:id"
-    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -118,7 +113,7 @@
         }
     ],
     "wof:id":102063593,
-    "wof:lastmodified":1695886615,
+    "wof:lastmodified":1695367087,
     "wof:name":"Hassberge",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
