@@ -94,10 +94,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"091084",
         "eurostat:nuts_2021_id":"DE21H",
         "hasc:id":"DE.BY.MU",
         "ldbv:SCH":9184
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -120,7 +125,7 @@
         "deu"
     ],
     "wof:lastmodified":1695367078,
-    "wof:name":"M\u00fcnchen",
+    "wof:name":"Landkreis M\u00fcnchen",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

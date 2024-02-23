@@ -392,11 +392,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"091078",
         "eurostat:nuts_2021_id":"DE21B",
         "hasc:id":"DE.BY.FE",
         "ldbv:SCH":9178,
         "wd:id":"Q6998"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -413,7 +418,7 @@
     ],
     "wof:id":102063307,
     "wof:lastmodified":1695367078,
-    "wof:name":"Freising",
+    "wof:name":"Landkreis Freising",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

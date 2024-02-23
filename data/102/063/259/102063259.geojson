@@ -233,11 +233,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"091075",
         "eurostat:nuts_2021_id":"DE218",
         "hasc:id":"DE.BY.EE",
         "ldbv:SCH":9175,
         "wd:id":"Q253003"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -254,7 +259,7 @@
     ],
     "wof:id":102063259,
     "wof:lastmodified":1695367077,
-    "wof:name":"Ebersberg",
+    "wof:name":"Landkreis Ebersberg",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

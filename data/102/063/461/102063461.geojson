@@ -94,10 +94,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"095064",
         "eurostat:nuts_2021_id":"DE254",
         "hasc:id":"DE.BY.NR",
         "ldbv:SCH":9564
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101905935,
         1377688863

@@ -118,7 +118,7 @@
         "Regensburg"
     ],
     "name:deu_x_preferred":[
-        "Regensburg"
+        "Landkreis Regensburg"
     ],
     "name:diq_x_preferred":[
         "Regensburg"
@@ -507,7 +507,7 @@
     ],
     "wof:id":1377675605,
     "wof:lastmodified":1695886652,
-    "wof:name":"Regensburg",
+    "wof:name":"Landkreis Regensburg",
     "wof:parent_id":404227545,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

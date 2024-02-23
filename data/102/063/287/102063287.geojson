@@ -404,11 +404,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"091074",
         "eurostat:nuts_2021_id":"DE217",
         "hasc:id":"DE.BY.DC",
         "ldbv:SCH":9174,
         "wd:id":"Q7077"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -425,7 +430,7 @@
     ],
     "wof:id":102063287,
     "wof:lastmodified":1695367077,
-    "wof:name":"Dachau",
+    "wof:name":"Landkreis Dachau",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

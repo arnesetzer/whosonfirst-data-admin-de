@@ -299,11 +299,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"095076",
         "eurostat:nuts_2021_id":"DE25B",
         "hasc:id":"DE.BY.RT",
         "ldbv:SCH":9576,
         "wd:id":"Q226661"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -320,7 +325,7 @@
     ],
     "wof:id":102063425,
     "wof:lastmodified":1695367086,
-    "wof:name":"Roth",
+    "wof:name":"Landkreis Roth",
     "wof:parent_id":404227565,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

@@ -242,11 +242,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"095075",
         "eurostat:nuts_2021_id":"DE25A",
         "hasc:id":"DE.BY.NA",
         "ldbv:SCH":9575,
         "wd:id":"Q10456"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -263,7 +268,7 @@
     ],
     "wof:id":102063505,
     "wof:lastmodified":1695367086,
-    "wof:name":"Neustadt a.d. Aisch-Bad Windsheim",
+    "wof:name":"Landkreis Neustadt a.d. Aisch-Bad Windsheim",
     "wof:parent_id":404227565,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

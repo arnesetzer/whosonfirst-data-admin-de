@@ -305,11 +305,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"094078",
         "eurostat:nuts_2021_id":"DE24C",
         "hasc:id":"DE.BY.LC",
         "ldbv:SCH":9478,
         "wd:id":"Q282954"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -326,7 +331,7 @@
     ],
     "wof:id":102063585,
     "wof:lastmodified":1695367085,
-    "wof:name":"Lichtenfels",
+    "wof:name":"Landkreis Lichtenfels",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

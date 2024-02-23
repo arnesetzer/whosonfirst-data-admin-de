@@ -359,11 +359,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"094074",
         "eurostat:nuts_2021_id":"DE248",
         "hasc:id":"DE.BY.FR",
         "ldbv:SCH":9474,
         "wd:id":"Q16116"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -380,7 +385,7 @@
     ],
     "wof:id":102063525,
     "wof:lastmodified":1695367084,
-    "wof:name":"Forchheim",
+    "wof:name":"Landkreis Forchheim",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

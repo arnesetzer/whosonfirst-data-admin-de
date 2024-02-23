@@ -374,11 +374,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"092071",
         "eurostat:nuts_2021_id":"DE224",
         "hasc:id":"DE.BY.DG",
         "ldbv:SCH":9271,
         "wd:id":"Q16083"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -395,7 +400,7 @@
     ],
     "wof:id":102063361,
     "wof:lastmodified":1695367080,
-    "wof:name":"Deggendorf",
+    "wof:name":"Landkreis Deggendorf",
     "wof:parent_id":404227559,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

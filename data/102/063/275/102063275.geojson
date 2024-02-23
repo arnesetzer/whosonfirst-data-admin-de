@@ -266,11 +266,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"091071",
         "eurostat:nuts_2021_id":"DE214",
         "hasc:id":"DE.BY.AT",
         "ldbv:SCH":9171,
         "wd:id":"Q256669"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -287,7 +292,7 @@
     ],
     "wof:id":102063275,
     "wof:lastmodified":1695367077,
-    "wof:name":"Alt\u00f6tting",
+    "wof:name":"Landkreis Alt\u00f6tting",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

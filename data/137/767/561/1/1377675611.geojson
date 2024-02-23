@@ -91,7 +91,7 @@
         "Passau"
     ],
     "name:deu_x_preferred":[
-        "Passau"
+        "Landkreis Passau"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03c3\u03c3\u03b1\u03bf\u03c5"
@@ -327,7 +327,7 @@
     ],
     "wof:id":1377675611,
     "wof:lastmodified":1695886653,
-    "wof:name":"Passau",
+    "wof:name":"Landkreis Passau",
     "wof:parent_id":404227559,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

@@ -419,11 +419,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"096061",
         "eurostat:nuts_2021_id":"DE261",
         "hasc:id":"DE.BY.AL",
         "ldbv:SCH":9661,
         "wd:id":"Q3942"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101748567,
         1377690299
@@ -444,7 +449,7 @@
     ],
     "wof:id":102063553,
     "wof:lastmodified":1695367086,
-    "wof:name":"Aschaffenburg",
+    "wof:name":"Landkreis Aschaffenburg",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

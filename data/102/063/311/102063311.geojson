@@ -488,11 +488,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"097072",
         "eurostat:nuts_2021_id":"DE276",
         "hasc:id":"DE.BY.AG",
         "ldbv:SCH":9772,
         "wd:id":"Q2749"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -509,7 +514,7 @@
     ],
     "wof:id":102063311,
     "wof:lastmodified":1695367088,
-    "wof:name":"Augsburg",
+    "wof:name":"Landkreis Augsburg",
     "wof:parent_id":404227547,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

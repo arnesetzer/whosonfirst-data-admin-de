@@ -236,11 +236,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"096075",
         "eurostat:nuts_2021_id":"DE268",
         "hasc:id":"DE.BY.KT",
         "ldbv:SCH":9675,
         "wd:id":"Q269447"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -257,7 +262,7 @@
     ],
     "wof:id":102063531,
     "wof:lastmodified":1695367087,
-    "wof:name":"Kitzingen",
+    "wof:name":"Landkreis Kitzingen",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

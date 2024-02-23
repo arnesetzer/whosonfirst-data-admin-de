@@ -224,11 +224,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"094075",
         "eurostat:nuts_2021_id":"DE249",
         "hasc:id":"DE.BY.HL",
         "ldbv:SCH":9475,
         "wd:id":"Q959414"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -245,7 +250,7 @@
     ],
     "wof:id":102063625,
     "wof:lastmodified":1695367084,
-    "wof:name":"Hof",
+    "wof:name":"Landkreis Hof",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

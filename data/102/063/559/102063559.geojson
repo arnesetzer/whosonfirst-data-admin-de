@@ -227,11 +227,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"093077",
         "eurostat:nuts_2021_id":"DE23A",
         "hasc:id":"DE.BY.TR",
         "ldbv:SCH":9377,
         "wd:id":"Q205436"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -248,7 +253,7 @@
     ],
     "wof:id":102063559,
     "wof:lastmodified":1695367083,
-    "wof:name":"Tirschenreuth",
+    "wof:name":"Landkreis Tirschenreuth",
     "wof:parent_id":404227545,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

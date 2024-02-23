@@ -82,7 +82,7 @@
         "Starnberg"
     ],
     "name:deu_x_preferred":[
-        "Starnberg"
+        "Landkreis Starnberg"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03ac\u03c1\u03bd\u03bc\u03c0\u03b5\u03c1\u03b3\u03ba"
@@ -278,11 +278,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"091088",
         "eurostat:nuts_2021_id":"DE21L",
         "hasc:id":"DE.BY.SA",
         "ldbv:SCH":9188,
         "wd:id":"Q61936"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -299,7 +304,7 @@
     ],
     "wof:id":102063243,
     "wof:lastmodified":1695367079,
-    "wof:name":"Starnberg",
+    "wof:name":"Landkreis Starnberg",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

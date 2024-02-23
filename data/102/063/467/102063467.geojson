@@ -374,11 +374,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"095073",
         "eurostat:nuts_2021_id":"DE258",
         "hasc:id":"DE.BY.FL",
         "ldbv:SCH":9573,
         "wd:id":"Q3075"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -395,7 +400,7 @@
     ],
     "wof:id":102063467,
     "wof:lastmodified":1695367086,
-    "wof:name":"F\u00fcrth",
+    "wof:name":"Landkreis F\u00fcrth",
     "wof:parent_id":404227565,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

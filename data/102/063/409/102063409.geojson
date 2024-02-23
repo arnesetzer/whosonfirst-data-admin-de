@@ -316,11 +316,16 @@
         102063451
     ],
     "wof:concordances":{
+        "de-bkg:id":"095061",
         "eurostat:nuts_2021_id":"DE251",
         "hasc:id":"DE.BY.AB",
         "ldbv:SCH":9561,
         "wd:id":"Q14859"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101782029,
         1377688837

@@ -242,11 +242,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "de-bkg:id":"094077",
         "eurostat:nuts_2021_id":"DE24B",
         "hasc:id":"DE.BY.KB",
         "ldbv:SCH":9477,
         "wd:id":"Q157598"
     },
+    "wof:concordances_official":"de-bkg:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
@@ -263,7 +268,7 @@
     ],
     "wof:id":102063599,
     "wof:lastmodified":1695367084,
-    "wof:name":"Kulmbach",
+    "wof:name":"Landkreis Kulmbach",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",
