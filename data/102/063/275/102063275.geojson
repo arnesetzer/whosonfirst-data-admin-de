@@ -81,14 +81,8 @@
     "name:dan_x_preferred":[
         "Alt\u00f6tting"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Alt\u00f6tting"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03c4\u03ad\u03c4\u03b9\u03bd\u03b3\u03ba"
-    ],
-    "name:eng_x_preferred":[
-        "Alt\u00f6tting"
     ],
     "name:epo_x_preferred":[
         "Alt\u00f6tting"
@@ -292,7 +286,7 @@
     ],
     "wof:id":102063275,
     "wof:lastmodified":1695367077,
-    "wof:name":"Landkreis Alt\u00f6tting",
+    "wof:name":"Alt\u00f6tting",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

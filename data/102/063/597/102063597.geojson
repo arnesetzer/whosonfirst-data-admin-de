@@ -45,12 +45,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:deu_x_preferred":[
-        "Landkreis Wunsiedel i. Fichtelgebirge"
-    ],
-    "name:eng_x_preferred":[
-        "Wunsiedel im Fichtelgebirge"
-    ],
     "name:fra_x_preferred":[
         "Wunsiedel im Fichtelgebirge"
     ],
@@ -119,7 +113,7 @@
     ],
     "wof:id":102063597,
     "wof:lastmodified":1695367085,
-    "wof:name":"Landkreis Wunsiedel i. Fichtelgebirge",
+    "wof:name":"Wunsiedel i. Fichtelgebirge",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

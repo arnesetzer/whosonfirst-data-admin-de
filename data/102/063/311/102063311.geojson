@@ -114,17 +114,11 @@
     "name:dan_x_preferred":[
         "Augsburg"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Augsburg"
-    ],
     "name:diq_x_preferred":[
         "Augsburg"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03bf\u03c5\u03b3\u03ba\u03c3\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
-    ],
-    "name:eng_x_preferred":[
-        "Augsburg"
     ],
     "name:epo_x_preferred":[
         "A\u016dgsburgo"
@@ -514,7 +508,7 @@
     ],
     "wof:id":102063311,
     "wof:lastmodified":1695367088,
-    "wof:name":"Landkreis Augsburg",
+    "wof:name":"Augsburg",
     "wof:parent_id":404227547,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

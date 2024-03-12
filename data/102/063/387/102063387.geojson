@@ -66,12 +66,6 @@
     "name:dan_x_preferred":[
         "Landkreis Straubing-Bogen"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Straubing-Bogen"
-    ],
-    "name:eng_x_preferred":[
-        "Straubing-Bogen"
-    ],
     "name:epo_x_preferred":[
         "Distrikto Straubing-Bogen"
     ],
@@ -243,7 +237,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"c72f8f13258e99699e3054717b782350",
+    "wof:geomhash":"f2f9368880e9d88f12add655cd4623a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,7 +249,7 @@
     ],
     "wof:id":102063387,
     "wof:lastmodified":1695886605,
-    "wof:name":"Landkreis Straubing-Bogen",
+    "wof:name":"Straubing-Bogen",
     "wof:parent_id":404227559,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

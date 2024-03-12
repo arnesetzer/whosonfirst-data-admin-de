@@ -78,12 +78,6 @@
     "name:dan_x_preferred":[
         "Roth"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Roth"
-    ],
-    "name:eng_x_preferred":[
-        "Roth"
-    ],
     "name:epo_x_preferred":[
         "Roth"
     ],
@@ -325,7 +319,7 @@
     ],
     "wof:id":102063425,
     "wof:lastmodified":1695367086,
-    "wof:name":"Landkreis Roth",
+    "wof:name":"Roth",
     "wof:parent_id":404227565,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

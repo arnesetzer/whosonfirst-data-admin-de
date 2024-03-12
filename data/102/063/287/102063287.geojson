@@ -96,14 +96,8 @@
     "name:dan_x_preferred":[
         "Dachau"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Dachau"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b1\u03c7\u03ac\u03bf\u03c5"
-    ],
-    "name:eng_x_preferred":[
-        "Dachau"
     ],
     "name:epo_x_preferred":[
         "Dachau"
@@ -430,7 +424,7 @@
     ],
     "wof:id":102063287,
     "wof:lastmodified":1695367077,
-    "wof:name":"Landkreis Dachau",
+    "wof:name":"Dachau",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

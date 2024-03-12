@@ -96,14 +96,8 @@
     "name:dan_x_preferred":[
         "Kronach"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Kronach"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03cc\u03bd\u03b1\u03c7"
-    ],
-    "name:eng_x_preferred":[
-        "Kronach"
     ],
     "name:epo_x_preferred":[
         "Kronach"
@@ -394,7 +388,7 @@
     ],
     "wof:id":102063637,
     "wof:lastmodified":1695367084,
-    "wof:name":"Landkreis Kronach",
+    "wof:name":"Kronach",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

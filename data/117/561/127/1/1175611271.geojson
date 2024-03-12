@@ -25,16 +25,16 @@
     "geom:longitude":10.883614,
     "iso:country":"DE",
     "label:deu_x_preferred_longname":[
-        "Kreisfreie Stadt Bamberg"
+        "Landkreis Bamberg"
     ],
     "label:deu_x_preferred_placetype":[
-        "kreisfreie stadt"
+        "landkreis"
     ],
     "label:eng_x_preferred_longname":[
-        "Bamberg"
+        "Bamberg District"
     ],
     "label:eng_x_preferred_placetype":[
-        "district-free city"
+        "rural district"
     ],
     "lbl:latitude":49.92818,
     "lbl:longitude":11.047303,
@@ -96,14 +96,8 @@
     "name:dan_x_preferred":[
         "Bamberg"
     ],
-    "name:deu_x_preferred":[
-        "Bamberg"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ac\u03bc\u03c0\u03b5\u03c1\u03b3\u03ba"
-    ],
-    "name:eng_x_preferred":[
-        "Bamberg"
     ],
     "name:epo_x_preferred":[
         "Bamberg"
@@ -379,7 +373,7 @@
         "hasc:id"
     ],
     "wof:country":"DE",
-    "wof:geomhash":"0e2c81e06f3a8599e7c9ed3eff3745a6",
+    "wof:geomhash":"fbf9611017c5a88346bf4e78a06e8b7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -394,7 +388,7 @@
     "wof:name":"Bamberg",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
-    "wof:placetype_local":"district-free city",
+    "wof:placetype_local":"rural district",
     "wof:population":147697,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-de",

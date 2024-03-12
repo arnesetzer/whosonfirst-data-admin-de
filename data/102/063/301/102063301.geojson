@@ -72,12 +72,6 @@
     "name:dan_x_preferred":[
         "Landkreis Aichach-Friedberg"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Aichach-Friedberg"
-    ],
-    "name:eng_x_preferred":[
-        "Aichach-Friedberg"
-    ],
     "name:epo_x_preferred":[
         "Distrikto Aichach-Friedberg"
     ],
@@ -262,7 +256,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"bfd31630593e92d96e847e3710659aaf",
+    "wof:geomhash":"a84fff307b6c77683783a882fc88198b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,

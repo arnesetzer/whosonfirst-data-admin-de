@@ -93,17 +93,11 @@
     "name:dan_x_preferred":[
         "Coburg"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Coburg"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03bc\u03c0\u03bf\u03c5\u03c1\u03ba"
     ],
     "name:ell_x_variant":[
         "\u039a\u03cc\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
-    ],
-    "name:eng_x_preferred":[
-        "Coburg"
     ],
     "name:epo_x_preferred":[
         "Coburg"
@@ -351,7 +345,7 @@
     ],
     "wof:id":102063615,
     "wof:lastmodified":1695367084,
-    "wof:name":"Landkreis Coburg",
+    "wof:name":"Coburg",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

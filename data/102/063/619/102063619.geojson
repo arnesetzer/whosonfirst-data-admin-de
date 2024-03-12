@@ -96,17 +96,11 @@
     "name:dan_x_preferred":[
         "Bad Kissingen"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Bad Kissingen"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bd\u03c4 \u039a\u03af\u03c3\u03c3\u03b9\u03bd\u03b3\u03ba\u03b5\u03bd"
     ],
     "name:ell_x_variant":[
         "\u039c\u03c0\u03b1\u03bd\u03c4 \u039a\u03af\u03c3\u03b9\u03bd\u03b3\u03ba\u03b5\u03bd"
-    ],
-    "name:eng_x_preferred":[
-        "Bad Kissingen"
     ],
     "name:epo_x_preferred":[
         "Bad Kissingen"
@@ -401,7 +395,7 @@
     ],
     "wof:id":102063619,
     "wof:lastmodified":1695367087,
-    "wof:name":"Landkreis Bad Kissingen",
+    "wof:name":"Bad Kissingen
     "wof:parent_id":404227569,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

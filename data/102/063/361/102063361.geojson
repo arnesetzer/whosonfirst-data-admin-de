@@ -102,12 +102,6 @@
     "name:dan_x_preferred":[
         "Deggendorf"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Deggendorf"
-    ],
-    "name:eng_x_preferred":[
-        "Deggendorf"
-    ],
     "name:epo_x_preferred":[
         "Deggendorf"
     ],
@@ -400,7 +394,7 @@
     ],
     "wof:id":102063361,
     "wof:lastmodified":1695367080,
-    "wof:name":"Landkreis Deggendorf",
+    "wof:name":"Deggendorf",
     "wof:parent_id":404227559,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

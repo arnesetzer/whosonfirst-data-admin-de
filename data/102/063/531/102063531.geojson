@@ -75,14 +75,8 @@
     "name:dan_x_preferred":[
         "Kitzingen"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Kitzingen"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03af\u03c4\u03c3\u03b9\u03bd\u03b3\u03ba\u03b5\u03bd"
-    ],
-    "name:eng_x_preferred":[
-        "Kitzingen"
     ],
     "name:epo_x_preferred":[
         "Kitzingen"
@@ -262,7 +256,7 @@
     ],
     "wof:id":102063531,
     "wof:lastmodified":1695367087,
-    "wof:name":"Landkreis Kitzingen",
+    "wof:name":"Kitzingen",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

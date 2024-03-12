@@ -81,12 +81,6 @@
     "name:dan_x_preferred":[
         "Erding"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Erding"
-    ],
-    "name:eng_x_preferred":[
-        "Erding"
-    ],
     "name:epo_x_preferred":[
         "Erding"
     ],
@@ -271,7 +265,7 @@
     ],
     "wof:id":102063291,
     "wof:lastmodified":1695367077,
-    "wof:name":"Landkreis Erding",
+    "wof:name":"Erding",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

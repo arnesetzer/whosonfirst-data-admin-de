@@ -45,12 +45,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:deu_x_preferred":[
-        "Landkreis Neustadt a.d. Waldnaab"
-    ],
-    "name:eng_x_preferred":[
-        "Neustadt an der Waldnaab"
-    ],
     "name:fra_x_preferred":[
         "Neustadt an der Waldnaab"
     ],
@@ -121,7 +115,7 @@
     ],
     "wof:id":102063523,
     "wof:lastmodified":1695367082,
-    "wof:name":"Landkreis Neustadt a.d. Waldnaab",
+    "wof:name":"Neustadt a.d. Waldnaab",
     "wof:parent_id":404227545,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

@@ -66,14 +66,8 @@
     "name:dan_x_preferred":[
         "Landkreis Ostallg\u00e4u"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Ostallg\u00e4u"
-    ],
     "name:ell_x_preferred":[
         "\u038c\u03c3\u03c4\u03b1\u03bb\u03b3\u03ba\u03bf\u03ca"
-    ],
-    "name:eng_x_preferred":[
-        "Ostallg\u00e4u"
     ],
     "name:epo_x_preferred":[
         "Distrikto Ostallg\u00e4u"
@@ -244,7 +238,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"469e719c84d43f481a53fbbb2ec0b5e6",
+    "wof:geomhash":"e642c8e4edc4bfd8072fcb57b23fb6f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,7 +250,7 @@
     ],
     "wof:id":102063239,
     "wof:lastmodified":1695886594,
-    "wof:name":"Landkreis Ostallg\u00e4u",
+    "wof:name":"Ostallg\u00e4u",
     "wof:parent_id":404227547,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

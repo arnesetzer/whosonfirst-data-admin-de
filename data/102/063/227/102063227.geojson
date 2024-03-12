@@ -31,7 +31,7 @@
         "landkreis"
     ],
     "label:eng_x_preferred_longname":[
-        "Berchtesgadener Land"
+        "Berchtesgadener Land District"
     ],
     "label:eng_x_preferred_placetype":[
         "rural district"
@@ -77,12 +77,6 @@
     ],
     "name:dan_x_preferred":[
         "Landkreis Berchtesgadener Land"
-    ],
-    "name:deu_x_preferred":[
-        "Landkreis Berchtesgadener Land"
-    ],
-    "name:eng_x_preferred":[
-        "Berchtesgadener Land"
     ],
     "name:epo_x_preferred":[
         "Distrikto Berchtesgadener Land"
@@ -271,7 +265,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"72053dcd7b22f0e04abfe8b239b23a8e",
+    "wof:geomhash":"34ae81f45722c83fd73161cb23bc1356",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -283,7 +277,7 @@
     ],
     "wof:id":102063227,
     "wof:lastmodified":1695886593,
-    "wof:name":"Landkreis Berchtesgadener Land",
+    "wof:name":"Berchtesgadener Land",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

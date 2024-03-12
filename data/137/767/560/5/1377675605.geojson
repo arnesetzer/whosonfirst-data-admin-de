@@ -117,17 +117,11 @@
     "name:dan_x_preferred":[
         "Regensburg"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Regensburg"
-    ],
     "name:diq_x_preferred":[
         "Regensburg"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03ad\u03b3\u03ba\u03b5\u03bd\u03c3\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
-    ],
-    "name:eng_x_preferred":[
-        "Regensburg"
     ],
     "name:epo_x_preferred":[
         "Regensburg"
@@ -495,7 +489,7 @@
         "hasc:id"
     ],
     "wof:country":"DE",
-    "wof:geomhash":"dfdae27920019dd4a212d83a2cd400e1",
+    "wof:geomhash":"41e6eadb8a358e33846a374f51ddcb03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -507,7 +501,7 @@
     ],
     "wof:id":1377675605,
     "wof:lastmodified":1695886652,
-    "wof:name":"Landkreis Regensburg",
+    "wof:name":"Regensburg",
     "wof:parent_id":404227545,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

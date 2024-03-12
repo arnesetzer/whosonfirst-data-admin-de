@@ -45,12 +45,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:deu_x_preferred":[
-        "Landkreis Wei\u00dfenburg-Gunzenhausen"
-    ],
-    "name:eng_x_preferred":[
-        "Weissenburg-Gunzenhausen"
-    ],
     "name:fra_x_preferred":[
         "Wei\u00dfenburg-Gunzenhausen"
     ],
@@ -119,7 +113,7 @@
     ],
     "wof:id":102063389,
     "wof:lastmodified":1695367086,
-    "wof:name":"Landkreis Wei\u00dfenburg-Gunzenhausen",
+    "wof:name":"Weissenburg-Gunzenhausen",
     "wof:parent_id":404227565,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

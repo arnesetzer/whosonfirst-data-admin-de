@@ -45,12 +45,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:deu_x_preferred":[
-        "Landkreis Ha\u00dfberge"
-    ],
-    "name:eng_x_preferred":[
-        "Hassberge"
-    ],
     "name:fra_x_preferred":[
         "Hassberge"
     ],
@@ -119,7 +113,7 @@
     ],
     "wof:id":102063593,
     "wof:lastmodified":1695367087,
-    "wof:name":"Landkreis Ha\u00dfberge",
+    "wof:name":"Ha\u00dfberge",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

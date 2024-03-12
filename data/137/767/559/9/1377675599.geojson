@@ -102,14 +102,8 @@
     "name:dan_x_preferred":[
         "Bayreuth"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Bayreuth"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03ca\u03c1\u03cc\u03b9\u03c4"
-    ],
-    "name:eng_x_preferred":[
-        "Bayreuth"
     ],
     "name:epo_x_preferred":[
         "Bayreuth"
@@ -421,7 +415,7 @@
         "hasc:id"
     ],
     "wof:country":"DE",
-    "wof:geomhash":"c9cbd0985a4e414e26f17bfa828e824f",
+    "wof:geomhash":"d2cc90696b374d49018ddaaa98c81b3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -433,7 +427,7 @@
     ],
     "wof:id":1377675599,
     "wof:lastmodified":1695886652,
-    "wof:name":"Landkreis Bayreuth",
+    "wof:name":"Bayreuth",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

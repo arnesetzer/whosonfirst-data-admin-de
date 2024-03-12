@@ -87,12 +87,6 @@
     "name:dan_x_preferred":[
         "Schwandorf"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Schwandorf"
-    ],
-    "name:eng_x_preferred":[
-        "Schwandorf"
-    ],
     "name:epo_x_preferred":[
         "Schwandorf"
     ],
@@ -370,7 +364,7 @@
     ],
     "wof:id":102063475,
     "wof:lastmodified":1695367083,
-    "wof:name":"Landkreis Schwandorf",
+    "wof:name":"Schwandorf",
     "wof:parent_id":404227545,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

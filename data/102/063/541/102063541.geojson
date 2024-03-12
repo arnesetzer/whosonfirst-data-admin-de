@@ -25,16 +25,16 @@
     "geom:longitude":9.927255,
     "iso:country":"DE",
     "label:deu_x_preferred_longname":[
-        "Kreisfreie Stadt W\u00fcrzburg"
+        "Landkreis W\u00fcrzburg"
     ],
     "label:deu_x_preferred_placetype":[
-        "kreisfreie stadt"
+        "landkreis"
     ],
     "label:eng_x_preferred_longname":[
-        "W\u00fcrzburg"
+        "W\u00fcrzburg District"
     ],
     "label:eng_x_preferred_placetype":[
-        "district-free city"
+        "rural district"
     ],
     "lbl:latitude":49.624618,
     "lbl:longitude":9.994504,
@@ -243,7 +243,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"14cab00d694206c91e88330b640c9d34",
+    "wof:geomhash":"4012f1ee39f59b905d6aa8f9c61fcb01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -258,7 +258,7 @@
     "wof:name":"W\u00fcrzburg",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
-    "wof:placetype_local":"district-free city",
+    "wof:placetype_local":"rural district",
     "wof:population":163534,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-de",

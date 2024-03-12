@@ -72,12 +72,6 @@
     "name:dan_x_preferred":[
         "Tirschenreuth"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Tirschenreuth"
-    ],
-    "name:eng_x_preferred":[
-        "Tirschenreuth"
-    ],
     "name:epo_x_preferred":[
         "Tirschenreuth"
     ],
@@ -253,7 +247,7 @@
     ],
     "wof:id":102063559,
     "wof:lastmodified":1695367083,
-    "wof:name":"Landkreis Tirschenreuth",
+    "wof:name":"Tirschenreuth",
     "wof:parent_id":404227545,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

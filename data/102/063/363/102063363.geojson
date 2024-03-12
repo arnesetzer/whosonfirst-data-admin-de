@@ -66,12 +66,6 @@
     "name:dan_x_preferred":[
         "Landkreis Freyung-Grafenau"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Freyung-Grafenau"
-    ],
-    "name:eng_x_preferred":[
-        "Freyung-Grafenau"
-    ],
     "name:epo_x_preferred":[
         "Distrikto Freyung-Grafenau"
     ],
@@ -244,7 +238,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"366d18795d5d030b26e1a370878e0f33",
+    "wof:geomhash":"7a8621dfcb20c83af466097f709ea127",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,7 +250,7 @@
     ],
     "wof:id":102063363,
     "wof:lastmodified":1695886603,
-    "wof:name":"Landkreis Freyung-Grafenau",
+    "wof:name":"Freyung-Grafenau",
     "wof:parent_id":404227559,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

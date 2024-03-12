@@ -69,12 +69,6 @@
     "name:dan_x_preferred":[
         "Landkreis Weilheim-Schongau"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Weilheim-Schongau"
-    ],
-    "name:eng_x_preferred":[
-        "Weilheim-Schongau"
-    ],
     "name:epo_x_preferred":[
         "distrikto Weilheim-Schongau"
     ],
@@ -241,7 +235,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"ee5493a8e468631a4ca432d17f434396",
+    "wof:geomhash":"7113dcf5073a046b17e62eedeba531f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +247,7 @@
     ],
     "wof:id":102063223,
     "wof:lastmodified":1695886593,
-    "wof:name":"Landkreis Weilheim-Schongau",
+    "wof:name":"Weilheim-Schongau",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

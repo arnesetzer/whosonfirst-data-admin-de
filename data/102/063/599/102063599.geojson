@@ -87,12 +87,6 @@
     "name:dan_x_preferred":[
         "Kulmbach"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Kulmbach"
-    ],
-    "name:eng_x_preferred":[
-        "Kulmbach"
-    ],
     "name:epo_x_preferred":[
         "Kulmbach"
     ],
@@ -268,7 +262,7 @@
     ],
     "wof:id":102063599,
     "wof:lastmodified":1695367084,
-    "wof:name":"Landkreis Kulmbach",
+    "wof:name":"Kulmbach",
     "wof:parent_id":404227583,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

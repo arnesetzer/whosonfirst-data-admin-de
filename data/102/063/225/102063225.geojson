@@ -78,12 +78,6 @@
     "name:dan_x_preferred":[
         "Landkreis Bad T\u00f6lz-Wolfratshausen"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Bad T\u00f6lz-Wolfratshausen"
-    ],
-    "name:eng_x_preferred":[
-        "Bad T\u00f6lz-Wolfratshausen"
-    ],
     "name:epo_x_preferred":[
         "Distrikto Bad T\u00f6lz-Wolfratshausen"
     ],
@@ -253,7 +247,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"018cf7427fbcb0a4f5923f3b64b17b2f",
+    "wof:geomhash":"4527cc8eb096191daa9133bd81244820",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -265,7 +259,7 @@
     ],
     "wof:id":102063225,
     "wof:lastmodified":1695886593,
-    "wof:name":"Landkreis Bad T\u00f6lz-Wolfratshausen",
+    "wof:name":"Bad T\u00f6lz-Wolfratshausen",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

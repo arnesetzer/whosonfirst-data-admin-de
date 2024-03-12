@@ -72,12 +72,6 @@
     "name:dan_x_preferred":[
         "Landkreis Erlangen-H\u00f6chstadt"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Erlangen-H\u00f6chstadt"
-    ],
-    "name:eng_x_preferred":[
-        "Erlangen-H\u00f6chstadt"
-    ],
     "name:epo_x_preferred":[
         "Distrikto Erlangen-H\u00f6chstadt"
     ],
@@ -247,7 +241,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"1ddb6437321c2250cfa7edf0d874ae73",
+    "wof:geomhash":"9e5e8bd93a702d0d64a55326a86940af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -259,7 +253,7 @@
     ],
     "wof:id":102063513,
     "wof:lastmodified":1695886611,
-    "wof:name":"Landkreis Erlangen-H\u00f6chstadt",
+    "wof:name":"Erlangen-H\u00f6chstadt",
     "wof:parent_id":404227565,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

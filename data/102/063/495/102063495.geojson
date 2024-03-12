@@ -25,13 +25,13 @@
     "geom:longitude":11.369117,
     "iso:country":"DE",
     "label:deu_x_preferred_longname":[
-        "N\u00fcrnberger Land"
+        "Landkreis N\u00fcrnberger Land"
     ],
     "label:deu_x_preferred_placetype":[
         "landkreis"
     ],
     "label:eng_x_preferred_longname":[
-        "N\u00fcrnberger Land"
+        "N\u00fcrnberger Land District"
     ],
     "label:eng_x_preferred_placetype":[
         "rural district"
@@ -68,12 +68,6 @@
     ],
     "name:dan_x_preferred":[
         "Landkreis N\u00fcrnberger Land"
-    ],
-    "name:deu_x_preferred":[
-        "Landkreis N\u00fcrnberger Land"
-    ],
-    "name:eng_x_preferred":[
-        "N\u00fcrnberger Land"
     ],
     "name:epo_x_preferred":[
         "Distrikto N\u00fcrnberger Land"
@@ -250,7 +244,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"458cc7b5de6fc3c04b212077532af386",
+    "wof:geomhash":"bd5e74176f4e2b08823332297fd5a8b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -262,7 +256,7 @@
     ],
     "wof:id":102063495,
     "wof:lastmodified":1695886610,
-    "wof:name":"Landkreis N\u00fcrnberger Land",
+    "wof:name":"N\u00fcrnberger Land",
     "wof:parent_id":404227565,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

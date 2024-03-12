@@ -87,17 +87,11 @@
     "name:dan_x_preferred":[
         "Schweinfurt"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Schweinfurt"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03b9\u03bd\u03c6\u03bf\u03c5\u03c1\u03c4"
     ],
     "name:ell_x_variant":[
         "\u03a3\u03b2\u03ac\u03b9\u03bd\u03c6\u03bf\u03c5\u03c1\u03c4"
-    ],
-    "name:eng_x_preferred":[
-        "Schweinfurt"
     ],
     "name:epo_x_preferred":[
         "Schweinfurt"
@@ -325,7 +319,7 @@
     ],
     "wof:id":102063587,
     "wof:lastmodified":1695367087,
-    "wof:name":"Landkreis Schweinfurt",
+    "wof:name":"Schweinfurt",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

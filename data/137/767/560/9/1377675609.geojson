@@ -25,16 +25,16 @@
     "geom:longitude":13.366663,
     "iso:country":"DE",
     "label:deu_x_preferred_longname":[
-        "Kreisfreie Stadt Passau"
+        "Landkreis Passau"
     ],
     "label:deu_x_preferred_placetype":[
-        "kreisfreie stadt"
+        "landkreis"
     ],
     "label:eng_x_preferred_longname":[
         "Passau"
     ],
     "label:eng_x_preferred_placetype":[
-        "district-free city"
+        "rural district"
     ],
     "lbl:latitude":48.460866,
     "lbl:longitude":13.288972,
@@ -90,14 +90,8 @@
     "name:dan_x_preferred":[
         "Passau"
     ],
-    "name:deu_x_preferred":[
-        "Passau"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03c3\u03c3\u03b1\u03bf\u03c5"
-    ],
-    "name:eng_x_preferred":[
-        "Passau"
     ],
     "name:epo_x_preferred":[
         "Passau"
@@ -328,7 +322,7 @@
     "wof:name":"Passau",
     "wof:parent_id":404227559,
     "wof:placetype":"county",
-    "wof:placetype_local":"district-free city",
+    "wof:placetype_local":"rural district",
     "wof:population":194090,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-de",

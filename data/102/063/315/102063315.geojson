@@ -66,12 +66,6 @@
     "name:dan_x_preferred":[
         "Landkreis Rottal-Inn"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Rottal-Inn"
-    ],
-    "name:eng_x_preferred":[
-        "Rottal-Inn"
-    ],
     "name:epo_x_preferred":[
         "Distrikto Rottal-Inn"
     ],
@@ -241,7 +235,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"f3f87e15ab5de6d2cd229510f0618eb0",
+    "wof:geomhash":"5ff85da8f7acf4213fe88c72cc2fa8da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,

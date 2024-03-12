@@ -72,12 +72,6 @@
     "name:dan_x_preferred":[
         "G\u00fcnzburg"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis G\u00fcnzburg"
-    ],
-    "name:eng_x_preferred":[
-        "G\u00fcnzburg"
-    ],
     "name:epo_x_preferred":[
         "G\u00fcnzburg"
     ],
@@ -236,7 +230,7 @@
     ],
     "wof:id":102063295,
     "wof:lastmodified":1695367088,
-    "wof:name":"Landkreis G\u00fcnzburg",
+    "wof:name":"G\u00fcnzburg",
     "wof:parent_id":404227547,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

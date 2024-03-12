@@ -81,14 +81,8 @@
     "name:dan_x_preferred":[
         "Starnberg"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Starnberg"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03ac\u03c1\u03bd\u03bc\u03c0\u03b5\u03c1\u03b3\u03ba"
-    ],
-    "name:eng_x_preferred":[
-        "Starnberg"
     ],
     "name:epo_x_preferred":[
         "Distrikto Starnberg"
@@ -304,7 +298,7 @@
     ],
     "wof:id":102063243,
     "wof:lastmodified":1695367079,
-    "wof:name":"Landkreis Starnberg",
+    "wof:name":"Starnberg",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

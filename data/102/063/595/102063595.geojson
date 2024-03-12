@@ -63,12 +63,6 @@
     "name:dan_x_preferred":[
         "Landkreis Main-Spessart"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Main-Spessart"
-    ],
-    "name:eng_x_preferred":[
-        "Main-Spessart"
-    ],
     "name:epo_x_preferred":[
         "Distrikto Main-Spessart"
     ],
@@ -262,7 +256,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"1a67d05400b8e63905132e2ffdadb10d",
+    "wof:geomhash":"d268a29997949db8a463f3e524fdd153",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -274,7 +268,7 @@
     ],
     "wof:id":102063595,
     "wof:lastmodified":1695886615,
-    "wof:name":"Landkreis Main-Spessart",
+    "wof:name":"Main-Spessart",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

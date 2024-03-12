@@ -57,12 +57,6 @@
     "name:dan_x_preferred":[
         "Landkreis M\u00fchldorf am Inn"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis M\u00fchldorf am Inn"
-    ],
-    "name:eng_x_preferred":[
-        "M\u00fchldorf am Inn"
-    ],
     "name:epo_x_preferred":[
         "Distrikto M\u00fchldorf am Inn"
     ],
@@ -143,7 +137,7 @@
     ],
     "wof:id":102063281,
     "wof:lastmodified":1695886598,
-    "wof:name":"Landkreis M\u00fchldorf a. Inn",
+    "wof:name":"M\u00fchldorf a. Inn",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

@@ -78,14 +78,8 @@
     "name:dan_x_preferred":[
         "Traunstein"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Traunstein"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03ac\u03bf\u03c5\u03bd\u03c3\u03c4\u03b1\u03ca\u03bd"
-    ],
-    "name:eng_x_preferred":[
-        "Traunstein"
     ],
     "name:epo_x_preferred":[
         "Traunstein"
@@ -277,7 +271,7 @@
     ],
     "wof:id":102063251,
     "wof:lastmodified":1695367079,
-    "wof:name":"Landkreis Traunstein",
+    "wof:name":"Traunstein",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

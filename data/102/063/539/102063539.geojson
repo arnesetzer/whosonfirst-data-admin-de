@@ -60,12 +60,6 @@
     "name:dan_x_preferred":[
         "Miltenberg"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Miltenberg"
-    ],
-    "name:eng_x_preferred":[
-        "Miltenberg"
-    ],
     "name:epo_x_preferred":[
         "Miltenberg"
     ],
@@ -212,7 +206,7 @@
     ],
     "wof:id":102063539,
     "wof:lastmodified":1695367087,
-    "wof:name":"Landkreis Miltenberg",
+    "wof:name":"Miltenberg",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

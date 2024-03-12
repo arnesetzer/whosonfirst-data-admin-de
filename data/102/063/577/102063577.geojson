@@ -25,16 +25,16 @@
     "geom:longitude":9.238477,
     "iso:country":"DE",
     "label:deu_x_preferred_longname":[
-        "Kreisfreie Stadt Aschaffenburg"
+        "Landkreis Aschaffenburg"
     ],
     "label:deu_x_preferred_placetype":[
-        "kreisfreie stadt"
+        "landkreis"
     ],
     "label:eng_x_preferred_longname":[
-        "Aschaffenburg"
+        "Aschaffenburg District"
     ],
     "label:eng_x_preferred_placetype":[
-        "district-free city"
+        "rural district"
     ],
     "lbl:latitude":50.038747,
     "lbl:longitude":9.277021,
@@ -99,14 +99,8 @@
     "name:dan_x_preferred":[
         "Aschaffenburg"
     ],
-    "name:deu_x_preferred":[
-        "Aschaffenburg"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03ac\u03c6\u03b5\u03bd\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
-    ],
-    "name:eng_x_preferred":[
-        "Aschaffenburg"
     ],
     "name:epo_x_preferred":[
         "Aschaffenburg"
@@ -433,7 +427,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"56c600d053e7654c3e5df1f6e47eb3b3",
+    "wof:geomhash":"fbd3c61cc643519b88665e10fc59c609",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -448,7 +442,7 @@
     "wof:name":"Aschaffenburg",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
-    "wof:placetype_local":"district-free city",
+    "wof:placetype_local":"rural district",
     "wof:population":174965,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-de",

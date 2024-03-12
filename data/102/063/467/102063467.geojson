@@ -99,9 +99,6 @@
     "name:dan_x_preferred":[
         "F\u00fcrth"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis F\u00fcrth"
-    ],
     "name:diq_x_preferred":[
         "F\u00fcrth"
     ],
@@ -110,9 +107,6 @@
     ],
     "name:ell_x_variant":[
         "\u03a6\u03c5\u03c1\u03c4"
-    ],
-    "name:eng_x_preferred":[
-        "F\u00fcrth"
     ],
     "name:epo_x_preferred":[
         "F\u00fcrth"
@@ -400,7 +394,7 @@
     ],
     "wof:id":102063467,
     "wof:lastmodified":1695367086,
-    "wof:name":"Landkreis F\u00fcrth",
+    "wof:name":"F\u00fcrth",
     "wof:parent_id":404227565,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

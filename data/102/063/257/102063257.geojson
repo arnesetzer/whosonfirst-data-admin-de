@@ -87,14 +87,8 @@
     "name:dan_x_preferred":[
         "Landsberg am Lech"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Landsberg am Lech"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03ac\u03bd\u03c4\u03c3\u03bc\u03c0\u03b5\u03c1\u03b3\u03ba \u03b1\u03bc \u039b\u03b5\u03c7"
-    ],
-    "name:eng_x_preferred":[
-        "Landsberg am Lech"
     ],
     "name:epo_x_preferred":[
         "Landsberg am Lech"
@@ -313,7 +307,7 @@
     ],
     "wof:id":102063257,
     "wof:lastmodified":1695367078,
-    "wof:name":"Landkreis Landsberg am Lech",
+    "wof:name":"Landsberg am Lech",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

@@ -93,14 +93,8 @@
     "name:dan_x_preferred":[
         "Neu-Ulm"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Neu-Ulm"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03cc\u03b9-\u039f\u03c5\u03bb\u03bc"
-    ],
-    "name:eng_x_preferred":[
-        "Neu-Ulm"
     ],
     "name:epo_x_preferred":[
         "Neu-Ulm"
@@ -409,7 +403,7 @@
     ],
     "wof:id":102063293,
     "wof:lastmodified":1695367088,
-    "wof:name":"Landkreis Neu-Ulm",
+    "wof:name":"Neu-Ulm",
     "wof:parent_id":404227547,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

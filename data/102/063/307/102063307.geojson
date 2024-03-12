@@ -90,14 +90,8 @@
     "name:dan_x_preferred":[
         "Freising"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Freising"
-    ],
     "name:ell_x_preferred":[
         "\u03a6\u03c1\u03ac\u03b9\u03b6\u03b9\u03bd\u03b3\u03ba"
-    ],
-    "name:eng_x_preferred":[
-        "Freising"
     ],
     "name:epo_x_preferred":[
         "Freising"
@@ -418,7 +412,7 @@
     ],
     "wof:id":102063307,
     "wof:lastmodified":1695367078,
-    "wof:name":"Landkreis Freising",
+    "wof:name":"Freising",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

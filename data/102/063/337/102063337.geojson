@@ -72,12 +72,6 @@
     "name:dan_x_preferred":[
         "Landkreis Neuburg-Schrobenhausen"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Neuburg-Schrobenhausen"
-    ],
-    "name:eng_x_preferred":[
-        "Neuburg-Schrobenhausen"
-    ],
     "name:epo_x_preferred":[
         "Distrikto Neuburg-Schrobenhausen"
     ],
@@ -259,7 +253,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"df319c56ac1abf3626bda891d7789151",
+    "wof:geomhash":"53ce8b500e1aa6813331d44d24fbc38a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -271,7 +265,7 @@
     ],
     "wof:id":102063337,
     "wof:lastmodified":1695886602,
-    "wof:name":"Landkreis Neuburg-Schrobenhausen",
+    "wof:name":"Neuburg-Schrobenhausen",
     "wof:parent_id":404227567,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",

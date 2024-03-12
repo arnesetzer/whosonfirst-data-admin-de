@@ -60,12 +60,6 @@
     "name:dan_x_preferred":[
         "Landkreis Rh\u00f6n-Grabfeld"
     ],
-    "name:deu_x_preferred":[
-        "Landkreis Rh\u00f6n-Grabfeld"
-    ],
-    "name:eng_x_preferred":[
-        "Rh\u00f6n-Grabfeld"
-    ],
     "name:epo_x_preferred":[
         "Distrikto Rh\u00f6n-Grabfeld"
     ],
@@ -238,7 +232,7 @@
     "wof:geom_alt":[
         "de-bkg"
     ],
-    "wof:geomhash":"a2e7acb8842e0c28d4b8eeb8b75c645e",
+    "wof:geomhash":"048393d5469c5ccbfe465b3b820ddcae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -250,7 +244,7 @@
     ],
     "wof:id":102063641,
     "wof:lastmodified":1695886619,
-    "wof:name":"Landkreis Rh\u00f6n-Grabfeld",
+    "wof:name":"Rh\u00f6n-Grabfeld",
     "wof:parent_id":404227569,
     "wof:placetype":"county",
     "wof:placetype_local":"rural district",
