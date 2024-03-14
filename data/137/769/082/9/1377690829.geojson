@@ -25,11 +25,11 @@
     "de-bkg:wsk":"1978/05/01",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.01536,
-    "geom:area_square_m":121001110.161959,
-    "geom:bbox":"10.209398076,50.3625252372,10.4387875732,50.4982057399",
-    "geom:latitude":50.423919,
-    "geom:longitude":10.314235,
+    "geom:area":0.020574,
+    "geom:area_square_m":162659888.042960,
+    "geom:bbox":"10.116601,50.35026,10.438749,50.498253",
+    "geom:latitude":50.416489,
+    "geom:longitude":10.279358,
     "iso:country":"DE",
     "label:deu_x_preferred_placetype":[
         "Verwaltungsgemeinschaft"
@@ -40,12 +40,12 @@
     "label:fra_x_preferred_placetype":[
         "commune"
     ],
-    "lbl:latitude":50.421693,
-    "lbl:longitude":10.315954,
+    "lbl:latitude":50.426411,
+    "lbl:longitude":10.308615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":50.42641,
-    "mps:longitude":10.308611,
+    "mps:latitude":50.426411,
+    "mps:longitude":10.308615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -153,7 +153,7 @@
     },
     "wof:concordances_official":"de-bkg:id",
     "wof:country":"DE",
-    "wof:geomhash":"b8fb1d80cb00f9753701d79216392f3c",
+    "wof:geomhash":"d4c5b024e1d5cb7692ca9f6fffe5fca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +171,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1695878986,
+    "wof:lastmodified":1710269461,
     "wof:name":"Mellrichstadt",
     "wof:parent_id":102063641,
     "wof:placetype":"localadmin",
