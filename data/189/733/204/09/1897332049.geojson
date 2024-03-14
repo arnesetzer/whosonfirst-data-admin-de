@@ -1,5 +1,5 @@
 {
-  "id": 101783163,
+  "id": 1897332049,
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
@@ -94,7 +94,6 @@
         102191581,
         85633111,
         102063365,
-        1897332049,
         404227547,
         85682571
     ],
@@ -107,10 +106,10 @@
         "ldbv:SCH":9779201,
         "qs_pg:id":1038686
     },
-    "wof:country":"DE",
     "wof:coterminous":[
-        1897332049
+        101783163
     ],
+    "wof:country":"DE",
     "wof:geom_alt":[
         "de-bkg"
     ],
@@ -121,24 +120,20 @@
             "country_id":85633111,
             "county_id":102063365,
             "localadmin_id":1897332049,
-            "locality_id":101783163,
             "macrocounty_id":404227547,
             "region_id":85682571
         }
     ],
-    "wof:id":101783163,
+    "wof:id":1897332049,
     "wof:lastmodified":1710450541,
     "wof:name":"Rain",
-    "wof:parent_id":1897332049,
-    "wof:placetype":"locality",
+    "wof:parent_id":1377693437,
+    "wof:placetype":"localadmin",
     "wof:population":8891,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[
-        1125383755,
-        1125321911
-    ],
+    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
