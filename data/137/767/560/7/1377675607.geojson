@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated": "2024-02-10"
+    "edtf:deprecated": "2024-02-10",
     "edtf:inception":"uuuu",
     "eurostat:coast_type":"3",
     "eurostat:country_code":"DE",
