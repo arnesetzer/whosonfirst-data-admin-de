@@ -7,21 +7,21 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.880313,49.473821,10.880313,49.473821",
-    "geom:latitude":49.473821,
-    "geom:longitude":10.880313,
+    "geom:bbox":"10.880313,49.488333,10.880313,49.488333",
+    "geom:latitude":49.488333,
+    "geom:longitude":10.925,
     "gn:country":"DE",
     "gn:fcode":"PPLX",
     "gn:population":0,
     "iso:country":"DE",
-    "lbl:bbox":"10.875313,49.468821,10.885313,49.478821",
-    "lbl:latitude":49.473821,
-    "lbl:longitude":10.880313,
+    "lbl:bbox":"10.925,49.488333,10.925,49.488333",
+    "lbl:latitude":49.488333,
+    "lbl:longitude":10.925,
     "lbl:max_zoom":18.0,
-    "mps:latitude":49.489142,
-    "mps:longitude":10.922069,
+    "mps:latitude":49.488333,
+    "mps:longitude":10.925,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -75,19 +75,19 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424829,
     "qs_pg:woe_id":642547,
-    "src:geom":"mz",
+    "src:geom":"wk",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"wk",
     "wof:belongsto":[
+        85682571,
         102191581,
         85633111,
-        1377689347,
+        1377688855,
         404227565,
-        101826745,
-        102063467,
-        85682571
+        102063463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,16 +97,17 @@
     },
     "wof:country":"DE",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"4cfd85c9dc2463b9998c6d7120fbb2fb",
+    "wof:geomhash":"28b1cee244fec5eae5df75ccf2c48e6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633111,
-            "county_id":102063467,
-            "localadmin_id":1377689347,
-            "locality_id":101826745,
+            "county_id":102063463,
+            "localadmin_id":1377688855,
+            "locality_id":101748545,
             "macrocounty_id":404227565,
             "neighbourhood_id":85899063,
             "region_id":85682571
@@ -116,9 +117,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1582341996,
+    "wof:lastmodified":1710942845,
     "wof:name":"Burgfarrnbach",
-    "wof:parent_id":101826745,
+    "wof:parent_id":101748545,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-de",
     "wof:superseded_by":[],
@@ -128,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.880313,
-    49.473821,
-    10.880313,
-    49.473821
+    10.925,
+    49.488333,
+    10.925,
+    49.488333
 ],
-  "geometry": {"coordinates":[10.880313,49.473821],"type":"Point"}
+  "geometry": {"coordinates":[10.925,49.488333],"type":"Point"}
 }
