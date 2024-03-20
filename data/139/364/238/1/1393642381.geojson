@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -67,7 +68,7 @@
     ],
     "wof:id":1393642381,
     "wof:lastmodified":1625176389,
-    "wof:name":"Grunthal",
+    "wof:name":"Gr\u00fcnthal",
     "wof:parent_id":101787737,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-de",

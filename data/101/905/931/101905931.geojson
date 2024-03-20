@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "eurostat:country_code":"DE",
     "eurostat:gisco_id":"DE_09571136",

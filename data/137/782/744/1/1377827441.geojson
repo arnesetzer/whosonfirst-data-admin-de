@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1377827441,
-    "wof:lastmodified":1566718090,
+    "wof:lastmodified":1710942845,
     "wof:name":"Vorder\u00f6d",
     "wof:parent_id":101781967,
     "wof:placetype":"neighbourhood",

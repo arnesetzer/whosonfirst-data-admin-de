@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -72,9 +73,9 @@
         }
     ],
     "wof:id":1377812321,
-    "wof:lastmodified":1566719134,
+    "wof:lastmodified":1710942845,
     "wof:name":"Zech",
-    "wof:parent_id":-1,
+    "wof:parent_id":101828611,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-de",
     "wof:superseded_by":[],
