@@ -350,10 +350,10 @@
     "wof:belongsto":[
         102191581,
         85633111,
-        102063549,
-        1377693209,
-        404227581,
-        85682531
+        102063577,
+        1377690377,
+        404227569,
+        85682571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -374,17 +374,17 @@
         {
             "continent_id":102191581,
             "country_id":85633111,
-            "county_id":102063549,
-            "localadmin_id":1377693209,
+            "county_id":102063577,
+            "localadmin_id":1377690377,
             "locality_id":101906951,
-            "macrocounty_id":404227581,
-            "region_id":85682531
+            "macrocounty_id":404227569,
+            "region_id":85682571
         }
     ],
     "wof:id":101906951,
-    "wof:lastmodified":1695367044,
+    "wof:lastmodified":1710942845,
     "wof:name":"Gro\u00dfostheim",
-    "wof:parent_id":1377693209,
+    "wof:parent_id":1377690377,
     "wof:placetype":"locality",
     "wof:population":16365,
     "wof:population_rank":6,

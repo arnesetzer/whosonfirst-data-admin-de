@@ -31,7 +31,7 @@
         "kreisfreie stadt"
     ],
     "label:eng_x_preferred_longname":[
-        "Regensburg Kreisfreie Stadt"
+        "Regensburg"
     ],
     "label:eng_x_preferred_placetype":[
         "district-free city"
@@ -306,7 +306,9 @@
         404227545,
         85682571
     ],
-    "wof:breaches":[],
+    "wof:breaches":[
+        1377675605
+    ],
     "wof:concordances":{
         "eurostat:nuts_2021_id":"DE232",
         "ldbv:SCH":9362
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1695886650,
+    "wof:lastmodified":1710942845,
     "wof:name":"Regensburg",
     "wof:parent_id":404227545,
     "wof:placetype":"county",
@@ -341,7 +343,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377675607
+    ],
     "wof:tags":[]
 },
   "bbox": [
