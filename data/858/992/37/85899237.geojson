@@ -45,10 +45,10 @@
         "Hafen Nurnberg"
     ],
     "name:deu_x_preferred":[
-        "Main-Donau-Kanal"
+        "Hafen N\u00fcrnberg"
     ],
     "name:deu_x_variant":[
-        "Hafen N\u00fcrnberg"
+        "Main-Donau-Kanal"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u03a1\u03ae\u03bd\u03bf\u03c5-\u039c\u03ac\u03b9\u03bd-\u0394\u03bf\u03cd\u03bd\u03b1\u03b2\u03b7"
@@ -101,10 +101,10 @@
     "wof:belongsto":[
         102191581,
         85633111,
-        1377690117,
-        404227565,
+        102063461,
+        1377688863,
         101905935,
-        102063425,
+        404227565,
         85682571
     ],
     "wof:breaches":[],
@@ -122,8 +122,8 @@
         {
             "continent_id":102191581,
             "country_id":85633111,
-            "county_id":102063425,
-            "localadmin_id":1377690117,
+            "county_id":102063461,
+            "localadmin_id":1377688863,
             "locality_id":101905935,
             "macrocounty_id":404227565,
             "neighbourhood_id":85899237,
@@ -134,8 +134,8 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1582342002,
-    "wof:name":"Nuremburg Harbor",
+    "wof:lastmodified":1710942845,
+    "wof:name":"Hafen N\u00fcrnberg",
     "wof:parent_id":101905935,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-de",
