@@ -50,10 +50,10 @@
     "wof:belongsto":[
         102191581,
         85633111,
-        1377689145,
-        404227565,
+        102063487,
+        1377688845,
         101910073,
-        102063513,
+        404227565,
         85682571
     ],
     "wof:breaches":[],
@@ -69,8 +69,8 @@
         {
             "continent_id":102191581,
             "country_id":85633111,
-            "county_id":102063513,
-            "localadmin_id":1377689145,
+            "county_id":102063487,
+            "localadmin_id":1377688845,
             "locality_id":101910073,
             "macrocounty_id":404227565,
             "neighbourhood_id":1377790145,
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1377790145,
-    "wof:lastmodified":1566718273,
+    "wof:lastmodified":1711174694,
     "wof:name":"Schallershof",
     "wof:parent_id":101910073,
     "wof:placetype":"neighbourhood",
