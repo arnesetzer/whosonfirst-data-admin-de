@@ -53,7 +53,7 @@
         102191581,
         85633111,
         102063243,
-        1377694425,
+        1377694353,
         101786455,
         404227567,
         85682571
@@ -72,7 +72,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063243,
-            "localadmin_id":1377694425,
+            "localadmin_id":1377694353,
             "locality_id":101786455,
             "macrocounty_id":404227567,
             "neighbourhood_id":1377805333,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1377805333,
-    "wof:lastmodified":1622669733,
+    "wof:lastmodified":1711323027,
     "wof:name":"Neugilching",
     "wof:parent_id":101786455,
     "wof:placetype":"neighbourhood",

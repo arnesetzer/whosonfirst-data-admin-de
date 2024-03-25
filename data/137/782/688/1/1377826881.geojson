@@ -250,10 +250,10 @@
     "wof:belongsto":[
         102191581,
         85633111,
-        1377694425,
-        404227567,
-        101786455,
         102063243,
+        1377694353,
+        101786455,
+        404227567,
         85682571
     ],
     "wof:breaches":[],
@@ -271,7 +271,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063243,
-            "localadmin_id":1377694425,
+            "localadmin_id":1377694353,
             "locality_id":101786455,
             "macrocounty_id":404227567,
             "neighbourhood_id":1377826881,
@@ -279,8 +279,8 @@
         }
     ],
     "wof:id":1377826881,
-    "wof:lastmodified":1566717900,
-    "wof:name":"Eisbrunn",
+    "wof:lastmodified":1711323027,
+    "wof:name":"Geisenbrunn",
     "wof:parent_id":101786455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-de",

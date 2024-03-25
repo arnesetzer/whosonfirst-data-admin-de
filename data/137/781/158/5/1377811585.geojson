@@ -46,10 +46,10 @@
     "wof:belongsto":[
         102191581,
         85633111,
-        1377693437,
-        404227547,
-        101783163,
         102063365,
+        1897332049,
+        101783163,
+        404227547,
         85682571
     ],
     "wof:breaches":[],
@@ -66,7 +66,7 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063365,
-            "localadmin_id":1377693437,
+            "localadmin_id":1897332049,
             "locality_id":101783163,
             "macrocounty_id":404227547,
             "neighbourhood_id":1377811585,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1377811585,
-    "wof:lastmodified":1566719079,
+    "wof:lastmodified":1710942845,
     "wof:name":"Bayerdilling",
     "wof:parent_id":101783163,
     "wof:placetype":"neighbourhood",

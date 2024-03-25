@@ -48,11 +48,11 @@
     "wof:belongsto":[
         102191581,
         85633111,
-        1377693209,
-        404227581,
+        102063577,
+        1377690377,
         101906951,
-        102063549,
-        85682531
+        404227569,
+        85682571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,16 +67,16 @@
         {
             "continent_id":102191581,
             "country_id":85633111,
-            "county_id":102063549,
-            "localadmin_id":1377693209,
+            "county_id":102063577,
+            "localadmin_id":1377690377,
             "locality_id":101906951,
-            "macrocounty_id":404227581,
+            "macrocounty_id":404227569,
             "neighbourhood_id":1393590963,
-            "region_id":85682531
+            "region_id":85682571
         }
     ],
     "wof:id":1393590963,
-    "wof:lastmodified":1566714919,
+    "wof:lastmodified":1711323027,
     "wof:name":"Ringheim",
     "wof:parent_id":101906951,
     "wof:placetype":"neighbourhood",
