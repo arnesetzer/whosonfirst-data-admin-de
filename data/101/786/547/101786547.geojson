@@ -44,7 +44,7 @@
         "\u0410\u043c\u0431\u0435\u0440\u0433"
     ],
     "name:deu_x_preferred":[
-        "Amberg"
+        "Amberg (Schwaben)"
     ],
     "name:eng_x_preferred":[
         "Amberg"
@@ -220,7 +220,7 @@
     ],
     "wof:id":101786547,
     "wof:lastmodified":1695367070,
-    "wof:name":"Amberg",
+    "wof:name":"Amberg (Schwaben)",
     "wof:parent_id":1377693239,
     "wof:placetype":"locality",
     "wof:population":1473,
