@@ -1,1 +1,165 @@
-{"id": 1393624763, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.15682,49.07148,10.15682,49.07148", "geom:latitude": 49.07148, "geom:longitude": 10.15682, "gn:admin1_code": "1", "gn:admin2_code": "81.0", "gn:admin3_code": "8127.0", "gn:admin4_code": "8127104.0", "gn:asciiname": "Steinbach am Wald", "gn:country_code": "DE", "gn:dem": 495, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2828736, "gn:latitude": 49.07148, "gn:longitude": 10.15682, "gn:modification_date": "2013-02-15", "gn:name": "Steinbach am Wald", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.15182,49.06648,10.16182,49.07648", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ara_x_preferred": ["\u0634\u062a\u0622\u064a\u0646\u0628\u0622\u062e \u0623\u0645 \u0641\u0622\u0644\u062f"], "name:dan_x_preferred": ["Steinbach am Wald"], "name:deu_x_preferred": ["Steinbach am Wald"], "name:epo_x_preferred": ["Steinbach am Wald"], "name:eus_x_preferred": ["Steinbach am Wald"], "name:fas_x_preferred": ["\u0634\u062a\u0627\u06cc\u0646\u0628\u0627\u062e \u0627\u0645 \u0648\u0627\u0644\u062f"], "name:fra_x_preferred": ["Steinbach am Wald"], "name:hun_x_preferred": ["Steinbach am Wald"], "name:hye_x_preferred": ["\u054e\u0561\u056c\u0564\u056b \u0547\u0569\u0561\u0575\u0576\u0562\u0561\u056d"], "name:ita_x_preferred": ["Steinbach am Wald"], "name:jpn_x_preferred": ["\u30b7\u30e5\u30bf\u30a4\u30f3\u30d0\u30c3\u30cf\u30fb\u30a2\u30e0\u30fb\u30f4\u30a1\u30eb\u30c8"], "name:kaz_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0412\u0430\u043b\u044c\u0434"], "name:kir_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0412\u0430\u043b\u044c\u0434"], "name:lmo_x_preferred": ["Steinbach am Wald"], "name:msa_x_preferred": ["Steinbach am Wald"], "name:nld_x_preferred": ["Steinbach am Wald"], "name:pol_x_preferred": ["Steinbach am Wald"], "name:por_x_preferred": ["Steinbach"], "name:ron_x_preferred": ["Steinbach am Wald"], "name:rus_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0412\u0430\u043b\u044c\u0434"], "name:spa_x_preferred": ["Steinbach am Wald"], "name:srp_x_preferred": ["\u0428\u0442\u0430\u0458\u043d\u0431\u0430\u0445 \u0430\u043c \u0412\u0430\u043b\u0434"], "name:ukr_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0412\u0430\u043b\u044c\u0434"], "name:uzb_x_preferred": ["Steinbach am Wald"], "name:vie_x_preferred": ["Steinbach am Wald"], "name:vol_x_preferred": ["Steinbach am Wald"], "name:war_x_preferred": ["Steinbach am Wald"], "name:zho_x_preferred": ["\u6797\u5c71\u9e93\u65bd\u6cf0\u56e0\u5df4\u8d6b"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377687853, 404227549, 101760915, 102063423, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 2828736}, "wof:country": "DE", "wof:geomhash": "975abf7f632d9d4c91bef7bece66325f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063423, "localadmin_id": 1377687853, "locality_id": 101760915, "macrocounty_id": 404227549, "neighbourhood_id": 1393624763, "region_id": 85682567}], "wof:id": 1393624763, "wof:lastmodified": 1566713662, "wof:name": "Steinbach am Wald", "wof:parent_id": 101760915, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1310015183], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.15682, 49.07148, 10.15682, 49.07148], "geometry": {"coordinates": [10.15682, 49.07148], "type": "Point"}}
+{
+  "id": 1393624763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15682,49.07148,10.15682,49.07148",
+    "geom:latitude":49.07148,
+    "geom:longitude":10.15682,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8127.0",
+    "gn:admin4_code":"8127104.0",
+    "gn:asciiname":"Steinbach am Wald",
+    "gn:country_code":"DE",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2828736,
+    "gn:latitude":49.07148,
+    "gn:longitude":10.15682,
+    "gn:modification_date":"2013-02-15",
+    "gn:name":"Steinbach am Wald",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.15182,49.06648,10.16182,49.07648",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0634\u062a\u0622\u064a\u0646\u0628\u0622\u062e \u0623\u0645 \u0641\u0622\u0644\u062f"
+    ],
+    "name:dan_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:deu_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:epo_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:eus_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u062a\u0627\u06cc\u0646\u0628\u0627\u062e \u0627\u0645 \u0648\u0627\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:hun_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u056c\u0564\u056b \u0547\u0569\u0561\u0575\u0576\u0562\u0561\u056d"
+    ],
+    "name:ita_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30bf\u30a4\u30f3\u30d0\u30c3\u30cf\u30fb\u30a2\u30e0\u30fb\u30f4\u30a1\u30eb\u30c8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0412\u0430\u043b\u044c\u0434"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0412\u0430\u043b\u044c\u0434"
+    ],
+    "name:lmo_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:msa_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:nld_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:pol_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:por_x_preferred":[
+        "Steinbach"
+    ],
+    "name:ron_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0412\u0430\u043b\u044c\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0430\u0458\u043d\u0431\u0430\u0445 \u0430\u043c \u0412\u0430\u043b\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0412\u0430\u043b\u044c\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:vie_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:vol_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:war_x_preferred":[
+        "Steinbach am Wald"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u5c71\u9e93\u65bd\u6cf0\u56e0\u5df4\u8d6b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377687853,
+        404227549,
+        101760915,
+        102063423,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2828736
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"975abf7f632d9d4c91bef7bece66325f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063423,
+            "localadmin_id":1377687853,
+            "locality_id":101760915,
+            "macrocounty_id":404227549,
+            "neighbourhood_id":1393624763,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1393624763,
+    "wof:lastmodified":1566713662,
+    "wof:name":"Steinbach am Wald",
+    "wof:parent_id":101760915,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310015183
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15682,
+    49.07148,
+    10.15682,
+    49.07148
+],
+  "geometry": {"coordinates":[10.15682,49.07148],"type":"Point"}
+}

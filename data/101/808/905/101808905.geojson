@@ -1,1 +1,394 @@
-{"id": 101808905, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_03159002", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Grund (Harz)", "eurostat:nuts_2021_id": "03159002", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE9", "eurostat:nuts_2021_level_2": "DE91", "eurostat:nuts_2021_level_3": "DE91C", "eurostat:nuts_2021_level_lau": "03159002", "eurostat:population": 8238, "eurostat:population_year": 2020, "geom:area": 0.005395, "geom:area_square_m": 41268241.875527, "geom:bbox": "10.141912,51.751244,10.263467,51.833177", "geom:latitude": 51.788658, "geom:longitude": 10.200868, "gn:country": "DE", "gn:elevation": 295, "gn:fcode": "ADM4", "gn:population": 2393, "iso:country": "DE", "lbl:latitude": 51.807434, "lbl:longitude": 10.234191, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 51.807434, "mps:longitude": 10.234191, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Grund"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u063a\u0631\u0648\u0646\u062f"], "name:arg_x_preferred": ["Bad Grund"], "name:ast_x_preferred": ["Bad Grund"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0642\u0631\u0648\u0646\u062f"], "name:bar_x_preferred": ["Bad Grund"], "name:bre_x_preferred": ["Bad Grund"], "name:cat_x_preferred": ["Bad Grund"], "name:ceb_x_preferred": ["Bad Grund"], "name:ces_x_preferred": ["Bad Grund"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"], "name:cos_x_preferred": ["Bad Grund"], "name:cym_x_preferred": ["Bad Grund"], "name:dan_x_preferred": ["Bad Grund"], "name:deu_x_preferred": ["Bad Grund (Harz)"], "name:deu_x_variant": ["Bad Grund (harz)", "Bad Grund Harz", "Bad Grund"], "name:eng_x_preferred": ["Bad Grund"], "name:epo_x_preferred": ["Bad Grund"], "name:est_x_preferred": ["Bad Grund"], "name:eus_x_preferred": ["Bad Grund"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u06af\u0631\u0648\u0646\u062f"], "name:fin_x_preferred": ["Bad Grund"], "name:fra_x_preferred": ["Bad Grund"], "name:frp_x_preferred": ["Bad Grund"], "name:fur_x_preferred": ["Bad Grund"], "name:gla_x_preferred": ["Bad Grund"], "name:gle_x_preferred": ["Bad Grund"], "name:glg_x_preferred": ["Bad Grund"], "name:gsw_x_preferred": ["Bad Grund"], "name:hrv_x_preferred": ["Bad Grund"], "name:hun_x_preferred": ["Bad Grund"], "name:ido_x_preferred": ["Bad Grund"], "name:ile_x_preferred": ["Bad Grund"], "name:ina_x_preferred": ["Bad Grund"], "name:ind_x_preferred": ["Bad Grund"], "name:isl_x_preferred": ["Bad Grund"], "name:ita_x_preferred": ["Bad Grund"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30b0\u30eb\u30f3\u30c8"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"], "name:kon_x_preferred": ["Bad Grund"], "name:lat_x_preferred": ["Bad Grund"], "name:lij_x_preferred": ["Bad Grund"], "name:lim_x_preferred": ["Bad Grund"], "name:lld_x_preferred": ["Bad Grund"], "name:ltz_x_preferred": ["Bad Grund"], "name:min_x_preferred": ["Bad Grund"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0413\u0440\u0443\u043d\u0434"], "name:mlg_x_preferred": ["Bad Grund"], "name:msa_x_preferred": ["Bad Grund"], "name:nap_x_preferred": ["Bad Grund"], "name:nds_x_preferred": ["Bad Grund"], "name:nld_x_preferred": ["Bad Grund"], "name:nno_x_preferred": ["Bad Grund"], "name:nob_x_preferred": ["Bad Grund"], "name:nrm_x_preferred": ["Bad Grund"], "name:oci_x_preferred": ["Bad Grund"], "name:pcd_x_preferred": ["Bad Grund"], "name:pms_x_preferred": ["Bad Grund"], "name:pol_x_preferred": ["Bad Grund"], "name:por_x_preferred": ["Bad Grund"], "name:roh_x_preferred": ["Bad Grund"], "name:ron_x_preferred": ["Bad Grund"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"], "name:scn_x_preferred": ["Bad Grund"], "name:sco_x_preferred": ["Bad Grund"], "name:slk_x_preferred": ["Bad Grund"], "name:slv_x_preferred": ["Bad Grund"], "name:spa_x_preferred": ["Bad Grund"], "name:srd_x_preferred": ["Bad Grund"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0413\u0440\u0443\u043d\u0434"], "name:swa_x_preferred": ["Bad Grund"], "name:swe_x_preferred": ["Bad Grund"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"], "name:tur_x_preferred": ["Bad Grund"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"], "name:uzb_x_preferred": ["Bad Grund"], "name:vec_x_preferred": ["Bad Grund"], "name:vie_x_preferred": ["Bad Grund"], "name:vls_x_preferred": ["Bad Grund"], "name:vol_x_preferred": ["Bad Grund"], "name:war_x_preferred": ["Bad Grund"], "name:wln_x_preferred": ["Bad Grund"], "name:wol_x_preferred": ["Bad Grund"], "name:zho_x_preferred": ["\u5df4\u7279\u683c\u4f26\u5fb7"], "name:zho_x_variant": ["\u5df4\u5fb7\u683c\u4f26\u5fb7"], "name:zul_x_preferred": ["Bad Grund"], "nav:latitude": 51.807434, "nav:longitude": 10.234191, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "Osterode am Harz", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Gittelde", "qs:la_lc": "*DE03015601007", "qs:level": "locality", "qs:loc": "Bad Grund (Harz)", "qs:loc_alt": "Bad Grund (Harz)", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558864, "qs_pg:gn_pop": 2393, "qs_pg:name": "Bad Grund (Harz), Bergstadt", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 638895, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682555, 102191581, 1377685023, 85633111, 1377675563], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_03159002", "eurostat:nuts_2021_id": "03159002", "fct:id": "0736c67c-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2953451, "gp:id": 636429, "loc:id": "n2007078731", "qs_pg:id": 785636, "wd:id": "Q537885", "wk:page": "Bad Grund"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "d9a03f275cae42d2e309020c04363e2b", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675563, "localadmin_id": 1377685023, "locality_id": 101808905, "region_id": 85682555}], "wof:id": 101808905, "wof:lang": ["ger"], "wof:lastmodified": 1690873624, "wof:name": "Bad Grund (Harz)", "wof:parent_id": 1377685023, "wof:placetype": "locality", "wof:population": 8238, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125315951], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.141912, 51.751244, 10.263467, 51.833177], "geometry": {"coordinates": [[[[10.255214, 51.822168], [10.255806, 51.819122], [10.255238, 51.817693], [10.255758, 51.815324], [10.254269, 51.814152], [10.251299, 51.813192], [10.248371, 51.812547], [10.249594, 51.811884], [10.249947, 51.810949], [10.250342, 51.810455], [10.254524, 51.810014], [10.256412, 51.809703], [10.258137, 51.80995], [10.259164, 51.810635], [10.260045, 51.811447], [10.261813, 51.811927], [10.263467, 51.812002], [10.261283, 51.807842], [10.261128, 51.804243], [10.257951, 51.806765], [10.244431, 51.803453], [10.244265, 51.802004], [10.240546, 51.800143], [10.241525, 51.79894], [10.238818, 51.795112], [10.235369, 51.794626], [10.234333, 51.793916], [10.233338, 51.792265], [10.231791, 51.787876], [10.230882, 51.786843], [10.228977, 51.785601], [10.22765, 51.784927], [10.231025, 51.783444], [10.230458, 51.781193], [10.231576, 51.778524], [10.229235, 51.777089], [10.230746, 51.776588], [10.243531, 51.777687], [10.243397, 51.773072], [10.243238, 51.773054], [10.242122, 51.772961], [10.240759, 51.772895], [10.240324, 51.772867], [10.240092, 51.772867], [10.239628, 51.772875], [10.239266, 51.772892], [10.238192, 51.772926], [10.23712, 51.772887], [10.236207, 51.772759], [10.235483, 51.772542], [10.235122, 51.772334], [10.234977, 51.772253], [10.234747, 51.771883], [10.234519, 51.771253], [10.234307, 51.770227], [10.234152, 51.769579], [10.234024, 51.769066], [10.234042, 51.768427], [10.233843, 51.767824], [10.233731, 51.767095], [10.237248, 51.765763], [10.234877, 51.765563], [10.232838, 51.76539], [10.232874, 51.764391], [10.234091, 51.764205], [10.234581, 51.763112], [10.231076, 51.76243], [10.22154, 51.761949], [10.214046, 51.761814], [10.211585, 51.76085], [10.209598, 51.76003], [10.209094, 51.759784], [10.208347, 51.759455], [10.207996, 51.759158], [10.205963, 51.75852], [10.205149, 51.7567], [10.206101, 51.751648], [10.201772, 51.752123], [10.197343, 51.753797], [10.197303, 51.752968], [10.193252, 51.753101], [10.192848, 51.751672], [10.181181, 51.75358], [10.178892, 51.753434], [10.178032, 51.751404], [10.173333, 51.752162], [10.172631, 51.751244], [10.172171, 51.752772], [10.169817, 51.753558], [10.166023, 51.75307], [10.151242, 51.754521], [10.149811, 51.75404], [10.145948, 51.755018], [10.145875, 51.755063], [10.143707, 51.756082], [10.141912, 51.757579], [10.144638, 51.761302], [10.147323, 51.76275], [10.147839, 51.763516], [10.148713, 51.764904], [10.150825, 51.769201], [10.15134, 51.772072], [10.152113, 51.773325], [10.152022, 51.773963], [10.152287, 51.777158], [10.153955, 51.77894], [10.157097, 51.77781], [10.159943, 51.779392], [10.159153, 51.780983], [10.156688, 51.782858], [10.15318, 51.783596], [10.153239, 51.786058], [10.154524, 51.78599], [10.154863, 51.78563], [10.154963, 51.785667], [10.156584, 51.786261], [10.156911, 51.787148], [10.158244, 51.788052], [10.156682, 51.78882], [10.15566, 51.790168], [10.153584, 51.791636], [10.15333, 51.79258], [10.153715, 51.793543], [10.157926, 51.794842], [10.161971, 51.795195], [10.1628, 51.796961], [10.164257, 51.798045], [10.165171, 51.800107], [10.16659, 51.800453], [10.164565, 51.801536], [10.164728, 51.803093], [10.164992, 51.804623], [10.166698, 51.805545], [10.167144, 51.806766], [10.169796, 51.80826], [10.169617, 51.809472], [10.169127, 51.812784], [10.170264, 51.813057], [10.170902, 51.81186], [10.172935, 51.812175], [10.174632, 51.811132], [10.179899, 51.810099], [10.182097, 51.80882], [10.184506, 51.809246], [10.185895, 51.809888], [10.189765, 51.810564], [10.192706, 51.811336], [10.193403, 51.811944], [10.197271, 51.813453], [10.19768, 51.815477], [10.19628, 51.817512], [10.197418, 51.822989], [10.198114, 51.82318], [10.199402, 51.823678], [10.200024, 51.82412], [10.200685, 51.825012], [10.202026, 51.826455], [10.202663, 51.826825], [10.205311, 51.823621], [10.206595, 51.821439], [10.209922, 51.818229], [10.211922, 51.816299], [10.215127, 51.816192], [10.215403, 51.816739], [10.217715, 51.818328], [10.219766, 51.81721], [10.220458, 51.817845], [10.217988, 51.819279], [10.217442, 51.820071], [10.216207, 51.821865], [10.218248, 51.822302], [10.219136, 51.822863], [10.220069, 51.824547], [10.222222, 51.826234], [10.220722, 51.82686], [10.222583, 51.828916], [10.223318, 51.829736], [10.224074, 51.82963], [10.227576, 51.829143], [10.228223, 51.830188], [10.229566, 51.831316], [10.231035, 51.832088], [10.232685, 51.832449], [10.234336, 51.832595], [10.235605, 51.832431], [10.23722, 51.832221], [10.238104, 51.831326], [10.240027, 51.832598], [10.241113, 51.833177], [10.24374, 51.831277], [10.244991, 51.830262], [10.245114, 51.828858], [10.245887, 51.827932], [10.245977, 51.825576], [10.247248, 51.825031], [10.246291, 51.824362], [10.248454, 51.823846], [10.250425, 51.824336], [10.2519, 51.824231], [10.253054, 51.823782], [10.253906, 51.822593], [10.255214, 51.822168]]]], "type": "MultiPolygon"}}
+{
+  "id": 101808905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_03159002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Grund (Harz)",
+    "eurostat:nuts_2021_id":"03159002",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE9",
+    "eurostat:nuts_2021_level_2":"DE91",
+    "eurostat:nuts_2021_level_3":"DE91C",
+    "eurostat:nuts_2021_level_lau":"03159002",
+    "eurostat:population":8238,
+    "eurostat:population_year":2020,
+    "geom:area":0.005395,
+    "geom:area_square_m":41268241.875527,
+    "geom:bbox":"10.141912,51.751244,10.263467,51.833177",
+    "geom:latitude":51.788658,
+    "geom:longitude":10.200868,
+    "gn:country":"DE",
+    "gn:elevation":295,
+    "gn:fcode":"ADM4",
+    "gn:population":2393,
+    "iso:country":"DE",
+    "lbl:latitude":51.807434,
+    "lbl:longitude":10.234191,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":51.807434,
+    "mps:longitude":10.234191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u063a\u0631\u0648\u0646\u062f"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0642\u0631\u0648\u0646\u062f"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Grund (Harz)"
+    ],
+    "name:deu_x_variant":[
+        "Bad Grund (harz)",
+        "Bad Grund Harz",
+        "Bad Grund"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:est_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u06af\u0631\u0648\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30b0\u30eb\u30f3\u30c8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:lat_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:min_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0413\u0440\u0443\u043d\u0434"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:por_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0413\u0440\u0443\u043d\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0413\u0440\u0443\u043d\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:war_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Grund"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u683c\u4f26\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u683c\u4f26\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Grund"
+    ],
+    "nav:latitude":51.807434,
+    "nav:longitude":10.234191,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Osterode am Harz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Gittelde",
+    "qs:la_lc":"*DE03015601007",
+    "qs:level":"locality",
+    "qs:loc":"Bad Grund (Harz)",
+    "qs:loc_alt":"Bad Grund (Harz)",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558864,
+    "qs_pg:gn_pop":2393,
+    "qs_pg:name":"Bad Grund (Harz), Bergstadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":638895,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377685023,
+        85633111,
+        1377675563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_03159002",
+        "eurostat:nuts_2021_id":"03159002",
+        "fct:id":"0736c67c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2953451,
+        "gp:id":636429,
+        "loc:id":"n2007078731",
+        "qs_pg:id":785636,
+        "wd:id":"Q537885",
+        "wk:page":"Bad Grund"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"d9a03f275cae42d2e309020c04363e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675563,
+            "localadmin_id":1377685023,
+            "locality_id":101808905,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101808905,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873624,
+    "wof:name":"Bad Grund (Harz)",
+    "wof:parent_id":1377685023,
+    "wof:placetype":"locality",
+    "wof:population":8238,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125315951
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.141912,
+    51.751244,
+    10.263467,
+    51.833177
+],
+  "geometry": {"coordinates":[[[[10.255214,51.822168],[10.255806,51.819122],[10.255238,51.817693],[10.255758,51.815324],[10.254269,51.814152],[10.251299,51.813192],[10.248371,51.812547],[10.249594,51.811884],[10.249947,51.810949],[10.250342,51.810455],[10.254524,51.810014],[10.256412,51.809703],[10.258137,51.80995],[10.259164,51.810635],[10.260045,51.811447],[10.261813,51.811927],[10.263467,51.812002],[10.261283,51.807842],[10.261128,51.804243],[10.257951,51.806765],[10.244431,51.803453],[10.244265,51.802004],[10.240546,51.800143],[10.241525,51.79894],[10.238818,51.795112],[10.235369,51.794626],[10.234333,51.793916],[10.233338,51.792265],[10.231791,51.787876],[10.230882,51.786843],[10.228977,51.785601],[10.22765,51.784927],[10.231025,51.783444],[10.230458,51.781193],[10.231576,51.778524],[10.229235,51.777089],[10.230746,51.776588],[10.243531,51.777687],[10.243397,51.773072],[10.243238,51.773054],[10.242122,51.772961],[10.240759,51.772895],[10.240324,51.772867],[10.240092,51.772867],[10.239628,51.772875],[10.239266,51.772892],[10.238192,51.772926],[10.23712,51.772887],[10.236207,51.772759],[10.235483,51.772542],[10.235122,51.772334],[10.234977,51.772253],[10.234747,51.771883],[10.234519,51.771253],[10.234307,51.770227],[10.234152,51.769579],[10.234024,51.769066],[10.234042,51.768427],[10.233843,51.767824],[10.233731,51.767095],[10.237248,51.765763],[10.234877,51.765563],[10.232838,51.76539],[10.232874,51.764391],[10.234091,51.764205],[10.234581,51.763112],[10.231076,51.76243],[10.22154,51.761949],[10.214046,51.761814],[10.211585,51.76085],[10.209598,51.76003],[10.209094,51.759784],[10.208347,51.759455],[10.207996,51.759158],[10.205963,51.75852],[10.205149,51.7567],[10.206101,51.751648],[10.201772,51.752123],[10.197343,51.753797],[10.197303,51.752968],[10.193252,51.753101],[10.192848,51.751672],[10.181181,51.75358],[10.178892,51.753434],[10.178032,51.751404],[10.173333,51.752162],[10.172631,51.751244],[10.172171,51.752772],[10.169817,51.753558],[10.166023,51.75307],[10.151242,51.754521],[10.149811,51.75404],[10.145948,51.755018],[10.145875,51.755063],[10.143707,51.756082],[10.141912,51.757579],[10.144638,51.761302],[10.147323,51.76275],[10.147839,51.763516],[10.148713,51.764904],[10.150825,51.769201],[10.15134,51.772072],[10.152113,51.773325],[10.152022,51.773963],[10.152287,51.777158],[10.153955,51.77894],[10.157097,51.77781],[10.159943,51.779392],[10.159153,51.780983],[10.156688,51.782858],[10.15318,51.783596],[10.153239,51.786058],[10.154524,51.78599],[10.154863,51.78563],[10.154963,51.785667],[10.156584,51.786261],[10.156911,51.787148],[10.158244,51.788052],[10.156682,51.78882],[10.15566,51.790168],[10.153584,51.791636],[10.15333,51.79258],[10.153715,51.793543],[10.157926,51.794842],[10.161971,51.795195],[10.1628,51.796961],[10.164257,51.798045],[10.165171,51.800107],[10.16659,51.800453],[10.164565,51.801536],[10.164728,51.803093],[10.164992,51.804623],[10.166698,51.805545],[10.167144,51.806766],[10.169796,51.80826],[10.169617,51.809472],[10.169127,51.812784],[10.170264,51.813057],[10.170902,51.81186],[10.172935,51.812175],[10.174632,51.811132],[10.179899,51.810099],[10.182097,51.80882],[10.184506,51.809246],[10.185895,51.809888],[10.189765,51.810564],[10.192706,51.811336],[10.193403,51.811944],[10.197271,51.813453],[10.19768,51.815477],[10.19628,51.817512],[10.197418,51.822989],[10.198114,51.82318],[10.199402,51.823678],[10.200024,51.82412],[10.200685,51.825012],[10.202026,51.826455],[10.202663,51.826825],[10.205311,51.823621],[10.206595,51.821439],[10.209922,51.818229],[10.211922,51.816299],[10.215127,51.816192],[10.215403,51.816739],[10.217715,51.818328],[10.219766,51.81721],[10.220458,51.817845],[10.217988,51.819279],[10.217442,51.820071],[10.216207,51.821865],[10.218248,51.822302],[10.219136,51.822863],[10.220069,51.824547],[10.222222,51.826234],[10.220722,51.82686],[10.222583,51.828916],[10.223318,51.829736],[10.224074,51.82963],[10.227576,51.829143],[10.228223,51.830188],[10.229566,51.831316],[10.231035,51.832088],[10.232685,51.832449],[10.234336,51.832595],[10.235605,51.832431],[10.23722,51.832221],[10.238104,51.831326],[10.240027,51.832598],[10.241113,51.833177],[10.24374,51.831277],[10.244991,51.830262],[10.245114,51.828858],[10.245887,51.827932],[10.245977,51.825576],[10.247248,51.825031],[10.246291,51.824362],[10.248454,51.823846],[10.250425,51.824336],[10.2519,51.824231],[10.253054,51.823782],[10.253906,51.822593],[10.255214,51.822168]]]],"type":"MultiPolygon"}
+}

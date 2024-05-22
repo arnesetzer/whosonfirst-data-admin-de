@@ -1,1 +1,81 @@
-{"id": 1393632859, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.23704,47.94935,8.23704,47.94935", "geom:latitude": 47.94935, "geom:longitude": 8.23704, "gn:admin1_code": "1.0", "gn:admin2_code": "83.0", "gn:admin3_code": "8315.0", "gn:admin4_code": "8315113.0", "gn:asciiname": "Schwaerzenbach", "gn:country_code": "DE", "gn:dem": 1030, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 8504875, "gn:latitude": 47.94935, "gn:longitude": 8.23704, "gn:modification_date": "2013-03-25", "gn:name": "Schw\u00e4rzenbach", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "8.23204,47.94435,8.24204,47.95435", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377685525, 404227543, 101764051, 102063241, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 8504875}, "wof:country": "DE", "wof:geomhash": "a8795167044505e6e396a68708ade4bf", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063241, "localadmin_id": 1377685525, "locality_id": 101764051, "macrocounty_id": 404227543, "neighbourhood_id": 1393632859, "region_id": 85682567}], "wof:id": 1393632859, "wof:lastmodified": 1566714193, "wof:name": "Schwaerzenbach", "wof:parent_id": 101764051, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1293009897], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.23704, 47.94935, 8.23704, 47.94935], "geometry": {"coordinates": [8.23704, 47.94935], "type": "Point"}}
+{
+  "id": 1393632859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.23704,47.94935,8.23704,47.94935",
+    "geom:latitude":47.94935,
+    "geom:longitude":8.23704,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"83.0",
+    "gn:admin3_code":"8315.0",
+    "gn:admin4_code":"8315113.0",
+    "gn:asciiname":"Schwaerzenbach",
+    "gn:country_code":"DE",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504875,
+    "gn:latitude":47.94935,
+    "gn:longitude":8.23704,
+    "gn:modification_date":"2013-03-25",
+    "gn:name":"Schw\u00e4rzenbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"8.23204,47.94435,8.24204,47.95435",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377685525,
+        404227543,
+        101764051,
+        102063241,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504875
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"a8795167044505e6e396a68708ade4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063241,
+            "localadmin_id":1377685525,
+            "locality_id":101764051,
+            "macrocounty_id":404227543,
+            "neighbourhood_id":1393632859,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1393632859,
+    "wof:lastmodified":1566714193,
+    "wof:name":"Schwaerzenbach",
+    "wof:parent_id":101764051,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293009897
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.23704,
+    47.94935,
+    8.23704,
+    47.94935
+],
+  "geometry": {"coordinates":[8.23704,47.94935],"type":"Point"}
+}

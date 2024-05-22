@@ -1,1 +1,88 @@
-{"id": 102550125, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.615278,53.361112,11.615278,53.361112", "geom:latitude": 53.361112, "geom:longitude": 11.615278, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 13.0, "name:deu_x_preferred": ["Flugplatz Neustadt-Glewe"], "name:eng_x_preferred": ["Neustadt-Glewe Airport"], "name:eng_x_variant": ["EDAN", "Neustadt-Glewe airfield"], "name:msa_x_preferred": ["Lapangan Terbang Neustadt-Glewe"], "oa:elevation_ft": "115", "oa:type": "small_airport", "src:geom": "wikidata", "src:geom_alt": [], "woe:hierarchy": {"country_id": 23424829, "county_id": 12596989, "localadmin_id": 12630775, "planet_id": 1, "state_id": 2345492}, "wof:belongsto": [102191581, 1377685295, 85633111, 101818585, 1377675569, 85682487], "wof:breaches": [], "wof:concordances": {"gp:id": 56052123, "icao:code": "EDAN", "oa:id": "28663", "wd:id": "Q20457185"}, "wof:country": "DE", "wof:geomhash": "93023da60032e58b147fa6689ab244c1", "wof:hierarchy": [{"campus_id": 102550125, "continent_id": 102191581, "country_id": 85633111, "county_id": 1377675569, "localadmin_id": 1377685295, "locality_id": 101818585, "neighbourhood_id": -1, "region_id": 85682487}], "wof:id": 102550125, "wof:lastmodified": 1690870970, "wof:name": "Segelflugplatz Neustadt-glewe", "wof:parent_id": 101818585, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [11.615278, 53.361112, 11.615278, 53.361112], "geometry": {"coordinates": [11.615278, 53.361112], "type": "Point"}}
+{
+  "id": 102550125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.615278,53.361112,11.615278,53.361112",
+    "geom:latitude":53.361112,
+    "geom:longitude":11.615278,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flugplatz Neustadt-Glewe"
+    ],
+    "name:eng_x_preferred":[
+        "Neustadt-Glewe Airport"
+    ],
+    "name:eng_x_variant":[
+        "EDAN",
+        "Neustadt-Glewe airfield"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Neustadt-Glewe"
+    ],
+    "oa:elevation_ft":"115",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596989,
+        "localadmin_id":12630775,
+        "planet_id":1,
+        "state_id":2345492
+    },
+    "wof:belongsto":[
+        102191581,
+        1377685295,
+        85633111,
+        101818585,
+        1377675569,
+        85682487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56052123,
+        "icao:code":"EDAN",
+        "oa:id":"28663",
+        "wd:id":"Q20457185"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"93023da60032e58b147fa6689ab244c1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550125,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675569,
+            "localadmin_id":1377685295,
+            "locality_id":101818585,
+            "neighbourhood_id":-1,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":102550125,
+    "wof:lastmodified":1690870970,
+    "wof:name":"Segelflugplatz Neustadt-glewe",
+    "wof:parent_id":101818585,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.615278,
+    53.361112,
+    11.615278,
+    53.361112
+],
+  "geometry": {"coordinates":[11.615278,53.361112],"type":"Point"}
+}

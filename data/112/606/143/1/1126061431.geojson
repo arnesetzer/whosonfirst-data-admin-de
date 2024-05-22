@@ -1,1 +1,104 @@
-{"id": 1126061431, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.50463,48.96717,8.50463,48.96717", "geom:latitude": 48.96717, "geom:longitude": 8.50463, "gn:country": "DE", "gn:fcode": "PPL", "gn:latitude": 48.96717, "gn:longitude": 8.50463, "gn:population": 0, "iso:country": "DE", "lbl:bbox": "8.49963,48.96217,8.50963,48.97217", "lbl:latitude": 48.96717, "lbl:longitude": 8.50463, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:deu_x_preferred": ["Thomashof"], "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPL", "qs_pg:gn_id": 2822693, "qs_pg:gn_pop": 0, "qs_pg:name": "Thomashof", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 153, "qs_pg:photos_1k": 31, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 153, "qs_pg:photos_sr": 4, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1157645, "qs_pg:qs_pg_placetype": "neighbourhood", "qs_pg:qs_pg_placetype_gp": "Suburb", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 699277, "src:geom": "qs_pg", "src:lbl_centroid": "qs_pg", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "Suburb", "wof:belongsto": [102191581, 85633111, 1377688125, 404227555, 101748527, 102063385, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 2822693, "gp:id": 699277, "qs_pg:id": 1157645}, "wof:country": "DE", "wof:created": 1497308198, "wof:geomhash": "f90df5414b47799c828227ea8068a040", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063385, "localadmin_id": 1377688125, "locality_id": 101748527, "macrocounty_id": 404227555, "neighbourhood_id": 1126061431, "region_id": 85682567}], "wof:id": 1126061431, "wof:lastmodified": 1566720595, "wof:name": "Thomashof", "wof:parent_id": 101748527, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [85796593], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.50463, 48.96717, 8.50463, 48.96717], "geometry": {"coordinates": [8.50463, 48.96717], "type": "Point"}}
+{
+  "id": 1126061431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.50463,48.96717,8.50463,48.96717",
+    "geom:latitude":48.96717,
+    "geom:longitude":8.50463,
+    "gn:country":"DE",
+    "gn:fcode":"PPL",
+    "gn:latitude":48.96717,
+    "gn:longitude":8.50463,
+    "gn:population":0,
+    "iso:country":"DE",
+    "lbl:bbox":"8.49963,48.96217,8.50963,48.97217",
+    "lbl:latitude":48.96717,
+    "lbl:longitude":8.50463,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Thomashof"
+    ],
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2822693,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Thomashof",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":153,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":153,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1157645,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":699277,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377688125,
+        404227555,
+        101748527,
+        102063385,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2822693,
+        "gp:id":699277,
+        "qs_pg:id":1157645
+    },
+    "wof:country":"DE",
+    "wof:created":1497308198,
+    "wof:geomhash":"f90df5414b47799c828227ea8068a040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063385,
+            "localadmin_id":1377688125,
+            "locality_id":101748527,
+            "macrocounty_id":404227555,
+            "neighbourhood_id":1126061431,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1126061431,
+    "wof:lastmodified":1566720595,
+    "wof:name":"Thomashof",
+    "wof:parent_id":101748527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85796593
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.50463,
+    48.96717,
+    8.50463,
+    48.96717
+],
+  "geometry": {"coordinates":[8.50463,48.96717],"type":"Point"}
+}

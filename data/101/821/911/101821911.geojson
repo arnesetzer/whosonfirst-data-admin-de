@@ -1,1 +1,378 @@
-{"id": 101821911, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_15084285", "eurostat:level_code": "lau", "eurostat:name_local": "Laucha an der Unstrut, Stadt", "eurostat:nuts_2021_id": "15084285", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEE", "eurostat:nuts_2021_level_2": "DEE0", "eurostat:nuts_2021_level_3": "DEE08", "eurostat:nuts_2021_level_lau": "15084285", "eurostat:population": 2831, "eurostat:population_year": 2020, "geom:area": 0.00403, "geom:area_square_m": 31201753.306688, "geom:bbox": "11.59982,51.190351,11.718892,51.264923", "geom:latitude": 51.232261, "geom:longitude": 11.658841, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 3200, "iso:country": "DE", "lbl:latitude": 51.222431, "lbl:longitude": 11.671915, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 51.222431, "mps:longitude": 11.671915, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Laucha an der Unstrut"], "name:ara_x_preferred": ["\u0644\u0627\u0648\u062e\u0627 \u0622\u0646 \u062f\u0631 \u0623\u0648\u0646\u0634\u062a\u0631\u0648\u062a"], "name:arg_x_preferred": ["Laucha an der Unstrut"], "name:arz_x_preferred": ["\u0644\u0627\u0648\u062e\u0627 \u0622\u0646 \u062f\u0631 \u0627\u0648\u0646\u0634\u062a\u0631\u0648\u062a"], "name:ast_x_preferred": ["Laucha an der Unstrut"], "name:azb_x_preferred": ["\u0644\u0627\u0648\u062e\u0627 \u0622\u0646 \u062f\u0631 \u0627\u0648\u062a\u0631\u0627\u0634\u062a\u0648\u062a"], "name:bak_x_preferred": ["\u041b\u0430\u0443\u0445\u0430"], "name:bar_x_preferred": ["Laucha an der Unstrut"], "name:bre_x_preferred": ["Laucha an der Unstrut"], "name:bul_x_preferred": ["\u041b\u0430\u0443\u0445\u0430 \u0430\u043d \u0434\u0435\u0440 \u0423\u043d\u0449\u0440\u0443\u0442"], "name:cat_x_preferred": ["Laucha an der Unstrut"], "name:ces_x_preferred": ["Laucha an der Unstrut"], "name:cos_x_preferred": ["Laucha an der Unstrut"], "name:cym_x_preferred": ["Laucha an der Unstrut"], "name:dan_x_preferred": ["Laucha an der Unstrut"], "name:deu_x_preferred": ["Laucha an der Unstrut"], "name:eng_x_preferred": ["Laucha an der Unstrut"], "name:epo_x_preferred": ["Laucha an der Unstrut"], "name:est_x_preferred": ["Laucha an der Unstrut"], "name:eus_x_preferred": ["Laucha an der Unstrut"], "name:fas_x_preferred": ["\u0644\u0627\u0648\u062e\u0627 \u0622\u0646 \u062f\u0631 \u0627\u0648\u062a\u0631\u0627\u0634\u062a\u0648\u062a"], "name:fin_x_preferred": ["Laucha an der Unstrut"], "name:fra_x_preferred": ["Laucha an der Unstrut"], "name:frp_x_preferred": ["Laucha an der Unstrut"], "name:fur_x_preferred": ["Laucha an der Unstrut"], "name:gla_x_preferred": ["Laucha an der Unstrut"], "name:gle_x_preferred": ["Laucha an der Unstrut"], "name:glg_x_preferred": ["Laucha an der Unstrut"], "name:gsw_x_preferred": ["Laucha an der Unstrut"], "name:hbs_x_preferred": ["Laucha an der Unstrut"], "name:hrv_x_preferred": ["Laucha an der Unstrut"], "name:hun_x_preferred": ["Laucha an der Unstrut"], "name:ido_x_preferred": ["Laucha an der Unstrut"], "name:ile_x_preferred": ["Laucha an der Unstrut"], "name:ina_x_preferred": ["Laucha an der Unstrut"], "name:ind_x_preferred": ["Laucha an der Unstrut"], "name:isl_x_preferred": ["Laucha an der Unstrut"], "name:ita_x_preferred": ["Laucha an der Unstrut"], "name:kon_x_preferred": ["Laucha an der Unstrut"], "name:kur_x_preferred": ["Laucha an der Unstrut"], "name:lij_x_preferred": ["Laucha an der Unstrut"], "name:lim_x_preferred": ["Laucha an der Unstrut"], "name:lld_x_preferred": ["Laucha an der Unstrut"], "name:ltz_x_preferred": ["Laucha an der Unstrut"], "name:min_x_preferred": ["Laucha an der Unstrut"], "name:mkd_x_preferred": ["\u041b\u0430\u0443\u0445\u0430 \u043d\u0430 \u0423\u043d\u0448\u0442\u0440\u0443\u0442"], "name:mlg_x_preferred": ["Laucha an der Unstrut"], "name:msa_x_preferred": ["Laucha an der Unstrut"], "name:nap_x_preferred": ["Laucha an der Unstrut"], "name:nds_x_preferred": ["Laucha an der Unstrut"], "name:nld_x_preferred": ["Laucha an der Unstrut"], "name:nno_x_preferred": ["Laucha an der Unstrut"], "name:nob_x_preferred": ["Laucha an der Unstrut"], "name:nrm_x_preferred": ["Laucha an der Unstrut"], "name:oci_x_preferred": ["Laucha an der Unstrut"], "name:pcd_x_preferred": ["Laucha an der Unstrut"], "name:pms_x_preferred": ["Laucha an der Unstrut"], "name:pol_x_preferred": ["Laucha an der Unstrut"], "name:por_x_preferred": ["Laucha an der Unstrut"], "name:roh_x_preferred": ["Laucha an der Unstrut"], "name:ron_x_preferred": ["Laucha an der Unstrut"], "name:rus_x_preferred": ["\u041b\u0430\u0443\u0445\u0430"], "name:scn_x_preferred": ["Laucha an der Unstrut"], "name:sco_x_preferred": ["Laucha an der Unstrut"], "name:slk_x_preferred": ["Laucha an der Unstrut"], "name:slv_x_preferred": ["Laucha an der Unstrut"], "name:spa_x_preferred": ["Laucha an der Unstrut"], "name:srd_x_preferred": ["Laucha an der Unstrut"], "name:srp_x_preferred": ["\u041b\u0430\u0443\u0445\u0430 \u0430\u043d \u0434\u0435\u0440 \u0423\u043d\u0441\u0442\u0440\u0443\u0442"], "name:swa_x_preferred": ["Laucha an der Unstrut"], "name:swe_x_preferred": ["Laucha an der Unstrut"], "name:tum_x_preferred": ["Laucha an der Unstrut"], "name:ukr_x_preferred": ["\u041b\u0430\u0443\u0445\u0430-\u0430\u043d-\u0434\u0435\u0440-\u0423\u043d\u0441\u0442\u0440\u0443\u0442"], "name:und_x_variant": ["Laucha"], "name:uzb_x_preferred": ["Laucha an der Unstrut"], "name:vec_x_preferred": ["Laucha an der Unstrut"], "name:vie_x_preferred": ["Laucha an der Unstrut"], "name:vls_x_preferred": ["Laucha an der Unstrut"], "name:vol_x_preferred": ["Laucha an der Unstrut"], "name:war_x_preferred": ["Laucha an der Unstrut"], "name:wln_x_preferred": ["Laucha an der Unstrut"], "name:wol_x_preferred": ["Laucha an der Unstrut"], "name:zho_x_preferred": ["\u7fc1\u65af\u7279\u9c81\u7279\u6cb3\u7554\u52b3\u54c8"], "name:zul_x_preferred": ["Laucha an der Unstrut"], "nav:latitude": 51.222431, "nav:longitude": 11.671915, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Burgenlandkreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Laucha an der Unstrut", "qs:la_lc": "*DE15008406285", "qs:level": "locality", "qs:loc": "Laucha an der Unstrut", "qs:loc_alt": "Laucha an der Unstrut", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6551222, "qs_pg:gn_pop": 3200, "qs_pg:name": "Laucha an der Unstrut, Stadt", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 632706, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 48, "wof:belongsto": [85682519, 102191581, 1377688503, 85633111, 102063747], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_15084285", "eurostat:nuts_2021_id": "15084285", "gn:id": 2880228, "gp:id": 670540, "qs_pg:id": 945015, "wd:id": "Q124803", "wk:page": "Laucha an der Unstrut"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "b42d84160bdaf8603d27bfa4b433ccc4", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063747, "localadmin_id": 1377688503, "locality_id": 101821911, "region_id": 85682519}], "wof:id": 101821911, "wof:lastmodified": 1690872364, "wof:name": "Laucha an der Unstrut", "wof:parent_id": 1377688503, "wof:placetype": "locality", "wof:population": 2831, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125353587], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.59982, 51.190351, 11.718892, 51.264923], "geometry": {"coordinates": [[[[11.671838, 51.263177], [11.674409, 51.261648], [11.673982, 51.260654], [11.672157, 51.26105], [11.671557, 51.261173], [11.671266, 51.259853], [11.668658, 51.258232], [11.66988, 51.257221], [11.667763, 51.255164], [11.668341, 51.253098], [11.669038, 51.253415], [11.669948, 51.253703], [11.671055, 51.253799], [11.671928, 51.253737], [11.672454, 51.25356], [11.672946, 51.25316], [11.673623, 51.252721], [11.67436, 51.252399], [11.675198, 51.252075], [11.676122, 51.251769], [11.676458, 51.251442], [11.676562, 51.251045], [11.676711, 51.250683], [11.677447, 51.250289], [11.678015, 51.250103], [11.678409, 51.249802], [11.678728, 51.249385], [11.679119, 51.248985], [11.679624, 51.248548], [11.679899, 51.248087], [11.680043, 51.246979], [11.679977, 51.246655], [11.679202, 51.246182], [11.67904, 51.245803], [11.679181, 51.245373], [11.679625, 51.24494], [11.68045, 51.244551], [11.68124, 51.244304], [11.681765, 51.244085], [11.683064, 51.245905], [11.685727, 51.246211], [11.686578, 51.246877], [11.687792, 51.246117], [11.698113, 51.248289], [11.698706, 51.247392], [11.699916, 51.247596], [11.700683, 51.247272], [11.703976, 51.247867], [11.704485, 51.246865], [11.70726, 51.244443], [11.708277, 51.243856], [11.712666, 51.242492], [11.71685, 51.24062], [11.718892, 51.238684], [11.7176, 51.237984], [11.713025, 51.237409], [11.712105, 51.237311], [11.711353, 51.237067], [11.710671, 51.23675], [11.709913, 51.236263], [11.70923, 51.23591], [11.70819, 51.235597], [11.707773, 51.235529], [11.707225, 51.235427], [11.706475, 51.235228], [11.705989, 51.234866], [11.704495, 51.233991], [11.700549, 51.232307], [11.701009, 51.231627], [11.696304, 51.229942], [11.69386, 51.229103], [11.694807, 51.226934], [11.694878, 51.226897], [11.695627, 51.226466], [11.696346, 51.226027], [11.697043, 51.225813], [11.697785, 51.225716], [11.698415, 51.225673], [11.699028, 51.225541], [11.699451, 51.225276], [11.699811, 51.224822], [11.700171, 51.224314], [11.700407, 51.224015], [11.700802, 51.223786], [11.701354, 51.223519], [11.701905, 51.223217], [11.702254, 51.22288], [11.702387, 51.222474], [11.702358, 51.221898], [11.702135, 51.221046], [11.70198, 51.22004], [11.702059, 51.21922], [11.702348, 51.218218], [11.702782, 51.217287], [11.702891, 51.217052], [11.704151, 51.215383], [11.700356, 51.212138], [11.697551, 51.211709], [11.694335, 51.211665], [11.693515, 51.214097], [11.69164, 51.214131], [11.690804, 51.213472], [11.690184, 51.212143], [11.689753, 51.210428], [11.688102, 51.210841], [11.68639, 51.21057], [11.686483, 51.209715], [11.672899, 51.207881], [11.671745, 51.207011], [11.670721, 51.2073], [11.66998, 51.206911], [11.66485, 51.206828], [11.664778, 51.206225], [11.666952, 51.204395], [11.666409, 51.203897], [11.662289, 51.204109], [11.661908, 51.204895], [11.6601, 51.203069], [11.659595, 51.201193], [11.658315, 51.199838], [11.654545, 51.197428], [11.653883, 51.194996], [11.651166, 51.195175], [11.647609, 51.190351], [11.641849, 51.190776], [11.638158, 51.191505], [11.638393, 51.19405], [11.640167, 51.196894], [11.638704, 51.197394], [11.63888, 51.198112], [11.640371, 51.201076], [11.641003, 51.20232], [11.641275, 51.204063], [11.643779, 51.204507], [11.644536, 51.20503], [11.641448, 51.20641], [11.640923, 51.206046], [11.640195, 51.205577], [11.639524, 51.20507], [11.640147, 51.207098], [11.635987, 51.206265], [11.635653, 51.207165], [11.634286, 51.211096], [11.636183, 51.211339], [11.636352, 51.212381], [11.6364, 51.212587], [11.63737, 51.213001], [11.63834, 51.213396], [11.640415, 51.214465], [11.639872, 51.215685], [11.640221, 51.216473], [11.642097, 51.218174], [11.642511, 51.218709], [11.642638, 51.219203], [11.642507, 51.220851], [11.643811, 51.220874], [11.643684, 51.221731], [11.648386, 51.224199], [11.647094, 51.225926], [11.645083, 51.225565], [11.63989, 51.224073], [11.632288, 51.224546], [11.632521, 51.225363], [11.62975, 51.225366], [11.628561, 51.225386], [11.625382, 51.226056], [11.622931, 51.226427], [11.622186, 51.226986], [11.623027, 51.227893], [11.623441, 51.228688], [11.623386, 51.229998], [11.62235, 51.230422], [11.617645, 51.232033], [11.619946, 51.23354], [11.620148, 51.235383], [11.618147, 51.237373], [11.61679, 51.23995], [11.608309, 51.239466], [11.608143, 51.241391], [11.604185, 51.240857], [11.602606, 51.240796], [11.600382, 51.240397], [11.59982, 51.241031], [11.60121, 51.242066], [11.60183, 51.242593], [11.602346, 51.243864], [11.600688, 51.245187], [11.603828, 51.247578], [11.605111, 51.246581], [11.608114, 51.249029], [11.611744, 51.253019], [11.614189, 51.255101], [11.617071, 51.2569], [11.623587, 51.251826], [11.627705, 51.250194], [11.629433, 51.251644], [11.629067, 51.251926], [11.628681, 51.252578], [11.628597, 51.253217], [11.628869, 51.255572], [11.62906, 51.256317], [11.628805, 51.257624], [11.628452, 51.25904], [11.628415, 51.25986], [11.62864, 51.260829], [11.629965, 51.262841], [11.630508, 51.26334], [11.631277, 51.263692], [11.632331, 51.263997], [11.63392, 51.264432], [11.635223, 51.264923], [11.637267, 51.262569], [11.640268, 51.258693], [11.64299, 51.259504], [11.642443, 51.25829], [11.64384, 51.258315], [11.65038, 51.259052], [11.66162, 51.26066], [11.66164, 51.261187], [11.669532, 51.262366], [11.669486, 51.261776], [11.670862, 51.262026], [11.671838, 51.263177]]]], "type": "MultiPolygon"}}
+{
+  "id": 101821911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_15084285",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laucha an der Unstrut, Stadt",
+    "eurostat:nuts_2021_id":"15084285",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEE",
+    "eurostat:nuts_2021_level_2":"DEE0",
+    "eurostat:nuts_2021_level_3":"DEE08",
+    "eurostat:nuts_2021_level_lau":"15084285",
+    "eurostat:population":2831,
+    "eurostat:population_year":2020,
+    "geom:area":0.00403,
+    "geom:area_square_m":31201753.306688,
+    "geom:bbox":"11.59982,51.190351,11.718892,51.264923",
+    "geom:latitude":51.232261,
+    "geom:longitude":11.658841,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":3200,
+    "iso:country":"DE",
+    "lbl:latitude":51.222431,
+    "lbl:longitude":11.671915,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":51.222431,
+    "mps:longitude":11.671915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0648\u062e\u0627 \u0622\u0646 \u062f\u0631 \u0623\u0648\u0646\u0634\u062a\u0631\u0648\u062a"
+    ],
+    "name:arg_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0648\u062e\u0627 \u0622\u0646 \u062f\u0631 \u0627\u0648\u0646\u0634\u062a\u0631\u0648\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u0648\u062e\u0627 \u0622\u0646 \u062f\u0631 \u0627\u0648\u062a\u0631\u0627\u0634\u062a\u0648\u062a"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0430\u0443\u0445\u0430"
+    ],
+    "name:bar_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:bre_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0443\u0445\u0430 \u0430\u043d \u0434\u0435\u0440 \u0423\u043d\u0449\u0440\u0443\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ces_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:cos_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:cym_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:dan_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:deu_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:eng_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:epo_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:est_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:eus_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0648\u062e\u0627 \u0622\u0646 \u062f\u0631 \u0627\u0648\u062a\u0631\u0627\u0634\u062a\u0648\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:fra_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:frp_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:fur_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:gla_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:gle_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:glg_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:gsw_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:hbs_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:hrv_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:hun_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ido_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ile_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ina_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ind_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:isl_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ita_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:kon_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:kur_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:lij_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:lim_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:lld_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ltz_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:min_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0443\u0445\u0430 \u043d\u0430 \u0423\u043d\u0448\u0442\u0440\u0443\u0442"
+    ],
+    "name:mlg_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:msa_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:nap_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:nds_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:nld_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:nno_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:nob_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:nrm_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:oci_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:pcd_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:pms_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:pol_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:por_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:roh_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ron_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0443\u0445\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:sco_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:slk_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:slv_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:spa_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:srd_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0443\u0445\u0430 \u0430\u043d \u0434\u0435\u0440 \u0423\u043d\u0441\u0442\u0440\u0443\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:swe_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:tum_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0443\u0445\u0430-\u0430\u043d-\u0434\u0435\u0440-\u0423\u043d\u0441\u0442\u0440\u0443\u0442"
+    ],
+    "name:und_x_variant":[
+        "Laucha"
+    ],
+    "name:uzb_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:vec_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:vie_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:vls_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:vol_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:war_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:wln_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:wol_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u65af\u7279\u9c81\u7279\u6cb3\u7554\u52b3\u54c8"
+    ],
+    "name:zul_x_preferred":[
+        "Laucha an der Unstrut"
+    ],
+    "nav:latitude":51.222431,
+    "nav:longitude":11.671915,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Burgenlandkreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Laucha an der Unstrut",
+    "qs:la_lc":"*DE15008406285",
+    "qs:level":"locality",
+    "qs:loc":"Laucha an der Unstrut",
+    "qs:loc_alt":"Laucha an der Unstrut",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6551222,
+    "qs_pg:gn_pop":3200,
+    "qs_pg:name":"Laucha an der Unstrut, Stadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":632706,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688503,
+        85633111,
+        102063747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_15084285",
+        "eurostat:nuts_2021_id":"15084285",
+        "gn:id":2880228,
+        "gp:id":670540,
+        "qs_pg:id":945015,
+        "wd:id":"Q124803",
+        "wk:page":"Laucha an der Unstrut"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"b42d84160bdaf8603d27bfa4b433ccc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063747,
+            "localadmin_id":1377688503,
+            "locality_id":101821911,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101821911,
+    "wof:lastmodified":1690872364,
+    "wof:name":"Laucha an der Unstrut",
+    "wof:parent_id":1377688503,
+    "wof:placetype":"locality",
+    "wof:population":2831,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125353587
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.59982,
+    51.190351,
+    11.718892,
+    51.264923
+],
+  "geometry": {"coordinates":[[[[11.671838,51.263177],[11.674409,51.261648],[11.673982,51.260654],[11.672157,51.26105],[11.671557,51.261173],[11.671266,51.259853],[11.668658,51.258232],[11.66988,51.257221],[11.667763,51.255164],[11.668341,51.253098],[11.669038,51.253415],[11.669948,51.253703],[11.671055,51.253799],[11.671928,51.253737],[11.672454,51.25356],[11.672946,51.25316],[11.673623,51.252721],[11.67436,51.252399],[11.675198,51.252075],[11.676122,51.251769],[11.676458,51.251442],[11.676562,51.251045],[11.676711,51.250683],[11.677447,51.250289],[11.678015,51.250103],[11.678409,51.249802],[11.678728,51.249385],[11.679119,51.248985],[11.679624,51.248548],[11.679899,51.248087],[11.680043,51.246979],[11.679977,51.246655],[11.679202,51.246182],[11.67904,51.245803],[11.679181,51.245373],[11.679625,51.24494],[11.68045,51.244551],[11.68124,51.244304],[11.681765,51.244085],[11.683064,51.245905],[11.685727,51.246211],[11.686578,51.246877],[11.687792,51.246117],[11.698113,51.248289],[11.698706,51.247392],[11.699916,51.247596],[11.700683,51.247272],[11.703976,51.247867],[11.704485,51.246865],[11.70726,51.244443],[11.708277,51.243856],[11.712666,51.242492],[11.71685,51.24062],[11.718892,51.238684],[11.7176,51.237984],[11.713025,51.237409],[11.712105,51.237311],[11.711353,51.237067],[11.710671,51.23675],[11.709913,51.236263],[11.70923,51.23591],[11.70819,51.235597],[11.707773,51.235529],[11.707225,51.235427],[11.706475,51.235228],[11.705989,51.234866],[11.704495,51.233991],[11.700549,51.232307],[11.701009,51.231627],[11.696304,51.229942],[11.69386,51.229103],[11.694807,51.226934],[11.694878,51.226897],[11.695627,51.226466],[11.696346,51.226027],[11.697043,51.225813],[11.697785,51.225716],[11.698415,51.225673],[11.699028,51.225541],[11.699451,51.225276],[11.699811,51.224822],[11.700171,51.224314],[11.700407,51.224015],[11.700802,51.223786],[11.701354,51.223519],[11.701905,51.223217],[11.702254,51.22288],[11.702387,51.222474],[11.702358,51.221898],[11.702135,51.221046],[11.70198,51.22004],[11.702059,51.21922],[11.702348,51.218218],[11.702782,51.217287],[11.702891,51.217052],[11.704151,51.215383],[11.700356,51.212138],[11.697551,51.211709],[11.694335,51.211665],[11.693515,51.214097],[11.69164,51.214131],[11.690804,51.213472],[11.690184,51.212143],[11.689753,51.210428],[11.688102,51.210841],[11.68639,51.21057],[11.686483,51.209715],[11.672899,51.207881],[11.671745,51.207011],[11.670721,51.2073],[11.66998,51.206911],[11.66485,51.206828],[11.664778,51.206225],[11.666952,51.204395],[11.666409,51.203897],[11.662289,51.204109],[11.661908,51.204895],[11.6601,51.203069],[11.659595,51.201193],[11.658315,51.199838],[11.654545,51.197428],[11.653883,51.194996],[11.651166,51.195175],[11.647609,51.190351],[11.641849,51.190776],[11.638158,51.191505],[11.638393,51.19405],[11.640167,51.196894],[11.638704,51.197394],[11.63888,51.198112],[11.640371,51.201076],[11.641003,51.20232],[11.641275,51.204063],[11.643779,51.204507],[11.644536,51.20503],[11.641448,51.20641],[11.640923,51.206046],[11.640195,51.205577],[11.639524,51.20507],[11.640147,51.207098],[11.635987,51.206265],[11.635653,51.207165],[11.634286,51.211096],[11.636183,51.211339],[11.636352,51.212381],[11.6364,51.212587],[11.63737,51.213001],[11.63834,51.213396],[11.640415,51.214465],[11.639872,51.215685],[11.640221,51.216473],[11.642097,51.218174],[11.642511,51.218709],[11.642638,51.219203],[11.642507,51.220851],[11.643811,51.220874],[11.643684,51.221731],[11.648386,51.224199],[11.647094,51.225926],[11.645083,51.225565],[11.63989,51.224073],[11.632288,51.224546],[11.632521,51.225363],[11.62975,51.225366],[11.628561,51.225386],[11.625382,51.226056],[11.622931,51.226427],[11.622186,51.226986],[11.623027,51.227893],[11.623441,51.228688],[11.623386,51.229998],[11.62235,51.230422],[11.617645,51.232033],[11.619946,51.23354],[11.620148,51.235383],[11.618147,51.237373],[11.61679,51.23995],[11.608309,51.239466],[11.608143,51.241391],[11.604185,51.240857],[11.602606,51.240796],[11.600382,51.240397],[11.59982,51.241031],[11.60121,51.242066],[11.60183,51.242593],[11.602346,51.243864],[11.600688,51.245187],[11.603828,51.247578],[11.605111,51.246581],[11.608114,51.249029],[11.611744,51.253019],[11.614189,51.255101],[11.617071,51.2569],[11.623587,51.251826],[11.627705,51.250194],[11.629433,51.251644],[11.629067,51.251926],[11.628681,51.252578],[11.628597,51.253217],[11.628869,51.255572],[11.62906,51.256317],[11.628805,51.257624],[11.628452,51.25904],[11.628415,51.25986],[11.62864,51.260829],[11.629965,51.262841],[11.630508,51.26334],[11.631277,51.263692],[11.632331,51.263997],[11.63392,51.264432],[11.635223,51.264923],[11.637267,51.262569],[11.640268,51.258693],[11.64299,51.259504],[11.642443,51.25829],[11.64384,51.258315],[11.65038,51.259052],[11.66162,51.26066],[11.66164,51.261187],[11.669532,51.262366],[11.669486,51.261776],[11.670862,51.262026],[11.671838,51.263177]]]],"type":"MultiPolygon"}
+}

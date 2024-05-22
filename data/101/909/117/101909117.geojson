@@ -1,1 +1,149 @@
-{"id": 101909117, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.8e-05, "geom:area_square_m": 288937.535653, "geom:bbox": "10.919258,51.522692,10.929471,51.529882", "geom:latitude": 51.526035, "geom:longitude": 10.923722, "gn:population": 278, "iso:country": "DE", "lbl:latitude": 51.525173, "lbl:longitude": 10.922948, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.525173, "mps:longitude": 10.922948, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"], "name:ceb_x_preferred": ["Stempeda"], "name:che_x_preferred": ["\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"], "name:deu_x_preferred": ["Stempeda"], "name:eng_x_preferred": ["Stempeda"], "name:epo_x_preferred": ["Stempeda"], "name:fas_x_preferred": ["\u0634\u062a\u0645\u067e\u062f\u0627"], "name:fra_x_preferred": ["Stempeda"], "name:gle_x_preferred": ["Stempeda"], "name:kaz_x_preferred": ["\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"], "name:kir_x_preferred": ["\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"], "name:mkd_x_preferred": ["\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"], "name:nld_x_preferred": ["Stempeda"], "name:por_x_preferred": ["Stempeda"], "name:ron_x_preferred": ["Stempeda"], "name:rus_x_preferred": ["\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"], "name:tat_x_preferred": ["\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"], "name:uzb_x_preferred": ["Stempeda"], "name:vol_x_preferred": ["Stempeda"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Nordhausen", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Stempeda", "qs:la_lc": "*DE16006206052", "qs:level": "locality", "qs:loc": "Stempeda", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 24, "wof:belongsto": [85682541, 102191581, 1377689509, 85633111, 102063809], "wof:breaches": [], "wof:concordances": {"gn:id": 2827489, "gp:id": 697102, "qs_pg:id": 203629, "wd:id": "Q705004", "wk:page": "Stempeda"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "9a836819741d26e39cccc5cde0005b1b", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063809, "localadmin_id": 1377689509, "locality_id": 101909117, "region_id": 85682541}], "wof:id": 101909117, "wof:lastmodified": 1690871404, "wof:name": "Stempeda", "wof:parent_id": 1377689509, "wof:placetype": "locality", "wof:population": 278, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.919258, 51.522692, 10.929471, 51.529882], "geometry": {"coordinates": [[[10.928048, 51.529859], [10.92803, 51.528961], [10.929471, 51.528949], [10.929453, 51.52805], [10.926571, 51.528073], [10.926516, 51.525377], [10.925075, 51.525388], [10.925021, 51.522692], [10.919258, 51.522738], [10.919312, 51.525434], [10.920753, 51.525423], [10.920789, 51.52722], [10.92223, 51.527209], [10.922248, 51.528107], [10.923689, 51.528096], [10.923707, 51.528995], [10.925148, 51.528983], [10.925166, 51.529882], [10.928048, 51.529859]]], "type": "Polygon"}}
+{
+  "id": 101909117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":288937.535653,
+    "geom:bbox":"10.919258,51.522692,10.929471,51.529882",
+    "geom:latitude":51.526035,
+    "geom:longitude":10.923722,
+    "gn:population":278,
+    "iso:country":"DE",
+    "lbl:latitude":51.525173,
+    "lbl:longitude":10.922948,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.525173,
+    "mps:longitude":10.922948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Stempeda"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Stempeda"
+    ],
+    "name:eng_x_preferred":[
+        "Stempeda"
+    ],
+    "name:epo_x_preferred":[
+        "Stempeda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u062a\u0645\u067e\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Stempeda"
+    ],
+    "name:gle_x_preferred":[
+        "Stempeda"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Stempeda"
+    ],
+    "name:por_x_preferred":[
+        "Stempeda"
+    ],
+    "name:ron_x_preferred":[
+        "Stempeda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0442\u0435\u043c\u043f\u0435\u0434\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Stempeda"
+    ],
+    "name:vol_x_preferred":[
+        "Stempeda"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Nordhausen",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Stempeda",
+    "qs:la_lc":"*DE16006206052",
+    "qs:level":"locality",
+    "qs:loc":"Stempeda",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377689509,
+        85633111,
+        102063809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2827489,
+        "gp:id":697102,
+        "qs_pg:id":203629,
+        "wd:id":"Q705004",
+        "wk:page":"Stempeda"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"9a836819741d26e39cccc5cde0005b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063809,
+            "localadmin_id":1377689509,
+            "locality_id":101909117,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101909117,
+    "wof:lastmodified":1690871404,
+    "wof:name":"Stempeda",
+    "wof:parent_id":1377689509,
+    "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.919258,
+    51.522692,
+    10.929471,
+    51.529882
+],
+  "geometry": {"coordinates":[[[10.928048,51.529859],[10.92803,51.528961],[10.929471,51.528949],[10.929453,51.52805],[10.926571,51.528073],[10.926516,51.525377],[10.925075,51.525388],[10.925021,51.522692],[10.919258,51.522738],[10.919312,51.525434],[10.920753,51.525423],[10.920789,51.52722],[10.92223,51.527209],[10.922248,51.528107],[10.923689,51.528096],[10.923707,51.528995],[10.925148,51.528983],[10.925166,51.529882],[10.928048,51.529859]]],"type":"Polygon"}
+}

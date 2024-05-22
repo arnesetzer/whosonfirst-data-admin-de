@@ -1,1 +1,384 @@
-{"id": 101824691, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.002405, "geom:area_square_m": 18865110.14172, "geom:bbox": "10.772889,50.580517,10.844487,50.651376", "geom:latitude": 50.623414, "geom:longitude": 10.811293, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 1796, "iso:country": "DE", "lbl:latitude": 50.608416, "lbl:longitude": 10.810657, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 50.608416, "mps:longitude": 10.810657, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Schmiedefeld am Rennsteig"], "name:arg_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ast_x_preferred": ["Schmiedefeld am Rennsteig"], "name:bak_x_preferred": ["\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:bar_x_preferred": ["Schmiedefeld am Rennsteig"], "name:bre_x_preferred": ["Schmiedefeld am Rennsteig"], "name:cat_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ceb_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ces_x_preferred": ["Schmiedefeld am Rennsteig"], "name:che_x_preferred": ["\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:cos_x_preferred": ["Schmiedefeld am Rennsteig"], "name:cym_x_preferred": ["Schmiedefeld am Rennsteig"], "name:dan_x_preferred": ["Schmiedefeld am Rennsteig"], "name:deu_x_preferred": ["Schmiedefeld am Rennsteig"], "name:deu_x_variant": ["Schmiedefeld"], "name:eng_x_preferred": ["Schmiedefeld am Rennsteig"], "name:epo_x_preferred": ["Schmiedefeld am Rennsteig"], "name:est_x_preferred": ["Schmiedefeld am Rennsteig"], "name:eus_x_preferred": ["Schmiedefeld am Rennsteig"], "name:fas_x_preferred": ["\u0634\u0645\u06cc\u062f\u0641\u0644\u062f \u0627\u0645 \u0631\u0646\u0634\u062a\u0627\u06cc\u06af"], "name:fin_x_preferred": ["Schmiedefeld am Rennsteig"], "name:fra_x_preferred": ["Schmiedefeld am Rennsteig"], "name:frp_x_preferred": ["Schmiedefeld am Rennsteig"], "name:fur_x_preferred": ["Schmiedefeld am Rennsteig"], "name:gla_x_preferred": ["Schmiedefeld am Rennsteig"], "name:gle_x_preferred": ["Schmiedefeld am Rennsteig"], "name:glg_x_preferred": ["Schmiedefeld am Rennsteig"], "name:gsw_x_preferred": ["Schmiedefeld am Rennsteig"], "name:hbs_x_preferred": ["Schmiedefeld am Rennsteig"], "name:hrv_x_preferred": ["Schmiedefeld am Rennsteig"], "name:hun_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ido_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ile_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ina_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ind_x_preferred": ["Schmiedefeld am Rennsteig"], "name:isl_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ita_x_preferred": ["Schmiedefeld am Rennsteig"], "name:jpn_x_preferred": ["\u30b7\u30e5\u30df\u30fc\u30c7\u30d5\u30a7\u30eb\u30c8\u30fb\u30a2\u30e0\u30fb\u30ec\u30f3\u30b7\u30e5\u30bf\u30a4\u30af"], "name:kaz_x_preferred": ["\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:kir_x_preferred": ["\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:kon_x_preferred": ["Schmiedefeld am Rennsteig"], "name:lat_x_preferred": ["Schmiedefeld am Rennsteig"], "name:lij_x_preferred": ["Schmiedefeld am Rennsteig"], "name:lim_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ltz_x_preferred": ["Schmiedefeld am Rennsteig"], "name:min_x_preferred": ["Schmiedefeld am Rennsteig"], "name:mkd_x_preferred": ["\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u0434 \u043d\u0430 \u0420\u0435\u043d\u0448\u0442\u0430\u0458\u0433"], "name:mlg_x_preferred": ["Schmiedefeld am Rennsteig"], "name:msa_x_preferred": ["Schmiedefeld am Rennsteig"], "name:nap_x_preferred": ["Schmiedefeld am Rennsteig"], "name:nds_x_preferred": ["Schmiedefeld am Rennsteig"], "name:nld_x_preferred": ["Schmiedefeld am Rennsteig"], "name:nno_x_preferred": ["Schmiedefeld am Rennsteig"], "name:nob_x_preferred": ["Schmiedefeld am Rennsteig"], "name:nrm_x_preferred": ["Schmiedefeld am Rennsteig"], "name:oci_x_preferred": ["Schmiedefeld am Rennsteig"], "name:pcd_x_preferred": ["Schmiedefeld am Rennsteig"], "name:pms_x_preferred": ["Schmiedefeld am Rennsteig"], "name:pol_x_preferred": ["Schmiedefeld am Rennsteig"], "name:por_x_preferred": ["Schmiedefeld am Rennsteig"], "name:roh_x_preferred": ["Schmiedefeld am Rennsteig"], "name:ron_x_preferred": ["Schmiedefeld am Rennsteig"], "name:rus_x_preferred": ["\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:scn_x_preferred": ["Schmiedefeld am Rennsteig"], "name:sco_x_preferred": ["Schmiedefeld am Rennsteig"], "name:slk_x_preferred": ["Schmiedefeld am Rennsteig"], "name:slv_x_preferred": ["Schmiedefeld am Rennsteig"], "name:spa_x_preferred": ["Schmiedefeld am Rennsteig"], "name:srd_x_preferred": ["Schmiedefeld am Rennsteig"], "name:srp_x_preferred": ["\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u0434 \u0430\u043c \u0420\u0435\u043d\u0448\u0442\u0430\u0458\u0433"], "name:swa_x_preferred": ["Schmiedefeld am Rennsteig"], "name:swe_x_preferred": ["Schmiedefeld am Rennsteig"], "name:tat_x_preferred": ["\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:ukr_x_preferred": ["\u0428\u043c\u0456\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u043d\u0448\u0442\u0430\u0439\u0433"], "name:uzb_x_preferred": ["Schmiedefeld am Rennsteig"], "name:vec_x_preferred": ["Schmiedefeld am Rennsteig"], "name:vie_x_preferred": ["Schmiedefeld am Rennsteig"], "name:vls_x_preferred": ["Schmiedefeld am Rennsteig"], "name:vol_x_preferred": ["Schmiedefeld am Rennsteig"], "name:war_x_preferred": ["Schmiedefeld am Rennsteig"], "name:wln_x_preferred": ["Schmiedefeld am Rennsteig"], "name:wol_x_preferred": ["Schmiedefeld am Rennsteig"], "name:zho_x_preferred": ["\u4f26\u65af\u6cf0\u683c\u5730\u533a\u65bd\u7c73\u5fb7\u8d39\u5c14\u5fb7"], "name:zho_x_variant": ["\u4f26\u65af\u6cf0\u5e0c\u5730\u533a\u65bd\u7c73\u5fb7\u8d39\u5c14\u5fb7"], "name:zul_x_preferred": ["Schmiedefeld am Rennsteig"], "nav:latitude": 50.608416, "nav:longitude": 10.810657, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Ilm-Kreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Schmiedefeld am Rennsteig", "qs:la_lc": "*DE16007008046", "qs:level": "locality", "qs:loc": "Schmiedefeld am Rennsteig", "qs:loc_alt": "Schmiedefeld am Rennsteig", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6550220, "qs_pg:gn_pop": 1796, "qs_pg:name": "Gemeinde Schmiedefeld am Rennsteig", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Th\u00fcringen", "qs_pg:photos": 5, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 227, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 220886, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12625160, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 55, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Th\u00fcringen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682541, 102191581, 1377690431, 85633111, 102063677], "wof:breaches": [], "wof:concordances": {"fct:id": "0756d700-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2837777, "gp:id": 692488, "qs_pg:id": 1346227, "wd:id": "Q631546", "wk:page": "Schmiedefeld am Rennsteig"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "cf40d3a548e4bb175e6d7bb591d13511", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063677, "localadmin_id": 1377690431, "locality_id": 101824691, "region_id": 85682541}], "wof:id": 101824691, "wof:lang": ["ger"], "wof:lastmodified": 1690873172, "wof:name": "Schmiedefeld am Rennsteig", "wof:parent_id": 1377690431, "wof:placetype": "locality", "wof:population": 1989, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125322167, 1125313843], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.772889, 50.580517, 10.844487, 50.651376], "geometry": {"coordinates": [[[[10.840263, 50.646212], [10.837663, 50.644762], [10.835265, 50.643833], [10.834791, 50.642943], [10.837, 50.643081], [10.837066, 50.642451], [10.834598, 50.641657], [10.834887, 50.640913], [10.83521, 50.640081], [10.835585, 50.639144], [10.835279, 50.637858], [10.831149, 50.637069], [10.833941, 50.636827], [10.833178, 50.634985], [10.831612, 50.635593], [10.83005, 50.634778], [10.827769, 50.63222], [10.825456, 50.627188], [10.827725, 50.625949], [10.829731, 50.623604], [10.829901, 50.621651], [10.830522, 50.619427], [10.834047, 50.61795], [10.84081, 50.614439], [10.844487, 50.610712], [10.844298, 50.60993], [10.843727, 50.609266], [10.843644, 50.607521], [10.839846, 50.604446], [10.839701, 50.603915], [10.838032, 50.60383], [10.8378, 50.602602], [10.83851, 50.601428], [10.839897, 50.600881], [10.838003, 50.599659], [10.838988, 50.599284], [10.838838, 50.598042], [10.838045, 50.597856], [10.833316, 50.596736], [10.826546, 50.590915], [10.826201, 50.589972], [10.826334, 50.588793], [10.827896, 50.585837], [10.828183, 50.584504], [10.828021, 50.581527], [10.827256, 50.580517], [10.827525, 50.581469], [10.82742, 50.582588], [10.827206, 50.584017], [10.826918, 50.585435], [10.82685, 50.585822], [10.826739, 50.586155], [10.826502, 50.58657], [10.82537, 50.588462], [10.825287, 50.588706], [10.825289, 50.588895], [10.825454, 50.590298], [10.825526, 50.59054], [10.825684, 50.590819], [10.82587, 50.591178], [10.828481, 50.594734], [10.828981, 50.595479], [10.829111, 50.595821], [10.829212, 50.596055], [10.829328, 50.596594], [10.829401, 50.596927], [10.829319, 50.597242], [10.829124, 50.597602], [10.828674, 50.597964], [10.827943, 50.598524], [10.827464, 50.598795], [10.826858, 50.599138], [10.825885, 50.599456], [10.825518, 50.599502], [10.825023, 50.599504], [10.824401, 50.599523], [10.822748, 50.599591], [10.822295, 50.599619], [10.821603, 50.59972], [10.819072, 50.597523], [10.817695, 50.59934], [10.816744, 50.599998], [10.81453, 50.599248], [10.813415, 50.600251], [10.812066, 50.599997], [10.809767, 50.601327], [10.80613, 50.600797], [10.804174, 50.601133], [10.80118, 50.60269], [10.798517, 50.603527], [10.79809, 50.604462], [10.796159, 50.604267], [10.797219, 50.606714], [10.795781, 50.607464], [10.794844, 50.606747], [10.793949, 50.606101], [10.791871, 50.60616], [10.789837, 50.606525], [10.78633, 50.608694], [10.784916, 50.611018], [10.781925, 50.612258], [10.780945, 50.613889], [10.780309, 50.616347], [10.772889, 50.619469], [10.773008, 50.620495], [10.77294, 50.620954], [10.780359, 50.622196], [10.784336, 50.62035], [10.788758, 50.62177], [10.789087, 50.624801], [10.787427, 50.626146], [10.786893, 50.626777], [10.786585, 50.627291], [10.786603, 50.627957], [10.786903, 50.628433], [10.787091, 50.629143], [10.787321, 50.629692], [10.787537, 50.630285], [10.78727, 50.63052], [10.78669, 50.630575], [10.785659, 50.630802], [10.784401, 50.630977], [10.783412, 50.631294], [10.782383, 50.631791], [10.779394, 50.633589], [10.776534, 50.635647], [10.777247, 50.636536], [10.778477, 50.638792], [10.786941, 50.639284], [10.790945, 50.64147], [10.791639, 50.641648], [10.794164, 50.642595], [10.794633, 50.642828], [10.796522, 50.644011], [10.797119, 50.644423], [10.797503, 50.644746], [10.797831, 50.645105], [10.798574, 50.646318], [10.798775, 50.64665], [10.799059, 50.646883], [10.799329, 50.64709], [10.799756, 50.647376], [10.800083, 50.647601], [10.801246, 50.648074], [10.803588, 50.649058], [10.80397, 50.649147], [10.804381, 50.649218], [10.804891, 50.649253], [10.8101, 50.649464], [10.810667, 50.649525], [10.811219, 50.649632], [10.81621, 50.651022], [10.817004, 50.651208], [10.817642, 50.651324], [10.818237, 50.651376], [10.818986, 50.651347], [10.81992, 50.651272], [10.824332, 50.650738], [10.824827, 50.650638], [10.826691, 50.650102], [10.828117, 50.649567], [10.828653, 50.649367], [10.829359, 50.649158], [10.83022, 50.64876], [10.831037, 50.648317], [10.831446, 50.648037], [10.831896, 50.647631], [10.832261, 50.64727], [10.832782, 50.646926], [10.833149, 50.646727], [10.83367, 50.646447], [10.83415, 50.646283], [10.83456, 50.646183], [10.835012, 50.646137], [10.835536, 50.646135], [10.840263, 50.646212]]]], "type": "MultiPolygon"}}
+{
+  "id": 101824691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002405,
+    "geom:area_square_m":18865110.14172,
+    "geom:bbox":"10.772889,50.580517,10.844487,50.651376",
+    "geom:latitude":50.623414,
+    "geom:longitude":10.811293,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":1796,
+    "iso:country":"DE",
+    "lbl:latitude":50.608416,
+    "lbl:longitude":10.810657,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":50.608416,
+    "mps:longitude":10.810657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:arg_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ast_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:bak_x_preferred":[
+        "\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:bar_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:bre_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:cat_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ceb_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ces_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:cos_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:cym_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:dan_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:deu_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:deu_x_variant":[
+        "Schmiedefeld"
+    ],
+    "name:eng_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:epo_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:est_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:eus_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u06cc\u062f\u0641\u0644\u062f \u0627\u0645 \u0631\u0646\u0634\u062a\u0627\u06cc\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:fra_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:frp_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:fur_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:gla_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:gle_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:glg_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:gsw_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:hbs_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:hrv_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:hun_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ido_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ile_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ina_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ind_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:isl_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ita_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30df\u30fc\u30c7\u30d5\u30a7\u30eb\u30c8\u30fb\u30a2\u30e0\u30fb\u30ec\u30f3\u30b7\u30e5\u30bf\u30a4\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:kon_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:lat_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:lij_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:lim_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ltz_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:min_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u0434 \u043d\u0430 \u0420\u0435\u043d\u0448\u0442\u0430\u0458\u0433"
+    ],
+    "name:mlg_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:msa_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:nap_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:nds_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:nld_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:nno_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:nob_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:nrm_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:oci_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:pcd_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:pms_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:pol_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:por_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:roh_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:ron_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:scn_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:sco_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:slk_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:slv_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:spa_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:srd_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u0434 \u0430\u043c \u0420\u0435\u043d\u0448\u0442\u0430\u0458\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:swe_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u043c\u0438\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043c\u0456\u0434\u0435\u0444\u0435\u043b\u044c\u0434-\u0430\u043c-\u0420\u0435\u043d\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:vec_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:vie_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:vls_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:vol_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:war_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:wln_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:wol_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f26\u65af\u6cf0\u683c\u5730\u533a\u65bd\u7c73\u5fb7\u8d39\u5c14\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u4f26\u65af\u6cf0\u5e0c\u5730\u533a\u65bd\u7c73\u5fb7\u8d39\u5c14\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Schmiedefeld am Rennsteig"
+    ],
+    "nav:latitude":50.608416,
+    "nav:longitude":10.810657,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Ilm-Kreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Schmiedefeld am Rennsteig",
+    "qs:la_lc":"*DE16007008046",
+    "qs:level":"locality",
+    "qs:loc":"Schmiedefeld am Rennsteig",
+    "qs:loc_alt":"Schmiedefeld am Rennsteig",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6550220,
+    "qs_pg:gn_pop":1796,
+    "qs_pg:name":"Gemeinde Schmiedefeld am Rennsteig",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Th\u00fcringen",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":227,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":220886,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12625160,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":55,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Th\u00fcringen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377690431,
+        85633111,
+        102063677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0756d700-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2837777,
+        "gp:id":692488,
+        "qs_pg:id":1346227,
+        "wd:id":"Q631546",
+        "wk:page":"Schmiedefeld am Rennsteig"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"cf40d3a548e4bb175e6d7bb591d13511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063677,
+            "localadmin_id":1377690431,
+            "locality_id":101824691,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101824691,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873172,
+    "wof:name":"Schmiedefeld am Rennsteig",
+    "wof:parent_id":1377690431,
+    "wof:placetype":"locality",
+    "wof:population":1989,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125322167,
+        1125313843
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.772889,
+    50.580517,
+    10.844487,
+    50.651376
+],
+  "geometry": {"coordinates":[[[[10.840263,50.646212],[10.837663,50.644762],[10.835265,50.643833],[10.834791,50.642943],[10.837,50.643081],[10.837066,50.642451],[10.834598,50.641657],[10.834887,50.640913],[10.83521,50.640081],[10.835585,50.639144],[10.835279,50.637858],[10.831149,50.637069],[10.833941,50.636827],[10.833178,50.634985],[10.831612,50.635593],[10.83005,50.634778],[10.827769,50.63222],[10.825456,50.627188],[10.827725,50.625949],[10.829731,50.623604],[10.829901,50.621651],[10.830522,50.619427],[10.834047,50.61795],[10.84081,50.614439],[10.844487,50.610712],[10.844298,50.60993],[10.843727,50.609266],[10.843644,50.607521],[10.839846,50.604446],[10.839701,50.603915],[10.838032,50.60383],[10.8378,50.602602],[10.83851,50.601428],[10.839897,50.600881],[10.838003,50.599659],[10.838988,50.599284],[10.838838,50.598042],[10.838045,50.597856],[10.833316,50.596736],[10.826546,50.590915],[10.826201,50.589972],[10.826334,50.588793],[10.827896,50.585837],[10.828183,50.584504],[10.828021,50.581527],[10.827256,50.580517],[10.827525,50.581469],[10.82742,50.582588],[10.827206,50.584017],[10.826918,50.585435],[10.82685,50.585822],[10.826739,50.586155],[10.826502,50.58657],[10.82537,50.588462],[10.825287,50.588706],[10.825289,50.588895],[10.825454,50.590298],[10.825526,50.59054],[10.825684,50.590819],[10.82587,50.591178],[10.828481,50.594734],[10.828981,50.595479],[10.829111,50.595821],[10.829212,50.596055],[10.829328,50.596594],[10.829401,50.596927],[10.829319,50.597242],[10.829124,50.597602],[10.828674,50.597964],[10.827943,50.598524],[10.827464,50.598795],[10.826858,50.599138],[10.825885,50.599456],[10.825518,50.599502],[10.825023,50.599504],[10.824401,50.599523],[10.822748,50.599591],[10.822295,50.599619],[10.821603,50.59972],[10.819072,50.597523],[10.817695,50.59934],[10.816744,50.599998],[10.81453,50.599248],[10.813415,50.600251],[10.812066,50.599997],[10.809767,50.601327],[10.80613,50.600797],[10.804174,50.601133],[10.80118,50.60269],[10.798517,50.603527],[10.79809,50.604462],[10.796159,50.604267],[10.797219,50.606714],[10.795781,50.607464],[10.794844,50.606747],[10.793949,50.606101],[10.791871,50.60616],[10.789837,50.606525],[10.78633,50.608694],[10.784916,50.611018],[10.781925,50.612258],[10.780945,50.613889],[10.780309,50.616347],[10.772889,50.619469],[10.773008,50.620495],[10.77294,50.620954],[10.780359,50.622196],[10.784336,50.62035],[10.788758,50.62177],[10.789087,50.624801],[10.787427,50.626146],[10.786893,50.626777],[10.786585,50.627291],[10.786603,50.627957],[10.786903,50.628433],[10.787091,50.629143],[10.787321,50.629692],[10.787537,50.630285],[10.78727,50.63052],[10.78669,50.630575],[10.785659,50.630802],[10.784401,50.630977],[10.783412,50.631294],[10.782383,50.631791],[10.779394,50.633589],[10.776534,50.635647],[10.777247,50.636536],[10.778477,50.638792],[10.786941,50.639284],[10.790945,50.64147],[10.791639,50.641648],[10.794164,50.642595],[10.794633,50.642828],[10.796522,50.644011],[10.797119,50.644423],[10.797503,50.644746],[10.797831,50.645105],[10.798574,50.646318],[10.798775,50.64665],[10.799059,50.646883],[10.799329,50.64709],[10.799756,50.647376],[10.800083,50.647601],[10.801246,50.648074],[10.803588,50.649058],[10.80397,50.649147],[10.804381,50.649218],[10.804891,50.649253],[10.8101,50.649464],[10.810667,50.649525],[10.811219,50.649632],[10.81621,50.651022],[10.817004,50.651208],[10.817642,50.651324],[10.818237,50.651376],[10.818986,50.651347],[10.81992,50.651272],[10.824332,50.650738],[10.824827,50.650638],[10.826691,50.650102],[10.828117,50.649567],[10.828653,50.649367],[10.829359,50.649158],[10.83022,50.64876],[10.831037,50.648317],[10.831446,50.648037],[10.831896,50.647631],[10.832261,50.64727],[10.832782,50.646926],[10.833149,50.646727],[10.83367,50.646447],[10.83415,50.646283],[10.83456,50.646183],[10.835012,50.646137],[10.835536,50.646135],[10.840263,50.646212]]]],"type":"MultiPolygon"}
+}

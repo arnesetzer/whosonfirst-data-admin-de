@@ -1,1 +1,267 @@
-{"id": 101818461, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_03354019", "eurostat:level_code": "lau", "eurostat:name_local": "Neu Darchau", "eurostat:nuts_2021_id": "03354019", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE9", "eurostat:nuts_2021_level_2": "DE93", "eurostat:nuts_2021_level_3": "DE934", "eurostat:nuts_2021_level_lau": "03354019", "eurostat:population": 1374, "eurostat:population_year": 2020, "geom:area": 0.003062, "geom:area_square_m": 22677311.443961, "geom:bbox": "10.859217,53.179748,10.971625,53.250067", "geom:latitude": 53.211677, "geom:longitude": 10.903949, "gn:admin1_code": "6", "gn:admin2_code": "0.0", "gn:admin3_code": "3354.0", "gn:admin4_code": "3354019.0", "gn:asciiname": "Neu Darchau", "gn:country": null, "gn:country_code": "DE", "gn:dem": 15, "gn:fcode": "ADM4", "gn:feature_class": "P", "gn:feature_code": "PPLA4", "gn:geonameid": 2866046, "gn:latitude": 53.22901, "gn:longitude": 10.88529, "gn:modification_date": "2011-08-28", "gn:name": "Neu Darchau", "gn:population": 1486, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:latitude": 53.228368, "lbl:longitude": 10.887922, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 53.228368, "mps:longitude": 10.887922, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Neu Darchau"], "name:ceb_x_preferred": ["Neu Darchau"], "name:che_x_preferred": ["\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"], "name:deu_x_preferred": ["Neu Darchau"], "name:eng_x_preferred": ["Neu Darchau"], "name:epo_x_preferred": ["Neu Darchau"], "name:est_x_preferred": ["Neu Darchau"], "name:eus_x_preferred": ["Neu Darchau"], "name:fas_x_preferred": ["\u0646\u0648\u06cc \u062f\u0627\u0631\u0634\u0627\u0648"], "name:fra_x_preferred": ["Neu Darchau"], "name:hbs_x_preferred": ["Neu Darchau"], "name:hun_x_preferred": ["Neu Darchau"], "name:ita_x_preferred": ["Neu Darchau"], "name:kaz_x_preferred": ["\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"], "name:kir_x_preferred": ["\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"], "name:lat_x_preferred": ["Neu Darchau"], "name:mkd_x_preferred": ["\u041d\u043e\u0458 \u0414\u0430\u0440\u0445\u0430\u0443"], "name:msa_x_preferred": ["Neu Darchau"], "name:nan_x_preferred": ["Neu Darchau"], "name:nld_x_preferred": ["Neu Darchau"], "name:nob_x_preferred": ["Neu Darchau"], "name:pol_x_preferred": ["Neu Darchau"], "name:por_x_preferred": ["Neu Darchau"], "name:ron_x_preferred": ["Neu Darchau"], "name:rus_x_preferred": ["\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"], "name:spa_x_preferred": ["Neu Darchau"], "name:srp_x_preferred": ["\u041d\u043e\u0458 \u0414\u0430\u0440\u0445\u0430\u0443"], "name:swe_x_preferred": ["Neu Darchau"], "name:tat_x_preferred": ["\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"], "name:ukr_x_preferred": ["\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"], "name:uzb_x_preferred": ["Neu Darchau"], "name:vie_x_preferred": ["Neu Darchau"], "name:vol_x_preferred": ["Neu Darchau"], "name:war_x_preferred": ["Neu Darchau"], "name:zho_min_nan_x_preferred": ["Neu Darchau"], "name:zho_x_preferred": ["\u65b0\u8fbe\u5c14\u8096"], "name:zho_x_variant": ["\u8bfa\u4f0a\u8fbe\u5c14\u8096"], "nav:latitude": 53.228368, "nav:longitude": 10.887922, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "L\u00fcchow-Dannenberg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Neu Darchau", "qs:la_lc": "*DE03035404019", "qs:level": "locality", "qs:loc": "Neu Darchau", "qs:loc_alt": "Neu Darchau", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6552662, "qs_pg:gn_pop": 1486, "qs_pg:name": "Gemeinde Neu Darchau", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Niedersachsen", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 2, "qs_pg:photos_all": 30, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1017488, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12629657, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 31, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Niedersachsen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682555, 102191581, 1377687431, 85633111, 102063993], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_03354019", "eurostat:nuts_2021_id": "03354019", "gn:id": 2938944, "gp:id": 677624, "qs_pg:id": 1025482, "wd:id": "Q630467", "wk:page": "Neu Darchau"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "6c658a7391633d4f55b9e9eb6a239948", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063993, "localadmin_id": 1377687431, "locality_id": 101818461, "region_id": 85682555}], "wof:id": 101818461, "wof:lastmodified": 1690871976, "wof:name": "Neu Darchau", "wof:parent_id": 1377687431, "wof:placetype": "locality", "wof:population": 1374, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125390315, 1125327155, 1242965609], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.859217, 53.179748, 10.971625, 53.250067], "geometry": {"coordinates": [[[[10.971625, 53.198101], [10.967545, 53.195507], [10.964217, 53.192494], [10.952202, 53.193364], [10.947958, 53.192666], [10.943403, 53.19254], [10.94235, 53.196827], [10.938157, 53.198671], [10.932918, 53.198424], [10.929997, 53.197994], [10.924802, 53.200979], [10.91416, 53.202732], [10.910712, 53.202168], [10.908607, 53.201249], [10.910203, 53.199002], [10.908967, 53.19573], [10.908377, 53.194008], [10.908935, 53.192282], [10.909655, 53.189418], [10.910484, 53.186002], [10.910462, 53.183623], [10.907327, 53.179771], [10.903366, 53.179748], [10.902297, 53.180596], [10.900635, 53.180512], [10.897888, 53.181204], [10.89415, 53.182504], [10.891473, 53.183215], [10.8906, 53.183446], [10.885616, 53.184566], [10.885092, 53.18505], [10.885506, 53.185486], [10.885825, 53.186034], [10.885995, 53.186608], [10.887319, 53.186756], [10.888208, 53.187938], [10.889515, 53.18792], [10.890261, 53.190154], [10.891704, 53.190995], [10.89227, 53.192188], [10.892645, 53.192619], [10.894689, 53.192712], [10.895094, 53.193959], [10.894419, 53.19514], [10.893945, 53.196744], [10.891317, 53.196233], [10.89042, 53.196106], [10.886598, 53.196823], [10.883657, 53.19585], [10.882823, 53.194021], [10.879375, 53.193849], [10.876737, 53.19391], [10.872055, 53.193739], [10.872106, 53.194152], [10.869802, 53.194231], [10.867523, 53.194466], [10.867342, 53.195551], [10.866297, 53.195625], [10.866466, 53.198836], [10.867416, 53.198818], [10.867589, 53.19956], [10.868435, 53.201241], [10.869717, 53.203135], [10.870665, 53.203743], [10.874522, 53.205109], [10.8778, 53.206773], [10.876627, 53.207608], [10.875673, 53.208105], [10.875166, 53.208421], [10.874884, 53.20871], [10.874873, 53.209105], [10.87501, 53.209402], [10.875222, 53.209707], [10.875568, 53.209894], [10.87569, 53.210128], [10.875543, 53.210461], [10.875113, 53.210938], [10.874018, 53.211482], [10.873955, 53.211811], [10.873918, 53.213045], [10.871969, 53.214498], [10.869967, 53.216824], [10.867336, 53.221029], [10.865963, 53.221599], [10.865261, 53.223696], [10.864891, 53.2242], [10.863659, 53.225579], [10.863882, 53.228976], [10.8647, 53.23185], [10.866467, 53.231791], [10.866858, 53.232601], [10.867317, 53.233548], [10.867639, 53.234284], [10.869549, 53.23855], [10.869193, 53.238964], [10.868764, 53.239604], [10.868423, 53.239964], [10.868244, 53.240163], [10.868246, 53.240333], [10.868337, 53.240486], [10.868639, 53.240728], [10.868896, 53.241014], [10.869078, 53.241337], [10.86917, 53.24158], [10.869129, 53.241993], [10.868967, 53.2423], [10.868655, 53.242669], [10.868179, 53.24312], [10.867717, 53.243436], [10.867285, 53.243698], [10.866762, 53.243897], [10.866284, 53.244051], [10.865806, 53.244188], [10.865133, 53.24436], [10.864521, 53.244641], [10.86379, 53.245038], [10.86318, 53.245544], [10.862688, 53.245923], [10.861067, 53.247437], [10.859217, 53.248351], [10.862363, 53.250067], [10.86608, 53.248303], [10.867095, 53.247815], [10.868617, 53.247037], [10.870915, 53.245898], [10.874794, 53.243891], [10.883938, 53.239153], [10.886713, 53.237895], [10.889714, 53.236663], [10.89056, 53.236352], [10.894378, 53.234748], [10.906047, 53.231228], [10.91008, 53.230187], [10.914726, 53.228659], [10.917806, 53.227421], [10.92055, 53.225928], [10.931226, 53.218052], [10.934717, 53.215776], [10.938358, 53.213765], [10.942615, 53.21161], [10.959878, 53.203508], [10.971625, 53.198101]]]], "type": "MultiPolygon"}}
+{
+  "id": 101818461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_03354019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neu Darchau",
+    "eurostat:nuts_2021_id":"03354019",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE9",
+    "eurostat:nuts_2021_level_2":"DE93",
+    "eurostat:nuts_2021_level_3":"DE934",
+    "eurostat:nuts_2021_level_lau":"03354019",
+    "eurostat:population":1374,
+    "eurostat:population_year":2020,
+    "geom:area":0.003062,
+    "geom:area_square_m":22677311.443961,
+    "geom:bbox":"10.859217,53.179748,10.971625,53.250067",
+    "geom:latitude":53.211677,
+    "geom:longitude":10.903949,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"3354.0",
+    "gn:admin4_code":"3354019.0",
+    "gn:asciiname":"Neu Darchau",
+    "gn:country":null,
+    "gn:country_code":"DE",
+    "gn:dem":15,
+    "gn:fcode":"ADM4",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2866046,
+    "gn:latitude":53.22901,
+    "gn:longitude":10.88529,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Neu Darchau",
+    "gn:population":1486,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:latitude":53.228368,
+    "lbl:longitude":10.887922,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":53.228368,
+    "mps:longitude":10.887922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:ceb_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:eng_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:epo_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:est_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:eus_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc \u062f\u0627\u0631\u0634\u0627\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:hbs_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:hun_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:ita_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"
+    ],
+    "name:lat_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0458 \u0414\u0430\u0440\u0445\u0430\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:nan_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:nld_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:nob_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:pol_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:por_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:ron_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0458 \u0414\u0430\u0440\u0445\u0430\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439-\u0414\u0430\u0440\u0445\u0430\u0443"
+    ],
+    "name:uzb_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:vie_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:vol_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:war_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Neu Darchau"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8fbe\u5c14\u8096"
+    ],
+    "name:zho_x_variant":[
+        "\u8bfa\u4f0a\u8fbe\u5c14\u8096"
+    ],
+    "nav:latitude":53.228368,
+    "nav:longitude":10.887922,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"L\u00fcchow-Dannenberg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Neu Darchau",
+    "qs:la_lc":"*DE03035404019",
+    "qs:level":"locality",
+    "qs:loc":"Neu Darchau",
+    "qs:loc_alt":"Neu Darchau",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6552662,
+    "qs_pg:gn_pop":1486,
+    "qs_pg:name":"Gemeinde Neu Darchau",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Niedersachsen",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1017488,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12629657,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":31,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Niedersachsen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377687431,
+        85633111,
+        102063993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_03354019",
+        "eurostat:nuts_2021_id":"03354019",
+        "gn:id":2938944,
+        "gp:id":677624,
+        "qs_pg:id":1025482,
+        "wd:id":"Q630467",
+        "wk:page":"Neu Darchau"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"6c658a7391633d4f55b9e9eb6a239948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063993,
+            "localadmin_id":1377687431,
+            "locality_id":101818461,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101818461,
+    "wof:lastmodified":1690871976,
+    "wof:name":"Neu Darchau",
+    "wof:parent_id":1377687431,
+    "wof:placetype":"locality",
+    "wof:population":1374,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125390315,
+        1125327155,
+        1242965609
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.859217,
+    53.179748,
+    10.971625,
+    53.250067
+],
+  "geometry": {"coordinates":[[[[10.971625,53.198101],[10.967545,53.195507],[10.964217,53.192494],[10.952202,53.193364],[10.947958,53.192666],[10.943403,53.19254],[10.94235,53.196827],[10.938157,53.198671],[10.932918,53.198424],[10.929997,53.197994],[10.924802,53.200979],[10.91416,53.202732],[10.910712,53.202168],[10.908607,53.201249],[10.910203,53.199002],[10.908967,53.19573],[10.908377,53.194008],[10.908935,53.192282],[10.909655,53.189418],[10.910484,53.186002],[10.910462,53.183623],[10.907327,53.179771],[10.903366,53.179748],[10.902297,53.180596],[10.900635,53.180512],[10.897888,53.181204],[10.89415,53.182504],[10.891473,53.183215],[10.8906,53.183446],[10.885616,53.184566],[10.885092,53.18505],[10.885506,53.185486],[10.885825,53.186034],[10.885995,53.186608],[10.887319,53.186756],[10.888208,53.187938],[10.889515,53.18792],[10.890261,53.190154],[10.891704,53.190995],[10.89227,53.192188],[10.892645,53.192619],[10.894689,53.192712],[10.895094,53.193959],[10.894419,53.19514],[10.893945,53.196744],[10.891317,53.196233],[10.89042,53.196106],[10.886598,53.196823],[10.883657,53.19585],[10.882823,53.194021],[10.879375,53.193849],[10.876737,53.19391],[10.872055,53.193739],[10.872106,53.194152],[10.869802,53.194231],[10.867523,53.194466],[10.867342,53.195551],[10.866297,53.195625],[10.866466,53.198836],[10.867416,53.198818],[10.867589,53.19956],[10.868435,53.201241],[10.869717,53.203135],[10.870665,53.203743],[10.874522,53.205109],[10.8778,53.206773],[10.876627,53.207608],[10.875673,53.208105],[10.875166,53.208421],[10.874884,53.20871],[10.874873,53.209105],[10.87501,53.209402],[10.875222,53.209707],[10.875568,53.209894],[10.87569,53.210128],[10.875543,53.210461],[10.875113,53.210938],[10.874018,53.211482],[10.873955,53.211811],[10.873918,53.213045],[10.871969,53.214498],[10.869967,53.216824],[10.867336,53.221029],[10.865963,53.221599],[10.865261,53.223696],[10.864891,53.2242],[10.863659,53.225579],[10.863882,53.228976],[10.8647,53.23185],[10.866467,53.231791],[10.866858,53.232601],[10.867317,53.233548],[10.867639,53.234284],[10.869549,53.23855],[10.869193,53.238964],[10.868764,53.239604],[10.868423,53.239964],[10.868244,53.240163],[10.868246,53.240333],[10.868337,53.240486],[10.868639,53.240728],[10.868896,53.241014],[10.869078,53.241337],[10.86917,53.24158],[10.869129,53.241993],[10.868967,53.2423],[10.868655,53.242669],[10.868179,53.24312],[10.867717,53.243436],[10.867285,53.243698],[10.866762,53.243897],[10.866284,53.244051],[10.865806,53.244188],[10.865133,53.24436],[10.864521,53.244641],[10.86379,53.245038],[10.86318,53.245544],[10.862688,53.245923],[10.861067,53.247437],[10.859217,53.248351],[10.862363,53.250067],[10.86608,53.248303],[10.867095,53.247815],[10.868617,53.247037],[10.870915,53.245898],[10.874794,53.243891],[10.883938,53.239153],[10.886713,53.237895],[10.889714,53.236663],[10.89056,53.236352],[10.894378,53.234748],[10.906047,53.231228],[10.91008,53.230187],[10.914726,53.228659],[10.917806,53.227421],[10.92055,53.225928],[10.931226,53.218052],[10.934717,53.215776],[10.938358,53.213765],[10.942615,53.21161],[10.959878,53.203508],[10.971625,53.198101]]]],"type":"MultiPolygon"}
+}

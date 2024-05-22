@@ -1,1 +1,78 @@
-{"id": 1360297365, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.57214,50.18699,10.57214,50.18699", "geom:latitude": 50.18699, "geom:longitude": 10.57214, "gn:admin1_code": "2", "gn:admin2_code": "96.0", "gn:admin3_code": "9674.0", "gn:admin4_code": "9674120.0", "gn:asciiname": "Schweinshaupten", "gn:country_code": "DE", "gn:dem": 312, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2834452, "gn:latitude": 50.18699, "gn:longitude": 10.57214, "gn:modification_date": "2013-02-19", "gn:name": "Schweinshaupten", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.55214,50.16699,10.59214,50.20699", "lbl:max_zoom": 18.0, "lbl:min_zoom": 13.5, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 12.0, "src:geom": "geonames", "wof:belongsto": [85682571, 102191581, 85633111, 1377691063, 404227569, 102063593], "wof:breaches": [], "wof:concordances": {"gn:id": 2834452}, "wof:country": "DE", "wof:geomhash": "eaa132b17277e02b49f0e22682ba17ad", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063593, "localadmin_id": 1377691063, "locality_id": 1360297365, "macrocounty_id": 404227569, "region_id": 85682571}], "wof:id": 1360297365, "wof:lastmodified": 1566713283, "wof:name": "Schweinshaupten", "wof:parent_id": 1377691063, "wof:placetype": "locality", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.57214, 50.18699, 10.57214, 50.18699], "geometry": {"coordinates": [10.57214, 50.18699], "type": "Point"}}
+{
+  "id": 1360297365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.57214,50.18699,10.57214,50.18699",
+    "geom:latitude":50.18699,
+    "geom:longitude":10.57214,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"96.0",
+    "gn:admin3_code":"9674.0",
+    "gn:admin4_code":"9674120.0",
+    "gn:asciiname":"Schweinshaupten",
+    "gn:country_code":"DE",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2834452,
+    "gn:latitude":50.18699,
+    "gn:longitude":10.57214,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Schweinshaupten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.55214,50.16699,10.59214,50.20699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682571,
+        102191581,
+        85633111,
+        1377691063,
+        404227569,
+        102063593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2834452
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"eaa132b17277e02b49f0e22682ba17ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063593,
+            "localadmin_id":1377691063,
+            "locality_id":1360297365,
+            "macrocounty_id":404227569,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1360297365,
+    "wof:lastmodified":1566713283,
+    "wof:name":"Schweinshaupten",
+    "wof:parent_id":1377691063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.57214,
+    50.18699,
+    10.57214,
+    50.18699
+],
+  "geometry": {"coordinates":[10.57214,50.18699],"type":"Point"}
+}

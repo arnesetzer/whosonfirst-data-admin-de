@@ -1,1 +1,112 @@
-{"id": 1377801597, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "13.22643,51.1326,13.22643,51.1326", "geom:latitude": 51.1326, "geom:longitude": 13.22643, "gn:admin1_code": "13", "gn:admin2_code": "0.0", "gn:admin3_code": "14522.0", "gn:admin4_code": "14522080.0", "gn:asciiname": "Thal", "gn:country_code": "DE", "gn:dem": 269, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2823160, "gn:latitude": 51.1326, "gn:longitude": 13.22643, "gn:modification_date": "2018-04-14", "gn:name": "Thal", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "13.22143,51.1276,13.23143,51.1376", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:als_x_preferred": ["Thal"], "name:ceb_x_preferred": ["Thal"], "name:deu_x_preferred": ["Thal"], "name:epo_x_preferred": ["Thal"], "name:fra_x_preferred": ["Thal"], "name:ita_x_preferred": ["Thal"], "name:nld_x_preferred": ["Thal"], "name:pol_x_preferred": ["Thal"], "name:spa_x_preferred": ["Thal"], "name:swe_x_preferred": ["Thal"], "name:vol_x_preferred": ["Thal"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377685795, 85633111, 101821831, 102064223, 85682523], "wof:breaches": [], "wof:concordances": {"gn:id": 2823160}, "wof:country": "DE", "wof:geomhash": "66f27e4a75c5b363d308750d16a8c531", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064223, "localadmin_id": 1377685795, "locality_id": 101821831, "neighbourhood_id": 1377801597, "region_id": 85682523}], "wof:id": 1377801597, "wof:lastmodified": 1566719341, "wof:name": "Thal", "wof:parent_id": 101821831, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1276427023], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.22643, 51.1326, 13.22643, 51.1326], "geometry": {"coordinates": [13.22643, 51.1326], "type": "Point"}}
+{
+  "id": 1377801597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.22643,51.1326,13.22643,51.1326",
+    "geom:latitude":51.1326,
+    "geom:longitude":13.22643,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"14522.0",
+    "gn:admin4_code":"14522080.0",
+    "gn:asciiname":"Thal",
+    "gn:country_code":"DE",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2823160,
+    "gn:latitude":51.1326,
+    "gn:longitude":13.22643,
+    "gn:modification_date":"2018-04-14",
+    "gn:name":"Thal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"13.22143,51.1276,13.23143,51.1376",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:als_x_preferred":[
+        "Thal"
+    ],
+    "name:ceb_x_preferred":[
+        "Thal"
+    ],
+    "name:deu_x_preferred":[
+        "Thal"
+    ],
+    "name:epo_x_preferred":[
+        "Thal"
+    ],
+    "name:fra_x_preferred":[
+        "Thal"
+    ],
+    "name:ita_x_preferred":[
+        "Thal"
+    ],
+    "name:nld_x_preferred":[
+        "Thal"
+    ],
+    "name:pol_x_preferred":[
+        "Thal"
+    ],
+    "name:spa_x_preferred":[
+        "Thal"
+    ],
+    "name:swe_x_preferred":[
+        "Thal"
+    ],
+    "name:vol_x_preferred":[
+        "Thal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377685795,
+        85633111,
+        101821831,
+        102064223,
+        85682523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2823160
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"66f27e4a75c5b363d308750d16a8c531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064223,
+            "localadmin_id":1377685795,
+            "locality_id":101821831,
+            "neighbourhood_id":1377801597,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":1377801597,
+    "wof:lastmodified":1566719341,
+    "wof:name":"Thal",
+    "wof:parent_id":101821831,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276427023
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.22643,
+    51.1326,
+    13.22643,
+    51.1326
+],
+  "geometry": {"coordinates":[13.22643,51.1326],"type":"Point"}
+}

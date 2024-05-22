@@ -1,1 +1,103 @@
-{"id": 102549463, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.345556,52.586944,8.345556,52.586944", "geom:latitude": 52.586944, "geom:longitude": 8.345556, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 13.0, "name:ceb_x_preferred": ["Diepholz"], "name:deu_x_preferred": ["Fliegerhorst Diepholz"], "name:eng_x_preferred": ["Diepholz Air Base"], "name:eng_x_variant": ["ETND"], "name:ind_x_preferred": ["Lapangan Udara Diepholz"], "name:jpn_x_preferred": ["\u30c7\u30a3\u30fc\u30d7\u30db\u30eb\u30c4\u822a\u7a7a\u57fa\u5730"], "name:msa_x_preferred": ["Lapangan Terbang Diepholz AB"], "name:msa_x_variant": ["Lapangan Terbang Diepholz"], "name:por_x_preferred": ["Base a\u00e9rea de Diepholz"], "oa:elevation_ft": "128", "oa:type": "medium_airport", "src:geom": "wikidata", "src:geom_alt": [], "wd:wordcount": 418, "woe:hierarchy": {"country_id": 23424829, "county_id": 12596711, "localadmin_id": 12630067, "planet_id": 1, "state_id": 2345486}, "wof:belongsto": [102191581, 1377686451, 85633111, 101807907, 102063967, 85682555], "wof:breaches": [], "wof:concordances": {"gp:id": 12513078, "icao:code": "ETND", "oa:id": "2735", "wd:id": "Q834001"}, "wof:country": "DE", "wof:geomhash": "18760c40eea5bfb89d82d1c67061c1dd", "wof:hierarchy": [{"campus_id": 102549463, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063967, "localadmin_id": 1377686451, "locality_id": 101807907, "neighbourhood_id": -1, "region_id": 85682555}], "wof:id": 102549463, "wof:lastmodified": 1690871084, "wof:name": "Diepholz Airport", "wof:parent_id": 101807907, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [8.345556, 52.586944, 8.345556, 52.586944], "geometry": {"coordinates": [8.345556, 52.586944], "type": "Point"}}
+{
+  "id": 102549463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.345556,52.586944,8.345556,52.586944",
+    "geom:latitude":52.586944,
+    "geom:longitude":8.345556,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Diepholz"
+    ],
+    "name:deu_x_preferred":[
+        "Fliegerhorst Diepholz"
+    ],
+    "name:eng_x_preferred":[
+        "Diepholz Air Base"
+    ],
+    "name:eng_x_variant":[
+        "ETND"
+    ],
+    "name:ind_x_preferred":[
+        "Lapangan Udara Diepholz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30fc\u30d7\u30db\u30eb\u30c4\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Diepholz AB"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Diepholz"
+    ],
+    "name:por_x_preferred":[
+        "Base a\u00e9rea de Diepholz"
+    ],
+    "oa:elevation_ft":"128",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":418,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596711,
+        "localadmin_id":12630067,
+        "planet_id":1,
+        "state_id":2345486
+    },
+    "wof:belongsto":[
+        102191581,
+        1377686451,
+        85633111,
+        101807907,
+        102063967,
+        85682555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513078,
+        "icao:code":"ETND",
+        "oa:id":"2735",
+        "wd:id":"Q834001"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"18760c40eea5bfb89d82d1c67061c1dd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549463,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063967,
+            "localadmin_id":1377686451,
+            "locality_id":101807907,
+            "neighbourhood_id":-1,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":102549463,
+    "wof:lastmodified":1690871084,
+    "wof:name":"Diepholz Airport",
+    "wof:parent_id":101807907,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.345556,
+    52.586944,
+    8.345556,
+    52.586944
+],
+  "geometry": {"coordinates":[8.345556,52.586944],"type":"Point"}
+}

@@ -1,1 +1,111 @@
-{"id": 1377781423, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.63836,50.0326,10.63836,50.0326", "geom:latitude": 50.0326, "geom:longitude": 10.63836, "gn:admin1_code": "2.0", "gn:admin2_code": "96.0", "gn:admin3_code": "9674.0", "gn:admin4_code": "9674221.0", "gn:asciiname": "Bischofsheim", "gn:country_code": "DE", "gn:dem": 355, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2948289, "gn:latitude": 50.0326, "gn:longitude": 10.63836, "gn:modification_date": "2013-02-19", "gn:name": "Bischofsheim", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.63336,50.0276,10.64336,50.0376", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Bischofsheim"], "name:deu_x_preferred": ["Bischofsheim"], "name:epo_x_preferred": ["Bischofsheim"], "name:fra_x_preferred": ["Bischofsheim"], "name:ita_x_preferred": ["Bischofsheim"], "name:jpn_x_preferred": ["\u30d3\u30b7\u30e7\u30d5\u30b9\u30cf\u30a4\u30e0"], "name:kor_x_preferred": ["\ube44\uc1fc\ud504\uc2a4\ud558\uc784"], "name:nld_x_preferred": ["Bischofsheim"], "name:pol_x_preferred": ["Bischofsheim"], "name:swe_x_preferred": ["Bischofsheim"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377691041, 404227569, 101825949, 102063593, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2948289}, "wof:country": "DE", "wof:geomhash": "1f24fccc4b17a24280d3772f2ed56b00", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063593, "localadmin_id": 1377691041, "locality_id": 101825949, "macrocounty_id": 404227569, "neighbourhood_id": 1377781423, "region_id": 85682571}], "wof:id": 1377781423, "wof:lastmodified": 1566717693, "wof:name": "Bischofsheim", "wof:parent_id": 101825949, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1276230367], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.63836, 50.0326, 10.63836, 50.0326], "geometry": {"coordinates": [10.63836, 50.0326], "type": "Point"}}
+{
+  "id": 1377781423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.63836,50.0326,10.63836,50.0326",
+    "geom:latitude":50.0326,
+    "geom:longitude":10.63836,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"96.0",
+    "gn:admin3_code":"9674.0",
+    "gn:admin4_code":"9674221.0",
+    "gn:asciiname":"Bischofsheim",
+    "gn:country_code":"DE",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2948289,
+    "gn:latitude":50.0326,
+    "gn:longitude":10.63836,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Bischofsheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.63336,50.0276,10.64336,50.0376",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Bischofsheim"
+    ],
+    "name:deu_x_preferred":[
+        "Bischofsheim"
+    ],
+    "name:epo_x_preferred":[
+        "Bischofsheim"
+    ],
+    "name:fra_x_preferred":[
+        "Bischofsheim"
+    ],
+    "name:ita_x_preferred":[
+        "Bischofsheim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b7\u30e7\u30d5\u30b9\u30cf\u30a4\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc1fc\ud504\uc2a4\ud558\uc784"
+    ],
+    "name:nld_x_preferred":[
+        "Bischofsheim"
+    ],
+    "name:pol_x_preferred":[
+        "Bischofsheim"
+    ],
+    "name:swe_x_preferred":[
+        "Bischofsheim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377691041,
+        404227569,
+        101825949,
+        102063593,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2948289
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"1f24fccc4b17a24280d3772f2ed56b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063593,
+            "localadmin_id":1377691041,
+            "locality_id":101825949,
+            "macrocounty_id":404227569,
+            "neighbourhood_id":1377781423,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1377781423,
+    "wof:lastmodified":1566717693,
+    "wof:name":"Bischofsheim",
+    "wof:parent_id":101825949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276230367
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.63836,
+    50.0326,
+    10.63836,
+    50.0326
+],
+  "geometry": {"coordinates":[10.63836,50.0326],"type":"Point"}
+}

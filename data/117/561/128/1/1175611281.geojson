@@ -1,1 +1,153 @@
-{"id": 1175611281, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000152, "geom:area_square_m": 1185794.975168, "geom:bbox": "10.879909,50.88381,10.898457,50.903651", "geom:latitude": 50.896646, "geom:longitude": 10.890875, "gn:population": 1504, "iso:country": "DE", "lbl:latitude": 50.887407, "lbl:longitude": 10.893259, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 50.887407, "mps:longitude": 10.893259, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:ceb_x_preferred": ["Apfelst\u00e4dt"], "name:che_x_preferred": ["\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:deu_x_preferred": ["Apfelst\u00e4dt"], "name:eng_x_preferred": ["Apfelst\u00e4dt"], "name:epo_x_preferred": ["Apfelst\u00e4dt"], "name:fas_x_preferred": ["\u0622\u067e\u0641\u0644\u0634\u062a\u062f\u062a"], "name:fra_x_preferred": ["Apfelst\u00e4dt"], "name:gle_x_preferred": ["Apfelst\u00e4dt"], "name:ita_x_preferred": ["Apfelst\u00e4dt"], "name:kaz_x_preferred": ["\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:mkd_x_preferred": ["\u0410\u043f\u0444\u0435\u043b\u0448\u0442\u0435\u0442"], "name:nld_x_preferred": ["Apfelst\u00e4dt"], "name:por_x_preferred": ["Apfelst\u00e4dt"], "name:ron_x_preferred": ["Apfelst\u00e4dt"], "name:rus_x_preferred": ["\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:tat_x_preferred": ["\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["Apfelst\u00e4dt"], "name:vie_x_preferred": ["Apfelst\u00e4dt"], "name:vol_x_preferred": ["Apfelst\u00e4dt"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Ilm-Kreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Apfelst\u00e4dt", "qs:la_lc": "*DE16006709001", "qs:level": "locality", "qs:loc": "Apfelst\u00e4dt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": [], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682541, 102191581, 1377690383, 85633111, 102063677], "wof:breaches": [], "wof:concordances": {"gn:id": 2955787, "gp:id": 635317, "qs_pg:id": 1234053, "wd:id": "Q618378", "wk:page": "Apfelst\u00e4dt"}, "wof:country": "DE", "wof:geomhash": "a16efd45fcf4d17fa47ea9b16dd6bb04", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063677, "localadmin_id": 1377690383, "locality_id": 1175611281, "region_id": 85682541}], "wof:id": 1175611281, "wof:lastmodified": 1690871225, "wof:name": "Apfelst\u00e4dt", "wof:parent_id": 1377690383, "wof:placetype": "locality", "wof:population": 1504, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [101824045, 101910209], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.879909, 50.88381, 10.898457, 50.903651], "geometry": {"coordinates": [[[[10.896793, 50.890968], [10.896775, 50.890069], [10.898196, 50.890058], [10.898144, 50.887362], [10.896723, 50.887373], [10.896706, 50.886474], [10.895285, 50.886485], [10.895268, 50.885586], [10.893847, 50.885597], [10.89383, 50.884698], [10.892409, 50.884709], [10.892392, 50.88381], [10.88955, 50.883832], [10.889567, 50.884731], [10.888146, 50.884742], [10.88818, 50.88654], [10.889601, 50.886529], [10.889636, 50.888327], [10.891057, 50.888316], [10.891074, 50.889215], [10.893916, 50.889193], [10.893933, 50.890091], [10.895354, 50.89008], [10.895372, 50.890979], [10.896793, 50.890968]]], [[[10.898457, 50.903541], [10.898439, 50.902642], [10.897018, 50.902653], [10.896966, 50.899957], [10.898387, 50.899946], [10.898353, 50.898148], [10.896931, 50.898159], [10.896879, 50.895463], [10.889773, 50.895517], [10.889807, 50.897315], [10.882701, 50.89737], [10.882718, 50.898268], [10.881297, 50.898279], [10.881331, 50.900077], [10.879909, 50.900088], [10.879943, 50.901885], [10.882786, 50.901864], [10.882803, 50.902763], [10.884225, 50.902752], [10.884242, 50.903651], [10.898457, 50.903541]]]], "type": "MultiPolygon"}}
+{
+  "id": 1175611281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1185794.975168,
+    "geom:bbox":"10.879909,50.88381,10.898457,50.903651",
+    "geom:latitude":50.896646,
+    "geom:longitude":10.890875,
+    "gn:population":1504,
+    "iso:country":"DE",
+    "lbl:latitude":50.887407,
+    "lbl:longitude":10.893259,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":50.887407,
+    "mps:longitude":10.893259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:eng_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:epo_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u0641\u0644\u0634\u062a\u062f\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:gle_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:ita_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043f\u0444\u0435\u043b\u0448\u0442\u0435\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:por_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:ron_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043f\u0444\u0435\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:vie_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "name:vol_x_preferred":[
+        "Apfelst\u00e4dt"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Ilm-Kreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Apfelst\u00e4dt",
+    "qs:la_lc":"*DE16006709001",
+    "qs:level":"locality",
+    "qs:loc":"Apfelst\u00e4dt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377690383,
+        85633111,
+        102063677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2955787,
+        "gp:id":635317,
+        "qs_pg:id":1234053,
+        "wd:id":"Q618378",
+        "wk:page":"Apfelst\u00e4dt"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"a16efd45fcf4d17fa47ea9b16dd6bb04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063677,
+            "localadmin_id":1377690383,
+            "locality_id":1175611281,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":1175611281,
+    "wof:lastmodified":1690871225,
+    "wof:name":"Apfelst\u00e4dt",
+    "wof:parent_id":1377690383,
+    "wof:placetype":"locality",
+    "wof:population":1504,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101824045,
+        101910209
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.879909,
+    50.88381,
+    10.898457,
+    50.903651
+],
+  "geometry": {"coordinates":[[[[10.896793,50.890968],[10.896775,50.890069],[10.898196,50.890058],[10.898144,50.887362],[10.896723,50.887373],[10.896706,50.886474],[10.895285,50.886485],[10.895268,50.885586],[10.893847,50.885597],[10.89383,50.884698],[10.892409,50.884709],[10.892392,50.88381],[10.88955,50.883832],[10.889567,50.884731],[10.888146,50.884742],[10.88818,50.88654],[10.889601,50.886529],[10.889636,50.888327],[10.891057,50.888316],[10.891074,50.889215],[10.893916,50.889193],[10.893933,50.890091],[10.895354,50.89008],[10.895372,50.890979],[10.896793,50.890968]]],[[[10.898457,50.903541],[10.898439,50.902642],[10.897018,50.902653],[10.896966,50.899957],[10.898387,50.899946],[10.898353,50.898148],[10.896931,50.898159],[10.896879,50.895463],[10.889773,50.895517],[10.889807,50.897315],[10.882701,50.89737],[10.882718,50.898268],[10.881297,50.898279],[10.881331,50.900077],[10.879909,50.900088],[10.879943,50.901885],[10.882786,50.901864],[10.882803,50.902763],[10.884225,50.902752],[10.884242,50.903651],[10.898457,50.903541]]]],"type":"MultiPolygon"}
+}

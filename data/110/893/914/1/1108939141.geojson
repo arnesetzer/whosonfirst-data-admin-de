@@ -1,1 +1,68 @@
-{"id": 1108939141, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.80345115548,53.0854235487,8.80345115548,53.0854235487", "geom:latitude": 53.085424, "geom:longitude": 8.803451, "iso:country": "DE", "lbl:bbox": "8.79845115548,53.0804235487,8.80845115548,53.0904235487", "lbl:latitude": 53.085424, "lbl:longitude": 8.803451, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 15.0, "mz:tier_metro": 30, "src:lbl_centroid": "mz", "wof:belongsto": [85682561, 102191581, 1377689379, 85633111, 101913887, 102063991], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491360877, "wof:geomhash": "d42a7871b17aab1baa55fc1b5470b83e", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063991, "localadmin_id": 1377689379, "locality_id": 101913887, "neighbourhood_id": 1108939141, "region_id": 85682561}], "wof:id": 1108939141, "wof:lastmodified": 1623372431, "wof:name": "Bahnhofvorstadt", "wof:parent_id": 101913887, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.80345115548072, 53.08542354872653, 8.80345115548072, 53.08542354872653], "geometry": {"coordinates": [8.80345115548072, 53.08542354872653], "type": "Point"}}
+{
+  "id": 1108939141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80345115548,53.0854235487,8.80345115548,53.0854235487",
+    "geom:latitude":53.085424,
+    "geom:longitude":8.803451,
+    "iso:country":"DE",
+    "lbl:bbox":"8.79845115548,53.0804235487,8.80845115548,53.0904235487",
+    "lbl:latitude":53.085424,
+    "lbl:longitude":8.803451,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        85682561,
+        102191581,
+        1377689379,
+        85633111,
+        101913887,
+        102063991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491360877,
+    "wof:geomhash":"d42a7871b17aab1baa55fc1b5470b83e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063991,
+            "localadmin_id":1377689379,
+            "locality_id":101913887,
+            "neighbourhood_id":1108939141,
+            "region_id":85682561
+        }
+    ],
+    "wof:id":1108939141,
+    "wof:lastmodified":1623372431,
+    "wof:name":"Bahnhofvorstadt",
+    "wof:parent_id":101913887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80345115548072,
+    53.08542354872653,
+    8.80345115548072,
+    53.08542354872653
+],
+  "geometry": {"coordinates":[8.80345115548072,53.08542354872653],"type":"Point"}
+}

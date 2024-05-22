@@ -1,1 +1,198 @@
-{"id": 101824643, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_14521355", "eurostat:level_code": "lau", "eurostat:name_local": "Lauter-Bernsbach, Stadt", "eurostat:nuts_2021_id": "14521355", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DED", "eurostat:nuts_2021_level_2": "DED4", "eurostat:nuts_2021_level_3": "DED42", "eurostat:nuts_2021_level_lau": "14521355", "eurostat:population": 8628, "eurostat:population_year": 2020, "geom:area": 0.000204, "geom:area_square_m": 1604444.705736, "geom:bbox": "12.722983,50.555298,12.757096,50.569468", "geom:latitude": 50.562743, "geom:longitude": 12.738587, "gn:population": 5028, "iso:country": "DE", "lbl:latitude": 50.561658, "lbl:longitude": 12.735486, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 50.561658, "mps:longitude": 12.735486, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:ara_x_preferred": ["\u0644\u0627\u0648\u062a\u0631"], "name:ara_x_variant": ["\u0644\u0627\u0648\u062a\u0631 \u0632\u0627\u0643\u0633\u0646"], "name:arz_x_preferred": ["\u0644\u0627\u0648\u062a\u0631 \u0632\u0627\u0643\u0633\u0646"], "name:azb_x_preferred": ["\u0644\u0627\u0648\u062a\u0631\u060c \u0632\u0627\u06a9\u0633\u0646"], "name:azb_x_variant": ["\u0644\u0627\u0648\u062a\u0631"], "name:bak_x_preferred": ["\u041b\u0430\u0443\u0442\u0435\u0440"], "name:ceb_x_preferred": ["Lauter"], "name:che_x_preferred": ["\u041b\u0430\u0443\u0442\u0435\u0440"], "name:deu_x_preferred": ["Lauter/Sa."], "name:eng_x_preferred": ["Lauter"], "name:epo_x_preferred": ["Lauter"], "name:est_x_preferred": ["Lauter"], "name:fas_x_preferred": ["\u0644\u0627\u0648\u062a\u0631\u060c \u0632\u0627\u06a9\u0633\u0646"], "name:fas_x_variant": ["\u0644\u0627\u0648\u062a\u0631"], "name:fra_x_preferred": ["Lauter"], "name:gle_x_preferred": ["Lauter/Sa."], "name:ita_x_preferred": ["Lauter/Sa."], "name:mkd_x_preferred": ["\u041b\u0430\u0443\u0442\u0435\u0440"], "name:msa_x_preferred": ["Lauter"], "name:nld_x_preferred": ["Lauter/Sa."], "name:nob_x_preferred": ["Lauter"], "name:pol_x_preferred": ["Lauter/Sa."], "name:por_x_preferred": ["Lauter"], "name:ron_x_preferred": ["Lauter/Sa."], "name:rus_x_preferred": ["\u041b\u0430\u0443\u0442\u0435\u0440"], "name:spa_x_preferred": ["Lauter"], "name:srp_x_preferred": ["\u041b\u0430\u0443\u0442\u0435\u0440"], "name:swe_x_preferred": ["Lauter"], "name:tat_x_preferred": ["\u041b\u0430\u0443\u0442\u0435\u0440"], "name:uzb_x_preferred": ["Lauter/Sa."], "name:vol_x_preferred": ["Lauter/Sa."], "name:war_x_preferred": ["Lauter"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen", "qs:a1r": "0", "qs:a2": "Erzgebirgskreis", "qs:a2r": "Chemnitz", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Lauter/Sa.", "qs:la_lc": "*DE14109100190", "qs:level": "locality", "qs:loc": "Lauter/Sa.", "qs:loc_alt": "Lauter/Sa.", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": [], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682523, 102191581, 1377685523, 85633111, 102064211], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_14521355", "eurostat:nuts_2021_id": "14521355", "gn:id": 2879964, "gp:id": 670670, "qs_pg:id": 969512, "wd:id": "Q57911", "wk:page": "Lauter, Saxony"}, "wof:country": "DE", "wof:geomhash": "ab821747c319adf7c5c7496004efecca", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064211, "localadmin_id": 1377685523, "locality_id": 101824643, "region_id": 85682523}], "wof:id": 101824643, "wof:lastmodified": 1690873137, "wof:name": "Lauter/Sa.", "wof:parent_id": 1377685523, "wof:placetype": "locality", "wof:population": 8628, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.722983, 50.555298, 12.757096, 50.569468], "geometry": {"coordinates": [[[12.757096, 50.565639], [12.75699, 50.563842], [12.751349, 50.563978], [12.751296, 50.563079], [12.749886, 50.563113], [12.749833, 50.562215], [12.747012, 50.562282], [12.746855, 50.559587], [12.748265, 50.559554], [12.748213, 50.558655], [12.745392, 50.558723], [12.74534, 50.557825], [12.743929, 50.557858], [12.743982, 50.558757], [12.739751, 50.558857], [12.739646, 50.557061], [12.738236, 50.557095], [12.738131, 50.555298], [12.736721, 50.555332], [12.736773, 50.55623], [12.731132, 50.556364], [12.731237, 50.558161], [12.729826, 50.558194], [12.730035, 50.561787], [12.722983, 50.561954], [12.723035, 50.562853], [12.728677, 50.562719], [12.728833, 50.565414], [12.726012, 50.565481], [12.726064, 50.566379], [12.724654, 50.566413], [12.724758, 50.568209], [12.726168, 50.568176], [12.72622, 50.569074], [12.727631, 50.56904], [12.727579, 50.568142], [12.72899, 50.568109], [12.728937, 50.56721], [12.740222, 50.566942], [12.74017, 50.566044], [12.74158, 50.56601], [12.741423, 50.563315], [12.745654, 50.563214], [12.745707, 50.564113], [12.747117, 50.564079], [12.747432, 50.569468], [12.748843, 50.569435], [12.74879, 50.568536], [12.750201, 50.568503], [12.750148, 50.567604], [12.751559, 50.567571], [12.751506, 50.566672], [12.752917, 50.566639], [12.752864, 50.56574], [12.757096, 50.565639]]], "type": "Polygon"}}
+{
+  "id": 101824643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_14521355",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lauter-Bernsbach, Stadt",
+    "eurostat:nuts_2021_id":"14521355",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DED",
+    "eurostat:nuts_2021_level_2":"DED4",
+    "eurostat:nuts_2021_level_3":"DED42",
+    "eurostat:nuts_2021_level_lau":"14521355",
+    "eurostat:population":8628,
+    "eurostat:population_year":2020,
+    "geom:area":0.000204,
+    "geom:area_square_m":1604444.705736,
+    "geom:bbox":"12.722983,50.555298,12.757096,50.569468",
+    "geom:latitude":50.562743,
+    "geom:longitude":12.738587,
+    "gn:population":5028,
+    "iso:country":"DE",
+    "lbl:latitude":50.561658,
+    "lbl:longitude":12.735486,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":50.561658,
+    "mps:longitude":12.735486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0648\u062a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0644\u0627\u0648\u062a\u0631 \u0632\u0627\u0643\u0633\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0648\u062a\u0631 \u0632\u0627\u0643\u0633\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u0648\u062a\u0631\u060c \u0632\u0627\u06a9\u0633\u0646"
+    ],
+    "name:azb_x_variant":[
+        "\u0644\u0627\u0648\u062a\u0631"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Lauter"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0435\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Lauter/Sa."
+    ],
+    "name:eng_x_preferred":[
+        "Lauter"
+    ],
+    "name:epo_x_preferred":[
+        "Lauter"
+    ],
+    "name:est_x_preferred":[
+        "Lauter"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0648\u062a\u0631\u060c \u0632\u0627\u06a9\u0633\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u0648\u062a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Lauter"
+    ],
+    "name:gle_x_preferred":[
+        "Lauter/Sa."
+    ],
+    "name:ita_x_preferred":[
+        "Lauter/Sa."
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0435\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Lauter"
+    ],
+    "name:nld_x_preferred":[
+        "Lauter/Sa."
+    ],
+    "name:nob_x_preferred":[
+        "Lauter"
+    ],
+    "name:pol_x_preferred":[
+        "Lauter/Sa."
+    ],
+    "name:por_x_preferred":[
+        "Lauter"
+    ],
+    "name:ron_x_preferred":[
+        "Lauter/Sa."
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Lauter"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Lauter"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0435\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Lauter/Sa."
+    ],
+    "name:vol_x_preferred":[
+        "Lauter/Sa."
+    ],
+    "name:war_x_preferred":[
+        "Lauter"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Erzgebirgskreis",
+    "qs:a2r":"Chemnitz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Lauter/Sa.",
+    "qs:la_lc":"*DE14109100190",
+    "qs:level":"locality",
+    "qs:loc":"Lauter/Sa.",
+    "qs:loc_alt":"Lauter/Sa.",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682523,
+        102191581,
+        1377685523,
+        85633111,
+        102064211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_14521355",
+        "eurostat:nuts_2021_id":"14521355",
+        "gn:id":2879964,
+        "gp:id":670670,
+        "qs_pg:id":969512,
+        "wd:id":"Q57911",
+        "wk:page":"Lauter, Saxony"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"ab821747c319adf7c5c7496004efecca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064211,
+            "localadmin_id":1377685523,
+            "locality_id":101824643,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":101824643,
+    "wof:lastmodified":1690873137,
+    "wof:name":"Lauter/Sa.",
+    "wof:parent_id":1377685523,
+    "wof:placetype":"locality",
+    "wof:population":8628,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.722983,
+    50.555298,
+    12.757096,
+    50.569468
+],
+  "geometry": {"coordinates":[[[12.757096,50.565639],[12.75699,50.563842],[12.751349,50.563978],[12.751296,50.563079],[12.749886,50.563113],[12.749833,50.562215],[12.747012,50.562282],[12.746855,50.559587],[12.748265,50.559554],[12.748213,50.558655],[12.745392,50.558723],[12.74534,50.557825],[12.743929,50.557858],[12.743982,50.558757],[12.739751,50.558857],[12.739646,50.557061],[12.738236,50.557095],[12.738131,50.555298],[12.736721,50.555332],[12.736773,50.55623],[12.731132,50.556364],[12.731237,50.558161],[12.729826,50.558194],[12.730035,50.561787],[12.722983,50.561954],[12.723035,50.562853],[12.728677,50.562719],[12.728833,50.565414],[12.726012,50.565481],[12.726064,50.566379],[12.724654,50.566413],[12.724758,50.568209],[12.726168,50.568176],[12.72622,50.569074],[12.727631,50.56904],[12.727579,50.568142],[12.72899,50.568109],[12.728937,50.56721],[12.740222,50.566942],[12.74017,50.566044],[12.74158,50.56601],[12.741423,50.563315],[12.745654,50.563214],[12.745707,50.564113],[12.747117,50.564079],[12.747432,50.569468],[12.748843,50.569435],[12.74879,50.568536],[12.750201,50.568503],[12.750148,50.567604],[12.751559,50.567571],[12.751506,50.566672],[12.752917,50.566639],[12.752864,50.56574],[12.757096,50.565639]]],"type":"Polygon"}
+}

@@ -1,1 +1,253 @@
-{"id": 101760785, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07334021", "eurostat:level_code": "lau", "eurostat:name_local": "Neuburg am Rhein", "eurostat:nuts_2021_id": "07334021", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3E", "eurostat:nuts_2021_level_lau": "07334021", "eurostat:population": 2555, "eurostat:population_year": 2020, "geom:area": 0.001008, "geom:area_square_m": 8181598.370965, "geom:bbox": "8.221023,48.966571,8.287597,48.999533", "geom:latitude": 48.986028, "geom:longitude": 8.247433, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 2525, "iso:country": "DE", "lbl:latitude": 48.986797, "lbl:longitude": 8.248446, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 48.986797, "mps:longitude": 8.248446, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Neuburg am Rhein"], "name:ceb_x_preferred": ["Neuburg am Rhein"], "name:che_x_preferred": ["\u0420\u0435\u0439\u043d-\u0442\u04c0\u0435\u0440\u0430-\u041d\u043e\u0439\u0431\u0443\u0440\u0433"], "name:deu_x_preferred": ["Neuburg am Rhein"], "name:ell_x_preferred": ["\u039d\u03cc\u03b9\u03b5\u03bd\u03bc\u03c0\u03bf\u03c5\u03c1\u03ba \u03b5\u03c0\u03af \u03c4\u03bf\u03c5 \u03a1\u03ae\u03bd\u03bf\u03c5"], "name:eng_x_preferred": ["Neuburg am Rhein"], "name:epo_x_preferred": ["Neuburg am Rhein"], "name:eus_x_preferred": ["Neuburg am Rhein"], "name:fas_x_preferred": ["\u0646\u0648\u06cc\u0628\u0648\u0631\u06af \u0627\u0645 \u0631\u0647\u0627\u06cc\u0646"], "name:fra_x_preferred": ["Neuburg am Rhein"], "name:hbs_x_preferred": ["Neuburg am Rhein"], "name:hun_x_preferred": ["Neuburg am Rhein"], "name:ita_x_preferred": ["Neuburg am Rhein"], "name:jpn_x_preferred": ["\u30ce\u30a4\u30d6\u30eb\u30af\u30fb\u30a2\u30e0\u30fb\u30e9\u30a4\u30f3"], "name:kaz_x_preferred": ["\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"], "name:kir_x_preferred": ["\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"], "name:kur_x_preferred": ["Neuburg am Rhein"], "name:lld_x_preferred": ["Neuburg am Rhein"], "name:msa_x_preferred": ["Neuburg am Rhein"], "name:nan_x_preferred": ["Neuburg am Rhein"], "name:nld_x_preferred": ["Neuburg am Rhein"], "name:nob_x_preferred": ["Neuburg am Rhein"], "name:pol_x_preferred": ["Neuburg am Rhein"], "name:por_x_preferred": ["Neuburgo do Reno"], "name:por_x_variant": ["Neuburg am Rhein"], "name:ron_x_preferred": ["Neuburg am Rhein"], "name:rus_x_preferred": ["\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"], "name:spa_x_preferred": ["Neuburg am Rhein"], "name:srp_x_preferred": ["\u041d\u043e\u0458\u0431\u0443\u0440\u0433 \u0430\u043c \u0420\u0430\u0458\u043d"], "name:swe_x_preferred": ["Neuburg am Rhein"], "name:tat_x_preferred": ["\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0435\u0439\u043d\u0435"], "name:ukr_x_preferred": ["\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:und_x_variant": ["Neuburg"], "name:uzb_x_preferred": ["Neuburg am Rhein"], "name:vie_x_preferred": ["Neuburg am Rhein"], "name:vol_x_preferred": ["Neuburg am Rhein"], "name:war_x_preferred": ["Neuburg am Rhein"], "name:zho_x_preferred": ["\u83b1\u8335\u6cb3\u7554\u8bfa\u4f0a\u5821"], "nav:latitude": 48.986797, "nav:longitude": 8.248446, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Germersheim", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Neuburg am Rhein", "qs:la_lc": "*DE07033402021", "qs:level": "locality", "qs:loc": "Neuburg am Rhein", "qs:loc_alt": "Neuburg am Rhein", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555016, "qs_pg:gn_pop": 2525, "qs_pg:name": "Gemeinde Neuburg am Rhein", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos": 2, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 3, "qs_pg:photos_all": 99, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1017403, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12627358, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 29, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682491, 102191581, 1377686383, 85633111, 102063405], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07334021", "eurostat:nuts_2021_id": "07334021", "gn:id": 2866074, "gp:id": 677943, "qs_pg:id": 1255065, "wd:id": "Q570888"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "4e6db0bff92857c2f0cefb80c69cc4d1", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063405, "localadmin_id": 1377686383, "locality_id": 101760785, "region_id": 85682491}], "wof:id": 101760785, "wof:lastmodified": 1690872811, "wof:name": "Neuburg am Rhein", "wof:parent_id": 1377686383, "wof:placetype": "locality", "wof:population": 2555, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125389911, 1125343537], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.221023, 48.966571, 8.287597, 48.999533], "geometry": {"coordinates": [[[[8.287597, 48.998427], [8.285815, 48.996564], [8.284194, 48.994989], [8.28181, 48.992999], [8.279879, 48.991561], [8.277349, 48.989939], [8.272044, 48.986901], [8.269626, 48.98561], [8.261284, 48.980917], [8.255476, 48.977921], [8.252638, 48.976352], [8.246793, 48.973283], [8.239232, 48.969265], [8.236776, 48.968192], [8.235328, 48.967559], [8.232633, 48.966571], [8.231494, 48.967547], [8.23013, 48.968356], [8.229733, 48.968672], [8.22953, 48.968902], [8.229395, 48.96916], [8.229294, 48.969572], [8.229212, 48.970155], [8.229131, 48.970433], [8.228738, 48.971234], [8.228514, 48.971626], [8.228161, 48.972167], [8.231585, 48.972885], [8.231505, 48.973711], [8.233201, 48.974582], [8.235126, 48.976088], [8.227265, 48.979898], [8.227084, 48.980657], [8.226565, 48.981691], [8.226277, 48.982], [8.225104, 48.983101], [8.223352, 48.984892], [8.222134, 48.985506], [8.221023, 48.988499], [8.221335, 48.990315], [8.222763, 48.992475], [8.223788, 48.993359], [8.22619, 48.994326], [8.229502, 48.995149], [8.233858, 48.995868], [8.238582, 48.996018], [8.244228, 48.994305], [8.245538, 48.99641], [8.244756, 48.996754], [8.245237, 48.998177], [8.246426, 48.999065], [8.250965, 48.998211], [8.255801, 48.996266], [8.258487, 48.993132], [8.259846, 48.993788], [8.261194, 48.994044], [8.263051, 48.995331], [8.262904, 48.99585], [8.263121, 48.996476], [8.263492, 48.997032], [8.264024, 48.997319], [8.264739, 48.997579], [8.266349, 48.997647], [8.268285, 48.997488], [8.269729, 48.99731], [8.270389, 48.997389], [8.27096, 48.997595], [8.273583, 48.995578], [8.273683, 48.992817], [8.276259, 48.990721], [8.278112, 48.991958], [8.280042, 48.993425], [8.282181, 48.995353], [8.281242, 48.996158], [8.280023, 48.996858], [8.278374, 48.997472], [8.276338, 48.998327], [8.278763, 48.998308], [8.281548, 48.998316], [8.284395, 48.998735], [8.285256, 48.999533], [8.287597, 48.998427]]]], "type": "MultiPolygon"}}
+{
+  "id": 101760785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07334021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neuburg am Rhein",
+    "eurostat:nuts_2021_id":"07334021",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3E",
+    "eurostat:nuts_2021_level_lau":"07334021",
+    "eurostat:population":2555,
+    "eurostat:population_year":2020,
+    "geom:area":0.001008,
+    "geom:area_square_m":8181598.370965,
+    "geom:bbox":"8.221023,48.966571,8.287597,48.999533",
+    "geom:latitude":48.986028,
+    "geom:longitude":8.247433,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":2525,
+    "iso:country":"DE",
+    "lbl:latitude":48.986797,
+    "lbl:longitude":8.248446,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":48.986797,
+    "mps:longitude":8.248446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:ceb_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0435\u0439\u043d-\u0442\u04c0\u0435\u0440\u0430-\u041d\u043e\u0439\u0431\u0443\u0440\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03b9\u03b5\u03bd\u03bc\u03c0\u03bf\u03c5\u03c1\u03ba \u03b5\u03c0\u03af \u03c4\u03bf\u03c5 \u03a1\u03ae\u03bd\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:epo_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:eus_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u0628\u0648\u0631\u06af \u0627\u0645 \u0631\u0647\u0627\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:hbs_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:hun_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:ita_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30a4\u30d6\u30eb\u30af\u30fb\u30a2\u30e0\u30fb\u30e9\u30a4\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:kur_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:lld_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:msa_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:nan_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:nld_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:nob_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:pol_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:por_x_preferred":[
+        "Neuburgo do Reno"
+    ],
+    "name:por_x_variant":[
+        "Neuburg am Rhein"
+    ],
+    "name:ron_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0458\u0431\u0443\u0440\u0433 \u0430\u043c \u0420\u0430\u0458\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:und_x_variant":[
+        "Neuburg"
+    ],
+    "name:uzb_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:vie_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:vol_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:war_x_preferred":[
+        "Neuburg am Rhein"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u8335\u6cb3\u7554\u8bfa\u4f0a\u5821"
+    ],
+    "nav:latitude":48.986797,
+    "nav:longitude":8.248446,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Germersheim",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Neuburg am Rhein",
+    "qs:la_lc":"*DE07033402021",
+    "qs:level":"locality",
+    "qs:loc":"Neuburg am Rhein",
+    "qs:loc_alt":"Neuburg am Rhein",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555016,
+    "qs_pg:gn_pop":2525,
+    "qs_pg:name":"Gemeinde Neuburg am Rhein",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":99,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1017403,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12627358,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":29,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686383,
+        85633111,
+        102063405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07334021",
+        "eurostat:nuts_2021_id":"07334021",
+        "gn:id":2866074,
+        "gp:id":677943,
+        "qs_pg:id":1255065,
+        "wd:id":"Q570888"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"4e6db0bff92857c2f0cefb80c69cc4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063405,
+            "localadmin_id":1377686383,
+            "locality_id":101760785,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101760785,
+    "wof:lastmodified":1690872811,
+    "wof:name":"Neuburg am Rhein",
+    "wof:parent_id":1377686383,
+    "wof:placetype":"locality",
+    "wof:population":2555,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125389911,
+        1125343537
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.221023,
+    48.966571,
+    8.287597,
+    48.999533
+],
+  "geometry": {"coordinates":[[[[8.287597,48.998427],[8.285815,48.996564],[8.284194,48.994989],[8.28181,48.992999],[8.279879,48.991561],[8.277349,48.989939],[8.272044,48.986901],[8.269626,48.98561],[8.261284,48.980917],[8.255476,48.977921],[8.252638,48.976352],[8.246793,48.973283],[8.239232,48.969265],[8.236776,48.968192],[8.235328,48.967559],[8.232633,48.966571],[8.231494,48.967547],[8.23013,48.968356],[8.229733,48.968672],[8.22953,48.968902],[8.229395,48.96916],[8.229294,48.969572],[8.229212,48.970155],[8.229131,48.970433],[8.228738,48.971234],[8.228514,48.971626],[8.228161,48.972167],[8.231585,48.972885],[8.231505,48.973711],[8.233201,48.974582],[8.235126,48.976088],[8.227265,48.979898],[8.227084,48.980657],[8.226565,48.981691],[8.226277,48.982],[8.225104,48.983101],[8.223352,48.984892],[8.222134,48.985506],[8.221023,48.988499],[8.221335,48.990315],[8.222763,48.992475],[8.223788,48.993359],[8.22619,48.994326],[8.229502,48.995149],[8.233858,48.995868],[8.238582,48.996018],[8.244228,48.994305],[8.245538,48.99641],[8.244756,48.996754],[8.245237,48.998177],[8.246426,48.999065],[8.250965,48.998211],[8.255801,48.996266],[8.258487,48.993132],[8.259846,48.993788],[8.261194,48.994044],[8.263051,48.995331],[8.262904,48.99585],[8.263121,48.996476],[8.263492,48.997032],[8.264024,48.997319],[8.264739,48.997579],[8.266349,48.997647],[8.268285,48.997488],[8.269729,48.99731],[8.270389,48.997389],[8.27096,48.997595],[8.273583,48.995578],[8.273683,48.992817],[8.276259,48.990721],[8.278112,48.991958],[8.280042,48.993425],[8.282181,48.995353],[8.281242,48.996158],[8.280023,48.996858],[8.278374,48.997472],[8.276338,48.998327],[8.278763,48.998308],[8.281548,48.998316],[8.284395,48.998735],[8.285256,48.999533],[8.287597,48.998427]]]],"type":"MultiPolygon"}
+}

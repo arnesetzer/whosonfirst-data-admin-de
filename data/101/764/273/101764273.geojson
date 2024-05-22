@@ -1,1 +1,399 @@
-{"id": 101764273, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08426031", "eurostat:level_code": "lau", "eurostat:name_local": "Dettingen an der Iller", "eurostat:nuts_2021_id": "08426031", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE14", "eurostat:nuts_2021_level_3": "DE146", "eurostat:nuts_2021_level_lau": "08426031", "eurostat:population": 2545, "eurostat:population_year": 2020, "geom:area": 0.001351, "geom:area_square_m": 11156156.5751, "geom:bbox": "10.052499,48.089569,10.140392,48.130547", "geom:latitude": 48.107962, "geom:longitude": 10.108378, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 2345, "iso:country": "DE", "lbl:latitude": 48.107281, "lbl:longitude": 10.11186, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 48.107281, "mps:longitude": 10.11186, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Dettingen an der Iller"], "name:als_x_preferred": ["Dettingen an der Iller"], "name:arg_x_preferred": ["Dettingen an der Iller"], "name:ast_x_preferred": ["Dettingen an der Iller"], "name:bar_x_preferred": ["Dettingen an der Iller"], "name:bre_x_preferred": ["Dettingen an der Iller"], "name:cat_x_preferred": ["Dettingen an der Iller"], "name:ceb_x_preferred": ["Dettingen an der Iller"], "name:ces_x_preferred": ["Dettingen an der Iller"], "name:cos_x_preferred": ["Dettingen an der Iller"], "name:cym_x_preferred": ["Dettingen an der Iller"], "name:dan_x_preferred": ["Dettingen an der Iller"], "name:deu_x_preferred": ["Dettingen an der Iller"], "name:deu_x_variant": ["Gemeinde Dettingen/Iller", "Gemeinde Dettingen an der Iller", "Gemeinde Dettingen a.d. Iller", "Gemeinde Dettingen", "Gemeinde Dettingen (Iller)"], "name:eng_x_preferred": ["Dettingen an der Iller"], "name:epo_x_preferred": ["Dettingen an der Iller"], "name:est_x_preferred": ["Dettingen an der Iller"], "name:eus_x_preferred": ["Dettingen an der Iller"], "name:fas_x_preferred": ["\u062f\u062a\u06cc\u0646\u06af\u0646 \u0627\u0646 \u062f\u0631 \u06cc\u0644\u0631"], "name:fin_x_preferred": ["Dettingen an der Iller"], "name:fra_x_preferred": ["Dettingen an der Iller"], "name:frp_x_preferred": ["Dettingen an der Iller"], "name:fur_x_preferred": ["Dettingen an der Iller"], "name:gla_x_preferred": ["Dettingen an der Iller"], "name:gle_x_preferred": ["Dettingen an der Iller"], "name:glg_x_preferred": ["Dettingen an der Iller"], "name:gsw_x_preferred": ["D\u00e4denga"], "name:hbs_x_preferred": ["Dettingen an der Iller"], "name:hrv_x_preferred": ["Dettingen an der Iller"], "name:hun_x_preferred": ["Dettingen an der Iller"], "name:hye_x_preferred": ["\u053b\u056c\u0565\u0580\u056b \u0534\u0565\u0569\u056b\u0576\u0563\u0565\u0576"], "name:ido_x_preferred": ["Dettingen an der Iller"], "name:ile_x_preferred": ["Dettingen an der Iller"], "name:ina_x_preferred": ["Dettingen an der Iller"], "name:ind_x_preferred": ["Dettingen an der Iller"], "name:isl_x_preferred": ["Dettingen an der Iller"], "name:ita_x_preferred": ["Dettingen an der Iller"], "name:kat_x_preferred": ["\u10d3\u10d4\u10e2\u10d8\u10dc\u10d2\u10d4\u10dc-\u10d0\u10dc-\u10d3\u10d4\u10e0-\u10d8\u10da\u10d4\u10e0\u10d8"], "name:kaz_x_preferred": ["\u0414\u0435\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u0418\u043b\u043b\u0435\u0440\u0435"], "name:kir_x_preferred": ["\u0418\u043b\u043b\u0435\u0440\u0434\u0435\u0433\u0438 \u0414\u0435\u0442\u0442\u0438\u043d\u0433\u0435\u043d"], "name:kon_x_preferred": ["Dettingen an der Iller"], "name:kur_x_preferred": ["Dettingen an der Iller"], "name:lat_x_preferred": ["Dettingen an der Iller"], "name:lij_x_preferred": ["Dettingen an der Iller"], "name:lim_x_preferred": ["Dettingen an der Iller"], "name:lld_x_preferred": ["Dettingen an der Iller"], "name:lmo_x_preferred": ["Dettingen an der Iller"], "name:ltz_x_preferred": ["Dettingen an der Iller"], "name:min_x_preferred": ["Dettingen an der Iller"], "name:mlg_x_preferred": ["Dettingen an der Iller"], "name:msa_x_preferred": ["Dettingen an der Iller"], "name:nan_x_preferred": ["Dettingen an der Iller"], "name:nap_x_preferred": ["Dettingen an der Iller"], "name:nds_x_preferred": ["Dettingen an der Iller"], "name:nld_x_preferred": ["Dettingen an der Iller"], "name:nno_x_preferred": ["Dettingen an der Iller"], "name:nob_x_preferred": ["Dettingen an der Iller"], "name:nrm_x_preferred": ["Dettingen an der Iller"], "name:oci_x_preferred": ["Dettingen an der Iller"], "name:pcd_x_preferred": ["Dettingen an der Iller"], "name:pms_x_preferred": ["Dettingen an der Iller"], "name:pol_x_preferred": ["Dettingen an der Iller"], "name:por_x_preferred": ["Dettingen an der Iller"], "name:roh_x_preferred": ["Dettingen an der Iller"], "name:ron_x_preferred": ["Dettingen an der Iller"], "name:rus_x_preferred": ["\u0414\u0435\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u0418\u043b\u043b\u0435\u0440\u0435"], "name:scn_x_preferred": ["Dettingen an der Iller"], "name:sco_x_preferred": ["Dettingen an der Iller"], "name:slk_x_preferred": ["Dettingen an der Iller"], "name:slv_x_preferred": ["Dettingen an der Iller"], "name:spa_x_preferred": ["Dettingen an der Iller"], "name:srd_x_preferred": ["Dettingen an der Iller"], "name:srp_x_preferred": ["\u0414\u0435\u0442\u0438\u043d\u0433\u0435\u043d \u0430\u043d \u0434\u0435\u0440 \u0418\u043b\u0435\u0440"], "name:swa_x_preferred": ["Dettingen an der Iller"], "name:swe_x_preferred": ["Dettingen an der Iller"], "name:ukr_x_preferred": ["\u0414\u0435\u0442\u0442\u0456\u043d\u0433\u0435\u043d-\u0430\u043d-\u0434\u0435\u0440-\u0406\u043b\u043b\u0435\u0440"], "name:und_x_variant": ["Dettingen"], "name:uzb_x_preferred": ["Dettingen an der Iller"], "name:vec_x_preferred": ["Dettingen an der Iller"], "name:vie_x_preferred": ["Dettingen an der Iller"], "name:vls_x_preferred": ["Dettingen an der Iller"], "name:vol_x_preferred": ["Dettingen an der Iller"], "name:war_x_preferred": ["Dettingen an der Iller"], "name:wln_x_preferred": ["Dettingen an der Iller"], "name:wol_x_preferred": ["Dettingen an der Iller"], "name:zho_min_nan_x_preferred": ["Dettingen an der Iller"], "name:zho_x_preferred": ["\u4f0a\u83b1\u5c14\u6cb3\u7554\u5fb7\u5ef7\u6839"], "name:zul_x_preferred": ["Dettingen an der Iller"], "nav:latitude": 48.107281, "nav:longitude": 10.11186, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Biberach", "qs:a2r": "T\u00fcbingen", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Dettingen an der Iller", "qs:la_lc": "*DE08402604031", "qs:level": "locality", "qs:loc": "Dettingen an der Iller", "qs:loc_alt": "Dettingen an der Iller", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6556009, "qs_pg:gn_pop": 2345, "qs_pg:name": "Dettingen an der Iller", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 636484, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 43, "wof:belongsto": [85682567, 102191581, 85633111, 1377690329, 404227573, 102063269], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08426031", "eurostat:nuts_2021_id": "08426031", "fct:id": "0715c706-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2937897, "gp:id": 644295, "qs_pg:id": 931642, "wd:id": "Q518878", "wk:page": "Dettingen an der Iller"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes"], "wof:geomhash": "c2cb213e8cfdf9a0d3f929823b2c66ad", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063269, "localadmin_id": 1377690329, "locality_id": 101764273, "macrocounty_id": 404227573, "region_id": 85682567}], "wof:id": 101764273, "wof:lang": ["ger"], "wof:lastmodified": 1690871493, "wof:name": "Dettingen an der Iller", "wof:parent_id": 1377690329, "wof:placetype": "locality", "wof:population": 2545, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125347867], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.052499, 48.089569, 10.140392, 48.130547], "geometry": {"coordinates": [[[[10.136457, 48.108459], [10.137533, 48.106332], [10.135838, 48.105068], [10.135799, 48.104825], [10.136661, 48.100783], [10.140392, 48.098917], [10.134439, 48.098259], [10.135273, 48.096194], [10.12646, 48.092431], [10.122221, 48.094224], [10.118577, 48.092594], [10.117236, 48.091591], [10.115547, 48.094106], [10.110894, 48.092389], [10.111453, 48.091204], [10.101832, 48.089569], [10.097315, 48.096514], [10.092993, 48.105457], [10.090259, 48.105033], [10.08958, 48.107503], [10.086484, 48.107078], [10.085987, 48.10864], [10.079536, 48.109676], [10.07898, 48.11185], [10.069003, 48.112287], [10.067318, 48.114564], [10.056461, 48.112759], [10.052499, 48.115961], [10.056736, 48.114962], [10.065663, 48.116499], [10.074456, 48.116588], [10.080926, 48.11824], [10.083365, 48.117188], [10.089518, 48.118173], [10.089945, 48.116862], [10.097463, 48.118499], [10.107583, 48.122222], [10.107039, 48.123065], [10.106901, 48.123613], [10.106974, 48.126157], [10.108514, 48.126729], [10.108, 48.130547], [10.110627, 48.128813], [10.112036, 48.127883], [10.112293, 48.127713], [10.113063, 48.127041], [10.113403, 48.126557], [10.113758, 48.125749], [10.11391, 48.125264], [10.114182, 48.12478], [10.114831, 48.124171], [10.118353, 48.121936], [10.12042, 48.12028], [10.122604, 48.116957], [10.124431, 48.115917], [10.125612, 48.11548], [10.13228, 48.114208], [10.136247, 48.111443], [10.136307, 48.110661], [10.136457, 48.108459]]]], "type": "MultiPolygon"}}
+{
+  "id": 101764273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08426031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dettingen an der Iller",
+    "eurostat:nuts_2021_id":"08426031",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE14",
+    "eurostat:nuts_2021_level_3":"DE146",
+    "eurostat:nuts_2021_level_lau":"08426031",
+    "eurostat:population":2545,
+    "eurostat:population_year":2020,
+    "geom:area":0.001351,
+    "geom:area_square_m":11156156.5751,
+    "geom:bbox":"10.052499,48.089569,10.140392,48.130547",
+    "geom:latitude":48.107962,
+    "geom:longitude":10.108378,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":2345,
+    "iso:country":"DE",
+    "lbl:latitude":48.107281,
+    "lbl:longitude":10.11186,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":48.107281,
+    "mps:longitude":10.11186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:als_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:arg_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ast_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:bar_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:bre_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:cat_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ceb_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ces_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:cos_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:cym_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:dan_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:deu_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:deu_x_variant":[
+        "Gemeinde Dettingen/Iller",
+        "Gemeinde Dettingen an der Iller",
+        "Gemeinde Dettingen a.d. Iller",
+        "Gemeinde Dettingen",
+        "Gemeinde Dettingen (Iller)"
+    ],
+    "name:eng_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:epo_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:est_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:eus_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u062a\u06cc\u0646\u06af\u0646 \u0627\u0646 \u062f\u0631 \u06cc\u0644\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:fra_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:frp_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:fur_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:gla_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:gle_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:glg_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:gsw_x_preferred":[
+        "D\u00e4denga"
+    ],
+    "name:hbs_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:hrv_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:hun_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u056c\u0565\u0580\u056b \u0534\u0565\u0569\u056b\u0576\u0563\u0565\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ile_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ina_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ind_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:isl_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ita_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10e2\u10d8\u10dc\u10d2\u10d4\u10dc-\u10d0\u10dc-\u10d3\u10d4\u10e0-\u10d8\u10da\u10d4\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u0418\u043b\u043b\u0435\u0440\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0418\u043b\u043b\u0435\u0440\u0434\u0435\u0433\u0438 \u0414\u0435\u0442\u0442\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:kur_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:lat_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:lij_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:lim_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:lld_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:lmo_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ltz_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:min_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:mlg_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:msa_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:nan_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:nap_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:nds_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:nld_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:nno_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:nob_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:nrm_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:oci_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:pcd_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:pms_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:pol_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:por_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:roh_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ron_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u0418\u043b\u043b\u0435\u0440\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:sco_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:slk_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:slv_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:spa_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:srd_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0442\u0438\u043d\u0433\u0435\u043d \u0430\u043d \u0434\u0435\u0440 \u0418\u043b\u0435\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:swe_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0442\u0442\u0456\u043d\u0433\u0435\u043d-\u0430\u043d-\u0434\u0435\u0440-\u0406\u043b\u043b\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Dettingen"
+    ],
+    "name:uzb_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:vec_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:vie_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:vls_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:vol_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:war_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:wln_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:wol_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u83b1\u5c14\u6cb3\u7554\u5fb7\u5ef7\u6839"
+    ],
+    "name:zul_x_preferred":[
+        "Dettingen an der Iller"
+    ],
+    "nav:latitude":48.107281,
+    "nav:longitude":10.11186,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Biberach",
+    "qs:a2r":"T\u00fcbingen",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Dettingen an der Iller",
+    "qs:la_lc":"*DE08402604031",
+    "qs:level":"locality",
+    "qs:loc":"Dettingen an der Iller",
+    "qs:loc_alt":"Dettingen an der Iller",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6556009,
+    "qs_pg:gn_pop":2345,
+    "qs_pg:name":"Dettingen an der Iller",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":636484,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377690329,
+        404227573,
+        102063269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08426031",
+        "eurostat:nuts_2021_id":"08426031",
+        "fct:id":"0715c706-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2937897,
+        "gp:id":644295,
+        "qs_pg:id":931642,
+        "wd:id":"Q518878",
+        "wk:page":"Dettingen an der Iller"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c2cb213e8cfdf9a0d3f929823b2c66ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063269,
+            "localadmin_id":1377690329,
+            "locality_id":101764273,
+            "macrocounty_id":404227573,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101764273,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871493,
+    "wof:name":"Dettingen an der Iller",
+    "wof:parent_id":1377690329,
+    "wof:placetype":"locality",
+    "wof:population":2545,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125347867
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.052499,
+    48.089569,
+    10.140392,
+    48.130547
+],
+  "geometry": {"coordinates":[[[[10.136457,48.108459],[10.137533,48.106332],[10.135838,48.105068],[10.135799,48.104825],[10.136661,48.100783],[10.140392,48.098917],[10.134439,48.098259],[10.135273,48.096194],[10.12646,48.092431],[10.122221,48.094224],[10.118577,48.092594],[10.117236,48.091591],[10.115547,48.094106],[10.110894,48.092389],[10.111453,48.091204],[10.101832,48.089569],[10.097315,48.096514],[10.092993,48.105457],[10.090259,48.105033],[10.08958,48.107503],[10.086484,48.107078],[10.085987,48.10864],[10.079536,48.109676],[10.07898,48.11185],[10.069003,48.112287],[10.067318,48.114564],[10.056461,48.112759],[10.052499,48.115961],[10.056736,48.114962],[10.065663,48.116499],[10.074456,48.116588],[10.080926,48.11824],[10.083365,48.117188],[10.089518,48.118173],[10.089945,48.116862],[10.097463,48.118499],[10.107583,48.122222],[10.107039,48.123065],[10.106901,48.123613],[10.106974,48.126157],[10.108514,48.126729],[10.108,48.130547],[10.110627,48.128813],[10.112036,48.127883],[10.112293,48.127713],[10.113063,48.127041],[10.113403,48.126557],[10.113758,48.125749],[10.11391,48.125264],[10.114182,48.12478],[10.114831,48.124171],[10.118353,48.121936],[10.12042,48.12028],[10.122604,48.116957],[10.124431,48.115917],[10.125612,48.11548],[10.13228,48.114208],[10.136247,48.111443],[10.136307,48.110661],[10.136457,48.108459]]]],"type":"MultiPolygon"}
+}

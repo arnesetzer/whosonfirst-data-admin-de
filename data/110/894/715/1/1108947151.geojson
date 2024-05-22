@@ -1,1 +1,97 @@
-{"id": 1108947151, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.77704454503,51.2223455954,6.77704454503,51.2223455954", "geom:latitude": 51.222346, "geom:longitude": 6.777045, "iso:country": "DE", "lbl:bbox": "6.77204454503,51.2173455954,6.78204454503,51.2273455954", "lbl:latitude": 51.222346, "lbl:longitude": 6.777045, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 15.0, "mz:tier_metro": 30, "name:aze_x_preferred": ["Bankenviertel"], "name:dan_x_preferred": ["Bankenviertel"], "name:deu_x_preferred": ["Frankfurter Bankenviertel"], "name:nld_x_preferred": ["Bankenviertel"], "name:nor_x_preferred": ["Bankenviertel"], "name:pol_x_preferred": ["Bankenviertel"], "name:spa_x_preferred": ["Bankenviertel"], "name:swe_x_preferred": ["Bankenviertel"], "name:zho_x_preferred": ["\u94f6\u884c\u533a"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377689397, 404227561, 101748671, 102063759, 85682513], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491366155, "wof:geomhash": "bc5ed3b698d801d3fd8bbb393864294c", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063759, "localadmin_id": 1377689397, "locality_id": 101748671, "macrocounty_id": 404227561, "neighbourhood_id": 1108947151, "region_id": 85682513}], "wof:id": 1108947151, "wof:lastmodified": 1566712986, "wof:name": "Bankenviertel", "wof:parent_id": 101748671, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.77704454503371, 51.22234559538528, 6.77704454503371, 51.22234559538528], "geometry": {"coordinates": [6.77704454503371, 51.22234559538528], "type": "Point"}}
+{
+  "id": 1108947151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.77704454503,51.2223455954,6.77704454503,51.2223455954",
+    "geom:latitude":51.222346,
+    "geom:longitude":6.777045,
+    "iso:country":"DE",
+    "lbl:bbox":"6.77204454503,51.2173455954,6.78204454503,51.2273455954",
+    "lbl:latitude":51.222346,
+    "lbl:longitude":6.777045,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:aze_x_preferred":[
+        "Bankenviertel"
+    ],
+    "name:dan_x_preferred":[
+        "Bankenviertel"
+    ],
+    "name:deu_x_preferred":[
+        "Frankfurter Bankenviertel"
+    ],
+    "name:nld_x_preferred":[
+        "Bankenviertel"
+    ],
+    "name:nor_x_preferred":[
+        "Bankenviertel"
+    ],
+    "name:pol_x_preferred":[
+        "Bankenviertel"
+    ],
+    "name:spa_x_preferred":[
+        "Bankenviertel"
+    ],
+    "name:swe_x_preferred":[
+        "Bankenviertel"
+    ],
+    "name:zho_x_preferred":[
+        "\u94f6\u884c\u533a"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689397,
+        404227561,
+        101748671,
+        102063759,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491366155,
+    "wof:geomhash":"bc5ed3b698d801d3fd8bbb393864294c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063759,
+            "localadmin_id":1377689397,
+            "locality_id":101748671,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1108947151,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1108947151,
+    "wof:lastmodified":1566712986,
+    "wof:name":"Bankenviertel",
+    "wof:parent_id":101748671,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.77704454503371,
+    51.22234559538528,
+    6.77704454503371,
+    51.22234559538528
+],
+  "geometry": {"coordinates":[6.77704454503371,51.22234559538528],"type":"Point"}
+}

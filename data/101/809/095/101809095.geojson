@@ -1,1 +1,397 @@
-{"id": 101809095, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_05754036", "eurostat:level_code": "lau", "eurostat:name_local": "Schlo\u00df Holte-Stukenbrock, Stadt", "eurostat:nuts_2021_id": "05754036", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEA", "eurostat:nuts_2021_level_2": "DEA4", "eurostat:nuts_2021_level_3": "DEA42", "eurostat:nuts_2021_level_lau": "05754036", "eurostat:population": 26872, "eurostat:population_year": 2020, "geom:area": 0.008842, "geom:area_square_m": 67476573.122585, "geom:bbox": "8.557142,51.852189,8.748387,51.930246", "geom:latitude": 51.889763, "geom:longitude": 8.648407, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 26109, "iso:country": "DE", "lbl:latitude": 51.89935, "lbl:longitude": 8.619846, "lbl:max_zoom": 14.0, "lbl:min_zoom": 10.0, "mps:latitude": 51.89935, "mps:longitude": 8.619846, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 9.0, "name:afr_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ara_x_preferred": ["\u0634\u0644\u0648\u0633 \u0647\u0648\u0644\u062a\u0647-\u0634\u062a\u0648\u0643\u0646\u0628\u0631\u0648\u0643"], "name:arg_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ast_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:azb_x_preferred": ["\u0627\u0634\u0644\u0648\u0633 \u0647\u0648\u0644\u062a\u0647-\u0627\u0634\u062a\u0648\u06a9\u0646\u0628\u0631\u0648\u06a9"], "name:bar_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:bel_x_preferred": ["\u0428\u043b\u043e\u0441-\u0413\u043e\u043b\u044c\u0442\u044d-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"], "name:bre_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:cat_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ceb_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ces_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:che_x_preferred": ["\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a\u043a"], "name:cos_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:cym_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:dan_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:deu_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:deu_x_variant": ["Schlo\u00df Holte"], "name:eng_x_preferred": ["Schloss Holte"], "name:eng_x_variant": ["Schlo\u00df Holte-Stukenbrock"], "name:epo_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:est_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:eus_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:fas_x_preferred": ["\u0627\u0634\u0644\u0648\u0633 \u0647\u0648\u0644\u062a\u0647-\u0627\u0634\u062a\u0648\u06a9\u0646\u0628\u0631\u0648\u06a9"], "name:fin_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:fra_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:frp_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:fur_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:gla_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:gle_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:glg_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:gsw_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:heb_x_preferred": ["\u05e9\u05dc\u05d5\u05e1 \u05d4\u05d5\u05dc\u05d8\u05d4-\u05e9\u05d8\u05d5\u05e7\u05e0\u05d1\u05e8\u05d5\u05e7"], "name:hrv_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:hun_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ido_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ile_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ina_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ind_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:isl_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ita_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:jpn_x_preferred": ["\u30b7\u30e5\u30ed\u30b9\u30fb\u30db\u30eb\u30c6\uff1d\u30b7\u30e5\u30c8\u30a5\u30fc\u30b1\u30f3\u30d6\u30ed\u30c3\u30af"], "name:kaz_x_preferred": ["\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"], "name:kir_x_preferred": ["\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"], "name:kon_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:kur_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:lij_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:lim_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:lld_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ltz_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:min_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:mkd_x_preferred": ["\u0428\u043b\u043e\u0441 \u0425\u043e\u043b\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"], "name:mlg_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:msa_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:nap_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:nds_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:nld_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:nno_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:nob_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:nrm_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:oci_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:pcd_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:pms_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:pol_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:por_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:roh_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ron_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:rus_x_preferred": ["\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"], "name:scn_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:sco_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:slk_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:slv_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:spa_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:srd_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:srp_x_preferred": ["\u0428\u043b\u043e\u0441 \u0425\u043e\u043b\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"], "name:swa_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:swe_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:tat_x_preferred": ["\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a\u043a"], "name:tur_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:ukr_x_preferred": ["\u0428\u043b\u043e\u0441-\u0413\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"], "name:uzb_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:vec_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:vie_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:vls_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:vol_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:war_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:wln_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:wol_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "name:zho_x_preferred": ["\u65bd\u6d1b\u65af\u970d\u5c14\u7279-\u65af\u56fe\u80af\u5e03\u7f57\u514b"], "name:zul_x_preferred": ["Schlo\u00df Holte-Stukenbrock"], "nav:latitude": 51.89935, "nav:longitude": 8.619846, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Nordrhein-Westfalen", "qs:a1r": "0", "qs:a2": "G\u00fctersloh", "qs:a2r": "Detmold", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Bielefeld", "qs:la_lc": "*DE05701100000", "qs:level": "locality", "qs:loc": "Schlo\u00df Holte-Stukenbrock", "qs:loc_alt": "Schloss Holte-Stukenbrock", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557617, "qs_pg:gn_pop": 26109, "qs_pg:name": "Schlo\u00df Holte-Stukenbrock, Stadt", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 7, "qs_pg:qs_id": 637640, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 51.883333, "wd:longitude": 8.616667, "wd:wordcount": 77, "wof:belongsto": [85682513, 102191581, 85633111, 1377691527, 404227571, 102063877], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_05754036", "eurostat:nuts_2021_id": "05754036", "gn:id": 3207384, "gp:id": 20171371, "qs_pg:id": 468410, "wd:id": "Q225432", "wk:page": "Schlo\u00df Holte-Stukenbrock"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes"], "wof:geomhash": "80bc137041612541362273a7bf84e44a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063877, "localadmin_id": 1377691527, "locality_id": 101809095, "macrocounty_id": 404227571, "region_id": 85682513}], "wof:id": 101809095, "wof:lastmodified": 1690873585, "wof:name": "Schlo\u00df Holte-Stukenbrock", "wof:parent_id": 1377691527, "wof:placetype": "locality", "wof:population": 26872, "wof:population_rank": 7, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125342627], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.557142, 51.852189, 8.748387, 51.930246], "geometry": {"coordinates": [[[[8.68381, 51.915759], [8.697375, 51.90686], [8.7001, 51.905055], [8.702529, 51.903446], [8.713068, 51.896227], [8.716939, 51.893568], [8.719495, 51.891806], [8.720506, 51.890877], [8.725818, 51.883677], [8.727724, 51.881024], [8.731386, 51.875841], [8.733538, 51.872463], [8.738441, 51.866714], [8.7398, 51.865412], [8.746555, 51.860119], [8.748387, 51.858673], [8.744959, 51.858272], [8.742795, 51.858146], [8.737854, 51.85786], [8.735291, 51.857255], [8.72944, 51.85599], [8.725158, 51.855494], [8.718043, 51.854622], [8.715134, 51.854687], [8.699273, 51.855617], [8.69077, 51.856036], [8.690129, 51.857196], [8.687561, 51.856725], [8.681471, 51.85566], [8.678818, 51.855134], [8.673463, 51.853882], [8.672458, 51.855009], [8.666914, 51.852889], [8.662282, 51.852189], [8.661828, 51.852847], [8.659931, 51.855598], [8.658754, 51.857305], [8.656403, 51.860669], [8.654372, 51.863766], [8.652861, 51.86607], [8.648508, 51.868657], [8.645642, 51.869792], [8.639309, 51.875361], [8.637334, 51.877094], [8.63656, 51.87575], [8.634727, 51.87259], [8.63311, 51.870079], [8.632612, 51.868649], [8.628949, 51.863447], [8.627807, 51.862358], [8.619878, 51.860091], [8.609243, 51.857214], [8.604048, 51.854584], [8.601268, 51.853991], [8.599839, 51.856445], [8.598921, 51.856345], [8.598127, 51.857675], [8.599945, 51.859243], [8.596325, 51.859257], [8.595691, 51.862621], [8.592622, 51.861969], [8.589437, 51.866183], [8.590593, 51.866679], [8.588873, 51.868199], [8.591521, 51.86951], [8.589765, 51.871533], [8.593009, 51.871906], [8.594684, 51.87244], [8.594296, 51.873127], [8.595201, 51.87357], [8.593931, 51.875235], [8.594353, 51.876185], [8.5959, 51.876725], [8.596179, 51.878871], [8.595026, 51.879967], [8.595973, 51.880496], [8.595444, 51.88101], [8.590115, 51.885352], [8.590348, 51.886039], [8.587858, 51.886467], [8.585515, 51.884099], [8.576672, 51.883101], [8.576639, 51.883954], [8.576523, 51.885572], [8.575846, 51.886742], [8.575089, 51.887691], [8.573029, 51.888783], [8.572564, 51.890404], [8.569554, 51.893901], [8.565501, 51.892854], [8.564908, 51.8927], [8.560616, 51.893422], [8.560357, 51.895047], [8.565228, 51.895685], [8.56825, 51.896534], [8.566655, 51.899154], [8.568634, 51.89944], [8.573464, 51.900137], [8.576407, 51.902152], [8.576994, 51.902475], [8.577463, 51.902936], [8.577615, 51.903085], [8.57861, 51.903587], [8.576351, 51.905665], [8.572072, 51.906367], [8.57041, 51.907426], [8.569444, 51.90841], [8.567912, 51.910998], [8.564607, 51.911727], [8.564063, 51.912208], [8.563386, 51.913997], [8.559317, 51.91733], [8.557142, 51.919003], [8.558211, 51.919426], [8.559227, 51.921871], [8.560492, 51.922233], [8.561117, 51.923962], [8.56057, 51.924779], [8.562132, 51.925004], [8.562623, 51.924327], [8.564693, 51.924532], [8.568946, 51.922315], [8.572799, 51.921336], [8.578021, 51.9207], [8.579937, 51.920461], [8.583558, 51.920889], [8.58583, 51.921186], [8.586771, 51.921984], [8.587565, 51.922483], [8.588976, 51.92319], [8.591118, 51.924169], [8.592277, 51.924637], [8.593873, 51.925104], [8.595643, 51.925249], [8.598804, 51.925516], [8.601951, 51.925782], [8.603165, 51.926008], [8.603656, 51.926088], [8.60489, 51.926522], [8.605786, 51.927013], [8.606339, 51.927373], [8.61504, 51.930246], [8.617296, 51.930228], [8.620824, 51.930104], [8.622981, 51.930048], [8.625254, 51.929634], [8.628784, 51.928385], [8.631848, 51.927146], [8.634392, 51.925783], [8.637535, 51.923321], [8.637317, 51.921176], [8.643387, 51.921154], [8.648169, 51.920572], [8.653312, 51.919707], [8.655474, 51.919858], [8.657121, 51.919793], [8.660815, 51.91965], [8.66177, 51.919613], [8.665202, 51.919324], [8.668111, 51.919342], [8.670733, 51.919284], [8.675713, 51.918829], [8.680677, 51.917709], [8.682491, 51.916738], [8.68381, 51.915759]]]], "type": "MultiPolygon"}}
+{
+  "id": 101809095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_05754036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schlo\u00df Holte-Stukenbrock, Stadt",
+    "eurostat:nuts_2021_id":"05754036",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEA",
+    "eurostat:nuts_2021_level_2":"DEA4",
+    "eurostat:nuts_2021_level_3":"DEA42",
+    "eurostat:nuts_2021_level_lau":"05754036",
+    "eurostat:population":26872,
+    "eurostat:population_year":2020,
+    "geom:area":0.008842,
+    "geom:area_square_m":67476573.122585,
+    "geom:bbox":"8.557142,51.852189,8.748387,51.930246",
+    "geom:latitude":51.889763,
+    "geom:longitude":8.648407,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":26109,
+    "iso:country":"DE",
+    "lbl:latitude":51.89935,
+    "lbl:longitude":8.619846,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
+    "mps:latitude":51.89935,
+    "mps:longitude":8.619846,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ara_x_preferred":[
+        "\u0634\u0644\u0648\u0633 \u0647\u0648\u0644\u062a\u0647-\u0634\u062a\u0648\u0643\u0646\u0628\u0631\u0648\u0643"
+    ],
+    "name:arg_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ast_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0634\u0644\u0648\u0633 \u0647\u0648\u0644\u062a\u0647-\u0627\u0634\u062a\u0648\u06a9\u0646\u0628\u0631\u0648\u06a9"
+    ],
+    "name:bar_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u043b\u043e\u0441-\u0413\u043e\u043b\u044c\u0442\u044d-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"
+    ],
+    "name:bre_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:cat_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ceb_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ces_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a\u043a"
+    ],
+    "name:cos_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:cym_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:dan_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:deu_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:deu_x_variant":[
+        "Schlo\u00df Holte"
+    ],
+    "name:eng_x_preferred":[
+        "Schloss Holte"
+    ],
+    "name:eng_x_variant":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:epo_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:est_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:eus_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u0644\u0648\u0633 \u0647\u0648\u0644\u062a\u0647-\u0627\u0634\u062a\u0648\u06a9\u0646\u0628\u0631\u0648\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:fra_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:frp_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:fur_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:gla_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:gle_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:glg_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:gsw_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05dc\u05d5\u05e1 \u05d4\u05d5\u05dc\u05d8\u05d4-\u05e9\u05d8\u05d5\u05e7\u05e0\u05d1\u05e8\u05d5\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:hun_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ido_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ile_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ina_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ind_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:isl_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ita_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30ed\u30b9\u30fb\u30db\u30eb\u30c6\uff1d\u30b7\u30e5\u30c8\u30a5\u30fc\u30b1\u30f3\u30d6\u30ed\u30c3\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"
+    ],
+    "name:kon_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:kur_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:lij_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:lim_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:lld_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ltz_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:min_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u043b\u043e\u0441 \u0425\u043e\u043b\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"
+    ],
+    "name:mlg_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:msa_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:nap_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:nds_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:nld_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:nno_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:nob_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:nrm_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:oci_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:pcd_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:pms_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:pol_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:por_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:roh_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ron_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"
+    ],
+    "name:scn_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:sco_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:slk_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:slv_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:spa_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:srd_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043b\u043e\u0441 \u0425\u043e\u043b\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:swe_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u043b\u043e\u0441-\u0425\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043b\u043e\u0441-\u0413\u043e\u043b\u044c\u0442\u0435-\u0428\u0442\u0443\u043a\u0435\u043d\u0431\u0440\u043e\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:vec_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:vie_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:vls_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:vol_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:war_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:wln_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:wol_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u6d1b\u65af\u970d\u5c14\u7279-\u65af\u56fe\u80af\u5e03\u7f57\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Schlo\u00df Holte-Stukenbrock"
+    ],
+    "nav:latitude":51.89935,
+    "nav:longitude":8.619846,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Nordrhein-Westfalen",
+    "qs:a1r":"0",
+    "qs:a2":"G\u00fctersloh",
+    "qs:a2r":"Detmold",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Bielefeld",
+    "qs:la_lc":"*DE05701100000",
+    "qs:level":"locality",
+    "qs:loc":"Schlo\u00df Holte-Stukenbrock",
+    "qs:loc_alt":"Schloss Holte-Stukenbrock",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557617,
+    "qs_pg:gn_pop":26109,
+    "qs_pg:name":"Schlo\u00df Holte-Stukenbrock, Stadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":637640,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":51.883333,
+    "wd:longitude":8.616667,
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        85682513,
+        102191581,
+        85633111,
+        1377691527,
+        404227571,
+        102063877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_05754036",
+        "eurostat:nuts_2021_id":"05754036",
+        "gn:id":3207384,
+        "gp:id":20171371,
+        "qs_pg:id":468410,
+        "wd:id":"Q225432",
+        "wk:page":"Schlo\u00df Holte-Stukenbrock"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"80bc137041612541362273a7bf84e44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063877,
+            "localadmin_id":1377691527,
+            "locality_id":101809095,
+            "macrocounty_id":404227571,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":101809095,
+    "wof:lastmodified":1690873585,
+    "wof:name":"Schlo\u00df Holte-Stukenbrock",
+    "wof:parent_id":1377691527,
+    "wof:placetype":"locality",
+    "wof:population":26872,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125342627
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.557142,
+    51.852189,
+    8.748387,
+    51.930246
+],
+  "geometry": {"coordinates":[[[[8.68381,51.915759],[8.697375,51.90686],[8.7001,51.905055],[8.702529,51.903446],[8.713068,51.896227],[8.716939,51.893568],[8.719495,51.891806],[8.720506,51.890877],[8.725818,51.883677],[8.727724,51.881024],[8.731386,51.875841],[8.733538,51.872463],[8.738441,51.866714],[8.7398,51.865412],[8.746555,51.860119],[8.748387,51.858673],[8.744959,51.858272],[8.742795,51.858146],[8.737854,51.85786],[8.735291,51.857255],[8.72944,51.85599],[8.725158,51.855494],[8.718043,51.854622],[8.715134,51.854687],[8.699273,51.855617],[8.69077,51.856036],[8.690129,51.857196],[8.687561,51.856725],[8.681471,51.85566],[8.678818,51.855134],[8.673463,51.853882],[8.672458,51.855009],[8.666914,51.852889],[8.662282,51.852189],[8.661828,51.852847],[8.659931,51.855598],[8.658754,51.857305],[8.656403,51.860669],[8.654372,51.863766],[8.652861,51.86607],[8.648508,51.868657],[8.645642,51.869792],[8.639309,51.875361],[8.637334,51.877094],[8.63656,51.87575],[8.634727,51.87259],[8.63311,51.870079],[8.632612,51.868649],[8.628949,51.863447],[8.627807,51.862358],[8.619878,51.860091],[8.609243,51.857214],[8.604048,51.854584],[8.601268,51.853991],[8.599839,51.856445],[8.598921,51.856345],[8.598127,51.857675],[8.599945,51.859243],[8.596325,51.859257],[8.595691,51.862621],[8.592622,51.861969],[8.589437,51.866183],[8.590593,51.866679],[8.588873,51.868199],[8.591521,51.86951],[8.589765,51.871533],[8.593009,51.871906],[8.594684,51.87244],[8.594296,51.873127],[8.595201,51.87357],[8.593931,51.875235],[8.594353,51.876185],[8.5959,51.876725],[8.596179,51.878871],[8.595026,51.879967],[8.595973,51.880496],[8.595444,51.88101],[8.590115,51.885352],[8.590348,51.886039],[8.587858,51.886467],[8.585515,51.884099],[8.576672,51.883101],[8.576639,51.883954],[8.576523,51.885572],[8.575846,51.886742],[8.575089,51.887691],[8.573029,51.888783],[8.572564,51.890404],[8.569554,51.893901],[8.565501,51.892854],[8.564908,51.8927],[8.560616,51.893422],[8.560357,51.895047],[8.565228,51.895685],[8.56825,51.896534],[8.566655,51.899154],[8.568634,51.89944],[8.573464,51.900137],[8.576407,51.902152],[8.576994,51.902475],[8.577463,51.902936],[8.577615,51.903085],[8.57861,51.903587],[8.576351,51.905665],[8.572072,51.906367],[8.57041,51.907426],[8.569444,51.90841],[8.567912,51.910998],[8.564607,51.911727],[8.564063,51.912208],[8.563386,51.913997],[8.559317,51.91733],[8.557142,51.919003],[8.558211,51.919426],[8.559227,51.921871],[8.560492,51.922233],[8.561117,51.923962],[8.56057,51.924779],[8.562132,51.925004],[8.562623,51.924327],[8.564693,51.924532],[8.568946,51.922315],[8.572799,51.921336],[8.578021,51.9207],[8.579937,51.920461],[8.583558,51.920889],[8.58583,51.921186],[8.586771,51.921984],[8.587565,51.922483],[8.588976,51.92319],[8.591118,51.924169],[8.592277,51.924637],[8.593873,51.925104],[8.595643,51.925249],[8.598804,51.925516],[8.601951,51.925782],[8.603165,51.926008],[8.603656,51.926088],[8.60489,51.926522],[8.605786,51.927013],[8.606339,51.927373],[8.61504,51.930246],[8.617296,51.930228],[8.620824,51.930104],[8.622981,51.930048],[8.625254,51.929634],[8.628784,51.928385],[8.631848,51.927146],[8.634392,51.925783],[8.637535,51.923321],[8.637317,51.921176],[8.643387,51.921154],[8.648169,51.920572],[8.653312,51.919707],[8.655474,51.919858],[8.657121,51.919793],[8.660815,51.91965],[8.66177,51.919613],[8.665202,51.919324],[8.668111,51.919342],[8.670733,51.919284],[8.675713,51.918829],[8.680677,51.917709],[8.682491,51.916738],[8.68381,51.915759]]]],"type":"MultiPolygon"}
+}

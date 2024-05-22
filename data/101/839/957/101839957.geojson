@@ -1,1 +1,444 @@
-{"id": 101839957, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07133006", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Kreuznach, Stadt", "eurostat:nuts_2021_id": "07133006", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB1", "eurostat:nuts_2021_level_3": "DEB14", "eurostat:nuts_2021_level_lau": "07133006", "eurostat:population": 51170, "eurostat:population_year": 2020, "geom:area": 0.006928, "geom:area_square_m": 55250201.247946, "geom:bbox": "7.787047,49.787206,7.954592,49.882025", "geom:latitude": 49.837386, "geom:longitude": 7.868373, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 43485, "iso:country": "DE", "lbl:latitude": 49.841345, "lbl:longitude": 7.869982, "lbl:max_zoom": 14.0, "lbl:min_zoom": 10.0, "mps:latitude": 49.841345, "mps:longitude": 7.869982, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 9.0, "name:afr_x_preferred": ["Bad Kreuznach"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0643\u0631\u0648\u064a\u062a\u0633\u0646\u0627\u062e"], "name:arg_x_preferred": ["Bad Kreuznach"], "name:ast_x_preferred": ["Bad Kreuznach"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u06a9\u0631\u0648\u06cc\u062a\u0633\u0646\u0627\u062e"], "name:bar_x_preferred": ["Bad Kreuznach"], "name:bel_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"], "name:bre_x_preferred": ["Bad Kreuznach"], "name:bul_x_preferred": ["\u0411\u0430\u0434 \u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"], "name:cat_x_preferred": ["Bad Kreuznach"], "name:ceb_x_preferred": ["Bad Kreuznach"], "name:ces_x_preferred": ["Bad Kreuznach"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"], "name:cos_x_preferred": ["Bad Kreuznach"], "name:cym_x_preferred": ["Bad Kreuznach"], "name:dan_x_preferred": ["Bad Kreuznach"], "name:deu_x_preferred": ["Bad Kreuznach"], "name:deu_x_variant": ["Kreuznach"], "name:ell_x_preferred": ["\u039c\u03c0\u03b1\u03c4 \u039a\u03c1\u03cc\u03b9\u03c4\u03c3\u03bd\u03b1\u03c7"], "name:eng_x_preferred": ["Bad Kreuznach"], "name:epo_x_preferred": ["Bad Kreuznach"], "name:est_x_preferred": ["Bad Kreuznach"], "name:eus_x_preferred": ["Bad Kreuznach"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u06a9\u0631\u0648\u06cc\u062a\u0633\u0646\u0627\u062e"], "name:fas_x_variant": ["\u0628\u0627\u062f \u06a9\u0631\u06cc\u0632\u0646\u0627\u062e"], "name:fin_x_preferred": ["Bad Kreuznach"], "name:fra_x_preferred": ["Bad Kreuznach"], "name:frp_x_preferred": ["Bad Kreuznach"], "name:fry_x_preferred": ["Bad Kreuznach"], "name:fur_x_preferred": ["Bad Kreuznach"], "name:gla_x_preferred": ["Bad Kreuznach"], "name:gle_x_preferred": ["Bad Kreuznach"], "name:glg_x_preferred": ["Bad Kreuznach"], "name:gsw_x_preferred": ["Bad Kreuznach"], "name:heb_x_preferred": ["\u05d1\u05d0\u05d3 \u05e7\u05e8\u05d5\u05d9\u05e6\u05e0\u05d1\u05da"], "name:heb_x_variant": ["\u05d1\u05d0\u05d3 \u05e7\u05e8\u05d5\u05d9\u05e6\u05e0\u05da"], "name:hrv_x_preferred": ["Bad Kreuznach"], "name:hun_x_preferred": ["Bad Kreuznach"], "name:hye_x_preferred": ["\u0532\u0561\u0564 \u053f\u0580\u0578\u0575\u0581\u0576\u0561\u056d"], "name:ido_x_preferred": ["Bad Kreuznach"], "name:ile_x_preferred": ["Bad Kreuznach"], "name:ina_x_preferred": ["Bad Kreuznach"], "name:ind_x_preferred": ["Bad Kreuznach"], "name:isl_x_preferred": ["Bad Kreuznach"], "name:ita_x_preferred": ["Bad Kreuznach"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30af\u30ed\u30a4\u30c4\u30ca\u30cf"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"], "name:kon_x_preferred": ["Bad Kreuznach"], "name:kor_x_preferred": ["\ubc14\ud2b8\ud06c\ub85c\uc774\uce20\ub098\ud750"], "name:kur_x_preferred": ["Bad Kreuznach"], "name:lat_x_preferred": ["Cruciniacum"], "name:lav_x_preferred": ["B\u0101dkreicnaha"], "name:lij_x_preferred": ["Bad Kreuznach"], "name:lim_x_preferred": ["Bad Kreuznach"], "name:lit_x_preferred": ["Bad Kroicnachas"], "name:lld_x_preferred": ["Bad Kreuznach"], "name:ltz_x_preferred": ["Bad Kreuznach"], "name:min_x_preferred": ["Bad Kreuznach"], "name:mlg_x_preferred": ["Bad Kreuznach"], "name:msa_x_preferred": ["Bad Kreuznach"], "name:nap_x_preferred": ["Bad Kreuznach"], "name:nds_x_preferred": ["Bad Kreuznach"], "name:nld_x_preferred": ["Bad Kreuznach"], "name:nno_x_preferred": ["Bad Kreuznach"], "name:nob_x_preferred": ["Bad Kreuznach"], "name:nrm_x_preferred": ["Bad Kreuznach"], "name:oci_x_preferred": ["Bad Kreuznach"], "name:pcd_x_preferred": ["Bad Kreuznach"], "name:pms_x_preferred": ["Bad Kreuznach"], "name:pol_x_preferred": ["Bad Kreuznach"], "name:por_x_preferred": ["Bad Kreuznach"], "name:roh_x_preferred": ["Bad Kreuznach"], "name:ron_x_preferred": ["Bad Kreuznach"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"], "name:scn_x_preferred": ["Bad Kreuznach"], "name:sco_x_preferred": ["Bad Kreuznach"], "name:slk_x_preferred": ["Bad Kreuznach"], "name:slv_x_preferred": ["Bad Kreuznach"], "name:spa_x_preferred": ["Bad Kreuznach"], "name:srd_x_preferred": ["Bad Kreuznach"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u041a\u0440\u043e\u0458\u0446\u043d\u0430\u0445"], "name:swa_x_preferred": ["Bad Kreuznach"], "name:swe_x_preferred": ["Bad Kreuznach"], "name:szl_x_preferred": ["Bad Kreuznach"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"], "name:tum_x_preferred": ["Bad Kreuznach"], "name:tur_x_preferred": ["Bad Kreuznach"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"], "name:uzb_x_preferred": ["Bad Kreuznach"], "name:vec_x_preferred": ["Bad Kreuznach"], "name:vie_x_preferred": ["Bad Kreuznach"], "name:vls_x_preferred": ["Bad Kreuznach"], "name:vol_x_preferred": ["Bad Kreuznach"], "name:war_x_preferred": ["Bad Kreuznach"], "name:wln_x_preferred": ["Bad Kreuznach"], "name:wol_x_preferred": ["Bad Kreuznach"], "name:zho_x_preferred": ["\u5df4\u7279\u514b\u7f57\u4f0a\u8328\u7eb3\u8d6b"], "name:zul_x_preferred": ["Bad Kreuznach"], "nav:latitude": 49.841345, "nav:longitude": 7.869982, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Bad Kreuznach", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Bad Kreuznach", "qs:la_lc": "*DE07013300006", "qs:level": "locality", "qs:loc": "Bad Kreuznach", "qs:loc_alt": "Bad Kreuznach", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-multi-in-poly-resolved", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557855, "qs_pg:gn_pop": 43485, "qs_pg:name": "Gemeinde Bad Kreuznach", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 6, "qs_pg:photos_9r": 7, "qs_pg:photos_all": 1437, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1311959, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12627970, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682491, 102191581, 1377685363, 85633111, 102063551], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07133006", "eurostat:nuts_2021_id": "07133006", "fct:id": "0736ca96-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2953416, "gp:id": 636452, "qs_pg:id": 218272, "wd:id": "Q7047", "wk:page": "Bad Kreuznach"}, "wof:coterminous": [1377685363], "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "c8580c7488551e675417ab098b77f947", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063551, "localadmin_id": 1377685363, "locality_id": 101839957, "region_id": 85682491}], "wof:id": 101839957, "wof:lang": ["ger"], "wof:lastmodified": 1690873739, "wof:name": "Bad Kreuznach", "wof:parent_id": 1377685363, "wof:placetype": "locality", "wof:population": 51170, "wof:population_rank": 8, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125337637, 1125285335], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.787047, 49.787206, 7.954592, 49.882025], "geometry": {"coordinates": [[[[7.919412, 49.881792], [7.921542, 49.881561], [7.930525, 49.880846], [7.934827, 49.878567], [7.933499, 49.877637], [7.934517, 49.877083], [7.932946, 49.876004], [7.932643, 49.874133], [7.927752, 49.871331], [7.929254, 49.869835], [7.928092, 49.868152], [7.930969, 49.863356], [7.94013, 49.862896], [7.942393, 49.86355], [7.944724, 49.864215], [7.948587, 49.864374], [7.951218, 49.86518], [7.954592, 49.86251], [7.951267, 49.861418], [7.946324, 49.861136], [7.938508, 49.860699], [7.929676, 49.856629], [7.930318, 49.855572], [7.932727, 49.855311], [7.933441, 49.850592], [7.933252, 49.84868], [7.933624, 49.842053], [7.934398, 49.839577], [7.935804, 49.838295], [7.92759, 49.83368], [7.925559, 49.832382], [7.924545, 49.832603], [7.912757, 49.838222], [7.909204, 49.837701], [7.902304, 49.836688], [7.899991, 49.838516], [7.891572, 49.8296], [7.889019, 49.827846], [7.885499, 49.8254], [7.887111, 49.82442], [7.883142, 49.821187], [7.883293, 49.820075], [7.883438, 49.818601], [7.883983, 49.817795], [7.885649, 49.81533], [7.88351, 49.814506], [7.884225, 49.813398], [7.886286, 49.811652], [7.887756, 49.810409], [7.889805, 49.811015], [7.892341, 49.811766], [7.894483, 49.808979], [7.888019, 49.807138], [7.871986, 49.805265], [7.864313, 49.797642], [7.864439, 49.792847], [7.859362, 49.791873], [7.855459, 49.79054], [7.843782, 49.790232], [7.838291, 49.79265], [7.836522, 49.792359], [7.83553, 49.791951], [7.834553, 49.792517], [7.832842, 49.793678], [7.830979, 49.793874], [7.829502, 49.794416], [7.828641, 49.794006], [7.823339, 49.79148], [7.819734, 49.787344], [7.818115, 49.787206], [7.81475, 49.788198], [7.811103, 49.789003], [7.808164, 49.790806], [7.806715, 49.790617], [7.801389, 49.792077], [7.799464, 49.79366], [7.797201, 49.793008], [7.796759, 49.792502], [7.795536, 49.792778], [7.794993, 49.793527], [7.797122, 49.794487], [7.797009, 49.795862], [7.796464, 49.7963], [7.795852, 49.797986], [7.791393, 49.797168], [7.790432, 49.798649], [7.78791, 49.799356], [7.787047, 49.800046], [7.787868, 49.8025], [7.788155, 49.804195], [7.787436, 49.806068], [7.787502, 49.807348], [7.789326, 49.807085], [7.791157, 49.807408], [7.792818, 49.806574], [7.795159, 49.80383], [7.802012, 49.801454], [7.803556, 49.800222], [7.808094, 49.801869], [7.809999, 49.801401], [7.809795, 49.803773], [7.815952, 49.804465], [7.818824, 49.805634], [7.821143, 49.807516], [7.824019, 49.807332], [7.823373, 49.810817], [7.825216, 49.813974], [7.824959, 49.815706], [7.825626, 49.816135], [7.82632, 49.816398], [7.82697, 49.816467], [7.82744, 49.816523], [7.829073, 49.816426], [7.830253, 49.816229], [7.830956, 49.816101], [7.831906, 49.815782], [7.832813, 49.815488], [7.833618, 49.815021], [7.834537, 49.814502], [7.835879, 49.813399], [7.8362, 49.813884], [7.83806, 49.8167], [7.840533, 49.817942], [7.842309, 49.818834], [7.839902, 49.819588], [7.837608, 49.821532], [7.836278, 49.823446], [7.826574, 49.824749], [7.823075, 49.82687], [7.820759, 49.828034], [7.820259, 49.828497], [7.818667, 49.829973], [7.816622, 49.830199], [7.814224, 49.830886], [7.81239, 49.831202], [7.811145, 49.832432], [7.810668, 49.83324], [7.810492, 49.834315], [7.81087, 49.835254], [7.811605, 49.835997], [7.813486, 49.837326], [7.814895, 49.838368], [7.817595, 49.840474], [7.818638, 49.839848], [7.81971, 49.839203], [7.822256, 49.841365], [7.823062, 49.842627], [7.826227, 49.8428], [7.827169, 49.843624], [7.825366, 49.8482], [7.827129, 49.848529], [7.828135, 49.848715], [7.827113, 49.851545], [7.827166, 49.855057], [7.830823, 49.855143], [7.83139, 49.856503], [7.834612, 49.858356], [7.83413, 49.85877], [7.833324, 49.85946], [7.834714, 49.860063], [7.83587, 49.862734], [7.839408, 49.864409], [7.844035, 49.867399], [7.846775, 49.86722], [7.846003, 49.868336], [7.850897, 49.870232], [7.851715, 49.870549], [7.853467, 49.872354], [7.854927, 49.873901], [7.856245, 49.875255], [7.854351, 49.877236], [7.855561, 49.877942], [7.856119, 49.878268], [7.861692, 49.880774], [7.862458, 49.882025], [7.863739, 49.880705], [7.865517, 49.878873], [7.873887, 49.879427], [7.875759, 49.878074], [7.870698, 49.87613], [7.87081, 49.874602], [7.872491, 49.87393], [7.87628, 49.872172], [7.877411, 49.872369], [7.882067, 49.870532], [7.878091, 49.867127], [7.887794, 49.863416], [7.888683, 49.863812], [7.889709, 49.864162], [7.890574, 49.864356], [7.891067, 49.864585], [7.892655, 49.86568], [7.893661, 49.866378], [7.894496, 49.867153], [7.894906, 49.868063], [7.894916, 49.868639], [7.894887, 49.86917], [7.894861, 49.869637], [7.894828, 49.87024], [7.89515, 49.870733], [7.895655, 49.871168], [7.896137, 49.871521], [7.896939, 49.872133], [7.898132, 49.872737], [7.899423, 49.873334], [7.90054, 49.874043], [7.901346, 49.874593], [7.902141, 49.875079], [7.903325, 49.875853], [7.904766, 49.876751], [7.905497, 49.877397], [7.906212, 49.878071], [7.906926, 49.878771], [7.907549, 49.879362], [7.908631, 49.879954], [7.910154, 49.880636], [7.910941, 49.881032], [7.911871, 49.881342], [7.913014, 49.881584], [7.913811, 49.88153], [7.915002, 49.881413], [7.916205, 49.881323], [7.917182, 49.881291], [7.918059, 49.881311], [7.91876, 49.881471], [7.919167, 49.881678], [7.919412, 49.881792]]]], "type": "MultiPolygon"}}
+{
+  "id": 101839957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07133006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Kreuznach, Stadt",
+    "eurostat:nuts_2021_id":"07133006",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB1",
+    "eurostat:nuts_2021_level_3":"DEB14",
+    "eurostat:nuts_2021_level_lau":"07133006",
+    "eurostat:population":51170,
+    "eurostat:population_year":2020,
+    "geom:area":0.006928,
+    "geom:area_square_m":55250201.247946,
+    "geom:bbox":"7.787047,49.787206,7.954592,49.882025",
+    "geom:latitude":49.837386,
+    "geom:longitude":7.868373,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":43485,
+    "iso:country":"DE",
+    "lbl:latitude":49.841345,
+    "lbl:longitude":7.869982,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
+    "mps:latitude":49.841345,
+    "mps:longitude":7.869982,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0643\u0631\u0648\u064a\u062a\u0633\u0646\u0627\u062e"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u06a9\u0631\u0648\u06cc\u062a\u0633\u0646\u0627\u062e"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0434 \u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:deu_x_variant":[
+        "Kreuznach"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4 \u039a\u03c1\u03cc\u03b9\u03c4\u03c3\u03bd\u03b1\u03c7"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:est_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u06a9\u0631\u0648\u06cc\u062a\u0633\u0646\u0627\u062e"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u062f \u06a9\u0631\u06cc\u0632\u0646\u0627\u062e"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:fry_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d3 \u05e7\u05e8\u05d5\u05d9\u05e6\u05e0\u05d1\u05da"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d0\u05d3 \u05e7\u05e8\u05d5\u05d9\u05e6\u05e0\u05da"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0564 \u053f\u0580\u0578\u0575\u0581\u0576\u0561\u056d"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30af\u30ed\u30a4\u30c4\u30ca\u30cf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ud2b8\ud06c\ub85c\uc774\uce20\ub098\ud750"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:lat_x_preferred":[
+        "Cruciniacum"
+    ],
+    "name:lav_x_preferred":[
+        "B\u0101dkreicnaha"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:lit_x_preferred":[
+        "Bad Kroicnachas"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:min_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:por_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u041a\u0440\u043e\u0458\u0446\u043d\u0430\u0445"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:szl_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0439\u0446\u043d\u0430\u0445"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:war_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u514b\u7f57\u4f0a\u8328\u7eb3\u8d6b"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Kreuznach"
+    ],
+    "nav:latitude":49.841345,
+    "nav:longitude":7.869982,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Bad Kreuznach",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Bad Kreuznach",
+    "qs:la_lc":"*DE07013300006",
+    "qs:level":"locality",
+    "qs:loc":"Bad Kreuznach",
+    "qs:loc_alt":"Bad Kreuznach",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557855,
+    "qs_pg:gn_pop":43485,
+    "qs_pg:name":"Gemeinde Bad Kreuznach",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1437,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1311959,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12627970,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377685363,
+        85633111,
+        102063551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07133006",
+        "eurostat:nuts_2021_id":"07133006",
+        "fct:id":"0736ca96-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2953416,
+        "gp:id":636452,
+        "qs_pg:id":218272,
+        "wd:id":"Q7047",
+        "wk:page":"Bad Kreuznach"
+    },
+    "wof:coterminous":[
+        1377685363
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"c8580c7488551e675417ab098b77f947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063551,
+            "localadmin_id":1377685363,
+            "locality_id":101839957,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101839957,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873739,
+    "wof:name":"Bad Kreuznach",
+    "wof:parent_id":1377685363,
+    "wof:placetype":"locality",
+    "wof:population":51170,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125337637,
+        1125285335
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.787047,
+    49.787206,
+    7.954592,
+    49.882025
+],
+  "geometry": {"coordinates":[[[[7.919412,49.881792],[7.921542,49.881561],[7.930525,49.880846],[7.934827,49.878567],[7.933499,49.877637],[7.934517,49.877083],[7.932946,49.876004],[7.932643,49.874133],[7.927752,49.871331],[7.929254,49.869835],[7.928092,49.868152],[7.930969,49.863356],[7.94013,49.862896],[7.942393,49.86355],[7.944724,49.864215],[7.948587,49.864374],[7.951218,49.86518],[7.954592,49.86251],[7.951267,49.861418],[7.946324,49.861136],[7.938508,49.860699],[7.929676,49.856629],[7.930318,49.855572],[7.932727,49.855311],[7.933441,49.850592],[7.933252,49.84868],[7.933624,49.842053],[7.934398,49.839577],[7.935804,49.838295],[7.92759,49.83368],[7.925559,49.832382],[7.924545,49.832603],[7.912757,49.838222],[7.909204,49.837701],[7.902304,49.836688],[7.899991,49.838516],[7.891572,49.8296],[7.889019,49.827846],[7.885499,49.8254],[7.887111,49.82442],[7.883142,49.821187],[7.883293,49.820075],[7.883438,49.818601],[7.883983,49.817795],[7.885649,49.81533],[7.88351,49.814506],[7.884225,49.813398],[7.886286,49.811652],[7.887756,49.810409],[7.889805,49.811015],[7.892341,49.811766],[7.894483,49.808979],[7.888019,49.807138],[7.871986,49.805265],[7.864313,49.797642],[7.864439,49.792847],[7.859362,49.791873],[7.855459,49.79054],[7.843782,49.790232],[7.838291,49.79265],[7.836522,49.792359],[7.83553,49.791951],[7.834553,49.792517],[7.832842,49.793678],[7.830979,49.793874],[7.829502,49.794416],[7.828641,49.794006],[7.823339,49.79148],[7.819734,49.787344],[7.818115,49.787206],[7.81475,49.788198],[7.811103,49.789003],[7.808164,49.790806],[7.806715,49.790617],[7.801389,49.792077],[7.799464,49.79366],[7.797201,49.793008],[7.796759,49.792502],[7.795536,49.792778],[7.794993,49.793527],[7.797122,49.794487],[7.797009,49.795862],[7.796464,49.7963],[7.795852,49.797986],[7.791393,49.797168],[7.790432,49.798649],[7.78791,49.799356],[7.787047,49.800046],[7.787868,49.8025],[7.788155,49.804195],[7.787436,49.806068],[7.787502,49.807348],[7.789326,49.807085],[7.791157,49.807408],[7.792818,49.806574],[7.795159,49.80383],[7.802012,49.801454],[7.803556,49.800222],[7.808094,49.801869],[7.809999,49.801401],[7.809795,49.803773],[7.815952,49.804465],[7.818824,49.805634],[7.821143,49.807516],[7.824019,49.807332],[7.823373,49.810817],[7.825216,49.813974],[7.824959,49.815706],[7.825626,49.816135],[7.82632,49.816398],[7.82697,49.816467],[7.82744,49.816523],[7.829073,49.816426],[7.830253,49.816229],[7.830956,49.816101],[7.831906,49.815782],[7.832813,49.815488],[7.833618,49.815021],[7.834537,49.814502],[7.835879,49.813399],[7.8362,49.813884],[7.83806,49.8167],[7.840533,49.817942],[7.842309,49.818834],[7.839902,49.819588],[7.837608,49.821532],[7.836278,49.823446],[7.826574,49.824749],[7.823075,49.82687],[7.820759,49.828034],[7.820259,49.828497],[7.818667,49.829973],[7.816622,49.830199],[7.814224,49.830886],[7.81239,49.831202],[7.811145,49.832432],[7.810668,49.83324],[7.810492,49.834315],[7.81087,49.835254],[7.811605,49.835997],[7.813486,49.837326],[7.814895,49.838368],[7.817595,49.840474],[7.818638,49.839848],[7.81971,49.839203],[7.822256,49.841365],[7.823062,49.842627],[7.826227,49.8428],[7.827169,49.843624],[7.825366,49.8482],[7.827129,49.848529],[7.828135,49.848715],[7.827113,49.851545],[7.827166,49.855057],[7.830823,49.855143],[7.83139,49.856503],[7.834612,49.858356],[7.83413,49.85877],[7.833324,49.85946],[7.834714,49.860063],[7.83587,49.862734],[7.839408,49.864409],[7.844035,49.867399],[7.846775,49.86722],[7.846003,49.868336],[7.850897,49.870232],[7.851715,49.870549],[7.853467,49.872354],[7.854927,49.873901],[7.856245,49.875255],[7.854351,49.877236],[7.855561,49.877942],[7.856119,49.878268],[7.861692,49.880774],[7.862458,49.882025],[7.863739,49.880705],[7.865517,49.878873],[7.873887,49.879427],[7.875759,49.878074],[7.870698,49.87613],[7.87081,49.874602],[7.872491,49.87393],[7.87628,49.872172],[7.877411,49.872369],[7.882067,49.870532],[7.878091,49.867127],[7.887794,49.863416],[7.888683,49.863812],[7.889709,49.864162],[7.890574,49.864356],[7.891067,49.864585],[7.892655,49.86568],[7.893661,49.866378],[7.894496,49.867153],[7.894906,49.868063],[7.894916,49.868639],[7.894887,49.86917],[7.894861,49.869637],[7.894828,49.87024],[7.89515,49.870733],[7.895655,49.871168],[7.896137,49.871521],[7.896939,49.872133],[7.898132,49.872737],[7.899423,49.873334],[7.90054,49.874043],[7.901346,49.874593],[7.902141,49.875079],[7.903325,49.875853],[7.904766,49.876751],[7.905497,49.877397],[7.906212,49.878071],[7.906926,49.878771],[7.907549,49.879362],[7.908631,49.879954],[7.910154,49.880636],[7.910941,49.881032],[7.911871,49.881342],[7.913014,49.881584],[7.913811,49.88153],[7.915002,49.881413],[7.916205,49.881323],[7.917182,49.881291],[7.918059,49.881311],[7.91876,49.881471],[7.919167,49.881678],[7.919412,49.881792]]]],"type":"MultiPolygon"}
+}

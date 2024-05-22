@@ -1,1 +1,90 @@
-{"id": 102549869, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.17278,50.6794,8.17278,50.6794", "geom:latitude": 50.6794, "geom:longitude": 8.17278, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 13.0, "name:deu_x_preferred": ["Flugplatz Breitscheid"], "name:eng_x_preferred": ["Breitscheid Airport"], "name:eng_x_variant": ["EDGB", "Breitscheid airfield"], "name:msa_x_preferred": ["Lapangan Terbang Breitscheid"], "oa:elevation_ft": "1834", "oa:type": "small_airport", "src:geom": "wikidata", "src:geom_alt": [], "woe:hierarchy": {"country_id": 23424829, "county_id": 12596769, "localadmin_id": 12632659, "planet_id": 1, "state_id": 2345485}, "wof:belongsto": [102191581, 404227577, 1377683427, 85633111, 101810917, 102063675, 85682531], "wof:breaches": [], "wof:concordances": {"gp:id": 56052054, "icao:code": "EDGB", "oa:id": "28538", "wd:id": "Q1433538"}, "wof:country": "DE", "wof:geomhash": "bcd61d7d82abdd20e9c1e394288d9a4d", "wof:hierarchy": [{"campus_id": 102549869, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063675, "localadmin_id": 1377683427, "locality_id": 101810917, "macrocounty_id": 404227577, "neighbourhood_id": -1, "region_id": 85682531}], "wof:id": 102549869, "wof:lastmodified": 1690871085, "wof:name": "Flugplatz Breitscheid", "wof:parent_id": 101810917, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [8.17278, 50.6794, 8.17278, 50.6794], "geometry": {"coordinates": [8.17278, 50.6794], "type": "Point"}}
+{
+  "id": 102549869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.17278,50.6794,8.17278,50.6794",
+    "geom:latitude":50.6794,
+    "geom:longitude":8.17278,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flugplatz Breitscheid"
+    ],
+    "name:eng_x_preferred":[
+        "Breitscheid Airport"
+    ],
+    "name:eng_x_variant":[
+        "EDGB",
+        "Breitscheid airfield"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Breitscheid"
+    ],
+    "oa:elevation_ft":"1834",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596769,
+        "localadmin_id":12632659,
+        "planet_id":1,
+        "state_id":2345485
+    },
+    "wof:belongsto":[
+        102191581,
+        404227577,
+        1377683427,
+        85633111,
+        101810917,
+        102063675,
+        85682531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56052054,
+        "icao:code":"EDGB",
+        "oa:id":"28538",
+        "wd:id":"Q1433538"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"bcd61d7d82abdd20e9c1e394288d9a4d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549869,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063675,
+            "localadmin_id":1377683427,
+            "locality_id":101810917,
+            "macrocounty_id":404227577,
+            "neighbourhood_id":-1,
+            "region_id":85682531
+        }
+    ],
+    "wof:id":102549869,
+    "wof:lastmodified":1690871085,
+    "wof:name":"Flugplatz Breitscheid",
+    "wof:parent_id":101810917,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.17278,
+    50.6794,
+    8.17278,
+    50.6794
+],
+  "geometry": {"coordinates":[8.17278,50.6794],"type":"Point"}
+}

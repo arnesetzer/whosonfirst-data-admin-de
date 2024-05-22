@@ -1,1 +1,146 @@
-{"id": 101908249, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.9e-05, "geom:area_square_m": 288808.817481, "geom:bbox": "13.352267,53.455178,13.364369,53.46171", "geom:latitude": 53.458392, "geom:longitude": 13.357493, "gn:population": 559, "iso:country": "DE", "lbl:latitude": 53.457973, "lbl:longitude": 13.357493, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 53.457973, "mps:longitude": 13.357493, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Teschendorf"], "name:ceb_x_preferred": ["Teschendorf"], "name:che_x_preferred": ["\u0422\u0435\u0448\u0435\u043d\u0434\u043e\u0440\u0444"], "name:deu_x_preferred": ["Teschendorf"], "name:eng_x_preferred": ["Teschendorf"], "name:epo_x_preferred": ["Teschendorf"], "name:fas_x_preferred": ["\u062a\u0634\u0646\u062f\u0648\u0631\u0641"], "name:gle_x_preferred": ["Teschendorf"], "name:mkd_x_preferred": ["\u0422\u0435\u0448\u0435\u043d\u0434\u043e\u0440\u0444"], "name:msa_x_preferred": ["Teschendorf"], "name:nld_x_preferred": ["Teschendorf"], "name:nob_x_preferred": ["Teschendorf"], "name:ron_x_preferred": ["Teschendorf"], "name:rus_x_preferred": ["\u0422\u0435\u0448\u0435\u043d\u0434\u043e\u0440\u0444"], "name:tat_x_preferred": ["\u0422\u0435\u0448\u0435\u043d\u0434\u043e\u0440\u0444"], "name:uzb_x_preferred": ["Teschendorf"], "name:vie_x_preferred": ["Teschendorf"], "name:vol_x_preferred": ["Teschendorf"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "Mecklenburg-Strelitz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Teschendorf", "qs:la_lc": "*DE13005520068", "qs:level": "locality", "qs:loc": "Teschendorf", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 16, "wof:belongsto": [85682487, 102191581, 1377684515, 85633111, 1377675565], "wof:breaches": [], "wof:concordances": {"gn:id": 2823444, "gp:id": 698878, "qs_pg:id": 374583, "wd:id": "Q678887", "wk:page": "Teschendorf"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "719a1d78d171582594eea57c47574760", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675565, "localadmin_id": 1377684515, "locality_id": 101908249, "region_id": 85682487}], "wof:id": 101908249, "wof:lastmodified": 1690871866, "wof:name": "Teschendorf", "wof:parent_id": 1377684515, "wof:placetype": "locality", "wof:population": 559, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.352267, 53.455178, 13.364369, 53.46171], "geometry": {"coordinates": [[[13.364369, 53.459582], [13.364298, 53.458685], [13.362794, 53.458726], [13.362724, 53.457829], [13.36122, 53.457871], [13.361008, 53.455178], [13.359504, 53.45522], [13.359575, 53.456117], [13.353559, 53.456284], [13.353771, 53.458976], [13.352267, 53.459018], [13.352478, 53.46171], [13.353982, 53.461668], [13.353911, 53.460771], [13.356919, 53.460688], [13.356849, 53.45979], [13.364369, 53.459582]]], "type": "Polygon"}}
+{
+  "id": 101908249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":288808.817481,
+    "geom:bbox":"13.352267,53.455178,13.364369,53.46171",
+    "geom:latitude":53.458392,
+    "geom:longitude":13.357493,
+    "gn:population":559,
+    "iso:country":"DE",
+    "lbl:latitude":53.457973,
+    "lbl:longitude":13.357493,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":53.457973,
+    "mps:longitude":13.357493,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:ceb_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u0448\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:deu_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:eng_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:epo_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u0646\u062f\u0648\u0631\u0641"
+    ],
+    "name:gle_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0435\u0448\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:msa_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:nld_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:nob_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:ron_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0448\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u0448\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:uzb_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:vie_x_preferred":[
+        "Teschendorf"
+    ],
+    "name:vol_x_preferred":[
+        "Teschendorf"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"Mecklenburg-Strelitz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Teschendorf",
+    "qs:la_lc":"*DE13005520068",
+    "qs:level":"locality",
+    "qs:loc":"Teschendorf",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377684515,
+        85633111,
+        1377675565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2823444,
+        "gp:id":698878,
+        "qs_pg:id":374583,
+        "wd:id":"Q678887",
+        "wk:page":"Teschendorf"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"719a1d78d171582594eea57c47574760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675565,
+            "localadmin_id":1377684515,
+            "locality_id":101908249,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101908249,
+    "wof:lastmodified":1690871866,
+    "wof:name":"Teschendorf",
+    "wof:parent_id":1377684515,
+    "wof:placetype":"locality",
+    "wof:population":559,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.352267,
+    53.455178,
+    13.364369,
+    53.46171
+],
+  "geometry": {"coordinates":[[[13.364369,53.459582],[13.364298,53.458685],[13.362794,53.458726],[13.362724,53.457829],[13.36122,53.457871],[13.361008,53.455178],[13.359504,53.45522],[13.359575,53.456117],[13.353559,53.456284],[13.353771,53.458976],[13.352267,53.459018],[13.352478,53.46171],[13.353982,53.461668],[13.353911,53.460771],[13.356919,53.460688],[13.356849,53.45979],[13.364369,53.459582]]],"type":"Polygon"}
+}

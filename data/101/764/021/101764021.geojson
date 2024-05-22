@@ -1,1 +1,438 @@
-{"id": 101764021, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08315006", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Krozingen, Stadt", "eurostat:nuts_2021_id": "08315006", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE132", "eurostat:nuts_2021_level_lau": "08315006", "eurostat:population": 20377, "eurostat:population_year": 2020, "geom:area": 0.004323, "geom:area_square_m": 35826969.362636, "geom:bbox": "7.637468,47.881391,7.725096,47.967909", "geom:latitude": 47.920859, "geom:longitude": 7.681153, "gn:country": null, "gn:fcode": "ADM4", "gn:id": "2819974,2953414", "gn:population": 16728, "iso:country": "DE", "lbl:latitude": 47.914319, "lbl:longitude": 7.70321, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 47.914319, "mps:longitude": 7.70321, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Krozingen"], "name:als_x_preferred": ["Bad Krozingen"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0643\u0631\u0648\u062a\u0633\u064a\u0646\u063a\u0646"], "name:arg_x_preferred": ["Bad Krozingen"], "name:arz_x_preferred": ["\u0628\u0627\u062f \u0643\u0631\u0648\u062a\u0633\u064a\u0646\u062c\u0646"], "name:ast_x_preferred": ["Bad Krozingen"], "name:bar_x_preferred": ["Bad Krozingen"], "name:bel_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u044b\u043d\u0433\u0435\u043d"], "name:bre_x_preferred": ["Bad Krozingen"], "name:cat_x_preferred": ["Bad Krozingen"], "name:ceb_x_preferred": ["Bad Krozingen"], "name:ces_x_preferred": ["Bad Krozingen"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"], "name:cos_x_preferred": ["Bad Krozingen"], "name:cym_x_preferred": ["Bad Krozingen"], "name:dan_x_preferred": ["Bad Krozingen"], "name:deu_x_preferred": ["Bad Krozingen"], "name:ell_x_preferred": ["\u039c\u03c0\u03b1\u03c4 \u039a\u03c1\u03cc\u03c4\u03c3\u03b9\u03bd\u03b3\u03ba\u03b5\u03bd"], "name:eng_x_preferred": ["Bad Krozingen"], "name:epo_x_preferred": ["Bad Krozingen"], "name:est_x_preferred": ["Bad Krozingen"], "name:eus_x_preferred": ["Bad Krozingen"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u06a9\u0631\u0648\u0632\u06cc\u0646\u06af\u0646"], "name:fin_x_preferred": ["Bad Krozingen"], "name:fra_x_preferred": ["Bad Krozingen"], "name:frp_x_preferred": ["Bad Krozingen"], "name:fur_x_preferred": ["Bad Krozingen"], "name:gla_x_preferred": ["Bad Krozingen"], "name:gle_x_preferred": ["Bad Krozingen"], "name:glg_x_preferred": ["Bad Krozingen"], "name:gsw_x_preferred": ["Bad Chrozige"], "name:hbs_x_preferred": ["Bad Krozingen"], "name:heb_x_preferred": ["\u05d1\u05d0\u05d3 \u05e7\u05e8\u05d5\u05e6\u05d9\u05e0\u05d2\u05df"], "name:hrv_x_preferred": ["Bad Krozingen"], "name:hun_x_preferred": ["Bad Krozingen"], "name:hye_x_preferred": ["\u0532\u0561\u0564 \u053f\u0580\u0578\u0581\u056b\u0576\u0563\u0565\u0576"], "name:ido_x_preferred": ["Bad Krozingen"], "name:ile_x_preferred": ["Bad Krozingen"], "name:ina_x_preferred": ["Bad Krozingen"], "name:ind_x_preferred": ["Bad Krozingen"], "name:isl_x_preferred": ["Bad Krozingen"], "name:ita_x_preferred": ["Bad Krozingen"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30af\u30ed\u30fc\u30c4\u30a3\u30f3\u30b2\u30f3"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"], "name:kon_x_preferred": ["Bad Krozingen"], "name:kur_x_preferred": ["Bad Krozingen"], "name:lat_x_preferred": ["Bad Krozingen"], "name:lij_x_preferred": ["Bad Krozingen"], "name:lim_x_preferred": ["Bad Krozingen"], "name:lld_x_preferred": ["Bad Krozingen"], "name:lmo_x_preferred": ["Bad Krozingen"], "name:ltz_x_preferred": ["Bad Krozingen"], "name:min_x_preferred": ["Bad Krozingen"], "name:mlg_x_preferred": ["Bad Krozingen"], "name:msa_x_preferred": ["Bad Krozingen"], "name:nap_x_preferred": ["Bad Krozingen"], "name:nds_x_preferred": ["Bad Krozingen"], "name:nld_x_preferred": ["Bad Krozingen"], "name:nno_x_preferred": ["Bad Krozingen"], "name:nob_x_preferred": ["Bad Krozingen"], "name:nrm_x_preferred": ["Bad Krozingen"], "name:oci_x_preferred": ["Bad Krozingen"], "name:pcd_x_preferred": ["Bad Krozingen"], "name:pms_x_preferred": ["Bad Krozingen"], "name:pol_x_preferred": ["Bad Krozingen"], "name:por_x_preferred": ["Bad Krozingen"], "name:roh_x_preferred": ["Bad Krozingen"], "name:ron_x_preferred": ["Bad Krozingen"], "name:rup_x_preferred": ["Bad Krozingen"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"], "name:scn_x_preferred": ["Bad Krozingen"], "name:sco_x_preferred": ["Bad Krozingen"], "name:slk_x_preferred": ["Bad Krozingen"], "name:slv_x_preferred": ["Bad Krozingen"], "name:spa_x_preferred": ["Bad Krozingen"], "name:srd_x_preferred": ["Bad Krozingen"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"], "name:swa_x_preferred": ["Bad Krozingen"], "name:swe_x_preferred": ["Bad Krozingen"], "name:szl_x_preferred": ["Bad Krozingen"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"], "name:tum_x_preferred": ["Bad Krozingen"], "name:tur_x_preferred": ["Bad Krozingen"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0456\u043d\u0433\u0435\u043d"], "name:uzb_x_preferred": ["Bad Krozingen"], "name:vec_x_preferred": ["Bad Krozingen"], "name:vie_x_preferred": ["Bad Krozingen"], "name:vls_x_preferred": ["Bad Krozingen"], "name:vol_x_preferred": ["Bad Krozingen"], "name:war_x_preferred": ["Bad Krozingen"], "name:wln_x_preferred": ["Bad Krozingen"], "name:wol_x_preferred": ["Bad Krozingen"], "name:zho_x_preferred": ["\u5df4\u7279\u514b\u7f57\u9752\u6839"], "name:zho_x_variant": ["\u5df4\u5fb7\u514b\u7f57\u94a6\u6839"], "name:zul_x_preferred": ["Bad Krozingen"], "nav:latitude": 47.914319, "nav:longitude": 7.70321, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Breisgau-Hochschwarzwald", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Krozingen", "qs:la_lc": "*DE08301501006", "qs:level": "locality", "qs:loc": "Bad Krozingen", "qs:loc_alt": "Bad Krozingen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555730, "qs_pg:gn_pop": 16728, "qs_pg:name": "Gemeinde Bad Krozingen", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 159, "qs_pg:photos_1k": 32, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 266, "qs_pg:photos_sr": 4, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 224587, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623316, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 35.65, "wd:latitude": 47.918056, "wd:longitude": 7.7025, "wd:population": 6242, "wd:wordcount": 55, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689143, 404227543, 102063241], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08315006", "eurostat:nuts_2021_id": "08315006", "gn:id": 2953414, "gp:id": 636453, "qs_pg:id": 374523, "wd:id": "Q496391"}, "wof:concordances_alt": {"qs_pg:id": 1143955}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "c045a27ede4c8df190b4cce895d96c2c", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063241, "localadmin_id": 1377689143, "locality_id": 101764021, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101764021, "wof:lastmodified": 1690871521, "wof:name": "Bad Krozingen", "wof:parent_id": 1377689143, "wof:placetype": "locality", "wof:population": 20377, "wof:population_rank": 7, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125296053, 1125412733], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.637468, 47.881391, 7.725096, 47.967909], "geometry": {"coordinates": [[[[7.677702, 47.959388], [7.676493, 47.957585], [7.680488, 47.954926], [7.67659, 47.954007], [7.678325, 47.952712], [7.686839, 47.949441], [7.693653, 47.948051], [7.699157, 47.946132], [7.699891, 47.947365], [7.707843, 47.944294], [7.706391, 47.942377], [7.707009, 47.941965], [7.707404, 47.94163], [7.707736, 47.941449], [7.708208, 47.941147], [7.708514, 47.940939], [7.706927, 47.939189], [7.706377, 47.937313], [7.704988, 47.934885], [7.701729, 47.931456], [7.70541, 47.929805], [7.707221, 47.927603], [7.706309, 47.926689], [7.711091, 47.925265], [7.713309, 47.924668], [7.712897, 47.921662], [7.715572, 47.918649], [7.717644, 47.918773], [7.71903, 47.916874], [7.718505, 47.915785], [7.721915, 47.912003], [7.72183, 47.910154], [7.722531, 47.908232], [7.725096, 47.900994], [7.72437, 47.900831], [7.720158, 47.899965], [7.718095, 47.899422], [7.71932, 47.898095], [7.718908, 47.897353], [7.718579, 47.896763], [7.720967, 47.894737], [7.719228, 47.893559], [7.72068, 47.891986], [7.720259, 47.889961], [7.71631, 47.887423], [7.710096, 47.883428], [7.70693, 47.881391], [7.703862, 47.881493], [7.695756, 47.883434], [7.688298, 47.886921], [7.687212, 47.886021], [7.686743, 47.887214], [7.680298, 47.890025], [7.679736, 47.889336], [7.676203, 47.890549], [7.675417, 47.889548], [7.67181, 47.890669], [7.671629, 47.893354], [7.670222, 47.892931], [7.661607, 47.895766], [7.662669, 47.897304], [7.64616, 47.905266], [7.641709, 47.906589], [7.641104, 47.905719], [7.639032, 47.906384], [7.638959, 47.91088], [7.640988, 47.910258], [7.642446, 47.913231], [7.644101, 47.915664], [7.643655, 47.919949], [7.637468, 47.921373], [7.640586, 47.925305], [7.644266, 47.924082], [7.644563, 47.927038], [7.648873, 47.925701], [7.652701, 47.928949], [7.653262, 47.928739], [7.655154, 47.930506], [7.653497, 47.931398], [7.657812, 47.934083], [7.657711, 47.935142], [7.659392, 47.936634], [7.657755, 47.937401], [7.660324, 47.941155], [7.661242, 47.940783], [7.662203, 47.941996], [7.659933, 47.942836], [7.663236, 47.946862], [7.659584, 47.948431], [7.658169, 47.947657], [7.654638, 47.947592], [7.650318, 47.950304], [7.647101, 47.949671], [7.646318, 47.952799], [7.641436, 47.952923], [7.642259, 47.955598], [7.639998, 47.95625], [7.64123, 47.958099], [7.643799, 47.957914], [7.644241, 47.96138], [7.646452, 47.961366], [7.646996, 47.96308], [7.648361, 47.962847], [7.649563, 47.962679], [7.649643, 47.963851], [7.651433, 47.963399], [7.651632, 47.964375], [7.653265, 47.964075], [7.655154, 47.96708], [7.655745, 47.967909], [7.663138, 47.966504], [7.662455, 47.965569], [7.664787, 47.965081], [7.668063, 47.962602], [7.669672, 47.964209], [7.671541, 47.964077], [7.675718, 47.96083], [7.677702, 47.959388]]]], "type": "MultiPolygon"}}
+{
+  "id": 101764021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08315006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Krozingen, Stadt",
+    "eurostat:nuts_2021_id":"08315006",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE132",
+    "eurostat:nuts_2021_level_lau":"08315006",
+    "eurostat:population":20377,
+    "eurostat:population_year":2020,
+    "geom:area":0.004323,
+    "geom:area_square_m":35826969.362636,
+    "geom:bbox":"7.637468,47.881391,7.725096,47.967909",
+    "geom:latitude":47.920859,
+    "geom:longitude":7.681153,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:id":"2819974,2953414",
+    "gn:population":16728,
+    "iso:country":"DE",
+    "lbl:latitude":47.914319,
+    "lbl:longitude":7.70321,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":47.914319,
+    "mps:longitude":7.70321,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:als_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0643\u0631\u0648\u062a\u0633\u064a\u0646\u063a\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062f \u0643\u0631\u0648\u062a\u0633\u064a\u0646\u062c\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u044b\u043d\u0433\u0435\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4 \u039a\u03c1\u03cc\u03c4\u03c3\u03b9\u03bd\u03b3\u03ba\u03b5\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:est_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u06a9\u0631\u0648\u0632\u06cc\u0646\u06af\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Chrozige"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d3 \u05e7\u05e8\u05d5\u05e6\u05d9\u05e0\u05d2\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0564 \u053f\u0580\u0578\u0581\u056b\u0576\u0563\u0565\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30af\u30ed\u30fc\u30c4\u30a3\u30f3\u30b2\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:lat_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:lmo_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:min_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:por_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:rup_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:szl_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u0440\u043e\u0446\u0456\u043d\u0433\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:war_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u514b\u7f57\u9752\u6839"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u514b\u7f57\u94a6\u6839"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Krozingen"
+    ],
+    "nav:latitude":47.914319,
+    "nav:longitude":7.70321,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Breisgau-Hochschwarzwald",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Krozingen",
+    "qs:la_lc":"*DE08301501006",
+    "qs:level":"locality",
+    "qs:loc":"Bad Krozingen",
+    "qs:loc_alt":"Bad Krozingen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555730,
+    "qs_pg:gn_pop":16728,
+    "qs_pg:name":"Gemeinde Bad Krozingen",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":159,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":266,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":224587,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623316,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":35.65,
+    "wd:latitude":47.918056,
+    "wd:longitude":7.7025,
+    "wd:population":6242,
+    "wd:wordcount":55,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689143,
+        404227543,
+        102063241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08315006",
+        "eurostat:nuts_2021_id":"08315006",
+        "gn:id":2953414,
+        "gp:id":636453,
+        "qs_pg:id":374523,
+        "wd:id":"Q496391"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1143955
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"c045a27ede4c8df190b4cce895d96c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063241,
+            "localadmin_id":1377689143,
+            "locality_id":101764021,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101764021,
+    "wof:lastmodified":1690871521,
+    "wof:name":"Bad Krozingen",
+    "wof:parent_id":1377689143,
+    "wof:placetype":"locality",
+    "wof:population":20377,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125296053,
+        1125412733
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.637468,
+    47.881391,
+    7.725096,
+    47.967909
+],
+  "geometry": {"coordinates":[[[[7.677702,47.959388],[7.676493,47.957585],[7.680488,47.954926],[7.67659,47.954007],[7.678325,47.952712],[7.686839,47.949441],[7.693653,47.948051],[7.699157,47.946132],[7.699891,47.947365],[7.707843,47.944294],[7.706391,47.942377],[7.707009,47.941965],[7.707404,47.94163],[7.707736,47.941449],[7.708208,47.941147],[7.708514,47.940939],[7.706927,47.939189],[7.706377,47.937313],[7.704988,47.934885],[7.701729,47.931456],[7.70541,47.929805],[7.707221,47.927603],[7.706309,47.926689],[7.711091,47.925265],[7.713309,47.924668],[7.712897,47.921662],[7.715572,47.918649],[7.717644,47.918773],[7.71903,47.916874],[7.718505,47.915785],[7.721915,47.912003],[7.72183,47.910154],[7.722531,47.908232],[7.725096,47.900994],[7.72437,47.900831],[7.720158,47.899965],[7.718095,47.899422],[7.71932,47.898095],[7.718908,47.897353],[7.718579,47.896763],[7.720967,47.894737],[7.719228,47.893559],[7.72068,47.891986],[7.720259,47.889961],[7.71631,47.887423],[7.710096,47.883428],[7.70693,47.881391],[7.703862,47.881493],[7.695756,47.883434],[7.688298,47.886921],[7.687212,47.886021],[7.686743,47.887214],[7.680298,47.890025],[7.679736,47.889336],[7.676203,47.890549],[7.675417,47.889548],[7.67181,47.890669],[7.671629,47.893354],[7.670222,47.892931],[7.661607,47.895766],[7.662669,47.897304],[7.64616,47.905266],[7.641709,47.906589],[7.641104,47.905719],[7.639032,47.906384],[7.638959,47.91088],[7.640988,47.910258],[7.642446,47.913231],[7.644101,47.915664],[7.643655,47.919949],[7.637468,47.921373],[7.640586,47.925305],[7.644266,47.924082],[7.644563,47.927038],[7.648873,47.925701],[7.652701,47.928949],[7.653262,47.928739],[7.655154,47.930506],[7.653497,47.931398],[7.657812,47.934083],[7.657711,47.935142],[7.659392,47.936634],[7.657755,47.937401],[7.660324,47.941155],[7.661242,47.940783],[7.662203,47.941996],[7.659933,47.942836],[7.663236,47.946862],[7.659584,47.948431],[7.658169,47.947657],[7.654638,47.947592],[7.650318,47.950304],[7.647101,47.949671],[7.646318,47.952799],[7.641436,47.952923],[7.642259,47.955598],[7.639998,47.95625],[7.64123,47.958099],[7.643799,47.957914],[7.644241,47.96138],[7.646452,47.961366],[7.646996,47.96308],[7.648361,47.962847],[7.649563,47.962679],[7.649643,47.963851],[7.651433,47.963399],[7.651632,47.964375],[7.653265,47.964075],[7.655154,47.96708],[7.655745,47.967909],[7.663138,47.966504],[7.662455,47.965569],[7.664787,47.965081],[7.668063,47.962602],[7.669672,47.964209],[7.671541,47.964077],[7.675718,47.96083],[7.677702,47.959388]]]],"type":"MultiPolygon"}
+}

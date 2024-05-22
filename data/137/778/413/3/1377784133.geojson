@@ -1,1 +1,93 @@
-{"id": 1377784133, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.99695,48.38028,11.99695,48.38028", "geom:latitude": 48.38028, "geom:longitude": 11.99695, "gn:admin1_code": "2", "gn:admin2_code": "91.0", "gn:admin3_code": "9177.0", "gn:admin4_code": "9177120.0", "gn:asciiname": "Riding", "gn:country_code": "DE", "gn:dem": 436, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2847415, "gn:latitude": 48.38028, "gn:longitude": 11.99695, "gn:modification_date": "2013-02-19", "gn:name": "Riding", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "11.99195,48.37528,12.00195,48.38528", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:deu_x_preferred": ["Riding"], "name:fra_x_preferred": ["Riding"], "name:kor_x_preferred": ["\ub77c\uc774\ub529"], "name:urd_x_preferred": ["\u0633\u0648\u0627\u0631\u06cc"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377691711, 404227567, 1276659995, 102063291, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2847415}, "wof:country": "DE", "wof:geomhash": "faf2b9f7a11dea01e4d75d24c581ea37", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063291, "localadmin_id": 1377691711, "locality_id": 1276659995, "macrocounty_id": 404227567, "neighbourhood_id": 1377784133, "region_id": 85682571}], "wof:id": 1377784133, "wof:lastmodified": 1566717629, "wof:name": "Riding", "wof:parent_id": 1276659995, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1226251023], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.99695, 48.38028, 11.99695, 48.38028], "geometry": {"coordinates": [11.99695, 48.38028], "type": "Point"}}
+{
+  "id": 1377784133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.99695,48.38028,11.99695,48.38028",
+    "geom:latitude":48.38028,
+    "geom:longitude":11.99695,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9177.0",
+    "gn:admin4_code":"9177120.0",
+    "gn:asciiname":"Riding",
+    "gn:country_code":"DE",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2847415,
+    "gn:latitude":48.38028,
+    "gn:longitude":11.99695,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Riding",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"11.99195,48.37528,12.00195,48.38528",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Riding"
+    ],
+    "name:fra_x_preferred":[
+        "Riding"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc774\ub529"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377691711,
+        404227567,
+        1276659995,
+        102063291,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2847415
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"faf2b9f7a11dea01e4d75d24c581ea37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063291,
+            "localadmin_id":1377691711,
+            "locality_id":1276659995,
+            "macrocounty_id":404227567,
+            "neighbourhood_id":1377784133,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1377784133,
+    "wof:lastmodified":1566717629,
+    "wof:name":"Riding",
+    "wof:parent_id":1276659995,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226251023
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.99695,
+    48.38028,
+    11.99695,
+    48.38028
+],
+  "geometry": {"coordinates":[11.99695,48.38028],"type":"Point"}
+}

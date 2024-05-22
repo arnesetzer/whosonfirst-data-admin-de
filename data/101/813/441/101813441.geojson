@@ -1,1 +1,394 @@
-{"id": 101813441, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07133501", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Sobernheim, Stadt", "eurostat:nuts_2021_id": "07133501", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB1", "eurostat:nuts_2021_level_3": "DEB14", "eurostat:nuts_2021_level_lau": "07133501", "eurostat:population": 6560, "eurostat:population_year": 2020, "geom:area": 0.006783, "geom:area_square_m": 54093327.727975, "geom:bbox": "7.536367,49.755946,7.684205,49.908445", "geom:latitude": 49.83978, "geom:longitude": 7.608897, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 6481, "iso:country": "DE", "lbl:latitude": 49.787151, "lbl:longitude": 7.648428, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 49.787151, "mps:longitude": 7.648428, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Sobernheim"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0632\u0648\u0628\u0631\u0646\u0647\u0627\u064a\u0645"], "name:arg_x_preferred": ["Bad Sobernheim"], "name:ast_x_preferred": ["Bad Sobernheim"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0632\u0648\u0628\u0631\u0646\u0647\u0627\u06cc\u0645"], "name:bar_x_preferred": ["Bad Sobernheim"], "name:bre_x_preferred": ["Bad Sobernheim"], "name:bul_x_preferred": ["\u0411\u0430\u0434 \u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"], "name:cat_x_preferred": ["Bad Sobernheim"], "name:ceb_x_preferred": ["Bad Sobernheim"], "name:ces_x_preferred": ["Bad Sobernheim"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"], "name:cos_x_preferred": ["Bad Sobernheim"], "name:cym_x_preferred": ["Bad Sobernheim"], "name:dan_x_preferred": ["Bad Sobernheim"], "name:deu_x_preferred": ["Bad Sobernheim"], "name:eng_x_preferred": ["Bad Sobernheim"], "name:epo_x_preferred": ["Bad Sobernheim"], "name:est_x_preferred": ["Bad Sobernheim"], "name:eus_x_preferred": ["Bad Sobernheim"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0632\u0648\u0628\u0631\u0646\u0647\u0627\u06cc\u0645"], "name:fin_x_preferred": ["Bad Sobernheim"], "name:fra_x_preferred": ["Bad Sobernheim"], "name:frp_x_preferred": ["Bad Sobernheim"], "name:fry_x_preferred": ["Bad Sobernheim"], "name:fur_x_preferred": ["Bad Sobernheim"], "name:gla_x_preferred": ["Bad Sobernheim"], "name:gle_x_preferred": ["Bad Sobernheim"], "name:glg_x_preferred": ["Bad Sobernheim"], "name:gsw_x_preferred": ["Bad Sobernheim"], "name:hrv_x_preferred": ["Bad Sobernheim"], "name:hun_x_preferred": ["Bad Sobernheim"], "name:ido_x_preferred": ["Bad Sobernheim"], "name:ile_x_preferred": ["Bad Sobernheim"], "name:ina_x_preferred": ["Bad Sobernheim"], "name:ind_x_preferred": ["Bad Sobernheim"], "name:isl_x_preferred": ["Bad Sobernheim"], "name:ita_x_preferred": ["Bad Sobernheim"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30be\u30fc\u30d9\u30eb\u30f3\u30cf\u30a4\u30e0"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"], "name:kon_x_preferred": ["Bad Sobernheim"], "name:kur_x_preferred": ["Bad Sobernheim"], "name:lij_x_preferred": ["Bad Sobernheim"], "name:lim_x_preferred": ["Bad Sobernheim"], "name:lld_x_preferred": ["Bad Sobernheim"], "name:ltz_x_preferred": ["Bad Sobernheim"], "name:min_x_preferred": ["Bad Sobernheim"], "name:mlg_x_preferred": ["Bad Sobernheim"], "name:msa_x_preferred": ["Bad Sobernheim"], "name:nap_x_preferred": ["Bad Sobernheim"], "name:nds_x_preferred": ["Bad Sobernheim"], "name:nld_x_preferred": ["Bad Sobernheim"], "name:nno_x_preferred": ["Bad Sobernheim"], "name:nob_x_preferred": ["Bad Sobernheim"], "name:nrm_x_preferred": ["Bad Sobernheim"], "name:oci_x_preferred": ["Bad Sobernheim"], "name:pcd_x_preferred": ["Bad Sobernheim"], "name:pms_x_preferred": ["Bad Sobernheim"], "name:pol_x_preferred": ["Bad Sobernheim"], "name:por_x_preferred": ["Bad Sobernheim"], "name:roh_x_preferred": ["Bad Sobernheim"], "name:ron_x_preferred": ["Bad Sobernheim"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"], "name:scn_x_preferred": ["Bad Sobernheim"], "name:sco_x_preferred": ["Bad Sobernheim"], "name:slk_x_preferred": ["Bad Sobernheim"], "name:slv_x_preferred": ["Bad Sobernheim"], "name:spa_x_preferred": ["Bad Sobernheim"], "name:srd_x_preferred": ["Bad Sobernheim"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0458\u043c"], "name:swa_x_preferred": ["Bad Sobernheim"], "name:swe_x_preferred": ["Bad Sobernheim"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"], "name:tum_x_preferred": ["Bad Sobernheim"], "name:tur_x_preferred": ["Bad Sobernheim"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0433\u0430\u0439\u043c"], "name:uzb_x_preferred": ["Bad Sobernheim"], "name:vec_x_preferred": ["Bad Sobernheim"], "name:vie_x_preferred": ["Bad Sobernheim"], "name:vls_x_preferred": ["Bad Sobernheim"], "name:vol_x_preferred": ["Bad Sobernheim"], "name:war_x_preferred": ["Bad Sobernheim"], "name:wln_x_preferred": ["Bad Sobernheim"], "name:wol_x_preferred": ["Bad Sobernheim"], "name:zho_x_preferred": ["\u5df4\u7279\u7d22\u4f2f\u6069\u6d77\u59c6"], "name:zho_x_variant": ["\u5df4\u5fb7\u7d22\u8d1d\u5c14\u6069\u6d77\u59c6"], "name:zul_x_preferred": ["Bad Sobernheim"], "nav:latitude": 49.787151, "nav:longitude": 7.648428, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Bad Kreuznach", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Sobernheim", "qs:la_lc": "*DE07013307501", "qs:level": "locality", "qs:loc": "Bad Sobernheim", "qs:loc_alt": "Bad Sobernheim", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557860, "qs_pg:gn_pop": 6481, "qs_pg:name": "Bad Sobernheim, Stadt", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 5, "qs_pg:qs_id": 637883, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 10292, "wof:belongsto": [85682491, 102191581, 1377685419, 85633111, 102063551], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07133501", "eurostat:nuts_2021_id": "07133501", "fct:id": "076376cc-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2831736, "gp:id": 20162796, "qs_pg:id": 1181577, "wd:id": "Q520075", "wk:page": "Bad Sobernheim"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "a751bdc0a6366f25cdf8e39b67b6ec70", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063551, "localadmin_id": 1377685419, "locality_id": 101813441, "region_id": 85682491}], "wof:id": 101813441, "wof:lang": ["ger"], "wof:lastmodified": 1690873322, "wof:name": "Bad Sobernheim", "wof:parent_id": 1377685419, "wof:placetype": "locality", "wof:population": 6560, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125404537], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.536367, 49.755946, 7.684205, 49.908445], "geometry": {"coordinates": [[[[7.616495, 49.873516], [7.615178, 49.872267], [7.611277, 49.871358], [7.609708, 49.869211], [7.608319, 49.86868], [7.606443, 49.866085], [7.605827, 49.864304], [7.606583, 49.863199], [7.607311, 49.862127], [7.618156, 49.861056], [7.621429, 49.860567], [7.621436, 49.858018], [7.62135, 49.854562], [7.62479, 49.854314], [7.624749, 49.85316], [7.624828, 49.852307], [7.623642, 49.852358], [7.623847, 49.851031], [7.625012, 49.851105], [7.625692, 49.849763], [7.627305, 49.849579], [7.621978, 49.84442], [7.623462, 49.843134], [7.623539, 49.842377], [7.623281, 49.841715], [7.624071, 49.841032], [7.623473, 49.840127], [7.623972, 49.839468], [7.624309, 49.838696], [7.624008, 49.837799], [7.626534, 49.835847], [7.624055, 49.834019], [7.627656, 49.831787], [7.622272, 49.828761], [7.617307, 49.828239], [7.615143, 49.832236], [7.613732, 49.831867], [7.611815, 49.834058], [7.611202, 49.834758], [7.609695, 49.835537], [7.608314, 49.837176], [7.602685, 49.836574], [7.598774, 49.83931], [7.593375, 49.839721], [7.590777, 49.838143], [7.589724, 49.837503], [7.586731, 49.836664], [7.583683, 49.836013], [7.579765, 49.835176], [7.577438, 49.834268], [7.575899, 49.834114], [7.575287, 49.834557], [7.574488, 49.835113], [7.575036, 49.835876], [7.575206, 49.836113], [7.570364, 49.836899], [7.569421, 49.837368], [7.569425, 49.83753], [7.569614, 49.838742], [7.569619, 49.840246], [7.569398, 49.840897], [7.568146, 49.840208], [7.565493, 49.838752], [7.56485, 49.84105], [7.564484, 49.845614], [7.566723, 49.848373], [7.567366, 49.849687], [7.566521, 49.85097], [7.565781, 49.852122], [7.565602, 49.8539], [7.562722, 49.855212], [7.5622, 49.855091], [7.558399, 49.854173], [7.555639, 49.854219], [7.552335, 49.855221], [7.551124, 49.856055], [7.547647, 49.858225], [7.546256, 49.858414], [7.545722, 49.857149], [7.542801, 49.861107], [7.537227, 49.860043], [7.536665, 49.861901], [7.536367, 49.862884], [7.536813, 49.864669], [7.537384, 49.866683], [7.53742, 49.867891], [7.537677, 49.870914], [7.539443, 49.872752], [7.540982, 49.876897], [7.546726, 49.880648], [7.546735, 49.882981], [7.545614, 49.883744], [7.544653, 49.884403], [7.542583, 49.892138], [7.543438, 49.894294], [7.543456, 49.895132], [7.543796, 49.895708], [7.545063, 49.896182], [7.546144, 49.895616], [7.547499, 49.895345], [7.547598, 49.895321], [7.548994, 49.895276], [7.550759, 49.895367], [7.551998, 49.895615], [7.553253, 49.895837], [7.554607, 49.896016], [7.556272, 49.89614], [7.557419, 49.896088], [7.558799, 49.896088], [7.559817, 49.896304], [7.560947, 49.896738], [7.561791, 49.897057], [7.56293, 49.897122], [7.564528, 49.8972], [7.566008, 49.897391], [7.567319, 49.897605], [7.568123, 49.897896], [7.568669, 49.89809], [7.569725, 49.898594], [7.570624, 49.898932], [7.57136, 49.899203], [7.572569, 49.899721], [7.572663, 49.899777], [7.573965, 49.900594], [7.575109, 49.901704], [7.576073, 49.9028], [7.576425, 49.903205], [7.577193, 49.90409], [7.57789, 49.905053], [7.579555, 49.906707], [7.58033, 49.907475], [7.580822, 49.908171], [7.581192, 49.908396], [7.581682, 49.908342], [7.582168, 49.908431], [7.585527, 49.908445], [7.592203, 49.904384], [7.591966, 49.902109], [7.600719, 49.895967], [7.600855, 49.894421], [7.601938, 49.894035], [7.602779, 49.893732], [7.606296, 49.887933], [7.606466, 49.887658], [7.608289, 49.88702], [7.607778, 49.881461], [7.609543, 49.878328], [7.616495, 49.873516]]], [[[7.682768, 49.800926], [7.683075, 49.796918], [7.684205, 49.795452], [7.680567, 49.789005], [7.677366, 49.787872], [7.675066, 49.786095], [7.674921, 49.784093], [7.674541, 49.782058], [7.673199, 49.780751], [7.672396, 49.778601], [7.665391, 49.779966], [7.664579, 49.775578], [7.664379, 49.773803], [7.664676, 49.771942], [7.664156, 49.76972], [7.663699, 49.767769], [7.660503, 49.766348], [7.658899, 49.761788], [7.649468, 49.75913], [7.647882, 49.758], [7.643182, 49.755946], [7.63963, 49.759761], [7.638087, 49.761418], [7.636298, 49.764119], [7.638926, 49.771739], [7.640698, 49.772783], [7.63915, 49.774863], [7.637615, 49.776901], [7.636124, 49.776719], [7.631919, 49.777973], [7.632119, 49.778572], [7.634599, 49.778256], [7.63578, 49.778727], [7.634415, 49.779407], [7.633533, 49.780004], [7.632789, 49.780747], [7.631853, 49.781833], [7.631214, 49.78252], [7.630283, 49.783198], [7.626758, 49.784134], [7.623921, 49.784937], [7.621005, 49.785817], [7.620082, 49.786785], [7.619867, 49.791956], [7.622163, 49.791015], [7.626931, 49.792423], [7.630899, 49.796278], [7.631761, 49.798137], [7.630639, 49.801277], [7.62997, 49.803142], [7.629983, 49.804781], [7.630454, 49.805036], [7.631802, 49.805755], [7.630368, 49.806691], [7.631072, 49.807483], [7.635957, 49.809074], [7.638173, 49.808544], [7.638649, 49.809412], [7.637346, 49.809602], [7.633972, 49.81074], [7.632773, 49.811034], [7.630812, 49.811096], [7.629168, 49.811096], [7.629208, 49.812128], [7.629289, 49.814199], [7.625662, 49.81689], [7.625709, 49.81726], [7.626582, 49.818237], [7.627817, 49.819213], [7.629213, 49.820068], [7.630213, 49.820786], [7.631088, 49.821736], [7.63181, 49.822691], [7.632525, 49.823753], [7.633342, 49.825682], [7.634391, 49.828131], [7.635594, 49.827801], [7.637149, 49.827624], [7.646675, 49.827765], [7.647571, 49.82767], [7.648511, 49.827316], [7.649819, 49.826394], [7.65203, 49.827593], [7.655535, 49.824827], [7.656861, 49.824311], [7.661416, 49.823308], [7.662244, 49.82178], [7.663277, 49.821734], [7.665067, 49.821824], [7.667879, 49.821804], [7.667489, 49.819948], [7.667298, 49.818944], [7.666815, 49.818176], [7.666423, 49.817518], [7.666018, 49.816842], [7.666052, 49.816275], [7.666442, 49.815396], [7.666972, 49.814204], [7.665479, 49.812505], [7.664552, 49.809926], [7.664208, 49.807982], [7.666197, 49.806132], [7.669841, 49.807312], [7.669284, 49.808019], [7.672737, 49.809851], [7.674582, 49.808295], [7.675069, 49.809702], [7.677855, 49.808475], [7.676831, 49.805569], [7.679087, 49.803419], [7.681303, 49.800755], [7.682768, 49.800926]]]], "type": "MultiPolygon"}}
+{
+  "id": 101813441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07133501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Sobernheim, Stadt",
+    "eurostat:nuts_2021_id":"07133501",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB1",
+    "eurostat:nuts_2021_level_3":"DEB14",
+    "eurostat:nuts_2021_level_lau":"07133501",
+    "eurostat:population":6560,
+    "eurostat:population_year":2020,
+    "geom:area":0.006783,
+    "geom:area_square_m":54093327.727975,
+    "geom:bbox":"7.536367,49.755946,7.684205,49.908445",
+    "geom:latitude":49.83978,
+    "geom:longitude":7.608897,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":6481,
+    "iso:country":"DE",
+    "lbl:latitude":49.787151,
+    "lbl:longitude":7.648428,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":49.787151,
+    "mps:longitude":7.648428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0632\u0648\u0628\u0631\u0646\u0647\u0627\u064a\u0645"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0632\u0648\u0628\u0631\u0646\u0647\u0627\u06cc\u0645"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0434 \u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:est_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0632\u0648\u0628\u0631\u0646\u0647\u0627\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:fry_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30be\u30fc\u30d9\u30eb\u30f3\u30cf\u30a4\u30e0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:min_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:por_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0458\u043c"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0431\u0435\u0440\u043d\u0433\u0430\u0439\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:war_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u7d22\u4f2f\u6069\u6d77\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u7d22\u8d1d\u5c14\u6069\u6d77\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Sobernheim"
+    ],
+    "nav:latitude":49.787151,
+    "nav:longitude":7.648428,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Bad Kreuznach",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Sobernheim",
+    "qs:la_lc":"*DE07013307501",
+    "qs:level":"locality",
+    "qs:loc":"Bad Sobernheim",
+    "qs:loc_alt":"Bad Sobernheim",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557860,
+    "qs_pg:gn_pop":6481,
+    "qs_pg:name":"Bad Sobernheim, Stadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":637883,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":10292,
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377685419,
+        85633111,
+        102063551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07133501",
+        "eurostat:nuts_2021_id":"07133501",
+        "fct:id":"076376cc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2831736,
+        "gp:id":20162796,
+        "qs_pg:id":1181577,
+        "wd:id":"Q520075",
+        "wk:page":"Bad Sobernheim"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"a751bdc0a6366f25cdf8e39b67b6ec70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063551,
+            "localadmin_id":1377685419,
+            "locality_id":101813441,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101813441,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873322,
+    "wof:name":"Bad Sobernheim",
+    "wof:parent_id":1377685419,
+    "wof:placetype":"locality",
+    "wof:population":6560,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125404537
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.536367,
+    49.755946,
+    7.684205,
+    49.908445
+],
+  "geometry": {"coordinates":[[[[7.616495,49.873516],[7.615178,49.872267],[7.611277,49.871358],[7.609708,49.869211],[7.608319,49.86868],[7.606443,49.866085],[7.605827,49.864304],[7.606583,49.863199],[7.607311,49.862127],[7.618156,49.861056],[7.621429,49.860567],[7.621436,49.858018],[7.62135,49.854562],[7.62479,49.854314],[7.624749,49.85316],[7.624828,49.852307],[7.623642,49.852358],[7.623847,49.851031],[7.625012,49.851105],[7.625692,49.849763],[7.627305,49.849579],[7.621978,49.84442],[7.623462,49.843134],[7.623539,49.842377],[7.623281,49.841715],[7.624071,49.841032],[7.623473,49.840127],[7.623972,49.839468],[7.624309,49.838696],[7.624008,49.837799],[7.626534,49.835847],[7.624055,49.834019],[7.627656,49.831787],[7.622272,49.828761],[7.617307,49.828239],[7.615143,49.832236],[7.613732,49.831867],[7.611815,49.834058],[7.611202,49.834758],[7.609695,49.835537],[7.608314,49.837176],[7.602685,49.836574],[7.598774,49.83931],[7.593375,49.839721],[7.590777,49.838143],[7.589724,49.837503],[7.586731,49.836664],[7.583683,49.836013],[7.579765,49.835176],[7.577438,49.834268],[7.575899,49.834114],[7.575287,49.834557],[7.574488,49.835113],[7.575036,49.835876],[7.575206,49.836113],[7.570364,49.836899],[7.569421,49.837368],[7.569425,49.83753],[7.569614,49.838742],[7.569619,49.840246],[7.569398,49.840897],[7.568146,49.840208],[7.565493,49.838752],[7.56485,49.84105],[7.564484,49.845614],[7.566723,49.848373],[7.567366,49.849687],[7.566521,49.85097],[7.565781,49.852122],[7.565602,49.8539],[7.562722,49.855212],[7.5622,49.855091],[7.558399,49.854173],[7.555639,49.854219],[7.552335,49.855221],[7.551124,49.856055],[7.547647,49.858225],[7.546256,49.858414],[7.545722,49.857149],[7.542801,49.861107],[7.537227,49.860043],[7.536665,49.861901],[7.536367,49.862884],[7.536813,49.864669],[7.537384,49.866683],[7.53742,49.867891],[7.537677,49.870914],[7.539443,49.872752],[7.540982,49.876897],[7.546726,49.880648],[7.546735,49.882981],[7.545614,49.883744],[7.544653,49.884403],[7.542583,49.892138],[7.543438,49.894294],[7.543456,49.895132],[7.543796,49.895708],[7.545063,49.896182],[7.546144,49.895616],[7.547499,49.895345],[7.547598,49.895321],[7.548994,49.895276],[7.550759,49.895367],[7.551998,49.895615],[7.553253,49.895837],[7.554607,49.896016],[7.556272,49.89614],[7.557419,49.896088],[7.558799,49.896088],[7.559817,49.896304],[7.560947,49.896738],[7.561791,49.897057],[7.56293,49.897122],[7.564528,49.8972],[7.566008,49.897391],[7.567319,49.897605],[7.568123,49.897896],[7.568669,49.89809],[7.569725,49.898594],[7.570624,49.898932],[7.57136,49.899203],[7.572569,49.899721],[7.572663,49.899777],[7.573965,49.900594],[7.575109,49.901704],[7.576073,49.9028],[7.576425,49.903205],[7.577193,49.90409],[7.57789,49.905053],[7.579555,49.906707],[7.58033,49.907475],[7.580822,49.908171],[7.581192,49.908396],[7.581682,49.908342],[7.582168,49.908431],[7.585527,49.908445],[7.592203,49.904384],[7.591966,49.902109],[7.600719,49.895967],[7.600855,49.894421],[7.601938,49.894035],[7.602779,49.893732],[7.606296,49.887933],[7.606466,49.887658],[7.608289,49.88702],[7.607778,49.881461],[7.609543,49.878328],[7.616495,49.873516]]],[[[7.682768,49.800926],[7.683075,49.796918],[7.684205,49.795452],[7.680567,49.789005],[7.677366,49.787872],[7.675066,49.786095],[7.674921,49.784093],[7.674541,49.782058],[7.673199,49.780751],[7.672396,49.778601],[7.665391,49.779966],[7.664579,49.775578],[7.664379,49.773803],[7.664676,49.771942],[7.664156,49.76972],[7.663699,49.767769],[7.660503,49.766348],[7.658899,49.761788],[7.649468,49.75913],[7.647882,49.758],[7.643182,49.755946],[7.63963,49.759761],[7.638087,49.761418],[7.636298,49.764119],[7.638926,49.771739],[7.640698,49.772783],[7.63915,49.774863],[7.637615,49.776901],[7.636124,49.776719],[7.631919,49.777973],[7.632119,49.778572],[7.634599,49.778256],[7.63578,49.778727],[7.634415,49.779407],[7.633533,49.780004],[7.632789,49.780747],[7.631853,49.781833],[7.631214,49.78252],[7.630283,49.783198],[7.626758,49.784134],[7.623921,49.784937],[7.621005,49.785817],[7.620082,49.786785],[7.619867,49.791956],[7.622163,49.791015],[7.626931,49.792423],[7.630899,49.796278],[7.631761,49.798137],[7.630639,49.801277],[7.62997,49.803142],[7.629983,49.804781],[7.630454,49.805036],[7.631802,49.805755],[7.630368,49.806691],[7.631072,49.807483],[7.635957,49.809074],[7.638173,49.808544],[7.638649,49.809412],[7.637346,49.809602],[7.633972,49.81074],[7.632773,49.811034],[7.630812,49.811096],[7.629168,49.811096],[7.629208,49.812128],[7.629289,49.814199],[7.625662,49.81689],[7.625709,49.81726],[7.626582,49.818237],[7.627817,49.819213],[7.629213,49.820068],[7.630213,49.820786],[7.631088,49.821736],[7.63181,49.822691],[7.632525,49.823753],[7.633342,49.825682],[7.634391,49.828131],[7.635594,49.827801],[7.637149,49.827624],[7.646675,49.827765],[7.647571,49.82767],[7.648511,49.827316],[7.649819,49.826394],[7.65203,49.827593],[7.655535,49.824827],[7.656861,49.824311],[7.661416,49.823308],[7.662244,49.82178],[7.663277,49.821734],[7.665067,49.821824],[7.667879,49.821804],[7.667489,49.819948],[7.667298,49.818944],[7.666815,49.818176],[7.666423,49.817518],[7.666018,49.816842],[7.666052,49.816275],[7.666442,49.815396],[7.666972,49.814204],[7.665479,49.812505],[7.664552,49.809926],[7.664208,49.807982],[7.666197,49.806132],[7.669841,49.807312],[7.669284,49.808019],[7.672737,49.809851],[7.674582,49.808295],[7.675069,49.809702],[7.677855,49.808475],[7.676831,49.805569],[7.679087,49.803419],[7.681303,49.800755],[7.682768,49.800926]]]],"type":"MultiPolygon"}
+}

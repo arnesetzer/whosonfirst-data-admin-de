@@ -1,1 +1,90 @@
-{"id": 1377796263, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "12.57916,49.07753,12.57916,49.07753", "geom:latitude": 49.07753, "geom:longitude": 12.57916, "gn:admin1_code": "2.0", "gn:admin2_code": "092", "gn:admin3_code": "9278.0", "gn:admin4_code": "9278197.0", "gn:asciiname": "Zinzenzell", "gn:country_code": "DE", "gn:dem": 651, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2804089, "gn:latitude": 49.07753, "gn:longitude": 12.57916, "gn:modification_date": "2013-02-19", "gn:name": "Zinzenzell", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "12.57416,49.07253,12.58416,49.08253", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:bar_x_preferred": ["Zinznzej"], "name:deu_x_preferred": ["Zinzenzell"], "name:fas_x_preferred": ["\u0633\u06cc\u0646\u0632\u0646\u0633\u0644"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377685411, 404227559, 101781875, 102063387, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2804089}, "wof:country": "DE", "wof:geomhash": "c0599cbf59e7171f92e46b3a8aa4218f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063387, "localadmin_id": 1377685411, "locality_id": 101781875, "macrocounty_id": 404227559, "neighbourhood_id": 1377796263, "region_id": 85682571}], "wof:id": 1377796263, "wof:lastmodified": 1566718270, "wof:name": "Zinzenzell", "wof:parent_id": 101781875, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1226354441], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.57916, 49.07753, 12.57916, 49.07753], "geometry": {"coordinates": [12.57916, 49.07753], "type": "Point"}}
+{
+  "id": 1377796263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.57916,49.07753,12.57916,49.07753",
+    "geom:latitude":49.07753,
+    "geom:longitude":12.57916,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"092",
+    "gn:admin3_code":"9278.0",
+    "gn:admin4_code":"9278197.0",
+    "gn:asciiname":"Zinzenzell",
+    "gn:country_code":"DE",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2804089,
+    "gn:latitude":49.07753,
+    "gn:longitude":12.57916,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Zinzenzell",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"12.57416,49.07253,12.58416,49.08253",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:bar_x_preferred":[
+        "Zinznzej"
+    ],
+    "name:deu_x_preferred":[
+        "Zinzenzell"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0632\u0646\u0633\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377685411,
+        404227559,
+        101781875,
+        102063387,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2804089
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"c0599cbf59e7171f92e46b3a8aa4218f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063387,
+            "localadmin_id":1377685411,
+            "locality_id":101781875,
+            "macrocounty_id":404227559,
+            "neighbourhood_id":1377796263,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1377796263,
+    "wof:lastmodified":1566718270,
+    "wof:name":"Zinzenzell",
+    "wof:parent_id":101781875,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226354441
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57916,
+    49.07753,
+    12.57916,
+    49.07753
+],
+  "geometry": {"coordinates":[12.57916,49.07753],"type":"Point"}
+}

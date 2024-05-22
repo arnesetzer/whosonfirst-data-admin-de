@@ -1,1 +1,126 @@
-{"id": 1377781555, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "12.49945,48.69696,12.49945,48.69696", "geom:latitude": 48.69696, "geom:longitude": 12.49945, "gn:admin1_code": "2", "gn:admin2_code": "92.0", "gn:admin3_code": "9279.0", "gn:admin4_code": "9279128.0", "gn:asciiname": "Schondorf", "gn:country_code": "DE", "gn:dem": 415, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2836824, "gn:latitude": 48.69696, "gn:longitude": 12.49945, "gn:modification_date": "2013-02-19", "gn:name": "Sch\u00f6ndorf", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "12.49445,48.69196,12.50445,48.70196", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ara_x_preferred": ["\u0634\u0648\u0646\u062f\u0648\u0631\u0641"], "name:eus_x_preferred": ["Schondorf"], "name:fas_x_preferred": ["\u0634\u0648\u0646\u062f\u0648\u0631\u0641"], "name:hye_x_preferred": ["\u0531\u0574\u0565\u0580\u0566\u0565\u056b \u0547\u0578\u0576\u0564\u0578\u0580\u0586"], "name:jpn_x_preferred": ["\u30b7\u30e7\u30fc\u30f3\u30c9\u30eb\u30d5\u30fb\u30a2\u30e0\u30fb\u30a2\u30f3\u30de\u30fc\u30bc\u30fc"], "name:kaz_x_preferred": ["\u0428\u043e\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u0410\u043c\u043c\u0435\u0440\u0437\u0435\u0435"], "name:kir_x_preferred": ["\u0428\u043e\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u0410\u043c\u043c\u0435\u0440\u0437\u0435\u0435"], "name:msa_x_preferred": ["Schondorf"], "name:por_x_preferred": ["Schondorf"], "name:rus_x_preferred": ["\u0428\u043e\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u0410\u043c\u043c\u0435\u0440\u0437\u0435"], "name:spa_x_preferred": ["Schondorf"], "name:ukr_x_preferred": ["\u0428\u043e\u043d\u0434\u043e\u0440\u0444"], "name:vie_x_preferred": ["Schondorf"], "name:war_x_preferred": ["Schondorf"], "name:zho_x_preferred": ["\u963f\u9ed8\u6e56\u7554\u96c4\u591a\u592b"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377685563, 404227559, 101783019, 102063343, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2836824}, "wof:country": "DE", "wof:geomhash": "0d1a243ec9a7f1fca504094d747ab850", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063343, "localadmin_id": 1377685563, "locality_id": 101783019, "macrocounty_id": 404227559, "neighbourhood_id": 1377781555, "region_id": 85682571}], "wof:id": 1377781555, "wof:lastmodified": 1566717745, "wof:name": "Schondorf", "wof:parent_id": 101783019, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1226245255], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.49945, 48.69696, 12.49945, 48.69696], "geometry": {"coordinates": [12.49945, 48.69696], "type": "Point"}}
+{
+  "id": 1377781555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.49945,48.69696,12.49945,48.69696",
+    "geom:latitude":48.69696,
+    "geom:longitude":12.49945,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"92.0",
+    "gn:admin3_code":"9279.0",
+    "gn:admin4_code":"9279128.0",
+    "gn:asciiname":"Schondorf",
+    "gn:country_code":"DE",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2836824,
+    "gn:latitude":48.69696,
+    "gn:longitude":12.49945,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Sch\u00f6ndorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"12.49445,48.69196,12.50445,48.70196",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0646\u062f\u0648\u0631\u0641"
+    ],
+    "name:eus_x_preferred":[
+        "Schondorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0646\u062f\u0648\u0631\u0641"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0565\u0580\u0566\u0565\u056b \u0547\u0578\u0576\u0564\u0578\u0580\u0586"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e7\u30fc\u30f3\u30c9\u30eb\u30d5\u30fb\u30a2\u30e0\u30fb\u30a2\u30f3\u30de\u30fc\u30bc\u30fc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u043e\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u0410\u043c\u043c\u0435\u0440\u0437\u0435\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u043e\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u0410\u043c\u043c\u0435\u0440\u0437\u0435\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Schondorf"
+    ],
+    "name:por_x_preferred":[
+        "Schondorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u0410\u043c\u043c\u0435\u0440\u0437\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Schondorf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043e\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:vie_x_preferred":[
+        "Schondorf"
+    ],
+    "name:war_x_preferred":[
+        "Schondorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9ed8\u6e56\u7554\u96c4\u591a\u592b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377685563,
+        404227559,
+        101783019,
+        102063343,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2836824
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"0d1a243ec9a7f1fca504094d747ab850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063343,
+            "localadmin_id":1377685563,
+            "locality_id":101783019,
+            "macrocounty_id":404227559,
+            "neighbourhood_id":1377781555,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1377781555,
+    "wof:lastmodified":1566717745,
+    "wof:name":"Schondorf",
+    "wof:parent_id":101783019,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226245255
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.49945,
+    48.69696,
+    12.49945,
+    48.69696
+],
+  "geometry": {"coordinates":[12.49945,48.69696],"type":"Point"}
+}

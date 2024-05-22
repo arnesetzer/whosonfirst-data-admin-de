@@ -1,1 +1,152 @@
-{"id": 101909579, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.2e-05, "geom:area_square_m": 398529.360097, "geom:bbox": "12.285008,51.566897,12.295281,51.574055", "geom:latitude": 51.570581, "geom:longitude": 12.290465, "gn:population": 623, "iso:country": "DE", "lbl:latitude": 51.570469, "lbl:longitude": 12.290465, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.570469, "mps:longitude": 12.290465, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"], "name:ceb_x_preferred": ["Petersroda"], "name:che_x_preferred": ["\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"], "name:deu_x_preferred": ["Petersroda"], "name:eng_x_preferred": ["Petersroda"], "name:epo_x_preferred": ["Petersroda"], "name:fas_x_preferred": ["\u067e\u062a\u0631\u0633\u0631\u0648\u062f\u0627"], "name:fra_x_preferred": ["Petersroda"], "name:gle_x_preferred": ["Petersroda"], "name:ita_x_preferred": ["Petersroda"], "name:jpn_x_preferred": ["\u30da\u30fc\u30bf\u30fc\u30b9\u30ed\u30fc\u30c0"], "name:kaz_x_preferred": ["\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"], "name:kir_x_preferred": ["\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"], "name:mkd_x_preferred": ["\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"], "name:nld_x_preferred": ["Petersroda"], "name:ron_x_preferred": ["Petersroda"], "name:rus_x_preferred": ["\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"], "name:tat_x_preferred": ["\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"], "name:uzb_x_preferred": ["Petersroda"], "name:vol_x_preferred": ["Petersroda"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Anhalt-Bitterfeld", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Petersroda", "qs:la_lc": "*DE15008201260", "qs:level": "locality", "qs:loc": "Petersroda", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 30, "wof:belongsto": [85682519, 102191581, 1377688269, 85633111, 102063873], "wof:breaches": [], "wof:concordances": {"gn:id": 2854622, "gp:id": 684675, "qs_pg:id": 933786, "wd:id": "Q701838", "wk:page": "Petersroda"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "267bd257e60f6b4ec0669832588464d4", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063873, "localadmin_id": 1377688269, "locality_id": 101909579, "region_id": 85682519}], "wof:id": 101909579, "wof:lastmodified": 1690871452, "wof:name": "Petersroda", "wof:parent_id": 1377688269, "wof:placetype": "locality", "wof:population": 623, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.285008, 51.566897, 12.295281, 51.574055], "geometry": {"coordinates": [[[12.293884, 51.573999], [12.293839, 51.5731], [12.295281, 51.573072], [12.295054, 51.568581], [12.293613, 51.568609], [12.293567, 51.567711], [12.289243, 51.567795], [12.289197, 51.566897], [12.287756, 51.566925], [12.287801, 51.567823], [12.286359, 51.567852], [12.286449, 51.569648], [12.285008, 51.569676], [12.285143, 51.572371], [12.288027, 51.572315], [12.288072, 51.573213], [12.290955, 51.573157], [12.291001, 51.574055], [12.293884, 51.573999]]], "type": "Polygon"}}
+{
+  "id": 101909579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":398529.360097,
+    "geom:bbox":"12.285008,51.566897,12.295281,51.574055",
+    "geom:latitude":51.570581,
+    "geom:longitude":12.290465,
+    "gn:population":623,
+    "iso:country":"DE",
+    "lbl:latitude":51.570469,
+    "lbl:longitude":12.290465,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.570469,
+    "mps:longitude":12.290465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Petersroda"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Petersroda"
+    ],
+    "name:eng_x_preferred":[
+        "Petersroda"
+    ],
+    "name:epo_x_preferred":[
+        "Petersroda"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0631\u0633\u0631\u0648\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Petersroda"
+    ],
+    "name:gle_x_preferred":[
+        "Petersroda"
+    ],
+    "name:ita_x_preferred":[
+        "Petersroda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30fc\u30bf\u30fc\u30b9\u30ed\u30fc\u30c0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Petersroda"
+    ],
+    "name:ron_x_preferred":[
+        "Petersroda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u0440\u0441\u0440\u043e\u0434\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Petersroda"
+    ],
+    "name:vol_x_preferred":[
+        "Petersroda"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Anhalt-Bitterfeld",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Petersroda",
+    "qs:la_lc":"*DE15008201260",
+    "qs:level":"locality",
+    "qs:loc":"Petersroda",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688269,
+        85633111,
+        102063873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2854622,
+        "gp:id":684675,
+        "qs_pg:id":933786,
+        "wd:id":"Q701838",
+        "wk:page":"Petersroda"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"267bd257e60f6b4ec0669832588464d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063873,
+            "localadmin_id":1377688269,
+            "locality_id":101909579,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909579,
+    "wof:lastmodified":1690871452,
+    "wof:name":"Petersroda",
+    "wof:parent_id":1377688269,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.285008,
+    51.566897,
+    12.295281,
+    51.574055
+],
+  "geometry": {"coordinates":[[[12.293884,51.573999],[12.293839,51.5731],[12.295281,51.573072],[12.295054,51.568581],[12.293613,51.568609],[12.293567,51.567711],[12.289243,51.567795],[12.289197,51.566897],[12.287756,51.566925],[12.287801,51.567823],[12.286359,51.567852],[12.286449,51.569648],[12.285008,51.569676],[12.285143,51.572371],[12.288027,51.572315],[12.288072,51.573213],[12.290955,51.573157],[12.291001,51.574055],[12.293884,51.573999]]],"type":"Polygon"}
+}

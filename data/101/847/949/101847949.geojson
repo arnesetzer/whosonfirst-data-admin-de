@@ -1,1 +1,435 @@
-{"id": 101847949, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_12067024", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Saarow", "eurostat:nuts_2021_id": "12067024", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE4", "eurostat:nuts_2021_level_2": "DE40", "eurostat:nuts_2021_level_3": "DE40C", "eurostat:nuts_2021_level_lau": "12067024", "eurostat:population": 6003, "eurostat:population_year": 2020, "geom:area": 0.006609, "geom:area_square_m": 50003537.091298, "geom:bbox": "14.00746,52.204063,14.117308,52.330135", "geom:latitude": 52.275206, "geom:longitude": 14.057702, "gn:admin1_code": "11.0", "gn:admin2_code": "0.0", "gn:admin3_code": "12067.0", "gn:admin4_code": "12067024.0", "gn:asciiname": "Bad Saarow", "gn:country": null, "gn:country_code": "DE", "gn:dem": 52, "gn:fcode": "ADM4", "gn:feature_class": "P", "gn:feature_code": "PPLA4", "gn:geonameid": 2953366, "gn:latitude": 52.28333, "gn:longitude": 14.06667, "gn:modification_date": "2011-07-31", "gn:name": "Bad Saarow", "gn:population": 4791, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:latitude": 52.285538, "lbl:longitude": 14.060033, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 52.285538, "mps:longitude": 14.060033, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Saarow"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0633\u0627\u0631\u0648"], "name:arg_x_preferred": ["Bad Saarow"], "name:ast_x_preferred": ["Bad Saarow"], "name:bar_x_preferred": ["Bad Saarow"], "name:bre_x_preferred": ["Bad Saarow"], "name:cat_x_preferred": ["Bad Saarow"], "name:ceb_x_preferred": ["Bad Saarow"], "name:ces_x_preferred": ["Bad Saarow"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0417\u0430\u0440\u043e\u0432"], "name:cos_x_preferred": ["Bad Saarow"], "name:cym_x_preferred": ["Bad Saarow"], "name:dan_x_preferred": ["Bad Saarow"], "name:deu_x_preferred": ["Bad Saarow"], "name:dsb_x_preferred": ["Zarow"], "name:eng_x_preferred": ["Bad Saarow"], "name:epo_x_preferred": ["Bad Saarow"], "name:est_x_preferred": ["Bad Saarow"], "name:eus_x_preferred": ["Bad Saarow"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0632\u0627\u0627\u0631\u0648\u0648"], "name:fin_x_preferred": ["Bad Saarow"], "name:fra_x_preferred": ["Bad Saarow"], "name:frp_x_preferred": ["Bad Saarow"], "name:fur_x_preferred": ["Bad Saarow"], "name:gla_x_preferred": ["Bad Saarow"], "name:gle_x_preferred": ["Bad Saarow"], "name:glg_x_preferred": ["Bad Saarow"], "name:gsw_x_preferred": ["Bad Saarow"], "name:hbs_x_preferred": ["Bad Saarow"], "name:heb_x_preferred": ["\u05d1\u05d3 \u05e1\u05d0\u05e8\u05d5\u05d1"], "name:hrv_x_preferred": ["Bad Saarow"], "name:hsb_x_preferred": ["Zarow"], "name:hun_x_preferred": ["Bad Saarow"], "name:hye_x_preferred": ["\u0532\u0561\u0564 \u0536\u0561\u0580\u0578\u057e"], "name:ido_x_preferred": ["Bad Saarow"], "name:ile_x_preferred": ["Bad Saarow"], "name:ina_x_preferred": ["Bad Saarow"], "name:ind_x_preferred": ["Bad Saarow"], "name:isl_x_preferred": ["Bad Saarow"], "name:ita_x_preferred": ["Bad Saarow"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30b6\u30fc\u30ed\u30a6"], "name:kon_x_preferred": ["Bad Saarow"], "name:kor_x_preferred": ["\ubc14\ud2b8\uc790\ub85c"], "name:kur_x_preferred": ["Bad Saarow"], "name:lij_x_preferred": ["Bad Saarow"], "name:lim_x_preferred": ["Bad Saarow"], "name:lld_x_preferred": ["Bad Saarow"], "name:ltz_x_preferred": ["Bad Saarow"], "name:min_x_preferred": ["Bad Saarow"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0417\u0430\u0440\u043e\u0432"], "name:mlg_x_preferred": ["Bad Saarow"], "name:msa_x_preferred": ["Bad Saarow"], "name:nap_x_preferred": ["Bad Saarow"], "name:nds_x_preferred": ["Bad Saarow"], "name:nld_x_preferred": ["Bad Saarow"], "name:nno_x_preferred": ["Bad Saarow"], "name:nob_x_preferred": ["Bad Saarow"], "name:nrm_x_preferred": ["Bad Saarow"], "name:oci_x_preferred": ["Bad Saarow"], "name:pcd_x_preferred": ["Bad Saarow"], "name:pms_x_preferred": ["Bad Saarow"], "name:pol_x_preferred": ["Bad Saarow"], "name:por_x_preferred": ["Bad Saarow"], "name:roh_x_preferred": ["Bad Saarow"], "name:ron_x_preferred": ["Bad Saarow"], "name:rup_x_preferred": ["Bad Saarow"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0417\u0430\u0440\u043e\u0432"], "name:scn_x_preferred": ["Bad Saarow"], "name:sco_x_preferred": ["Bad Saarow"], "name:slk_x_preferred": ["Bad Saarow"], "name:slv_x_preferred": ["Bad Saarow"], "name:spa_x_preferred": ["Bad Saarow"], "name:srd_x_preferred": ["Bad Saarow"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0417\u0430\u0440\u043e\u0432"], "name:swa_x_preferred": ["Bad Saarow"], "name:swe_x_preferred": ["Bad Saarow"], "name:szl_x_preferred": ["Bad Saarow"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0417\u0430\u0440\u043e\u0432"], "name:tur_x_preferred": ["Bad Saarow"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0417\u0430\u0440\u043e\u0432"], "name:ukr_x_variant": ["\u0411\u0430\u0434-\u0417\u0430\u0430\u0440\u043e\u0432"], "name:uzb_x_preferred": ["Bad Saarow"], "name:vec_x_preferred": ["Bad Saarow"], "name:vie_x_preferred": ["Bad Saarow"], "name:vls_x_preferred": ["Bad Saarow"], "name:vol_x_preferred": ["Bad Saarow"], "name:war_x_preferred": ["Bad Saarow"], "name:wln_x_preferred": ["Bad Saarow"], "name:wol_x_preferred": ["Bad Saarow"], "name:zho_x_preferred": ["\u5df4\u7279\u8428\u7f57"], "name:zho_x_variant": ["\u5df4\u5fb7\u8428\u7f57\u592b"], "name:zul_x_preferred": ["Bad Saarow"], "nav:latitude": 52.285538, "nav:longitude": 14.060033, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Brandenburg", "qs:a1r": "0", "qs:a2": "Oder-Spree", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Saarow", "qs:la_lc": "*DE12006707024", "qs:level": "locality", "qs:loc": "Bad Saarow", "qs:loc_alt": "Bad Saarow", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-near-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6551085, "qs_pg:gn_pop": 4791, "qs_pg:name": "Gemeinde Bad Saarow", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Bundesland Brandenburg", "qs_pg:photos": 119, "qs_pg:photos_1k": 24, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 5, "qs_pg:photos_all": 317, "qs_pg:photos_sr": 3, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1263356, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 24547273, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 109, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Bundesland Brandenburg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682553, 102191581, 1377683635, 85633111, 102063935], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_12067024", "eurostat:nuts_2021_id": "12067024", "gn:id": 2841395, "gp:id": 690640, "qs_pg:id": 384888, "wd:id": "Q49421", "wk:page": "Bad Saarow"}, "wof:concordances_alt": {"qs_pg:id": 794577}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "f8193cc89834884fb0ce20f4f45bfdf7", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063935, "localadmin_id": 1377683635, "locality_id": 101847949, "region_id": 85682553}], "wof:id": 101847949, "wof:lastmodified": 1690873273, "wof:name": "Bad Saarow", "wof:parent_id": 1377683635, "wof:placetype": "locality", "wof:population": 6003, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125325527, 1125421631, 1209593365], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [14.00746, 52.204063, 14.117308, 52.330135], "geometry": {"coordinates": [[[[14.10927, 52.306407], [14.109485, 52.301362], [14.109244, 52.299321], [14.109163, 52.297822], [14.109189, 52.296201], [14.103626, 52.295727], [14.105639, 52.293352], [14.100184, 52.28605], [14.111743, 52.282138], [14.112064, 52.2815], [14.117308, 52.280236], [14.115294, 52.27799], [14.115212, 52.27542], [14.114608, 52.273726], [14.113161, 52.271661], [14.110851, 52.269729], [14.109419, 52.269038], [14.105422, 52.267889], [14.102609, 52.265925], [14.097736, 52.259669], [14.095715, 52.258433], [14.087062, 52.258675], [14.08549, 52.257551], [14.081131, 52.258645], [14.075259, 52.258244], [14.071305, 52.257975], [14.071466, 52.257412], [14.071565, 52.256995], [14.071617, 52.256723], [14.071604, 52.256381], [14.071578, 52.25586], [14.071467, 52.255017], [14.071135, 52.254342], [14.070552, 52.253468], [14.070107, 52.252482], [14.069616, 52.251281], [14.069043, 52.250344], [14.068979, 52.250093], [14.068735, 52.249236], [14.068218, 52.248081], [14.067313, 52.246649], [14.066332, 52.245382], [14.066234, 52.24525], [14.064975, 52.244171], [14.063454, 52.243667], [14.062286, 52.243737], [14.061439, 52.24379], [14.059922, 52.243898], [14.059118, 52.243751], [14.058345, 52.243251], [14.057932, 52.24284], [14.057606, 52.242436], [14.057165, 52.241864], [14.056673, 52.241014], [14.056373, 52.240194], [14.056141, 52.239661], [14.055872, 52.239039], [14.055369, 52.238054], [14.055089, 52.237675], [14.054893, 52.237411], [14.053998, 52.236663], [14.052917, 52.236164], [14.052795, 52.236104], [14.051274, 52.23578], [14.050326, 52.234917], [14.049715, 52.234242], [14.049588, 52.234111], [14.049129, 52.233692], [14.048854, 52.233178], [14.048624, 52.23268], [14.048175, 52.231811], [14.047734, 52.23105], [14.047267, 52.230343], [14.04654, 52.229483], [14.045939, 52.228933], [14.045656, 52.228311], [14.045652, 52.22751], [14.045702, 52.227031], [14.045273, 52.226233], [14.044723, 52.225764], [14.043914, 52.224986], [14.043695, 52.224632], [14.043543, 52.224367], [14.043152, 52.223685], [14.042358, 52.222916], [14.041311, 52.222092], [14.040986, 52.221867], [14.040505, 52.22153], [14.039931, 52.221133], [14.038553, 52.220201], [14.037399, 52.219686], [14.03607, 52.219383], [14.034464, 52.219089], [14.033737, 52.218795], [14.03354, 52.218531], [14.033116, 52.217985], [14.032587, 52.217028], [14.032141, 52.216204], [14.031711, 52.215757], [14.031109, 52.215379], [14.030526, 52.215234], [14.029652, 52.215116], [14.029053, 52.214773], [14.028729, 52.214368], [14.028658, 52.213839], [14.028651, 52.213002], [14.028474, 52.212044], [14.028114, 52.211199], [14.027758, 52.210579], [14.027233, 52.210045], [14.02644, 52.209688], [14.025653, 52.209545], [14.024768, 52.209642], [14.024041, 52.209759], [14.023379, 52.209731], [14.022404, 52.209664], [14.021314, 52.209601], [14.02049, 52.209482], [14.019686, 52.209125], [14.019393, 52.208904], [14.018739, 52.208414], [14.017834, 52.20753], [14.017668, 52.207111], [14.01776, 52.206799], [14.018327, 52.206615], [14.01872, 52.206675], [14.018783, 52.206983], [14.018796, 52.20715], [14.019277, 52.20735], [14.019781, 52.207359], [14.020212, 52.207227], [14.020273, 52.206694], [14.019736, 52.206016], [14.018909, 52.205554], [14.018197, 52.205071], [14.017817, 52.204515], [14.017261, 52.204153], [14.016345, 52.204063], [14.016023, 52.204072], [14.015261, 52.204068], [14.014005, 52.204312], [14.012873, 52.204831], [14.012221, 52.205499], [14.011423, 52.205981], [14.010265, 52.206916], [14.009459, 52.207678], [14.008683, 52.208439], [14.00849, 52.208778], [14.008128, 52.20941], [14.007706, 52.210386], [14.00746, 52.210996], [14.007578, 52.211569], [14.008097, 52.212022], [14.009172, 52.21208], [14.010769, 52.212079], [14.012412, 52.212282], [14.013492, 52.212782], [14.014218, 52.213454], [14.014864, 52.214407], [14.015422, 52.215355], [14.015607, 52.216232], [14.015617, 52.216925], [14.015826, 52.21772], [14.016392, 52.218397], [14.016776, 52.218619], [14.017806, 52.219237], [14.019121, 52.219937], [14.019824, 52.220493], [14.020349, 52.221396], [14.020505, 52.222075], [14.020533, 52.222993], [14.020599, 52.223847], [14.020662, 52.224646], [14.020803, 52.225326], [14.021224, 52.226025], [14.021949, 52.226868], [14.022644, 52.227505], [14.02317, 52.228228], [14.023556, 52.228847], [14.02395, 52.229952], [14.024522, 52.230709], [14.025189, 52.231545], [14.025961, 52.232603], [14.026657, 52.233627], [14.027064, 52.234515], [14.027808, 52.235781], [14.028336, 52.23654], [14.029066, 52.237059], [14.030041, 52.237516], [14.024467, 52.239342], [14.019558, 52.240949], [14.02157, 52.242862], [14.017211, 52.245277], [14.019329, 52.247034], [14.017244, 52.249274], [14.015203, 52.247741], [14.00919, 52.251717], [14.014002, 52.25759], [14.015698, 52.25966], [14.017783, 52.261743], [14.020169, 52.26396], [14.022394, 52.265918], [14.023749, 52.26711], [14.02461, 52.267868], [14.020598, 52.268526], [14.017191, 52.269086], [14.016307, 52.270363], [14.015761, 52.278383], [14.014859, 52.281018], [14.014059, 52.283143], [14.01224, 52.285978], [14.013981, 52.287691], [14.015684, 52.289479], [14.019574, 52.296982], [14.025899, 52.30255], [14.028252, 52.305776], [14.037418, 52.304461], [14.037368, 52.306075], [14.040376, 52.308093], [14.04589, 52.305174], [14.046006, 52.304028], [14.048574, 52.303069], [14.052962, 52.306748], [14.054044, 52.307247], [14.052513, 52.308319], [14.054108, 52.310367], [14.054133, 52.311631], [14.051795, 52.313034], [14.052568, 52.315441], [14.054403, 52.317222], [14.055936, 52.316747], [14.05703, 52.318787], [14.059155, 52.321083], [14.059394, 52.322624], [14.059192, 52.323984], [14.06036, 52.325502], [14.061986, 52.326883], [14.061696, 52.328631], [14.063429, 52.329877], [14.066827, 52.33004], [14.068815, 52.330135], [14.071256, 52.329538], [14.075427, 52.327708], [14.07829, 52.327308], [14.080034, 52.327067], [14.081617, 52.325289], [14.082975, 52.323764], [14.083906, 52.322719], [14.08339, 52.320362], [14.082869, 52.319686], [14.081847, 52.31905], [14.078229, 52.317486], [14.077972, 52.315783], [14.089337, 52.313876], [14.094735, 52.31297], [14.097643, 52.312481], [14.099913, 52.3121], [14.103076, 52.310337], [14.105017, 52.308849], [14.107046, 52.306025], [14.10927, 52.306407]]]], "type": "MultiPolygon"}}
+{
+  "id": 101847949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_12067024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Saarow",
+    "eurostat:nuts_2021_id":"12067024",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE4",
+    "eurostat:nuts_2021_level_2":"DE40",
+    "eurostat:nuts_2021_level_3":"DE40C",
+    "eurostat:nuts_2021_level_lau":"12067024",
+    "eurostat:population":6003,
+    "eurostat:population_year":2020,
+    "geom:area":0.006609,
+    "geom:area_square_m":50003537.091298,
+    "geom:bbox":"14.00746,52.204063,14.117308,52.330135",
+    "geom:latitude":52.275206,
+    "geom:longitude":14.057702,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"12067.0",
+    "gn:admin4_code":"12067024.0",
+    "gn:asciiname":"Bad Saarow",
+    "gn:country":null,
+    "gn:country_code":"DE",
+    "gn:dem":52,
+    "gn:fcode":"ADM4",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2953366,
+    "gn:latitude":52.28333,
+    "gn:longitude":14.06667,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"Bad Saarow",
+    "gn:population":4791,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:latitude":52.285538,
+    "lbl:longitude":14.060033,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":52.285538,
+    "mps:longitude":14.060033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0633\u0627\u0631\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u0430\u0440\u043e\u0432"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:dsb_x_preferred":[
+        "Zarow"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:est_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0632\u0627\u0627\u0631\u0648\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d3 \u05e1\u05d0\u05e8\u05d5\u05d1"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:hsb_x_preferred":[
+        "Zarow"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0564 \u0536\u0561\u0580\u0578\u057e"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30b6\u30fc\u30ed\u30a6"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ud2b8\uc790\ub85c"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:min_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0417\u0430\u0440\u043e\u0432"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:por_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:rup_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u0430\u0440\u043e\u0432"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0417\u0430\u0440\u043e\u0432"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:szl_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u0430\u0440\u043e\u0432"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u0430\u0440\u043e\u0432"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u0434-\u0417\u0430\u0430\u0440\u043e\u0432"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:war_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Saarow"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u8428\u7f57"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u8428\u7f57\u592b"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Saarow"
+    ],
+    "nav:latitude":52.285538,
+    "nav:longitude":14.060033,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Brandenburg",
+    "qs:a1r":"0",
+    "qs:a2":"Oder-Spree",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Saarow",
+    "qs:la_lc":"*DE12006707024",
+    "qs:level":"locality",
+    "qs:loc":"Bad Saarow",
+    "qs:loc_alt":"Bad Saarow",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6551085,
+    "qs_pg:gn_pop":4791,
+    "qs_pg:name":"Gemeinde Bad Saarow",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Bundesland Brandenburg",
+    "qs_pg:photos":119,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":317,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1263356,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":24547273,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":109,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Bundesland Brandenburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682553,
+        102191581,
+        1377683635,
+        85633111,
+        102063935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_12067024",
+        "eurostat:nuts_2021_id":"12067024",
+        "gn:id":2841395,
+        "gp:id":690640,
+        "qs_pg:id":384888,
+        "wd:id":"Q49421",
+        "wk:page":"Bad Saarow"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":794577
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"f8193cc89834884fb0ce20f4f45bfdf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063935,
+            "localadmin_id":1377683635,
+            "locality_id":101847949,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":101847949,
+    "wof:lastmodified":1690873273,
+    "wof:name":"Bad Saarow",
+    "wof:parent_id":1377683635,
+    "wof:placetype":"locality",
+    "wof:population":6003,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125325527,
+        1125421631,
+        1209593365
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.00746,
+    52.204063,
+    14.117308,
+    52.330135
+],
+  "geometry": {"coordinates":[[[[14.10927,52.306407],[14.109485,52.301362],[14.109244,52.299321],[14.109163,52.297822],[14.109189,52.296201],[14.103626,52.295727],[14.105639,52.293352],[14.100184,52.28605],[14.111743,52.282138],[14.112064,52.2815],[14.117308,52.280236],[14.115294,52.27799],[14.115212,52.27542],[14.114608,52.273726],[14.113161,52.271661],[14.110851,52.269729],[14.109419,52.269038],[14.105422,52.267889],[14.102609,52.265925],[14.097736,52.259669],[14.095715,52.258433],[14.087062,52.258675],[14.08549,52.257551],[14.081131,52.258645],[14.075259,52.258244],[14.071305,52.257975],[14.071466,52.257412],[14.071565,52.256995],[14.071617,52.256723],[14.071604,52.256381],[14.071578,52.25586],[14.071467,52.255017],[14.071135,52.254342],[14.070552,52.253468],[14.070107,52.252482],[14.069616,52.251281],[14.069043,52.250344],[14.068979,52.250093],[14.068735,52.249236],[14.068218,52.248081],[14.067313,52.246649],[14.066332,52.245382],[14.066234,52.24525],[14.064975,52.244171],[14.063454,52.243667],[14.062286,52.243737],[14.061439,52.24379],[14.059922,52.243898],[14.059118,52.243751],[14.058345,52.243251],[14.057932,52.24284],[14.057606,52.242436],[14.057165,52.241864],[14.056673,52.241014],[14.056373,52.240194],[14.056141,52.239661],[14.055872,52.239039],[14.055369,52.238054],[14.055089,52.237675],[14.054893,52.237411],[14.053998,52.236663],[14.052917,52.236164],[14.052795,52.236104],[14.051274,52.23578],[14.050326,52.234917],[14.049715,52.234242],[14.049588,52.234111],[14.049129,52.233692],[14.048854,52.233178],[14.048624,52.23268],[14.048175,52.231811],[14.047734,52.23105],[14.047267,52.230343],[14.04654,52.229483],[14.045939,52.228933],[14.045656,52.228311],[14.045652,52.22751],[14.045702,52.227031],[14.045273,52.226233],[14.044723,52.225764],[14.043914,52.224986],[14.043695,52.224632],[14.043543,52.224367],[14.043152,52.223685],[14.042358,52.222916],[14.041311,52.222092],[14.040986,52.221867],[14.040505,52.22153],[14.039931,52.221133],[14.038553,52.220201],[14.037399,52.219686],[14.03607,52.219383],[14.034464,52.219089],[14.033737,52.218795],[14.03354,52.218531],[14.033116,52.217985],[14.032587,52.217028],[14.032141,52.216204],[14.031711,52.215757],[14.031109,52.215379],[14.030526,52.215234],[14.029652,52.215116],[14.029053,52.214773],[14.028729,52.214368],[14.028658,52.213839],[14.028651,52.213002],[14.028474,52.212044],[14.028114,52.211199],[14.027758,52.210579],[14.027233,52.210045],[14.02644,52.209688],[14.025653,52.209545],[14.024768,52.209642],[14.024041,52.209759],[14.023379,52.209731],[14.022404,52.209664],[14.021314,52.209601],[14.02049,52.209482],[14.019686,52.209125],[14.019393,52.208904],[14.018739,52.208414],[14.017834,52.20753],[14.017668,52.207111],[14.01776,52.206799],[14.018327,52.206615],[14.01872,52.206675],[14.018783,52.206983],[14.018796,52.20715],[14.019277,52.20735],[14.019781,52.207359],[14.020212,52.207227],[14.020273,52.206694],[14.019736,52.206016],[14.018909,52.205554],[14.018197,52.205071],[14.017817,52.204515],[14.017261,52.204153],[14.016345,52.204063],[14.016023,52.204072],[14.015261,52.204068],[14.014005,52.204312],[14.012873,52.204831],[14.012221,52.205499],[14.011423,52.205981],[14.010265,52.206916],[14.009459,52.207678],[14.008683,52.208439],[14.00849,52.208778],[14.008128,52.20941],[14.007706,52.210386],[14.00746,52.210996],[14.007578,52.211569],[14.008097,52.212022],[14.009172,52.21208],[14.010769,52.212079],[14.012412,52.212282],[14.013492,52.212782],[14.014218,52.213454],[14.014864,52.214407],[14.015422,52.215355],[14.015607,52.216232],[14.015617,52.216925],[14.015826,52.21772],[14.016392,52.218397],[14.016776,52.218619],[14.017806,52.219237],[14.019121,52.219937],[14.019824,52.220493],[14.020349,52.221396],[14.020505,52.222075],[14.020533,52.222993],[14.020599,52.223847],[14.020662,52.224646],[14.020803,52.225326],[14.021224,52.226025],[14.021949,52.226868],[14.022644,52.227505],[14.02317,52.228228],[14.023556,52.228847],[14.02395,52.229952],[14.024522,52.230709],[14.025189,52.231545],[14.025961,52.232603],[14.026657,52.233627],[14.027064,52.234515],[14.027808,52.235781],[14.028336,52.23654],[14.029066,52.237059],[14.030041,52.237516],[14.024467,52.239342],[14.019558,52.240949],[14.02157,52.242862],[14.017211,52.245277],[14.019329,52.247034],[14.017244,52.249274],[14.015203,52.247741],[14.00919,52.251717],[14.014002,52.25759],[14.015698,52.25966],[14.017783,52.261743],[14.020169,52.26396],[14.022394,52.265918],[14.023749,52.26711],[14.02461,52.267868],[14.020598,52.268526],[14.017191,52.269086],[14.016307,52.270363],[14.015761,52.278383],[14.014859,52.281018],[14.014059,52.283143],[14.01224,52.285978],[14.013981,52.287691],[14.015684,52.289479],[14.019574,52.296982],[14.025899,52.30255],[14.028252,52.305776],[14.037418,52.304461],[14.037368,52.306075],[14.040376,52.308093],[14.04589,52.305174],[14.046006,52.304028],[14.048574,52.303069],[14.052962,52.306748],[14.054044,52.307247],[14.052513,52.308319],[14.054108,52.310367],[14.054133,52.311631],[14.051795,52.313034],[14.052568,52.315441],[14.054403,52.317222],[14.055936,52.316747],[14.05703,52.318787],[14.059155,52.321083],[14.059394,52.322624],[14.059192,52.323984],[14.06036,52.325502],[14.061986,52.326883],[14.061696,52.328631],[14.063429,52.329877],[14.066827,52.33004],[14.068815,52.330135],[14.071256,52.329538],[14.075427,52.327708],[14.07829,52.327308],[14.080034,52.327067],[14.081617,52.325289],[14.082975,52.323764],[14.083906,52.322719],[14.08339,52.320362],[14.082869,52.319686],[14.081847,52.31905],[14.078229,52.317486],[14.077972,52.315783],[14.089337,52.313876],[14.094735,52.31297],[14.097643,52.312481],[14.099913,52.3121],[14.103076,52.310337],[14.105017,52.308849],[14.107046,52.306025],[14.10927,52.306407]]]],"type":"MultiPolygon"}
+}

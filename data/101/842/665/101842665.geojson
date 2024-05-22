@@ -1,1 +1,404 @@
-{"id": 101842665, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08317102", "eurostat:level_code": "lau", "eurostat:name_local": "Ottenh\u00f6fen im Schwarzwald", "eurostat:nuts_2021_id": "08317102", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE134", "eurostat:nuts_2021_level_lau": "08317102", "eurostat:population": 3221, "eurostat:population_year": 2020, "geom:area": 0.003081, "geom:area_square_m": 25216483.20279, "geom:bbox": "8.122873,48.527236,8.204878,48.593473", "geom:latitude": 48.557571, "geom:longitude": 8.159348, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 3289, "iso:country": "DE", "lbl:latitude": 48.565827, "lbl:longitude": 8.154167, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 48.565827, "mps:longitude": 8.154167, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:als_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:arg_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ast_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:bar_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:bre_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:cat_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ceb_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ces_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:che_x_preferred": ["\u041e\u0442\u0442\u0435\u043d\u0445\u043e\u044c\u0444\u0435\u043d"], "name:cos_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:cym_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:dan_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:deu_x_colloquial": ["Gemeinde Ottenhoefen im Schwarzwald", "Gemeinde Ottenhofen im Schwarzwald"], "name:deu_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:deu_x_variant": ["Ottenhofen im Schwarzwald", "Gemeinde Ottenh\u00f6fen im Schwarzwald"], "name:eng_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:epo_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:est_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:eus_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:fas_x_preferred": ["\u0627\u0648\u062a\u0646\u0647\u0648\u0641\u0646 \u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0633\u0648\u0627\u0644\u062f"], "name:fin_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:fra_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:frp_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:fur_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:gla_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:gle_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:glg_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:gsw_x_preferred": ["Oddeheefe"], "name:hrv_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:hun_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ido_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ile_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ina_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ind_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:isl_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ita_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:kon_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:kur_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:lat_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:lij_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:lim_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:lld_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:lmo_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ltz_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:min_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:mlg_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:msa_x_preferred": ["Ottenh\u00f6fen"], "name:nan_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:nap_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:nds_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:nld_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:nno_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:nob_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:nrm_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:oci_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:pcd_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:pms_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:pol_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:por_x_preferred": ["Ottenh\u00f6fen"], "name:roh_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:ron_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:rus_x_preferred": ["\u041e\u0442\u0442\u0435\u043d\u0445\u0451\u0444\u0435\u043d"], "name:scn_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:sco_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:slk_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:slv_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:spa_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:srd_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:srp_x_preferred": ["\u041e\u0442\u0435\u043d\u0445\u0435\u0444\u0435\u043d \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"], "name:swa_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:swe_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:tat_x_preferred": ["\u041e\u0442\u0442\u0435\u043d\u0445\u0451\u0444\u0435\u043d"], "name:ukr_x_preferred": ["\u041e\u0442\u0442\u0435\u043d\u0433\u0435\u0444\u0435\u043d-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"], "name:uzb_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:vec_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:vie_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:vls_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:vol_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:war_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:wln_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:wol_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "name:zho_x_preferred": ["\u9ed1\u6797\u5c71\u533a\u5965\u6ed5\u8d6b\u82ac"], "name:zho_x_variant": ["\u5965\u6ed5\u8d6b\u82ac\u4f0a\u59c6\u65af\u5e0c\u74e6\u5c14\u8328\u74e6\u5c14\u5fb7"], "name:zul_x_preferred": ["Ottenh\u00f6fen im Schwarzwald"], "nav:latitude": 48.565827, "nav:longitude": 8.154167, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Ortenaukreis", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Ottenh\u00f6fen im Schwarzwald", "qs:la_lc": "*DE08301706102", "qs:level": "locality", "qs:loc": "Ottenh\u00f6fen im Schwarzwald", "qs:loc_alt": "Ottenhoefen im Schwarzwald", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-near-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555796, "qs_pg:gn_pop": 3289, "qs_pg:name": "Ottenh\u00f6fen im Schwarzwald", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 58, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 636325, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623417, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 32, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689357, 404227543, 102063319], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08317102", "eurostat:nuts_2021_id": "08317102", "fct:id": "0715848a-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2856083, "gp:id": 20159247, "qs_pg:id": 1117037, "wd:id": "Q533667", "wk:page": "Ottenh\u00f6fen im Schwarzwald"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "f59f7ca01bdcea7b798d411ec8d1728d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063319, "localadmin_id": 1377689357, "locality_id": 101842665, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101842665, "wof:lang": ["ger"], "wof:lastmodified": 1690872166, "wof:name": "Ottenh\u00f6fen im Schwarzwald", "wof:parent_id": 1377689357, "wof:placetype": "locality", "wof:population": 3221, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125283201, 1125389813], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.122873, 48.527236, 8.204878, 48.593473], "geometry": {"coordinates": [[[[8.204878, 48.560685], [8.199727, 48.555059], [8.200058, 48.55396], [8.201831, 48.548077], [8.19957, 48.544593], [8.191791, 48.540905], [8.190173, 48.537893], [8.185395, 48.536363], [8.180805, 48.532605], [8.178397, 48.532555], [8.175779, 48.530926], [8.172563, 48.532747], [8.169772, 48.533615], [8.160189, 48.53317], [8.158981, 48.528979], [8.156952, 48.527236], [8.155718, 48.529801], [8.146504, 48.537459], [8.141254, 48.539578], [8.137724, 48.539179], [8.128635, 48.541081], [8.126263, 48.54417], [8.126441, 48.54636], [8.124759, 48.547242], [8.122873, 48.55035], [8.12572, 48.557294], [8.123639, 48.566066], [8.126559, 48.565195], [8.127944, 48.564781], [8.127298, 48.567206], [8.124632, 48.570171], [8.125736, 48.571437], [8.124238, 48.573816], [8.129584, 48.576233], [8.130804, 48.57903], [8.132471, 48.579876], [8.130132, 48.581418], [8.132668, 48.582804], [8.137794, 48.585603], [8.138627, 48.58743], [8.144414, 48.589199], [8.148669, 48.593473], [8.153055, 48.591407], [8.154286, 48.58949], [8.156648, 48.588316], [8.159265, 48.586068], [8.157272, 48.578703], [8.158302, 48.576466], [8.172186, 48.57191], [8.179327, 48.571115], [8.184378, 48.567802], [8.193535, 48.566212], [8.201583, 48.561683], [8.204878, 48.560685]]]], "type": "MultiPolygon"}}
+{
+  "id": 101842665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08317102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ottenh\u00f6fen im Schwarzwald",
+    "eurostat:nuts_2021_id":"08317102",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE134",
+    "eurostat:nuts_2021_level_lau":"08317102",
+    "eurostat:population":3221,
+    "eurostat:population_year":2020,
+    "geom:area":0.003081,
+    "geom:area_square_m":25216483.20279,
+    "geom:bbox":"8.122873,48.527236,8.204878,48.593473",
+    "geom:latitude":48.557571,
+    "geom:longitude":8.159348,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":3289,
+    "iso:country":"DE",
+    "lbl:latitude":48.565827,
+    "lbl:longitude":8.154167,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":48.565827,
+    "mps:longitude":8.154167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:als_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:arg_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ast_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:bar_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:bre_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:cat_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ceb_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ces_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0442\u0442\u0435\u043d\u0445\u043e\u044c\u0444\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:cym_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:dan_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:deu_x_colloquial":[
+        "Gemeinde Ottenhoefen im Schwarzwald",
+        "Gemeinde Ottenhofen im Schwarzwald"
+    ],
+    "name:deu_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:deu_x_variant":[
+        "Ottenhofen im Schwarzwald",
+        "Gemeinde Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:eng_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:epo_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:est_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:eus_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0646\u0647\u0648\u0641\u0646 \u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0633\u0648\u0627\u0644\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:fra_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:frp_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:fur_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:gla_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:gle_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:glg_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:gsw_x_preferred":[
+        "Oddeheefe"
+    ],
+    "name:hrv_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:hun_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ido_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ile_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ina_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ind_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:isl_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ita_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:kon_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:kur_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:lat_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:lij_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:lim_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:lld_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:lmo_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ltz_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:min_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:mlg_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:msa_x_preferred":[
+        "Ottenh\u00f6fen"
+    ],
+    "name:nan_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:nap_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:nds_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:nld_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:nno_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:nob_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:nrm_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:oci_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:pcd_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:pms_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:pol_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:por_x_preferred":[
+        "Ottenh\u00f6fen"
+    ],
+    "name:roh_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:ron_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0442\u0435\u043d\u0445\u0451\u0444\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:sco_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:slk_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:slv_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:spa_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:srd_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0442\u0435\u043d\u0445\u0435\u0444\u0435\u043d \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:swe_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0442\u0442\u0435\u043d\u0445\u0451\u0444\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0442\u0442\u0435\u043d\u0433\u0435\u0444\u0435\u043d-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:vec_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:vie_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:vls_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:vol_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:war_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:wln_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:wol_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6797\u5c71\u533a\u5965\u6ed5\u8d6b\u82ac"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u6ed5\u8d6b\u82ac\u4f0a\u59c6\u65af\u5e0c\u74e6\u5c14\u8328\u74e6\u5c14\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Ottenh\u00f6fen im Schwarzwald"
+    ],
+    "nav:latitude":48.565827,
+    "nav:longitude":8.154167,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Ortenaukreis",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Ottenh\u00f6fen im Schwarzwald",
+    "qs:la_lc":"*DE08301706102",
+    "qs:level":"locality",
+    "qs:loc":"Ottenh\u00f6fen im Schwarzwald",
+    "qs:loc_alt":"Ottenhoefen im Schwarzwald",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555796,
+    "qs_pg:gn_pop":3289,
+    "qs_pg:name":"Ottenh\u00f6fen im Schwarzwald",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":58,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":636325,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623417,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":32,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689357,
+        404227543,
+        102063319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08317102",
+        "eurostat:nuts_2021_id":"08317102",
+        "fct:id":"0715848a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2856083,
+        "gp:id":20159247,
+        "qs_pg:id":1117037,
+        "wd:id":"Q533667",
+        "wk:page":"Ottenh\u00f6fen im Schwarzwald"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"f59f7ca01bdcea7b798d411ec8d1728d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063319,
+            "localadmin_id":1377689357,
+            "locality_id":101842665,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101842665,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690872166,
+    "wof:name":"Ottenh\u00f6fen im Schwarzwald",
+    "wof:parent_id":1377689357,
+    "wof:placetype":"locality",
+    "wof:population":3221,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125283201,
+        1125389813
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.122873,
+    48.527236,
+    8.204878,
+    48.593473
+],
+  "geometry": {"coordinates":[[[[8.204878,48.560685],[8.199727,48.555059],[8.200058,48.55396],[8.201831,48.548077],[8.19957,48.544593],[8.191791,48.540905],[8.190173,48.537893],[8.185395,48.536363],[8.180805,48.532605],[8.178397,48.532555],[8.175779,48.530926],[8.172563,48.532747],[8.169772,48.533615],[8.160189,48.53317],[8.158981,48.528979],[8.156952,48.527236],[8.155718,48.529801],[8.146504,48.537459],[8.141254,48.539578],[8.137724,48.539179],[8.128635,48.541081],[8.126263,48.54417],[8.126441,48.54636],[8.124759,48.547242],[8.122873,48.55035],[8.12572,48.557294],[8.123639,48.566066],[8.126559,48.565195],[8.127944,48.564781],[8.127298,48.567206],[8.124632,48.570171],[8.125736,48.571437],[8.124238,48.573816],[8.129584,48.576233],[8.130804,48.57903],[8.132471,48.579876],[8.130132,48.581418],[8.132668,48.582804],[8.137794,48.585603],[8.138627,48.58743],[8.144414,48.589199],[8.148669,48.593473],[8.153055,48.591407],[8.154286,48.58949],[8.156648,48.588316],[8.159265,48.586068],[8.157272,48.578703],[8.158302,48.576466],[8.172186,48.57191],[8.179327,48.571115],[8.184378,48.567802],[8.193535,48.566212],[8.201583,48.561683],[8.204878,48.560685]]]],"type":"MultiPolygon"}
+}

@@ -1,1 +1,88 @@
-{"id": 1108939915, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.73299462489,50.1267781951,8.73299462489,50.1267781951", "geom:latitude": 50.126778, "geom:longitude": 8.732995, "iso:country": "DE", "lbl:bbox": "8.72799462489,50.1217781951,8.73799462489,50.1317781951", "lbl:latitude": 50.126778, "lbl:longitude": 8.732995, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 13.0, "mz:tier_metro": 30, "name:ceb_x_preferred": ["Riederwald"], "name:deu_x_preferred": ["Frankfurt-Riederwald"], "name:fas_x_preferred": ["\u0631\u06cc\u062f\u0631\u0648\u0627\u0644\u062f"], "name:fra_x_preferred": ["Riederwald"], "name:nld_x_preferred": ["Frankfurt-Riederwald"], "name:pol_x_preferred": ["Riederwald"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377692799, 404227581, 101913837, 102063589, 85682531], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491361403, "wof:geomhash": "3dd523e8cbe8025f34a9798f63efc493", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063589, "localadmin_id": 1377692799, "locality_id": 101913837, "macrocounty_id": 404227581, "neighbourhood_id": 1108939915, "region_id": 85682531}], "wof:id": 1108939915, "wof:lastmodified": 1566713032, "wof:name": "Riederwald", "wof:parent_id": 101913837, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.73299462489195, 50.12677819513839, 8.73299462489195, 50.12677819513839], "geometry": {"coordinates": [8.73299462489195, 50.12677819513839], "type": "Point"}}
+{
+  "id": 1108939915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.73299462489,50.1267781951,8.73299462489,50.1267781951",
+    "geom:latitude":50.126778,
+    "geom:longitude":8.732995,
+    "iso:country":"DE",
+    "lbl:bbox":"8.72799462489,50.1217781951,8.73799462489,50.1317781951",
+    "lbl:latitude":50.126778,
+    "lbl:longitude":8.732995,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Riederwald"
+    ],
+    "name:deu_x_preferred":[
+        "Frankfurt-Riederwald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u062f\u0631\u0648\u0627\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Riederwald"
+    ],
+    "name:nld_x_preferred":[
+        "Frankfurt-Riederwald"
+    ],
+    "name:pol_x_preferred":[
+        "Riederwald"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377692799,
+        404227581,
+        101913837,
+        102063589,
+        85682531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491361403,
+    "wof:geomhash":"3dd523e8cbe8025f34a9798f63efc493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063589,
+            "localadmin_id":1377692799,
+            "locality_id":101913837,
+            "macrocounty_id":404227581,
+            "neighbourhood_id":1108939915,
+            "region_id":85682531
+        }
+    ],
+    "wof:id":1108939915,
+    "wof:lastmodified":1566713032,
+    "wof:name":"Riederwald",
+    "wof:parent_id":101913837,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.73299462489195,
+    50.12677819513839,
+    8.73299462489195,
+    50.12677819513839
+],
+  "geometry": {"coordinates":[8.73299462489195,50.12677819513839],"type":"Point"}
+}

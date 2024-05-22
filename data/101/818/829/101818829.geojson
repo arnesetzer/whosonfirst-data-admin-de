@@ -1,1 +1,366 @@
-{"id": 101818829, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_13074054", "eurostat:level_code": "lau", "eurostat:name_local": "M\u00fchlen Eichsen", "eurostat:nuts_2021_id": "13074054", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE8", "eurostat:nuts_2021_level_2": "DE80", "eurostat:nuts_2021_level_3": "DE80M", "eurostat:nuts_2021_level_lau": "13074054", "eurostat:population": 969, "eurostat:population_year": 2020, "geom:area": 0.003211, "geom:area_square_m": 23478040.874473, "geom:bbox": "11.190201,53.704548,11.278917,53.776073", "geom:latitude": 53.74446, "geom:longitude": 11.237722, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 1020, "iso:country": "DE", "lbl:latitude": 53.758113, "lbl:longitude": 11.24994, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 53.758113, "mps:longitude": 11.24994, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["M\u00fchlen Eichsen"], "name:arg_x_preferred": ["M\u00fchlen Eichsen"], "name:ast_x_preferred": ["M\u00fchlen Eichsen"], "name:bar_x_preferred": ["M\u00fchlen Eichsen"], "name:bre_x_preferred": ["M\u00fchlen Eichsen"], "name:cat_x_preferred": ["M\u00fchlen Eichsen"], "name:ceb_x_preferred": ["M\u00fchlen Eichsen"], "name:ces_x_preferred": ["M\u00fchlen Eichsen"], "name:che_x_preferred": ["\u041c\u0443\u044c\u043b\u0435\u043d-\u0410\u0439\u043a\u0441\u0435\u043d"], "name:cos_x_preferred": ["M\u00fchlen Eichsen"], "name:cym_x_preferred": ["M\u00fchlen Eichsen"], "name:dan_x_preferred": ["M\u00fchlen Eichsen"], "name:deu_x_preferred": ["M\u00fchlen Eichsen"], "name:eng_x_preferred": ["M\u00fchlen Eichsen"], "name:epo_x_preferred": ["M\u00fchlen Eichsen"], "name:est_x_preferred": ["M\u00fchlen Eichsen"], "name:eus_x_preferred": ["M\u00fchlen Eichsen"], "name:fas_x_preferred": ["\u0645\u0648\u0647\u0644\u0646 \u0627\u06cc\u0634\u0632\u0646"], "name:fin_x_preferred": ["M\u00fchlen Eichsen"], "name:fra_x_preferred": ["M\u00fchlen Eichsen"], "name:frp_x_preferred": ["M\u00fchlen Eichsen"], "name:fur_x_preferred": ["M\u00fchlen Eichsen"], "name:gla_x_preferred": ["M\u00fchlen Eichsen"], "name:gle_x_preferred": ["M\u00fchlen Eichsen"], "name:glg_x_preferred": ["M\u00fchlen Eichsen"], "name:gsw_x_preferred": ["M\u00fchlen Eichsen"], "name:hrv_x_preferred": ["M\u00fchlen Eichsen"], "name:hun_x_preferred": ["M\u00fchlen Eichsen"], "name:ido_x_preferred": ["M\u00fchlen Eichsen"], "name:ile_x_preferred": ["M\u00fchlen Eichsen"], "name:ina_x_preferred": ["M\u00fchlen Eichsen"], "name:ind_x_preferred": ["M\u00fchlen Eichsen"], "name:isl_x_preferred": ["M\u00fchlen Eichsen"], "name:ita_x_preferred": ["M\u00fchlen Eichsen"], "name:kaz_x_preferred": ["\u041c\u044e\u043b\u0435\u043d-\u0410\u0439\u0445\u0437\u0435\u043d"], "name:kir_x_preferred": ["\u041c\u04af\u043b\u0435\u043d-\u0410\u0439\u0445\u0437\u0435\u043d"], "name:kon_x_preferred": ["M\u00fchlen Eichsen"], "name:kur_x_preferred": ["M\u00fchlen Eichsen"], "name:lij_x_preferred": ["M\u00fchlen Eichsen"], "name:lim_x_preferred": ["M\u00fchlen Eichsen"], "name:ltz_x_preferred": ["M\u00fchlen Eichsen"], "name:min_x_preferred": ["M\u00fchlen Eichsen"], "name:mkd_x_preferred": ["\u041c\u0438\u043b\u0435\u043d \u0410\u0458\u0445\u0437\u0435\u043d"], "name:mlg_x_preferred": ["M\u00fchlen Eichsen"], "name:msa_x_preferred": ["M\u00fchlen Eichsen"], "name:nap_x_preferred": ["M\u00fchlen Eichsen"], "name:nds_x_preferred": ["M\u00fchlen Eichsen"], "name:nld_x_preferred": ["M\u00fchlen Eichsen"], "name:nno_x_preferred": ["M\u00fchlen Eichsen"], "name:nob_x_preferred": ["M\u00fchlen Eichsen"], "name:nrm_x_preferred": ["M\u00fchlen Eichsen"], "name:oci_x_preferred": ["M\u00fchlen Eichsen"], "name:pcd_x_preferred": ["M\u00fchlen Eichsen"], "name:pms_x_preferred": ["M\u00fchlen Eichsen"], "name:pol_x_preferred": ["M\u00fchlen Eichsen"], "name:por_x_preferred": ["M\u00fchlen Eichsen"], "name:roh_x_preferred": ["M\u00fchlen Eichsen"], "name:ron_x_preferred": ["M\u00fchlen Eichsen"], "name:rus_x_preferred": ["\u041c\u044e\u043b\u0435\u043d-\u0410\u0439\u0445\u0437\u0435\u043d"], "name:scn_x_preferred": ["M\u00fchlen Eichsen"], "name:sco_x_preferred": ["M\u00fchlen Eichsen"], "name:slk_x_preferred": ["M\u00fchlen Eichsen"], "name:slv_x_preferred": ["M\u00fchlen Eichsen"], "name:spa_x_preferred": ["M\u00fchlen Eichsen"], "name:srd_x_preferred": ["M\u00fchlen Eichsen"], "name:srp_x_preferred": ["\u041c\u0438\u043b\u0435\u043d \u0410\u0458\u0445\u0441\u0435\u043d"], "name:swa_x_preferred": ["M\u00fchlen Eichsen"], "name:swe_x_preferred": ["M\u00fchlen Eichsen"], "name:tat_x_preferred": ["\u041c\u044e\u043b\u0435\u043d-\u0410\u0439\u043a\u0441\u0435\u043d"], "name:ukr_x_preferred": ["\u041c\u044e\u043b\u0435\u043d-\u0410\u0439\u0445\u0437\u0435\u043d"], "name:uzb_x_preferred": ["M\u00fchlen Eichsen"], "name:vec_x_preferred": ["M\u00fchlen Eichsen"], "name:vie_x_preferred": ["M\u00fchlen Eichsen"], "name:vls_x_preferred": ["M\u00fchlen Eichsen"], "name:vol_x_preferred": ["M\u00fchlen Eichsen"], "name:war_x_preferred": ["M\u00fchlen Eichsen"], "name:wln_x_preferred": ["M\u00fchlen Eichsen"], "name:wol_x_preferred": ["M\u00fchlen Eichsen"], "name:zho_x_preferred": ["\u7c73\u8d6b\u4f26\u827e\u5e0c\u68ee"], "name:zul_x_preferred": ["M\u00fchlen Eichsen"], "nav:latitude": 53.758113, "nav:longitude": 11.24994, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "Nordwestmecklenburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "M\u00fchlen Eichsen", "qs:la_lc": "*DE13005825071", "qs:level": "locality", "qs:loc": "M\u00fchlen Eichsen", "qs:loc_alt": "Muehlen Eichsen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6548204, "qs_pg:gn_pop": 1020, "qs_pg:name": "M\u00fchlen Eichsen", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 630818, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 34, "wof:belongsto": [85682487, 102191581, 1377693595, 85633111, 1377675589], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_13074054", "eurostat:nuts_2021_id": "13074054", "gn:id": 2868222, "gp:id": 676531, "qs_pg:id": 577764, "wd:id": "Q639005", "wk:page": "M\u00fchlen Eichsen"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "696d27190cb85a505337ece387ab4653", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675589, "localadmin_id": 1377693595, "locality_id": 101818829, "region_id": 85682487}], "wof:id": 101818829, "wof:lastmodified": 1690871930, "wof:name": "M\u00fchlen Eichsen", "wof:parent_id": 1377693595, "wof:placetype": "locality", "wof:population": 969, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125301601], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.190201, 53.704548, 11.278917, 53.776073], "geometry": {"coordinates": [[[[11.264897, 53.757048], [11.263965, 53.756659], [11.264737, 53.754821], [11.266405, 53.750561], [11.263306, 53.749296], [11.262923, 53.7491], [11.263505, 53.748558], [11.264696, 53.74731], [11.264808, 53.746825], [11.265477, 53.746075], [11.264471, 53.745713], [11.265939, 53.743898], [11.266338, 53.743284], [11.26563, 53.742678], [11.265102, 53.741935], [11.264899, 53.740768], [11.264995, 53.739339], [11.265418, 53.738393], [11.265854, 53.737339], [11.26622, 53.736582], [11.26654, 53.735826], [11.267151, 53.73522], [11.267699, 53.734507], [11.268718, 53.733898], [11.269649, 53.733398], [11.271613, 53.733036], [11.272192, 53.733239], [11.27361, 53.732026], [11.27326, 53.731103], [11.274204, 53.730477], [11.276028, 53.729953], [11.276597, 53.729522], [11.276902, 53.72917], [11.277239, 53.728872], [11.277607, 53.728519], [11.277628, 53.727965], [11.27762, 53.727522], [11.277671, 53.726875], [11.277857, 53.725468], [11.278449, 53.725563], [11.278917, 53.725465], [11.278818, 53.724994], [11.278842, 53.724277], [11.278898, 53.723387], [11.278858, 53.722963], [11.278592, 53.722516], [11.277881, 53.722556], [11.277986, 53.721693], [11.277727, 53.720715], [11.276849, 53.71993], [11.276834, 53.719068], [11.277441, 53.718309], [11.277441, 53.717465], [11.275721, 53.715265], [11.275899, 53.714222], [11.275387, 53.713506], [11.274555, 53.712721], [11.273836, 53.711485], [11.273244, 53.71051], [11.272459, 53.709805], [11.271687, 53.708992], [11.271232, 53.708123], [11.271106, 53.706956], [11.270757, 53.706096], [11.270805, 53.705376], [11.271237, 53.704924], [11.271124, 53.704548], [11.265872, 53.704679], [11.265702, 53.705345], [11.265583, 53.705472], [11.26539, 53.705733], [11.265244, 53.705995], [11.264585, 53.707293], [11.264551, 53.707894], [11.264416, 53.708408], [11.264279, 53.708808], [11.26429, 53.709436], [11.263768, 53.709867], [11.262569, 53.710046], [11.261034, 53.710255], [11.259451, 53.710464], [11.258442, 53.710527], [11.257438, 53.710847], [11.257107, 53.711192], [11.256199, 53.711482], [11.25529, 53.711773], [11.255155, 53.712316], [11.25502, 53.712802], [11.254304, 53.713149], [11.253444, 53.713439], [11.252876, 53.713956], [11.252453, 53.714529], [11.251592, 53.71482], [11.250296, 53.714942], [11.249338, 53.715204], [11.248046, 53.715583], [11.247234, 53.715873], [11.246217, 53.716246], [11.244886, 53.71638], [11.244221, 53.716447], [11.243031, 53.716831], [11.242072, 53.717412], [11.24072, 53.718085], [11.238659, 53.718052], [11.237293, 53.718797], [11.236844, 53.719114], [11.235738, 53.719965], [11.234754, 53.720933], [11.23411, 53.721341], [11.233625, 53.722251], [11.233513, 53.725495], [11.234409, 53.727413], [11.234364, 53.729264], [11.233489, 53.7313], [11.232129, 53.732386], [11.23036, 53.734427], [11.229004, 53.735791], [11.226215, 53.738512], [11.222102, 53.74089], [11.217879, 53.740277], [11.208866, 53.739601], [11.204039, 53.739143], [11.194157, 53.73813], [11.190201, 53.74286], [11.19196, 53.743847], [11.192692, 53.745092], [11.192106, 53.746407], [11.193509, 53.746938], [11.194108, 53.748336], [11.193674, 53.74966], [11.194829, 53.750785], [11.195228, 53.75205], [11.196535, 53.752231], [11.197026, 53.752606], [11.196533, 53.75498], [11.199839, 53.755977], [11.200403, 53.757124], [11.199034, 53.758731], [11.200169, 53.760485], [11.19886, 53.762065], [11.197597, 53.761785], [11.196092, 53.761541], [11.194341, 53.762018], [11.1927, 53.763717], [11.194196, 53.76529], [11.196726, 53.767054], [11.197732, 53.769259], [11.199655, 53.770021], [11.204091, 53.773338], [11.2134, 53.77032], [11.222797, 53.770876], [11.231331, 53.776073], [11.233609, 53.775359], [11.238098, 53.769933], [11.246168, 53.770037], [11.246795, 53.76944], [11.246779, 53.768542], [11.246621, 53.767258], [11.246999, 53.766313], [11.247223, 53.765206], [11.247179, 53.764461], [11.248321, 53.763825], [11.24912, 53.763533], [11.250241, 53.764352], [11.251895, 53.765313], [11.254012, 53.765866], [11.254827, 53.766499], [11.257908, 53.76666], [11.260965, 53.762805], [11.259849, 53.762281], [11.264897, 53.757048]]]], "type": "MultiPolygon"}}
+{
+  "id": 101818829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_13074054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00fchlen Eichsen",
+    "eurostat:nuts_2021_id":"13074054",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE8",
+    "eurostat:nuts_2021_level_2":"DE80",
+    "eurostat:nuts_2021_level_3":"DE80M",
+    "eurostat:nuts_2021_level_lau":"13074054",
+    "eurostat:population":969,
+    "eurostat:population_year":2020,
+    "geom:area":0.003211,
+    "geom:area_square_m":23478040.874473,
+    "geom:bbox":"11.190201,53.704548,11.278917,53.776073",
+    "geom:latitude":53.74446,
+    "geom:longitude":11.237722,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":1020,
+    "iso:country":"DE",
+    "lbl:latitude":53.758113,
+    "lbl:longitude":11.24994,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":53.758113,
+    "mps:longitude":11.24994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:arg_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ast_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:bar_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:bre_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:cat_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ces_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0443\u044c\u043b\u0435\u043d-\u0410\u0439\u043a\u0441\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:cym_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:dan_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:est_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:eus_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0647\u0644\u0646 \u0627\u06cc\u0634\u0632\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:frp_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:fur_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:gla_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:glg_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:gsw_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:hrv_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ido_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ile_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ina_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ind_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:isl_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u043d-\u0410\u0439\u0445\u0437\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u04af\u043b\u0435\u043d-\u0410\u0439\u0445\u0437\u0435\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:kur_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:lij_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:lim_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ltz_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:min_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u043d \u0410\u0458\u0445\u0437\u0435\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:nap_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:nds_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:nob_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:nrm_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:oci_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:pcd_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:pms_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:por_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:roh_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:ron_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u043d-\u0410\u0439\u0445\u0437\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:sco_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:slk_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:slv_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:srd_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u043d \u0410\u0458\u0445\u0441\u0435\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u043d-\u0410\u0439\u043a\u0441\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u043d-\u0410\u0439\u0445\u0437\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:vec_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:vls_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:war_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:wln_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:wol_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u8d6b\u4f26\u827e\u5e0c\u68ee"
+    ],
+    "name:zul_x_preferred":[
+        "M\u00fchlen Eichsen"
+    ],
+    "nav:latitude":53.758113,
+    "nav:longitude":11.24994,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"Nordwestmecklenburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"M\u00fchlen Eichsen",
+    "qs:la_lc":"*DE13005825071",
+    "qs:level":"locality",
+    "qs:loc":"M\u00fchlen Eichsen",
+    "qs:loc_alt":"Muehlen Eichsen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6548204,
+    "qs_pg:gn_pop":1020,
+    "qs_pg:name":"M\u00fchlen Eichsen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":630818,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377693595,
+        85633111,
+        1377675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_13074054",
+        "eurostat:nuts_2021_id":"13074054",
+        "gn:id":2868222,
+        "gp:id":676531,
+        "qs_pg:id":577764,
+        "wd:id":"Q639005",
+        "wk:page":"M\u00fchlen Eichsen"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"696d27190cb85a505337ece387ab4653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675589,
+            "localadmin_id":1377693595,
+            "locality_id":101818829,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101818829,
+    "wof:lastmodified":1690871930,
+    "wof:name":"M\u00fchlen Eichsen",
+    "wof:parent_id":1377693595,
+    "wof:placetype":"locality",
+    "wof:population":969,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125301601
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.190201,
+    53.704548,
+    11.278917,
+    53.776073
+],
+  "geometry": {"coordinates":[[[[11.264897,53.757048],[11.263965,53.756659],[11.264737,53.754821],[11.266405,53.750561],[11.263306,53.749296],[11.262923,53.7491],[11.263505,53.748558],[11.264696,53.74731],[11.264808,53.746825],[11.265477,53.746075],[11.264471,53.745713],[11.265939,53.743898],[11.266338,53.743284],[11.26563,53.742678],[11.265102,53.741935],[11.264899,53.740768],[11.264995,53.739339],[11.265418,53.738393],[11.265854,53.737339],[11.26622,53.736582],[11.26654,53.735826],[11.267151,53.73522],[11.267699,53.734507],[11.268718,53.733898],[11.269649,53.733398],[11.271613,53.733036],[11.272192,53.733239],[11.27361,53.732026],[11.27326,53.731103],[11.274204,53.730477],[11.276028,53.729953],[11.276597,53.729522],[11.276902,53.72917],[11.277239,53.728872],[11.277607,53.728519],[11.277628,53.727965],[11.27762,53.727522],[11.277671,53.726875],[11.277857,53.725468],[11.278449,53.725563],[11.278917,53.725465],[11.278818,53.724994],[11.278842,53.724277],[11.278898,53.723387],[11.278858,53.722963],[11.278592,53.722516],[11.277881,53.722556],[11.277986,53.721693],[11.277727,53.720715],[11.276849,53.71993],[11.276834,53.719068],[11.277441,53.718309],[11.277441,53.717465],[11.275721,53.715265],[11.275899,53.714222],[11.275387,53.713506],[11.274555,53.712721],[11.273836,53.711485],[11.273244,53.71051],[11.272459,53.709805],[11.271687,53.708992],[11.271232,53.708123],[11.271106,53.706956],[11.270757,53.706096],[11.270805,53.705376],[11.271237,53.704924],[11.271124,53.704548],[11.265872,53.704679],[11.265702,53.705345],[11.265583,53.705472],[11.26539,53.705733],[11.265244,53.705995],[11.264585,53.707293],[11.264551,53.707894],[11.264416,53.708408],[11.264279,53.708808],[11.26429,53.709436],[11.263768,53.709867],[11.262569,53.710046],[11.261034,53.710255],[11.259451,53.710464],[11.258442,53.710527],[11.257438,53.710847],[11.257107,53.711192],[11.256199,53.711482],[11.25529,53.711773],[11.255155,53.712316],[11.25502,53.712802],[11.254304,53.713149],[11.253444,53.713439],[11.252876,53.713956],[11.252453,53.714529],[11.251592,53.71482],[11.250296,53.714942],[11.249338,53.715204],[11.248046,53.715583],[11.247234,53.715873],[11.246217,53.716246],[11.244886,53.71638],[11.244221,53.716447],[11.243031,53.716831],[11.242072,53.717412],[11.24072,53.718085],[11.238659,53.718052],[11.237293,53.718797],[11.236844,53.719114],[11.235738,53.719965],[11.234754,53.720933],[11.23411,53.721341],[11.233625,53.722251],[11.233513,53.725495],[11.234409,53.727413],[11.234364,53.729264],[11.233489,53.7313],[11.232129,53.732386],[11.23036,53.734427],[11.229004,53.735791],[11.226215,53.738512],[11.222102,53.74089],[11.217879,53.740277],[11.208866,53.739601],[11.204039,53.739143],[11.194157,53.73813],[11.190201,53.74286],[11.19196,53.743847],[11.192692,53.745092],[11.192106,53.746407],[11.193509,53.746938],[11.194108,53.748336],[11.193674,53.74966],[11.194829,53.750785],[11.195228,53.75205],[11.196535,53.752231],[11.197026,53.752606],[11.196533,53.75498],[11.199839,53.755977],[11.200403,53.757124],[11.199034,53.758731],[11.200169,53.760485],[11.19886,53.762065],[11.197597,53.761785],[11.196092,53.761541],[11.194341,53.762018],[11.1927,53.763717],[11.194196,53.76529],[11.196726,53.767054],[11.197732,53.769259],[11.199655,53.770021],[11.204091,53.773338],[11.2134,53.77032],[11.222797,53.770876],[11.231331,53.776073],[11.233609,53.775359],[11.238098,53.769933],[11.246168,53.770037],[11.246795,53.76944],[11.246779,53.768542],[11.246621,53.767258],[11.246999,53.766313],[11.247223,53.765206],[11.247179,53.764461],[11.248321,53.763825],[11.24912,53.763533],[11.250241,53.764352],[11.251895,53.765313],[11.254012,53.765866],[11.254827,53.766499],[11.257908,53.76666],[11.260965,53.762805],[11.259849,53.762281],[11.264897,53.757048]]]],"type":"MultiPolygon"}
+}

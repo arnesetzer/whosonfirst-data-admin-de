@@ -1,1 +1,413 @@
-{"id": 101839501, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_05774008", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Lippspringe, Stadt", "eurostat:nuts_2021_id": "05774008", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEA", "eurostat:nuts_2021_level_2": "DEA4", "eurostat:nuts_2021_level_3": "DEA47", "eurostat:nuts_2021_level_lau": "05774008", "eurostat:population": 16237, "eurostat:population_year": 2020, "geom:area": 0.006662, "geom:area_square_m": 50956159.248875, "geom:bbox": "8.723939,51.751807,8.927508,51.833072", "geom:latitude": 51.786717, "geom:longitude": 8.82373, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 15165, "iso:country": "DE", "lbl:latitude": 51.782051, "lbl:longitude": 8.822354, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 51.782051, "mps:longitude": 8.822354, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:afr_x_preferred": ["Bad Lippspringe"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0644\u064a\u0628\u0634\u0628\u0631\u064a\u0646\u063a\u0647"], "name:arg_x_preferred": ["Bad Lippspringe"], "name:ast_x_preferred": ["Bad Lippspringe"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0644\u06cc\u067e\u200c\u0627\u0633\u067e\u0631\u06cc\u0646\u0642\u0647"], "name:bar_x_preferred": ["Bad Lippspringe"], "name:bel_x_preferred": ["\u0411\u0430\u0434-\u041b\u0456\u043f\u0448\u043f\u0440\u044b\u043d\u0433\u044d"], "name:bre_x_preferred": ["Bad Lippspringe"], "name:cat_x_preferred": ["Bad Lippspringe"], "name:ceb_x_preferred": ["Bad Lippspringe"], "name:ces_x_preferred": ["Bad Lippspringe"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u043f\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"], "name:cos_x_preferred": ["Bad Lippspringe"], "name:cym_x_preferred": ["Bad Lippspringe"], "name:dan_x_preferred": ["Bad Lippspringe"], "name:deu_x_preferred": ["Bad Lippspringe"], "name:eng_x_preferred": ["Bad Lippspringe"], "name:epo_x_preferred": ["Bad Lippspringe"], "name:est_x_preferred": ["Bad Lippspringe"], "name:eus_x_preferred": ["Bad Lippspringe"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0644\u06cc\u067e\u200c\u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0647"], "name:fin_x_preferred": ["Bad Lippspringe"], "name:fra_x_preferred": ["Bad Lippspringe"], "name:frp_x_preferred": ["Bad Lippspringe"], "name:fur_x_preferred": ["Bad Lippspringe"], "name:gla_x_preferred": ["Bad Lippspringe"], "name:gle_x_preferred": ["Bad Lippspringe"], "name:glg_x_preferred": ["Bad Lippspringe"], "name:gsw_x_preferred": ["Bad Lippspringe"], "name:hbs_x_preferred": ["Bad Lippspringe"], "name:hrv_x_preferred": ["Bad Lippspringe"], "name:hun_x_preferred": ["Bad Lippspringe"], "name:ido_x_preferred": ["Bad Lippspringe"], "name:ile_x_preferred": ["Bad Lippspringe"], "name:ina_x_preferred": ["Bad Lippspringe"], "name:ind_x_preferred": ["Bad Lippspringe"], "name:isl_x_preferred": ["Bad Lippspringe"], "name:ita_x_preferred": ["Bad Lippspringe"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30ea\u30c3\u30d7\u30b7\u30e5\u30d7\u30ea\u30f3\u30b2"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"], "name:kon_x_preferred": ["Bad Lippspringe"], "name:kur_x_preferred": ["Bad Lippspringe"], "name:lij_x_preferred": ["Bad Lippspringe"], "name:lim_x_preferred": ["Bad Lippspringe"], "name:lld_x_preferred": ["Bad Lippspringe"], "name:ltz_x_preferred": ["Bad Lippspringe"], "name:min_x_preferred": ["Bad Lippspringe"], "name:mlg_x_preferred": ["Bad Lippspringe"], "name:msa_x_preferred": ["Bad Lippspringe"], "name:nap_x_preferred": ["Bad Lippspringe"], "name:nds_x_preferred": ["Bad Lippspringe"], "name:nld_x_preferred": ["Bad Lippspringe"], "name:nno_x_preferred": ["Bad Lippspringe"], "name:nob_x_preferred": ["Bad Lippspringe"], "name:nrm_x_preferred": ["Bad Lippspringe"], "name:oci_x_preferred": ["Bad Lippspringe"], "name:pcd_x_preferred": ["Bad Lippspringe"], "name:pms_x_preferred": ["Bad Lippspringe"], "name:pol_x_preferred": ["Bad Lippspringe"], "name:por_x_preferred": ["Bad Lippspringe"], "name:roh_x_preferred": ["Bad Lippspringe"], "name:ron_x_preferred": ["Bad Lippspringe"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"], "name:scn_x_preferred": ["Bad Lippspringe"], "name:sco_x_preferred": ["Bad Lippspringe"], "name:slk_x_preferred": ["Bad Lippspringe"], "name:slv_x_preferred": ["Bad Lippspringe"], "name:spa_x_preferred": ["Bad Lippspringe"], "name:srd_x_preferred": ["Bad Lippspringe"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u041b\u0438\u043f\u0441\u043f\u0440\u0438\u043d\u0433\u0435"], "name:swa_x_preferred": ["Bad Lippspringe"], "name:swe_x_preferred": ["Bad Lippspringe"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u043f\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"], "name:tum_x_preferred": ["Bad Lippspringe"], "name:tur_x_preferred": ["Bad Lippspringe"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u041b\u0456\u043f\u043f\u0448\u043f\u0440\u0456\u043d\u0433\u0435"], "name:und_x_variant": ["Lippspringe"], "name:uzb_x_preferred": ["Bad Lippspringe"], "name:vec_x_preferred": ["Bad Lippspringe"], "name:vie_x_preferred": ["Bad Lippspringe"], "name:vls_x_preferred": ["Bad Lippspringe"], "name:vol_x_preferred": ["Bad Lippspringe"], "name:war_x_preferred": ["Bad Lippspringe"], "name:wln_x_preferred": ["Bad Lippspringe"], "name:wol_x_preferred": ["Bad Lippspringe"], "name:zho_x_preferred": ["\u5df4\u7279\u5229\u666e\u65bd\u666e\u7075\u683c"], "name:zho_x_variant": ["\u5df4\u5fb7\u5229\u666e\u65af\u666e\u6797\u683c"], "name:zul_x_preferred": ["Bad Lippspringe"], "nav:latitude": 51.782051, "nav:longitude": 8.822354, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Nordrhein-Westfalen", "qs:a1r": "0", "qs:a2": "Paderborn", "qs:a2r": "Detmold", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Schlangen", "qs:la_lc": "*DE05706600064", "qs:level": "locality", "qs:loc": "Bad Lippspringe", "qs:loc_alt": "Bad Lippspringe", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-multi-in-poly-resolved", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557651, "qs_pg:gn_pop": 15165, "qs_pg:name": "Gemeinde Bad Lippspringe", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Nordrhein-Westfalen", "qs_pg:photos": 184, "qs_pg:photos_1k": 37, "qs_pg:photos_9k": 2, "qs_pg:photos_9r": 5, "qs_pg:photos_all": 419, "qs_pg:photos_sr": 4, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1212439, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12624559, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 264, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Nordrhein-Westfalen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682513, 102191581, 85633111, 1377691997, 404227571, 102063835], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_05774008", "eurostat:nuts_2021_id": "05774008", "gn:id": 2953405, "gp:id": 636462, "qs_pg:id": 1343579, "wd:id": "Q183307", "wk:page": "Bad Lippspringe"}, "wof:coterminous": [1377691997], "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "4e252355a7d539761b160a54b69b1cbb", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063835, "localadmin_id": 1377691997, "locality_id": 101839501, "macrocounty_id": 404227571, "region_id": 85682513}], "wof:id": 101839501, "wof:lastmodified": 1690873740, "wof:name": "Bad Lippspringe", "wof:parent_id": 1377691997, "wof:placetype": "locality", "wof:population": 16237, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125361433, 1125342671], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.723939, 51.751807, 8.927508, 51.833072], "geometry": {"coordinates": [[[[8.91827, 51.812839], [8.918605, 51.812817], [8.92076, 51.812189], [8.921285, 51.8114], [8.921786, 51.810646], [8.921784, 51.809872], [8.922348, 51.808683], [8.923357, 51.808048], [8.924279, 51.807836], [8.925097, 51.807853], [8.927508, 51.807796], [8.926553, 51.806291], [8.924374, 51.805488], [8.923689, 51.803905], [8.922506, 51.803268], [8.921066, 51.802943], [8.919024, 51.802808], [8.916027, 51.801721], [8.913615, 51.802174], [8.912704, 51.801347], [8.910069, 51.798675], [8.908148, 51.797758], [8.90587, 51.797161], [8.901127, 51.796921], [8.891558, 51.799134], [8.889904, 51.798998], [8.888679, 51.798467], [8.888337, 51.797719], [8.88826, 51.79729], [8.888247, 51.796347], [8.888228, 51.795575], [8.888069, 51.794859], [8.888144, 51.794031], [8.888401, 51.793292], [8.888798, 51.792498], [8.88877, 51.791983], [8.888855, 51.79087], [8.889065, 51.79013], [8.889003, 51.789301], [8.889094, 51.789034], [8.889413, 51.788106], [8.889537, 51.787222], [8.889377, 51.786535], [8.888844, 51.785956], [8.893411, 51.783775], [8.895287, 51.780786], [8.895719, 51.78045], [8.899943, 51.779131], [8.900183, 51.7789], [8.90029, 51.778334], [8.900742, 51.777045], [8.901699, 51.776203], [8.902422, 51.775457], [8.90274, 51.775083], [8.902883, 51.774716], [8.90294, 51.774321], [8.902869, 51.77387], [8.902726, 51.7734], [8.90284, 51.773051], [8.903737, 51.771866], [8.904614, 51.772085], [8.905459, 51.772393], [8.9062, 51.772763], [8.906811, 51.773123], [8.907405, 51.773562], [8.908127, 51.774067], [8.908685, 51.774299], [8.909419, 51.774444], [8.910431, 51.774557], [8.911373, 51.774587], [8.911987, 51.774443], [8.912611, 51.774019], [8.911839, 51.771154], [8.909694, 51.768662], [8.904709, 51.767001], [8.901134, 51.766525], [8.897809, 51.76445], [8.892133, 51.76407], [8.89072, 51.763302], [8.885672, 51.760557], [8.881748, 51.758422], [8.88055, 51.75812], [8.875217, 51.756774], [8.874132, 51.7565], [8.867491, 51.757095], [8.863235, 51.757665], [8.856785, 51.755262], [8.848776, 51.755236], [8.846235, 51.755486], [8.842417, 51.755458], [8.843176, 51.752517], [8.836472, 51.751807], [8.833986, 51.7556], [8.829724, 51.755083], [8.828829, 51.755642], [8.827755, 51.756055], [8.826451, 51.756465], [8.82501, 51.756845], [8.823572, 51.757139], [8.82218, 51.757433], [8.820889, 51.757501], [8.819276, 51.757535], [8.817985, 51.757602], [8.816647, 51.757669], [8.815543, 51.757653], [8.815307, 51.757622], [8.814352, 51.757494], [8.813527, 51.757396], [8.813685, 51.759341], [8.80816, 51.760605], [8.806105, 51.761376], [8.804509, 51.76221], [8.803266, 51.763749], [8.800916, 51.768444], [8.800161, 51.769256], [8.798703, 51.769073], [8.799438, 51.769966], [8.790856, 51.772956], [8.771616, 51.769288], [8.773024, 51.772346], [8.771537, 51.771407], [8.759045, 51.789751], [8.756514, 51.790293], [8.754077, 51.787362], [8.752894, 51.792582], [8.741166, 51.791701], [8.739614, 51.800838], [8.741649, 51.800994], [8.745586, 51.801464], [8.741788, 51.806053], [8.727655, 51.813454], [8.724105, 51.818783], [8.723939, 51.820823], [8.740111, 51.825096], [8.752471, 51.825719], [8.753283, 51.825758], [8.753789, 51.825829], [8.754986, 51.826026], [8.755677, 51.826189], [8.756093, 51.82633], [8.756692, 51.826609], [8.757204, 51.826896], [8.757873, 51.827238], [8.758598, 51.827654], [8.759319, 51.828159], [8.759936, 51.828735], [8.76072, 51.829521], [8.761474, 51.830297], [8.762578, 51.831438], [8.763785, 51.832544], [8.765406, 51.833072], [8.765745, 51.83179], [8.765758, 51.824214], [8.768404, 51.816478], [8.77344, 51.811926], [8.775606, 51.809942], [8.784113, 51.802993], [8.787856, 51.799934], [8.790252, 51.797971], [8.795368, 51.798161], [8.805672, 51.798534], [8.816882, 51.798748], [8.818313, 51.799317], [8.822459, 51.79826], [8.829117, 51.799929], [8.831677, 51.799362], [8.836274, 51.799453], [8.838495, 51.799457], [8.841896, 51.799316], [8.844876, 51.799187], [8.849607, 51.799181], [8.861303, 51.799199], [8.86578, 51.799819], [8.873759, 51.801539], [8.880516, 51.802555], [8.891258, 51.80373], [8.897769, 51.805501], [8.902782, 51.807571], [8.90561, 51.809723], [8.907655, 51.81055], [8.909317, 51.811901], [8.91147, 51.812605], [8.916335, 51.812957], [8.91827, 51.812839]]]], "type": "MultiPolygon"}}
+{
+  "id": 101839501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_05774008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Lippspringe, Stadt",
+    "eurostat:nuts_2021_id":"05774008",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEA",
+    "eurostat:nuts_2021_level_2":"DEA4",
+    "eurostat:nuts_2021_level_3":"DEA47",
+    "eurostat:nuts_2021_level_lau":"05774008",
+    "eurostat:population":16237,
+    "eurostat:population_year":2020,
+    "geom:area":0.006662,
+    "geom:area_square_m":50956159.248875,
+    "geom:bbox":"8.723939,51.751807,8.927508,51.833072",
+    "geom:latitude":51.786717,
+    "geom:longitude":8.82373,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":15165,
+    "iso:country":"DE",
+    "lbl:latitude":51.782051,
+    "lbl:longitude":8.822354,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":51.782051,
+    "mps:longitude":8.822354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0644\u064a\u0628\u0634\u0628\u0631\u064a\u0646\u063a\u0647"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0644\u06cc\u067e\u200c\u0627\u0633\u067e\u0631\u06cc\u0646\u0642\u0647"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0456\u043f\u0448\u043f\u0440\u044b\u043d\u0433\u044d"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u043f\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:est_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0644\u06cc\u067e\u200c\u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30ea\u30c3\u30d7\u30b7\u30e5\u30d7\u30ea\u30f3\u30b2"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:min_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:por_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u041b\u0438\u043f\u0441\u043f\u0440\u0438\u043d\u0433\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u043f\u043f\u0448\u043f\u0440\u0438\u043d\u0433\u0435"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0456\u043f\u043f\u0448\u043f\u0440\u0456\u043d\u0433\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lippspringe"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:war_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u5229\u666e\u65bd\u666e\u7075\u683c"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u5229\u666e\u65af\u666e\u6797\u683c"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Lippspringe"
+    ],
+    "nav:latitude":51.782051,
+    "nav:longitude":8.822354,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Nordrhein-Westfalen",
+    "qs:a1r":"0",
+    "qs:a2":"Paderborn",
+    "qs:a2r":"Detmold",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Schlangen",
+    "qs:la_lc":"*DE05706600064",
+    "qs:level":"locality",
+    "qs:loc":"Bad Lippspringe",
+    "qs:loc_alt":"Bad Lippspringe",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557651,
+    "qs_pg:gn_pop":15165,
+    "qs_pg:name":"Gemeinde Bad Lippspringe",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Nordrhein-Westfalen",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":419,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1212439,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12624559,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":264,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Nordrhein-Westfalen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682513,
+        102191581,
+        85633111,
+        1377691997,
+        404227571,
+        102063835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_05774008",
+        "eurostat:nuts_2021_id":"05774008",
+        "gn:id":2953405,
+        "gp:id":636462,
+        "qs_pg:id":1343579,
+        "wd:id":"Q183307",
+        "wk:page":"Bad Lippspringe"
+    },
+    "wof:coterminous":[
+        1377691997
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"4e252355a7d539761b160a54b69b1cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063835,
+            "localadmin_id":1377691997,
+            "locality_id":101839501,
+            "macrocounty_id":404227571,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":101839501,
+    "wof:lastmodified":1690873740,
+    "wof:name":"Bad Lippspringe",
+    "wof:parent_id":1377691997,
+    "wof:placetype":"locality",
+    "wof:population":16237,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125361433,
+        1125342671
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.723939,
+    51.751807,
+    8.927508,
+    51.833072
+],
+  "geometry": {"coordinates":[[[[8.91827,51.812839],[8.918605,51.812817],[8.92076,51.812189],[8.921285,51.8114],[8.921786,51.810646],[8.921784,51.809872],[8.922348,51.808683],[8.923357,51.808048],[8.924279,51.807836],[8.925097,51.807853],[8.927508,51.807796],[8.926553,51.806291],[8.924374,51.805488],[8.923689,51.803905],[8.922506,51.803268],[8.921066,51.802943],[8.919024,51.802808],[8.916027,51.801721],[8.913615,51.802174],[8.912704,51.801347],[8.910069,51.798675],[8.908148,51.797758],[8.90587,51.797161],[8.901127,51.796921],[8.891558,51.799134],[8.889904,51.798998],[8.888679,51.798467],[8.888337,51.797719],[8.88826,51.79729],[8.888247,51.796347],[8.888228,51.795575],[8.888069,51.794859],[8.888144,51.794031],[8.888401,51.793292],[8.888798,51.792498],[8.88877,51.791983],[8.888855,51.79087],[8.889065,51.79013],[8.889003,51.789301],[8.889094,51.789034],[8.889413,51.788106],[8.889537,51.787222],[8.889377,51.786535],[8.888844,51.785956],[8.893411,51.783775],[8.895287,51.780786],[8.895719,51.78045],[8.899943,51.779131],[8.900183,51.7789],[8.90029,51.778334],[8.900742,51.777045],[8.901699,51.776203],[8.902422,51.775457],[8.90274,51.775083],[8.902883,51.774716],[8.90294,51.774321],[8.902869,51.77387],[8.902726,51.7734],[8.90284,51.773051],[8.903737,51.771866],[8.904614,51.772085],[8.905459,51.772393],[8.9062,51.772763],[8.906811,51.773123],[8.907405,51.773562],[8.908127,51.774067],[8.908685,51.774299],[8.909419,51.774444],[8.910431,51.774557],[8.911373,51.774587],[8.911987,51.774443],[8.912611,51.774019],[8.911839,51.771154],[8.909694,51.768662],[8.904709,51.767001],[8.901134,51.766525],[8.897809,51.76445],[8.892133,51.76407],[8.89072,51.763302],[8.885672,51.760557],[8.881748,51.758422],[8.88055,51.75812],[8.875217,51.756774],[8.874132,51.7565],[8.867491,51.757095],[8.863235,51.757665],[8.856785,51.755262],[8.848776,51.755236],[8.846235,51.755486],[8.842417,51.755458],[8.843176,51.752517],[8.836472,51.751807],[8.833986,51.7556],[8.829724,51.755083],[8.828829,51.755642],[8.827755,51.756055],[8.826451,51.756465],[8.82501,51.756845],[8.823572,51.757139],[8.82218,51.757433],[8.820889,51.757501],[8.819276,51.757535],[8.817985,51.757602],[8.816647,51.757669],[8.815543,51.757653],[8.815307,51.757622],[8.814352,51.757494],[8.813527,51.757396],[8.813685,51.759341],[8.80816,51.760605],[8.806105,51.761376],[8.804509,51.76221],[8.803266,51.763749],[8.800916,51.768444],[8.800161,51.769256],[8.798703,51.769073],[8.799438,51.769966],[8.790856,51.772956],[8.771616,51.769288],[8.773024,51.772346],[8.771537,51.771407],[8.759045,51.789751],[8.756514,51.790293],[8.754077,51.787362],[8.752894,51.792582],[8.741166,51.791701],[8.739614,51.800838],[8.741649,51.800994],[8.745586,51.801464],[8.741788,51.806053],[8.727655,51.813454],[8.724105,51.818783],[8.723939,51.820823],[8.740111,51.825096],[8.752471,51.825719],[8.753283,51.825758],[8.753789,51.825829],[8.754986,51.826026],[8.755677,51.826189],[8.756093,51.82633],[8.756692,51.826609],[8.757204,51.826896],[8.757873,51.827238],[8.758598,51.827654],[8.759319,51.828159],[8.759936,51.828735],[8.76072,51.829521],[8.761474,51.830297],[8.762578,51.831438],[8.763785,51.832544],[8.765406,51.833072],[8.765745,51.83179],[8.765758,51.824214],[8.768404,51.816478],[8.77344,51.811926],[8.775606,51.809942],[8.784113,51.802993],[8.787856,51.799934],[8.790252,51.797971],[8.795368,51.798161],[8.805672,51.798534],[8.816882,51.798748],[8.818313,51.799317],[8.822459,51.79826],[8.829117,51.799929],[8.831677,51.799362],[8.836274,51.799453],[8.838495,51.799457],[8.841896,51.799316],[8.844876,51.799187],[8.849607,51.799181],[8.861303,51.799199],[8.86578,51.799819],[8.873759,51.801539],[8.880516,51.802555],[8.891258,51.80373],[8.897769,51.805501],[8.902782,51.807571],[8.90561,51.809723],[8.907655,51.81055],[8.909317,51.811901],[8.91147,51.812605],[8.916335,51.812957],[8.91827,51.812839]]]],"type":"MultiPolygon"}
+}

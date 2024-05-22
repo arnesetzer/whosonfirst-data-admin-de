@@ -1,1 +1,143 @@
-{"id": 101910207, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.2e-05, "geom:area_square_m": 408601.34666, "geom:bbox": "10.407959,50.407338,10.416407,50.416343", "geom:latitude": 50.411529, "geom:longitude": 10.412605, "gn:population": 686, "iso:country": "DE", "lbl:latitude": 50.411364, "lbl:longitude": 10.412524, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 50.411364, "mps:longitude": 10.412524, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"], "name:ceb_x_preferred": ["Behrungen"], "name:che_x_preferred": ["\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"], "name:deu_x_preferred": ["Behrungen"], "name:eng_x_preferred": ["Behrungen"], "name:epo_x_preferred": ["Behrungen"], "name:fra_x_preferred": ["Behrungen"], "name:gle_x_preferred": ["Behrungen"], "name:jpn_x_preferred": ["\u30d9\u30fc\u30eb\u30f3\u30b2\u30f3"], "name:kaz_x_preferred": ["\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"], "name:kir_x_preferred": ["\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"], "name:nld_x_preferred": ["Behrungen"], "name:ron_x_preferred": ["Behrungen"], "name:rus_x_preferred": ["\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"], "name:tat_x_preferred": ["\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"], "name:uzb_x_preferred": ["Behrungen"], "name:vol_x_preferred": ["Behrungen"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Schmalkalden-Meiningen", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Behrungen", "qs:la_lc": "*DE16006603004", "qs:level": "locality", "qs:loc": "Behrungen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 39, "wof:belongsto": [85682541, 102191581, 1377690001, 85633111, 102063673], "wof:breaches": [], "wof:concordances": {"gn:id": 2951447, "gp:id": 637501, "qs_pg:id": 345938, "wd:id": "Q697550", "wk:page": "Behrungen"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "8d8efdff4a1877222c148a8fe67cca2d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063673, "localadmin_id": 1377690001, "locality_id": 101910207, "region_id": 85682541}], "wof:id": 101910207, "wof:lastmodified": 1690873956, "wof:name": "Behrungen", "wof:parent_id": 1377690001, "wof:placetype": "locality", "wof:population": 686, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.407959, 50.407338, 10.416407, 50.416343], "geometry": {"coordinates": [[[10.413625, 50.416338], [10.413609, 50.41454], [10.415016, 50.414535], [10.415, 50.412737], [10.416407, 50.412732], [10.416359, 50.407338], [10.41214, 50.407353], [10.412147, 50.408252], [10.410741, 50.408257], [10.410749, 50.409156], [10.409342, 50.409161], [10.409365, 50.411858], [10.407959, 50.411863], [10.407974, 50.413661], [10.409381, 50.413656], [10.409396, 50.415454], [10.41221, 50.415444], [10.412218, 50.416343], [10.413625, 50.416338]]], "type": "Polygon"}}
+{
+  "id": 101910207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":408601.34666,
+    "geom:bbox":"10.407959,50.407338,10.416407,50.416343",
+    "geom:latitude":50.411529,
+    "geom:longitude":10.412605,
+    "gn:population":686,
+    "iso:country":"DE",
+    "lbl:latitude":50.411364,
+    "lbl:longitude":10.412524,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":50.411364,
+    "mps:longitude":10.412524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Behrungen"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Behrungen"
+    ],
+    "name:eng_x_preferred":[
+        "Behrungen"
+    ],
+    "name:epo_x_preferred":[
+        "Behrungen"
+    ],
+    "name:fra_x_preferred":[
+        "Behrungen"
+    ],
+    "name:gle_x_preferred":[
+        "Behrungen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30fc\u30eb\u30f3\u30b2\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Behrungen"
+    ],
+    "name:ron_x_preferred":[
+        "Behrungen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0440\u0443\u043d\u0433\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Behrungen"
+    ],
+    "name:vol_x_preferred":[
+        "Behrungen"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Schmalkalden-Meiningen",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Behrungen",
+    "qs:la_lc":"*DE16006603004",
+    "qs:level":"locality",
+    "qs:loc":"Behrungen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377690001,
+        85633111,
+        102063673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2951447,
+        "gp:id":637501,
+        "qs_pg:id":345938,
+        "wd:id":"Q697550",
+        "wk:page":"Behrungen"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"8d8efdff4a1877222c148a8fe67cca2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063673,
+            "localadmin_id":1377690001,
+            "locality_id":101910207,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101910207,
+    "wof:lastmodified":1690873956,
+    "wof:name":"Behrungen",
+    "wof:parent_id":1377690001,
+    "wof:placetype":"locality",
+    "wof:population":686,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.407959,
+    50.407338,
+    10.416407,
+    50.416343
+],
+  "geometry": {"coordinates":[[[10.413625,50.416338],[10.413609,50.41454],[10.415016,50.414535],[10.415,50.412737],[10.416407,50.412732],[10.416359,50.407338],[10.41214,50.407353],[10.412147,50.408252],[10.410741,50.408257],[10.410749,50.409156],[10.409342,50.409161],[10.409365,50.411858],[10.407959,50.411863],[10.407974,50.413661],[10.409381,50.413656],[10.409396,50.415454],[10.41221,50.415444],[10.412218,50.416343],[10.413625,50.416338]]],"type":"Polygon"}
+}

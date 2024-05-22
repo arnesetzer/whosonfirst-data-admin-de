@@ -1,1 +1,155 @@
-{"id": 101909843, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.1e-05, "geom:area_square_m": 378509.06493, "geom:bbox": "11.49743,52.753484,11.509431,52.759829", "geom:latitude": 52.755958, "geom:longitude": 11.504371, "gn:population": 396, "iso:country": "DE", "lbl:latitude": 52.756236, "lbl:longitude": 11.504857, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.756236, "mps:longitude": 11.504857, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"], "name:cat_x_preferred": ["Packebusch"], "name:ceb_x_preferred": ["Packebusch"], "name:che_x_preferred": ["\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"], "name:deu_x_preferred": ["Packebusch"], "name:eng_x_preferred": ["Packebusch"], "name:epo_x_preferred": ["Packebusch"], "name:fas_x_preferred": ["\u067e\u0627\u06a9\u0628\u0648\u0634"], "name:fra_x_preferred": ["Packebusch"], "name:gle_x_preferred": ["Packebusch"], "name:hun_x_preferred": ["Packebusch"], "name:kaz_x_preferred": ["\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"], "name:kir_x_preferred": ["\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"], "name:nld_x_preferred": ["Packebusch"], "name:nob_x_preferred": ["Packebusch"], "name:ron_x_preferred": ["Packebusch"], "name:rus_x_preferred": ["\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"], "name:tat_x_preferred": ["\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"], "name:uzb_x_preferred": ["Packebusch"], "name:vie_x_preferred": ["Packebusch"], "name:vol_x_preferred": ["Packebusch"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Altmarkkreis Salzwedel", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Packebusch", "qs:la_lc": "*DE15008101400", "qs:level": "locality", "qs:loc": "Packebusch", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377688187, 85633111, 102063961], "wof:breaches": [], "wof:concordances": {"gn:id": 2855762, "gp:id": 684082, "qs_pg:id": 933732, "wd:id": "Q702936", "wk:page": "Packebusch"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "22f84f4b9b10a026f55f5d2139533744", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063961, "localadmin_id": 1377688187, "locality_id": 101909843, "region_id": 85682519}], "wof:id": 101909843, "wof:lastmodified": 1690871376, "wof:name": "Packebusch", "wof:parent_id": 1377688187, "wof:placetype": "locality", "wof:population": 396, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.49743, 52.753484, 11.509431, 52.759829], "geometry": {"coordinates": [[[11.506531, 52.75981], [11.5065, 52.758911], [11.507981, 52.758893], [11.50795, 52.757994], [11.509431, 52.757976], [11.509276, 52.753484], [11.49743, 52.753632], [11.497492, 52.755429], [11.498973, 52.755411], [11.499003, 52.756309], [11.501965, 52.756272], [11.502057, 52.758967], [11.505019, 52.75893], [11.50505, 52.759829], [11.506531, 52.75981]]], "type": "Polygon"}}
+{
+  "id": 101909843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":378509.06493,
+    "geom:bbox":"11.49743,52.753484,11.509431,52.759829",
+    "geom:latitude":52.755958,
+    "geom:longitude":11.504371,
+    "gn:population":396,
+    "iso:country":"DE",
+    "lbl:latitude":52.756236,
+    "lbl:longitude":11.504857,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.756236,
+    "mps:longitude":11.504857,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"
+    ],
+    "name:cat_x_preferred":[
+        "Packebusch"
+    ],
+    "name:ceb_x_preferred":[
+        "Packebusch"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"
+    ],
+    "name:deu_x_preferred":[
+        "Packebusch"
+    ],
+    "name:eng_x_preferred":[
+        "Packebusch"
+    ],
+    "name:epo_x_preferred":[
+        "Packebusch"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0628\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Packebusch"
+    ],
+    "name:gle_x_preferred":[
+        "Packebusch"
+    ],
+    "name:hun_x_preferred":[
+        "Packebusch"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Packebusch"
+    ],
+    "name:nob_x_preferred":[
+        "Packebusch"
+    ],
+    "name:ron_x_preferred":[
+        "Packebusch"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u043a\u043a\u0435\u0431\u0443\u0448"
+    ],
+    "name:uzb_x_preferred":[
+        "Packebusch"
+    ],
+    "name:vie_x_preferred":[
+        "Packebusch"
+    ],
+    "name:vol_x_preferred":[
+        "Packebusch"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Altmarkkreis Salzwedel",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Packebusch",
+    "qs:la_lc":"*DE15008101400",
+    "qs:level":"locality",
+    "qs:loc":"Packebusch",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688187,
+        85633111,
+        102063961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2855762,
+        "gp:id":684082,
+        "qs_pg:id":933732,
+        "wd:id":"Q702936",
+        "wk:page":"Packebusch"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"22f84f4b9b10a026f55f5d2139533744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063961,
+            "localadmin_id":1377688187,
+            "locality_id":101909843,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909843,
+    "wof:lastmodified":1690871376,
+    "wof:name":"Packebusch",
+    "wof:parent_id":1377688187,
+    "wof:placetype":"locality",
+    "wof:population":396,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.49743,
+    52.753484,
+    11.509431,
+    52.759829
+],
+  "geometry": {"coordinates":[[[11.506531,52.75981],[11.5065,52.758911],[11.507981,52.758893],[11.50795,52.757994],[11.509431,52.757976],[11.509276,52.753484],[11.49743,52.753632],[11.497492,52.755429],[11.498973,52.755411],[11.499003,52.756309],[11.501965,52.756272],[11.502057,52.758967],[11.505019,52.75893],[11.50505,52.759829],[11.506531,52.75981]]],"type":"Polygon"}
+}

@@ -1,1 +1,408 @@
-{"id": 101760721, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08215100", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Sch\u00f6nborn", "eurostat:nuts_2021_id": "08215100", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE12", "eurostat:nuts_2021_level_3": "DE123", "eurostat:nuts_2021_level_lau": "08215100", "eurostat:population": 12913, "eurostat:population_year": 2020, "geom:area": 0.002968, "geom:area_square_m": 23973193.640164, "geom:bbox": "8.574412,49.189938,8.691325,49.243492", "geom:latitude": 49.213437, "geom:longitude": 8.642754, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 12483, "iso:country": "DE", "lbl:latitude": 49.200862, "lbl:longitude": 8.647073, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 49.200862, "mps:longitude": 8.647073, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:afr_x_preferred": ["Bad Sch\u00f6nborn"], "name:als_x_preferred": ["Bad Sch\u00f6nborn"], "name:arg_x_preferred": ["Bad Sch\u00f6nborn"], "name:ast_x_preferred": ["Bad Sch\u00f6nborn"], "name:bar_x_preferred": ["Bad Sch\u00f6nborn"], "name:bre_x_preferred": ["Bad Sch\u00f6nborn"], "name:bul_x_preferred": ["\u0411\u0430\u0434 \u0428\u044c\u043e\u043d\u0431\u043e\u0440\u043d"], "name:cat_x_preferred": ["Bad Sch\u00f6nborn"], "name:ceb_x_preferred": ["Bad Sch\u00f6nborn"], "name:ces_x_preferred": ["Bad Sch\u00f6nborn"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0428\u043e\u044c\u043d\u0431\u043e\u0440\u043d"], "name:cos_x_preferred": ["Bad Sch\u00f6nborn"], "name:cym_x_preferred": ["Bad Sch\u00f6nborn"], "name:dan_x_preferred": ["Bad Sch\u00f6nborn"], "name:deu_x_preferred": ["Bad Sch\u00f6nborn"], "name:eng_x_preferred": ["Bad Sch\u00f6nborn"], "name:epo_x_preferred": ["Bad Sch\u00f6nborn"], "name:est_x_preferred": ["Bad Sch\u00f6nborn"], "name:eus_x_preferred": ["Bad Sch\u00f6nborn"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0634\u0648\u0646\u0628\u0648\u0631\u0646"], "name:fin_x_preferred": ["Bad Sch\u00f6nborn"], "name:fra_x_preferred": ["Bad Sch\u00f6nborn"], "name:frp_x_preferred": ["Bad Sch\u00f6nborn"], "name:fur_x_preferred": ["Bad Sch\u00f6nborn"], "name:gla_x_preferred": ["Bad Sch\u00f6nborn"], "name:gle_x_preferred": ["Bad Sch\u00f6nborn"], "name:glg_x_preferred": ["Bad Sch\u00f6nborn"], "name:gsw_x_preferred": ["Bad Sch\u00f6nborn"], "name:hrv_x_preferred": ["Bad Sch\u00f6nborn"], "name:hun_x_preferred": ["Bad Sch\u00f6nborn"], "name:hye_x_preferred": ["\u0532\u0561\u0564 \u0547\u0575\u0578\u0576\u0562\u0578\u057c\u0576"], "name:ido_x_preferred": ["Bad Sch\u00f6nborn"], "name:ile_x_preferred": ["Bad Sch\u00f6nborn"], "name:ina_x_preferred": ["Bad Sch\u00f6nborn"], "name:ind_x_preferred": ["Bad Sch\u00f6nborn"], "name:isl_x_preferred": ["Bad Sch\u00f6nborn"], "name:ita_x_preferred": ["Bad Sch\u00f6nborn"], "name:jpn_x_preferred": ["\u30df\u30f3\u30b4\u30eb\u30b9\u30cf\u30a4\u30e0"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0428\u0451\u043d\u0431\u043e\u0440\u043d"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0428\u0451\u043d\u0431\u043e\u0440\u043d"], "name:kon_x_preferred": ["Bad Sch\u00f6nborn"], "name:kur_x_preferred": ["Bad Sch\u00f6nborn"], "name:lat_x_preferred": ["Bad Sch\u00f6nborn"], "name:lij_x_preferred": ["Bad Sch\u00f6nborn"], "name:lim_x_preferred": ["Bad Sch\u00f6nborn"], "name:lld_x_preferred": ["Bad Sch\u00f6nborn"], "name:lmo_x_preferred": ["Bad Sch\u00f6nborn"], "name:ltz_x_preferred": ["Bad Sch\u00f6nborn"], "name:min_x_preferred": ["Bad Sch\u00f6nborn"], "name:mlg_x_preferred": ["Bad Sch\u00f6nborn"], "name:msa_x_preferred": ["Bad Sch\u00f6nborn"], "name:nan_x_preferred": ["Bad Sch\u00f6nborn"], "name:nap_x_preferred": ["Bad Sch\u00f6nborn"], "name:nds_x_preferred": ["Bad Sch\u00f6nborn"], "name:nld_x_preferred": ["Bad Sch\u00f6nborn"], "name:nno_x_preferred": ["Bad Sch\u00f6nborn"], "name:nob_x_preferred": ["Bad Sch\u00f6nborn"], "name:nrm_x_preferred": ["Bad Sch\u00f6nborn"], "name:oci_x_preferred": ["Bad Sch\u00f6nborn"], "name:pcd_x_preferred": ["Bad Sch\u00f6nborn"], "name:pms_x_preferred": ["Bad Sch\u00f6nborn"], "name:pol_x_preferred": ["Bad Sch\u00f6nborn"], "name:por_x_preferred": ["Bad Sch\u00f6nborn"], "name:roh_x_preferred": ["Bad Sch\u00f6nborn"], "name:ron_x_preferred": ["Bad Sch\u00f6nborn"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0428\u0451\u043d\u0431\u043e\u0440\u043d"], "name:scn_x_preferred": ["Bad Sch\u00f6nborn"], "name:sco_x_preferred": ["Bad Sch\u00f6nborn"], "name:slk_x_preferred": ["Bad Sch\u00f6nborn"], "name:slv_x_preferred": ["Bad Sch\u00f6nborn"], "name:spa_x_preferred": ["Bad Sch\u00f6nborn"], "name:srd_x_preferred": ["Bad Sch\u00f6nborn"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0428\u0435\u043d\u0431\u043e\u0440\u043d"], "name:swa_x_preferred": ["Bad Sch\u00f6nborn"], "name:swe_x_preferred": ["Bad Sch\u00f6nborn"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0428\u0451\u043d\u0431\u043e\u0440\u043d"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0428\u0435\u043d\u0431\u043e\u0440\u043d"], "name:uzb_x_preferred": ["Bad Sch\u00f6nborn"], "name:vec_x_preferred": ["Bad Sch\u00f6nborn"], "name:vie_x_preferred": ["Bad Sch\u00f6nborn"], "name:vls_x_preferred": ["Bad Sch\u00f6nborn"], "name:vol_x_preferred": ["Bad Sch\u00f6nborn"], "name:war_x_preferred": ["Bad Sch\u00f6nborn"], "name:wln_x_preferred": ["Bad Sch\u00f6nborn"], "name:wol_x_preferred": ["Bad Sch\u00f6nborn"], "name:zho_x_preferred": ["\u5df4\u5fb7\u7533\u535a\u5c14\u6069"], "name:zul_x_preferred": ["Bad Sch\u00f6nborn"], "nav:latitude": 49.200862, "nav:longitude": 8.647073, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Karlsruhe", "qs:a2r": "Karlsruhe", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Sch\u00f6nborn", "qs:la_lc": "*DE08201501100", "qs:level": "locality", "qs:loc": "Bad Sch\u00f6nborn", "qs:loc_alt": "Bad Schoenborn", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 2953349, "qs_pg:gn_pop": 12483, "qs_pg:name": "Gemeinde Bad Sch\u00f6nborn", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 4, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 3, "qs_pg:photos_all": 76, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1107288, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623889, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 237, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377688285, 404227555, 102063403], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08215100", "eurostat:nuts_2021_id": "08215100", "gn:id": 2953349, "gp:id": 636504, "loc:id": "n92036934", "qs_pg:id": 374509, "wd:id": "Q306405", "wk:page": "Bad Sch\u00f6nborn"}, "wof:concordances_alt": {"qs_pg:id": 1003453}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "10af53d0ce793c0f3b7060eb6149bc78", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063403, "localadmin_id": 1377688285, "locality_id": 101760721, "macrocounty_id": 404227555, "region_id": 85682567}], "wof:id": 101760721, "wof:lastmodified": 1690872838, "wof:name": "Bad Sch\u00f6nborn", "wof:parent_id": 1377688285, "wof:placetype": "locality", "wof:population": 12913, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125310693, 1125377035], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.574412, 49.189938, 8.691325, 49.243492], "geometry": {"coordinates": [[[[8.646954, 49.240357], [8.651497, 49.239675], [8.654231, 49.239238], [8.658766, 49.23749], [8.659265, 49.233364], [8.66177, 49.233464], [8.66253, 49.2326], [8.664224, 49.232399], [8.666032, 49.232836], [8.67007, 49.232874], [8.669399, 49.231361], [8.674055, 49.23141], [8.675136, 49.229727], [8.678361, 49.229455], [8.681779, 49.229169], [8.683812, 49.228437], [8.68672, 49.229303], [8.688562, 49.229269], [8.690767, 49.229449], [8.691325, 49.227268], [8.690802, 49.223043], [8.686546, 49.220059], [8.68721, 49.208256], [8.683194, 49.208425], [8.677632, 49.205149], [8.681833, 49.204102], [8.682749, 49.202868], [8.68393, 49.202529], [8.684792, 49.201248], [8.685087, 49.199719], [8.668666, 49.194287], [8.66204, 49.193783], [8.661663, 49.192166], [8.656679, 49.193273], [8.655947, 49.192475], [8.652757, 49.193237], [8.650344, 49.191955], [8.649161, 49.191549], [8.646855, 49.191426], [8.644308, 49.190226], [8.642423, 49.189938], [8.641509, 49.190466], [8.640769, 49.194278], [8.633137, 49.195241], [8.63136, 49.194106], [8.627784, 49.194908], [8.612308, 49.199202], [8.611076, 49.196652], [8.586508, 49.203686], [8.587423, 49.205187], [8.574412, 49.208446], [8.58305, 49.221218], [8.617062, 49.211761], [8.633218, 49.209161], [8.637596, 49.209263], [8.637949, 49.209916], [8.638513, 49.211125], [8.63907, 49.211744], [8.639804, 49.212308], [8.6401, 49.212923], [8.640341, 49.21346], [8.64055, 49.214073], [8.637753, 49.216885], [8.639228, 49.219249], [8.640185, 49.220794], [8.639178, 49.226941], [8.640631, 49.227307], [8.640576, 49.227973], [8.640529, 49.228448], [8.640654, 49.228983], [8.640749, 49.229537], [8.640816, 49.230052], [8.640654, 49.230469], [8.639442, 49.231744], [8.638534, 49.232662], [8.63808, 49.233131], [8.637537, 49.233617], [8.633165, 49.230878], [8.631438, 49.232658], [8.629899, 49.235209], [8.625974, 49.236281], [8.623888, 49.237493], [8.617957, 49.238051], [8.615032, 49.240116], [8.614404, 49.24105], [8.617146, 49.241582], [8.620637, 49.242351], [8.623581, 49.243256], [8.62643, 49.243492], [8.629287, 49.242636], [8.633354, 49.241417], [8.63417, 49.241173], [8.636892, 49.239617], [8.639931, 49.237631], [8.642288, 49.235356], [8.644469, 49.238763], [8.645904, 49.240015], [8.646954, 49.240357]]]], "type": "MultiPolygon"}}
+{
+  "id": 101760721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08215100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Sch\u00f6nborn",
+    "eurostat:nuts_2021_id":"08215100",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE12",
+    "eurostat:nuts_2021_level_3":"DE123",
+    "eurostat:nuts_2021_level_lau":"08215100",
+    "eurostat:population":12913,
+    "eurostat:population_year":2020,
+    "geom:area":0.002968,
+    "geom:area_square_m":23973193.640164,
+    "geom:bbox":"8.574412,49.189938,8.691325,49.243492",
+    "geom:latitude":49.213437,
+    "geom:longitude":8.642754,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":12483,
+    "iso:country":"DE",
+    "lbl:latitude":49.200862,
+    "lbl:longitude":8.647073,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":49.200862,
+    "mps:longitude":8.647073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:als_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0434 \u0428\u044c\u043e\u043d\u0431\u043e\u0440\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0428\u043e\u044c\u043d\u0431\u043e\u0440\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:est_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0634\u0648\u0646\u0628\u0648\u0631\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0564 \u0547\u0575\u0578\u0576\u0562\u0578\u057c\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30f3\u30b4\u30eb\u30b9\u30cf\u30a4\u30e0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0428\u0451\u043d\u0431\u043e\u0440\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0428\u0451\u043d\u0431\u043e\u0440\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:lat_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:lmo_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:min_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:nan_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:por_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0428\u0451\u043d\u0431\u043e\u0440\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0428\u0435\u043d\u0431\u043e\u0440\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0428\u0451\u043d\u0431\u043e\u0440\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0428\u0435\u043d\u0431\u043e\u0440\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:war_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5fb7\u7533\u535a\u5c14\u6069"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Sch\u00f6nborn"
+    ],
+    "nav:latitude":49.200862,
+    "nav:longitude":8.647073,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Karlsruhe",
+    "qs:a2r":"Karlsruhe",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Sch\u00f6nborn",
+    "qs:la_lc":"*DE08201501100",
+    "qs:level":"locality",
+    "qs:loc":"Bad Sch\u00f6nborn",
+    "qs:loc_alt":"Bad Schoenborn",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2953349,
+    "qs_pg:gn_pop":12483,
+    "qs_pg:name":"Gemeinde Bad Sch\u00f6nborn",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":76,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1107288,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623889,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":237,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377688285,
+        404227555,
+        102063403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08215100",
+        "eurostat:nuts_2021_id":"08215100",
+        "gn:id":2953349,
+        "gp:id":636504,
+        "loc:id":"n92036934",
+        "qs_pg:id":374509,
+        "wd:id":"Q306405",
+        "wk:page":"Bad Sch\u00f6nborn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1003453
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"10af53d0ce793c0f3b7060eb6149bc78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063403,
+            "localadmin_id":1377688285,
+            "locality_id":101760721,
+            "macrocounty_id":404227555,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101760721,
+    "wof:lastmodified":1690872838,
+    "wof:name":"Bad Sch\u00f6nborn",
+    "wof:parent_id":1377688285,
+    "wof:placetype":"locality",
+    "wof:population":12913,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125310693,
+        1125377035
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.574412,
+    49.189938,
+    8.691325,
+    49.243492
+],
+  "geometry": {"coordinates":[[[[8.646954,49.240357],[8.651497,49.239675],[8.654231,49.239238],[8.658766,49.23749],[8.659265,49.233364],[8.66177,49.233464],[8.66253,49.2326],[8.664224,49.232399],[8.666032,49.232836],[8.67007,49.232874],[8.669399,49.231361],[8.674055,49.23141],[8.675136,49.229727],[8.678361,49.229455],[8.681779,49.229169],[8.683812,49.228437],[8.68672,49.229303],[8.688562,49.229269],[8.690767,49.229449],[8.691325,49.227268],[8.690802,49.223043],[8.686546,49.220059],[8.68721,49.208256],[8.683194,49.208425],[8.677632,49.205149],[8.681833,49.204102],[8.682749,49.202868],[8.68393,49.202529],[8.684792,49.201248],[8.685087,49.199719],[8.668666,49.194287],[8.66204,49.193783],[8.661663,49.192166],[8.656679,49.193273],[8.655947,49.192475],[8.652757,49.193237],[8.650344,49.191955],[8.649161,49.191549],[8.646855,49.191426],[8.644308,49.190226],[8.642423,49.189938],[8.641509,49.190466],[8.640769,49.194278],[8.633137,49.195241],[8.63136,49.194106],[8.627784,49.194908],[8.612308,49.199202],[8.611076,49.196652],[8.586508,49.203686],[8.587423,49.205187],[8.574412,49.208446],[8.58305,49.221218],[8.617062,49.211761],[8.633218,49.209161],[8.637596,49.209263],[8.637949,49.209916],[8.638513,49.211125],[8.63907,49.211744],[8.639804,49.212308],[8.6401,49.212923],[8.640341,49.21346],[8.64055,49.214073],[8.637753,49.216885],[8.639228,49.219249],[8.640185,49.220794],[8.639178,49.226941],[8.640631,49.227307],[8.640576,49.227973],[8.640529,49.228448],[8.640654,49.228983],[8.640749,49.229537],[8.640816,49.230052],[8.640654,49.230469],[8.639442,49.231744],[8.638534,49.232662],[8.63808,49.233131],[8.637537,49.233617],[8.633165,49.230878],[8.631438,49.232658],[8.629899,49.235209],[8.625974,49.236281],[8.623888,49.237493],[8.617957,49.238051],[8.615032,49.240116],[8.614404,49.24105],[8.617146,49.241582],[8.620637,49.242351],[8.623581,49.243256],[8.62643,49.243492],[8.629287,49.242636],[8.633354,49.241417],[8.63417,49.241173],[8.636892,49.239617],[8.639931,49.237631],[8.642288,49.235356],[8.644469,49.238763],[8.645904,49.240015],[8.646954,49.240357]]]],"type":"MultiPolygon"}
+}

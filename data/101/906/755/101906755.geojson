@@ -1,1 +1,390 @@
-{"id": 101906755, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07332026", "eurostat:level_code": "lau", "eurostat:name_local": "Herxheim am Berg", "eurostat:nuts_2021_id": "07332026", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3C", "eurostat:nuts_2021_level_lau": "07332026", "eurostat:population": 704, "eurostat:population_year": 2020, "geom:area": 0.000533, "geom:area_square_m": 4281416.28096, "geom:bbox": "8.03762,49.46051,8.194489,49.516518", "geom:latitude": 49.496637, "geom:longitude": 8.143223, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 726, "iso:country": "DE", "lbl:latitude": 49.510391, "lbl:longitude": 8.180066, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 49.510391, "mps:longitude": 8.180066, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:afr_x_preferred": ["Herxheim am Berg"], "name:arg_x_preferred": ["Herxheim am Berg"], "name:ast_x_preferred": ["Herxheim am Berg"], "name:bar_x_preferred": ["Herxheim am Berg"], "name:bre_x_preferred": ["Herxheim am Berg"], "name:cat_x_preferred": ["Herxheim am Berg"], "name:ceb_x_preferred": ["Herxheim am Berg"], "name:ces_x_preferred": ["Herxheim am Berg"], "name:che_x_preferred": ["\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:cos_x_preferred": ["Herxheim am Berg"], "name:cym_x_preferred": ["Herxheim am Berg"], "name:dan_x_preferred": ["Herxheim am Berg"], "name:deu_x_preferred": ["Herxheim am Berg"], "name:eng_x_preferred": ["Herxheim"], "name:eng_x_variant": ["Herxheim am Berg"], "name:epo_x_preferred": ["Herxheim am Berg"], "name:est_x_preferred": ["Herxheim am Berg"], "name:eus_x_preferred": ["Herxheim am Berg"], "name:fas_x_preferred": ["\u0647\u0631\u06a9\u0633\u0647\u0627\u06cc\u0645 \u0627\u0645 \u0628\u0631\u06af"], "name:fin_x_preferred": ["Herxheim am Berg"], "name:fra_x_preferred": ["Herxheim am Berg"], "name:frp_x_preferred": ["Herxheim am Berg"], "name:fur_x_preferred": ["Herxheim am Berg"], "name:gla_x_preferred": ["Herxheim am Berg"], "name:gle_x_preferred": ["Herxheim am Berg"], "name:glg_x_preferred": ["Herxheim am Berg"], "name:gsw_x_preferred": ["Herxheim am Berg"], "name:hbs_x_preferred": ["Herxheim am Berg"], "name:hrv_x_preferred": ["Herxheim am Berg"], "name:hun_x_preferred": ["Herxheim am Berg"], "name:ido_x_preferred": ["Herxheim am Berg"], "name:ile_x_preferred": ["Herxheim am Berg"], "name:ina_x_preferred": ["Herxheim am Berg"], "name:ind_x_preferred": ["Herxheim am Berg"], "name:isl_x_preferred": ["Herxheim am Berg"], "name:ita_x_preferred": ["Herxheim am Berg"], "name:jpn_x_preferred": ["\u30cf\u30fc\u30af\u30b9\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30d9\u30eb\u30af"], "name:kaz_x_preferred": ["\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:kir_x_preferred": ["\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:kon_x_preferred": ["Herxheim am Berg"], "name:kur_x_preferred": ["Herxheim am Berg"], "name:lij_x_preferred": ["Herxheim am Berg"], "name:lim_x_preferred": ["Herxheim am Berg"], "name:lld_x_preferred": ["Herxheim am Berg"], "name:ltz_x_preferred": ["Herxheim am Berg"], "name:min_x_preferred": ["Herxheim am Berg"], "name:mlg_x_preferred": ["Herxheim am Berg"], "name:msa_x_preferred": ["Herxheim am Berg"], "name:nan_x_preferred": ["Herxheim am Berg"], "name:nap_x_preferred": ["Herxheim am Berg"], "name:nds_x_preferred": ["Herxheim am Berg"], "name:nld_x_preferred": ["Herxheim am Berg"], "name:nno_x_preferred": ["Herxheim am Berg"], "name:nob_x_preferred": ["Herxheim am Berg"], "name:nrm_x_preferred": ["Herxheim am Berg"], "name:oci_x_preferred": ["Herxheim am Berg"], "name:pcd_x_preferred": ["Herxheim am Berg"], "name:pdc_x_preferred": ["Herxm"], "name:pfl_x_preferred": ["Herxm"], "name:pms_x_preferred": ["Herxheim am Berg"], "name:pol_x_preferred": ["Herxheim am Berg"], "name:por_x_preferred": ["Herxheim am Berg"], "name:roh_x_preferred": ["Herxheim am Berg"], "name:ron_x_preferred": ["Herxheim am Berg"], "name:rus_x_preferred": ["\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:scn_x_preferred": ["Herxheim am Berg"], "name:sco_x_preferred": ["Herxheim am Berg"], "name:slk_x_preferred": ["Herxheim am Berg"], "name:slv_x_preferred": ["Herxheim am Berg"], "name:spa_x_preferred": ["Herxheim am Berg"], "name:srd_x_preferred": ["Herxheim am Berg"], "name:srp_x_preferred": ["\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0458\u043c \u0430\u043c \u0411\u0435\u0440\u0433"], "name:swa_x_preferred": ["Herxheim am Berg"], "name:swe_x_preferred": ["Herxheim am Berg"], "name:tat_x_preferred": ["\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:ukr_x_preferred": ["\u0413\u0435\u0440\u043a\u0441\u0433\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:uzb_x_preferred": ["Herxheim am Berg"], "name:vec_x_preferred": ["Herxheim am Berg"], "name:vie_x_preferred": ["Herxheim am Berg"], "name:vls_x_preferred": ["Herxheim am Berg"], "name:vol_x_preferred": ["Herxheim am Berg"], "name:war_x_preferred": ["Herxheim am Berg"], "name:wln_x_preferred": ["Herxheim am Berg"], "name:wol_x_preferred": ["Herxheim am Berg"], "name:zho_x_preferred": ["\u5c71\u9e93\u9ed1\u5c14\u514b\u65af\u6d77\u59c6"], "name:zho_x_variant": ["\u5c71\u4e0a\u9ed1\u5c14\u514b\u65af\u6d77\u59c6"], "name:zul_x_preferred": ["Herxheim am Berg"], "nav:latitude": 49.510391, "nav:longitude": 8.180066, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Bad D\u00fcrkheim", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Herxheim am Berg", "qs:la_lc": "*DE07033202026", "qs:level": "locality", "qs:loc": "Herxheim am Berg", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6554906, "qs_pg:gn_pop": 726, "qs_pg:name": "Herxheim am Berg", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 635666, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 449, "wof:belongsto": [85682491, 102191581, 1377686269, 85633111, 102063485], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07332026", "eurostat:nuts_2021_id": "07332026", "fct:id": "07441e8a-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2905527, "gp:id": 659536, "qs_pg:id": 1039590, "wd:id": "Q22527"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "7836538ab3a993c27127fb33c21029ff", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063485, "localadmin_id": 1377686269, "locality_id": 101906755, "region_id": 85682491}], "wof:id": 101906755, "wof:lang": ["ger"], "wof:lastmodified": 1690871668, "wof:name": "Herxheim am Berg", "wof:parent_id": 1377686269, "wof:placetype": "locality", "wof:population": 704, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125339775], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.03762, 49.46051, 8.194489, 49.516518], "geometry": {"coordinates": [[[[8.186656, 49.499899], [8.182431, 49.498696], [8.179858, 49.500462], [8.174774, 49.499862], [8.175355, 49.500702], [8.168743, 49.500818], [8.169635, 49.501808], [8.16575, 49.502394], [8.165067, 49.504225], [8.167936, 49.505481], [8.167336, 49.508151], [8.170439, 49.509421], [8.170121, 49.510567], [8.172994, 49.511742], [8.173578, 49.513662], [8.175291, 49.513967], [8.179844, 49.514696], [8.191231, 49.516518], [8.19302, 49.511802], [8.193305, 49.510476], [8.194489, 49.504551], [8.187647, 49.503421], [8.188074, 49.502592], [8.18582, 49.502042], [8.186656, 49.499899]]], [[[8.062936, 49.472633], [8.063923, 49.470611], [8.063256, 49.469589], [8.061402, 49.468847], [8.057547, 49.468061], [8.053573, 49.466112], [8.046812, 49.465182], [8.046936, 49.463843], [8.043771, 49.463883], [8.039746, 49.46051], [8.03762, 49.46427], [8.03966, 49.464684], [8.039902, 49.465882], [8.04173, 49.467172], [8.042481, 49.468915], [8.046105, 49.470621], [8.050164, 49.470346], [8.052178, 49.471401], [8.055968, 49.471862], [8.058443, 49.471494], [8.062936, 49.472633]]], [[[8.1256, 49.497722], [8.127601, 49.493867], [8.129971, 49.491766], [8.12302, 49.488163], [8.116575, 49.494418], [8.115804, 49.497138], [8.119586, 49.498054], [8.120871, 49.497488], [8.121977, 49.497493], [8.123075, 49.496517], [8.1256, 49.497722]]]], "type": "MultiPolygon"}}
+{
+  "id": 101906755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07332026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herxheim am Berg",
+    "eurostat:nuts_2021_id":"07332026",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3C",
+    "eurostat:nuts_2021_level_lau":"07332026",
+    "eurostat:population":704,
+    "eurostat:population_year":2020,
+    "geom:area":0.000533,
+    "geom:area_square_m":4281416.28096,
+    "geom:bbox":"8.03762,49.46051,8.194489,49.516518",
+    "geom:latitude":49.496637,
+    "geom:longitude":8.143223,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":726,
+    "iso:country":"DE",
+    "lbl:latitude":49.510391,
+    "lbl:longitude":8.180066,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":49.510391,
+    "mps:longitude":8.180066,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:arg_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ast_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:bar_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:bre_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:cat_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ceb_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ces_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:cos_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:cym_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:dan_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:deu_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:eng_x_preferred":[
+        "Herxheim"
+    ],
+    "name:eng_x_variant":[
+        "Herxheim am Berg"
+    ],
+    "name:epo_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:est_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:eus_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u06a9\u0633\u0647\u0627\u06cc\u0645 \u0627\u0645 \u0628\u0631\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:fra_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:frp_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:fur_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:gla_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:gle_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:glg_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:gsw_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:hbs_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:hrv_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:hun_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ido_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ile_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ina_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ind_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:isl_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ita_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30af\u30b9\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30d9\u30eb\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:kon_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:kur_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:lij_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:lim_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:lld_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ltz_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:min_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:mlg_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:msa_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:nan_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:nap_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:nds_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:nld_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:nno_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:nob_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:nrm_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:oci_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:pcd_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:pdc_x_preferred":[
+        "Herxm"
+    ],
+    "name:pfl_x_preferred":[
+        "Herxm"
+    ],
+    "name:pms_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:pol_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:por_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:roh_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:ron_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:scn_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:sco_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:slk_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:slv_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:spa_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:srd_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0458\u043c \u0430\u043c \u0411\u0435\u0440\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:swe_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0435\u0440\u043a\u0441\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u043a\u0441\u0433\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:vec_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:vie_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:vls_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:vol_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:war_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:wln_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:wol_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u9e93\u9ed1\u5c14\u514b\u65af\u6d77\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u5c71\u4e0a\u9ed1\u5c14\u514b\u65af\u6d77\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Herxheim am Berg"
+    ],
+    "nav:latitude":49.510391,
+    "nav:longitude":8.180066,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Bad D\u00fcrkheim",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Herxheim am Berg",
+    "qs:la_lc":"*DE07033202026",
+    "qs:level":"locality",
+    "qs:loc":"Herxheim am Berg",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6554906,
+    "qs_pg:gn_pop":726,
+    "qs_pg:name":"Herxheim am Berg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":635666,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":449,
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686269,
+        85633111,
+        102063485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07332026",
+        "eurostat:nuts_2021_id":"07332026",
+        "fct:id":"07441e8a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2905527,
+        "gp:id":659536,
+        "qs_pg:id":1039590,
+        "wd:id":"Q22527"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"7836538ab3a993c27127fb33c21029ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063485,
+            "localadmin_id":1377686269,
+            "locality_id":101906755,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101906755,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871668,
+    "wof:name":"Herxheim am Berg",
+    "wof:parent_id":1377686269,
+    "wof:placetype":"locality",
+    "wof:population":704,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125339775
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.03762,
+    49.46051,
+    8.194489,
+    49.516518
+],
+  "geometry": {"coordinates":[[[[8.186656,49.499899],[8.182431,49.498696],[8.179858,49.500462],[8.174774,49.499862],[8.175355,49.500702],[8.168743,49.500818],[8.169635,49.501808],[8.16575,49.502394],[8.165067,49.504225],[8.167936,49.505481],[8.167336,49.508151],[8.170439,49.509421],[8.170121,49.510567],[8.172994,49.511742],[8.173578,49.513662],[8.175291,49.513967],[8.179844,49.514696],[8.191231,49.516518],[8.19302,49.511802],[8.193305,49.510476],[8.194489,49.504551],[8.187647,49.503421],[8.188074,49.502592],[8.18582,49.502042],[8.186656,49.499899]]],[[[8.062936,49.472633],[8.063923,49.470611],[8.063256,49.469589],[8.061402,49.468847],[8.057547,49.468061],[8.053573,49.466112],[8.046812,49.465182],[8.046936,49.463843],[8.043771,49.463883],[8.039746,49.46051],[8.03762,49.46427],[8.03966,49.464684],[8.039902,49.465882],[8.04173,49.467172],[8.042481,49.468915],[8.046105,49.470621],[8.050164,49.470346],[8.052178,49.471401],[8.055968,49.471862],[8.058443,49.471494],[8.062936,49.472633]]],[[[8.1256,49.497722],[8.127601,49.493867],[8.129971,49.491766],[8.12302,49.488163],[8.116575,49.494418],[8.115804,49.497138],[8.119586,49.498054],[8.120871,49.497488],[8.121977,49.497493],[8.123075,49.496517],[8.1256,49.497722]]]],"type":"MultiPolygon"}
+}

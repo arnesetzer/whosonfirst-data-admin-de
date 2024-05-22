@@ -1,1 +1,246 @@
-{"id": 101807765, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_03459015", "eurostat:level_code": "lau", "eurostat:name_local": "Dissen am Teutoburger Wald, Stadt", "eurostat:nuts_2021_id": "03459015", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE9", "eurostat:nuts_2021_level_2": "DE94", "eurostat:nuts_2021_level_3": "DE94E", "eurostat:nuts_2021_level_lau": "03459015", "eurostat:population": 9998, "eurostat:population_year": 2020, "geom:area": 0.004181, "geom:area_square_m": 31739188.464092, "geom:bbox": "8.146388,52.07188,8.267227,52.152643", "geom:latitude": 52.121406, "geom:longitude": 8.206131, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 9291, "iso:country": "DE", "lbl:latitude": 52.113701, "lbl:longitude": 8.196686, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 52.113701, "mps:longitude": 8.196686, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:ara_x_preferred": ["\u062f\u064a\u0633\u0646"], "name:azb_x_preferred": ["\u062f\u06cc\u0633\u0646 \u0628\u0627\u06cc \u062c\u0646\u0642 \u062a\u0648\u062a\u0628\u0648\u0631\u06a9\u0631"], "name:dan_x_preferred": ["Dissen am Teutoburger Wald"], "name:deu_x_preferred": ["Dissen am Teutoburger Wald"], "name:eng_x_preferred": ["Dissen"], "name:eng_x_variant": ["Dissen am Teutoburger Wald"], "name:epo_x_preferred": ["Dissen am Teutoburger Wald"], "name:eus_x_preferred": ["Dissen am Teutoburger Wald"], "name:fas_x_preferred": ["\u062f\u06cc\u0633\u0646 \u0628\u0627\u06cc \u062c\u0646\u06af \u062a\u0648\u062a\u0628\u0648\u0631\u06a9\u0631"], "name:fra_x_preferred": ["Dissen am Teutoburger Wald"], "name:gle_x_preferred": ["Dissen am Teutoburger Wald"], "name:hun_x_preferred": ["Dissen am Teutoburger Wald"], "name:ita_x_preferred": ["Dissen am Teutoburger Wald"], "name:jpn_x_preferred": ["\u30c7\u30a3\u30c3\u30bb\u30f3\u30fb\u30a2\u30e0\u30fb\u30c8\u30a4\u30c8\u30d6\u30eb\u30ac\u30fc\u30fb\u30f4\u30a1\u30eb\u30c8"], "name:kaz_x_preferred": ["\u0414\u0438\u0441\u0441\u0435\u043d-\u0430\u043c-\u0422\u043e\u0439\u0442\u043e\u0431\u0443\u0440\u0433\u0435\u0440-\u0412\u0430\u043b\u044c\u0434"], "name:kir_x_preferred": ["\u0414\u0438\u0441\u0441\u0435\u043d-\u0430\u043c-\u0422\u043e\u0439\u0442\u043e\u0431\u0443\u0440\u0433\u0435\u0440-\u0412\u0430\u043b\u044c\u0434"], "name:kur_x_preferred": ["Dissen am Teutoburger Wald"], "name:lld_x_preferred": ["Dissen am Teutoburger Wald"], "name:msa_x_preferred": ["Dissen"], "name:nld_x_preferred": ["Dissen am Teutoburger Wald"], "name:pol_x_preferred": ["Dissen am Teutoburger Wald"], "name:por_x_preferred": ["Dissen am Teutoburger Wald"], "name:ron_x_preferred": ["Dissen am Teutoburger Wald"], "name:rus_x_preferred": ["\u0414\u0438\u0441\u0441\u0435\u043d-\u0430\u043c-\u0422\u043e\u0439\u0442\u043e\u0431\u0443\u0440\u0433\u0435\u0440-\u0412\u0430\u043b\u044c\u0434"], "name:spa_x_preferred": ["Dissen"], "name:srp_x_preferred": ["\u0414\u0438\u0441\u0435\u043d \u0430\u043c \u0422\u043e\u0458\u0442\u043e\u0431\u0443\u0440\u0433\u0435\u0440 \u0412\u0430\u043b\u0434"], "name:swe_x_preferred": ["Dissen am Teutoburger Wald"], "name:tur_x_preferred": ["Dissen am Teutoburger Wald"], "name:ukr_x_preferred": ["\u0414\u0456\u0441\u0441\u0435\u043d"], "name:und_x_variant": ["Stadt Dissen am Teutoburger Wald"], "name:uzb_x_preferred": ["Dissen am Teutoburger Wald"], "name:vie_x_preferred": ["Dissen"], "name:vol_x_preferred": ["Dissen am Teutoburger Wald"], "name:war_x_preferred": ["Dissen"], "name:zho_x_preferred": ["\u6761\u987f\u5821\u6797\u5c71\u9e93\u8fea\u68ee"], "nav:latitude": 52.113701, "nav:longitude": 8.196686, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "Osnabr\u00fcck", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Dissen am Teutoburger Wald", "qs:la_lc": "*DE03045900015", "qs:level": "locality", "qs:loc": "Dissen am Teutoburger Wald", "qs:loc_alt": "Dissen am Teutoburger Wald", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557479, "qs_pg:gn_pop": 9291, "qs_pg:name": "Dissen am Teutoburger Wald", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Niedersachsen", "qs_pg:photos": 2, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 2, "qs_pg:photos_all": 28, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1311465, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12630017, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Niedersachsen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682555, 102191581, 1377689029, 85633111, 102063947], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_03459015", "eurostat:nuts_2021_id": "03459015", "gn:id": 2936787, "gp:id": 644832, "qs_pg:id": 260465, "wd:id": "Q522086"}, "wof:concordances_alt": {"qs_pg:id": 637502}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "5b67315976d28dd562d7587d72418eb7", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063947, "localadmin_id": 1377689029, "locality_id": 101807765, "region_id": 85682555}], "wof:id": 101807765, "wof:lastmodified": 1690873483, "wof:name": "Dissen am Teutoburger Wald", "wof:parent_id": 1377689029, "wof:placetype": "locality", "wof:population": 9998, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125335821, 1125284567], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.146388, 52.07188, 8.267227, 52.152643], "geometry": {"coordinates": [[[[8.213301, 52.147027], [8.216356, 52.145925], [8.218242, 52.14596], [8.220345, 52.145999], [8.223705, 52.145786], [8.225587, 52.146382], [8.227505, 52.146176], [8.228963, 52.146608], [8.231066, 52.146648], [8.23273, 52.14755], [8.23444, 52.147562], [8.236066, 52.147257], [8.235934, 52.146075], [8.236099, 52.145757], [8.236871, 52.145128], [8.237786, 52.144722], [8.238733, 52.144218], [8.238941, 52.144141], [8.239626, 52.143893], [8.240461, 52.143584], [8.241677, 52.14296], [8.243155, 52.142358], [8.24323, 52.142323], [8.244166, 52.142017], [8.244921, 52.141842], [8.245596, 52.141512], [8.246632, 52.140912], [8.247912, 52.140225], [8.248468, 52.139641], [8.249556, 52.138924], [8.250828, 52.138354], [8.25158, 52.137936], [8.252458, 52.13762], [8.253628, 52.137163], [8.254913, 52.136997], [8.255766, 52.136965], [8.256443, 52.137191], [8.257072, 52.137156], [8.257906, 52.13672], [8.258194, 52.136392], [8.258823, 52.136189], [8.260032, 52.135997], [8.262042, 52.135249], [8.262447, 52.134876], [8.263209, 52.134343], [8.264363, 52.133698], [8.264537, 52.132312], [8.266732, 52.132281], [8.267227, 52.130257], [8.266422, 52.128784], [8.266348, 52.127028], [8.265005, 52.126094], [8.264776, 52.124515], [8.264706, 52.122687], [8.263211, 52.121579], [8.262539, 52.120378], [8.257535, 52.120762], [8.253999, 52.121028], [8.253394, 52.121422], [8.249882, 52.121212], [8.247223, 52.121755], [8.245896, 52.121397], [8.244528, 52.120094], [8.24321, 52.118395], [8.240986, 52.118146], [8.239885, 52.11736], [8.239195, 52.115358], [8.236128, 52.112385], [8.235005, 52.112336], [8.231406, 52.109505], [8.23033, 52.109395], [8.22959, 52.108688], [8.227072, 52.108784], [8.225226, 52.108587], [8.224464, 52.107448], [8.224867, 52.106411], [8.223048, 52.105684], [8.222508, 52.106834], [8.221359, 52.106146], [8.219963, 52.10396], [8.220733, 52.103183], [8.219371, 52.102086], [8.217018, 52.101231], [8.216118, 52.10053], [8.214101, 52.09996], [8.211376, 52.098081], [8.208914, 52.096774], [8.208087, 52.094356], [8.207024, 52.091402], [8.205496, 52.091264], [8.203495, 52.089831], [8.201446, 52.088172], [8.20134, 52.08709], [8.201305, 52.086054], [8.201063, 52.084772], [8.199417, 52.083822], [8.199626, 52.082593], [8.198205, 52.081801], [8.197825, 52.07922], [8.197122, 52.078108], [8.196165, 52.076551], [8.194622, 52.076104], [8.195098, 52.074056], [8.194199, 52.07356], [8.193945, 52.07342], [8.192495, 52.072619], [8.185503, 52.072556], [8.185375, 52.071905], [8.179988, 52.071882], [8.178966, 52.07188], [8.177861, 52.072623], [8.176439, 52.073595], [8.175224, 52.073364], [8.175335, 52.073762], [8.175446, 52.074128], [8.17549, 52.07428], [8.17572, 52.075074], [8.176161, 52.075983], [8.17682, 52.076682], [8.177347, 52.077264], [8.177636, 52.077955], [8.178024, 52.078534], [8.178603, 52.079002], [8.179416, 52.079418], [8.180415, 52.079838], [8.181236, 52.080111], [8.1822, 52.080301], [8.183387, 52.080667], [8.184478, 52.081088], [8.185601, 52.081796], [8.186214, 52.082522], [8.186865, 52.083392], [8.186897, 52.083658], [8.186963, 52.084193], [8.185496, 52.084765], [8.178524, 52.090487], [8.17911, 52.09187], [8.179772, 52.093421], [8.181212, 52.095078], [8.182664, 52.095107], [8.18322, 52.099608], [8.184716, 52.09971], [8.184409, 52.100585], [8.184762, 52.101135], [8.185409, 52.104332], [8.184443, 52.105047], [8.1832, 52.106505], [8.182297, 52.107852], [8.181316, 52.1098], [8.180283, 52.1126], [8.177246, 52.11254], [8.177544, 52.112996], [8.17757, 52.11306], [8.177621, 52.113196], [8.177658, 52.11334], [8.177679, 52.113494], [8.177686, 52.113638], [8.177665, 52.113773], [8.177643, 52.113907], [8.177578, 52.114041], [8.177484, 52.114156], [8.177347, 52.11427], [8.177195, 52.114384], [8.177104, 52.114446], [8.177012, 52.114822], [8.174047, 52.115916], [8.16332, 52.122366], [8.160929, 52.122635], [8.155584, 52.122573], [8.146388, 52.124627], [8.1479, 52.125562], [8.150717, 52.125509], [8.152546, 52.124899], [8.156432, 52.130024], [8.15873, 52.130704], [8.163093, 52.131996], [8.166799, 52.133317], [8.16534, 52.134196], [8.164475, 52.134716], [8.167225, 52.137371], [8.167894, 52.138005], [8.168082, 52.138995], [8.168239, 52.139821], [8.171447, 52.13974], [8.172977, 52.140975], [8.174873, 52.143278], [8.177239, 52.144829], [8.177412, 52.14567], [8.176531, 52.147767], [8.17762, 52.150074], [8.178852, 52.150803], [8.180399, 52.152643], [8.180686, 52.151867], [8.184984, 52.152421], [8.189976, 52.151231], [8.191759, 52.151582], [8.192702, 52.150581], [8.199175, 52.149037], [8.201703, 52.148433], [8.205334, 52.149232], [8.209169, 52.149198], [8.211245, 52.148347], [8.213301, 52.147027]]]], "type": "MultiPolygon"}}
+{
+  "id": 101807765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_03459015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dissen am Teutoburger Wald, Stadt",
+    "eurostat:nuts_2021_id":"03459015",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE9",
+    "eurostat:nuts_2021_level_2":"DE94",
+    "eurostat:nuts_2021_level_3":"DE94E",
+    "eurostat:nuts_2021_level_lau":"03459015",
+    "eurostat:population":9998,
+    "eurostat:population_year":2020,
+    "geom:area":0.004181,
+    "geom:area_square_m":31739188.464092,
+    "geom:bbox":"8.146388,52.07188,8.267227,52.152643",
+    "geom:latitude":52.121406,
+    "geom:longitude":8.206131,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":9291,
+    "iso:country":"DE",
+    "lbl:latitude":52.113701,
+    "lbl:longitude":8.196686,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":52.113701,
+    "mps:longitude":8.196686,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0633\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0633\u0646 \u0628\u0627\u06cc \u062c\u0646\u0642 \u062a\u0648\u062a\u0628\u0648\u0631\u06a9\u0631"
+    ],
+    "name:dan_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:deu_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:eng_x_preferred":[
+        "Dissen"
+    ],
+    "name:eng_x_variant":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:epo_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:eus_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0633\u0646 \u0628\u0627\u06cc \u062c\u0646\u06af \u062a\u0648\u062a\u0628\u0648\u0631\u06a9\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:gle_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:hun_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:ita_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30c3\u30bb\u30f3\u30fb\u30a2\u30e0\u30fb\u30c8\u30a4\u30c8\u30d6\u30eb\u30ac\u30fc\u30fb\u30f4\u30a1\u30eb\u30c8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0438\u0441\u0441\u0435\u043d-\u0430\u043c-\u0422\u043e\u0439\u0442\u043e\u0431\u0443\u0440\u0433\u0435\u0440-\u0412\u0430\u043b\u044c\u0434"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u0438\u0441\u0441\u0435\u043d-\u0430\u043c-\u0422\u043e\u0439\u0442\u043e\u0431\u0443\u0440\u0433\u0435\u0440-\u0412\u0430\u043b\u044c\u0434"
+    ],
+    "name:kur_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:lld_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:msa_x_preferred":[
+        "Dissen"
+    ],
+    "name:nld_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:pol_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:por_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:ron_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0441\u0441\u0435\u043d-\u0430\u043c-\u0422\u043e\u0439\u0442\u043e\u0431\u0443\u0440\u0433\u0435\u0440-\u0412\u0430\u043b\u044c\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Dissen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u0441\u0435\u043d \u0430\u043c \u0422\u043e\u0458\u0442\u043e\u0431\u0443\u0440\u0433\u0435\u0440 \u0412\u0430\u043b\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:tur_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u0441\u0441\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Stadt Dissen am Teutoburger Wald"
+    ],
+    "name:uzb_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:vie_x_preferred":[
+        "Dissen"
+    ],
+    "name:vol_x_preferred":[
+        "Dissen am Teutoburger Wald"
+    ],
+    "name:war_x_preferred":[
+        "Dissen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6761\u987f\u5821\u6797\u5c71\u9e93\u8fea\u68ee"
+    ],
+    "nav:latitude":52.113701,
+    "nav:longitude":8.196686,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Osnabr\u00fcck",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Dissen am Teutoburger Wald",
+    "qs:la_lc":"*DE03045900015",
+    "qs:level":"locality",
+    "qs:loc":"Dissen am Teutoburger Wald",
+    "qs:loc_alt":"Dissen am Teutoburger Wald",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557479,
+    "qs_pg:gn_pop":9291,
+    "qs_pg:name":"Dissen am Teutoburger Wald",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Niedersachsen",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1311465,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12630017,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Niedersachsen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377689029,
+        85633111,
+        102063947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_03459015",
+        "eurostat:nuts_2021_id":"03459015",
+        "gn:id":2936787,
+        "gp:id":644832,
+        "qs_pg:id":260465,
+        "wd:id":"Q522086"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":637502
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"5b67315976d28dd562d7587d72418eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063947,
+            "localadmin_id":1377689029,
+            "locality_id":101807765,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101807765,
+    "wof:lastmodified":1690873483,
+    "wof:name":"Dissen am Teutoburger Wald",
+    "wof:parent_id":1377689029,
+    "wof:placetype":"locality",
+    "wof:population":9998,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125335821,
+        1125284567
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.146388,
+    52.07188,
+    8.267227,
+    52.152643
+],
+  "geometry": {"coordinates":[[[[8.213301,52.147027],[8.216356,52.145925],[8.218242,52.14596],[8.220345,52.145999],[8.223705,52.145786],[8.225587,52.146382],[8.227505,52.146176],[8.228963,52.146608],[8.231066,52.146648],[8.23273,52.14755],[8.23444,52.147562],[8.236066,52.147257],[8.235934,52.146075],[8.236099,52.145757],[8.236871,52.145128],[8.237786,52.144722],[8.238733,52.144218],[8.238941,52.144141],[8.239626,52.143893],[8.240461,52.143584],[8.241677,52.14296],[8.243155,52.142358],[8.24323,52.142323],[8.244166,52.142017],[8.244921,52.141842],[8.245596,52.141512],[8.246632,52.140912],[8.247912,52.140225],[8.248468,52.139641],[8.249556,52.138924],[8.250828,52.138354],[8.25158,52.137936],[8.252458,52.13762],[8.253628,52.137163],[8.254913,52.136997],[8.255766,52.136965],[8.256443,52.137191],[8.257072,52.137156],[8.257906,52.13672],[8.258194,52.136392],[8.258823,52.136189],[8.260032,52.135997],[8.262042,52.135249],[8.262447,52.134876],[8.263209,52.134343],[8.264363,52.133698],[8.264537,52.132312],[8.266732,52.132281],[8.267227,52.130257],[8.266422,52.128784],[8.266348,52.127028],[8.265005,52.126094],[8.264776,52.124515],[8.264706,52.122687],[8.263211,52.121579],[8.262539,52.120378],[8.257535,52.120762],[8.253999,52.121028],[8.253394,52.121422],[8.249882,52.121212],[8.247223,52.121755],[8.245896,52.121397],[8.244528,52.120094],[8.24321,52.118395],[8.240986,52.118146],[8.239885,52.11736],[8.239195,52.115358],[8.236128,52.112385],[8.235005,52.112336],[8.231406,52.109505],[8.23033,52.109395],[8.22959,52.108688],[8.227072,52.108784],[8.225226,52.108587],[8.224464,52.107448],[8.224867,52.106411],[8.223048,52.105684],[8.222508,52.106834],[8.221359,52.106146],[8.219963,52.10396],[8.220733,52.103183],[8.219371,52.102086],[8.217018,52.101231],[8.216118,52.10053],[8.214101,52.09996],[8.211376,52.098081],[8.208914,52.096774],[8.208087,52.094356],[8.207024,52.091402],[8.205496,52.091264],[8.203495,52.089831],[8.201446,52.088172],[8.20134,52.08709],[8.201305,52.086054],[8.201063,52.084772],[8.199417,52.083822],[8.199626,52.082593],[8.198205,52.081801],[8.197825,52.07922],[8.197122,52.078108],[8.196165,52.076551],[8.194622,52.076104],[8.195098,52.074056],[8.194199,52.07356],[8.193945,52.07342],[8.192495,52.072619],[8.185503,52.072556],[8.185375,52.071905],[8.179988,52.071882],[8.178966,52.07188],[8.177861,52.072623],[8.176439,52.073595],[8.175224,52.073364],[8.175335,52.073762],[8.175446,52.074128],[8.17549,52.07428],[8.17572,52.075074],[8.176161,52.075983],[8.17682,52.076682],[8.177347,52.077264],[8.177636,52.077955],[8.178024,52.078534],[8.178603,52.079002],[8.179416,52.079418],[8.180415,52.079838],[8.181236,52.080111],[8.1822,52.080301],[8.183387,52.080667],[8.184478,52.081088],[8.185601,52.081796],[8.186214,52.082522],[8.186865,52.083392],[8.186897,52.083658],[8.186963,52.084193],[8.185496,52.084765],[8.178524,52.090487],[8.17911,52.09187],[8.179772,52.093421],[8.181212,52.095078],[8.182664,52.095107],[8.18322,52.099608],[8.184716,52.09971],[8.184409,52.100585],[8.184762,52.101135],[8.185409,52.104332],[8.184443,52.105047],[8.1832,52.106505],[8.182297,52.107852],[8.181316,52.1098],[8.180283,52.1126],[8.177246,52.11254],[8.177544,52.112996],[8.17757,52.11306],[8.177621,52.113196],[8.177658,52.11334],[8.177679,52.113494],[8.177686,52.113638],[8.177665,52.113773],[8.177643,52.113907],[8.177578,52.114041],[8.177484,52.114156],[8.177347,52.11427],[8.177195,52.114384],[8.177104,52.114446],[8.177012,52.114822],[8.174047,52.115916],[8.16332,52.122366],[8.160929,52.122635],[8.155584,52.122573],[8.146388,52.124627],[8.1479,52.125562],[8.150717,52.125509],[8.152546,52.124899],[8.156432,52.130024],[8.15873,52.130704],[8.163093,52.131996],[8.166799,52.133317],[8.16534,52.134196],[8.164475,52.134716],[8.167225,52.137371],[8.167894,52.138005],[8.168082,52.138995],[8.168239,52.139821],[8.171447,52.13974],[8.172977,52.140975],[8.174873,52.143278],[8.177239,52.144829],[8.177412,52.14567],[8.176531,52.147767],[8.17762,52.150074],[8.178852,52.150803],[8.180399,52.152643],[8.180686,52.151867],[8.184984,52.152421],[8.189976,52.151231],[8.191759,52.151582],[8.192702,52.150581],[8.199175,52.149037],[8.201703,52.148433],[8.205334,52.149232],[8.209169,52.149198],[8.211245,52.148347],[8.213301,52.147027]]]],"type":"MultiPolygon"}
+}

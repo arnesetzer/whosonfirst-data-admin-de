@@ -1,1 +1,90 @@
-{"id": 1377790895, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.40952,51.015,8.40952,51.015", "geom:latitude": 51.015, "geom:longitude": 8.40952, "gn:admin1_code": "7", "gn:admin2_code": "59.0", "gn:admin3_code": "5970.0", "gn:admin4_code": "5970004.0", "gn:asciiname": "Dotzlar", "gn:country_code": "DE", "gn:dem": 437, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2935411, "gn:latitude": 51.015, "gn:longitude": 8.40952, "gn:modification_date": "2015-09-05", "gn:name": "Dotzlar", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "8.40452,51.01,8.41452,51.02", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:deu_x_preferred": ["Dotzlar"], "name:fas_x_preferred": ["\u062f\u0648\u062a\u0633\u0644\u0627\u0631"], "name:nld_x_preferred": ["Dotzlar"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377692503, 404227579, 101810323, 102063725, 85682513], "wof:breaches": [], "wof:concordances": {"gn:id": 2935411}, "wof:country": "DE", "wof:geomhash": "c4a1c6cedc4ab2d7be30291b5f5752cc", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063725, "localadmin_id": 1377692503, "locality_id": 101810323, "macrocounty_id": 404227579, "neighbourhood_id": 1377790895, "region_id": 85682513}], "wof:id": 1377790895, "wof:lastmodified": 1566718392, "wof:name": "Dotzlar", "wof:parent_id": 101810323, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1276325165], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.40952, 51.015, 8.40952, 51.015], "geometry": {"coordinates": [8.40952, 51.015], "type": "Point"}}
+{
+  "id": 1377790895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.40952,51.015,8.40952,51.015",
+    "geom:latitude":51.015,
+    "geom:longitude":8.40952,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"59.0",
+    "gn:admin3_code":"5970.0",
+    "gn:admin4_code":"5970004.0",
+    "gn:asciiname":"Dotzlar",
+    "gn:country_code":"DE",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2935411,
+    "gn:latitude":51.015,
+    "gn:longitude":8.40952,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Dotzlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"8.40452,51.01,8.41452,51.02",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Dotzlar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062a\u0633\u0644\u0627\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Dotzlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377692503,
+        404227579,
+        101810323,
+        102063725,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2935411
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"c4a1c6cedc4ab2d7be30291b5f5752cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063725,
+            "localadmin_id":1377692503,
+            "locality_id":101810323,
+            "macrocounty_id":404227579,
+            "neighbourhood_id":1377790895,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1377790895,
+    "wof:lastmodified":1566718392,
+    "wof:name":"Dotzlar",
+    "wof:parent_id":101810323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276325165
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.40952,
+    51.015,
+    8.40952,
+    51.015
+],
+  "geometry": {"coordinates":[8.40952,51.015],"type":"Point"}
+}

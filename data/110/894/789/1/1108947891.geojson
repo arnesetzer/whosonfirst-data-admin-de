@@ -1,1 +1,73 @@
-{"id": 1108947891, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.68045144294,51.1393013187,6.68045144294,51.1393013187", "geom:latitude": 51.139301, "geom:longitude": 6.680451, "iso:country": "DE", "lbl:bbox": "6.67545144294,51.1343013187,6.68545144294,51.1443013187", "lbl:latitude": 51.139301, "lbl:longitude": 6.680451, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 15.0, "mz:tier_metro": 30, "name:zho_x_preferred": ["\u4e94\u82b1\u71fb\u8089"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377689765, 404227561, 101748665, 102063757, 85682513], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491366655, "wof:geomhash": "0d70c58da6e7b2bf061a6dfb056dfa21", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063757, "localadmin_id": 1377689765, "locality_id": 101748665, "macrocounty_id": 404227561, "neighbourhood_id": 1108947891, "region_id": 85682513}], "wof:id": 1108947891, "wof:lastmodified": 1566713026, "wof:name": "Speck", "wof:parent_id": 101748665, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.68045144294428, 51.13930131868405, 6.68045144294428, 51.13930131868405], "geometry": {"coordinates": [6.68045144294428, 51.13930131868405], "type": "Point"}}
+{
+  "id": 1108947891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68045144294,51.1393013187,6.68045144294,51.1393013187",
+    "geom:latitude":51.139301,
+    "geom:longitude":6.680451,
+    "iso:country":"DE",
+    "lbl:bbox":"6.67545144294,51.1343013187,6.68545144294,51.1443013187",
+    "lbl:latitude":51.139301,
+    "lbl:longitude":6.680451,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:zho_x_preferred":[
+        "\u4e94\u82b1\u71fb\u8089"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689765,
+        404227561,
+        101748665,
+        102063757,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491366655,
+    "wof:geomhash":"0d70c58da6e7b2bf061a6dfb056dfa21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063757,
+            "localadmin_id":1377689765,
+            "locality_id":101748665,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1108947891,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1108947891,
+    "wof:lastmodified":1566713026,
+    "wof:name":"Speck",
+    "wof:parent_id":101748665,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68045144294428,
+    51.13930131868405,
+    6.68045144294428,
+    51.13930131868405
+],
+  "geometry": {"coordinates":[6.68045144294428,51.13930131868405],"type":"Point"}
+}

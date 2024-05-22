@@ -1,1 +1,256 @@
-{"id": 101822291, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_15088025", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Lauchst\u00e4dt, Goethestadt", "eurostat:nuts_2021_id": "15088025", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEE", "eurostat:nuts_2021_level_2": "DEE0", "eurostat:nuts_2021_level_3": "DEE0B", "eurostat:nuts_2021_level_lau": "15088025", "eurostat:population": 8773, "eurostat:population_year": 2020, "geom:area": 0.011144, "geom:area_square_m": 86006094.495915, "geom:bbox": "11.713871,51.332046,11.919923,51.426066", "geom:latitude": 51.381218, "geom:longitude": 11.835743, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 9342, "iso:country": "DE", "lbl:latitude": 51.387372, "lbl:longitude": 11.86769, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 51.387372, "mps:longitude": 11.86769, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:ara_x_preferred": ["\u0628\u0627\u062f \u0644\u0627\u0648\u062e\u0634\u062a\u064a\u062a"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0644\u0648\u0627\u062e\u200c\u0627\u0634\u062a\u062a"], "name:bak_x_preferred": ["\u0411\u0430\u0434-\u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0434\u0442"], "name:cat_x_preferred": ["Bad Lauchst\u00e4dt"], "name:ceb_x_preferred": ["Bad Lauchst\u00e4dt"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u041b\u0430\u0443\u043a\u0441\u0442\u0435\u0434\u0442"], "name:dan_x_preferred": ["Bad Lauchst\u00e4dt"], "name:deu_x_preferred": ["Bad Lauchst\u00e4dt"], "name:eng_x_preferred": ["Bad Lauchst\u00e4dt"], "name:epo_x_preferred": ["Bad Lauchst\u00e4dt"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0644\u0648\u0627\u062e\u200c\u0627\u0634\u062a\u062a"], "name:fra_x_preferred": ["Bad Lauchst\u00e4dt"], "name:gle_x_preferred": ["Bad Lauchst\u00e4dt"], "name:hun_x_preferred": ["Bad Lauchst\u00e4dt"], "name:ita_x_preferred": ["Bad Lauchst\u00e4dt"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u041b\u0430\u0443\u043a\u0441\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u041b\u0430\u0443\u043a\u0441\u0442\u0435\u0434\u0442"], "name:kur_x_preferred": ["Bad Lauchst\u00e4dt"], "name:lld_x_preferred": ["Bad Lauchst\u00e4dt"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0442"], "name:msa_x_preferred": ["Bad Lauchst\u00e4dt"], "name:nld_x_preferred": ["Bad Lauchst\u00e4dt"], "name:nob_x_preferred": ["Bad Lauchst\u00e4dt"], "name:pol_x_preferred": ["Bad Lauchst\u00e4dt"], "name:por_x_preferred": ["Bad Lauchst\u00e4dt"], "name:ron_x_preferred": ["Bad Lauchst\u00e4dt"], "name:rup_x_preferred": ["Bad Lauchst\u00e4dt"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0434\u0442"], "name:spa_x_preferred": ["Bad Lauchst\u00e4dt"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0442"], "name:swe_x_preferred": ["Bad Lauchst\u00e4dt"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u041b\u0430\u0443\u043a\u0441\u0442\u0435\u0434\u0442"], "name:tum_x_preferred": ["Bad Lauchst\u00e4dt"], "name:tur_x_preferred": ["Bad Lauchst\u00e4dt"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0434\u0442"], "name:und_x_variant": ["Lauchstaedt"], "name:uzb_x_preferred": ["Bad Lauchst\u00e4dt"], "name:vie_x_preferred": ["Bad Lauchst\u00e4dt"], "name:vol_x_preferred": ["Bad Lauchst\u00e4dt"], "name:war_x_preferred": ["Bad Lauchst\u00e4dt"], "name:zho_x_preferred": ["\u5df4\u7279\u52b3\u8d6b\u65bd\u6cf0\u7279"], "name:zho_x_variant": ["\u5df4\u5fb7\u52b3\u8d6b\u65af\u7279"], "nav:latitude": 51.387372, "nav:longitude": 11.86769, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Saalekreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Bad Lauchst\u00e4dt", "qs:la_lc": "*DE15008802025", "qs:level": "locality", "qs:loc": "Bad Lauchst\u00e4dt", "qs:loc_alt": "Bad Lauchstaedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6550905, "qs_pg:gn_pop": 9342, "qs_pg:name": "Bad Lauchst\u00e4dt, Stadt", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 5, "qs_pg:qs_id": 632430, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 179, "wof:belongsto": [85682519, 102191581, 1377688825, 85633111, 102063817], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_15088025", "eurostat:nuts_2021_id": "15088025", "gn:id": 2953412, "gp:id": 636455, "qs_pg:id": 905489, "wd:id": "Q523975", "wk:page": "Bad Lauchst\u00e4dt"}, "wof:coterminous": [1377688825], "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "e38d185899e9829fa75e65a6322894e0", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063817, "localadmin_id": 1377688825, "locality_id": 101822291, "region_id": 85682519}], "wof:id": 101822291, "wof:lastmodified": 1690873467, "wof:name": "Bad Lauchst\u00e4dt", "wof:parent_id": 1377688825, "wof:placetype": "locality", "wof:population": 8773, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125350765], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.713871, 51.332046, 11.919923, 51.426066], "geometry": {"coordinates": [[[[11.904765, 51.397565], [11.907192, 51.395565], [11.910386, 51.392287], [11.912682, 51.389308], [11.914905, 51.385826], [11.904045, 51.381997], [11.905912, 51.377665], [11.906085, 51.377204], [11.906297, 51.376625], [11.906769, 51.375594], [11.909334, 51.375779], [11.909253, 51.375033], [11.909191, 51.373936], [11.909804, 51.373767], [11.910462, 51.373651], [11.911093, 51.373598], [11.911179, 51.373588], [11.911983, 51.373578], [11.914314, 51.373622], [11.914965, 51.370483], [11.916368, 51.366561], [11.918186, 51.361185], [11.919923, 51.355504], [11.912701, 51.354349], [11.913398, 51.352204], [11.911252, 51.352027], [11.909234, 51.351808], [11.907538, 51.351503], [11.905642, 51.351038], [11.90139, 51.34958], [11.901977, 51.347872], [11.899159, 51.346931], [11.899617, 51.344211], [11.8966, 51.343285], [11.893334, 51.343134], [11.880104, 51.340825], [11.879936, 51.341925], [11.873732, 51.341512], [11.873865, 51.340214], [11.873549, 51.339246], [11.870322, 51.339428], [11.870311, 51.337115], [11.865385, 51.336687], [11.864288, 51.33652], [11.864538, 51.334294], [11.857888, 51.333337], [11.847249, 51.332046], [11.844415, 51.332412], [11.834817, 51.334789], [11.832281, 51.334998], [11.831676, 51.333961], [11.82205, 51.335401], [11.818463, 51.33555], [11.819808, 51.339359], [11.821432, 51.341905], [11.821077, 51.343538], [11.821321, 51.346055], [11.820423, 51.348674], [11.819424, 51.352537], [11.817612, 51.357533], [11.81829, 51.361125], [11.815515, 51.365601], [11.811255, 51.36492], [11.804156, 51.364495], [11.795088, 51.365081], [11.791282, 51.365195], [11.781836, 51.365119], [11.779536, 51.365108], [11.777564, 51.365021], [11.775086, 51.364787], [11.765164, 51.364148], [11.760936, 51.364076], [11.761029, 51.365353], [11.759056, 51.365212], [11.758961, 51.365951], [11.756808, 51.365542], [11.751324, 51.370559], [11.748707, 51.369471], [11.746218, 51.371513], [11.727358, 51.367248], [11.723687, 51.37139], [11.720505, 51.377721], [11.717821, 51.382212], [11.715285, 51.38528], [11.713871, 51.390028], [11.741385, 51.39594], [11.752875, 51.39742], [11.754433, 51.395468], [11.760106, 51.39673], [11.763003, 51.397491], [11.771246, 51.399067], [11.781782, 51.401373], [11.779288, 51.404792], [11.782702, 51.405979], [11.784374, 51.406078], [11.786111, 51.408533], [11.796208, 51.408422], [11.796901, 51.409512], [11.797926, 51.410158], [11.799166, 51.410225], [11.800344, 51.410185], [11.800572, 51.411109], [11.808038, 51.411063], [11.808583, 51.413018], [11.811547, 51.412994], [11.811341, 51.4179], [11.811363, 51.41864], [11.832637, 51.421766], [11.83499, 51.42408], [11.838982, 51.425784], [11.841557, 51.426066], [11.841906, 51.425258], [11.844411, 51.420325], [11.847301, 51.420742], [11.847987, 51.419106], [11.849407, 51.419422], [11.85198, 51.419825], [11.851682, 51.420935], [11.853415, 51.421149], [11.854406, 51.418132], [11.860944, 51.420225], [11.8659, 51.420411], [11.871267, 51.42231], [11.872255, 51.422604], [11.873121, 51.422711], [11.874029, 51.422737], [11.875019, 51.422653], [11.878824, 51.422347], [11.87973, 51.422301], [11.880537, 51.422354], [11.881591, 51.422459], [11.882455, 51.422485], [11.883302, 51.422385], [11.884117, 51.422222], [11.884863, 51.422151], [11.88564, 51.422141], [11.886592, 51.42222], [11.893421, 51.422913], [11.893687, 51.422199], [11.898224, 51.422775], [11.899136, 51.421064], [11.900665, 51.421187], [11.903641, 51.421055], [11.903087, 51.419406], [11.903666, 51.419039], [11.907013, 51.421195], [11.908221, 51.420694], [11.909372, 51.420222], [11.906585, 51.417097], [11.907872, 51.415893], [11.908196, 51.415179], [11.908302, 51.414404], [11.908233, 51.413568], [11.906634, 51.406469], [11.904765, 51.397565]]]], "type": "MultiPolygon"}}
+{
+  "id": 101822291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_15088025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Lauchst\u00e4dt, Goethestadt",
+    "eurostat:nuts_2021_id":"15088025",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEE",
+    "eurostat:nuts_2021_level_2":"DEE0",
+    "eurostat:nuts_2021_level_3":"DEE0B",
+    "eurostat:nuts_2021_level_lau":"15088025",
+    "eurostat:population":8773,
+    "eurostat:population_year":2020,
+    "geom:area":0.011144,
+    "geom:area_square_m":86006094.495915,
+    "geom:bbox":"11.713871,51.332046,11.919923,51.426066",
+    "geom:latitude":51.381218,
+    "geom:longitude":11.835743,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":9342,
+    "iso:country":"DE",
+    "lbl:latitude":51.387372,
+    "lbl:longitude":11.86769,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":51.387372,
+    "mps:longitude":11.86769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0644\u0627\u0648\u062e\u0634\u062a\u064a\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0644\u0648\u0627\u062e\u200c\u0627\u0634\u062a\u062a"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0430\u0443\u043a\u0441\u0442\u0435\u0434\u0442"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0644\u0648\u0627\u062e\u200c\u0627\u0634\u062a\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0430\u0443\u043a\u0441\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0430\u0443\u043a\u0441\u0442\u0435\u0434\u0442"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:por_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:rup_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0430\u0443\u043a\u0441\u0442\u0435\u0434\u0442"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0430\u0443\u0445\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:und_x_variant":[
+        "Lauchstaedt"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:war_x_preferred":[
+        "Bad Lauchst\u00e4dt"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u52b3\u8d6b\u65bd\u6cf0\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u52b3\u8d6b\u65af\u7279"
+    ],
+    "nav:latitude":51.387372,
+    "nav:longitude":11.86769,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Saalekreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Bad Lauchst\u00e4dt",
+    "qs:la_lc":"*DE15008802025",
+    "qs:level":"locality",
+    "qs:loc":"Bad Lauchst\u00e4dt",
+    "qs:loc_alt":"Bad Lauchstaedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6550905,
+    "qs_pg:gn_pop":9342,
+    "qs_pg:name":"Bad Lauchst\u00e4dt, Stadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":632430,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688825,
+        85633111,
+        102063817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_15088025",
+        "eurostat:nuts_2021_id":"15088025",
+        "gn:id":2953412,
+        "gp:id":636455,
+        "qs_pg:id":905489,
+        "wd:id":"Q523975",
+        "wk:page":"Bad Lauchst\u00e4dt"
+    },
+    "wof:coterminous":[
+        1377688825
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"e38d185899e9829fa75e65a6322894e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063817,
+            "localadmin_id":1377688825,
+            "locality_id":101822291,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101822291,
+    "wof:lastmodified":1690873467,
+    "wof:name":"Bad Lauchst\u00e4dt",
+    "wof:parent_id":1377688825,
+    "wof:placetype":"locality",
+    "wof:population":8773,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125350765
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.713871,
+    51.332046,
+    11.919923,
+    51.426066
+],
+  "geometry": {"coordinates":[[[[11.904765,51.397565],[11.907192,51.395565],[11.910386,51.392287],[11.912682,51.389308],[11.914905,51.385826],[11.904045,51.381997],[11.905912,51.377665],[11.906085,51.377204],[11.906297,51.376625],[11.906769,51.375594],[11.909334,51.375779],[11.909253,51.375033],[11.909191,51.373936],[11.909804,51.373767],[11.910462,51.373651],[11.911093,51.373598],[11.911179,51.373588],[11.911983,51.373578],[11.914314,51.373622],[11.914965,51.370483],[11.916368,51.366561],[11.918186,51.361185],[11.919923,51.355504],[11.912701,51.354349],[11.913398,51.352204],[11.911252,51.352027],[11.909234,51.351808],[11.907538,51.351503],[11.905642,51.351038],[11.90139,51.34958],[11.901977,51.347872],[11.899159,51.346931],[11.899617,51.344211],[11.8966,51.343285],[11.893334,51.343134],[11.880104,51.340825],[11.879936,51.341925],[11.873732,51.341512],[11.873865,51.340214],[11.873549,51.339246],[11.870322,51.339428],[11.870311,51.337115],[11.865385,51.336687],[11.864288,51.33652],[11.864538,51.334294],[11.857888,51.333337],[11.847249,51.332046],[11.844415,51.332412],[11.834817,51.334789],[11.832281,51.334998],[11.831676,51.333961],[11.82205,51.335401],[11.818463,51.33555],[11.819808,51.339359],[11.821432,51.341905],[11.821077,51.343538],[11.821321,51.346055],[11.820423,51.348674],[11.819424,51.352537],[11.817612,51.357533],[11.81829,51.361125],[11.815515,51.365601],[11.811255,51.36492],[11.804156,51.364495],[11.795088,51.365081],[11.791282,51.365195],[11.781836,51.365119],[11.779536,51.365108],[11.777564,51.365021],[11.775086,51.364787],[11.765164,51.364148],[11.760936,51.364076],[11.761029,51.365353],[11.759056,51.365212],[11.758961,51.365951],[11.756808,51.365542],[11.751324,51.370559],[11.748707,51.369471],[11.746218,51.371513],[11.727358,51.367248],[11.723687,51.37139],[11.720505,51.377721],[11.717821,51.382212],[11.715285,51.38528],[11.713871,51.390028],[11.741385,51.39594],[11.752875,51.39742],[11.754433,51.395468],[11.760106,51.39673],[11.763003,51.397491],[11.771246,51.399067],[11.781782,51.401373],[11.779288,51.404792],[11.782702,51.405979],[11.784374,51.406078],[11.786111,51.408533],[11.796208,51.408422],[11.796901,51.409512],[11.797926,51.410158],[11.799166,51.410225],[11.800344,51.410185],[11.800572,51.411109],[11.808038,51.411063],[11.808583,51.413018],[11.811547,51.412994],[11.811341,51.4179],[11.811363,51.41864],[11.832637,51.421766],[11.83499,51.42408],[11.838982,51.425784],[11.841557,51.426066],[11.841906,51.425258],[11.844411,51.420325],[11.847301,51.420742],[11.847987,51.419106],[11.849407,51.419422],[11.85198,51.419825],[11.851682,51.420935],[11.853415,51.421149],[11.854406,51.418132],[11.860944,51.420225],[11.8659,51.420411],[11.871267,51.42231],[11.872255,51.422604],[11.873121,51.422711],[11.874029,51.422737],[11.875019,51.422653],[11.878824,51.422347],[11.87973,51.422301],[11.880537,51.422354],[11.881591,51.422459],[11.882455,51.422485],[11.883302,51.422385],[11.884117,51.422222],[11.884863,51.422151],[11.88564,51.422141],[11.886592,51.42222],[11.893421,51.422913],[11.893687,51.422199],[11.898224,51.422775],[11.899136,51.421064],[11.900665,51.421187],[11.903641,51.421055],[11.903087,51.419406],[11.903666,51.419039],[11.907013,51.421195],[11.908221,51.420694],[11.909372,51.420222],[11.906585,51.417097],[11.907872,51.415893],[11.908196,51.415179],[11.908302,51.414404],[11.908233,51.413568],[11.906634,51.406469],[11.904765,51.397565]]]],"type":"MultiPolygon"}
+}

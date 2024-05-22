@@ -1,1 +1,372 @@
-{"id": 101908573, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_13072041", "eurostat:level_code": "lau", "eurostat:name_local": "Gro\u00df W\u00fcstenfelde", "eurostat:nuts_2021_id": "13072041", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE8", "eurostat:nuts_2021_level_2": "DE80", "eurostat:nuts_2021_level_3": "DE80K", "eurostat:nuts_2021_level_lau": "13072041", "eurostat:population": 794, "eurostat:population_year": 2020, "geom:area": 0.00363, "geom:area_square_m": 26466815.510736, "geom:bbox": "12.489639,53.836244,12.593007,53.913867", "geom:latitude": 53.871713, "geom:longitude": 12.546075, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 944, "iso:country": "DE", "lbl:latitude": 53.874787, "lbl:longitude": 12.560572, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 53.874787, "mps:longitude": 12.560572, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:arg_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ast_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:bar_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:bre_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:cat_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ceb_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ces_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:che_x_preferred": ["\u0413\u0440\u043e\u0441-\u0412\u0443\u044c\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"], "name:cos_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:cym_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:dan_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:deu_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:eng_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:epo_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:est_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:eus_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:fas_x_preferred": ["\u06af\u0631\u0648\u0633 \u0648\u0648\u0634\u062a\u0646\u0641\u0644\u062f\u0647"], "name:fin_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:fra_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:frp_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:fur_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:gla_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:gle_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:glg_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:gsw_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:hrv_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:hun_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ido_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ile_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ina_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ind_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:isl_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ita_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:kaz_x_preferred": ["\u0413\u0440\u043e\u0441-\u0412\u044e\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"], "name:kir_x_preferred": ["\u0413\u0440\u043e\u0441-\u0412\u04af\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"], "name:kon_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:kur_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:lij_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:lim_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:lld_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ltz_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:min_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:mkd_x_preferred": ["\u0413\u0440\u043e\u0441 \u0412\u0438\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u0434\u0435"], "name:mlg_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:msa_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:nap_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:nds_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:nld_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:nno_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:nob_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:nrm_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:oci_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:pcd_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:pms_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:pol_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:por_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:roh_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:ron_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:rus_x_preferred": ["\u0413\u0440\u043e\u0441-\u0412\u044e\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"], "name:scn_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:sco_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:slk_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:slv_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:spa_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:srd_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:srp_x_preferred": ["\u0413\u0440\u043e\u0441 \u0412\u0438\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u0434\u0435"], "name:swa_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:swe_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:tat_x_preferred": ["\u0413\u0440\u043e\u0441-\u0412\u044e\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"], "name:ukr_x_preferred": ["\u0413\u0440\u043e\u0441-\u0412\u044e\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"], "name:uzb_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:vec_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:vie_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:vls_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:vol_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:war_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:wln_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:wol_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "name:zho_x_preferred": ["\u5927\u7ef4\u65af\u6ed5\u8d39\u5c14\u5fb7"], "name:zul_x_preferred": ["Gro\u00df W\u00fcstenfelde"], "nav:latitude": 53.874787, "nav:longitude": 12.560572, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "G\u00fcstrow", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Gro\u00df W\u00fcstenfelde", "qs:la_lc": "*DE13005320029", "qs:level": "locality", "qs:loc": "Gro\u00df W\u00fcstenfelde", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6547882, "qs_pg:gn_pop": 944, "qs_pg:name": "Gro\u00df W\u00fcstenfelde", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 630560, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 34, "wof:belongsto": [85682487, 102191581, 1377684695, 85633111, 1377675573], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_13072041", "eurostat:nuts_2021_id": "13072041", "gn:id": 2805522, "gp:id": 708333, "qs_pg:id": 380151, "wd:id": "Q643668", "wk:page": "Gro\u00df W\u00fcstenfelde"}, "wof:concordances_alt": {"qs_pg:id": 578855}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "b5583951d998fc5743a0a3e6e2b072ba", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675573, "localadmin_id": 1377684695, "locality_id": 101908573, "region_id": 85682487}], "wof:id": 101908573, "wof:lastmodified": 1690871841, "wof:name": "Gro\u00df W\u00fcstenfelde", "wof:parent_id": 1377684695, "wof:placetype": "locality", "wof:population": 794, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125322719], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.489639, 53.836244, 12.593007, 53.913867], "geometry": {"coordinates": [[[[12.571696, 53.897953], [12.568837, 53.896273], [12.566771, 53.895067], [12.565572, 53.893847], [12.565262, 53.892764], [12.564062, 53.891526], [12.563548, 53.890737], [12.563477, 53.890096], [12.563574, 53.889596], [12.563525, 53.88855], [12.560839, 53.887095], [12.558877, 53.886454], [12.561391, 53.886233], [12.562628, 53.886329], [12.564195, 53.885683], [12.566471, 53.884926], [12.567101, 53.884736], [12.567956, 53.884488], [12.569553, 53.883527], [12.572231, 53.883563], [12.570813, 53.879974], [12.573575, 53.879533], [12.574915, 53.881155], [12.579195, 53.881161], [12.579538, 53.881584], [12.582305, 53.881893], [12.587044, 53.881799], [12.589224, 53.882354], [12.590523, 53.882152], [12.589925, 53.880796], [12.589844, 53.879117], [12.593007, 53.878776], [12.592627, 53.875008], [12.588401, 53.874729], [12.587916, 53.873802], [12.586623, 53.87253], [12.584385, 53.871534], [12.583437, 53.871101], [12.582426, 53.870632], [12.580806, 53.869833], [12.579422, 53.870449], [12.578797, 53.870109], [12.577958, 53.869413], [12.576456, 53.868521], [12.575614, 53.86778], [12.575068, 53.86716], [12.574761, 53.866779], [12.575168, 53.86511], [12.575091, 53.863512], [12.578191, 53.863478], [12.579758, 53.863811], [12.582297, 53.863804], [12.585121, 53.864683], [12.589713, 53.862476], [12.591726, 53.857868], [12.592896, 53.855961], [12.588718, 53.854422], [12.582369, 53.851357], [12.581601, 53.850552], [12.579641, 53.849937], [12.580964, 53.847408], [12.580219, 53.847411], [12.579764, 53.847734], [12.578048, 53.848715], [12.574561, 53.849231], [12.570334, 53.848223], [12.567394, 53.847437], [12.560005, 53.848018], [12.558277, 53.848442], [12.557788, 53.845826], [12.544785, 53.836245], [12.543586, 53.836244], [12.542943, 53.836255], [12.542307, 53.836408], [12.541676, 53.836656], [12.541034, 53.83669], [12.540188, 53.836656], [12.53955, 53.836762], [12.538833, 53.836916], [12.537869, 53.836932], [12.537179, 53.836777], [12.536441, 53.83648], [12.537559, 53.83994], [12.537824, 53.842039], [12.538693, 53.842411], [12.541507, 53.845708], [12.54068, 53.846233], [12.541699, 53.847214], [12.543215, 53.851332], [12.538998, 53.853783], [12.538053, 53.854374], [12.536716, 53.854395], [12.534657, 53.854249], [12.532478, 53.853791], [12.530419, 53.853645], [12.529491, 53.8533], [12.528378, 53.853885], [12.523402, 53.853427], [12.521775, 53.854738], [12.520368, 53.855516], [12.518759, 53.855893], [12.517641, 53.856054], [12.516776, 53.856077], [12.515505, 53.856206], [12.514689, 53.856641], [12.513514, 53.857514], [12.512553, 53.85779], [12.511657, 53.857796], [12.510615, 53.857283], [12.509797, 53.856685], [12.509355, 53.856018], [12.509243, 53.854914], [12.50921, 53.854196], [12.509896, 53.853583], [12.510572, 53.853078], [12.510635, 53.852456], [12.510709, 53.851772], [12.510807, 53.850935], [12.510938, 53.849819], [12.509197, 53.847672], [12.507819, 53.84809], [12.504774, 53.847977], [12.500534, 53.847659], [12.498241, 53.848019], [12.4917, 53.850209], [12.496359, 53.856686], [12.495482, 53.857445], [12.495939, 53.859442], [12.491164, 53.85809], [12.490099, 53.858394], [12.491391, 53.861726], [12.492987, 53.862383], [12.492719, 53.863493], [12.489639, 53.865609], [12.498061, 53.869239], [12.511014, 53.868204], [12.513228, 53.87072], [12.513395, 53.872991], [12.5159, 53.874882], [12.516958, 53.875728], [12.520132, 53.875946], [12.523791, 53.875824], [12.529199, 53.875385], [12.529109, 53.877346], [12.531707, 53.879909], [12.532613, 53.881386], [12.532571, 53.887318], [12.534183, 53.888603], [12.532923, 53.889307], [12.531674, 53.889606], [12.530713, 53.890197], [12.531074, 53.891081], [12.533148, 53.891505], [12.532868, 53.89204], [12.534793, 53.893185], [12.532705, 53.893759], [12.53126, 53.895067], [12.527453, 53.901824], [12.531614, 53.903599], [12.52982, 53.90494], [12.535767, 53.908123], [12.532373, 53.909077], [12.531947, 53.909749], [12.532613, 53.910636], [12.535242, 53.911519], [12.538461, 53.912652], [12.540307, 53.913404], [12.541469, 53.913834], [12.544972, 53.913867], [12.546686, 53.913749], [12.547911, 53.912947], [12.54991, 53.913696], [12.553809, 53.912891], [12.553044, 53.911192], [12.55302, 53.910693], [12.553322, 53.91026], [12.553413, 53.909641], [12.553342, 53.908976], [12.55303, 53.908339], [12.552409, 53.907993], [12.551397, 53.907867], [12.550509, 53.907834], [12.549851, 53.907536], [12.548988, 53.907169], [12.54825, 53.906896], [12.547867, 53.906451], [12.548145, 53.905519], [12.548862, 53.905041], [12.550152, 53.904319], [12.551303, 53.904525], [12.553648, 53.904715], [12.554464, 53.904276], [12.555015, 53.903979], [12.55684, 53.903749], [12.557765, 53.903905], [12.560177, 53.903808], [12.562257, 53.903438], [12.563003, 53.903305], [12.56506, 53.901844], [12.566338, 53.900282], [12.566319, 53.899882], [12.566295, 53.89937], [12.571696, 53.897953]]]], "type": "MultiPolygon"}}
+{
+  "id": 101908573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_13072041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gro\u00df W\u00fcstenfelde",
+    "eurostat:nuts_2021_id":"13072041",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE8",
+    "eurostat:nuts_2021_level_2":"DE80",
+    "eurostat:nuts_2021_level_3":"DE80K",
+    "eurostat:nuts_2021_level_lau":"13072041",
+    "eurostat:population":794,
+    "eurostat:population_year":2020,
+    "geom:area":0.00363,
+    "geom:area_square_m":26466815.510736,
+    "geom:bbox":"12.489639,53.836244,12.593007,53.913867",
+    "geom:latitude":53.871713,
+    "geom:longitude":12.546075,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":944,
+    "iso:country":"DE",
+    "lbl:latitude":53.874787,
+    "lbl:longitude":12.560572,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":53.874787,
+    "mps:longitude":12.560572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:arg_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ast_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:bar_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:bre_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:cat_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ceb_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ces_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0412\u0443\u044c\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"
+    ],
+    "name:cos_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:cym_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:dan_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:deu_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:eng_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:epo_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:est_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:eus_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0648\u0633 \u0648\u0648\u0634\u062a\u0646\u0641\u0644\u062f\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:fra_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:frp_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:fur_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:gla_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:gle_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:glg_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:gsw_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:hrv_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:hun_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ido_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ile_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ina_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ind_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:isl_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ita_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0412\u044e\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0412\u04af\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:kur_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:lij_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:lim_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:lld_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ltz_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:min_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0440\u043e\u0441 \u0412\u0438\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u0434\u0435"
+    ],
+    "name:mlg_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:msa_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:nap_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:nds_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:nld_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:nno_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:nob_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:nrm_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:oci_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:pcd_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:pms_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:pol_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:por_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:roh_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:ron_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0412\u044e\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:sco_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:slk_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:slv_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:spa_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:srd_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u043e\u0441 \u0412\u0438\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u0434\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:swe_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0412\u044e\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0412\u044e\u0441\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:vec_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:vie_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:vls_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:vol_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:war_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:wln_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:wol_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u7ef4\u65af\u6ed5\u8d39\u5c14\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Gro\u00df W\u00fcstenfelde"
+    ],
+    "nav:latitude":53.874787,
+    "nav:longitude":12.560572,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"G\u00fcstrow",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Gro\u00df W\u00fcstenfelde",
+    "qs:la_lc":"*DE13005320029",
+    "qs:level":"locality",
+    "qs:loc":"Gro\u00df W\u00fcstenfelde",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6547882,
+    "qs_pg:gn_pop":944,
+    "qs_pg:name":"Gro\u00df W\u00fcstenfelde",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":630560,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377684695,
+        85633111,
+        1377675573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_13072041",
+        "eurostat:nuts_2021_id":"13072041",
+        "gn:id":2805522,
+        "gp:id":708333,
+        "qs_pg:id":380151,
+        "wd:id":"Q643668",
+        "wk:page":"Gro\u00df W\u00fcstenfelde"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":578855
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"b5583951d998fc5743a0a3e6e2b072ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675573,
+            "localadmin_id":1377684695,
+            "locality_id":101908573,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101908573,
+    "wof:lastmodified":1690871841,
+    "wof:name":"Gro\u00df W\u00fcstenfelde",
+    "wof:parent_id":1377684695,
+    "wof:placetype":"locality",
+    "wof:population":794,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125322719
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.489639,
+    53.836244,
+    12.593007,
+    53.913867
+],
+  "geometry": {"coordinates":[[[[12.571696,53.897953],[12.568837,53.896273],[12.566771,53.895067],[12.565572,53.893847],[12.565262,53.892764],[12.564062,53.891526],[12.563548,53.890737],[12.563477,53.890096],[12.563574,53.889596],[12.563525,53.88855],[12.560839,53.887095],[12.558877,53.886454],[12.561391,53.886233],[12.562628,53.886329],[12.564195,53.885683],[12.566471,53.884926],[12.567101,53.884736],[12.567956,53.884488],[12.569553,53.883527],[12.572231,53.883563],[12.570813,53.879974],[12.573575,53.879533],[12.574915,53.881155],[12.579195,53.881161],[12.579538,53.881584],[12.582305,53.881893],[12.587044,53.881799],[12.589224,53.882354],[12.590523,53.882152],[12.589925,53.880796],[12.589844,53.879117],[12.593007,53.878776],[12.592627,53.875008],[12.588401,53.874729],[12.587916,53.873802],[12.586623,53.87253],[12.584385,53.871534],[12.583437,53.871101],[12.582426,53.870632],[12.580806,53.869833],[12.579422,53.870449],[12.578797,53.870109],[12.577958,53.869413],[12.576456,53.868521],[12.575614,53.86778],[12.575068,53.86716],[12.574761,53.866779],[12.575168,53.86511],[12.575091,53.863512],[12.578191,53.863478],[12.579758,53.863811],[12.582297,53.863804],[12.585121,53.864683],[12.589713,53.862476],[12.591726,53.857868],[12.592896,53.855961],[12.588718,53.854422],[12.582369,53.851357],[12.581601,53.850552],[12.579641,53.849937],[12.580964,53.847408],[12.580219,53.847411],[12.579764,53.847734],[12.578048,53.848715],[12.574561,53.849231],[12.570334,53.848223],[12.567394,53.847437],[12.560005,53.848018],[12.558277,53.848442],[12.557788,53.845826],[12.544785,53.836245],[12.543586,53.836244],[12.542943,53.836255],[12.542307,53.836408],[12.541676,53.836656],[12.541034,53.83669],[12.540188,53.836656],[12.53955,53.836762],[12.538833,53.836916],[12.537869,53.836932],[12.537179,53.836777],[12.536441,53.83648],[12.537559,53.83994],[12.537824,53.842039],[12.538693,53.842411],[12.541507,53.845708],[12.54068,53.846233],[12.541699,53.847214],[12.543215,53.851332],[12.538998,53.853783],[12.538053,53.854374],[12.536716,53.854395],[12.534657,53.854249],[12.532478,53.853791],[12.530419,53.853645],[12.529491,53.8533],[12.528378,53.853885],[12.523402,53.853427],[12.521775,53.854738],[12.520368,53.855516],[12.518759,53.855893],[12.517641,53.856054],[12.516776,53.856077],[12.515505,53.856206],[12.514689,53.856641],[12.513514,53.857514],[12.512553,53.85779],[12.511657,53.857796],[12.510615,53.857283],[12.509797,53.856685],[12.509355,53.856018],[12.509243,53.854914],[12.50921,53.854196],[12.509896,53.853583],[12.510572,53.853078],[12.510635,53.852456],[12.510709,53.851772],[12.510807,53.850935],[12.510938,53.849819],[12.509197,53.847672],[12.507819,53.84809],[12.504774,53.847977],[12.500534,53.847659],[12.498241,53.848019],[12.4917,53.850209],[12.496359,53.856686],[12.495482,53.857445],[12.495939,53.859442],[12.491164,53.85809],[12.490099,53.858394],[12.491391,53.861726],[12.492987,53.862383],[12.492719,53.863493],[12.489639,53.865609],[12.498061,53.869239],[12.511014,53.868204],[12.513228,53.87072],[12.513395,53.872991],[12.5159,53.874882],[12.516958,53.875728],[12.520132,53.875946],[12.523791,53.875824],[12.529199,53.875385],[12.529109,53.877346],[12.531707,53.879909],[12.532613,53.881386],[12.532571,53.887318],[12.534183,53.888603],[12.532923,53.889307],[12.531674,53.889606],[12.530713,53.890197],[12.531074,53.891081],[12.533148,53.891505],[12.532868,53.89204],[12.534793,53.893185],[12.532705,53.893759],[12.53126,53.895067],[12.527453,53.901824],[12.531614,53.903599],[12.52982,53.90494],[12.535767,53.908123],[12.532373,53.909077],[12.531947,53.909749],[12.532613,53.910636],[12.535242,53.911519],[12.538461,53.912652],[12.540307,53.913404],[12.541469,53.913834],[12.544972,53.913867],[12.546686,53.913749],[12.547911,53.912947],[12.54991,53.913696],[12.553809,53.912891],[12.553044,53.911192],[12.55302,53.910693],[12.553322,53.91026],[12.553413,53.909641],[12.553342,53.908976],[12.55303,53.908339],[12.552409,53.907993],[12.551397,53.907867],[12.550509,53.907834],[12.549851,53.907536],[12.548988,53.907169],[12.54825,53.906896],[12.547867,53.906451],[12.548145,53.905519],[12.548862,53.905041],[12.550152,53.904319],[12.551303,53.904525],[12.553648,53.904715],[12.554464,53.904276],[12.555015,53.903979],[12.55684,53.903749],[12.557765,53.903905],[12.560177,53.903808],[12.562257,53.903438],[12.563003,53.903305],[12.56506,53.901844],[12.566338,53.900282],[12.566319,53.899882],[12.566295,53.89937],[12.571696,53.897953]]]],"type":"MultiPolygon"}
+}

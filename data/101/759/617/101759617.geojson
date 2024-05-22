@@ -1,1 +1,423 @@
-{"id": 101759617, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_10045117", "eurostat:level_code": "lau", "eurostat:name_local": "St. Ingbert, Stadt", "eurostat:nuts_2021_id": "10045117", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEC", "eurostat:nuts_2021_level_2": "DEC0", "eurostat:nuts_2021_level_3": "DEC05", "eurostat:nuts_2021_level_lau": "10045117", "eurostat:population": 35427, "eurostat:population_year": 2020, "geom:area": 0.00611, "geom:area_square_m": 49292556.670838, "geom:bbox": "7.062106,49.236935,7.19396,49.309522", "geom:latitude": 49.273889, "geom:longitude": 7.132261, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 37361, "iso:country": "DE", "lbl:latitude": 49.278117, "lbl:longitude": 7.115237, "lbl:max_zoom": 14.0, "lbl:min_zoom": 10.0, "mps:latitude": 49.278117, "mps:longitude": 7.115237, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 9.0, "name:afr_x_preferred": ["St. Ingbert"], "name:ara_x_preferred": ["\u0632\u0627\u0646\u0643\u062a \u0625\u0646\u063a\u0628\u0631\u062a"], "name:arg_x_preferred": ["St. Ingbert"], "name:ast_x_preferred": ["St. Ingbert"], "name:azb_x_preferred": ["\u0633\u0646\u06a9\u062a \u0627\u06cc\u0646\u0642\u0628\u0631\u062a"], "name:bar_x_preferred": ["St. Ingbert"], "name:bel_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0406\u043d\u0433\u0431\u0435\u0440\u0442"], "name:bre_x_preferred": ["St. Ingbert"], "name:cat_x_preferred": ["St. Ingbert"], "name:ceb_x_preferred": ["St. Ingbert"], "name:ces_x_preferred": ["St. Ingbert"], "name:che_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"], "name:cos_x_preferred": ["St. Ingbert"], "name:cym_x_preferred": ["St. Ingbert"], "name:dan_x_preferred": ["St. Ingbert"], "name:deu_x_preferred": ["St. Ingbert"], "name:eng_x_preferred": ["Sankt Ingbert"], "name:epo_x_preferred": ["Sankt Ingbert"], "name:est_x_preferred": ["St. Ingbert"], "name:eus_x_preferred": ["St. Ingbert"], "name:fas_x_preferred": ["\u0633\u0646\u06a9\u062a \u0627\u06cc\u0646\u06af\u0628\u0631\u062a"], "name:fas_x_variant": ["\u0633\u0646\u062a \u0627\u06cc\u0646\u06af\u0628\u0631\u06af"], "name:fin_x_preferred": ["St. Ingbert"], "name:fra_x_preferred": ["Saint-Ingbert"], "name:frp_x_preferred": ["St. Ingbert"], "name:fur_x_preferred": ["St. Ingbert"], "name:gla_x_preferred": ["St. Ingbert"], "name:gle_x_preferred": ["St. Ingbert"], "name:glg_x_preferred": ["St. Ingbert"], "name:gsw_x_preferred": ["St. Ingbert"], "name:hbs_x_preferred": ["St. Ingbert"], "name:heb_x_preferred": ["\u05d6\u05e0\u05e7\u05d8 \u05d0\u05d9\u05e0\u05d2\u05d1\u05e8\u05d8"], "name:hrv_x_preferred": ["St. Ingbert"], "name:hun_x_preferred": ["St. Ingbert"], "name:ido_x_preferred": ["St. Ingbert"], "name:ile_x_preferred": ["St. Ingbert"], "name:ina_x_preferred": ["St. Ingbert"], "name:ind_x_preferred": ["St. Ingbert"], "name:isl_x_preferred": ["St. Ingbert"], "name:ita_x_preferred": ["Sankt Ingbert"], "name:ita_x_variant": ["St. Ingbert"], "name:jpn_x_preferred": ["\u30b6\u30f3\u30af\u30c8\u30fb\u30a4\u30f3\u30b0\u30d9\u30eb\u30c8"], "name:kaz_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"], "name:kir_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"], "name:kon_x_preferred": ["St. Ingbert"], "name:kur_x_preferred": ["St. Ingbert"], "name:lij_x_preferred": ["St. Ingbert"], "name:lim_x_preferred": ["St. Ingbert"], "name:lld_x_preferred": ["Sankt Ingbert"], "name:ltz_x_preferred": ["St. Ingbert"], "name:min_x_preferred": ["St. Ingbert"], "name:mlg_x_preferred": ["St. Ingbert"], "name:msa_x_preferred": ["Sankt Ingbert"], "name:nap_x_preferred": ["St. Ingbert"], "name:nds_x_preferred": ["St. Ingbert"], "name:nld_x_preferred": ["Sankt Ingbert"], "name:nno_x_preferred": ["St. Ingbert"], "name:nob_x_preferred": ["Sankt Ingbert"], "name:nor_x_preferred": ["Sankt Ingbert"], "name:nrm_x_preferred": ["St. Ingbert"], "name:oci_x_preferred": ["St. Ingbert"], "name:pcd_x_preferred": ["St. Ingbert"], "name:pdc_x_preferred": ["St. Ingbert"], "name:pfl_x_preferred": ["St. Ingbert"], "name:pms_x_preferred": ["St. Ingbert"], "name:pol_x_preferred": ["St. Ingbert"], "name:por_x_preferred": ["Sankt Ingbert"], "name:roh_x_preferred": ["St. Ingbert"], "name:ron_x_preferred": ["St. Ingbert"], "name:rus_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"], "name:scn_x_preferred": ["St. Ingbert"], "name:sco_x_preferred": ["Sankt Ingbert"], "name:slk_x_preferred": ["St. Ingbert"], "name:slv_x_preferred": ["Sankt Ingbert"], "name:spa_x_preferred": ["Sankt Ingbert"], "name:srd_x_preferred": ["St. Ingbert"], "name:srp_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u0418\u043d\u0433\u0431\u0435\u0440\u0442"], "name:stq_x_preferred": ["St. Ingbert"], "name:swa_x_preferred": ["St. Ingbert"], "name:swe_x_preferred": ["St. Ingbert"], "name:tat_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"], "name:tur_x_preferred": ["Sankt Ingbert"], "name:ukr_x_preferred": ["\u0417\u0430\u043d\u043a\u0442-\u0406\u043d\u0433\u0431\u0435\u0440\u0442"], "name:uzb_x_preferred": ["St. Ingbert"], "name:vec_x_preferred": ["St. Ingbert"], "name:vie_x_preferred": ["St. Ingbert"], "name:vls_x_preferred": ["St. Ingbert"], "name:vol_x_preferred": ["St. Ingbert"], "name:war_x_preferred": ["Sankt Ingbert"], "name:wln_x_preferred": ["St. Ingbert"], "name:wol_x_preferred": ["St. Ingbert"], "name:zho_x_preferred": ["\u5723\u82f1\u8d1d\u7279"], "name:zho_x_variant": ["\u5723\u56e0\u683c\u8d1d\u5c14\u7279"], "name:zul_x_preferred": ["St. Ingbert"], "nav:latitude": 49.278117, "nav:longitude": 7.115237, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Saarland", "qs:a1r": "0", "qs:a2": "Saarpfalz-Kreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Spiesen-Elversberg", "qs:la_lc": "*DE10004300117", "qs:level": "locality", "qs:loc": "St. Ingbert", "qs:loc_alt": "St. Ingbert", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6550583, "qs_pg:gn_pop": 37361, "qs_pg:name": "Gemeinde St. Ingbert", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Saarland", "qs_pg:photos": 16, "qs_pg:photos_1k": 3, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 238, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1109047, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12635915, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 49.3, "wd:longitude": 7.116667, "wd:wordcount": 270, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Saarland", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682479, 102191581, 1377694063, 85633111, 102063437], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_10045117", "eurostat:nuts_2021_id": "10045117", "gn:id": 2841590, "gp:id": 696043, "qs_pg:id": 1210166, "wd:id": "Q14907"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "8780f4bcd5ded82a151bf6ff9d254f01", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063437, "localadmin_id": 1377694063, "locality_id": 101759617, "region_id": 85682479}], "wof:id": 101759617, "wof:lastmodified": 1690872980, "wof:name": "St. Ingbert", "wof:parent_id": 1377694063, "wof:placetype": "locality", "wof:population": 35427, "wof:population_rank": 7, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125317743, 1125276409], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.062106, 49.236935, 7.19396, 49.309522], "geometry": {"coordinates": [[[[7.117022, 49.309522], [7.121204, 49.30782], [7.122502, 49.309345], [7.124068, 49.308609], [7.126451, 49.307618], [7.127897, 49.30704], [7.131812, 49.305014], [7.13543, 49.303096], [7.136533, 49.302499], [7.140338, 49.301055], [7.146977, 49.301217], [7.152666, 49.30118], [7.154277, 49.300994], [7.155797, 49.300913], [7.156416, 49.300582], [7.1572, 49.300015], [7.158136, 49.299541], [7.158675, 49.298922], [7.158691, 49.297713], [7.160079, 49.297728], [7.161669, 49.297728], [7.161821, 49.296183], [7.163235, 49.296834], [7.165182, 49.298013], [7.166442, 49.300302], [7.168051, 49.30152], [7.170346, 49.30238], [7.17171, 49.303952], [7.172512, 49.303903], [7.174328, 49.303939], [7.176268, 49.303753], [7.178148, 49.303656], [7.182848, 49.304182], [7.184283, 49.304548], [7.186272, 49.305057], [7.186995, 49.305349], [7.18741, 49.305523], [7.186833, 49.304903], [7.185709, 49.303636], [7.184745, 49.302437], [7.184467, 49.301474], [7.184606, 49.300668], [7.185109, 49.299962], [7.187081, 49.297716], [7.18829, 49.296554], [7.183195, 49.293369], [7.179653, 49.291767], [7.182892, 49.287301], [7.184267, 49.285652], [7.190371, 49.278327], [7.192819, 49.279165], [7.19396, 49.27737], [7.191765, 49.276675], [7.189618, 49.276081], [7.1891, 49.275429], [7.187477, 49.273001], [7.18901, 49.271516], [7.188704, 49.268373], [7.188349, 49.267155], [7.187191, 49.263169], [7.188133, 49.259676], [7.187789, 49.259081], [7.186321, 49.259416], [7.184653, 49.257665], [7.184241, 49.254861], [7.184953, 49.253315], [7.185071, 49.251608], [7.180124, 49.250336], [7.179595, 49.250834], [7.178374, 49.25078], [7.173057, 49.250694], [7.166617, 49.249549], [7.166894, 49.248635], [7.167258, 49.247434], [7.164027, 49.244844], [7.165455, 49.243424], [7.167158, 49.241731], [7.163162, 49.241022], [7.159727, 49.240412], [7.157555, 49.239618], [7.156596, 49.23877], [7.154917, 49.24116], [7.154309, 49.243978], [7.15174, 49.240372], [7.147664, 49.238674], [7.143722, 49.238403], [7.140401, 49.236935], [7.138577, 49.239222], [7.133161, 49.240572], [7.13109, 49.240087], [7.129465, 49.240326], [7.129254, 49.240788], [7.128542, 49.242694], [7.129083, 49.243025], [7.130547, 49.243925], [7.130582, 49.244403], [7.130325, 49.244728], [7.129712, 49.244647], [7.129131, 49.244692], [7.12879, 49.245042], [7.128271, 49.245198], [7.126448, 49.245098], [7.125516, 49.24525], [7.124597, 49.245808], [7.123767, 49.246467], [7.12365, 49.246959], [7.123435, 49.247475], [7.122998, 49.2482], [7.122473, 49.248625], [7.122142, 49.24884], [7.121545, 49.249111], [7.120748, 49.249163], [7.120188, 49.24926], [7.119516, 49.249297], [7.118989, 49.249338], [7.118628, 49.249499], [7.11849, 49.2498], [7.11808, 49.251084], [7.117679, 49.251396], [7.117041, 49.251777], [7.116474, 49.251969], [7.115708, 49.252099], [7.114689, 49.252106], [7.114162, 49.252147], [7.113829, 49.252328], [7.113807, 49.252632], [7.113811, 49.252994], [7.11367, 49.253333], [7.113306, 49.253551], [7.112973, 49.253731], [7.112921, 49.254054], [7.113091, 49.254536], [7.112897, 49.255216], [7.111849, 49.255536], [7.111717, 49.256432], [7.11163, 49.257503], [7.108729, 49.257758], [7.108271, 49.256857], [7.10805, 49.255482], [7.107649, 49.254486], [7.104298, 49.254937], [7.102858, 49.254283], [7.100266, 49.252817], [7.097835, 49.251789], [7.094711, 49.250245], [7.093659, 49.247818], [7.092324, 49.246859], [7.089243, 49.246155], [7.086369, 49.245498], [7.085289, 49.247536], [7.085618, 49.248519], [7.079421, 49.24978], [7.082296, 49.253848], [7.083199, 49.255649], [7.081425, 49.255649], [7.079521, 49.257464], [7.078178, 49.257963], [7.077389, 49.258236], [7.07627, 49.258491], [7.074341, 49.258144], [7.071639, 49.25726], [7.068398, 49.256206], [7.067281, 49.257982], [7.064953, 49.259568], [7.064195, 49.260733], [7.062694, 49.261525], [7.064347, 49.26361], [7.062106, 49.267243], [7.062578, 49.271418], [7.06467, 49.271229], [7.066022, 49.271559], [7.06732, 49.273238], [7.068972, 49.274576], [7.073088, 49.275152], [7.075168, 49.274549], [7.077922, 49.274128], [7.080602, 49.274381], [7.080095, 49.275509], [7.078406, 49.280672], [7.080968, 49.281038], [7.08221, 49.28158], [7.085354, 49.281883], [7.086572, 49.282181], [7.085429, 49.283344], [7.08568, 49.285044], [7.086886, 49.287638], [7.085617, 49.289419], [7.08509, 49.291222], [7.083874, 49.293225], [7.082906, 49.29482], [7.085463, 49.295853], [7.085675, 49.296742], [7.087576, 49.296151], [7.089306, 49.296015], [7.092494, 49.29694], [7.094213, 49.29828], [7.093768, 49.298914], [7.092498, 49.299938], [7.094496, 49.301665], [7.095756, 49.303702], [7.09754, 49.30282], [7.097073, 49.302022], [7.098069, 49.301575], [7.099145, 49.302319], [7.099463, 49.302896], [7.100247, 49.303289], [7.101917, 49.303438], [7.102547, 49.303485], [7.102637, 49.304163], [7.103444, 49.304232], [7.104598, 49.304267], [7.10605, 49.304383], [7.107863, 49.304834], [7.110589, 49.305826], [7.111593, 49.306036], [7.112393, 49.306411], [7.113182, 49.306939], [7.113748, 49.307317], [7.114907, 49.307874], [7.115756, 49.308332], [7.11641, 49.308819], [7.117022, 49.309522]]]], "type": "MultiPolygon"}}
+{
+  "id": 101759617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_10045117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Ingbert, Stadt",
+    "eurostat:nuts_2021_id":"10045117",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEC",
+    "eurostat:nuts_2021_level_2":"DEC0",
+    "eurostat:nuts_2021_level_3":"DEC05",
+    "eurostat:nuts_2021_level_lau":"10045117",
+    "eurostat:population":35427,
+    "eurostat:population_year":2020,
+    "geom:area":0.00611,
+    "geom:area_square_m":49292556.670838,
+    "geom:bbox":"7.062106,49.236935,7.19396,49.309522",
+    "geom:latitude":49.273889,
+    "geom:longitude":7.132261,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":37361,
+    "iso:country":"DE",
+    "lbl:latitude":49.278117,
+    "lbl:longitude":7.115237,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
+    "mps:latitude":49.278117,
+    "mps:longitude":7.115237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0646\u0643\u062a \u0625\u0646\u063a\u0628\u0631\u062a"
+    ],
+    "name:arg_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ast_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0646\u06a9\u062a \u0627\u06cc\u0646\u0642\u0628\u0631\u062a"
+    ],
+    "name:bar_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0406\u043d\u0433\u0431\u0435\u0440\u0442"
+    ],
+    "name:bre_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:cat_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ceb_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ces_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"
+    ],
+    "name:cos_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:cym_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:dan_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:deu_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:eng_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:epo_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:est_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:eus_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06a9\u062a \u0627\u06cc\u0646\u06af\u0628\u0631\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062a \u0627\u06cc\u0646\u06af\u0628\u0631\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Ingbert"
+    ],
+    "name:frp_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:fur_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:gla_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:gle_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:glg_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:gsw_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:hbs_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e0\u05e7\u05d8 \u05d0\u05d9\u05e0\u05d2\u05d1\u05e8\u05d8"
+    ],
+    "name:hrv_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:hun_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ido_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ile_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ina_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ind_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:isl_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ita_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:ita_x_variant":[
+        "St. Ingbert"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30f3\u30af\u30c8\u30fb\u30a4\u30f3\u30b0\u30d9\u30eb\u30c8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"
+    ],
+    "name:kon_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:kur_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:lij_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:lim_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:lld_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:ltz_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:min_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:mlg_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:msa_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:nap_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:nds_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:nld_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:nno_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:nob_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:nor_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:nrm_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:oci_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:pcd_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:pdc_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:pfl_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:pms_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:pol_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:por_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:roh_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:ron_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"
+    ],
+    "name:scn_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:sco_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:slk_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:slv_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:spa_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:srd_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0418\u043d\u0433\u0431\u0435\u0440\u0442"
+    ],
+    "name:stq_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:swa_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:swe_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0418\u043d\u0433\u0431\u0435\u0440\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0442-\u0406\u043d\u0433\u0431\u0435\u0440\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:vec_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:vie_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:vls_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:vol_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:war_x_preferred":[
+        "Sankt Ingbert"
+    ],
+    "name:wln_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:wol_x_preferred":[
+        "St. Ingbert"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u82f1\u8d1d\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u56e0\u683c\u8d1d\u5c14\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "St. Ingbert"
+    ],
+    "nav:latitude":49.278117,
+    "nav:longitude":7.115237,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Saarland",
+    "qs:a1r":"0",
+    "qs:a2":"Saarpfalz-Kreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Spiesen-Elversberg",
+    "qs:la_lc":"*DE10004300117",
+    "qs:level":"locality",
+    "qs:loc":"St. Ingbert",
+    "qs:loc_alt":"St. Ingbert",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6550583,
+    "qs_pg:gn_pop":37361,
+    "qs_pg:name":"Gemeinde St. Ingbert",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Saarland",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":238,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1109047,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12635915,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":49.3,
+    "wd:longitude":7.116667,
+    "wd:wordcount":270,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Saarland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682479,
+        102191581,
+        1377694063,
+        85633111,
+        102063437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_10045117",
+        "eurostat:nuts_2021_id":"10045117",
+        "gn:id":2841590,
+        "gp:id":696043,
+        "qs_pg:id":1210166,
+        "wd:id":"Q14907"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"8780f4bcd5ded82a151bf6ff9d254f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063437,
+            "localadmin_id":1377694063,
+            "locality_id":101759617,
+            "region_id":85682479
+        }
+    ],
+    "wof:id":101759617,
+    "wof:lastmodified":1690872980,
+    "wof:name":"St. Ingbert",
+    "wof:parent_id":1377694063,
+    "wof:placetype":"locality",
+    "wof:population":35427,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125317743,
+        1125276409
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.062106,
+    49.236935,
+    7.19396,
+    49.309522
+],
+  "geometry": {"coordinates":[[[[7.117022,49.309522],[7.121204,49.30782],[7.122502,49.309345],[7.124068,49.308609],[7.126451,49.307618],[7.127897,49.30704],[7.131812,49.305014],[7.13543,49.303096],[7.136533,49.302499],[7.140338,49.301055],[7.146977,49.301217],[7.152666,49.30118],[7.154277,49.300994],[7.155797,49.300913],[7.156416,49.300582],[7.1572,49.300015],[7.158136,49.299541],[7.158675,49.298922],[7.158691,49.297713],[7.160079,49.297728],[7.161669,49.297728],[7.161821,49.296183],[7.163235,49.296834],[7.165182,49.298013],[7.166442,49.300302],[7.168051,49.30152],[7.170346,49.30238],[7.17171,49.303952],[7.172512,49.303903],[7.174328,49.303939],[7.176268,49.303753],[7.178148,49.303656],[7.182848,49.304182],[7.184283,49.304548],[7.186272,49.305057],[7.186995,49.305349],[7.18741,49.305523],[7.186833,49.304903],[7.185709,49.303636],[7.184745,49.302437],[7.184467,49.301474],[7.184606,49.300668],[7.185109,49.299962],[7.187081,49.297716],[7.18829,49.296554],[7.183195,49.293369],[7.179653,49.291767],[7.182892,49.287301],[7.184267,49.285652],[7.190371,49.278327],[7.192819,49.279165],[7.19396,49.27737],[7.191765,49.276675],[7.189618,49.276081],[7.1891,49.275429],[7.187477,49.273001],[7.18901,49.271516],[7.188704,49.268373],[7.188349,49.267155],[7.187191,49.263169],[7.188133,49.259676],[7.187789,49.259081],[7.186321,49.259416],[7.184653,49.257665],[7.184241,49.254861],[7.184953,49.253315],[7.185071,49.251608],[7.180124,49.250336],[7.179595,49.250834],[7.178374,49.25078],[7.173057,49.250694],[7.166617,49.249549],[7.166894,49.248635],[7.167258,49.247434],[7.164027,49.244844],[7.165455,49.243424],[7.167158,49.241731],[7.163162,49.241022],[7.159727,49.240412],[7.157555,49.239618],[7.156596,49.23877],[7.154917,49.24116],[7.154309,49.243978],[7.15174,49.240372],[7.147664,49.238674],[7.143722,49.238403],[7.140401,49.236935],[7.138577,49.239222],[7.133161,49.240572],[7.13109,49.240087],[7.129465,49.240326],[7.129254,49.240788],[7.128542,49.242694],[7.129083,49.243025],[7.130547,49.243925],[7.130582,49.244403],[7.130325,49.244728],[7.129712,49.244647],[7.129131,49.244692],[7.12879,49.245042],[7.128271,49.245198],[7.126448,49.245098],[7.125516,49.24525],[7.124597,49.245808],[7.123767,49.246467],[7.12365,49.246959],[7.123435,49.247475],[7.122998,49.2482],[7.122473,49.248625],[7.122142,49.24884],[7.121545,49.249111],[7.120748,49.249163],[7.120188,49.24926],[7.119516,49.249297],[7.118989,49.249338],[7.118628,49.249499],[7.11849,49.2498],[7.11808,49.251084],[7.117679,49.251396],[7.117041,49.251777],[7.116474,49.251969],[7.115708,49.252099],[7.114689,49.252106],[7.114162,49.252147],[7.113829,49.252328],[7.113807,49.252632],[7.113811,49.252994],[7.11367,49.253333],[7.113306,49.253551],[7.112973,49.253731],[7.112921,49.254054],[7.113091,49.254536],[7.112897,49.255216],[7.111849,49.255536],[7.111717,49.256432],[7.11163,49.257503],[7.108729,49.257758],[7.108271,49.256857],[7.10805,49.255482],[7.107649,49.254486],[7.104298,49.254937],[7.102858,49.254283],[7.100266,49.252817],[7.097835,49.251789],[7.094711,49.250245],[7.093659,49.247818],[7.092324,49.246859],[7.089243,49.246155],[7.086369,49.245498],[7.085289,49.247536],[7.085618,49.248519],[7.079421,49.24978],[7.082296,49.253848],[7.083199,49.255649],[7.081425,49.255649],[7.079521,49.257464],[7.078178,49.257963],[7.077389,49.258236],[7.07627,49.258491],[7.074341,49.258144],[7.071639,49.25726],[7.068398,49.256206],[7.067281,49.257982],[7.064953,49.259568],[7.064195,49.260733],[7.062694,49.261525],[7.064347,49.26361],[7.062106,49.267243],[7.062578,49.271418],[7.06467,49.271229],[7.066022,49.271559],[7.06732,49.273238],[7.068972,49.274576],[7.073088,49.275152],[7.075168,49.274549],[7.077922,49.274128],[7.080602,49.274381],[7.080095,49.275509],[7.078406,49.280672],[7.080968,49.281038],[7.08221,49.28158],[7.085354,49.281883],[7.086572,49.282181],[7.085429,49.283344],[7.08568,49.285044],[7.086886,49.287638],[7.085617,49.289419],[7.08509,49.291222],[7.083874,49.293225],[7.082906,49.29482],[7.085463,49.295853],[7.085675,49.296742],[7.087576,49.296151],[7.089306,49.296015],[7.092494,49.29694],[7.094213,49.29828],[7.093768,49.298914],[7.092498,49.299938],[7.094496,49.301665],[7.095756,49.303702],[7.09754,49.30282],[7.097073,49.302022],[7.098069,49.301575],[7.099145,49.302319],[7.099463,49.302896],[7.100247,49.303289],[7.101917,49.303438],[7.102547,49.303485],[7.102637,49.304163],[7.103444,49.304232],[7.104598,49.304267],[7.10605,49.304383],[7.107863,49.304834],[7.110589,49.305826],[7.111593,49.306036],[7.112393,49.306411],[7.113182,49.306939],[7.113748,49.307317],[7.114907,49.307874],[7.115756,49.308332],[7.11641,49.308819],[7.117022,49.309522]]]],"type":"MultiPolygon"}
+}

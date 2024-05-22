@@ -1,1 +1,105 @@
-{"id": 1393634661, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "9.69234,48.85562,9.69234,48.85562", "geom:latitude": 48.85562, "geom:longitude": 9.69234, "gn:admin1_code": "1.0", "gn:admin2_code": "81.0", "gn:admin3_code": "8119.0", "gn:admin4_code": "8119001.0", "gn:asciiname": "Brend", "gn:country_code": "DE", "gn:dem": 506, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2944315, "gn:latitude": 48.85562, "gn:longitude": 9.69234, "gn:modification_date": "2013-02-15", "gn:name": "Brend", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "9.68734,48.85062,9.69734,48.86062", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:aze_x_preferred": ["Brend"], "name:ceb_x_preferred": ["Brend"], "name:chv_x_preferred": ["\u0411\u0440\u0435\u043d\u0434"], "name:deu_x_preferred": ["Brend"], "name:ell_x_preferred": ["\u039c\u03c0\u03c1\u03b5\u03bd\u03c4"], "name:nno_x_preferred": ["Brend"], "name:nor_x_preferred": ["Brend"], "name:rus_x_preferred": ["\u0411\u0440\u0435\u043d\u0434"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377687433, 404227549, 101762017, 102063379, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 2944315}, "wof:country": "DE", "wof:geomhash": "051493330c1f35b70ee3ba2a46c4b999", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063379, "localadmin_id": 1377687433, "locality_id": 101762017, "macrocounty_id": 404227549, "neighbourhood_id": 1393634661, "region_id": 85682567}], "wof:id": 1393634661, "wof:lastmodified": 1566714228, "wof:name": "Brend", "wof:parent_id": 101762017, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1293013833], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.69234, 48.85562, 9.69234, 48.85562], "geometry": {"coordinates": [9.69234, 48.85562], "type": "Point"}}
+{
+  "id": 1393634661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69234,48.85562,9.69234,48.85562",
+    "geom:latitude":48.85562,
+    "geom:longitude":9.69234,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8119.0",
+    "gn:admin4_code":"8119001.0",
+    "gn:asciiname":"Brend",
+    "gn:country_code":"DE",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2944315,
+    "gn:latitude":48.85562,
+    "gn:longitude":9.69234,
+    "gn:modification_date":"2013-02-15",
+    "gn:name":"Brend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"9.68734,48.85062,9.69734,48.86062",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:aze_x_preferred":[
+        "Brend"
+    ],
+    "name:ceb_x_preferred":[
+        "Brend"
+    ],
+    "name:chv_x_preferred":[
+        "\u0411\u0440\u0435\u043d\u0434"
+    ],
+    "name:deu_x_preferred":[
+        "Brend"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03b5\u03bd\u03c4"
+    ],
+    "name:nno_x_preferred":[
+        "Brend"
+    ],
+    "name:nor_x_preferred":[
+        "Brend"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u043d\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377687433,
+        404227549,
+        101762017,
+        102063379,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2944315
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"051493330c1f35b70ee3ba2a46c4b999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063379,
+            "localadmin_id":1377687433,
+            "locality_id":101762017,
+            "macrocounty_id":404227549,
+            "neighbourhood_id":1393634661,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1393634661,
+    "wof:lastmodified":1566714228,
+    "wof:name":"Brend",
+    "wof:parent_id":101762017,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293013833
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69234,
+    48.85562,
+    9.69234,
+    48.85562
+],
+  "geometry": {"coordinates":[9.69234,48.85562],"type":"Point"}
+}

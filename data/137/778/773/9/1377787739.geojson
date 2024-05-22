@@ -1,1 +1,103 @@
-{"id": 1377787739, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.69022,49.85701,10.69022,49.85701", "geom:latitude": 49.85701, "geom:longitude": 10.69022, "gn:admin1_code": "2", "gn:admin2_code": "94.0", "gn:admin3_code": "9471.0", "gn:admin4_code": "9471186.0", "gn:asciiname": "Schonbrunn", "gn:country_code": "DE", "gn:dem": 276, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2836874, "gn:latitude": 49.85701, "gn:longitude": 10.69022, "gn:modification_date": "2013-02-19", "gn:name": "Sch\u00f6nbrunn", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.68522,49.85201,10.69522,49.86201", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:jpn_x_preferred": ["\u30b7\u30a7\u30fc\u30f3\u30d6\u30eb\u30f3\u30fb\u30a4\u30e0\u30fb\u30b7\u30e5\u30bf\u30a4\u30ac\u30fc\u30f4\u30a1\u30eb\u30c8"], "name:kaz_x_preferred": ["\u0428\u0451\u043d\u0431\u0440\u0443\u043d\u043d-\u0438\u043c-\u0428\u0442\u0430\u0439\u0433\u0435\u0440\u0432\u0430\u043b\u044c\u0434"], "name:kir_x_preferred": ["\u0428\u04e9\u043d\u0431\u0440\u0443\u043d\u043d-\u0438\u043c-\u0428\u0442\u0430\u0439\u0433\u0435\u0440\u0432\u0430\u043b\u044c\u0434"], "name:por_x_preferred": ["Sch\u00f6nbrunn"], "name:rus_x_preferred": ["\u0428\u0451\u043d\u0431\u0440\u0443\u043d\u043d-\u0438\u043c-\u0428\u0442\u0430\u0439\u0433\u0435\u0440\u0432\u0430\u043b\u044c\u0434"], "name:spa_x_preferred": ["Sch\u00f6nbrunn"], "name:ukr_x_preferred": ["\u0428\u0435\u043d\u0431\u0440\u0443\u043d\u043d-\u0456\u043c-\u0428\u0442\u0430\u0439\u0433\u0435\u0440\u0432\u0430\u043b\u044c\u0434"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377687289, 404227583, 101827145, 1175611271, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2836874, "wk:page": "Sch%C3%B6nbrunn_im_Steigerwald"}, "wof:country": "DE", "wof:geomhash": "149cd41f5c22f567faef4242ebe7bb33", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1175611271, "localadmin_id": 1377687289, "locality_id": 101827145, "macrocounty_id": 404227583, "neighbourhood_id": 1377787739, "region_id": 85682571}], "wof:id": 1377787739, "wof:lastmodified": 1566717845, "wof:name": "Schonbrunn", "wof:parent_id": 101827145, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1293398359], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.69022, 49.85701, 10.69022, 49.85701], "geometry": {"coordinates": [10.69022, 49.85701], "type": "Point"}}
+{
+  "id": 1377787739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.69022,49.85701,10.69022,49.85701",
+    "geom:latitude":49.85701,
+    "geom:longitude":10.69022,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"94.0",
+    "gn:admin3_code":"9471.0",
+    "gn:admin4_code":"9471186.0",
+    "gn:asciiname":"Schonbrunn",
+    "gn:country_code":"DE",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2836874,
+    "gn:latitude":49.85701,
+    "gn:longitude":10.69022,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Sch\u00f6nbrunn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.68522,49.85201,10.69522,49.86201",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30fc\u30f3\u30d6\u30eb\u30f3\u30fb\u30a4\u30e0\u30fb\u30b7\u30e5\u30bf\u30a4\u30ac\u30fc\u30f4\u30a1\u30eb\u30c8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0451\u043d\u0431\u0440\u0443\u043d\u043d-\u0438\u043c-\u0428\u0442\u0430\u0439\u0433\u0435\u0440\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u04e9\u043d\u0431\u0440\u0443\u043d\u043d-\u0438\u043c-\u0428\u0442\u0430\u0439\u0433\u0435\u0440\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:por_x_preferred":[
+        "Sch\u00f6nbrunn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0451\u043d\u0431\u0440\u0443\u043d\u043d-\u0438\u043c-\u0428\u0442\u0430\u0439\u0433\u0435\u0440\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Sch\u00f6nbrunn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u0431\u0440\u0443\u043d\u043d-\u0456\u043c-\u0428\u0442\u0430\u0439\u0433\u0435\u0440\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377687289,
+        404227583,
+        101827145,
+        1175611271,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2836874,
+        "wk:page":"Sch%C3%B6nbrunn_im_Steigerwald"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"149cd41f5c22f567faef4242ebe7bb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1175611271,
+            "localadmin_id":1377687289,
+            "locality_id":101827145,
+            "macrocounty_id":404227583,
+            "neighbourhood_id":1377787739,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1377787739,
+    "wof:lastmodified":1566717845,
+    "wof:name":"Schonbrunn",
+    "wof:parent_id":101827145,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293398359
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.69022,
+    49.85701,
+    10.69022,
+    49.85701
+],
+  "geometry": {"coordinates":[10.69022,49.85701],"type":"Point"}
+}

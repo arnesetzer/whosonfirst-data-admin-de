@@ -1,1 +1,111 @@
-{"id": 1360298683, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "7.80716,47.75618,7.80716,47.75618", "geom:latitude": 47.75618, "geom:longitude": 7.80716, "gn:admin1_code": "1", "gn:admin2_code": "83.0", "gn:admin3_code": "8336.0", "gn:admin4_code": "8336107.0", "gn:asciiname": "Ried", "gn:country_code": "DE", "gn:dem": 705, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2847344, "gn:latitude": 47.75618, "gn:longitude": 7.80716, "gn:modification_date": "2013-02-15", "gn:name": "Ried", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "7.78716,47.73618,7.82716,47.77618", "lbl:max_zoom": 18.0, "lbl:min_zoom": 13.5, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 12.0, "name:bar_x_preferred": ["Ried"], "name:ceb_x_preferred": ["Ried"], "name:ces_x_preferred": ["Ried"], "name:deu_x_preferred": ["Ried"], "name:epo_x_preferred": ["Ried"], "name:fra_x_preferred": ["Ried"], "name:ita_x_preferred": ["Ried"], "name:nld_x_preferred": ["Ried"], "name:pol_x_preferred": ["Ried"], "name:ron_x_preferred": ["Ried"], "name:swe_x_preferred": ["Ried"], "src:geom": "geonames", "wof:belongsto": [85682567, 102191581, 85633111, 1377685685, 404227543, 102063211], "wof:breaches": [], "wof:concordances": {"gn:id": 2847344}, "wof:country": "DE", "wof:geomhash": "b7f3ac75eb87e55ff940424946b0fc2d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063211, "localadmin_id": 1377685685, "locality_id": 1360298683, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 1360298683, "wof:lastmodified": 1566713285, "wof:name": "Ried", "wof:parent_id": 1377685685, "wof:placetype": "locality", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.80716, 47.75618, 7.80716, 47.75618], "geometry": {"coordinates": [7.80716, 47.75618], "type": "Point"}}
+{
+  "id": 1360298683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80716,47.75618,7.80716,47.75618",
+    "geom:latitude":47.75618,
+    "geom:longitude":7.80716,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"83.0",
+    "gn:admin3_code":"8336.0",
+    "gn:admin4_code":"8336107.0",
+    "gn:asciiname":"Ried",
+    "gn:country_code":"DE",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2847344,
+    "gn:latitude":47.75618,
+    "gn:longitude":7.80716,
+    "gn:modification_date":"2013-02-15",
+    "gn:name":"Ried",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"7.78716,47.73618,7.82716,47.77618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:bar_x_preferred":[
+        "Ried"
+    ],
+    "name:ceb_x_preferred":[
+        "Ried"
+    ],
+    "name:ces_x_preferred":[
+        "Ried"
+    ],
+    "name:deu_x_preferred":[
+        "Ried"
+    ],
+    "name:epo_x_preferred":[
+        "Ried"
+    ],
+    "name:fra_x_preferred":[
+        "Ried"
+    ],
+    "name:ita_x_preferred":[
+        "Ried"
+    ],
+    "name:nld_x_preferred":[
+        "Ried"
+    ],
+    "name:pol_x_preferred":[
+        "Ried"
+    ],
+    "name:ron_x_preferred":[
+        "Ried"
+    ],
+    "name:swe_x_preferred":[
+        "Ried"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377685685,
+        404227543,
+        102063211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2847344
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"b7f3ac75eb87e55ff940424946b0fc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063211,
+            "localadmin_id":1377685685,
+            "locality_id":1360298683,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1360298683,
+    "wof:lastmodified":1566713285,
+    "wof:name":"Ried",
+    "wof:parent_id":1377685685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.80716,
+    47.75618,
+    7.80716,
+    47.75618
+],
+  "geometry": {"coordinates":[7.80716,47.75618],"type":"Point"}
+}

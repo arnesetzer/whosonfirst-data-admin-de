@@ -1,1 +1,407 @@
-{"id": 101827573, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08118070", "eurostat:level_code": "lau", "eurostat:name_local": "Steinheim an der Murr, Stadt", "eurostat:nuts_2021_id": "08118070", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE11", "eurostat:nuts_2021_level_3": "DE115", "eurostat:nuts_2021_level_lau": "08118070", "eurostat:population": 12139, "eurostat:population_year": 2020, "geom:area": 0.002856, "geom:area_square_m": 23179552.776539, "geom:bbox": "9.214514,48.950539,9.351758,48.995622", "geom:latitude": 48.977149, "geom:longitude": 9.282291, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 12011, "iso:country": "DE", "lbl:latitude": 48.969214, "lbl:longitude": 9.276791, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 48.969214, "mps:longitude": 9.276791, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Steinheim an der Murr"], "name:als_x_preferred": ["Steinheim an der Murr"], "name:ara_x_preferred": ["\u0634\u062a\u0627\u064a\u0646\u0647\u0627\u064a\u0645"], "name:ara_x_variant": ["\u0627\u0634\u062a\u0627\u064a\u0646\u0647\u0627\u064a\u0645 \u0622\u0646 \u062f\u0631 \u0645\u0648\u0631"], "name:arg_x_preferred": ["Steinheim an der Murr"], "name:ast_x_preferred": ["Steinheim an der Murr"], "name:azb_x_preferred": ["\u0627\u0634\u062a\u0627\u06cc\u0646\u0647\u0627\u06cc\u0645 \u0622\u0646 \u062f\u0631 \u0645\u0648\u0631"], "name:bar_x_preferred": ["Steinheim an der Murr"], "name:bre_x_preferred": ["Steinheim an der Murr"], "name:cat_x_preferred": ["Steinheim an der Murr"], "name:ceb_x_preferred": ["Steinheim an der Murr"], "name:ces_x_preferred": ["Steinheim an der Murr"], "name:cos_x_preferred": ["Steinheim an der Murr"], "name:cym_x_preferred": ["Steinheim an der Murr"], "name:dan_x_preferred": ["Steinheim an der Murr"], "name:deu_x_preferred": ["Steinheim an der Murr"], "name:eng_x_preferred": ["Steinheim an der Murr"], "name:epo_x_preferred": ["Steinheim an der Murr"], "name:est_x_preferred": ["Steinheim an der Murr"], "name:eus_x_preferred": ["Steinheim an der Murr"], "name:fas_x_preferred": ["\u0627\u0634\u062a\u0627\u06cc\u0646\u0647\u0627\u06cc\u0645 \u0622\u0646 \u062f\u0631 \u0645\u0648\u0631"], "name:fin_x_preferred": ["Steinheim an der Murr"], "name:fra_x_preferred": ["Steinheim an der Murr"], "name:frp_x_preferred": ["Steinheim an der Murr"], "name:frr_x_preferred": ["Steinheim an der Murr"], "name:fur_x_preferred": ["Steinheim an der Murr"], "name:gla_x_preferred": ["Steinheim an der Murr"], "name:gle_x_preferred": ["Steinheim an der Murr"], "name:glg_x_preferred": ["Steinheim an der Murr"], "name:gsw_x_preferred": ["Steinheim an der Murr"], "name:hbs_x_preferred": ["Steinheim an der Murr"], "name:hrv_x_preferred": ["Steinheim an der Murr"], "name:hun_x_preferred": ["Steinheim an der Murr"], "name:ido_x_preferred": ["Steinheim an der Murr"], "name:ile_x_preferred": ["Steinheim an der Murr"], "name:ina_x_preferred": ["Steinheim an der Murr"], "name:ind_x_preferred": ["Steinheim an der Murr"], "name:isl_x_preferred": ["Steinheim an der Murr"], "name:ita_x_preferred": ["Steinheim an der Murr"], "name:kon_x_preferred": ["Steinheim an der Murr"], "name:kur_x_preferred": ["Steinheim an der Murr"], "name:lat_x_preferred": ["Steinheim an der Murr"], "name:lij_x_preferred": ["Steinheim an der Murr"], "name:lim_x_preferred": ["Steinheim an der Murr"], "name:lld_x_preferred": ["Steinheim an der Murr"], "name:lmo_x_preferred": ["Steinheim an der Murr"], "name:ltz_x_preferred": ["Steinheim an der Murr"], "name:min_x_preferred": ["Steinheim an der Murr"], "name:mlg_x_preferred": ["Steinheim an der Murr"], "name:msa_x_preferred": ["Steinheim an der Murr"], "name:nap_x_preferred": ["Steinheim an der Murr"], "name:nds_x_preferred": ["Steinheim an der Murr"], "name:nld_x_preferred": ["Steinheim an der Murr"], "name:nno_x_preferred": ["Steinheim an der Murr"], "name:nob_x_preferred": ["Steinheim an der Murr"], "name:nor_x_preferred": ["Steinheim an der Murr"], "name:nrm_x_preferred": ["Steinheim an der Murr"], "name:oci_x_preferred": ["Steinheim an der Murr"], "name:pcd_x_preferred": ["Steinheim an der Murr"], "name:pms_x_preferred": ["Steinheim an der Murr"], "name:pol_x_preferred": ["Steinheim an der Murr"], "name:por_x_preferred": ["Steinheim an der Murr"], "name:roh_x_preferred": ["Steinheim an der Murr"], "name:ron_x_preferred": ["Steinheim an der Murr"], "name:rus_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0445\u0430\u0439\u043c-\u043d\u0430-\u041c\u0443\u0440\u0435"], "name:scn_x_preferred": ["Steinheim an der Murr"], "name:sco_x_preferred": ["Steinheim an der Murr"], "name:slk_x_preferred": ["Steinheim an der Murr"], "name:slv_x_preferred": ["Steinheim an der Murr"], "name:spa_x_preferred": ["Steinheim an der Murr"], "name:srd_x_preferred": ["Steinheim an der Murr"], "name:srp_x_preferred": ["\u0428\u0442\u0430\u0458\u043d\u0445\u0430\u0458\u043c \u0430\u043d \u0434\u0435\u0440 \u041c\u0443\u0440"], "name:swa_x_preferred": ["Steinheim an der Murr"], "name:swe_x_preferred": ["Steinheim an der Murr"], "name:tum_x_preferred": ["Steinheim an der Murr"], "name:ukr_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0433\u0430\u0439\u043c-\u0430\u043d-\u0434\u0435\u0440-\u041c\u0443\u0440\u0440"], "name:und_x_variant": ["Steinheim"], "name:uzb_x_preferred": ["Steinheim an der Murr"], "name:vec_x_preferred": ["Steinheim an der Murr"], "name:vie_x_preferred": ["Steinheim an der Murr"], "name:vls_x_preferred": ["Steinheim an der Murr"], "name:vol_x_preferred": ["Steinheim an der Murr"], "name:war_x_preferred": ["Steinheim an der Murr"], "name:wln_x_preferred": ["Steinheim an der Murr"], "name:wol_x_preferred": ["Steinheim an der Murr"], "name:zho_x_preferred": ["\u7a46\u5c14\u6cb3\u7554\u65bd\u6cf0\u56e0\u6d77\u59c6"], "name:zul_x_preferred": ["Steinheim an der Murr"], "nav:latitude": 48.969214, "nav:longitude": 9.276791, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Ludwigsburg", "qs:a2r": "Stuttgart", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Steinheim an der Murr", "qs:la_lc": "*DE08101807070", "qs:level": "locality", "qs:loc": "Steinheim an der Murr", "qs:loc_alt": "Steinheim an der Murr", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-multi-in-poly-resolved", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557964, "qs_pg:gn_pop": 12011, "qs_pg:name": "Steinheim an der Murr, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 1, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 6, "qs_pg:qs_id": 637987, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623237, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 23.18, "wd:latitude": 48.966667, "wd:longitude": 9.283333, "wd:population": 5344, "wd:wordcount": 104, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377687413, 404227549, 102063373], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08118070", "eurostat:nuts_2021_id": "08118070", "gn:id": 2827988, "gp:id": 20160170, "qs_pg:id": 308365, "wd:id": "Q61707"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "f876fe331f2b04bff5d6c0188892b620", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063373, "localadmin_id": 1377687413, "locality_id": 101827573, "macrocounty_id": 404227549, "region_id": 85682567}], "wof:id": 101827573, "wof:lastmodified": 1690872008, "wof:name": "Steinheim an der Murr", "wof:parent_id": 1377687413, "wof:placetype": "locality", "wof:population": 12139, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125342769, 1125336625], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.214514, 48.950539, 9.351758, 48.995622], "geometry": {"coordinates": [[[[9.309392, 48.984358], [9.309876, 48.980234], [9.314913, 48.984362], [9.324742, 48.985384], [9.328075, 48.98433], [9.327954, 48.98763], [9.328784, 48.988916], [9.3312, 48.989059], [9.334091, 48.994468], [9.338887, 48.995121], [9.342181, 48.99457], [9.344566, 48.994298], [9.348002, 48.994091], [9.347188, 48.990943], [9.350751, 48.991123], [9.35101, 48.990002], [9.351758, 48.988462], [9.345666, 48.985431], [9.344925, 48.986116], [9.344943, 48.981933], [9.338958, 48.981305], [9.339108, 48.976791], [9.340814, 48.976862], [9.341802, 48.968705], [9.338261, 48.968812], [9.337982, 48.973586], [9.333617, 48.97497], [9.332758, 48.973774], [9.334309, 48.971766], [9.330719, 48.971639], [9.330044, 48.972999], [9.324776, 48.97557], [9.323731, 48.974147], [9.315999, 48.972365], [9.314335, 48.970018], [9.316764, 48.964566], [9.312044, 48.965415], [9.310672, 48.961731], [9.307313, 48.961704], [9.305772, 48.958809], [9.308136, 48.958789], [9.307219, 48.956647], [9.305471, 48.956062], [9.304778, 48.954786], [9.301883, 48.952569], [9.300305, 48.950699], [9.299548, 48.950619], [9.298791, 48.950539], [9.29796, 48.950554], [9.297051, 48.950759], [9.296426, 48.95118], [9.295726, 48.951744], [9.2951, 48.952213], [9.294582, 48.952707], [9.294206, 48.953275], [9.294044, 48.953963], [9.292781, 48.953902], [9.292907, 48.953213], [9.290548, 48.953616], [9.288596, 48.953618], [9.288396, 48.954402], [9.285415, 48.953498], [9.283645, 48.954909], [9.275177, 48.953827], [9.27196, 48.954103], [9.271934, 48.955126], [9.270307, 48.955186], [9.269484, 48.956391], [9.270912, 48.956658], [9.269384, 48.958728], [9.270452, 48.959163], [9.268751, 48.963228], [9.267479, 48.966252], [9.266511, 48.968556], [9.265923, 48.972327], [9.265742, 48.973539], [9.262744, 48.972679], [9.256283, 48.976862], [9.256328, 48.977771], [9.253706, 48.978209], [9.231338, 48.973442], [9.225374, 48.973167], [9.225231, 48.974982], [9.222199, 48.974381], [9.220409, 48.975944], [9.216683, 48.975775], [9.214514, 48.977171], [9.215068, 48.977933], [9.219236, 48.979969], [9.218169, 48.983645], [9.220965, 48.983866], [9.220741, 48.985087], [9.222704, 48.985271], [9.222166, 48.990644], [9.220268, 48.990569], [9.220006, 48.993237], [9.225504, 48.993651], [9.225343, 48.994594], [9.235422, 48.992846], [9.235732, 48.995107], [9.245689, 48.995436], [9.257509, 48.995622], [9.258491, 48.992511], [9.26111, 48.990615], [9.261148, 48.988043], [9.263124, 48.988838], [9.26403, 48.988669], [9.271722, 48.992037], [9.273725, 48.990116], [9.275834, 48.991029], [9.282494, 48.988206], [9.283182, 48.987509], [9.282635, 48.986908], [9.283516, 48.986127], [9.284654, 48.986016], [9.294085, 48.985928], [9.297724, 48.986325], [9.298632, 48.985365], [9.300103, 48.984575], [9.303335, 48.984043], [9.305041, 48.984718], [9.309392, 48.984358]]]], "type": "MultiPolygon"}}
+{
+  "id": 101827573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08118070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steinheim an der Murr, Stadt",
+    "eurostat:nuts_2021_id":"08118070",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE11",
+    "eurostat:nuts_2021_level_3":"DE115",
+    "eurostat:nuts_2021_level_lau":"08118070",
+    "eurostat:population":12139,
+    "eurostat:population_year":2020,
+    "geom:area":0.002856,
+    "geom:area_square_m":23179552.776539,
+    "geom:bbox":"9.214514,48.950539,9.351758,48.995622",
+    "geom:latitude":48.977149,
+    "geom:longitude":9.282291,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":12011,
+    "iso:country":"DE",
+    "lbl:latitude":48.969214,
+    "lbl:longitude":9.276791,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":48.969214,
+    "mps:longitude":9.276791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:als_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ara_x_preferred":[
+        "\u0634\u062a\u0627\u064a\u0646\u0647\u0627\u064a\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0634\u062a\u0627\u064a\u0646\u0647\u0627\u064a\u0645 \u0622\u0646 \u062f\u0631 \u0645\u0648\u0631"
+    ],
+    "name:arg_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ast_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0634\u062a\u0627\u06cc\u0646\u0647\u0627\u06cc\u0645 \u0622\u0646 \u062f\u0631 \u0645\u0648\u0631"
+    ],
+    "name:bar_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:bre_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:cat_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ceb_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ces_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:cos_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:cym_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:dan_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:deu_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:eng_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:epo_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:est_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:eus_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u0627\u06cc\u0646\u0647\u0627\u06cc\u0645 \u0622\u0646 \u062f\u0631 \u0645\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:fra_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:frp_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:frr_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:fur_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:gla_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:gle_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:glg_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:gsw_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:hbs_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:hrv_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:hun_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ido_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ile_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ina_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ind_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:isl_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ita_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:kon_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:kur_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:lat_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:lij_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:lim_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:lld_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:lmo_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ltz_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:min_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:mlg_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:msa_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:nap_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:nds_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:nld_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:nno_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:nob_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:nor_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:nrm_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:oci_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:pcd_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:pms_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:pol_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:por_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:roh_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ron_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0445\u0430\u0439\u043c-\u043d\u0430-\u041c\u0443\u0440\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:sco_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:slk_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:slv_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:spa_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:srd_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0430\u0458\u043d\u0445\u0430\u0458\u043c \u0430\u043d \u0434\u0435\u0440 \u041c\u0443\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:swe_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:tum_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0433\u0430\u0439\u043c-\u0430\u043d-\u0434\u0435\u0440-\u041c\u0443\u0440\u0440"
+    ],
+    "name:und_x_variant":[
+        "Steinheim"
+    ],
+    "name:uzb_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:vec_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:vie_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:vls_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:vol_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:war_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:wln_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:wol_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5c14\u6cb3\u7554\u65bd\u6cf0\u56e0\u6d77\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Steinheim an der Murr"
+    ],
+    "nav:latitude":48.969214,
+    "nav:longitude":9.276791,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Ludwigsburg",
+    "qs:a2r":"Stuttgart",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Steinheim an der Murr",
+    "qs:la_lc":"*DE08101807070",
+    "qs:level":"locality",
+    "qs:loc":"Steinheim an der Murr",
+    "qs:loc_alt":"Steinheim an der Murr",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557964,
+    "qs_pg:gn_pop":12011,
+    "qs_pg:name":"Steinheim an der Murr, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":637987,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623237,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":23.18,
+    "wd:latitude":48.966667,
+    "wd:longitude":9.283333,
+    "wd:population":5344,
+    "wd:wordcount":104,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377687413,
+        404227549,
+        102063373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08118070",
+        "eurostat:nuts_2021_id":"08118070",
+        "gn:id":2827988,
+        "gp:id":20160170,
+        "qs_pg:id":308365,
+        "wd:id":"Q61707"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"f876fe331f2b04bff5d6c0188892b620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063373,
+            "localadmin_id":1377687413,
+            "locality_id":101827573,
+            "macrocounty_id":404227549,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101827573,
+    "wof:lastmodified":1690872008,
+    "wof:name":"Steinheim an der Murr",
+    "wof:parent_id":1377687413,
+    "wof:placetype":"locality",
+    "wof:population":12139,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125342769,
+        1125336625
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.214514,
+    48.950539,
+    9.351758,
+    48.995622
+],
+  "geometry": {"coordinates":[[[[9.309392,48.984358],[9.309876,48.980234],[9.314913,48.984362],[9.324742,48.985384],[9.328075,48.98433],[9.327954,48.98763],[9.328784,48.988916],[9.3312,48.989059],[9.334091,48.994468],[9.338887,48.995121],[9.342181,48.99457],[9.344566,48.994298],[9.348002,48.994091],[9.347188,48.990943],[9.350751,48.991123],[9.35101,48.990002],[9.351758,48.988462],[9.345666,48.985431],[9.344925,48.986116],[9.344943,48.981933],[9.338958,48.981305],[9.339108,48.976791],[9.340814,48.976862],[9.341802,48.968705],[9.338261,48.968812],[9.337982,48.973586],[9.333617,48.97497],[9.332758,48.973774],[9.334309,48.971766],[9.330719,48.971639],[9.330044,48.972999],[9.324776,48.97557],[9.323731,48.974147],[9.315999,48.972365],[9.314335,48.970018],[9.316764,48.964566],[9.312044,48.965415],[9.310672,48.961731],[9.307313,48.961704],[9.305772,48.958809],[9.308136,48.958789],[9.307219,48.956647],[9.305471,48.956062],[9.304778,48.954786],[9.301883,48.952569],[9.300305,48.950699],[9.299548,48.950619],[9.298791,48.950539],[9.29796,48.950554],[9.297051,48.950759],[9.296426,48.95118],[9.295726,48.951744],[9.2951,48.952213],[9.294582,48.952707],[9.294206,48.953275],[9.294044,48.953963],[9.292781,48.953902],[9.292907,48.953213],[9.290548,48.953616],[9.288596,48.953618],[9.288396,48.954402],[9.285415,48.953498],[9.283645,48.954909],[9.275177,48.953827],[9.27196,48.954103],[9.271934,48.955126],[9.270307,48.955186],[9.269484,48.956391],[9.270912,48.956658],[9.269384,48.958728],[9.270452,48.959163],[9.268751,48.963228],[9.267479,48.966252],[9.266511,48.968556],[9.265923,48.972327],[9.265742,48.973539],[9.262744,48.972679],[9.256283,48.976862],[9.256328,48.977771],[9.253706,48.978209],[9.231338,48.973442],[9.225374,48.973167],[9.225231,48.974982],[9.222199,48.974381],[9.220409,48.975944],[9.216683,48.975775],[9.214514,48.977171],[9.215068,48.977933],[9.219236,48.979969],[9.218169,48.983645],[9.220965,48.983866],[9.220741,48.985087],[9.222704,48.985271],[9.222166,48.990644],[9.220268,48.990569],[9.220006,48.993237],[9.225504,48.993651],[9.225343,48.994594],[9.235422,48.992846],[9.235732,48.995107],[9.245689,48.995436],[9.257509,48.995622],[9.258491,48.992511],[9.26111,48.990615],[9.261148,48.988043],[9.263124,48.988838],[9.26403,48.988669],[9.271722,48.992037],[9.273725,48.990116],[9.275834,48.991029],[9.282494,48.988206],[9.283182,48.987509],[9.282635,48.986908],[9.283516,48.986127],[9.284654,48.986016],[9.294085,48.985928],[9.297724,48.986325],[9.298632,48.985365],[9.300103,48.984575],[9.303335,48.984043],[9.305041,48.984718],[9.309392,48.984358]]]],"type":"MultiPolygon"}
+}

@@ -1,1 +1,143 @@
-{"id": 101909971, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4.4e-05, "geom:area_square_m": 328700.497742, "geom:bbox": "11.907694,52.682063,11.919716,52.687524", "geom:latitude": 52.685029, "geom:longitude": 11.912688, "gn:population": 404, "iso:country": "DE", "lbl:latitude": 52.684799, "lbl:longitude": 11.912574, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.684799, "mps:longitude": 11.912574, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041b\u0438\u043d\u0434\u0442\u043e\u0440\u0444"], "name:ceb_x_preferred": ["Lindtorf"], "name:che_x_preferred": ["\u041b\u0438\u043d\u0434\u0442\u043e\u0440\u0444"], "name:deu_x_preferred": ["Lindtorf"], "name:eng_x_preferred": ["Lindtorf"], "name:epo_x_preferred": ["Lindtorf"], "name:fas_x_preferred": ["\u0644\u06cc\u0646\u062f\u062a\u0648\u0631\u0641"], "name:fra_x_preferred": ["Lindtorf"], "name:gle_x_preferred": ["Lindtorf"], "name:ita_x_preferred": ["Lindtorf"], "name:nld_x_preferred": ["Lindtorf"], "name:ron_x_preferred": ["Lindtorf"], "name:rus_x_preferred": ["\u041b\u0438\u043d\u0434\u0442\u043e\u0440\u0444"], "name:tat_x_preferred": ["\u041b\u0438\u043d\u0434\u0442\u043e\u0440\u0444"], "name:uzb_x_preferred": ["Lindtorf"], "name:vie_x_preferred": ["Lindtorf"], "name:vol_x_preferred": ["Lindtorf"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Stendal", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Lindtorf", "qs:la_lc": "*DE15009001355", "qs:level": "locality", "qs:loc": "Lindtorf", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377689227, 85633111, 102063905], "wof:breaches": [], "wof:concordances": {"gn:id": 2877106, "gp:id": 672063, "qs_pg:id": 1239912, "wd:id": "Q648578", "wk:page": "Lindtorf"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "0cf7caeb40ca2a27f73ce12e48f37fdb", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063905, "localadmin_id": 1377689227, "locality_id": 101909971, "region_id": 85682519}], "wof:id": 101909971, "wof:lastmodified": 1690871399, "wof:name": "Lindtorf", "wof:parent_id": 1377689227, "wof:placetype": "locality", "wof:population": 404, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.907694, 52.682063, 11.919716, 52.687524], "geometry": {"coordinates": [[[11.919716, 52.687382], [11.919677, 52.686483], [11.918199, 52.686507], [11.91816, 52.685609], [11.916681, 52.685632], [11.916642, 52.684734], [11.915164, 52.684758], [11.915046, 52.682063], [11.909134, 52.682157], [11.909173, 52.683056], [11.907694, 52.683079], [11.907851, 52.686672], [11.910807, 52.686625], [11.910846, 52.687524], [11.919716, 52.687382]]], "type": "Polygon"}}
+{
+  "id": 101909971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":328700.497742,
+    "geom:bbox":"11.907694,52.682063,11.919716,52.687524",
+    "geom:latitude":52.685029,
+    "geom:longitude":11.912688,
+    "gn:population":404,
+    "iso:country":"DE",
+    "lbl:latitude":52.684799,
+    "lbl:longitude":11.912574,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.684799,
+    "mps:longitude":11.912574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041b\u0438\u043d\u0434\u0442\u043e\u0440\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u043d\u0434\u0442\u043e\u0440\u0444"
+    ],
+    "name:deu_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:eng_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:epo_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0646\u062f\u062a\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:gle_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:ita_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:nld_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:ron_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0434\u0442\u043e\u0440\u0444"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u043d\u0434\u0442\u043e\u0440\u0444"
+    ],
+    "name:uzb_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:vie_x_preferred":[
+        "Lindtorf"
+    ],
+    "name:vol_x_preferred":[
+        "Lindtorf"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Stendal",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Lindtorf",
+    "qs:la_lc":"*DE15009001355",
+    "qs:level":"locality",
+    "qs:loc":"Lindtorf",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689227,
+        85633111,
+        102063905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2877106,
+        "gp:id":672063,
+        "qs_pg:id":1239912,
+        "wd:id":"Q648578",
+        "wk:page":"Lindtorf"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"0cf7caeb40ca2a27f73ce12e48f37fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063905,
+            "localadmin_id":1377689227,
+            "locality_id":101909971,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909971,
+    "wof:lastmodified":1690871399,
+    "wof:name":"Lindtorf",
+    "wof:parent_id":1377689227,
+    "wof:placetype":"locality",
+    "wof:population":404,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.907694,
+    52.682063,
+    11.919716,
+    52.687524
+],
+  "geometry": {"coordinates":[[[11.919716,52.687382],[11.919677,52.686483],[11.918199,52.686507],[11.91816,52.685609],[11.916681,52.685632],[11.916642,52.684734],[11.915164,52.684758],[11.915046,52.682063],[11.909134,52.682157],[11.909173,52.683056],[11.907694,52.683079],[11.907851,52.686672],[11.910807,52.686625],[11.910846,52.687524],[11.919716,52.687382]]],"type":"Polygon"}
+}

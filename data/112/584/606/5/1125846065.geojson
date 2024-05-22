@@ -1,1 +1,210 @@
-{"id": 1125846065, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01053040", "eurostat:level_code": "lau", "eurostat:name_local": "Gro\u00df Disnack", "eurostat:nuts_2021_id": "01053040", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF06", "eurostat:nuts_2021_level_lau": "01053040", "eurostat:population": 84, "eurostat:population_year": 2020, "geom:area": 0.000805, "geom:area_square_m": 5890033.765772, "geom:bbox": "10.667153,53.719476,10.707939,53.755551", "geom:latitude": 53.73658, "geom:longitude": 10.689625, "gn:country": "DE", "gn:fcode": "PPLA4", "gn:population": 93, "iso:country": "DE", "lbl:latitude": 53.75, "lbl:longitude": 10.68333, "lbl:max_zoom": 18.0, "lbl:min_zoom": 13.0, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:cat_x_preferred": ["Gro\u00df Disnack"], "name:ceb_x_preferred": ["Gro\u00df Disnack"], "name:che_x_preferred": ["\u0413\u0440\u043e\u0441-\u0414\u0438\u0441\u043d\u0430\u043a"], "name:dan_x_preferred": ["Gro\u00df Disnack"], "name:deu_x_preferred": ["Gro\u00df Disnack"], "name:eng_x_preferred": ["Gro\u00df Disnack"], "name:epo_x_preferred": ["Gro\u00df Disnack"], "name:eus_x_preferred": ["Gro\u00df Disnack"], "name:fas_x_preferred": ["\u06af\u0631\u0648\u0633 \u062f\u06cc\u0633\u0646\u0627\u06a9"], "name:fra_x_preferred": ["Gro\u00df Disnack"], "name:frr_x_preferred": ["Gro\u00df Disnack"], "name:hun_x_preferred": ["Gro\u00df Disnack"], "name:ita_x_preferred": ["Gro\u00df Disnack"], "name:lld_x_preferred": ["Gro\u00df Disnack"], "name:mkd_x_preferred": ["\u0413\u0440\u043e\u0441 \u0414\u0438\u0441\u043d\u0430\u043a"], "name:msa_x_preferred": ["Gro\u00df Disnack"], "name:nan_x_preferred": ["Gro\u00df Disnack"], "name:nld_x_preferred": ["Gro\u00df Disnack"], "name:nob_x_preferred": ["Gro\u00df Disnack"], "name:pol_x_preferred": ["Gro\u00df Disnack"], "name:por_x_preferred": ["Gro\u00df Disnack"], "name:ron_x_preferred": ["Gro\u00df Disnack"], "name:rus_x_preferred": ["\u0413\u0440\u043e\u0441-\u0414\u0438\u0441\u043d\u0430\u043a"], "name:spa_x_preferred": ["Gro\u00df Disnack"], "name:srp_x_preferred": ["\u0413\u0440\u043e\u0441 \u0414\u0438\u0441\u043d\u0430\u043a"], "name:swe_x_preferred": ["Gro\u00df Disnack"], "name:tat_x_preferred": ["\u0413\u0440\u043e\u0441-\u0414\u0438\u0441\u043d\u0430\u043a"], "name:tur_x_preferred": ["Gross Disnack"], "name:ukr_x_preferred": ["\u0413\u0440\u043e\u0441-\u0414\u0456\u0441\u043d\u0430\u043a"], "name:uzb_x_preferred": ["Gro\u00df Disnack"], "name:vie_x_preferred": ["Gro\u00df Disnack"], "name:vol_x_preferred": ["Gro\u00df Disnack"], "name:war_x_preferred": ["Gro\u00df Disnack"], "name:zho_x_preferred": ["\u683c\u7f57\u65af\u8fea\u65af\u7eb3\u514b"], "nav:latitude": 53.75, "nav:longitude": 10.68333, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLA4", "qs_pg:gn_id": 2916861, "qs_pg:gn_pop": 93, "qs_pg:name": "Gro\u00df Disnack", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 1, "qs_pg:qs_id": 93797, "qs_pg:qs_pg_placetype": "locality", "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682517, 102191581, 1377683513, 85633111, 102064073], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01053040", "eurostat:nuts_2021_id": "01053040", "gn:id": 2916861, "qs_pg:id": 93797, "wd:id": "Q633624"}, "wof:country": "DE", "wof:created": 1497293165, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "c0b136e2833a8fb6fd8c4ee07a72b666", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064073, "localadmin_id": 1377683513, "locality_id": 1125846065, "region_id": 85682517}], "wof:id": 1125846065, "wof:lastmodified": 1690874576, "wof:name": "Gro\u00df Disnack", "wof:parent_id": 1377683513, "wof:placetype": "locality", "wof:population": 84, "wof:population_rank": 1, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125365819], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.667153, 53.719476, 10.707939, 53.755551], "geometry": {"coordinates": [[[[10.681143, 53.744261], [10.684064, 53.746827], [10.686293, 53.746994], [10.688276, 53.746524], [10.69063, 53.747562], [10.691317, 53.748612], [10.690184, 53.749611], [10.689429, 53.750214], [10.689768, 53.751409], [10.690411, 53.753061], [10.692238, 53.754864], [10.695213, 53.755551], [10.695803, 53.75529], [10.694798, 53.754303], [10.693584, 53.754107], [10.693217, 53.753308], [10.693317, 53.751915], [10.695012, 53.751419], [10.694311, 53.750503], [10.700111, 53.749263], [10.700072, 53.747422], [10.698535, 53.745951], [10.698955, 53.745124], [10.705479, 53.743352], [10.707939, 53.737966], [10.701653, 53.735254], [10.70289, 53.734147], [10.702348, 53.731624], [10.703026, 53.727598], [10.702931, 53.726583], [10.702956, 53.722225], [10.705239, 53.721377], [10.702278, 53.719711], [10.697278, 53.719476], [10.694374, 53.720361], [10.695347, 53.721186], [10.693883, 53.722401], [10.691093, 53.721831], [10.689801, 53.720746], [10.688457, 53.721871], [10.687157, 53.722322], [10.686548, 53.721748], [10.685172, 53.722172], [10.683028, 53.720324], [10.68185, 53.721072], [10.680369, 53.721964], [10.678751, 53.722604], [10.676904, 53.723083], [10.682404, 53.726911], [10.67262, 53.731525], [10.669849, 53.731798], [10.66871, 53.731225], [10.667257, 53.731676], [10.667153, 53.732215], [10.66861, 53.732635], [10.669974, 53.732885], [10.671293, 53.733054], [10.673615, 53.734048], [10.675664, 53.73471], [10.676466, 53.742022], [10.679481, 53.741919], [10.681441, 53.743021], [10.681143, 53.744261]]], [[[10.671097, 53.752667], [10.673711, 53.75428], [10.679366, 53.754326], [10.682839, 53.754734], [10.687341, 53.754746], [10.68475, 53.751291], [10.685552, 53.751056], [10.685547, 53.749834], [10.684363, 53.749423], [10.683281, 53.748023], [10.683565, 53.747052], [10.681724, 53.745437], [10.68047, 53.746499], [10.681444, 53.747351], [10.675145, 53.748861], [10.673468, 53.750426], [10.672241, 53.750626], [10.671097, 53.752667]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125846065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01053040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gro\u00df Disnack",
+    "eurostat:nuts_2021_id":"01053040",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF06",
+    "eurostat:nuts_2021_level_lau":"01053040",
+    "eurostat:population":84,
+    "eurostat:population_year":2020,
+    "geom:area":0.000805,
+    "geom:area_square_m":5890033.765772,
+    "geom:bbox":"10.667153,53.719476,10.707939,53.755551",
+    "geom:latitude":53.73658,
+    "geom:longitude":10.689625,
+    "gn:country":"DE",
+    "gn:fcode":"PPLA4",
+    "gn:population":93,
+    "iso:country":"DE",
+    "lbl:latitude":53.75,
+    "lbl:longitude":10.68333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:ceb_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0414\u0438\u0441\u043d\u0430\u043a"
+    ],
+    "name:dan_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:deu_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:eng_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:epo_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:eus_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0648\u0633 \u062f\u06cc\u0633\u0646\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:frr_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:hun_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:ita_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:lld_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0440\u043e\u0441 \u0414\u0438\u0441\u043d\u0430\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:nan_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:nld_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:nob_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:pol_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:por_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:ron_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0414\u0438\u0441\u043d\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u043e\u0441 \u0414\u0438\u0441\u043d\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0414\u0438\u0441\u043d\u0430\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Gross Disnack"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0414\u0456\u0441\u043d\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:vie_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:vol_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:war_x_preferred":[
+        "Gro\u00df Disnack"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u7f57\u65af\u8fea\u65af\u7eb3\u514b"
+    ],
+    "nav:latitude":53.75,
+    "nav:longitude":10.68333,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLA4",
+    "qs_pg:gn_id":2916861,
+    "qs_pg:gn_pop":93,
+    "qs_pg:name":"Gro\u00df Disnack",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":93797,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377683513,
+        85633111,
+        102064073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01053040",
+        "eurostat:nuts_2021_id":"01053040",
+        "gn:id":2916861,
+        "qs_pg:id":93797,
+        "wd:id":"Q633624"
+    },
+    "wof:country":"DE",
+    "wof:created":1497293165,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"c0b136e2833a8fb6fd8c4ee07a72b666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064073,
+            "localadmin_id":1377683513,
+            "locality_id":1125846065,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":1125846065,
+    "wof:lastmodified":1690874576,
+    "wof:name":"Gro\u00df Disnack",
+    "wof:parent_id":1377683513,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125365819
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.667153,
+    53.719476,
+    10.707939,
+    53.755551
+],
+  "geometry": {"coordinates":[[[[10.681143,53.744261],[10.684064,53.746827],[10.686293,53.746994],[10.688276,53.746524],[10.69063,53.747562],[10.691317,53.748612],[10.690184,53.749611],[10.689429,53.750214],[10.689768,53.751409],[10.690411,53.753061],[10.692238,53.754864],[10.695213,53.755551],[10.695803,53.75529],[10.694798,53.754303],[10.693584,53.754107],[10.693217,53.753308],[10.693317,53.751915],[10.695012,53.751419],[10.694311,53.750503],[10.700111,53.749263],[10.700072,53.747422],[10.698535,53.745951],[10.698955,53.745124],[10.705479,53.743352],[10.707939,53.737966],[10.701653,53.735254],[10.70289,53.734147],[10.702348,53.731624],[10.703026,53.727598],[10.702931,53.726583],[10.702956,53.722225],[10.705239,53.721377],[10.702278,53.719711],[10.697278,53.719476],[10.694374,53.720361],[10.695347,53.721186],[10.693883,53.722401],[10.691093,53.721831],[10.689801,53.720746],[10.688457,53.721871],[10.687157,53.722322],[10.686548,53.721748],[10.685172,53.722172],[10.683028,53.720324],[10.68185,53.721072],[10.680369,53.721964],[10.678751,53.722604],[10.676904,53.723083],[10.682404,53.726911],[10.67262,53.731525],[10.669849,53.731798],[10.66871,53.731225],[10.667257,53.731676],[10.667153,53.732215],[10.66861,53.732635],[10.669974,53.732885],[10.671293,53.733054],[10.673615,53.734048],[10.675664,53.73471],[10.676466,53.742022],[10.679481,53.741919],[10.681441,53.743021],[10.681143,53.744261]]],[[[10.671097,53.752667],[10.673711,53.75428],[10.679366,53.754326],[10.682839,53.754734],[10.687341,53.754746],[10.68475,53.751291],[10.685552,53.751056],[10.685547,53.749834],[10.684363,53.749423],[10.683281,53.748023],[10.683565,53.747052],[10.681724,53.745437],[10.68047,53.746499],[10.681444,53.747351],[10.675145,53.748861],[10.673468,53.750426],[10.672241,53.750626],[10.671097,53.752667]]]],"type":"MultiPolygon"}
+}

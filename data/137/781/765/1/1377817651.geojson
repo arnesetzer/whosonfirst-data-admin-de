@@ -1,1 +1,114 @@
-{"id": 1377817651, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.5,47.76667,11.5,47.76667", "geom:latitude": 47.76667, "geom:longitude": 11.5, "gn:admin1_code": "2", "gn:admin2_code": "91.0", "gn:admin3_code": "9173.0", "gn:admin4_code": "9173145.0", "gn:asciiname": "Spiegel", "gn:country_code": "DE", "gn:dem": 685, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2830566, "gn:latitude": 47.76667, "gn:longitude": 11.5, "gn:modification_date": "2013-02-19", "gn:name": "Spiegel", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "11.495,47.76167,11.505,47.77167", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ces_x_preferred": ["Spiegel"], "name:dan_x_preferred": ["Spiegel"], "name:deu_x_preferred": ["Spiegel"], "name:fra_x_preferred": ["Spiegel"], "name:heb_x_preferred": ["\u05e9\u05e4\u05d9\u05d2\u05dc"], "name:ita_x_preferred": ["Spiegel"], "name:jpn_x_preferred": ["\u30b7\u30e5\u30d4\u30fc\u30b2\u30eb"], "name:nld_x_preferred": ["Spiegel"], "name:rus_x_preferred": ["\u0428\u043f\u0438\u0433\u0435\u043b\u044c"], "name:spa_x_preferred": ["Spiegel"], "name:swe_x_preferred": ["Spiegel"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377691097, 404227567, 101853713, 102063225, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2830566}, "wof:country": "DE", "wof:geomhash": "1d242a16ee457ef9860d7adb95344d01", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063225, "localadmin_id": 1377691097, "locality_id": 101853713, "macrocounty_id": 404227567, "neighbourhood_id": 1377817651, "region_id": 85682571}], "wof:id": 1377817651, "wof:lastmodified": 1566719071, "wof:name": "Spiegel", "wof:parent_id": 101853713, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1209426923], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.5, 47.76667, 11.5, 47.76667], "geometry": {"coordinates": [11.5, 47.76667], "type": "Point"}}
+{
+  "id": 1377817651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5,47.76667,11.5,47.76667",
+    "geom:latitude":47.76667,
+    "geom:longitude":11.5,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9173.0",
+    "gn:admin4_code":"9173145.0",
+    "gn:asciiname":"Spiegel",
+    "gn:country_code":"DE",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2830566,
+    "gn:latitude":47.76667,
+    "gn:longitude":11.5,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Spiegel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"11.495,47.76167,11.505,47.77167",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ces_x_preferred":[
+        "Spiegel"
+    ],
+    "name:dan_x_preferred":[
+        "Spiegel"
+    ],
+    "name:deu_x_preferred":[
+        "Spiegel"
+    ],
+    "name:fra_x_preferred":[
+        "Spiegel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e4\u05d9\u05d2\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Spiegel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30d4\u30fc\u30b2\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Spiegel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043f\u0438\u0433\u0435\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Spiegel"
+    ],
+    "name:swe_x_preferred":[
+        "Spiegel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377691097,
+        404227567,
+        101853713,
+        102063225,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2830566
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"1d242a16ee457ef9860d7adb95344d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063225,
+            "localadmin_id":1377691097,
+            "locality_id":101853713,
+            "macrocounty_id":404227567,
+            "neighbourhood_id":1377817651,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1377817651,
+    "wof:lastmodified":1566719071,
+    "wof:name":"Spiegel",
+    "wof:parent_id":101853713,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209426923
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5,
+    47.76667,
+    11.5,
+    47.76667
+],
+  "geometry": {"coordinates":[11.5,47.76667],"type":"Point"}
+}

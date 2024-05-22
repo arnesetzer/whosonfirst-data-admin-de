@@ -1,1 +1,429 @@
-{"id": 101762861, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08325045", "eurostat:level_code": "lau", "eurostat:name_local": "Oberndorf am Neckar, Stadt", "eurostat:nuts_2021_id": "08325045", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE135", "eurostat:nuts_2021_level_lau": "08325045", "eurostat:population": 14077, "eurostat:population_year": 2020, "geom:area": 0.006784, "geom:area_square_m": 55804200.716539, "geom:bbox": "8.49343,48.260742,8.663213,48.331671", "geom:latitude": 48.295301, "geom:longitude": 8.570989, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 14484, "iso:country": "DE", "lbl:latitude": 48.314474, "lbl:longitude": 8.570569, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 48.314474, "mps:longitude": 8.570569, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:afr_x_preferred": ["Oberndorf am Neckar"], "name:als_x_preferred": ["Oberndorf am Neckar"], "name:ara_x_preferred": ["\u0623\u0648\u0628\u0631\u0646\u062f\u0648\u0631\u0641 \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"], "name:arg_x_preferred": ["Oberndorf am Neckar"], "name:ast_x_preferred": ["Oberndorf am Neckar"], "name:azb_x_preferred": ["\u0627\u0648\u0628\u0631\u0646\u062f\u0648\u0631\u0641 \u0622\u0645 \u0646\u06a9\u0627"], "name:bar_x_preferred": ["Oberndorf am Neckar"], "name:bre_x_preferred": ["Oberndorf am Neckar"], "name:cat_x_preferred": ["Oberndorf am Neckar"], "name:ceb_x_preferred": ["Oberndorf"], "name:ceb_x_variant": ["Oberndorf am Neckar"], "name:ces_x_preferred": ["Oberndorf am Neckar"], "name:che_x_preferred": ["\u041d\u0435\u043a\u043a\u0430\u0440-\u0442\u04c0\u0435\u0440\u0430-\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444"], "name:cos_x_preferred": ["Oberndorf am Neckar"], "name:cym_x_preferred": ["Oberndorf am Neckar"], "name:dan_x_preferred": ["Oberndorf am Neckar"], "name:deu_x_preferred": ["Oberndorf am Neckar"], "name:eng_x_preferred": ["Oberndorf am Neckar"], "name:epo_x_preferred": ["Oberndorf am Neckar"], "name:est_x_preferred": ["Oberndorf am Neckar"], "name:eus_x_preferred": ["Oberndorf am Neckar"], "name:fas_x_preferred": ["\u0627\u0648\u0628\u0631\u0646\u062f\u0648\u0631\u0641 \u0622\u0645 \u0646\u06a9\u0627"], "name:fin_x_preferred": ["Oberndorf am Neckar"], "name:fra_x_preferred": ["Oberndorf am Neckar"], "name:frp_x_preferred": ["Oberndorf am Neckar"], "name:fry_x_preferred": ["Oberndorf am Neckar"], "name:fur_x_preferred": ["Oberndorf am Neckar"], "name:gla_x_preferred": ["Oberndorf am Neckar"], "name:gle_x_preferred": ["Oberndorf am Neckar"], "name:glg_x_preferred": ["Oberndorf am Neckar"], "name:gsw_x_preferred": ["Oberndorf am Neckar"], "name:hbs_x_preferred": ["Oberndorf am Neckar"], "name:heb_x_preferred": ["\u05d0\u05d5\u05d1\u05e8\u05e0\u05d3\u05d5\u05e8\u05e3 \u05d0\u05dd \u05e0\u05e7\u05e8"], "name:hrv_x_preferred": ["Oberndorf am Neckar"], "name:hun_x_preferred": ["Oberndorf am Neckar"], "name:hye_x_preferred": ["\u0555\u0562\u0565\u0580\u0576\u0564\u0578\u0580\u0586 \u0561\u0574 \u0546\u0565\u056f\u0561\u0580"], "name:ido_x_preferred": ["Oberndorf am Neckar"], "name:ile_x_preferred": ["Oberndorf am Neckar"], "name:ina_x_preferred": ["Oberndorf am Neckar"], "name:ind_x_preferred": ["Oberndorf am Neckar"], "name:isl_x_preferred": ["Oberndorf am Neckar"], "name:ita_x_preferred": ["Oberndorf am Neckar"], "name:jpn_x_preferred": ["\u30aa\u30fc\u30d9\u30eb\u30f3\u30c9\u30eb\u30d5\u30fb\u30a2\u30e0\u30fb\u30cd\u30c3\u30ab\u30fc"], "name:kon_x_preferred": ["Oberndorf am Neckar"], "name:kur_x_preferred": ["Oberndorf am Neckar"], "name:lat_x_preferred": ["Oberndorfium"], "name:lij_x_preferred": ["Oberndorf am Neckar"], "name:lim_x_preferred": ["Oberndorf am Neckar"], "name:lit_x_preferred": ["Oberndorfas prie Nekaro"], "name:lld_x_preferred": ["Oberndorf am Neckar"], "name:lmo_x_preferred": ["Oberndorf am Neckar"], "name:ltz_x_preferred": ["Oberndorf am Neckar"], "name:min_x_preferred": ["Oberndorf am Neckar"], "name:mlg_x_preferred": ["Oberndorf am Neckar"], "name:msa_x_preferred": ["Oberndorf am Neckar"], "name:nap_x_preferred": ["Oberndorf am Neckar"], "name:nds_x_preferred": ["Oberndorf am Neckar"], "name:nld_x_preferred": ["Oberndorf am Neckar"], "name:nno_x_preferred": ["Oberndorf am Neckar"], "name:nob_x_preferred": ["Oberndorf am Neckar"], "name:nor_x_preferred": ["Oberndorf am Neckar"], "name:nrm_x_preferred": ["Oberndorf am Neckar"], "name:oci_x_preferred": ["Oberndorf am Neckar"], "name:pcd_x_preferred": ["Oberndorf am Neckar"], "name:pms_x_preferred": ["Oberndorf am Neckar"], "name:pol_x_preferred": ["Oberndorf am Neckar"], "name:por_x_preferred": ["Oberndorf"], "name:roh_x_preferred": ["Oberndorf am Neckar"], "name:ron_x_preferred": ["Oberndorf am Neckar"], "name:rus_x_preferred": ["\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"], "name:rus_x_variant": ["\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"], "name:scn_x_preferred": ["Oberndorf am Neckar"], "name:sco_x_preferred": ["Oberndorf am Neckar"], "name:slk_x_preferred": ["Oberndorf am Neckar"], "name:slv_x_preferred": ["Oberndorf am Neckar"], "name:spa_x_preferred": ["Oberndorf am Neckar"], "name:srd_x_preferred": ["Oberndorf am Neckar"], "name:srp_x_preferred": ["\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444 \u0430\u043c \u041d\u0435\u043a\u0430\u0440"], "name:swa_x_preferred": ["Oberndorf am Neckar"], "name:swe_x_preferred": ["Oberndorf am Neckar"], "name:tat_x_preferred": ["\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"], "name:tum_x_preferred": ["Oberndorf am Neckar"], "name:tur_x_preferred": ["Oberndorf am Neckar"], "name:ukr_x_preferred": ["\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"], "name:uzb_x_preferred": ["Oberndorf am Neckar"], "name:vec_x_preferred": ["Oberndorf am Neckar"], "name:vie_x_preferred": ["Oberndorf am Neckar"], "name:vls_x_preferred": ["Oberndorf am Neckar"], "name:vol_x_preferred": ["Oberndorf am Neckar"], "name:war_x_preferred": ["Oberndorf am Neckar"], "name:wln_x_preferred": ["Oberndorf am Neckar"], "name:wol_x_preferred": ["Oberndorf am Neckar"], "name:zho_x_preferred": ["\u5185\u5361\u6cb3\u7554\u5965\u4f2f\u6069\u591a\u592b"], "name:zul_x_preferred": ["Oberndorf am Neckar"], "nav:latitude": 48.314474, "nav:longitude": 8.570569, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Rottweil", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Oberndorf am Neckar", "qs:la_lc": "*DE08302502045", "qs:level": "locality", "qs:loc": "Oberndorf am Neckar", "qs:loc_alt": "Oberndorf am Neckar", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558117, "qs_pg:gn_pop": 14484, "qs_pg:name": "Oberndorf am Neckar, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 29, "qs_pg:photos_1k": 6, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 228, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 6, "qs_pg:qs_id": 638139, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623442, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 55.92, "wd:latitude": 48.291389, "wd:longitude": 8.5725, "wd:population": 13238, "wd:wordcount": 250, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689461, 404227543, 102063277], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08325045", "eurostat:nuts_2021_id": "08325045", "gn:id": 2859654, "gp:id": 681880, "qs_pg:id": 246704, "wd:id": "Q83206", "wk:page": "Oberndorf am Neckar"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "510c68aa9f4ce2711392f3c76f09ead7", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063277, "localadmin_id": 1377689461, "locality_id": 101762861, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101762861, "wof:lastmodified": 1690871906, "wof:name": "Oberndorf am Neckar", "wof:parent_id": 1377689461, "wof:placetype": "locality", "wof:population": 14077, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125338329, 1125316483], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.49343, 48.260742, 8.663213, 48.331671], "geometry": {"coordinates": [[[[8.61981, 48.316231], [8.621233, 48.314637], [8.622968, 48.315449], [8.623386, 48.310159], [8.626823, 48.310892], [8.626284, 48.306988], [8.631925, 48.308973], [8.63283, 48.308574], [8.631065, 48.307115], [8.633635, 48.305836], [8.634558, 48.307104], [8.636629, 48.306671], [8.638308, 48.306311], [8.642033, 48.304773], [8.641299, 48.304221], [8.644748, 48.302858], [8.649643, 48.303816], [8.6521, 48.303344], [8.65168, 48.302057], [8.653335, 48.303507], [8.654465, 48.303264], [8.655436, 48.302525], [8.658118, 48.302645], [8.659344, 48.301923], [8.661243, 48.301498], [8.660458, 48.2996], [8.662116, 48.299444], [8.662494, 48.298704], [8.663213, 48.29716], [8.662217, 48.295318], [8.66045, 48.29526], [8.659054, 48.294808], [8.656498, 48.29471], [8.655758, 48.293697], [8.654878, 48.293351], [8.648846, 48.293214], [8.640778, 48.292377], [8.639682, 48.291423], [8.640932, 48.289376], [8.636015, 48.288627], [8.632327, 48.286379], [8.628715, 48.285679], [8.626421, 48.285775], [8.621749, 48.285309], [8.619352, 48.284585], [8.621401, 48.282434], [8.621476, 48.280475], [8.619582, 48.278572], [8.620267, 48.278278], [8.619603, 48.277322], [8.6185, 48.277987], [8.61754, 48.277377], [8.615806, 48.275504], [8.614489, 48.272262], [8.613055, 48.271023], [8.611293, 48.268142], [8.607427, 48.266403], [8.606169, 48.264088], [8.587954, 48.260742], [8.584553, 48.260926], [8.578544, 48.262368], [8.572493, 48.264843], [8.568357, 48.264706], [8.567181, 48.266693], [8.564416, 48.267805], [8.549211, 48.265684], [8.544953, 48.263369], [8.534999, 48.262364], [8.528912, 48.265007], [8.522893, 48.264953], [8.523073, 48.26752], [8.522162, 48.269068], [8.522956, 48.269739], [8.522216, 48.270733], [8.520742, 48.270203], [8.519632, 48.271343], [8.521348, 48.272201], [8.51733, 48.274971], [8.518391, 48.276051], [8.516662, 48.275499], [8.515963, 48.278445], [8.516539, 48.279193], [8.514747, 48.28079], [8.516542, 48.281346], [8.516642, 48.282418], [8.518521, 48.282666], [8.519246, 48.284131], [8.519322, 48.284918], [8.52146, 48.284932], [8.520367, 48.285845], [8.520664, 48.287154], [8.523038, 48.289113], [8.522071, 48.289707], [8.523038, 48.290111], [8.523179, 48.290968], [8.521382, 48.292087], [8.522363, 48.293166], [8.524541, 48.293636], [8.524367, 48.295594], [8.521938, 48.296675], [8.521154, 48.29774], [8.51871, 48.297516], [8.518353, 48.298679], [8.515907, 48.298149], [8.515143, 48.298711], [8.515524, 48.299302], [8.512129, 48.298926], [8.511892, 48.301099], [8.509589, 48.301714], [8.508742, 48.304324], [8.50751, 48.304779], [8.507265, 48.306834], [8.506289, 48.307968], [8.507251, 48.308165], [8.506252, 48.309541], [8.506444, 48.311775], [8.502117, 48.311409], [8.493671, 48.31023], [8.49343, 48.312168], [8.494052, 48.314437], [8.495335, 48.316691], [8.495576, 48.318728], [8.499533, 48.319906], [8.499287, 48.320963], [8.498832, 48.322852], [8.499087, 48.323605], [8.499976, 48.326237], [8.500578, 48.327327], [8.504747, 48.327636], [8.507321, 48.328357], [8.512215, 48.325739], [8.516504, 48.326059], [8.519472, 48.326715], [8.520639, 48.325189], [8.524265, 48.325217], [8.527663, 48.325584], [8.528727, 48.321277], [8.532331, 48.321189], [8.534543, 48.319151], [8.535734, 48.321411], [8.545409, 48.319569], [8.548806, 48.319926], [8.554182, 48.318339], [8.554665, 48.316693], [8.557396, 48.318567], [8.560111, 48.318443], [8.561132, 48.321267], [8.561467, 48.322353], [8.567569, 48.321839], [8.569875, 48.323192], [8.572591, 48.323795], [8.585001, 48.324011], [8.585778, 48.324855], [8.585172, 48.32587], [8.585213, 48.32722], [8.586262, 48.328326], [8.583325, 48.32859], [8.583537, 48.329394], [8.587139, 48.329367], [8.587764, 48.331671], [8.589857, 48.331266], [8.593595, 48.331223], [8.593178, 48.330155], [8.594854, 48.328673], [8.595897, 48.326469], [8.595899, 48.323987], [8.596816, 48.323292], [8.598411, 48.323887], [8.599601, 48.322765], [8.597789, 48.320107], [8.599009, 48.31752], [8.601957, 48.317976], [8.602447, 48.317166], [8.605129, 48.317545], [8.606036, 48.316418], [8.60617, 48.314001], [8.608042, 48.312199], [8.615329, 48.313355], [8.61981, 48.316231]]]], "type": "MultiPolygon"}}
+{
+  "id": 101762861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08325045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberndorf am Neckar, Stadt",
+    "eurostat:nuts_2021_id":"08325045",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE135",
+    "eurostat:nuts_2021_level_lau":"08325045",
+    "eurostat:population":14077,
+    "eurostat:population_year":2020,
+    "geom:area":0.006784,
+    "geom:area_square_m":55804200.716539,
+    "geom:bbox":"8.49343,48.260742,8.663213,48.331671",
+    "geom:latitude":48.295301,
+    "geom:longitude":8.570989,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":14484,
+    "iso:country":"DE",
+    "lbl:latitude":48.314474,
+    "lbl:longitude":8.570569,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":48.314474,
+    "mps:longitude":8.570569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:als_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0628\u0631\u0646\u062f\u0648\u0631\u0641 \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"
+    ],
+    "name:arg_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ast_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0628\u0631\u0646\u062f\u0648\u0631\u0641 \u0622\u0645 \u0646\u06a9\u0627"
+    ],
+    "name:bar_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:bre_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:cat_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ceb_x_preferred":[
+        "Oberndorf"
+    ],
+    "name:ceb_x_variant":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ces_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0435\u043a\u043a\u0430\u0440-\u0442\u04c0\u0435\u0440\u0430-\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:cos_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:cym_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:dan_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:deu_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:eng_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:epo_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:est_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:eus_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0628\u0631\u0646\u062f\u0648\u0631\u0641 \u0622\u0645 \u0646\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:fra_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:frp_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:fry_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:fur_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:gla_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:gle_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:glg_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:gsw_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:hbs_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d1\u05e8\u05e0\u05d3\u05d5\u05e8\u05e3 \u05d0\u05dd \u05e0\u05e7\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:hun_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0562\u0565\u0580\u0576\u0564\u0578\u0580\u0586 \u0561\u0574 \u0546\u0565\u056f\u0561\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ile_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ina_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ind_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:isl_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ita_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30d9\u30eb\u30f3\u30c9\u30eb\u30d5\u30fb\u30a2\u30e0\u30fb\u30cd\u30c3\u30ab\u30fc"
+    ],
+    "name:kon_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:kur_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:lat_x_preferred":[
+        "Oberndorfium"
+    ],
+    "name:lij_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:lim_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:lit_x_preferred":[
+        "Oberndorfas prie Nekaro"
+    ],
+    "name:lld_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:lmo_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ltz_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:min_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:mlg_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:msa_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:nap_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:nds_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:nld_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:nno_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:nob_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:nor_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:nrm_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:oci_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:pcd_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:pms_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:pol_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:por_x_preferred":[
+        "Oberndorf"
+    ],
+    "name:roh_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ron_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:sco_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:slk_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:slv_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:spa_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:srd_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444 \u0430\u043c \u041d\u0435\u043a\u0430\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:swe_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"
+    ],
+    "name:tum_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:tur_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:vec_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:vie_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:vls_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:vol_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:war_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:wln_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:wol_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u5361\u6cb3\u7554\u5965\u4f2f\u6069\u591a\u592b"
+    ],
+    "name:zul_x_preferred":[
+        "Oberndorf am Neckar"
+    ],
+    "nav:latitude":48.314474,
+    "nav:longitude":8.570569,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Rottweil",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Oberndorf am Neckar",
+    "qs:la_lc":"*DE08302502045",
+    "qs:level":"locality",
+    "qs:loc":"Oberndorf am Neckar",
+    "qs:loc_alt":"Oberndorf am Neckar",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558117,
+    "qs_pg:gn_pop":14484,
+    "qs_pg:name":"Oberndorf am Neckar, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":228,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":638139,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623442,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":55.92,
+    "wd:latitude":48.291389,
+    "wd:longitude":8.5725,
+    "wd:population":13238,
+    "wd:wordcount":250,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689461,
+        404227543,
+        102063277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08325045",
+        "eurostat:nuts_2021_id":"08325045",
+        "gn:id":2859654,
+        "gp:id":681880,
+        "qs_pg:id":246704,
+        "wd:id":"Q83206",
+        "wk:page":"Oberndorf am Neckar"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"510c68aa9f4ce2711392f3c76f09ead7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063277,
+            "localadmin_id":1377689461,
+            "locality_id":101762861,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101762861,
+    "wof:lastmodified":1690871906,
+    "wof:name":"Oberndorf am Neckar",
+    "wof:parent_id":1377689461,
+    "wof:placetype":"locality",
+    "wof:population":14077,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125338329,
+        1125316483
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49343,
+    48.260742,
+    8.663213,
+    48.331671
+],
+  "geometry": {"coordinates":[[[[8.61981,48.316231],[8.621233,48.314637],[8.622968,48.315449],[8.623386,48.310159],[8.626823,48.310892],[8.626284,48.306988],[8.631925,48.308973],[8.63283,48.308574],[8.631065,48.307115],[8.633635,48.305836],[8.634558,48.307104],[8.636629,48.306671],[8.638308,48.306311],[8.642033,48.304773],[8.641299,48.304221],[8.644748,48.302858],[8.649643,48.303816],[8.6521,48.303344],[8.65168,48.302057],[8.653335,48.303507],[8.654465,48.303264],[8.655436,48.302525],[8.658118,48.302645],[8.659344,48.301923],[8.661243,48.301498],[8.660458,48.2996],[8.662116,48.299444],[8.662494,48.298704],[8.663213,48.29716],[8.662217,48.295318],[8.66045,48.29526],[8.659054,48.294808],[8.656498,48.29471],[8.655758,48.293697],[8.654878,48.293351],[8.648846,48.293214],[8.640778,48.292377],[8.639682,48.291423],[8.640932,48.289376],[8.636015,48.288627],[8.632327,48.286379],[8.628715,48.285679],[8.626421,48.285775],[8.621749,48.285309],[8.619352,48.284585],[8.621401,48.282434],[8.621476,48.280475],[8.619582,48.278572],[8.620267,48.278278],[8.619603,48.277322],[8.6185,48.277987],[8.61754,48.277377],[8.615806,48.275504],[8.614489,48.272262],[8.613055,48.271023],[8.611293,48.268142],[8.607427,48.266403],[8.606169,48.264088],[8.587954,48.260742],[8.584553,48.260926],[8.578544,48.262368],[8.572493,48.264843],[8.568357,48.264706],[8.567181,48.266693],[8.564416,48.267805],[8.549211,48.265684],[8.544953,48.263369],[8.534999,48.262364],[8.528912,48.265007],[8.522893,48.264953],[8.523073,48.26752],[8.522162,48.269068],[8.522956,48.269739],[8.522216,48.270733],[8.520742,48.270203],[8.519632,48.271343],[8.521348,48.272201],[8.51733,48.274971],[8.518391,48.276051],[8.516662,48.275499],[8.515963,48.278445],[8.516539,48.279193],[8.514747,48.28079],[8.516542,48.281346],[8.516642,48.282418],[8.518521,48.282666],[8.519246,48.284131],[8.519322,48.284918],[8.52146,48.284932],[8.520367,48.285845],[8.520664,48.287154],[8.523038,48.289113],[8.522071,48.289707],[8.523038,48.290111],[8.523179,48.290968],[8.521382,48.292087],[8.522363,48.293166],[8.524541,48.293636],[8.524367,48.295594],[8.521938,48.296675],[8.521154,48.29774],[8.51871,48.297516],[8.518353,48.298679],[8.515907,48.298149],[8.515143,48.298711],[8.515524,48.299302],[8.512129,48.298926],[8.511892,48.301099],[8.509589,48.301714],[8.508742,48.304324],[8.50751,48.304779],[8.507265,48.306834],[8.506289,48.307968],[8.507251,48.308165],[8.506252,48.309541],[8.506444,48.311775],[8.502117,48.311409],[8.493671,48.31023],[8.49343,48.312168],[8.494052,48.314437],[8.495335,48.316691],[8.495576,48.318728],[8.499533,48.319906],[8.499287,48.320963],[8.498832,48.322852],[8.499087,48.323605],[8.499976,48.326237],[8.500578,48.327327],[8.504747,48.327636],[8.507321,48.328357],[8.512215,48.325739],[8.516504,48.326059],[8.519472,48.326715],[8.520639,48.325189],[8.524265,48.325217],[8.527663,48.325584],[8.528727,48.321277],[8.532331,48.321189],[8.534543,48.319151],[8.535734,48.321411],[8.545409,48.319569],[8.548806,48.319926],[8.554182,48.318339],[8.554665,48.316693],[8.557396,48.318567],[8.560111,48.318443],[8.561132,48.321267],[8.561467,48.322353],[8.567569,48.321839],[8.569875,48.323192],[8.572591,48.323795],[8.585001,48.324011],[8.585778,48.324855],[8.585172,48.32587],[8.585213,48.32722],[8.586262,48.328326],[8.583325,48.32859],[8.583537,48.329394],[8.587139,48.329367],[8.587764,48.331671],[8.589857,48.331266],[8.593595,48.331223],[8.593178,48.330155],[8.594854,48.328673],[8.595897,48.326469],[8.595899,48.323987],[8.596816,48.323292],[8.598411,48.323887],[8.599601,48.322765],[8.597789,48.320107],[8.599009,48.31752],[8.601957,48.317976],[8.602447,48.317166],[8.605129,48.317545],[8.606036,48.316418],[8.60617,48.314001],[8.608042,48.312199],[8.615329,48.313355],[8.61981,48.316231]]]],"type":"MultiPolygon"}
+}

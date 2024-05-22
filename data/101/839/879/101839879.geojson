@@ -1,1 +1,452 @@
-{"id": 101839879, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08128007", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Mergentheim, Stadt", "eurostat:nuts_2021_id": "08128007", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE11", "eurostat:nuts_2021_level_3": "DE11B", "eurostat:nuts_2021_level_lau": "08128007", "eurostat:population": 23883, "eurostat:population_year": 2020, "geom:area": 0.016156, "geom:area_square_m": 129859935.261335, "geom:bbox": "9.69188,49.388454,9.867595,49.529551", "geom:latitude": 49.454737, "geom:longitude": 9.773706, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 22511, "iso:country": "DE", "lbl:latitude": 49.490887, "lbl:longitude": 9.77108, "lbl:max_zoom": 14.0, "lbl:min_zoom": 10.0, "mps:latitude": 49.490887, "mps:longitude": 9.77108, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 9.0, "name:afr_x_preferred": ["Bad Mergentheim"], "name:als_x_preferred": ["Bad Mergentheim"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0645\u0631\u063a\u0646\u062a\u0647\u0627\u064a\u0645"], "name:ara_x_variant": ["\u0628\u0627\u062f \u0645\u0631\u063a\u0646\u062a\u200c\u0647\u0627\u064a\u0645"], "name:arg_x_preferred": ["Bad Mergentheim"], "name:ast_x_preferred": ["Bad Mergentheim"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0645\u0631\u0642\u0646\u062a\u200c\u0647\u0627\u06cc\u0645"], "name:bar_x_preferred": ["Bad Mergentheim"], "name:bel_x_preferred": ["\u0411\u0430\u0434 \u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"], "name:bel_x_variant": ["\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0433\u0430\u0439\u043c"], "name:bre_x_preferred": ["Bad Mergentheim"], "name:bul_x_preferred": ["\u0411\u0430\u0434 \u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"], "name:cat_x_preferred": ["Bad Mergentheim"], "name:ceb_x_preferred": ["Bad Mergentheim"], "name:ces_x_preferred": ["Bad Mergentheim"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"], "name:cos_x_preferred": ["Bad Mergentheim"], "name:cym_x_preferred": ["Bad Mergentheim"], "name:dan_x_preferred": ["Bad Mergentheim"], "name:deu_x_preferred": ["Bad Mergentheim"], "name:ell_x_preferred": ["\u039c\u03c0\u03b1\u03bd\u03c4 \u039c\u03ad\u03c1\u03b3\u03ba\u03b5\u03bd\u03c4\u03c7\u03b1\u03ca\u03bc"], "name:eng_x_preferred": ["Bad Mergentheim"], "name:epo_x_preferred": ["Bad Mergentheim"], "name:est_x_preferred": ["Bad Mergentheim"], "name:eus_x_preferred": ["Bad Mergentheim"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0645\u0631\u06af\u0646\u062a\u200c\u0647\u0627\u06cc\u0645"], "name:fin_x_preferred": ["Bad Mergentheim"], "name:fra_x_preferred": ["Bad Mergentheim"], "name:frp_x_preferred": ["Bad Mergentheim"], "name:fur_x_preferred": ["Bad Mergentheim"], "name:gla_x_preferred": ["Bad Mergentheim"], "name:gle_x_preferred": ["Bad Mergentheim"], "name:glg_x_preferred": ["Bad Mergentheim"], "name:gsw_x_preferred": ["Bad Mergentheim"], "name:hbs_x_preferred": ["Bad Mergentheim"], "name:heb_x_preferred": ["\u05de\u05e8\u05d2\u05e0\u05d8\u05d4\u05d9\u05d9\u05dd"], "name:hrv_x_preferred": ["Bad Mergentheim"], "name:hun_x_preferred": ["Bad Mergentheim"], "name:hye_x_preferred": ["\u0532\u0561\u0564 \u0544\u0565\u0580\u0563\u0565\u0576\u057f\u0570\u0561\u0575\u0574"], "name:ido_x_preferred": ["Bad Mergentheim"], "name:ile_x_preferred": ["Bad Mergentheim"], "name:ina_x_preferred": ["Bad Mergentheim"], "name:ind_x_preferred": ["Bad Mergentheim"], "name:isl_x_preferred": ["Bad Mergentheim"], "name:ita_x_preferred": ["Bad Mergentheim"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30e1\u30eb\u30b2\u30f3\u30c8\u30cf\u30a4\u30e0"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"], "name:kon_x_preferred": ["Bad Mergentheim"], "name:kur_x_preferred": ["Bad Mergentheim"], "name:lat_x_preferred": ["Bad Mergentheim"], "name:lij_x_preferred": ["Bad Mergentheim"], "name:lim_x_preferred": ["Bad Mergentheim"], "name:lit_x_preferred": ["Bad Mergentheimas"], "name:lld_x_preferred": ["Bad Mergentheim"], "name:lmo_x_preferred": ["Bad Mergentheim"], "name:ltz_x_preferred": ["Bad Mergentheim"], "name:min_x_preferred": ["Bad Mergentheim"], "name:mlg_x_preferred": ["Bad Mergentheim"], "name:msa_x_preferred": ["Bad Mergentheim"], "name:nap_x_preferred": ["Bad Mergentheim"], "name:nds_x_preferred": ["Bad Mergentheim"], "name:nld_x_preferred": ["Bad Mergentheim"], "name:nno_x_preferred": ["Bad Mergentheim"], "name:nob_x_preferred": ["Bad Mergentheim"], "name:nor_x_preferred": ["Bad Mergentheim"], "name:nrm_x_preferred": ["Bad Mergentheim"], "name:oci_x_preferred": ["Bad Mergentheim"], "name:pcd_x_preferred": ["Bad Mergentheim"], "name:pms_x_preferred": ["Bad Mergentheim"], "name:pol_x_preferred": ["Bad Mergentheim"], "name:por_x_preferred": ["Bad Mergentheim"], "name:roh_x_preferred": ["Bad Mergentheim"], "name:ron_x_preferred": ["Bad Mergentheim"], "name:rup_x_preferred": ["Bad Mergentheim"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"], "name:scn_x_preferred": ["Bad Mergentheim"], "name:sco_x_preferred": ["Bad Mergentheim"], "name:slk_x_preferred": ["Bad Mergentheim"], "name:slv_x_preferred": ["Bad Mergentheim"], "name:spa_x_preferred": ["Bad Mergentheim"], "name:srd_x_preferred": ["Bad Mergentheim"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0458\u043c"], "name:swa_x_preferred": ["Bad Mergentheim"], "name:swe_x_preferred": ["Bad Mergentheim"], "name:szl_x_preferred": ["Bad Mergentheim"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"], "name:tum_x_preferred": ["Bad Mergentheim"], "name:tur_x_preferred": ["Bad Mergentheim"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0433\u0430\u0439\u043c"], "name:uzb_x_preferred": ["Bad Mergentheim"], "name:vec_x_preferred": ["Bad Mergentheim"], "name:vie_x_preferred": ["Bad Mergentheim"], "name:vls_x_preferred": ["Bad Mergentheim"], "name:vol_x_preferred": ["Bad Mergentheim"], "name:war_x_preferred": ["Bad Mergentheim"], "name:wln_x_preferred": ["Bad Mergentheim"], "name:wol_x_preferred": ["Bad Mergentheim"], "name:zho_x_preferred": ["\u5df4\u7279\u6885\u5c14\u6839\u7279\u6d77\u59c6"], "name:zho_x_variant": ["\u5df4\u5fb7\u6885\u5c14\u6839\u6cf0\u59c6"], "name:zul_x_preferred": ["Bad Mergentheim"], "nav:latitude": 49.490887, "nav:longitude": 9.77108, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Main-Tauber-Kreis", "qs:a2r": "Stuttgart", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Igersheim", "qs:la_lc": "*DE08102801058", "qs:level": "locality", "qs:loc": "Bad Mergentheim", "qs:loc_alt": "Bad Mergentheim", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-multi-in-poly-resolved", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558009, "qs_pg:gn_pop": 22511, "qs_pg:name": "Bad Mergentheim, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 234, "qs_pg:photos_1k": 47, "qs_pg:photos_9k": 5, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 1116, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 7, "qs_pg:qs_id": 638033, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12624174, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 49.5, "wd:longitude": 9.766667, "wd:wordcount": 686, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377687989, 404227549, 102063515], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08128007", "eurostat:nuts_2021_id": "08128007", "fct:id": "0736cd52-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2953402, "gp:id": 636465, "qs_pg:id": 142892, "wd:id": "Q61942", "wk:page": "Bad Mergentheim"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "313609af9d9126b5a2cf5c8288aa8c95", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063515, "localadmin_id": 1377687989, "locality_id": 101839879, "macrocounty_id": 404227549, "region_id": 85682567}], "wof:id": 101839879, "wof:lang": ["ger"], "wof:lastmodified": 1690873742, "wof:name": "Bad Mergentheim", "wof:parent_id": 1377687989, "wof:placetype": "locality", "wof:population": 23883, "wof:population_rank": 7, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125342793, 1125316913], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.69188, 49.388454, 9.867595, 49.529551], "geometry": {"coordinates": [[[[9.800612, 49.524663], [9.796917, 49.521257], [9.795712, 49.518605], [9.797245, 49.514872], [9.803057, 49.511453], [9.801611, 49.508287], [9.795074, 49.503757], [9.794992, 49.499951], [9.794961, 49.498277], [9.795295, 49.497182], [9.798179, 49.497371], [9.800253, 49.495323], [9.800803, 49.489768], [9.800901, 49.488778], [9.804212, 49.488052], [9.803531, 49.487409], [9.80682, 49.484379], [9.805623, 49.48314], [9.813126, 49.48279], [9.813454, 49.482045], [9.815606, 49.483156], [9.819994, 49.481401], [9.825694, 49.48453], [9.837455, 49.483862], [9.851593, 49.485986], [9.853536, 49.486276], [9.853852, 49.485423], [9.856891, 49.477074], [9.85519, 49.474195], [9.851219, 49.473866], [9.851488, 49.472329], [9.854235, 49.471328], [9.8525, 49.467936], [9.856954, 49.455906], [9.849679, 49.455073], [9.850396, 49.452063], [9.842619, 49.447619], [9.84321, 49.44173], [9.846985, 49.438055], [9.848389, 49.431235], [9.847116, 49.425945], [9.847236, 49.423708], [9.84937, 49.417881], [9.851753, 49.415979], [9.861124, 49.417445], [9.867595, 49.416993], [9.865612, 49.414879], [9.863771, 49.413735], [9.862427, 49.413346], [9.861265, 49.412911], [9.860285, 49.412549], [9.859305, 49.412186], [9.858181, 49.41168], [9.857241, 49.411056], [9.856663, 49.410576], [9.856305, 49.410098], [9.85624, 49.409527], [9.856611, 49.409053], [9.857163, 49.408675], [9.857897, 49.408346], [9.85834, 49.407944], [9.858494, 49.407374], [9.858863, 49.407042], [9.858943, 49.406519], [9.85873, 49.40609], [9.858079, 49.405657], [9.857246, 49.405224], [9.856377, 49.404743], [9.85558, 49.40431], [9.855256, 49.403999], [9.854196, 49.404183], [9.85136, 49.403548], [9.84956, 49.403822], [9.849086, 49.4022], [9.845042, 49.399541], [9.842695, 49.399842], [9.843955, 49.396386], [9.841145, 49.396279], [9.83739, 49.393684], [9.831919, 49.391673], [9.830433, 49.394471], [9.828628, 49.394415], [9.828846, 49.393616], [9.82664, 49.392712], [9.820877, 49.389934], [9.818967, 49.391469], [9.814655, 49.389392], [9.811251, 49.388454], [9.808074, 49.390881], [9.80623, 49.393533], [9.804146, 49.395625], [9.80338, 49.396178], [9.800791, 49.395073], [9.800685, 49.397646], [9.802486, 49.397963], [9.803104, 49.401943], [9.803411, 49.403564], [9.804933, 49.40414], [9.801171, 49.405952], [9.800002, 49.4076], [9.792447, 49.407598], [9.790526, 49.406992], [9.788646, 49.406395], [9.7894, 49.40577], [9.789605, 49.404971], [9.787662, 49.403079], [9.785665, 49.400133], [9.784321, 49.399684], [9.779888, 49.396561], [9.777833, 49.395756], [9.774586, 49.393558], [9.769627, 49.397889], [9.767946, 49.398751], [9.763561, 49.397067], [9.761275, 49.397835], [9.758952, 49.397406], [9.75752, 49.398206], [9.758415, 49.40092], [9.757242, 49.402828], [9.753879, 49.400098], [9.751021, 49.398622], [9.751279, 49.395367], [9.749348, 49.394571], [9.748126, 49.394257], [9.745524, 49.394978], [9.741892, 49.396267], [9.740676, 49.399074], [9.731289, 49.398246], [9.725663, 49.398378], [9.720047, 49.397863], [9.716484, 49.39827], [9.712203, 49.398771], [9.711728, 49.400873], [9.710086, 49.402642], [9.709373, 49.405006], [9.710407, 49.40573], [9.712331, 49.407813], [9.711826, 49.41085], [9.710836, 49.413173], [9.710487, 49.414259], [9.709535, 49.41517], [9.706231, 49.416496], [9.714441, 49.429634], [9.71316, 49.434582], [9.710203, 49.436568], [9.708065, 49.44321], [9.710913, 49.448745], [9.709828, 49.450105], [9.702481, 49.448784], [9.699669, 49.452777], [9.699642, 49.458534], [9.704119, 49.46149], [9.705596, 49.464829], [9.704044, 49.46605], [9.704894, 49.468881], [9.704294, 49.471738], [9.702073, 49.471632], [9.700253, 49.470702], [9.695565, 49.471181], [9.69473, 49.473226], [9.697166, 49.474503], [9.695156, 49.474957], [9.69188, 49.478478], [9.69345, 49.48036], [9.69848, 49.482618], [9.697221, 49.48359], [9.699285, 49.484855], [9.695139, 49.493255], [9.695763, 49.495563], [9.694578, 49.497858], [9.692693, 49.498249], [9.693571, 49.499461], [9.699836, 49.501449], [9.700806, 49.502417], [9.700307, 49.503906], [9.700624, 49.505557], [9.703922, 49.508297], [9.708536, 49.507738], [9.708258, 49.506855], [9.711001, 49.506756], [9.714903, 49.508401], [9.723892, 49.508724], [9.724427, 49.516662], [9.731515, 49.520948], [9.730791, 49.523003], [9.734409, 49.525799], [9.736916, 49.523702], [9.739255, 49.521738], [9.745517, 49.5225], [9.748599, 49.520775], [9.759403, 49.520927], [9.768826, 49.52286], [9.777443, 49.524166], [9.784192, 49.523831], [9.786073, 49.526533], [9.785309, 49.529551], [9.788818, 49.525939], [9.795962, 49.526037], [9.798776, 49.52547], [9.800612, 49.524663]]]], "type": "MultiPolygon"}}
+{
+  "id": 101839879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08128007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Mergentheim, Stadt",
+    "eurostat:nuts_2021_id":"08128007",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE11",
+    "eurostat:nuts_2021_level_3":"DE11B",
+    "eurostat:nuts_2021_level_lau":"08128007",
+    "eurostat:population":23883,
+    "eurostat:population_year":2020,
+    "geom:area":0.016156,
+    "geom:area_square_m":129859935.261335,
+    "geom:bbox":"9.69188,49.388454,9.867595,49.529551",
+    "geom:latitude":49.454737,
+    "geom:longitude":9.773706,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":22511,
+    "iso:country":"DE",
+    "lbl:latitude":49.490887,
+    "lbl:longitude":9.77108,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
+    "mps:latitude":49.490887,
+    "mps:longitude":9.77108,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:als_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0645\u0631\u063a\u0646\u062a\u0647\u0627\u064a\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u062f \u0645\u0631\u063a\u0646\u062a\u200c\u0647\u0627\u064a\u0645"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0645\u0631\u0642\u0646\u062a\u200c\u0647\u0627\u06cc\u0645"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0434 \u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0433\u0430\u0439\u043c"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0434 \u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4 \u039c\u03ad\u03c1\u03b3\u03ba\u03b5\u03bd\u03c4\u03c7\u03b1\u03ca\u03bc"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:est_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0645\u0631\u06af\u0646\u062a\u200c\u0647\u0627\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d2\u05e0\u05d8\u05d4\u05d9\u05d9\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0564 \u0544\u0565\u0580\u0563\u0565\u0576\u057f\u0570\u0561\u0575\u0574"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30e1\u30eb\u30b2\u30f3\u30c8\u30cf\u30a4\u30e0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:lat_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:lit_x_preferred":[
+        "Bad Mergentheimas"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:lmo_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:min_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:nor_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:por_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:rup_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0458\u043c"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:szl_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0445\u0430\u0439\u043c"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u041c\u0435\u0440\u0433\u0435\u043d\u0442\u0433\u0430\u0439\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:war_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u6885\u5c14\u6839\u7279\u6d77\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u6885\u5c14\u6839\u6cf0\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Mergentheim"
+    ],
+    "nav:latitude":49.490887,
+    "nav:longitude":9.77108,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Main-Tauber-Kreis",
+    "qs:a2r":"Stuttgart",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Igersheim",
+    "qs:la_lc":"*DE08102801058",
+    "qs:level":"locality",
+    "qs:loc":"Bad Mergentheim",
+    "qs:loc_alt":"Bad Mergentheim",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558009,
+    "qs_pg:gn_pop":22511,
+    "qs_pg:name":"Bad Mergentheim, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":234,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1116,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":638033,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12624174,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":49.5,
+    "wd:longitude":9.766667,
+    "wd:wordcount":686,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377687989,
+        404227549,
+        102063515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08128007",
+        "eurostat:nuts_2021_id":"08128007",
+        "fct:id":"0736cd52-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2953402,
+        "gp:id":636465,
+        "qs_pg:id":142892,
+        "wd:id":"Q61942",
+        "wk:page":"Bad Mergentheim"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"313609af9d9126b5a2cf5c8288aa8c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063515,
+            "localadmin_id":1377687989,
+            "locality_id":101839879,
+            "macrocounty_id":404227549,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101839879,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873742,
+    "wof:name":"Bad Mergentheim",
+    "wof:parent_id":1377687989,
+    "wof:placetype":"locality",
+    "wof:population":23883,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125342793,
+        1125316913
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69188,
+    49.388454,
+    9.867595,
+    49.529551
+],
+  "geometry": {"coordinates":[[[[9.800612,49.524663],[9.796917,49.521257],[9.795712,49.518605],[9.797245,49.514872],[9.803057,49.511453],[9.801611,49.508287],[9.795074,49.503757],[9.794992,49.499951],[9.794961,49.498277],[9.795295,49.497182],[9.798179,49.497371],[9.800253,49.495323],[9.800803,49.489768],[9.800901,49.488778],[9.804212,49.488052],[9.803531,49.487409],[9.80682,49.484379],[9.805623,49.48314],[9.813126,49.48279],[9.813454,49.482045],[9.815606,49.483156],[9.819994,49.481401],[9.825694,49.48453],[9.837455,49.483862],[9.851593,49.485986],[9.853536,49.486276],[9.853852,49.485423],[9.856891,49.477074],[9.85519,49.474195],[9.851219,49.473866],[9.851488,49.472329],[9.854235,49.471328],[9.8525,49.467936],[9.856954,49.455906],[9.849679,49.455073],[9.850396,49.452063],[9.842619,49.447619],[9.84321,49.44173],[9.846985,49.438055],[9.848389,49.431235],[9.847116,49.425945],[9.847236,49.423708],[9.84937,49.417881],[9.851753,49.415979],[9.861124,49.417445],[9.867595,49.416993],[9.865612,49.414879],[9.863771,49.413735],[9.862427,49.413346],[9.861265,49.412911],[9.860285,49.412549],[9.859305,49.412186],[9.858181,49.41168],[9.857241,49.411056],[9.856663,49.410576],[9.856305,49.410098],[9.85624,49.409527],[9.856611,49.409053],[9.857163,49.408675],[9.857897,49.408346],[9.85834,49.407944],[9.858494,49.407374],[9.858863,49.407042],[9.858943,49.406519],[9.85873,49.40609],[9.858079,49.405657],[9.857246,49.405224],[9.856377,49.404743],[9.85558,49.40431],[9.855256,49.403999],[9.854196,49.404183],[9.85136,49.403548],[9.84956,49.403822],[9.849086,49.4022],[9.845042,49.399541],[9.842695,49.399842],[9.843955,49.396386],[9.841145,49.396279],[9.83739,49.393684],[9.831919,49.391673],[9.830433,49.394471],[9.828628,49.394415],[9.828846,49.393616],[9.82664,49.392712],[9.820877,49.389934],[9.818967,49.391469],[9.814655,49.389392],[9.811251,49.388454],[9.808074,49.390881],[9.80623,49.393533],[9.804146,49.395625],[9.80338,49.396178],[9.800791,49.395073],[9.800685,49.397646],[9.802486,49.397963],[9.803104,49.401943],[9.803411,49.403564],[9.804933,49.40414],[9.801171,49.405952],[9.800002,49.4076],[9.792447,49.407598],[9.790526,49.406992],[9.788646,49.406395],[9.7894,49.40577],[9.789605,49.404971],[9.787662,49.403079],[9.785665,49.400133],[9.784321,49.399684],[9.779888,49.396561],[9.777833,49.395756],[9.774586,49.393558],[9.769627,49.397889],[9.767946,49.398751],[9.763561,49.397067],[9.761275,49.397835],[9.758952,49.397406],[9.75752,49.398206],[9.758415,49.40092],[9.757242,49.402828],[9.753879,49.400098],[9.751021,49.398622],[9.751279,49.395367],[9.749348,49.394571],[9.748126,49.394257],[9.745524,49.394978],[9.741892,49.396267],[9.740676,49.399074],[9.731289,49.398246],[9.725663,49.398378],[9.720047,49.397863],[9.716484,49.39827],[9.712203,49.398771],[9.711728,49.400873],[9.710086,49.402642],[9.709373,49.405006],[9.710407,49.40573],[9.712331,49.407813],[9.711826,49.41085],[9.710836,49.413173],[9.710487,49.414259],[9.709535,49.41517],[9.706231,49.416496],[9.714441,49.429634],[9.71316,49.434582],[9.710203,49.436568],[9.708065,49.44321],[9.710913,49.448745],[9.709828,49.450105],[9.702481,49.448784],[9.699669,49.452777],[9.699642,49.458534],[9.704119,49.46149],[9.705596,49.464829],[9.704044,49.46605],[9.704894,49.468881],[9.704294,49.471738],[9.702073,49.471632],[9.700253,49.470702],[9.695565,49.471181],[9.69473,49.473226],[9.697166,49.474503],[9.695156,49.474957],[9.69188,49.478478],[9.69345,49.48036],[9.69848,49.482618],[9.697221,49.48359],[9.699285,49.484855],[9.695139,49.493255],[9.695763,49.495563],[9.694578,49.497858],[9.692693,49.498249],[9.693571,49.499461],[9.699836,49.501449],[9.700806,49.502417],[9.700307,49.503906],[9.700624,49.505557],[9.703922,49.508297],[9.708536,49.507738],[9.708258,49.506855],[9.711001,49.506756],[9.714903,49.508401],[9.723892,49.508724],[9.724427,49.516662],[9.731515,49.520948],[9.730791,49.523003],[9.734409,49.525799],[9.736916,49.523702],[9.739255,49.521738],[9.745517,49.5225],[9.748599,49.520775],[9.759403,49.520927],[9.768826,49.52286],[9.777443,49.524166],[9.784192,49.523831],[9.786073,49.526533],[9.785309,49.529551],[9.788818,49.525939],[9.795962,49.526037],[9.798776,49.52547],[9.800612,49.524663]]]],"type":"MultiPolygon"}
+}

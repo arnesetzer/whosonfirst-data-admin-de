@@ -1,1 +1,154 @@
-{"id": 101824521, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4.3e-05, "geom:area_square_m": 338830.247003, "geom:bbox": "12.03165,50.542876,12.041678,50.551013", "geom:latitude": 50.545772, "geom:longitude": 12.036545, "gn:population": 1587, "iso:country": "DE", "lbl:latitude": 50.545787, "lbl:longitude": 12.037722, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 50.545787, "mps:longitude": 12.037722, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041c\u0435\u043b\u044c\u0442\u043e\u0439\u0435\u0440"], "name:ceb_x_preferred": ["Mehltheuer"], "name:deu_x_preferred": ["Mehltheuer"], "name:deu_x_variant": ["Gemeinde Mehltheuer"], "name:eng_x_preferred": ["Mehltheuer"], "name:epo_x_preferred": ["Mehltheuer"], "name:fas_x_preferred": ["\u0645\u0647\u0644\u062a\u0648\u06cc\u0631"], "name:fra_x_preferred": ["Mehltheuer"], "name:gle_x_preferred": ["Mehltheuer"], "name:hbs_x_preferred": ["Mehltheuer"], "name:ita_x_preferred": ["Mehltheuer"], "name:mkd_x_preferred": ["\u041c\u0435\u043b\u0442\u043e\u0458\u0435\u0440"], "name:nld_x_preferred": ["Mehltheuer"], "name:pol_x_preferred": ["Mehltheuer"], "name:ron_x_preferred": ["Mehltheuer"], "name:rus_x_preferred": ["\u041c\u0435\u043b\u044c\u0442\u043e\u0439\u0435\u0440"], "name:srp_x_preferred": ["\u041c\u0435\u043b\u0442\u043e\u0458\u0435\u0440"], "name:uzb_x_preferred": ["Mehltheuer"], "name:vie_x_preferred": ["Mehltheuer"], "name:vol_x_preferred": ["Mehltheuer"], "name:war_x_preferred": ["Mehltheuer"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen", "qs:a1r": "0", "qs:a2": "Vogtlandkreis", "qs:a2r": "Chemnitz", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Mehltheuer", "qs:la_lc": "*DE14107852350", "qs:level": "locality", "qs:loc": "Mehltheuer", "qs:loc_alt": "Mehltheuer", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": [], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 50, "wof:belongsto": [85682523, 102191581, 1377686293, 85633111, 102064209], "wof:breaches": [], "wof:concordances": {"fct:id": "071dcfb4-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2872409, "gp:id": 12636501, "qs_pg:id": 1039133, "wd:id": "Q599484"}, "wof:country": "DE", "wof:geomhash": "7adcc88798c1bcabae6d96a41ec830fa", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064209, "localadmin_id": 1377686293, "locality_id": 101824521, "region_id": 85682523}], "wof:id": 101824521, "wof:lang": ["ger"], "wof:lastmodified": 1690873151, "wof:name": "Mehltheuer", "wof:parent_id": 1377686293, "wof:placetype": "locality", "wof:population": 1587, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.03165, 50.542876, 12.041678, 50.551013], "geometry": {"coordinates": [[[12.040306, 50.547319], [12.040267, 50.54642], [12.041678, 50.546395], [12.041561, 50.543699], [12.03733, 50.543774], [12.037291, 50.542876], [12.03165, 50.542975], [12.031805, 50.54657], [12.036036, 50.546495], [12.036153, 50.549191], [12.034743, 50.549216], [12.03482, 50.551013], [12.036231, 50.550988], [12.036192, 50.550089], [12.037602, 50.550065], [12.037525, 50.548267], [12.038935, 50.548242], [12.038896, 50.547344], [12.040306, 50.547319]]], "type": "Polygon"}}
+{
+  "id": 101824521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":338830.247003,
+    "geom:bbox":"12.03165,50.542876,12.041678,50.551013",
+    "geom:latitude":50.545772,
+    "geom:longitude":12.036545,
+    "gn:population":1587,
+    "iso:country":"DE",
+    "lbl:latitude":50.545787,
+    "lbl:longitude":12.037722,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":50.545787,
+    "mps:longitude":12.037722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041c\u0435\u043b\u044c\u0442\u043e\u0439\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:deu_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:deu_x_variant":[
+        "Gemeinde Mehltheuer"
+    ],
+    "name:eng_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:epo_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u0644\u062a\u0648\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:gle_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:hbs_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:ita_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u043b\u0442\u043e\u0458\u0435\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:pol_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:ron_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u044c\u0442\u043e\u0439\u0435\u0440"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u043b\u0442\u043e\u0458\u0435\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:vie_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:vol_x_preferred":[
+        "Mehltheuer"
+    ],
+    "name:war_x_preferred":[
+        "Mehltheuer"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Vogtlandkreis",
+    "qs:a2r":"Chemnitz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Mehltheuer",
+    "qs:la_lc":"*DE14107852350",
+    "qs:level":"locality",
+    "qs:loc":"Mehltheuer",
+    "qs:loc_alt":"Mehltheuer",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        85682523,
+        102191581,
+        1377686293,
+        85633111,
+        102064209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"071dcfb4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2872409,
+        "gp:id":12636501,
+        "qs_pg:id":1039133,
+        "wd:id":"Q599484"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"7adcc88798c1bcabae6d96a41ec830fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064209,
+            "localadmin_id":1377686293,
+            "locality_id":101824521,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":101824521,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873151,
+    "wof:name":"Mehltheuer",
+    "wof:parent_id":1377686293,
+    "wof:placetype":"locality",
+    "wof:population":1587,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03165,
+    50.542876,
+    12.041678,
+    50.551013
+],
+  "geometry": {"coordinates":[[[12.040306,50.547319],[12.040267,50.54642],[12.041678,50.546395],[12.041561,50.543699],[12.03733,50.543774],[12.037291,50.542876],[12.03165,50.542975],[12.031805,50.54657],[12.036036,50.546495],[12.036153,50.549191],[12.034743,50.549216],[12.03482,50.551013],[12.036231,50.550988],[12.036192,50.550089],[12.037602,50.550065],[12.037525,50.548267],[12.038935,50.548242],[12.038896,50.547344],[12.040306,50.547319]]],"type":"Polygon"}
+}

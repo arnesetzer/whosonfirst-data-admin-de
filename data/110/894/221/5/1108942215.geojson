@@ -1,1 +1,68 @@
-{"id": 1108942215, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "9.73337942539,52.3964889927,9.73337942539,52.3964889927", "geom:latitude": 52.396489, "geom:longitude": 9.733379, "iso:country": "DE", "lbl:bbox": "9.72837942539,52.3914889927,9.73837942539,52.4014889927", "lbl:latitude": 52.396489, "lbl:longitude": 9.733379, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 14.0, "mz:tier_metro": 30, "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 1377686265, 85633111, 101748819, 102063941, 85682555], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491362954, "wof:geomhash": "4172868ffcfeadec4a25d39aaf6d2932", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063941, "localadmin_id": 1377686265, "locality_id": 101748819, "neighbourhood_id": 1108942215, "region_id": 85682555}], "wof:id": 1108942215, "wof:lastmodified": 1566712966, "wof:name": "Vahrenwald", "wof:parent_id": 101748819, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.73337942539296, 52.39648899268169, 9.73337942539296, 52.39648899268169], "geometry": {"coordinates": [9.73337942539296, 52.39648899268169], "type": "Point"}}
+{
+  "id": 1108942215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.73337942539,52.3964889927,9.73337942539,52.3964889927",
+    "geom:latitude":52.396489,
+    "geom:longitude":9.733379,
+    "iso:country":"DE",
+    "lbl:bbox":"9.72837942539,52.3914889927,9.73837942539,52.4014889927",
+    "lbl:latitude":52.396489,
+    "lbl:longitude":9.733379,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1377686265,
+        85633111,
+        101748819,
+        102063941,
+        85682555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491362954,
+    "wof:geomhash":"4172868ffcfeadec4a25d39aaf6d2932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063941,
+            "localadmin_id":1377686265,
+            "locality_id":101748819,
+            "neighbourhood_id":1108942215,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":1108942215,
+    "wof:lastmodified":1566712966,
+    "wof:name":"Vahrenwald",
+    "wof:parent_id":101748819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.73337942539296,
+    52.39648899268169,
+    9.73337942539296,
+    52.39648899268169
+],
+  "geometry": {"coordinates":[9.73337942539296,52.39648899268169],"type":"Point"}
+}

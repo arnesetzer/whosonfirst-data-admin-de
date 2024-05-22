@@ -1,1 +1,139 @@
-{"id": 1126092253, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.66188,51.60591,6.66188,51.60591", "geom:latitude": 51.60591, "geom:longitude": 6.66188, "gn:country": "DE", "gn:fcode": "PPL", "gn:population": 0, "iso:country": "DE", "lbl:bbox": "6.65688,51.60091,6.66688,51.61091", "lbl:latitude": 51.60591, "lbl:longitude": 6.66188, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:ara_x_preferred": ["\u0633\u0647\u0645"], "name:cdo_x_preferred": ["G\u016b-pi\u00e9u"], "name:fas_x_preferred": ["\u0633\u0647\u0627\u0645 \u0633\u0631\u0645\u0627\u06cc\u0647"], "name:hin_x_preferred": ["\u0938\u094d\u091f\u0949\u0915"], "name:ido_x_preferred": ["Stoko"], "name:isl_x_preferred": ["Hlutabr\u00e9f"], "name:kan_x_preferred": ["\u0cb8\u0ccd\u0c9f\u0cbe\u0c95\u0cc1"], "name:mya_x_preferred": ["\u1005\u1010\u1031\u102c\u1037\u1001\u103a"], "name:pus_x_preferred": ["\u0648\u0646\u0689\u0647"], "name:tam_x_preferred": ["\u0bae\u0bc2\u0bb2\u0ba4\u0ba9\u0baa\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1"], "name:tha_x_preferred": ["\u0e2b\u0e38\u0e49\u0e19"], "name:urd_x_preferred": ["\u0633\u0679\u0627\u06a9"], "name:vie_x_preferred": ["C\u1ed5 phi\u1ebfu"], "name:yid_x_preferred": ["\u05e1\u05d8\u05d0\u05e7\u05e1"], "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPL", "qs_pg:gn_id": 2826656, "qs_pg:gn_pop": 0, "qs_pg:name": "Stock", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Nordrhein-Westfalen", "qs_pg:photos": 142, "qs_pg:photos_1k": 29, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 3, "qs_pg:photos_all": 142, "qs_pg:photos_sr": 3, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 9251, "qs_pg:qs_pg_placetype": "neighbourhood", "qs_pg:qs_pg_placetype_gp": "Suburb", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 20168706, "src:geom": "qs_pg", "src:lbl_centroid": "qs_pg", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Nordrhein-Westfalen", "woe:placetype": "Suburb", "wof:belongsto": [102191581, 85633111, 1377689945, 404227561, 101808919, 102063833, 85682513], "wof:breaches": [], "wof:concordances": {"gn:id": 2826656, "gp:id": 20168706, "qs_pg:id": 9251}, "wof:country": "DE", "wof:created": 1497314145, "wof:geomhash": "a021e3ec93fd619733affd652e9e8408", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063833, "localadmin_id": 1377689945, "locality_id": 101808919, "macrocounty_id": 404227561, "neighbourhood_id": 1126092253, "region_id": 85682513}], "wof:id": 1126092253, "wof:lastmodified": 1566720660, "wof:name": "Stock", "wof:parent_id": 101808919, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.66188, 51.60591, 6.66188, 51.60591], "geometry": {"coordinates": [6.66188, 51.60591], "type": "Point"}}
+{
+  "id": 1126092253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66188,51.60591,6.66188,51.60591",
+    "geom:latitude":51.60591,
+    "geom:longitude":6.66188,
+    "gn:country":"DE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"DE",
+    "lbl:bbox":"6.65688,51.60091,6.66688,51.61091",
+    "lbl:latitude":51.60591,
+    "lbl:longitude":6.66188,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0645"
+    ],
+    "name:cdo_x_preferred":[
+        "G\u016b-pi\u00e9u"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0647\u0627\u0645 \u0633\u0631\u0645\u0627\u06cc\u0647"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u0949\u0915"
+    ],
+    "name:ido_x_preferred":[
+        "Stoko"
+    ],
+    "name:isl_x_preferred":[
+        "Hlutabr\u00e9f"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0c9f\u0cbe\u0c95\u0cc1"
+    ],
+    "name:mya_x_preferred":[
+        "\u1005\u1010\u1031\u102c\u1037\u1001\u103a"
+    ],
+    "name:pus_x_preferred":[
+        "\u0648\u0646\u0689\u0647"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc2\u0bb2\u0ba4\u0ba9\u0baa\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e38\u0e49\u0e19"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0679\u0627\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ed5 phi\u1ebfu"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05d8\u05d0\u05e7\u05e1"
+    ],
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2826656,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stock",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Nordrhein-Westfalen",
+    "qs_pg:photos":142,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":142,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":9251,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":20168706,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Nordrhein-Westfalen",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689945,
+        404227561,
+        101808919,
+        102063833,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2826656,
+        "gp:id":20168706,
+        "qs_pg:id":9251
+    },
+    "wof:country":"DE",
+    "wof:created":1497314145,
+    "wof:geomhash":"a021e3ec93fd619733affd652e9e8408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063833,
+            "localadmin_id":1377689945,
+            "locality_id":101808919,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1126092253,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1126092253,
+    "wof:lastmodified":1566720660,
+    "wof:name":"Stock",
+    "wof:parent_id":101808919,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66188,
+    51.60591,
+    6.66188,
+    51.60591
+],
+  "geometry": {"coordinates":[6.66188,51.60591],"type":"Point"}
+}

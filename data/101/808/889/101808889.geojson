@@ -1,1 +1,382 @@
-{"id": 101808889, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_03159039", "eurostat:level_code": "lau", "eurostat:name_local": "Wulften am Harz", "eurostat:nuts_2021_id": "03159039", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE9", "eurostat:nuts_2021_level_2": "DE91", "eurostat:nuts_2021_level_3": "DE91C", "eurostat:nuts_2021_level_lau": "03159039", "eurostat:population": 1809, "eurostat:population_year": 2020, "geom:area": 0.001906, "geom:area_square_m": 14623831.575078, "geom:bbox": "10.140814,51.62583,10.225017,51.681102", "geom:latitude": 51.658288, "geom:longitude": 10.180825, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 1963, "iso:country": "DE", "lbl:latitude": 51.660586, "lbl:longitude": 10.175431, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 51.660586, "mps:longitude": 10.175431, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Wulften am Harz"], "name:arg_x_preferred": ["Wulften am Harz"], "name:ast_x_preferred": ["Wulften am Harz"], "name:bar_x_preferred": ["Wulften am Harz"], "name:bre_x_preferred": ["Wulften am Harz"], "name:cat_x_preferred": ["Wulften am Harz"], "name:ceb_x_preferred": ["Wulften am Harz"], "name:ces_x_preferred": ["Wulften am Harz"], "name:che_x_preferred": ["\u0412\u0443\u043b\u044c\u0444\u0442\u0435\u043d"], "name:cos_x_preferred": ["Wulften am Harz"], "name:cym_x_preferred": ["Wulften am Harz"], "name:dan_x_preferred": ["Wulften am Harz"], "name:deu_x_preferred": ["Wulften am Harz"], "name:deu_x_variant": ["Wulften am Harz (Samtgemeinde Hattorf am Harz)"], "name:eng_x_preferred": ["Wulften am Harz"], "name:epo_x_preferred": ["Wulften am Harz"], "name:est_x_preferred": ["Wulften am Harz"], "name:eus_x_preferred": ["Wulften am Harz"], "name:fas_x_preferred": ["\u0648\u0648\u0644\u0641\u062a\u0646 \u0627\u0645 \u0647\u0627\u0631\u062a\u0633"], "name:fin_x_preferred": ["Wulften am Harz"], "name:fra_x_preferred": ["Wulften am Harz"], "name:frp_x_preferred": ["Wulften am Harz"], "name:fur_x_preferred": ["Wulften am Harz"], "name:gla_x_preferred": ["Wulften am Harz"], "name:gle_x_preferred": ["Wulften am Harz"], "name:glg_x_preferred": ["Wulften am Harz"], "name:gsw_x_preferred": ["Wulften am Harz"], "name:hbs_x_preferred": ["Wulften am Harz"], "name:hrv_x_preferred": ["Wulften am Harz"], "name:hun_x_preferred": ["Wulften am Harz"], "name:ido_x_preferred": ["Wulften am Harz"], "name:ile_x_preferred": ["Wulften am Harz"], "name:ina_x_preferred": ["Wulften am Harz"], "name:ind_x_preferred": ["Wulften am Harz"], "name:isl_x_preferred": ["Wulften am Harz"], "name:ita_x_preferred": ["Wulften am Harz"], "name:jpn_x_preferred": ["\u30f4\u30eb\u30d5\u30c6\u30f3\u30fb\u30a2\u30e0\u30fb\u30cf\u30eb\u30c4"], "name:kon_x_preferred": ["Wulften am Harz"], "name:lat_x_preferred": ["Wulften ad Harthicos montes"], "name:lij_x_preferred": ["Wulften am Harz"], "name:lim_x_preferred": ["Wulften am Harz"], "name:ltz_x_preferred": ["Wulften am Harz"], "name:min_x_preferred": ["Wulften am Harz"], "name:mkd_x_preferred": ["\u0412\u0443\u043b\u0444\u0442\u0435\u043d \u043d\u0430 \u0425\u0430\u0440\u0446"], "name:mlg_x_preferred": ["Wulften am Harz"], "name:msa_x_preferred": ["Wulften am Harz"], "name:nan_x_preferred": ["Wulften am Harz"], "name:nap_x_preferred": ["Wulften am Harz"], "name:nds_x_preferred": ["Wulften am Harz"], "name:nld_x_preferred": ["Wulften am Harz"], "name:nno_x_preferred": ["Wulften am Harz"], "name:nob_x_preferred": ["Wulften am Harz"], "name:nrm_x_preferred": ["Wulften am Harz"], "name:oci_x_preferred": ["Wulften am Harz"], "name:pcd_x_preferred": ["Wulften am Harz"], "name:pms_x_preferred": ["Wulften am Harz"], "name:pol_x_preferred": ["Wulften am Harz"], "name:por_x_preferred": ["Wulften am Harz"], "name:roh_x_preferred": ["Wulften am Harz"], "name:ron_x_preferred": ["Wulften am Harz"], "name:rus_x_preferred": ["\u0412\u0443\u043b\u044c\u0444\u0442\u0435\u043d"], "name:scn_x_preferred": ["Wulften am Harz"], "name:sco_x_preferred": ["Wulften am Harz"], "name:slk_x_preferred": ["Wulften am Harz"], "name:slv_x_preferred": ["Wulften am Harz"], "name:spa_x_preferred": ["Wulften am Harz"], "name:srd_x_preferred": ["Wulften am Harz"], "name:srp_x_preferred": ["\u0412\u0443\u043b\u0444\u0442\u0435\u043d \u0430\u043c \u0425\u0430\u0440\u0446"], "name:swa_x_preferred": ["Wulften am Harz"], "name:swe_x_preferred": ["Wulften am Harz"], "name:tat_x_preferred": ["\u0412\u0443\u043b\u044c\u0444\u0442\u0435\u043d"], "name:ukr_x_preferred": ["\u0412\u0443\u043b\u044c\u0444\u0442\u0435\u043d-\u0430\u043c-\u0413\u0430\u0440\u0446"], "name:uzb_x_preferred": ["Wulften am Harz"], "name:vec_x_preferred": ["Wulften am Harz"], "name:vie_x_preferred": ["Wulften am Harz"], "name:vls_x_preferred": ["Wulften am Harz"], "name:vol_x_preferred": ["Wulften am Harz"], "name:war_x_preferred": ["Wulften am Harz"], "name:wln_x_preferred": ["Wulften am Harz"], "name:wol_x_preferred": ["Wulften am Harz"], "name:zho_min_nan_x_preferred": ["Wulften am Harz"], "name:zho_x_preferred": ["\u54c8\u8328\u5c71\u9e93\u6b66\u5c14\u592b\u6ed5"], "name:zul_x_preferred": ["Wulften am Harz"], "nav:latitude": 51.660586, "nav:longitude": 10.175431, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "Osterode am Harz", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Wulften am Harz", "qs:la_lc": "*DE03015602015", "qs:level": "locality", "qs:loc": "Wulften am Harz", "qs:loc_alt": "Wulften am Harz", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6552390, "qs_pg:gn_pop": 1963, "qs_pg:name": "Wulften am Harz", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 633657, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 445, "wof:belongsto": [85682555, 102191581, 1377686237, 85633111, 1377675563], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_03159039", "eurostat:nuts_2021_id": "03159039", "fct:id": "0734525c-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2805870, "gp:id": 29349817, "qs_pg:id": 633657, "wd:id": "Q638766", "wk:page": "Wulften am Harz"}, "wof:concordances_alt": {"qs_pg:id": 1037995}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "3e1c6eed8832b067067ff74d7fe1fcc8", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675563, "localadmin_id": 1377686237, "locality_id": 101808889, "region_id": 85682555}], "wof:id": 101808889, "wof:lang": ["ger"], "wof:lastmodified": 1690873609, "wof:name": "Wulften am Harz", "wof:parent_id": 1377686237, "wof:placetype": "locality", "wof:population": 1809, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125339253], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.140814, 51.62583, 10.225017, 51.681102], "geometry": {"coordinates": [[[[10.20979, 51.667354], [10.209166, 51.665418], [10.204263, 51.66519], [10.202106, 51.66326], [10.201058, 51.657581], [10.198192, 51.657924], [10.196563, 51.655707], [10.195807, 51.654373], [10.196902, 51.650757], [10.196221, 51.649388], [10.200425, 51.648187], [10.200105, 51.64636], [10.204195, 51.645642], [10.203466, 51.644196], [10.202346, 51.641975], [10.210249, 51.639497], [10.211748, 51.638335], [10.214544, 51.637818], [10.218725, 51.635948], [10.223937, 51.634317], [10.225017, 51.632939], [10.221299, 51.627932], [10.218047, 51.62583], [10.216145, 51.626286], [10.219152, 51.628391], [10.220666, 51.630082], [10.21828, 51.631082], [10.216705, 51.632502], [10.212899, 51.630506], [10.209935, 51.630866], [10.207964, 51.630963], [10.206148, 51.631648], [10.203789, 51.630608], [10.198738, 51.632052], [10.198054, 51.632797], [10.200145, 51.633603], [10.199138, 51.635013], [10.197183, 51.635611], [10.195208, 51.634564], [10.19304, 51.635216], [10.192074, 51.636335], [10.193276, 51.638255], [10.192161, 51.63869], [10.189856, 51.63731], [10.18708, 51.638301], [10.187465, 51.64087], [10.186162, 51.640021], [10.184855, 51.639767], [10.183545, 51.640045], [10.183545, 51.640484], [10.183547, 51.642214], [10.181627, 51.640792], [10.181562, 51.642921], [10.182307, 51.645418], [10.175154, 51.647221], [10.168447, 51.646806], [10.167965, 51.645572], [10.16413, 51.645921], [10.160512, 51.646397], [10.161719, 51.64936], [10.160401, 51.649563], [10.159843, 51.648824], [10.15325, 51.649757], [10.153586, 51.650972], [10.155481, 51.65331], [10.154341, 51.65354], [10.155206, 51.655235], [10.155463, 51.655738], [10.154345, 51.656829], [10.155086, 51.657944], [10.156727, 51.660692], [10.150514, 51.662388], [10.151774, 51.663959], [10.141408, 51.666825], [10.140814, 51.668766], [10.143183, 51.671148], [10.144864, 51.67082], [10.148057, 51.67316], [10.151969, 51.672461], [10.153223, 51.673202], [10.154382, 51.674915], [10.154083, 51.676192], [10.15629, 51.677116], [10.154605, 51.677929], [10.155056, 51.679523], [10.161589, 51.678651], [10.175611, 51.678646], [10.182265, 51.681102], [10.183372, 51.679256], [10.184658, 51.679592], [10.185566, 51.678461], [10.189143, 51.676991], [10.197496, 51.673558], [10.200318, 51.673376], [10.204096, 51.668716], [10.206526, 51.668848], [10.207562, 51.667412], [10.20979, 51.667354]]]], "type": "MultiPolygon"}}
+{
+  "id": 101808889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_03159039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wulften am Harz",
+    "eurostat:nuts_2021_id":"03159039",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE9",
+    "eurostat:nuts_2021_level_2":"DE91",
+    "eurostat:nuts_2021_level_3":"DE91C",
+    "eurostat:nuts_2021_level_lau":"03159039",
+    "eurostat:population":1809,
+    "eurostat:population_year":2020,
+    "geom:area":0.001906,
+    "geom:area_square_m":14623831.575078,
+    "geom:bbox":"10.140814,51.62583,10.225017,51.681102",
+    "geom:latitude":51.658288,
+    "geom:longitude":10.180825,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":1963,
+    "iso:country":"DE",
+    "lbl:latitude":51.660586,
+    "lbl:longitude":10.175431,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":51.660586,
+    "mps:longitude":10.175431,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:arg_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ast_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:bar_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:bre_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:cat_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ceb_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ces_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u0444\u0442\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:cym_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:dan_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:deu_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:deu_x_variant":[
+        "Wulften am Harz (Samtgemeinde Hattorf am Harz)"
+    ],
+    "name:eng_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:epo_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:est_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:eus_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0644\u0641\u062a\u0646 \u0627\u0645 \u0647\u0627\u0631\u062a\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:fra_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:frp_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:fur_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:gla_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:gle_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:glg_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:gsw_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:hbs_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:hrv_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:hun_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ido_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ile_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ina_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ind_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:isl_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ita_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30eb\u30d5\u30c6\u30f3\u30fb\u30a2\u30e0\u30fb\u30cf\u30eb\u30c4"
+    ],
+    "name:kon_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:lat_x_preferred":[
+        "Wulften ad Harthicos montes"
+    ],
+    "name:lij_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:lim_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ltz_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:min_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0443\u043b\u0444\u0442\u0435\u043d \u043d\u0430 \u0425\u0430\u0440\u0446"
+    ],
+    "name:mlg_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:msa_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:nan_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:nap_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:nds_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:nld_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:nno_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:nob_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:nrm_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:oci_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:pcd_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:pms_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:pol_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:por_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:roh_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:ron_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u0444\u0442\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:sco_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:slk_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:slv_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:spa_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:srd_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u043b\u0444\u0442\u0435\u043d \u0430\u043c \u0425\u0430\u0440\u0446"
+    ],
+    "name:swa_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:swe_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u0444\u0442\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u0444\u0442\u0435\u043d-\u0430\u043c-\u0413\u0430\u0440\u0446"
+    ],
+    "name:uzb_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:vec_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:vie_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:vls_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:vol_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:war_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:wln_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:wol_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u8328\u5c71\u9e93\u6b66\u5c14\u592b\u6ed5"
+    ],
+    "name:zul_x_preferred":[
+        "Wulften am Harz"
+    ],
+    "nav:latitude":51.660586,
+    "nav:longitude":10.175431,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Osterode am Harz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Wulften am Harz",
+    "qs:la_lc":"*DE03015602015",
+    "qs:level":"locality",
+    "qs:loc":"Wulften am Harz",
+    "qs:loc_alt":"Wulften am Harz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6552390,
+    "qs_pg:gn_pop":1963,
+    "qs_pg:name":"Wulften am Harz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":633657,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":445,
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377686237,
+        85633111,
+        1377675563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_03159039",
+        "eurostat:nuts_2021_id":"03159039",
+        "fct:id":"0734525c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2805870,
+        "gp:id":29349817,
+        "qs_pg:id":633657,
+        "wd:id":"Q638766",
+        "wk:page":"Wulften am Harz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037995
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"3e1c6eed8832b067067ff74d7fe1fcc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675563,
+            "localadmin_id":1377686237,
+            "locality_id":101808889,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101808889,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873609,
+    "wof:name":"Wulften am Harz",
+    "wof:parent_id":1377686237,
+    "wof:placetype":"locality",
+    "wof:population":1809,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125339253
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.140814,
+    51.62583,
+    10.225017,
+    51.681102
+],
+  "geometry": {"coordinates":[[[[10.20979,51.667354],[10.209166,51.665418],[10.204263,51.66519],[10.202106,51.66326],[10.201058,51.657581],[10.198192,51.657924],[10.196563,51.655707],[10.195807,51.654373],[10.196902,51.650757],[10.196221,51.649388],[10.200425,51.648187],[10.200105,51.64636],[10.204195,51.645642],[10.203466,51.644196],[10.202346,51.641975],[10.210249,51.639497],[10.211748,51.638335],[10.214544,51.637818],[10.218725,51.635948],[10.223937,51.634317],[10.225017,51.632939],[10.221299,51.627932],[10.218047,51.62583],[10.216145,51.626286],[10.219152,51.628391],[10.220666,51.630082],[10.21828,51.631082],[10.216705,51.632502],[10.212899,51.630506],[10.209935,51.630866],[10.207964,51.630963],[10.206148,51.631648],[10.203789,51.630608],[10.198738,51.632052],[10.198054,51.632797],[10.200145,51.633603],[10.199138,51.635013],[10.197183,51.635611],[10.195208,51.634564],[10.19304,51.635216],[10.192074,51.636335],[10.193276,51.638255],[10.192161,51.63869],[10.189856,51.63731],[10.18708,51.638301],[10.187465,51.64087],[10.186162,51.640021],[10.184855,51.639767],[10.183545,51.640045],[10.183545,51.640484],[10.183547,51.642214],[10.181627,51.640792],[10.181562,51.642921],[10.182307,51.645418],[10.175154,51.647221],[10.168447,51.646806],[10.167965,51.645572],[10.16413,51.645921],[10.160512,51.646397],[10.161719,51.64936],[10.160401,51.649563],[10.159843,51.648824],[10.15325,51.649757],[10.153586,51.650972],[10.155481,51.65331],[10.154341,51.65354],[10.155206,51.655235],[10.155463,51.655738],[10.154345,51.656829],[10.155086,51.657944],[10.156727,51.660692],[10.150514,51.662388],[10.151774,51.663959],[10.141408,51.666825],[10.140814,51.668766],[10.143183,51.671148],[10.144864,51.67082],[10.148057,51.67316],[10.151969,51.672461],[10.153223,51.673202],[10.154382,51.674915],[10.154083,51.676192],[10.15629,51.677116],[10.154605,51.677929],[10.155056,51.679523],[10.161589,51.678651],[10.175611,51.678646],[10.182265,51.681102],[10.183372,51.679256],[10.184658,51.679592],[10.185566,51.678461],[10.189143,51.676991],[10.197496,51.673558],[10.200318,51.673376],[10.204096,51.668716],[10.206526,51.668848],[10.207562,51.667412],[10.20979,51.667354]]]],"type":"MultiPolygon"}
+}

@@ -1,1 +1,73 @@
-{"id": 1108947611, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "7.21617509801,51.2811189287,7.21617509801,51.2811189287", "geom:latitude": 51.281119, "geom:longitude": 7.216175, "iso:country": "DE", "lbl:bbox": "7.21117509801,51.2761189287,7.22117509801,51.2861189287", "lbl:latitude": 51.281119, "lbl:longitude": 7.216175, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 15.0, "mz:tier_metro": 30, "name:deu_x_preferred": ["Wichlinghausen-S\u00fcd"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377689477, 404227561, 101748657, 102063751, 85682513], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491366457, "wof:geomhash": "570dda1b02c32d74277f6832b7ca72cf", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063751, "localadmin_id": 1377689477, "locality_id": 101748657, "macrocounty_id": 404227561, "neighbourhood_id": 1108947611, "region_id": 85682513}], "wof:id": 1108947611, "wof:lastmodified": 1566712994, "wof:name": "Wichlinghausen-Sued", "wof:parent_id": 101748657, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.21617509800866, 51.28111892870139, 7.21617509800866, 51.28111892870139], "geometry": {"coordinates": [7.21617509800866, 51.28111892870139], "type": "Point"}}
+{
+  "id": 1108947611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.21617509801,51.2811189287,7.21617509801,51.2811189287",
+    "geom:latitude":51.281119,
+    "geom:longitude":7.216175,
+    "iso:country":"DE",
+    "lbl:bbox":"7.21117509801,51.2761189287,7.22117509801,51.2861189287",
+    "lbl:latitude":51.281119,
+    "lbl:longitude":7.216175,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Wichlinghausen-S\u00fcd"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689477,
+        404227561,
+        101748657,
+        102063751,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491366457,
+    "wof:geomhash":"570dda1b02c32d74277f6832b7ca72cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063751,
+            "localadmin_id":1377689477,
+            "locality_id":101748657,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1108947611,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1108947611,
+    "wof:lastmodified":1566712994,
+    "wof:name":"Wichlinghausen-Sued",
+    "wof:parent_id":101748657,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.21617509800866,
+    51.28111892870139,
+    7.21617509800866,
+    51.28111892870139
+],
+  "geometry": {"coordinates":[7.21617509800866,51.28111892870139],"type":"Point"}
+}

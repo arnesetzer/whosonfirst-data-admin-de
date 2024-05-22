@@ -1,1 +1,389 @@
-{"id": 101818847, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_13074019", "eurostat:level_code": "lau", "eurostat:name_local": "Dorf Mecklenburg", "eurostat:nuts_2021_id": "13074019", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE8", "eurostat:nuts_2021_level_2": "DE80", "eurostat:nuts_2021_level_3": "DE80M", "eurostat:nuts_2021_level_lau": "13074019", "eurostat:population": 3121, "eurostat:population_year": 2020, "geom:area": 0.004117, "geom:area_square_m": 30039619.603707, "geom:bbox": "11.413087,53.78972,11.535127,53.876537", "geom:latitude": 53.836412, "geom:longitude": 11.471662, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 2923, "iso:country": "DE", "lbl:latitude": 53.843371, "lbl:longitude": 11.463559, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 53.843371, "mps:longitude": 11.463559, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Dorf Mecklenburg"], "name:arg_x_preferred": ["Dorf Mecklenburg"], "name:ast_x_preferred": ["Dorf Mecklenburg"], "name:bar_x_preferred": ["Dorf Mecklenburg"], "name:bre_x_preferred": ["Dorf Mecklenburg"], "name:cat_x_preferred": ["Dorf Mecklenburg"], "name:ceb_x_preferred": ["Mecklenburg"], "name:ces_x_preferred": ["Dorf Mecklenburg"], "name:che_x_preferred": ["\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"], "name:cos_x_preferred": ["Dorf Mecklenburg"], "name:cym_x_preferred": ["Dorf Mecklenburg"], "name:dan_x_preferred": ["Dorf Mecklenburg"], "name:deu_x_preferred": ["Dorf Mecklenburg"], "name:eng_x_preferred": ["Dorf Mecklenburg"], "name:epo_x_preferred": ["Dorf Mecklenburg"], "name:est_x_preferred": ["Dorf Mecklenburg"], "name:eus_x_preferred": ["Dorf Mecklenburg"], "name:fas_x_preferred": ["\u062f\u0648\u0631\u0641 \u0645\u06a9\u0644\u0646\u0628\u0648\u0631\u06af"], "name:fin_x_preferred": ["Dorf Mecklenburg"], "name:fra_x_preferred": ["Dorf Mecklenburg"], "name:frp_x_preferred": ["Dorf Mecklenburg"], "name:fur_x_preferred": ["Dorf Mecklenburg"], "name:gla_x_preferred": ["Dorf Mecklenburg"], "name:gle_x_preferred": ["Dorf Mecklenburg"], "name:glg_x_preferred": ["Dorf Mecklenburg"], "name:gsw_x_preferred": ["Dorf Mecklenburg"], "name:hbs_x_preferred": ["Dorf Mecklenburg"], "name:hrv_x_preferred": ["Dorf Mecklenburg"], "name:hun_x_preferred": ["Dorf Mecklenburg"], "name:ido_x_preferred": ["Dorf Mecklenburg"], "name:ile_x_preferred": ["Dorf Mecklenburg"], "name:ina_x_preferred": ["Dorf Mecklenburg"], "name:ind_x_preferred": ["Dorf Mecklenburg"], "name:isl_x_preferred": ["Dorf Mecklenburg"], "name:ita_x_preferred": ["Dorf Mecklenburg"], "name:kaz_x_preferred": ["\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"], "name:kir_x_preferred": ["\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"], "name:kon_x_preferred": ["Dorf Mecklenburg"], "name:kur_x_preferred": ["Dorf Mecklenburg"], "name:lij_x_preferred": ["Dorf Mecklenburg"], "name:lim_x_preferred": ["Dorf Mecklenburg"], "name:lld_x_preferred": ["Dorf Mecklenburg"], "name:ltz_x_preferred": ["Dorf Mecklenburg"], "name:min_x_preferred": ["Dorf Mecklenburg"], "name:mkd_x_preferred": ["\u0414\u043e\u0440\u0444 \u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"], "name:mlg_x_preferred": ["Dorf Mecklenburg"], "name:msa_x_preferred": ["Dorf Mecklenburg"], "name:nap_x_preferred": ["Dorf Mecklenburg"], "name:nds_x_preferred": ["Dorf Mecklenburg"], "name:nld_x_preferred": ["Dorf Mecklenburg"], "name:nno_x_preferred": ["Dorf Mecklenburg"], "name:nob_x_preferred": ["Dorf Mecklenburg"], "name:nrm_x_preferred": ["Dorf Mecklenburg"], "name:oci_x_preferred": ["Dorf Mecklenburg"], "name:pcd_x_preferred": ["Dorf Mecklenburg"], "name:pms_x_preferred": ["Dorf Mecklenburg"], "name:pol_x_preferred": ["Dorf Mecklenburg"], "name:por_x_preferred": ["Dorf Mecklenburg"], "name:roh_x_preferred": ["Dorf Mecklenburg"], "name:ron_x_preferred": ["Dorf Mecklenburg"], "name:rus_x_preferred": ["\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"], "name:scn_x_preferred": ["Dorf Mecklenburg"], "name:sco_x_preferred": ["Dorf Mecklenburg"], "name:slk_x_preferred": ["Dorf Mecklenburg"], "name:slv_x_preferred": ["Dorf Mecklenburg"], "name:spa_x_preferred": ["Dorf Mecklenburg"], "name:srd_x_preferred": ["Dorf Mecklenburg"], "name:srp_x_preferred": ["\u0414\u043e\u0440\u0444 \u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"], "name:swa_x_preferred": ["Dorf Mecklenburg"], "name:swe_x_preferred": ["Dorf Mecklenburg"], "name:tat_x_preferred": ["\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"], "name:ukr_x_preferred": ["\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"], "name:und_x_variant": ["Mecklenburg Dorf"], "name:uzb_x_preferred": ["Dorf Mecklenburg"], "name:vec_x_preferred": ["Dorf Mecklenburg"], "name:vie_x_preferred": ["Dorf Mecklenburg"], "name:vls_x_preferred": ["Dorf Mecklenburg"], "name:vol_x_preferred": ["Dorf Mecklenburg"], "name:war_x_preferred": ["Dorf Mecklenburg"], "name:wln_x_preferred": ["Dorf Mecklenburg"], "name:wol_x_preferred": ["Dorf Mecklenburg"], "name:zho_x_preferred": ["\u591a\u592b\u6885\u514b\u4f26\u5821"], "name:zul_x_preferred": ["Dorf Mecklenburg"], "nav:latitude": 53.843371, "nav:longitude": 11.463559, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "Nordwestmecklenburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Dorf Mecklenburg", "qs:la_lc": "*DE13005828025", "qs:level": "locality", "qs:loc": "Dorf Mecklenburg", "qs:loc_alt": "Dorf Mecklenburg", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6548175, "qs_pg:gn_pop": 2923, "qs_pg:name": "Gemeinde Dorf Mecklenburg", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Mecklenburg-Vorpommern", "qs_pg:photos": 42, "qs_pg:photos_1k": 9, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 2, "qs_pg:photos_all": 73, "qs_pg:photos_sr": 2, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1183751, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12631015, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 64, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Mecklenburg-Vorpommern", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682487, 102191581, 1377693587, 85633111, 1377675589], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_13074019", "eurostat:nuts_2021_id": "13074019", "gn:id": 2872571, "gp:id": 674429, "qs_pg:id": 867027, "wd:id": "Q263981", "wk:page": "Dorf Mecklenburg"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "0df846fdf49ce40448be9dc63462d796", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675589, "localadmin_id": 1377693587, "locality_id": 101818847, "region_id": 85682487}], "wof:id": 101818847, "wof:lastmodified": 1690871968, "wof:name": "Dorf Mecklenburg", "wof:parent_id": 1377693587, "wof:placetype": "locality", "wof:population": 3121, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125370361, 1125301335], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.413087, 53.78972, 11.535127, 53.876537], "geometry": {"coordinates": [[[[11.483519, 53.866294], [11.484167, 53.865719], [11.484684, 53.865144], [11.485472, 53.864608], [11.481537, 53.86198], [11.481756, 53.860909], [11.483102, 53.859299], [11.482708, 53.857982], [11.482029, 53.856846], [11.481516, 53.855673], [11.481628, 53.852573], [11.482561, 53.851478], [11.48361, 53.850185], [11.48446, 53.850125], [11.485813, 53.850186], [11.489458, 53.852115], [11.490522, 53.854137], [11.491657, 53.855916], [11.496944, 53.857832], [11.497727, 53.857548], [11.495435, 53.852355], [11.495762, 53.850035], [11.498954, 53.845445], [11.498426, 53.843626], [11.499466, 53.843276], [11.502157, 53.845348], [11.50987, 53.842518], [11.508073, 53.841661], [11.507817, 53.839139], [11.505268, 53.836635], [11.506135, 53.836026], [11.511329, 53.835355], [11.511897, 53.834299], [11.514676, 53.832327], [11.516613, 53.832041], [11.518817, 53.829499], [11.521775, 53.828064], [11.525813, 53.827986], [11.527365, 53.82747], [11.531557, 53.829448], [11.535127, 53.828214], [11.531427, 53.826511], [11.528776, 53.825509], [11.522101, 53.823583], [11.521547, 53.823246], [11.520696, 53.822587], [11.519752, 53.822081], [11.518463, 53.821921], [11.516451, 53.822489], [11.514399, 53.822696], [11.512221, 53.821485], [11.511248, 53.815536], [11.511458, 53.811536], [11.505477, 53.809554], [11.504386, 53.808961], [11.505115, 53.807024], [11.50287, 53.803125], [11.501873, 53.802028], [11.494317, 53.800804], [11.496314, 53.796547], [11.495599, 53.793803], [11.493718, 53.793172], [11.493931, 53.791858], [11.493899, 53.790466], [11.493402, 53.789967], [11.491606, 53.78972], [11.491026, 53.790884], [11.491036, 53.791333], [11.491053, 53.792106], [11.490241, 53.793065], [11.489693, 53.794345], [11.489158, 53.795517], [11.488808, 53.796131], [11.488248, 53.796863], [11.48779, 53.797424], [11.487062, 53.798094], [11.486721, 53.798438], [11.485779, 53.79841], [11.485441, 53.798889], [11.48489, 53.799342], [11.483829, 53.799423], [11.482597, 53.799962], [11.482033, 53.800524], [11.481703, 53.802036], [11.48127, 53.803702], [11.48035, 53.805326], [11.47928, 53.80767], [11.478168, 53.808182], [11.477317, 53.808144], [11.475994, 53.808029], [11.474663, 53.808264], [11.473944, 53.808701], [11.473696, 53.809143], [11.47315, 53.810504], [11.473554, 53.811615], [11.474514, 53.812443], [11.475191, 53.81286], [11.475733, 53.813322], [11.474606, 53.813834], [11.473693, 53.813734], [11.472237, 53.813134], [11.469999, 53.812864], [11.468889, 53.813763], [11.467799, 53.813886], [11.465706, 53.815119], [11.466078, 53.815953], [11.465511, 53.81649], [11.465991, 53.81763], [11.463377, 53.818788], [11.460634, 53.819722], [11.461149, 53.821136], [11.459907, 53.821936], [11.458045, 53.822193], [11.455454, 53.823138], [11.453378, 53.824053], [11.451103, 53.824852], [11.450055, 53.823467], [11.438774, 53.825628], [11.435134, 53.827255], [11.433817, 53.826052], [11.43356, 53.824661], [11.430611, 53.823102], [11.425789, 53.824827], [11.413087, 53.828101], [11.41359, 53.828915], [11.416205, 53.830531], [11.418538, 53.831398], [11.418571, 53.834552], [11.419262, 53.835306], [11.419412, 53.837601], [11.419528, 53.838318], [11.420039, 53.838534], [11.421127, 53.838446], [11.422457, 53.838148], [11.423304, 53.837971], [11.424174, 53.838172], [11.424858, 53.838885], [11.426739, 53.840938], [11.426941, 53.841843], [11.426339, 53.842827], [11.425958, 53.843477], [11.425908, 53.843989], [11.426102, 53.844545], [11.426641, 53.8449], [11.427311, 53.844949], [11.429152, 53.845079], [11.430383, 53.845798], [11.431205, 53.846573], [11.432586, 53.846527], [11.43529, 53.845797], [11.437927, 53.845525], [11.438619, 53.845179], [11.438989, 53.844718], [11.439664, 53.844317], [11.442501, 53.843345], [11.444765, 53.8458], [11.447626, 53.845092], [11.449995, 53.845721], [11.451995, 53.843424], [11.45284, 53.843765], [11.452524, 53.844029], [11.452048, 53.844318], [11.451695, 53.844701], [11.451622, 53.845058], [11.45147, 53.845463], [11.451076, 53.845823], [11.454054, 53.845967], [11.452513, 53.847906], [11.451855, 53.848733], [11.451763, 53.84938], [11.451368, 53.849692], [11.450099, 53.84979], [11.449681, 53.850135], [11.449232, 53.850462], [11.448438, 53.850989], [11.447464, 53.851598], [11.446113, 53.852381], [11.445031, 53.852928], [11.443651, 53.853729], [11.442799, 53.854392], [11.44192, 53.855189], [11.44225, 53.856426], [11.442389, 53.857198], [11.440482, 53.857589], [11.440506, 53.858667], [11.440767, 53.859519], [11.434168, 53.860745], [11.435765, 53.865046], [11.431612, 53.86558], [11.430368, 53.865706], [11.43199, 53.869063], [11.434398, 53.872863], [11.437431, 53.872517], [11.438276, 53.875044], [11.438844, 53.876537], [11.4438, 53.875815], [11.44359, 53.875018], [11.447257, 53.874176], [11.447163, 53.873368], [11.44742, 53.872594], [11.446184, 53.870303], [11.444491, 53.8686], [11.447332, 53.867851], [11.444853, 53.864995], [11.445867, 53.86479], [11.448593, 53.867823], [11.451188, 53.871101], [11.451383, 53.871869], [11.453352, 53.87271], [11.459115, 53.874151], [11.461362, 53.871186], [11.462478, 53.86954], [11.46315, 53.869661], [11.463594, 53.86981], [11.464018, 53.869963], [11.46438, 53.86996], [11.46482, 53.869849], [11.465951, 53.869522], [11.467263, 53.869379], [11.468396, 53.869045], [11.473498, 53.868917], [11.477006, 53.868008], [11.482263, 53.867239], [11.482781, 53.866615], [11.483519, 53.866294]]]], "type": "MultiPolygon"}}
+{
+  "id": 101818847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_13074019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dorf Mecklenburg",
+    "eurostat:nuts_2021_id":"13074019",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE8",
+    "eurostat:nuts_2021_level_2":"DE80",
+    "eurostat:nuts_2021_level_3":"DE80M",
+    "eurostat:nuts_2021_level_lau":"13074019",
+    "eurostat:population":3121,
+    "eurostat:population_year":2020,
+    "geom:area":0.004117,
+    "geom:area_square_m":30039619.603707,
+    "geom:bbox":"11.413087,53.78972,11.535127,53.876537",
+    "geom:latitude":53.836412,
+    "geom:longitude":11.471662,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":2923,
+    "iso:country":"DE",
+    "lbl:latitude":53.843371,
+    "lbl:longitude":11.463559,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":53.843371,
+    "mps:longitude":11.463559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:arg_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:ast_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:bar_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:bre_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:cat_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:ceb_x_preferred":[
+        "Mecklenburg"
+    ],
+    "name:ces_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:cos_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:cym_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:dan_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:deu_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:eng_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:epo_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:est_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:eus_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u0641 \u0645\u06a9\u0644\u0646\u0628\u0648\u0631\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:fra_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:frp_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:fur_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:gla_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:gle_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:glg_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:gsw_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:hbs_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:hrv_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:hun_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:ido_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:ile_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:ina_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:ind_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:isl_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:ita_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:kon_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:kur_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:lij_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:lim_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:lld_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:ltz_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:min_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u0440\u0444 \u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:mlg_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:msa_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:nap_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:nds_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:nld_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:nno_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:nob_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:nrm_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:oci_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:pcd_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:pms_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:pol_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:por_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:roh_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:ron_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:scn_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:sco_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:slk_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:slv_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:spa_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:srd_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0440\u0444 \u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:swe_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0440\u0444-\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:und_x_variant":[
+        "Mecklenburg Dorf"
+    ],
+    "name:uzb_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:vec_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:vie_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:vls_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:vol_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:war_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:wln_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:wol_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u592b\u6885\u514b\u4f26\u5821"
+    ],
+    "name:zul_x_preferred":[
+        "Dorf Mecklenburg"
+    ],
+    "nav:latitude":53.843371,
+    "nav:longitude":11.463559,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"Nordwestmecklenburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Dorf Mecklenburg",
+    "qs:la_lc":"*DE13005828025",
+    "qs:level":"locality",
+    "qs:loc":"Dorf Mecklenburg",
+    "qs:loc_alt":"Dorf Mecklenburg",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6548175,
+    "qs_pg:gn_pop":2923,
+    "qs_pg:name":"Gemeinde Dorf Mecklenburg",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Mecklenburg-Vorpommern",
+    "qs_pg:photos":42,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":73,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1183751,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12631015,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":64,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Mecklenburg-Vorpommern",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377693587,
+        85633111,
+        1377675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_13074019",
+        "eurostat:nuts_2021_id":"13074019",
+        "gn:id":2872571,
+        "gp:id":674429,
+        "qs_pg:id":867027,
+        "wd:id":"Q263981",
+        "wk:page":"Dorf Mecklenburg"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"0df846fdf49ce40448be9dc63462d796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675589,
+            "localadmin_id":1377693587,
+            "locality_id":101818847,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101818847,
+    "wof:lastmodified":1690871968,
+    "wof:name":"Dorf Mecklenburg",
+    "wof:parent_id":1377693587,
+    "wof:placetype":"locality",
+    "wof:population":3121,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125370361,
+        1125301335
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.413087,
+    53.78972,
+    11.535127,
+    53.876537
+],
+  "geometry": {"coordinates":[[[[11.483519,53.866294],[11.484167,53.865719],[11.484684,53.865144],[11.485472,53.864608],[11.481537,53.86198],[11.481756,53.860909],[11.483102,53.859299],[11.482708,53.857982],[11.482029,53.856846],[11.481516,53.855673],[11.481628,53.852573],[11.482561,53.851478],[11.48361,53.850185],[11.48446,53.850125],[11.485813,53.850186],[11.489458,53.852115],[11.490522,53.854137],[11.491657,53.855916],[11.496944,53.857832],[11.497727,53.857548],[11.495435,53.852355],[11.495762,53.850035],[11.498954,53.845445],[11.498426,53.843626],[11.499466,53.843276],[11.502157,53.845348],[11.50987,53.842518],[11.508073,53.841661],[11.507817,53.839139],[11.505268,53.836635],[11.506135,53.836026],[11.511329,53.835355],[11.511897,53.834299],[11.514676,53.832327],[11.516613,53.832041],[11.518817,53.829499],[11.521775,53.828064],[11.525813,53.827986],[11.527365,53.82747],[11.531557,53.829448],[11.535127,53.828214],[11.531427,53.826511],[11.528776,53.825509],[11.522101,53.823583],[11.521547,53.823246],[11.520696,53.822587],[11.519752,53.822081],[11.518463,53.821921],[11.516451,53.822489],[11.514399,53.822696],[11.512221,53.821485],[11.511248,53.815536],[11.511458,53.811536],[11.505477,53.809554],[11.504386,53.808961],[11.505115,53.807024],[11.50287,53.803125],[11.501873,53.802028],[11.494317,53.800804],[11.496314,53.796547],[11.495599,53.793803],[11.493718,53.793172],[11.493931,53.791858],[11.493899,53.790466],[11.493402,53.789967],[11.491606,53.78972],[11.491026,53.790884],[11.491036,53.791333],[11.491053,53.792106],[11.490241,53.793065],[11.489693,53.794345],[11.489158,53.795517],[11.488808,53.796131],[11.488248,53.796863],[11.48779,53.797424],[11.487062,53.798094],[11.486721,53.798438],[11.485779,53.79841],[11.485441,53.798889],[11.48489,53.799342],[11.483829,53.799423],[11.482597,53.799962],[11.482033,53.800524],[11.481703,53.802036],[11.48127,53.803702],[11.48035,53.805326],[11.47928,53.80767],[11.478168,53.808182],[11.477317,53.808144],[11.475994,53.808029],[11.474663,53.808264],[11.473944,53.808701],[11.473696,53.809143],[11.47315,53.810504],[11.473554,53.811615],[11.474514,53.812443],[11.475191,53.81286],[11.475733,53.813322],[11.474606,53.813834],[11.473693,53.813734],[11.472237,53.813134],[11.469999,53.812864],[11.468889,53.813763],[11.467799,53.813886],[11.465706,53.815119],[11.466078,53.815953],[11.465511,53.81649],[11.465991,53.81763],[11.463377,53.818788],[11.460634,53.819722],[11.461149,53.821136],[11.459907,53.821936],[11.458045,53.822193],[11.455454,53.823138],[11.453378,53.824053],[11.451103,53.824852],[11.450055,53.823467],[11.438774,53.825628],[11.435134,53.827255],[11.433817,53.826052],[11.43356,53.824661],[11.430611,53.823102],[11.425789,53.824827],[11.413087,53.828101],[11.41359,53.828915],[11.416205,53.830531],[11.418538,53.831398],[11.418571,53.834552],[11.419262,53.835306],[11.419412,53.837601],[11.419528,53.838318],[11.420039,53.838534],[11.421127,53.838446],[11.422457,53.838148],[11.423304,53.837971],[11.424174,53.838172],[11.424858,53.838885],[11.426739,53.840938],[11.426941,53.841843],[11.426339,53.842827],[11.425958,53.843477],[11.425908,53.843989],[11.426102,53.844545],[11.426641,53.8449],[11.427311,53.844949],[11.429152,53.845079],[11.430383,53.845798],[11.431205,53.846573],[11.432586,53.846527],[11.43529,53.845797],[11.437927,53.845525],[11.438619,53.845179],[11.438989,53.844718],[11.439664,53.844317],[11.442501,53.843345],[11.444765,53.8458],[11.447626,53.845092],[11.449995,53.845721],[11.451995,53.843424],[11.45284,53.843765],[11.452524,53.844029],[11.452048,53.844318],[11.451695,53.844701],[11.451622,53.845058],[11.45147,53.845463],[11.451076,53.845823],[11.454054,53.845967],[11.452513,53.847906],[11.451855,53.848733],[11.451763,53.84938],[11.451368,53.849692],[11.450099,53.84979],[11.449681,53.850135],[11.449232,53.850462],[11.448438,53.850989],[11.447464,53.851598],[11.446113,53.852381],[11.445031,53.852928],[11.443651,53.853729],[11.442799,53.854392],[11.44192,53.855189],[11.44225,53.856426],[11.442389,53.857198],[11.440482,53.857589],[11.440506,53.858667],[11.440767,53.859519],[11.434168,53.860745],[11.435765,53.865046],[11.431612,53.86558],[11.430368,53.865706],[11.43199,53.869063],[11.434398,53.872863],[11.437431,53.872517],[11.438276,53.875044],[11.438844,53.876537],[11.4438,53.875815],[11.44359,53.875018],[11.447257,53.874176],[11.447163,53.873368],[11.44742,53.872594],[11.446184,53.870303],[11.444491,53.8686],[11.447332,53.867851],[11.444853,53.864995],[11.445867,53.86479],[11.448593,53.867823],[11.451188,53.871101],[11.451383,53.871869],[11.453352,53.87271],[11.459115,53.874151],[11.461362,53.871186],[11.462478,53.86954],[11.46315,53.869661],[11.463594,53.86981],[11.464018,53.869963],[11.46438,53.86996],[11.46482,53.869849],[11.465951,53.869522],[11.467263,53.869379],[11.468396,53.869045],[11.473498,53.868917],[11.477006,53.868008],[11.482263,53.867239],[11.482781,53.866615],[11.483519,53.866294]]]],"type":"MultiPolygon"}
+}

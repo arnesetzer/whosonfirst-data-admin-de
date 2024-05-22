@@ -1,1 +1,221 @@
-{"id": 1125797461, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07143293", "eurostat:level_code": "lau", "eurostat:name_local": "Stahlhofen am Wiesensee", "eurostat:nuts_2021_id": "07143293", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB1", "eurostat:nuts_2021_level_3": "DEB1B", "eurostat:nuts_2021_level_lau": "07143293", "eurostat:population": 334, "eurostat:population_year": 2020, "geom:area": 0.00031, "geom:area_square_m": 2432413.445482, "geom:bbox": "7.971806,50.579148,8.000898,50.596962", "geom:latitude": 50.588043, "geom:longitude": 7.98566, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 334, "iso:country": "DE", "lbl:latitude": 50.5833, "lbl:longitude": 7.98333, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:ara_x_preferred": ["\u0634\u062a\u0622\u0644\u0647\u0648\u0641\u0646 \u0623\u0645 \u0641\u064a\u0633\u0646\u0632\u064a\u0647"], "name:cat_x_preferred": ["Stahlhofen am Wiesensee"], "name:ceb_x_preferred": ["Stahlhofen am Wiesensee"], "name:che_x_preferred": ["\u0428\u0442\u0430\u043b\u044c\u0445\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0438\u0437\u0435\u043d\u0437\u0435\u0435"], "name:deu_x_preferred": ["Stahlhofen am Wiesensee"], "name:eng_x_preferred": ["Stahlhofen am Wiesensee"], "name:epo_x_preferred": ["Stahlhofen am Wiesensee"], "name:eus_x_preferred": ["Stahlhofen am Wiesensee"], "name:fas_x_preferred": ["\u0634\u062a\u0627\u0644\u0647\u0648\u0641\u0646 \u0627\u0645 \u0648\u06cc\u0632\u0646\u0632\u0647"], "name:fra_x_preferred": ["Stahlhofen am Wiesensee"], "name:hun_x_preferred": ["Stahlhofen am Wiesensee"], "name:ita_x_preferred": ["Stahlhofen am Wiesensee"], "name:jpn_x_preferred": ["\u30b7\u30e5\u30bf\u30fc\u30eb\u30db\u30fc\u30d5\u30a7\u30f3\u30fb\u30a2\u30e0\u30fb\u30f4\u30a3\u30fc\u30bc\u30f3\u30bc\u30fc"], "name:lld_x_preferred": ["Stahlhofen am Wiesensee"], "name:msa_x_preferred": ["Stahlhofen am Wiesensee"], "name:nan_x_preferred": ["Stahlhofen am Wiesensee"], "name:nld_x_preferred": ["Stahlhofen am Wiesensee"], "name:nob_x_preferred": ["Stahlhofen am Wiesensee"], "name:pol_x_preferred": ["Stahlhofen am Wiesensee"], "name:por_x_preferred": ["Stahlhofen am Wiesensee"], "name:ron_x_preferred": ["Stahlhofen am Wiesensee"], "name:rus_x_preferred": ["\u0428\u0442\u0430\u043b\u044c\u0445\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0438\u0437\u0435\u043d\u0437\u0435\u0435"], "name:spa_x_preferred": ["Stahlhofen am Wiesensee"], "name:srp_x_preferred": ["\u0428\u0442\u0430\u043b\u0445\u043e\u0444\u0435\u043d \u0430\u043c \u0412\u0438\u0437\u0435\u043d\u0437\u0435"], "name:swe_x_preferred": ["Stahlhofen am Wiesensee"], "name:tat_x_preferred": ["\u0428\u0442\u0430\u043b\u044c\u0445\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0438\u0437\u0435\u043d\u0437\u0435\u0435"], "name:ukr_x_preferred": ["\u0428\u0442\u0430\u043b\u044c\u0433\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0456\u0437\u0435\u043d\u0437\u0435"], "name:ukr_x_variant": ["\u0428\u0442\u0430\u043b\u044c\u0433\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0456\u0437\u0435\u043d\u0437\u0435\u0435"], "name:uzb_x_preferred": ["Stahlhofen am Wiesensee"], "name:vie_x_preferred": ["Stahlhofen am Wiesensee"], "name:vol_x_preferred": ["Stahlhofen am Wiesensee"], "name:war_x_preferred": ["Stahlhofen am Wiesensee"], "name:zho_x_preferred": ["\u7ef4\u68ee\u6e56\u7554\u65bd\u5854\u5c14\u970d\u82ac"], "nav:latitude": 50.5833, "nav:longitude": 7.98333, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6554268, "qs_pg:gn_pop": 334, "qs_pg:name": "Stahlhofen am Wiesensee", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos": 21, "qs_pg:photos_1k": 4, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 1, "qs_pg:photos_all": 21, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 1163933, "qs_pg:qs_pg_placetype": "locality", "qs_pg:qs_pg_placetype_gp": "Town", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 20163040, "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "Town", "wof:belongsto": [85682491, 102191581, 1377685835, 85633111, 102063657], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07143293", "eurostat:nuts_2021_id": "07143293", "gn:id": 6554268, "gp:id": 20163040, "qs_pg:id": 1163933, "wd:id": "Q818657"}, "wof:country": "DE", "wof:created": 1497291113, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "dff95b797ab8ecf5f2c9a304f7622e1e", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063657, "localadmin_id": 1377685835, "locality_id": 1125797461, "region_id": 85682491}], "wof:id": 1125797461, "wof:lastmodified": 1690874484, "wof:name": "Stahlhofen am Wiesensee", "wof:parent_id": 1377685835, "wof:placetype": "locality", "wof:population": 334, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125349007], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.971806, 50.579148, 8.000898, 50.596962], "geometry": {"coordinates": [[[[7.976444, 50.596928], [7.976728, 50.596241], [7.978087, 50.596356], [7.982251, 50.596235], [7.984318, 50.596175], [7.985255, 50.596148], [7.989859, 50.594177], [7.989702, 50.593408], [7.989758, 50.592365], [7.996869, 50.590035], [7.996862, 50.589639], [7.997419, 50.588471], [7.998162, 50.587803], [7.999028, 50.587471], [7.999655, 50.587385], [8.000441, 50.58751], [8.000898, 50.585558], [7.998229, 50.584447], [7.998959, 50.583742], [7.998626, 50.581772], [7.992029, 50.579729], [7.991032, 50.57942], [7.990368, 50.579414], [7.990103, 50.579859], [7.99079, 50.580655], [7.991355, 50.581308], [7.990422, 50.581631], [7.989988, 50.581889], [7.989595, 50.58251], [7.988657, 50.582573], [7.986928, 50.582112], [7.98174, 50.5792], [7.981106, 50.57969], [7.978152, 50.579148], [7.976536, 50.579995], [7.976886, 50.580075], [7.977311, 50.580057], [7.978358, 50.580044], [7.979525, 50.58016], [7.980233, 50.5804], [7.980869, 50.580675], [7.981292, 50.580963], [7.980135, 50.583531], [7.977844, 50.583805], [7.975947, 50.58515], [7.975765, 50.586694], [7.974794, 50.586851], [7.973212, 50.587107], [7.972701, 50.588437], [7.971806, 50.588583], [7.971959, 50.589072], [7.972336, 50.589566], [7.973624, 50.589952], [7.974647, 50.590388], [7.974995, 50.591278], [7.975003, 50.591377], [7.975034, 50.592125], [7.974775, 50.592993], [7.973655, 50.593554], [7.973025, 50.593702], [7.974065, 50.594868], [7.97397, 50.596038], [7.973896, 50.596962], [7.976444, 50.596928]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125797461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07143293",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stahlhofen am Wiesensee",
+    "eurostat:nuts_2021_id":"07143293",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB1",
+    "eurostat:nuts_2021_level_3":"DEB1B",
+    "eurostat:nuts_2021_level_lau":"07143293",
+    "eurostat:population":334,
+    "eurostat:population_year":2020,
+    "geom:area":0.00031,
+    "geom:area_square_m":2432413.445482,
+    "geom:bbox":"7.971806,50.579148,8.000898,50.596962",
+    "geom:latitude":50.588043,
+    "geom:longitude":7.98566,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":334,
+    "iso:country":"DE",
+    "lbl:latitude":50.5833,
+    "lbl:longitude":7.98333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u062a\u0622\u0644\u0647\u0648\u0641\u0646 \u0623\u0645 \u0641\u064a\u0633\u0646\u0632\u064a\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:ceb_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0442\u0430\u043b\u044c\u0445\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0438\u0437\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:eng_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:epo_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:eus_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u062a\u0627\u0644\u0647\u0648\u0641\u0646 \u0627\u0645 \u0648\u06cc\u0632\u0646\u0632\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:hun_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:ita_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30bf\u30fc\u30eb\u30db\u30fc\u30d5\u30a7\u30f3\u30fb\u30a2\u30e0\u30fb\u30f4\u30a3\u30fc\u30bc\u30f3\u30bc\u30fc"
+    ],
+    "name:lld_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:msa_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:nan_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:nld_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:nob_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:pol_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:por_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:ron_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u043b\u044c\u0445\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0438\u0437\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0430\u043b\u0445\u043e\u0444\u0435\u043d \u0430\u043c \u0412\u0438\u0437\u0435\u043d\u0437\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0442\u0430\u043b\u044c\u0445\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0438\u0437\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0430\u043b\u044c\u0433\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0456\u0437\u0435\u043d\u0437\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u0442\u0430\u043b\u044c\u0433\u043e\u0444\u0435\u043d-\u0430\u043c-\u0412\u0456\u0437\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:vie_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:vol_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:war_x_preferred":[
+        "Stahlhofen am Wiesensee"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u68ee\u6e56\u7554\u65bd\u5854\u5c14\u970d\u82ac"
+    ],
+    "nav:latitude":50.5833,
+    "nav:longitude":7.98333,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6554268,
+    "qs_pg:gn_pop":334,
+    "qs_pg:name":"Stahlhofen am Wiesensee",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1163933,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":20163040,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377685835,
+        85633111,
+        102063657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07143293",
+        "eurostat:nuts_2021_id":"07143293",
+        "gn:id":6554268,
+        "gp:id":20163040,
+        "qs_pg:id":1163933,
+        "wd:id":"Q818657"
+    },
+    "wof:country":"DE",
+    "wof:created":1497291113,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"dff95b797ab8ecf5f2c9a304f7622e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063657,
+            "localadmin_id":1377685835,
+            "locality_id":1125797461,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":1125797461,
+    "wof:lastmodified":1690874484,
+    "wof:name":"Stahlhofen am Wiesensee",
+    "wof:parent_id":1377685835,
+    "wof:placetype":"locality",
+    "wof:population":334,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125349007
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.971806,
+    50.579148,
+    8.000898,
+    50.596962
+],
+  "geometry": {"coordinates":[[[[7.976444,50.596928],[7.976728,50.596241],[7.978087,50.596356],[7.982251,50.596235],[7.984318,50.596175],[7.985255,50.596148],[7.989859,50.594177],[7.989702,50.593408],[7.989758,50.592365],[7.996869,50.590035],[7.996862,50.589639],[7.997419,50.588471],[7.998162,50.587803],[7.999028,50.587471],[7.999655,50.587385],[8.000441,50.58751],[8.000898,50.585558],[7.998229,50.584447],[7.998959,50.583742],[7.998626,50.581772],[7.992029,50.579729],[7.991032,50.57942],[7.990368,50.579414],[7.990103,50.579859],[7.99079,50.580655],[7.991355,50.581308],[7.990422,50.581631],[7.989988,50.581889],[7.989595,50.58251],[7.988657,50.582573],[7.986928,50.582112],[7.98174,50.5792],[7.981106,50.57969],[7.978152,50.579148],[7.976536,50.579995],[7.976886,50.580075],[7.977311,50.580057],[7.978358,50.580044],[7.979525,50.58016],[7.980233,50.5804],[7.980869,50.580675],[7.981292,50.580963],[7.980135,50.583531],[7.977844,50.583805],[7.975947,50.58515],[7.975765,50.586694],[7.974794,50.586851],[7.973212,50.587107],[7.972701,50.588437],[7.971806,50.588583],[7.971959,50.589072],[7.972336,50.589566],[7.973624,50.589952],[7.974647,50.590388],[7.974995,50.591278],[7.975003,50.591377],[7.975034,50.592125],[7.974775,50.592993],[7.973655,50.593554],[7.973025,50.593702],[7.974065,50.594868],[7.97397,50.596038],[7.973896,50.596962],[7.976444,50.596928]]]],"type":"MultiPolygon"}
+}

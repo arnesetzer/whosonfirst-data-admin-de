@@ -1,1 +1,299 @@
-{"id": 101807781, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_03459004", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Iburg, Stadt", "eurostat:nuts_2021_id": "03459004", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE9", "eurostat:nuts_2021_level_2": "DE94", "eurostat:nuts_2021_level_3": "DE94E", "eurostat:nuts_2021_level_lau": "03459004", "eurostat:population": 10636, "eurostat:population_year": 2020, "geom:area": 0.004788, "geom:area_square_m": 36329806.295868, "geom:bbox": "7.997386,52.113055,8.113789,52.178123", "geom:latitude": 52.147823, "geom:longitude": 8.053495, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 11519, "iso:country": "DE", "lbl:latitude": 52.155995, "lbl:longitude": 8.046326, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 52.155995, "mps:longitude": 8.046326, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:ara_x_preferred": ["\u0628\u0627\u062f \u0625\u064a\u0628\u0648\u0631\u063a"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0627\u06cc\u0628\u0648\u0631\u0642"], "name:aze_x_preferred": ["Bad-\u0130burq"], "name:bel_x_preferred": ["\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0434-\u0406\u0431\u0443\u0440\u0433"], "name:bel_x_variant": ["\u0411\u0430\u0434-\u0406\u0431\u0443\u0440\u0433"], "name:bul_x_preferred": ["\u0411\u0430\u0434 \u0418\u0431\u0443\u0440\u0433"], "name:ceb_x_preferred": ["Bad Iburg"], "name:ces_x_preferred": ["Bad Iburg"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"], "name:dan_x_preferred": ["Bad Iburg"], "name:deu_x_preferred": ["Bad Iburg"], "name:ell_x_preferred": ["\u039c\u03c0\u03b1\u03bd\u03c4 \u038a\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"], "name:eng_x_preferred": ["Bad Iburg"], "name:epo_x_preferred": ["Bad Iburg"], "name:est_x_preferred": ["Bad Iburg"], "name:eus_x_preferred": ["Bad Iburg"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0627\u06cc\u0628\u0648\u0631\u06af"], "name:fra_x_preferred": ["Bad Iburg"], "name:gle_x_preferred": ["Bad Iburg"], "name:hbs_x_preferred": ["Bad Iburg"], "name:heb_x_preferred": ["\u05d1\u05d0\u05d3 \u05d0\u05d9\u05d1\u05d5\u05e8\u05d2"], "name:hun_x_preferred": ["Bad Iburg"], "name:ita_x_preferred": ["Bad Iburg"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30a4\u30fc\u30d6\u30eb\u30af"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"], "name:kur_x_preferred": ["Bad Iburg"], "name:lit_x_preferred": ["Bad Iburgas"], "name:lld_x_preferred": ["Bad Iburg"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0418\u0431\u0443\u0440\u0433"], "name:msa_x_preferred": ["Bad Iburg"], "name:nds_x_preferred": ["Ibig"], "name:nld_x_preferred": ["Bad Iburg"], "name:pol_x_preferred": ["Bad Iburg"], "name:por_x_preferred": ["Bad Iburg"], "name:ron_x_preferred": ["Bad Iburg"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"], "name:spa_x_preferred": ["Bad Iburg"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0418\u0431\u0443\u0440\u0433"], "name:swe_x_preferred": ["Bad Iburg"], "name:szl_x_preferred": ["Bad Iburg"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"], "name:tum_x_preferred": ["Bad Iburg"], "name:tur_x_preferred": ["Bad Iburg"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0406\u0431\u0443\u0440\u0433"], "name:uzb_x_preferred": ["Bad Iburg"], "name:vie_x_preferred": ["Bad Iburg"], "name:vol_x_preferred": ["Bad Iburg"], "name:war_x_preferred": ["Bad Iburg"], "name:zho_x_preferred": ["\u5df4\u7279\u4f0a\u5821"], "name:zho_x_variant": ["\u5df4\u5fb7\u4f0a\u5821"], "nav:latitude": 52.155995, "nav:longitude": 8.046326, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "Osnabr\u00fcck", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Iburg", "qs:la_lc": "*DE03045900004", "qs:level": "locality", "qs:loc": "Bad Iburg", "qs:loc_alt": "Bad Iburg", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557476, "qs_pg:gn_pop": 11519, "qs_pg:name": "Bad Iburg, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Niedersachsen", "qs_pg:photos": 2, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 205, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 6, "qs_pg:qs_id": 637499, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12630006, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 52.159167, "wd:longitude": 8.047222, "wd:population": 10571, "wd:wordcount": 988, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Niedersachsen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682555, 102191581, 1377688967, 85633111, 102063947], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_03459004", "eurostat:nuts_2021_id": "03459004", "gn:id": 2953430, "gp:id": 636442, "qs_pg:id": 142910, "wd:id": "Q501621", "wk:page": "Bad Iburg"}, "wof:coterminous": [1377688967], "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "cab09bcc0883badf05daa9ffb7591346", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063947, "localadmin_id": 1377688967, "locality_id": 101807781, "region_id": 85682555}], "wof:id": 101807781, "wof:lastmodified": 1690873526, "wof:name": "Bad Iburg", "wof:parent_id": 1377688967, "wof:placetype": "locality", "wof:population": 10636, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125284543, 1125289191], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.997386, 52.113055, 8.113789, 52.178123], "geometry": {"coordinates": [[[[8.040374, 52.178123], [8.04449, 52.176453], [8.045938, 52.177292], [8.050511, 52.17555], [8.055027, 52.174869], [8.0598, 52.174849], [8.063855, 52.173891], [8.068015, 52.173113], [8.069179, 52.172894], [8.071129, 52.173338], [8.071988, 52.173275], [8.073306, 52.173241], [8.074352, 52.173383], [8.076878, 52.174143], [8.078176, 52.174472], [8.080258, 52.168399], [8.083496, 52.167501], [8.088069, 52.167927], [8.089926, 52.167676], [8.093749, 52.168446], [8.095804, 52.167507], [8.101646, 52.171305], [8.103172, 52.171785], [8.107404, 52.17313], [8.109552, 52.172642], [8.107232, 52.168915], [8.105895, 52.16653], [8.10594, 52.164569], [8.109459, 52.163065], [8.109674, 52.160648], [8.10973, 52.15963], [8.109981, 52.159231], [8.109872, 52.158804], [8.109953, 52.158522], [8.110535, 52.158088], [8.111984, 52.156802], [8.112358, 52.15596], [8.112105, 52.155146], [8.111762, 52.154168], [8.111558, 52.153051], [8.110879, 52.152249], [8.110579, 52.150401], [8.11258, 52.148641], [8.111792, 52.147077], [8.111597, 52.145465], [8.11287, 52.145005], [8.112522, 52.143501], [8.111287, 52.143233], [8.111484, 52.14261], [8.113789, 52.138185], [8.111749, 52.136896], [8.1113, 52.136815], [8.10936, 52.137143], [8.105309, 52.136275], [8.102219, 52.135019], [8.100704, 52.134443], [8.099276, 52.13409], [8.098725, 52.133937], [8.09748, 52.133245], [8.096435, 52.134964], [8.097786, 52.135725], [8.096848, 52.136849], [8.095604, 52.136329], [8.092427, 52.135005], [8.092213, 52.135181], [8.091511, 52.135743], [8.091163, 52.135673], [8.087784, 52.134876], [8.085091, 52.135181], [8.082649, 52.135456], [8.080886, 52.13479], [8.081527, 52.133732], [8.079295, 52.133912], [8.078032, 52.130737], [8.082285, 52.130229], [8.081937, 52.129079], [8.077658, 52.129784], [8.073716, 52.129686], [8.071889, 52.131305], [8.068675, 52.129611], [8.06795, 52.129227], [8.069314, 52.128598], [8.071097, 52.127797], [8.071834, 52.124698], [8.071943, 52.124295], [8.072413, 52.123711], [8.072547, 52.12339], [8.071829, 52.121521], [8.071599, 52.120896], [8.068302, 52.121306], [8.066631, 52.120309], [8.06301, 52.120766], [8.063065, 52.12083], [8.0645, 52.122146], [8.064854, 52.123224], [8.063842, 52.124462], [8.060052, 52.122229], [8.060607, 52.12567], [8.062091, 52.126597], [8.06173, 52.127597], [8.05896, 52.129192], [8.058343, 52.129164], [8.058544, 52.128311], [8.058577, 52.125549], [8.057456, 52.125526], [8.047882, 52.125271], [8.04668, 52.125239], [8.044943, 52.125192], [8.043458, 52.125153], [8.041973, 52.123017], [8.041145, 52.122711], [8.039986, 52.122283], [8.036149, 52.122422], [8.033671, 52.12243], [8.033053, 52.119605], [8.031645, 52.120051], [8.03136, 52.119372], [8.030397, 52.118164], [8.029168, 52.117355], [8.028181, 52.117025], [8.027296, 52.116935], [8.025912, 52.116787], [8.025041, 52.116689], [8.024874, 52.116671], [8.024153, 52.116418], [8.023482, 52.115951], [8.022818, 52.115366], [8.02159, 52.113055], [8.020075, 52.113474], [8.017277, 52.11518], [8.009932, 52.115306], [8.007796, 52.115333], [8.006763, 52.12288], [8.006514, 52.124606], [8.006245, 52.126548], [8.005968, 52.128552], [8.005803, 52.129745], [8.005245, 52.134021], [8.005144, 52.134798], [8.004943, 52.136846], [8.002807, 52.137665], [8.003692, 52.139907], [8.004694, 52.143491], [8.004878, 52.144134], [8.004687, 52.144148], [8.002484, 52.1443], [8.00236, 52.147069], [8.002493, 52.147324], [8.003033, 52.148406], [8.0033, 52.149132], [8.003505, 52.149658], [8.001031, 52.149948], [8.000472, 52.150009], [7.997776, 52.150339], [7.999906, 52.152562], [8.000626, 52.153306], [7.997688, 52.153262], [7.997386, 52.15448], [8.003147, 52.154555], [8.002613, 52.156542], [8.000647, 52.157167], [8.002047, 52.159958], [8.004044, 52.160109], [8.009127, 52.159629], [8.009138, 52.158937], [8.012505, 52.159178], [8.011819, 52.161801], [8.015592, 52.161313], [8.015261, 52.160424], [8.01785, 52.160433], [8.017457, 52.159065], [8.020629, 52.159131], [8.020722, 52.160366], [8.023015, 52.16018], [8.023557, 52.16101], [8.024229, 52.162059], [8.025189, 52.16351], [8.023708, 52.164275], [8.02356, 52.16471], [8.023013, 52.165099], [8.021155, 52.165651], [8.018395, 52.165969], [8.018361, 52.167391], [8.015162, 52.168611], [8.016978, 52.172051], [8.017299, 52.172327], [8.018488, 52.173147], [8.022385, 52.172904], [8.025677, 52.172871], [8.027952, 52.172797], [8.030537, 52.172466], [8.032442, 52.171919], [8.033449, 52.171555], [8.035644, 52.171447], [8.037641, 52.170711], [8.038737, 52.169924], [8.039521, 52.174434], [8.041545, 52.175429], [8.040374, 52.178123]]]], "type": "MultiPolygon"}}
+{
+  "id": 101807781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_03459004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Iburg, Stadt",
+    "eurostat:nuts_2021_id":"03459004",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE9",
+    "eurostat:nuts_2021_level_2":"DE94",
+    "eurostat:nuts_2021_level_3":"DE94E",
+    "eurostat:nuts_2021_level_lau":"03459004",
+    "eurostat:population":10636,
+    "eurostat:population_year":2020,
+    "geom:area":0.004788,
+    "geom:area_square_m":36329806.295868,
+    "geom:bbox":"7.997386,52.113055,8.113789,52.178123",
+    "geom:latitude":52.147823,
+    "geom:longitude":8.053495,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":11519,
+    "iso:country":"DE",
+    "lbl:latitude":52.155995,
+    "lbl:longitude":8.046326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":52.155995,
+    "mps:longitude":8.046326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0625\u064a\u0628\u0648\u0631\u063a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0627\u06cc\u0628\u0648\u0631\u0642"
+    ],
+    "name:aze_x_preferred":[
+        "Bad-\u0130burq"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0434-\u0406\u0431\u0443\u0440\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u0434-\u0406\u0431\u0443\u0440\u0433"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0434 \u0418\u0431\u0443\u0440\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4 \u038a\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:est_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0627\u06cc\u0628\u0648\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d3 \u05d0\u05d9\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30a4\u30fc\u30d6\u30eb\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:lit_x_preferred":[
+        "Bad Iburgas"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0418\u0431\u0443\u0440\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:nds_x_preferred":[
+        "Ibig"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:por_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0418\u0431\u0443\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:szl_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0418\u0431\u0443\u0440\u0433"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0406\u0431\u0443\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:war_x_preferred":[
+        "Bad Iburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u4f0a\u5821"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u4f0a\u5821"
+    ],
+    "nav:latitude":52.155995,
+    "nav:longitude":8.046326,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Osnabr\u00fcck",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Iburg",
+    "qs:la_lc":"*DE03045900004",
+    "qs:level":"locality",
+    "qs:loc":"Bad Iburg",
+    "qs:loc_alt":"Bad Iburg",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557476,
+    "qs_pg:gn_pop":11519,
+    "qs_pg:name":"Bad Iburg, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Niedersachsen",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":205,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":637499,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12630006,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":52.159167,
+    "wd:longitude":8.047222,
+    "wd:population":10571,
+    "wd:wordcount":988,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Niedersachsen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377688967,
+        85633111,
+        102063947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_03459004",
+        "eurostat:nuts_2021_id":"03459004",
+        "gn:id":2953430,
+        "gp:id":636442,
+        "qs_pg:id":142910,
+        "wd:id":"Q501621",
+        "wk:page":"Bad Iburg"
+    },
+    "wof:coterminous":[
+        1377688967
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"cab09bcc0883badf05daa9ffb7591346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063947,
+            "localadmin_id":1377688967,
+            "locality_id":101807781,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101807781,
+    "wof:lastmodified":1690873526,
+    "wof:name":"Bad Iburg",
+    "wof:parent_id":1377688967,
+    "wof:placetype":"locality",
+    "wof:population":10636,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125284543,
+        1125289191
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.997386,
+    52.113055,
+    8.113789,
+    52.178123
+],
+  "geometry": {"coordinates":[[[[8.040374,52.178123],[8.04449,52.176453],[8.045938,52.177292],[8.050511,52.17555],[8.055027,52.174869],[8.0598,52.174849],[8.063855,52.173891],[8.068015,52.173113],[8.069179,52.172894],[8.071129,52.173338],[8.071988,52.173275],[8.073306,52.173241],[8.074352,52.173383],[8.076878,52.174143],[8.078176,52.174472],[8.080258,52.168399],[8.083496,52.167501],[8.088069,52.167927],[8.089926,52.167676],[8.093749,52.168446],[8.095804,52.167507],[8.101646,52.171305],[8.103172,52.171785],[8.107404,52.17313],[8.109552,52.172642],[8.107232,52.168915],[8.105895,52.16653],[8.10594,52.164569],[8.109459,52.163065],[8.109674,52.160648],[8.10973,52.15963],[8.109981,52.159231],[8.109872,52.158804],[8.109953,52.158522],[8.110535,52.158088],[8.111984,52.156802],[8.112358,52.15596],[8.112105,52.155146],[8.111762,52.154168],[8.111558,52.153051],[8.110879,52.152249],[8.110579,52.150401],[8.11258,52.148641],[8.111792,52.147077],[8.111597,52.145465],[8.11287,52.145005],[8.112522,52.143501],[8.111287,52.143233],[8.111484,52.14261],[8.113789,52.138185],[8.111749,52.136896],[8.1113,52.136815],[8.10936,52.137143],[8.105309,52.136275],[8.102219,52.135019],[8.100704,52.134443],[8.099276,52.13409],[8.098725,52.133937],[8.09748,52.133245],[8.096435,52.134964],[8.097786,52.135725],[8.096848,52.136849],[8.095604,52.136329],[8.092427,52.135005],[8.092213,52.135181],[8.091511,52.135743],[8.091163,52.135673],[8.087784,52.134876],[8.085091,52.135181],[8.082649,52.135456],[8.080886,52.13479],[8.081527,52.133732],[8.079295,52.133912],[8.078032,52.130737],[8.082285,52.130229],[8.081937,52.129079],[8.077658,52.129784],[8.073716,52.129686],[8.071889,52.131305],[8.068675,52.129611],[8.06795,52.129227],[8.069314,52.128598],[8.071097,52.127797],[8.071834,52.124698],[8.071943,52.124295],[8.072413,52.123711],[8.072547,52.12339],[8.071829,52.121521],[8.071599,52.120896],[8.068302,52.121306],[8.066631,52.120309],[8.06301,52.120766],[8.063065,52.12083],[8.0645,52.122146],[8.064854,52.123224],[8.063842,52.124462],[8.060052,52.122229],[8.060607,52.12567],[8.062091,52.126597],[8.06173,52.127597],[8.05896,52.129192],[8.058343,52.129164],[8.058544,52.128311],[8.058577,52.125549],[8.057456,52.125526],[8.047882,52.125271],[8.04668,52.125239],[8.044943,52.125192],[8.043458,52.125153],[8.041973,52.123017],[8.041145,52.122711],[8.039986,52.122283],[8.036149,52.122422],[8.033671,52.12243],[8.033053,52.119605],[8.031645,52.120051],[8.03136,52.119372],[8.030397,52.118164],[8.029168,52.117355],[8.028181,52.117025],[8.027296,52.116935],[8.025912,52.116787],[8.025041,52.116689],[8.024874,52.116671],[8.024153,52.116418],[8.023482,52.115951],[8.022818,52.115366],[8.02159,52.113055],[8.020075,52.113474],[8.017277,52.11518],[8.009932,52.115306],[8.007796,52.115333],[8.006763,52.12288],[8.006514,52.124606],[8.006245,52.126548],[8.005968,52.128552],[8.005803,52.129745],[8.005245,52.134021],[8.005144,52.134798],[8.004943,52.136846],[8.002807,52.137665],[8.003692,52.139907],[8.004694,52.143491],[8.004878,52.144134],[8.004687,52.144148],[8.002484,52.1443],[8.00236,52.147069],[8.002493,52.147324],[8.003033,52.148406],[8.0033,52.149132],[8.003505,52.149658],[8.001031,52.149948],[8.000472,52.150009],[7.997776,52.150339],[7.999906,52.152562],[8.000626,52.153306],[7.997688,52.153262],[7.997386,52.15448],[8.003147,52.154555],[8.002613,52.156542],[8.000647,52.157167],[8.002047,52.159958],[8.004044,52.160109],[8.009127,52.159629],[8.009138,52.158937],[8.012505,52.159178],[8.011819,52.161801],[8.015592,52.161313],[8.015261,52.160424],[8.01785,52.160433],[8.017457,52.159065],[8.020629,52.159131],[8.020722,52.160366],[8.023015,52.16018],[8.023557,52.16101],[8.024229,52.162059],[8.025189,52.16351],[8.023708,52.164275],[8.02356,52.16471],[8.023013,52.165099],[8.021155,52.165651],[8.018395,52.165969],[8.018361,52.167391],[8.015162,52.168611],[8.016978,52.172051],[8.017299,52.172327],[8.018488,52.173147],[8.022385,52.172904],[8.025677,52.172871],[8.027952,52.172797],[8.030537,52.172466],[8.032442,52.171919],[8.033449,52.171555],[8.035644,52.171447],[8.037641,52.170711],[8.038737,52.169924],[8.039521,52.174434],[8.041545,52.175429],[8.040374,52.178123]]]],"type":"MultiPolygon"}
+}

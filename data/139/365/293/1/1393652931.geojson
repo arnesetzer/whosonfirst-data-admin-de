@@ -1,1 +1,115 @@
-{"id": 1393652931, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.48592,51.21758,11.48592,51.21758", "geom:latitude": 51.21758, "geom:longitude": 11.48592, "gn:admin1_code": "14.0", "gn:admin2_code": "0.0", "gn:admin3_code": "15084.0", "gn:admin4_code": "15084133.0", "gn:asciiname": "Bernsdorf", "gn:country_code": "DE", "gn:dem": 260, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2949962, "gn:latitude": 51.21758, "gn:longitude": 11.48592, "gn:modification_date": "2015-09-05", "gn:name": "Bernsdorf", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "11.48092,51.21258,11.49092,51.22258", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:bak_x_preferred": ["\u0411\u0435\u0440\u043d\u0441\u0434\u043e\u0440\u0444"], "name:ceb_x_preferred": ["Bernsdorf"], "name:deu_x_preferred": ["Bernsdorf"], "name:epo_x_preferred": ["Bernsdorf"], "name:est_x_preferred": ["Bernsdorf"], "name:fra_x_preferred": ["Bernsdorf"], "name:ita_x_preferred": ["Bernsdorf"], "name:kaz_x_preferred": ["\u0411\u0435\u0440\u043d\u0441\u0434\u043e\u0440\u0444"], "name:mkd_x_preferred": ["\u0411\u0435\u0440\u043d\u0441\u0434\u043e\u0440\u0444"], "name:nld_x_preferred": ["Bernsdorf"], "name:pol_x_preferred": ["Bernsdorf"], "name:rus_x_preferred": ["\u0411\u0435\u0440\u043d\u0441\u0434\u043e\u0440\u0444"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377688485, 85633111, 1377753637, 102063747, 85682519], "wof:breaches": [], "wof:concordances": {"gn:id": 2949962}, "wof:country": "DE", "wof:geomhash": "a6926a36bbe40de6c55ce866679b49bb", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063747, "localadmin_id": 1377688485, "locality_id": 1377753637, "neighbourhood_id": 1393652931, "region_id": 85682519}], "wof:id": 1393652931, "wof:lastmodified": 1566713420, "wof:name": "Bernsdorf", "wof:parent_id": 1377753637, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1310288107], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.48592, 51.21758, 11.48592, 51.21758], "geometry": {"coordinates": [11.48592, 51.21758], "type": "Point"}}
+{
+  "id": 1393652931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.48592,51.21758,11.48592,51.21758",
+    "geom:latitude":51.21758,
+    "geom:longitude":11.48592,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"15084.0",
+    "gn:admin4_code":"15084133.0",
+    "gn:asciiname":"Bernsdorf",
+    "gn:country_code":"DE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2949962,
+    "gn:latitude":51.21758,
+    "gn:longitude":11.48592,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Bernsdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"11.48092,51.21258,11.49092,51.22258",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:bak_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "Bernsdorf"
+    ],
+    "name:deu_x_preferred":[
+        "Bernsdorf"
+    ],
+    "name:epo_x_preferred":[
+        "Bernsdorf"
+    ],
+    "name:est_x_preferred":[
+        "Bernsdorf"
+    ],
+    "name:fra_x_preferred":[
+        "Bernsdorf"
+    ],
+    "name:ita_x_preferred":[
+        "Bernsdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Bernsdorf"
+    ],
+    "name:pol_x_preferred":[
+        "Bernsdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377688485,
+        85633111,
+        1377753637,
+        102063747,
+        85682519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2949962
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"a6926a36bbe40de6c55ce866679b49bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063747,
+            "localadmin_id":1377688485,
+            "locality_id":1377753637,
+            "neighbourhood_id":1393652931,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":1393652931,
+    "wof:lastmodified":1566713420,
+    "wof:name":"Bernsdorf",
+    "wof:parent_id":1377753637,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310288107
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.48592,
+    51.21758,
+    11.48592,
+    51.21758
+],
+  "geometry": {"coordinates":[11.48592,51.21758],"type":"Point"}
+}

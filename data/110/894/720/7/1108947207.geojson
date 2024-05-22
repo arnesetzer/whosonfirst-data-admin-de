@@ -1,1 +1,70 @@
-{"id": 1108947207, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.81214138679,51.1833402959,6.81214138679,51.1833402959", "geom:latitude": 51.18334, "geom:longitude": 6.812141, "iso:country": "DE", "lbl:bbox": "6.80714138679,51.1783402959,6.81714138679,51.1883402959", "lbl:latitude": 51.18334, "lbl:longitude": 6.812141, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 15.0, "mz:tier_metro": 30, "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377689397, 404227561, 101748671, 102063759, 85682513], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491366193, "wof:geomhash": "d226d5e159413aa90251c8bceedfa5bc", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063759, "localadmin_id": 1377689397, "locality_id": 101748671, "macrocounty_id": 404227561, "neighbourhood_id": 1108947207, "region_id": 85682513}], "wof:id": 1108947207, "wof:lastmodified": 1566713028, "wof:name": "Wersten West", "wof:parent_id": 101748671, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.812141386793, 51.18334029589264, 6.812141386793, 51.18334029589264], "geometry": {"coordinates": [6.812141386793, 51.18334029589264], "type": "Point"}}
+{
+  "id": 1108947207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.81214138679,51.1833402959,6.81214138679,51.1833402959",
+    "geom:latitude":51.18334,
+    "geom:longitude":6.812141,
+    "iso:country":"DE",
+    "lbl:bbox":"6.80714138679,51.1783402959,6.81714138679,51.1883402959",
+    "lbl:latitude":51.18334,
+    "lbl:longitude":6.812141,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689397,
+        404227561,
+        101748671,
+        102063759,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491366193,
+    "wof:geomhash":"d226d5e159413aa90251c8bceedfa5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063759,
+            "localadmin_id":1377689397,
+            "locality_id":101748671,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1108947207,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1108947207,
+    "wof:lastmodified":1566713028,
+    "wof:name":"Wersten West",
+    "wof:parent_id":101748671,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.812141386793,
+    51.18334029589264,
+    6.812141386793,
+    51.18334029589264
+],
+  "geometry": {"coordinates":[6.812141386793,51.18334029589264],"type":"Point"}
+}

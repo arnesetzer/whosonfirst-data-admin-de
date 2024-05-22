@@ -1,1 +1,166 @@
-{"id": 101822243, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.00029, "geom:area_square_m": 2231775.424114, "geom:bbox": "10.758269,51.529096,10.788276,51.565208", "geom:latitude": 51.545978, "geom:longitude": 10.768269, "gn:population": 3301, "iso:country": "DE", "lbl:latitude": 51.548811, "lbl:longitude": 10.765541, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 51.548811, "mps:longitude": 10.765541, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"], "name:ceb_x_preferred": ["Niedersachswerfen"], "name:che_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"], "name:deu_x_preferred": ["Niedersachswerfen"], "name:eng_x_preferred": ["Niedersachswerfen"], "name:epo_x_preferred": ["Niedersachswerfen"], "name:fra_x_preferred": ["Niedersachswerfen"], "name:gml_x_preferred": ["Saswerp [a. 1235]"], "name:hbs_x_preferred": ["Niedersachswerfen"], "name:ita_x_preferred": ["Niedersachswerfen"], "name:kaz_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"], "name:kir_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"], "name:mkd_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"], "name:nld_x_preferred": ["Niedersachswerfen"], "name:pol_x_preferred": ["Niedersachswerfen"], "name:por_x_preferred": ["Niedersachswerfen"], "name:ron_x_preferred": ["Niedersachswerfen"], "name:rus_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"], "name:srp_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u0445\u0441\u0432\u0435\u0440\u0444\u0435\u043d"], "name:swe_x_preferred": ["Niedersachswerfen"], "name:tat_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"], "name:uzb_x_preferred": ["Niedersachswerfen"], "name:vie_x_preferred": ["Niedersachswerfen"], "name:vol_x_preferred": ["Niedersachswerfen"], "name:war_x_preferred": ["Niedersachswerfen"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Nordhausen", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Nordhausen", "qs:la_lc": "*DE16006200041", "qs:level": "locality", "qs:loc": "Niedersachswerfen", "qs:loc_alt": "Niedersachswerfen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 27, "wof:belongsto": [85682541, 102191581, 1377689547, 85633111, 102063809], "wof:breaches": [], "wof:concordances": {"gn:id": 2862925, "gp:id": 679843, "qs_pg:id": 93326, "wd:id": "Q628366"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "daff7340f1b83fec7a3a53f6a98f1f1b", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063809, "localadmin_id": 1377689547, "locality_id": 101822243, "region_id": 85682541}], "wof:id": 101822243, "wof:lastmodified": 1690873431, "wof:name": "Niedersachswerfen", "wof:parent_id": 1377689547, "wof:placetype": "locality", "wof:population": 3301, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.758269, 51.529096, 10.788276, 51.565208], "geometry": {"coordinates": [[[10.764351, 51.565199], [10.764336, 51.5643], [10.76722, 51.564281], [10.767205, 51.563383], [10.770089, 51.563364], [10.770074, 51.562465], [10.771516, 51.562455], [10.771501, 51.561557], [10.770059, 51.561566], [10.770028, 51.559769], [10.768586, 51.559778], [10.768526, 51.556183], [10.769968, 51.556174], [10.769952, 51.555275], [10.772836, 51.555256], [10.772821, 51.554357], [10.771379, 51.554367], [10.771318, 51.550772], [10.77276, 51.550762], [10.772729, 51.548965], [10.769846, 51.548984], [10.769755, 51.543591], [10.771196, 51.543582], [10.771166, 51.541784], [10.772607, 51.541775], [10.772546, 51.53818], [10.771105, 51.538189], [10.77106, 51.535493], [10.773942, 51.535474], [10.773927, 51.534575], [10.775368, 51.534566], [10.775337, 51.532768], [10.782542, 51.53272], [10.782527, 51.531821], [10.783968, 51.531812], [10.783953, 51.530913], [10.788276, 51.530884], [10.78826, 51.529985], [10.786819, 51.529995], [10.786804, 51.529096], [10.783922, 51.529116], [10.783937, 51.530014], [10.776732, 51.530062], [10.776717, 51.529164], [10.775276, 51.529173], [10.775291, 51.530072], [10.77385, 51.530081], [10.773881, 51.531879], [10.769558, 51.531907], [10.769588, 51.533705], [10.768147, 51.533714], [10.768177, 51.535512], [10.766736, 51.535521], [10.766751, 51.53642], [10.76531, 51.53643], [10.76534, 51.538227], [10.763899, 51.538236], [10.763929, 51.540034], [10.762488, 51.540043], [10.762578, 51.545436], [10.761137, 51.545445], [10.761152, 51.546344], [10.758269, 51.546363], [10.758358, 51.551755], [10.7598, 51.551746], [10.759815, 51.552645], [10.761257, 51.552635], [10.761287, 51.554433], [10.762729, 51.554423], [10.762744, 51.555322], [10.764185, 51.555313], [10.764216, 51.55711], [10.765657, 51.557101], [10.765733, 51.561594], [10.764291, 51.561604], [10.764306, 51.562503], [10.761422, 51.562521], [10.761452, 51.564319], [10.762894, 51.56431], [10.762909, 51.565208], [10.764351, 51.565199]]], "type": "Polygon"}}
+{
+  "id": 101822243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00029,
+    "geom:area_square_m":2231775.424114,
+    "geom:bbox":"10.758269,51.529096,10.788276,51.565208",
+    "geom:latitude":51.545978,
+    "geom:longitude":10.768269,
+    "gn:population":3301,
+    "iso:country":"DE",
+    "lbl:latitude":51.548811,
+    "lbl:longitude":10.765541,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":51.548811,
+    "mps:longitude":10.765541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:eng_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:epo_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:fra_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:gml_x_preferred":[
+        "Saswerp [a. 1235]"
+    ],
+    "name:hbs_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:ita_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:pol_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:por_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:ron_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u0445\u0441\u0432\u0435\u0440\u0444\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0437\u0430\u043a\u0441\u0432\u0435\u0440\u0444\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:vie_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:vol_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "name:war_x_preferred":[
+        "Niedersachswerfen"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Nordhausen",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Nordhausen",
+    "qs:la_lc":"*DE16006200041",
+    "qs:level":"locality",
+    "qs:loc":"Niedersachswerfen",
+    "qs:loc_alt":"Niedersachswerfen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377689547,
+        85633111,
+        102063809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2862925,
+        "gp:id":679843,
+        "qs_pg:id":93326,
+        "wd:id":"Q628366"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"daff7340f1b83fec7a3a53f6a98f1f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063809,
+            "localadmin_id":1377689547,
+            "locality_id":101822243,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101822243,
+    "wof:lastmodified":1690873431,
+    "wof:name":"Niedersachswerfen",
+    "wof:parent_id":1377689547,
+    "wof:placetype":"locality",
+    "wof:population":3301,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.758269,
+    51.529096,
+    10.788276,
+    51.565208
+],
+  "geometry": {"coordinates":[[[10.764351,51.565199],[10.764336,51.5643],[10.76722,51.564281],[10.767205,51.563383],[10.770089,51.563364],[10.770074,51.562465],[10.771516,51.562455],[10.771501,51.561557],[10.770059,51.561566],[10.770028,51.559769],[10.768586,51.559778],[10.768526,51.556183],[10.769968,51.556174],[10.769952,51.555275],[10.772836,51.555256],[10.772821,51.554357],[10.771379,51.554367],[10.771318,51.550772],[10.77276,51.550762],[10.772729,51.548965],[10.769846,51.548984],[10.769755,51.543591],[10.771196,51.543582],[10.771166,51.541784],[10.772607,51.541775],[10.772546,51.53818],[10.771105,51.538189],[10.77106,51.535493],[10.773942,51.535474],[10.773927,51.534575],[10.775368,51.534566],[10.775337,51.532768],[10.782542,51.53272],[10.782527,51.531821],[10.783968,51.531812],[10.783953,51.530913],[10.788276,51.530884],[10.78826,51.529985],[10.786819,51.529995],[10.786804,51.529096],[10.783922,51.529116],[10.783937,51.530014],[10.776732,51.530062],[10.776717,51.529164],[10.775276,51.529173],[10.775291,51.530072],[10.77385,51.530081],[10.773881,51.531879],[10.769558,51.531907],[10.769588,51.533705],[10.768147,51.533714],[10.768177,51.535512],[10.766736,51.535521],[10.766751,51.53642],[10.76531,51.53643],[10.76534,51.538227],[10.763899,51.538236],[10.763929,51.540034],[10.762488,51.540043],[10.762578,51.545436],[10.761137,51.545445],[10.761152,51.546344],[10.758269,51.546363],[10.758358,51.551755],[10.7598,51.551746],[10.759815,51.552645],[10.761257,51.552635],[10.761287,51.554433],[10.762729,51.554423],[10.762744,51.555322],[10.764185,51.555313],[10.764216,51.55711],[10.765657,51.557101],[10.765733,51.561594],[10.764291,51.561604],[10.764306,51.562503],[10.761422,51.562521],[10.761452,51.564319],[10.762894,51.56431],[10.762909,51.565208],[10.764351,51.565199]]],"type":"Polygon"}
+}

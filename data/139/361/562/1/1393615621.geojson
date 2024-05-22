@@ -1,1 +1,123 @@
-{"id": 1393615621, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.49793,50.05086,11.49793,50.05086", "geom:latitude": 50.05086, "geom:longitude": 11.49793, "gn:admin1_code": "2", "gn:admin2_code": "94.0", "gn:admin3_code": "9477.0", "gn:admin4_code": "9477142.0", "gn:asciiname": "Schwingen", "gn:country_code": "DE", "gn:dem": 365, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2834174, "gn:latitude": 50.05086, "gn:longitude": 11.49793, "gn:modification_date": "2013-02-19", "gn:name": "Schwingen", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "11.49293,50.04586,11.50293,50.05586", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:als_x_preferred": ["Schwingen"], "name:bre_x_preferred": ["Schwingen"], "name:ces_x_preferred": ["Schwingen"], "name:dan_x_preferred": ["Schwingen"], "name:deu_x_preferred": ["Schwingen"], "name:epo_x_preferred": ["\u015cvingo"], "name:fra_x_preferred": ["Lutte suisse"], "name:ita_x_preferred": ["Lotta svizzera"], "name:jpn_x_preferred": ["\u30b7\u30e5\u30f4\u30a3\u30f3\u30b2\u30f3"], "name:nld_x_preferred": ["Schwingen"], "name:rus_x_preferred": ["\u0428\u0432\u0438\u043d\u0433\u0435\u043d"], "name:spa_x_preferred": ["Schwingen"], "name:swe_x_preferred": ["Schwingen"], "name:tur_x_preferred": ["Schwingen"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377688461, 404227583, 101826033, 102063599, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2834174}, "wof:country": "DE", "wof:geomhash": "4cb24c127589e593f891adff0bd8c64a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063599, "localadmin_id": 1377688461, "locality_id": 101826033, "macrocounty_id": 404227583, "neighbourhood_id": 1393615621, "region_id": 85682571}], "wof:id": 1393615621, "wof:lastmodified": 1566714725, "wof:name": "Schwingen", "wof:parent_id": 101826033, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1242876733], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.49793, 50.05086, 11.49793, 50.05086], "geometry": {"coordinates": [11.49793, 50.05086], "type": "Point"}}
+{
+  "id": 1393615621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.49793,50.05086,11.49793,50.05086",
+    "geom:latitude":50.05086,
+    "geom:longitude":11.49793,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"94.0",
+    "gn:admin3_code":"9477.0",
+    "gn:admin4_code":"9477142.0",
+    "gn:asciiname":"Schwingen",
+    "gn:country_code":"DE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2834174,
+    "gn:latitude":50.05086,
+    "gn:longitude":11.49793,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Schwingen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"11.49293,50.04586,11.50293,50.05586",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:als_x_preferred":[
+        "Schwingen"
+    ],
+    "name:bre_x_preferred":[
+        "Schwingen"
+    ],
+    "name:ces_x_preferred":[
+        "Schwingen"
+    ],
+    "name:dan_x_preferred":[
+        "Schwingen"
+    ],
+    "name:deu_x_preferred":[
+        "Schwingen"
+    ],
+    "name:epo_x_preferred":[
+        "\u015cvingo"
+    ],
+    "name:fra_x_preferred":[
+        "Lutte suisse"
+    ],
+    "name:ita_x_preferred":[
+        "Lotta svizzera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30f4\u30a3\u30f3\u30b2\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Schwingen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0432\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Schwingen"
+    ],
+    "name:swe_x_preferred":[
+        "Schwingen"
+    ],
+    "name:tur_x_preferred":[
+        "Schwingen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377688461,
+        404227583,
+        101826033,
+        102063599,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2834174
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"4cb24c127589e593f891adff0bd8c64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063599,
+            "localadmin_id":1377688461,
+            "locality_id":101826033,
+            "macrocounty_id":404227583,
+            "neighbourhood_id":1393615621,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393615621,
+    "wof:lastmodified":1566714725,
+    "wof:name":"Schwingen",
+    "wof:parent_id":101826033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242876733
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.49793,
+    50.05086,
+    11.49793,
+    50.05086
+],
+  "geometry": {"coordinates":[11.49793,50.05086],"type":"Point"}
+}

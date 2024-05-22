@@ -1,1 +1,158 @@
-{"id": 1393663741, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.10373,47.96072,11.10373,47.96072", "geom:latitude": 47.96072, "geom:longitude": 11.10373, "gn:admin1_code": "2", "gn:admin2_code": "91.0", "gn:admin3_code": "9181.0", "gn:admin4_code": "9181114.0", "gn:asciiname": "Sankt Alban", "gn:country_code": "DE", "gn:dem": 544, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2841676, "gn:latitude": 47.96072, "gn:longitude": 11.10373, "gn:modification_date": "2013-02-19", "gn:name": "Sankt Alban", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "11.09873,47.95572,11.10873,47.96572", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Sankt Alban"], "name:deu_x_preferred": ["Sankt Alban"], "name:epo_x_preferred": ["Sankt Alban"], "name:eus_x_preferred": ["Sankt Alban"], "name:fas_x_preferred": ["\u0632\u0627\u0646\u06a9\u062a \u0622\u0644\u0628\u0627\u0646"], "name:fra_x_preferred": ["Sankt Alban"], "name:hun_x_preferred": ["Sankt Alban"], "name:ita_x_preferred": ["Sankt Alban"], "name:msa_x_preferred": ["Sankt Alban"], "name:nld_x_preferred": ["Sankt Alban"], "name:pol_x_preferred": ["Sankt Alban"], "name:por_x_preferred": ["Sankt Alban"], "name:ron_x_preferred": ["Sankt Alban"], "name:rus_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0410\u043b\u044c\u0431\u0430\u043d"], "name:spa_x_preferred": ["Sankt Alban"], "name:srp_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u0410\u043b\u0431\u0430\u043d"], "name:ukr_x_preferred": ["\u0417\u0430\u043d\u043a\u0442-\u0410\u043b\u044c\u0431\u0430\u043d"], "name:uzb_x_preferred": ["Sankt Alban"], "name:vie_x_preferred": ["Sankt Alban"], "name:vol_x_preferred": ["Sankt Alban"], "name:war_x_preferred": ["Sankt Alban"], "name:zho_x_preferred": ["\u5723\u963f\u5c14\u73ed"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377692257, 404227567, 101787817, 102063257, 85682571, 1377752539], "wof:breaches": [], "wof:concordances": {"gn:id": 2841676}, "wof:country": "DE", "wof:geomhash": "b0ac21e8d9621c3047775a830c371781", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063257, "localadmin_id": 1377692257, "locality_id": 101787817, "macrocounty_id": 404227567, "neighbourhood_id": 1393663741, "region_id": 85682571}, {"continent_id": 102191581, "country_id": 85633111, "county_id": 102063257, "localadmin_id": 1377692257, "locality_id": 1377752539, "macrocounty_id": 404227567, "neighbourhood_id": 1393663741, "region_id": 85682571}], "wof:id": 1393663741, "wof:lastmodified": 1566715374, "wof:name": "Sankt Alban", "wof:parent_id": -1, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1327443379], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.10373, 47.96072, 11.10373, 47.96072], "geometry": {"coordinates": [11.10373, 47.96072], "type": "Point"}}
+{
+  "id": 1393663741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10373,47.96072,11.10373,47.96072",
+    "geom:latitude":47.96072,
+    "geom:longitude":11.10373,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9181.0",
+    "gn:admin4_code":"9181114.0",
+    "gn:asciiname":"Sankt Alban",
+    "gn:country_code":"DE",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2841676,
+    "gn:latitude":47.96072,
+    "gn:longitude":11.10373,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Sankt Alban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"11.09873,47.95572,11.10873,47.96572",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:deu_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:epo_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:eus_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0646\u06a9\u062a \u0622\u0644\u0628\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:hun_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:ita_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:msa_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:nld_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:pol_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:por_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:ron_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0410\u043b\u044c\u0431\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0410\u043b\u0431\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0442-\u0410\u043b\u044c\u0431\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:vie_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:vol_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:war_x_preferred":[
+        "Sankt Alban"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u963f\u5c14\u73ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377692257,
+        404227567,
+        101787817,
+        102063257,
+        85682571,
+        1377752539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2841676
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"b0ac21e8d9621c3047775a830c371781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063257,
+            "localadmin_id":1377692257,
+            "locality_id":101787817,
+            "macrocounty_id":404227567,
+            "neighbourhood_id":1393663741,
+            "region_id":85682571
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063257,
+            "localadmin_id":1377692257,
+            "locality_id":1377752539,
+            "macrocounty_id":404227567,
+            "neighbourhood_id":1393663741,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393663741,
+    "wof:lastmodified":1566715374,
+    "wof:name":"Sankt Alban",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327443379
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10373,
+    47.96072,
+    11.10373,
+    47.96072
+],
+  "geometry": {"coordinates":[11.10373,47.96072],"type":"Point"}
+}

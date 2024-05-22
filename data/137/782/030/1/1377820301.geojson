@@ -1,1 +1,79 @@
-{"id": 1377820301, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.21396,53.72149,10.21396,53.72149", "geom:latitude": 53.72149, "geom:longitude": 10.21396, "gn:admin1_code": "10", "gn:admin2_code": "0.0", "gn:admin3_code": "1062.0", "gn:admin4_code": "1062036.0", "gn:asciiname": "Klein Hansdorf", "gn:country_code": "DE", "gn:dem": 31, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2888800, "gn:latitude": 53.72149, "gn:longitude": 10.21396, "gn:modification_date": "2015-09-04", "gn:name": "Klein Hansdorf", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.20896,53.71649,10.21896,53.72649", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "src:geom": "geonames", "wof:belongsto": [102191581, 1377684803, 85633111, 101874403, 102064085, 85682517], "wof:breaches": [], "wof:concordances": {"gn:id": 2888800}, "wof:country": "DE", "wof:geomhash": "dc13c4c57b065f64069ad72afdd0a57d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064085, "localadmin_id": 1377684803, "locality_id": 101874403, "neighbourhood_id": 1377820301, "region_id": 85682517}], "wof:id": 1377820301, "wof:lastmodified": 1566717957, "wof:name": "Klein Hansdorf", "wof:parent_id": 101874403, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1209493869], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.21396, 53.72149, 10.21396, 53.72149], "geometry": {"coordinates": [10.21396, 53.72149], "type": "Point"}}
+{
+  "id": 1377820301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21396,53.72149,10.21396,53.72149",
+    "geom:latitude":53.72149,
+    "geom:longitude":10.21396,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"1062.0",
+    "gn:admin4_code":"1062036.0",
+    "gn:asciiname":"Klein Hansdorf",
+    "gn:country_code":"DE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2888800,
+    "gn:latitude":53.72149,
+    "gn:longitude":10.21396,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"Klein Hansdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.20896,53.71649,10.21896,53.72649",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377684803,
+        85633111,
+        101874403,
+        102064085,
+        85682517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2888800
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"dc13c4c57b065f64069ad72afdd0a57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064085,
+            "localadmin_id":1377684803,
+            "locality_id":101874403,
+            "neighbourhood_id":1377820301,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":1377820301,
+    "wof:lastmodified":1566717957,
+    "wof:name":"Klein Hansdorf",
+    "wof:parent_id":101874403,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209493869
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21396,
+    53.72149,
+    10.21396,
+    53.72149
+],
+  "geometry": {"coordinates":[10.21396,53.72149],"type":"Point"}
+}

@@ -1,1 +1,394 @@
-{"id": 101821961, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_16064004", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Tennstedt, Stadt", "eurostat:nuts_2021_id": "16064004", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEG", "eurostat:nuts_2021_level_2": "DEG0", "eurostat:nuts_2021_level_3": "DEG09", "eurostat:nuts_2021_level_lau": "16064004", "eurostat:population": 2462, "eurostat:population_year": 2020, "geom:area": 0.003531, "geom:area_square_m": 27384939.381309, "geom:bbox": "10.777042,51.128774,10.884829,51.182612", "geom:latitude": 51.155622, "geom:longitude": 10.831155, "gn:country": "DE", "gn:elevation": 172, "gn:fcode": "ADM4", "gn:population": 2560, "iso:country": "DE", "lbl:latitude": 51.153398, "lbl:longitude": 10.84571, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 51.153398, "mps:longitude": 10.84571, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Tennstedt"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u062a\u0646\u0634\u062a\u064a\u062a"], "name:arg_x_preferred": ["Bad Tennstedt"], "name:ast_x_preferred": ["Bad Tennstedt"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u062a\u0646\u200c\u0627\u0634\u062a\u062a"], "name:bak_x_preferred": ["\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:bar_x_preferred": ["Bad Tennstedt"], "name:bre_x_preferred": ["Bad Tennstedt"], "name:cat_x_preferred": ["Bad Tennstedt"], "name:ceb_x_preferred": ["Bad Tennstedt"], "name:ces_x_preferred": ["Bad Tennstedt"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:cos_x_preferred": ["Bad Tennstedt"], "name:cym_x_preferred": ["Bad Tennstedt"], "name:dan_x_preferred": ["Bad Tennstedt"], "name:deu_x_preferred": ["Bad Tennstedt"], "name:eng_x_preferred": ["Bad Tennstedt"], "name:epo_x_preferred": ["Bad Tennstedt"], "name:est_x_preferred": ["Bad Tennstedt"], "name:eus_x_preferred": ["Bad Tennstedt"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u062a\u0646\u200c\u0627\u0634\u062a\u062a"], "name:fin_x_preferred": ["Bad Tennstedt"], "name:fra_x_preferred": ["Bad Tennstedt"], "name:frp_x_preferred": ["Bad Tennstedt"], "name:fur_x_preferred": ["Bad Tennstedt"], "name:gla_x_preferred": ["Bad Tennstedt"], "name:gle_x_preferred": ["Bad Tennstedt"], "name:glg_x_preferred": ["Bad Tennstedt"], "name:gsw_x_preferred": ["Bad Tennstedt"], "name:hbs_x_preferred": ["Bad Tennstedt"], "name:hrv_x_preferred": ["Bad Tennstedt"], "name:hun_x_preferred": ["Bad Tennstedt"], "name:ido_x_preferred": ["Bad Tennstedt"], "name:ile_x_preferred": ["Bad Tennstedt"], "name:ina_x_preferred": ["Bad Tennstedt"], "name:ind_x_preferred": ["Bad Tennstedt"], "name:isl_x_preferred": ["Bad Tennstedt"], "name:ita_x_preferred": ["Bad Tennstedt"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:kon_x_preferred": ["Bad Tennstedt"], "name:kur_x_preferred": ["Bad Tennstedt"], "name:lij_x_preferred": ["Bad Tennstedt"], "name:lim_x_preferred": ["Bad Tennstedt"], "name:lld_x_preferred": ["Bad Tennstedt"], "name:ltz_x_preferred": ["Bad Tennstedt"], "name:min_x_preferred": ["Bad Tennstedt"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0422\u0435\u043d\u0448\u0442\u0435\u0442"], "name:mlg_x_preferred": ["Bad Tennstedt"], "name:msa_x_preferred": ["Bad Tennstedt"], "name:nap_x_preferred": ["Bad Tennstedt"], "name:nds_x_preferred": ["Bad Tennstedt"], "name:nld_x_preferred": ["Bad Tennstedt"], "name:nno_x_preferred": ["Bad Tennstedt"], "name:nob_x_preferred": ["Bad Tennstedt"], "name:nrm_x_preferred": ["Bad Tennstedt"], "name:oci_x_preferred": ["Bad Tennstedt"], "name:osx_x_preferred": ["Tennisteti [a. 877]"], "name:pcd_x_preferred": ["Bad Tennstedt"], "name:pms_x_preferred": ["Bad Tennstedt"], "name:pol_x_preferred": ["Bad Tennstedt"], "name:por_x_preferred": ["Bad Tennstedt"], "name:roh_x_preferred": ["Bad Tennstedt"], "name:ron_x_preferred": ["Bad Tennstedt"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:scn_x_preferred": ["Bad Tennstedt"], "name:sco_x_preferred": ["Bad Tennstedt"], "name:slk_x_preferred": ["Bad Tennstedt"], "name:slv_x_preferred": ["Bad Tennstedt"], "name:spa_x_preferred": ["Bad Tennstedt"], "name:srd_x_preferred": ["Bad Tennstedt"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0422\u0435\u043d\u0448\u0442\u0435\u0442"], "name:swa_x_preferred": ["Bad Tennstedt"], "name:swe_x_preferred": ["Bad Tennstedt"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:tum_x_preferred": ["Bad Tennstedt"], "name:tur_x_preferred": ["Bad Tennstedt"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0422\u0435\u043d\u043d\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["Bad Tennstedt"], "name:vec_x_preferred": ["Bad Tennstedt"], "name:vie_x_preferred": ["Bad Tennstedt"], "name:vls_x_preferred": ["Bad Tennstedt"], "name:vol_x_preferred": ["Bad Tennstedt"], "name:war_x_preferred": ["Bad Tennstedt"], "name:wln_x_preferred": ["Bad Tennstedt"], "name:wol_x_preferred": ["Bad Tennstedt"], "name:zho_x_preferred": ["\u5df4\u7279\u6ed5\u65bd\u6cf0\u7279"], "name:zho_x_variant": ["\u5df4\u5fb7\u6ed5\u65af\u7279"], "name:zul_x_preferred": ["Bad Tennstedt"], "nav:latitude": 51.153398, "nav:longitude": 10.84571, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Unstrut-Hainich-Kreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Ballhausen", "qs:la_lc": "*DE16006401005", "qs:level": "locality", "qs:loc": "Bad Tennstedt", "qs:loc_alt": "Bad Tennstedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6550972, "qs_pg:gn_pop": 2560, "qs_pg:name": "Bad Tennstedt, Stadt", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 632489, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 69, "wof:belongsto": [85682541, 102191581, 1377689797, 85633111, 102063749], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_16064004", "eurostat:nuts_2021_id": "16064004", "gn:id": 2953325, "gp:id": 636521, "qs_pg:id": 931177, "wd:id": "Q534508", "wk:page": "Bad Tennstedt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "966f4b076bb186b621a954e5e7bf2275", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063749, "localadmin_id": 1377689797, "locality_id": 101821961, "region_id": 85682541}], "wof:id": 101821961, "wof:lastmodified": 1690872343, "wof:name": "Bad Tennstedt", "wof:parent_id": 1377689797, "wof:placetype": "locality", "wof:population": 2462, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125276887], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.777042, 51.128774, 10.884829, 51.182612], "geometry": {"coordinates": [[[[10.869021, 51.182612], [10.869154, 51.168792], [10.864853, 51.167869], [10.863926, 51.15362], [10.867429, 51.153394], [10.867292, 51.150569], [10.866469, 51.147782], [10.864457, 51.148418], [10.864879, 51.147598], [10.867654, 51.14211], [10.869778, 51.141186], [10.871916, 51.140261], [10.875364, 51.14043], [10.878016, 51.139396], [10.879427, 51.138843], [10.884243, 51.138368], [10.884829, 51.138303], [10.882548, 51.1358], [10.876596, 51.135433], [10.875699, 51.137703], [10.860164, 51.135386], [10.853052, 51.132987], [10.849535, 51.131207], [10.847069, 51.13027], [10.842787, 51.129356], [10.841197, 51.129018], [10.836393, 51.12914], [10.835368, 51.129746], [10.828945, 51.129314], [10.825996, 51.128774], [10.824839, 51.131026], [10.814717, 51.129219], [10.813629, 51.129033], [10.808592, 51.139159], [10.808408, 51.139537], [10.80563, 51.138978], [10.805286, 51.138907], [10.804101, 51.141267], [10.793047, 51.139316], [10.792267, 51.140497], [10.780431, 51.13905], [10.778183, 51.13874], [10.777042, 51.14164], [10.791485, 51.143477], [10.788568, 51.155875], [10.791334, 51.156273], [10.79149, 51.156915], [10.789978, 51.157324], [10.790987, 51.16132], [10.792252, 51.169702], [10.79431, 51.169319], [10.808686, 51.178927], [10.809218, 51.179285], [10.812049, 51.178837], [10.814878, 51.18017], [10.814046, 51.182062], [10.815521, 51.18213], [10.816198, 51.180598], [10.828903, 51.179672], [10.829991, 51.179714], [10.835865, 51.180435], [10.84265, 51.180371], [10.848858, 51.17975], [10.849655, 51.179207], [10.851228, 51.178933], [10.851567, 51.180218], [10.858227, 51.18072], [10.869021, 51.182612]]]], "type": "MultiPolygon"}}
+{
+  "id": 101821961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_16064004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Tennstedt, Stadt",
+    "eurostat:nuts_2021_id":"16064004",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEG",
+    "eurostat:nuts_2021_level_2":"DEG0",
+    "eurostat:nuts_2021_level_3":"DEG09",
+    "eurostat:nuts_2021_level_lau":"16064004",
+    "eurostat:population":2462,
+    "eurostat:population_year":2020,
+    "geom:area":0.003531,
+    "geom:area_square_m":27384939.381309,
+    "geom:bbox":"10.777042,51.128774,10.884829,51.182612",
+    "geom:latitude":51.155622,
+    "geom:longitude":10.831155,
+    "gn:country":"DE",
+    "gn:elevation":172,
+    "gn:fcode":"ADM4",
+    "gn:population":2560,
+    "iso:country":"DE",
+    "lbl:latitude":51.153398,
+    "lbl:longitude":10.84571,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":51.153398,
+    "mps:longitude":10.84571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u062a\u0646\u0634\u062a\u064a\u062a"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u062a\u0646\u200c\u0627\u0634\u062a\u062a"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:est_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u062a\u0646\u200c\u0627\u0634\u062a\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:min_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0422\u0435\u043d\u0448\u0442\u0435\u0442"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:osx_x_preferred":[
+        "Tennisteti [a. 877]"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:por_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0422\u0435\u043d\u0448\u0442\u0435\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0422\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0422\u0435\u043d\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:war_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u6ed5\u65bd\u6cf0\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u6ed5\u65af\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Tennstedt"
+    ],
+    "nav:latitude":51.153398,
+    "nav:longitude":10.84571,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Unstrut-Hainich-Kreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Ballhausen",
+    "qs:la_lc":"*DE16006401005",
+    "qs:level":"locality",
+    "qs:loc":"Bad Tennstedt",
+    "qs:loc_alt":"Bad Tennstedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6550972,
+    "qs_pg:gn_pop":2560,
+    "qs_pg:name":"Bad Tennstedt, Stadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":632489,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377689797,
+        85633111,
+        102063749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_16064004",
+        "eurostat:nuts_2021_id":"16064004",
+        "gn:id":2953325,
+        "gp:id":636521,
+        "qs_pg:id":931177,
+        "wd:id":"Q534508",
+        "wk:page":"Bad Tennstedt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"966f4b076bb186b621a954e5e7bf2275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063749,
+            "localadmin_id":1377689797,
+            "locality_id":101821961,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101821961,
+    "wof:lastmodified":1690872343,
+    "wof:name":"Bad Tennstedt",
+    "wof:parent_id":1377689797,
+    "wof:placetype":"locality",
+    "wof:population":2462,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125276887
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.777042,
+    51.128774,
+    10.884829,
+    51.182612
+],
+  "geometry": {"coordinates":[[[[10.869021,51.182612],[10.869154,51.168792],[10.864853,51.167869],[10.863926,51.15362],[10.867429,51.153394],[10.867292,51.150569],[10.866469,51.147782],[10.864457,51.148418],[10.864879,51.147598],[10.867654,51.14211],[10.869778,51.141186],[10.871916,51.140261],[10.875364,51.14043],[10.878016,51.139396],[10.879427,51.138843],[10.884243,51.138368],[10.884829,51.138303],[10.882548,51.1358],[10.876596,51.135433],[10.875699,51.137703],[10.860164,51.135386],[10.853052,51.132987],[10.849535,51.131207],[10.847069,51.13027],[10.842787,51.129356],[10.841197,51.129018],[10.836393,51.12914],[10.835368,51.129746],[10.828945,51.129314],[10.825996,51.128774],[10.824839,51.131026],[10.814717,51.129219],[10.813629,51.129033],[10.808592,51.139159],[10.808408,51.139537],[10.80563,51.138978],[10.805286,51.138907],[10.804101,51.141267],[10.793047,51.139316],[10.792267,51.140497],[10.780431,51.13905],[10.778183,51.13874],[10.777042,51.14164],[10.791485,51.143477],[10.788568,51.155875],[10.791334,51.156273],[10.79149,51.156915],[10.789978,51.157324],[10.790987,51.16132],[10.792252,51.169702],[10.79431,51.169319],[10.808686,51.178927],[10.809218,51.179285],[10.812049,51.178837],[10.814878,51.18017],[10.814046,51.182062],[10.815521,51.18213],[10.816198,51.180598],[10.828903,51.179672],[10.829991,51.179714],[10.835865,51.180435],[10.84265,51.180371],[10.848858,51.17975],[10.849655,51.179207],[10.851228,51.178933],[10.851567,51.180218],[10.858227,51.18072],[10.869021,51.182612]]]],"type":"MultiPolygon"}
+}

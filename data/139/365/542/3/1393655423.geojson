@@ -1,1 +1,114 @@
-{"id": 1393655423, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.98722,48.34945,11.98722,48.34945", "geom:latitude": 48.34945, "geom:longitude": 11.98722, "gn:admin1_code": "2", "gn:admin2_code": "91.0", "gn:admin3_code": "9177.0", "gn:admin4_code": "9177120.0", "gn:asciiname": "Grafing", "gn:country_code": "DE", "gn:dem": 439, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2918245, "gn:latitude": 48.34945, "gn:longitude": 11.98722, "gn:modification_date": "2013-02-19", "gn:name": "Grafing", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "11.98222,48.34445,11.99222,48.35445", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ara_x_preferred": ["\u063a\u0631\u0627\u0641\u064a\u0646\u063a"], "name:ceb_x_preferred": ["Grafing b.M\u00fcnchen"], "name:kir_x_preferred": ["\u0413\u0440\u0430\u0444\u0438\u043d\u0433-\u041c\u044e\u043d\u0445\u0435\u043d"], "name:msa_x_preferred": ["Grafing"], "name:por_x_preferred": ["Grafing"], "name:rus_x_preferred": ["\u0413\u0440\u0430\u0444\u0438\u043d\u0433-\u0431\u0430\u0439-\u041c\u044e\u043d\u0445\u0435\u043d"], "name:spa_x_preferred": ["Grafing"], "name:swe_x_preferred": ["Grafing"], "name:ukr_x_preferred": ["\u0413\u0440\u0430\u0444\u0456\u043d\u0433"], "name:war_x_preferred": ["Grafing"], "name:zho_x_preferred": ["\u683c\u62c9\u82ac"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377691711, 404227567, 1276659995, 102063291, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2918245}, "wof:country": "DE", "wof:geomhash": "7035488631ab3ef9b3c00fa8998b4543", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063291, "localadmin_id": 1377691711, "locality_id": 1276659995, "macrocounty_id": 404227567, "neighbourhood_id": 1393655423, "region_id": 85682571}], "wof:id": 1393655423, "wof:lastmodified": 1566713464, "wof:name": "Grafing", "wof:parent_id": 1276659995, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1243184375], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.98722, 48.34945, 11.98722, 48.34945], "geometry": {"coordinates": [11.98722, 48.34945], "type": "Point"}}
+{
+  "id": 1393655423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98722,48.34945,11.98722,48.34945",
+    "geom:latitude":48.34945,
+    "geom:longitude":11.98722,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9177.0",
+    "gn:admin4_code":"9177120.0",
+    "gn:asciiname":"Grafing",
+    "gn:country_code":"DE",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2918245,
+    "gn:latitude":48.34945,
+    "gn:longitude":11.98722,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Grafing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"11.98222,48.34445,11.99222,48.35445",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0627\u0641\u064a\u0646\u063a"
+    ],
+    "name:ceb_x_preferred":[
+        "Grafing b.M\u00fcnchen"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u0440\u0430\u0444\u0438\u043d\u0433-\u041c\u044e\u043d\u0445\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Grafing"
+    ],
+    "name:por_x_preferred":[
+        "Grafing"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0444\u0438\u043d\u0433-\u0431\u0430\u0439-\u041c\u044e\u043d\u0445\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Grafing"
+    ],
+    "name:swe_x_preferred":[
+        "Grafing"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0444\u0456\u043d\u0433"
+    ],
+    "name:war_x_preferred":[
+        "Grafing"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u82ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377691711,
+        404227567,
+        1276659995,
+        102063291,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2918245
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"7035488631ab3ef9b3c00fa8998b4543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063291,
+            "localadmin_id":1377691711,
+            "locality_id":1276659995,
+            "macrocounty_id":404227567,
+            "neighbourhood_id":1393655423,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393655423,
+    "wof:lastmodified":1566713464,
+    "wof:name":"Grafing",
+    "wof:parent_id":1276659995,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243184375
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98722,
+    48.34945,
+    11.98722,
+    48.34945
+],
+  "geometry": {"coordinates":[11.98722,48.34945],"type":"Point"}
+}

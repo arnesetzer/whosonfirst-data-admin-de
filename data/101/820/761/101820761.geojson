@@ -1,1 +1,155 @@
-{"id": 101820761, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000117, "geom:area_square_m": 896694.040872, "geom:bbox": "12.082088,51.546283,12.105354,51.55537", "geom:latitude": 51.551167, "geom:longitude": 12.092955, "gn:population": 1492, "iso:country": "DE", "lbl:latitude": 51.550341, "lbl:longitude": 12.092779, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 51.550341, "mps:longitude": 12.092779, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041d\u0438\u043c\u0431\u0435\u0440\u0433"], "name:ceb_x_preferred": ["Niemberg"], "name:che_x_preferred": ["\u041d\u0438\u043c\u0431\u0435\u0440\u0433"], "name:deu_x_preferred": ["Niemberg"], "name:eng_x_preferred": ["Niemberg"], "name:epo_x_preferred": ["Niemberg"], "name:fas_x_preferred": ["\u0646\u06cc\u0645\u0628\u0631\u06af"], "name:fra_x_preferred": ["Niemberg"], "name:ita_x_preferred": ["Niemberg"], "name:kaz_x_preferred": ["\u041d\u0438\u043c\u0431\u0435\u0440\u0433"], "name:kir_x_preferred": ["\u041d\u0438\u043c\u0431\u0435\u0440\u0433"], "name:mkd_x_preferred": ["\u041d\u0438\u043c\u0431\u0435\u0440\u0433"], "name:nds_x_preferred": ["Niemberg"], "name:nld_x_preferred": ["Niemberg"], "name:pol_x_preferred": ["Niemberg"], "name:ron_x_preferred": ["Niemberg"], "name:rus_x_preferred": ["\u041d\u0438\u043c\u0431\u0435\u0440\u0433"], "name:tat_x_preferred": ["\u041d\u0438\u043c\u0431\u0435\u0440\u0433"], "name:uzb_x_preferred": ["Niemberg"], "name:vie_x_preferred": ["Niemberg"], "name:vol_x_preferred": ["Niemberg"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Saalekreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Niemberg", "qs:la_lc": "*DE15008808260", "qs:level": "locality", "qs:loc": "Niemberg", "qs:loc_alt": "Niemberg", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 27, "wof:belongsto": [85682519, 102191581, 1377688853, 85633111, 102063817], "wof:breaches": [], "wof:concordances": {"gn:id": 2862643, "gp:id": 680039, "qs_pg:id": 1038926, "wd:id": "Q689545", "wk:page": "Niemberg"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "09177d54921568ea80aee6710d32b01d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063817, "localadmin_id": 1377688853, "locality_id": 101820761, "region_id": 85682519}], "wof:id": 101820761, "wof:lastmodified": 1690872062, "wof:name": "Niemberg", "wof:parent_id": 1377688853, "wof:placetype": "locality", "wof:population": 1492, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.082088, 51.546283, 12.105354, 51.55537], "geometry": {"coordinates": [[[12.092423, 51.555293], [12.092382, 51.554395], [12.093824, 51.554369], [12.093782, 51.553471], [12.100989, 51.553341], [12.10103, 51.55424], [12.105354, 51.554162], [12.105188, 51.550569], [12.103747, 51.550595], [12.103788, 51.551493], [12.099464, 51.551571], [12.099382, 51.549774], [12.097941, 51.5498], [12.097858, 51.548003], [12.096417, 51.548029], [12.096375, 51.54713], [12.093493, 51.547182], [12.093452, 51.546283], [12.087688, 51.546386], [12.087852, 51.54998], [12.082088, 51.550083], [12.082129, 51.550981], [12.08357, 51.550955], [12.083693, 51.553651], [12.085135, 51.553625], [12.085176, 51.554523], [12.088058, 51.554472], [12.088099, 51.55537], [12.092423, 51.555293]]], "type": "Polygon"}}
+{
+  "id": 101820761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":896694.040872,
+    "geom:bbox":"12.082088,51.546283,12.105354,51.55537",
+    "geom:latitude":51.551167,
+    "geom:longitude":12.092955,
+    "gn:population":1492,
+    "iso:country":"DE",
+    "lbl:latitude":51.550341,
+    "lbl:longitude":12.092779,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":51.550341,
+    "mps:longitude":12.092779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041d\u0438\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Niemberg"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Niemberg"
+    ],
+    "name:eng_x_preferred":[
+        "Niemberg"
+    ],
+    "name:epo_x_preferred":[
+        "Niemberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0645\u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Niemberg"
+    ],
+    "name:ita_x_preferred":[
+        "Niemberg"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0438\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:nds_x_preferred":[
+        "Niemberg"
+    ],
+    "name:nld_x_preferred":[
+        "Niemberg"
+    ],
+    "name:pol_x_preferred":[
+        "Niemberg"
+    ],
+    "name:ron_x_preferred":[
+        "Niemberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Niemberg"
+    ],
+    "name:vie_x_preferred":[
+        "Niemberg"
+    ],
+    "name:vol_x_preferred":[
+        "Niemberg"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Saalekreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Niemberg",
+    "qs:la_lc":"*DE15008808260",
+    "qs:level":"locality",
+    "qs:loc":"Niemberg",
+    "qs:loc_alt":"Niemberg",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688853,
+        85633111,
+        102063817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2862643,
+        "gp:id":680039,
+        "qs_pg:id":1038926,
+        "wd:id":"Q689545",
+        "wk:page":"Niemberg"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"09177d54921568ea80aee6710d32b01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063817,
+            "localadmin_id":1377688853,
+            "locality_id":101820761,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101820761,
+    "wof:lastmodified":1690872062,
+    "wof:name":"Niemberg",
+    "wof:parent_id":1377688853,
+    "wof:placetype":"locality",
+    "wof:population":1492,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.082088,
+    51.546283,
+    12.105354,
+    51.55537
+],
+  "geometry": {"coordinates":[[[12.092423,51.555293],[12.092382,51.554395],[12.093824,51.554369],[12.093782,51.553471],[12.100989,51.553341],[12.10103,51.55424],[12.105354,51.554162],[12.105188,51.550569],[12.103747,51.550595],[12.103788,51.551493],[12.099464,51.551571],[12.099382,51.549774],[12.097941,51.5498],[12.097858,51.548003],[12.096417,51.548029],[12.096375,51.54713],[12.093493,51.547182],[12.093452,51.546283],[12.087688,51.546386],[12.087852,51.54998],[12.082088,51.550083],[12.082129,51.550981],[12.08357,51.550955],[12.083693,51.553651],[12.085135,51.553625],[12.085176,51.554523],[12.088058,51.554472],[12.088099,51.55537],[12.092423,51.555293]]],"type":"Polygon"}
+}

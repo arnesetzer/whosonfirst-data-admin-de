@@ -1,1 +1,152 @@
-{"id": 101909857, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.6e-05, "geom:area_square_m": 268936.300309, "geom:bbox": "10.911503,52.712767,10.923472,52.720808", "geom:latitude": 52.717661, "geom:longitude": 10.916491, "gn:population": 342, "iso:country": "DE", "lbl:latitude": 52.718592, "lbl:longitude": 10.916491, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.718592, "mps:longitude": 10.916491, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0411\u043e\u0440\u043d\u0437\u0435\u043d"], "name:ceb_x_preferred": ["Bornsen"], "name:che_x_preferred": ["\u0411\u043e\u0440\u043d\u0437\u0435\u043d"], "name:deu_x_preferred": ["Bornsen"], "name:eng_x_preferred": ["Bornsen"], "name:epo_x_preferred": ["Bornsen"], "name:fas_x_preferred": ["\u0628\u0648\u0631\u0646\u0632\u0646"], "name:fra_x_preferred": ["Bornsen"], "name:gle_x_preferred": ["Bornsen"], "name:ita_x_preferred": ["Bornsen"], "name:kaz_x_preferred": ["\u0411\u043e\u0440\u043d\u0437\u0435\u043d"], "name:kir_x_preferred": ["\u0411\u043e\u0440\u043d\u0437\u0435\u043d"], "name:nld_x_preferred": ["Bornsen"], "name:ron_x_preferred": ["Bornsen"], "name:rus_x_preferred": ["\u0411\u043e\u0440\u043d\u0437\u0435\u043d"], "name:swe_x_preferred": ["Bornsen"], "name:tat_x_preferred": ["\u0411\u043e\u0440\u043d\u0437\u0435\u043d"], "name:uzb_x_preferred": ["Bornsen"], "name:vie_x_preferred": ["Bornsen"], "name:vol_x_preferred": ["Bornsen"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Altmarkkreis Salzwedel", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Bornsen", "qs:la_lc": "*DE15008102075", "qs:level": "locality", "qs:loc": "Bornsen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377688211, 85633111, 102063961], "wof:breaches": [], "wof:concordances": {"gn:id": 2946062, "gp:id": 640361, "qs_pg:id": 1235024, "wd:id": "Q698604", "wk:page": "Bornsen"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "18a96c03c28e3b59d9303edc1c905dda", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063961, "localadmin_id": 1377688211, "locality_id": 101909857, "region_id": 85682519}], "wof:id": 101909857, "wof:lastmodified": 1690871379, "wof:name": "Bornsen", "wof:parent_id": 1377688211, "wof:placetype": "locality", "wof:population": 342, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.911503, 52.712767, 10.923472, 52.720808], "geometry": {"coordinates": [[[10.922011, 52.720797], [10.921992, 52.719898], [10.923472, 52.719887], [10.923453, 52.718988], [10.921973, 52.719], [10.921954, 52.718101], [10.920475, 52.718113], [10.920456, 52.717214], [10.916017, 52.717248], [10.915998, 52.71635], [10.914518, 52.716361], [10.914443, 52.712767], [10.912964, 52.712778], [10.912983, 52.713676], [10.911503, 52.713688], [10.91154, 52.715485], [10.91302, 52.715474], [10.913076, 52.718169], [10.911596, 52.718181], [10.911615, 52.719079], [10.914575, 52.719057], [10.914593, 52.719955], [10.920512, 52.71991], [10.920531, 52.720808], [10.922011, 52.720797]]], "type": "Polygon"}}
+{
+  "id": 101909857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":268936.300309,
+    "geom:bbox":"10.911503,52.712767,10.923472,52.720808",
+    "geom:latitude":52.717661,
+    "geom:longitude":10.916491,
+    "gn:population":342,
+    "iso:country":"DE",
+    "lbl:latitude":52.718592,
+    "lbl:longitude":10.916491,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.718592,
+    "mps:longitude":10.916491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0411\u043e\u0440\u043d\u0437\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Bornsen"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0440\u043d\u0437\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Bornsen"
+    ],
+    "name:eng_x_preferred":[
+        "Bornsen"
+    ],
+    "name:epo_x_preferred":[
+        "Bornsen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0646\u0632\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bornsen"
+    ],
+    "name:gle_x_preferred":[
+        "Bornsen"
+    ],
+    "name:ita_x_preferred":[
+        "Bornsen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440\u043d\u0437\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0440\u043d\u0437\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Bornsen"
+    ],
+    "name:ron_x_preferred":[
+        "Bornsen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043d\u0437\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bornsen"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0440\u043d\u0437\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Bornsen"
+    ],
+    "name:vie_x_preferred":[
+        "Bornsen"
+    ],
+    "name:vol_x_preferred":[
+        "Bornsen"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Altmarkkreis Salzwedel",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Bornsen",
+    "qs:la_lc":"*DE15008102075",
+    "qs:level":"locality",
+    "qs:loc":"Bornsen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688211,
+        85633111,
+        102063961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2946062,
+        "gp:id":640361,
+        "qs_pg:id":1235024,
+        "wd:id":"Q698604",
+        "wk:page":"Bornsen"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"18a96c03c28e3b59d9303edc1c905dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063961,
+            "localadmin_id":1377688211,
+            "locality_id":101909857,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909857,
+    "wof:lastmodified":1690871379,
+    "wof:name":"Bornsen",
+    "wof:parent_id":1377688211,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.911503,
+    52.712767,
+    10.923472,
+    52.720808
+],
+  "geometry": {"coordinates":[[[10.922011,52.720797],[10.921992,52.719898],[10.923472,52.719887],[10.923453,52.718988],[10.921973,52.719],[10.921954,52.718101],[10.920475,52.718113],[10.920456,52.717214],[10.916017,52.717248],[10.915998,52.71635],[10.914518,52.716361],[10.914443,52.712767],[10.912964,52.712778],[10.912983,52.713676],[10.911503,52.713688],[10.91154,52.715485],[10.91302,52.715474],[10.913076,52.718169],[10.911596,52.718181],[10.911615,52.719079],[10.914575,52.719057],[10.914593,52.719955],[10.920512,52.71991],[10.920531,52.720808],[10.922011,52.720797]]],"type":"Polygon"}
+}

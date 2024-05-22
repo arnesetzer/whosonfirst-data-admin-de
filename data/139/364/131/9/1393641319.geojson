@@ -1,1 +1,112 @@
-{"id": 1393641319, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.66892,52.03291,10.66892,52.03291", "geom:latitude": 52.03291, "geom:longitude": 10.66892, "gn:admin1_code": "14", "gn:admin2_code": "0.0", "gn:admin3_code": "15085.0", "gn:admin4_code": "15085230.0", "gn:asciiname": "Osterode", "gn:country_code": "DE", "gn:dem": 104, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2856407, "gn:latitude": 52.03291, "gn:longitude": 10.66892, "gn:modification_date": "2015-09-05", "gn:name": "Osterode", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.66392,52.02791,10.67392,52.03791", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:deu_x_preferred": ["Osterode"], "name:epo_x_preferred": ["Osterode"], "name:fra_x_preferred": ["Osterode"], "name:ita_x_preferred": ["Osterode"], "name:jpn_x_preferred": ["\u30aa\u30b9\u30c6\u30ed\u30fc\u30c7"], "name:lav_x_preferred": ["Osterode"], "name:nld_x_preferred": ["Osterode"], "name:pol_x_preferred": ["Osterode"], "name:ron_x_preferred": ["Osterode"], "name:rus_x_preferred": ["\u041e\u0441\u0442\u0435\u0440\u043e\u0434\u0435"], "name:swe_x_preferred": ["Osterode"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377688603, 85633111, 101820927, 102063857, 85682519], "wof:breaches": [], "wof:concordances": {"gn:id": 2856407}, "wof:country": "DE", "wof:geomhash": "fbb40beeb06b70300646df2c34112ba0", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063857, "localadmin_id": 1377688603, "locality_id": 101820927, "neighbourhood_id": 1393641319, "region_id": 85682519}], "wof:id": 1393641319, "wof:lastmodified": 1566714425, "wof:name": "Osterode", "wof:parent_id": 101820927, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1310188207], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.66892, 52.03291, 10.66892, 52.03291], "geometry": {"coordinates": [10.66892, 52.03291], "type": "Point"}}
+{
+  "id": 1393641319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.66892,52.03291,10.66892,52.03291",
+    "geom:latitude":52.03291,
+    "geom:longitude":10.66892,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"15085.0",
+    "gn:admin4_code":"15085230.0",
+    "gn:asciiname":"Osterode",
+    "gn:country_code":"DE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2856407,
+    "gn:latitude":52.03291,
+    "gn:longitude":10.66892,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Osterode",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.66392,52.02791,10.67392,52.03791",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Osterode"
+    ],
+    "name:epo_x_preferred":[
+        "Osterode"
+    ],
+    "name:fra_x_preferred":[
+        "Osterode"
+    ],
+    "name:ita_x_preferred":[
+        "Osterode"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b9\u30c6\u30ed\u30fc\u30c7"
+    ],
+    "name:lav_x_preferred":[
+        "Osterode"
+    ],
+    "name:nld_x_preferred":[
+        "Osterode"
+    ],
+    "name:pol_x_preferred":[
+        "Osterode"
+    ],
+    "name:ron_x_preferred":[
+        "Osterode"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0435\u0440\u043e\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Osterode"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377688603,
+        85633111,
+        101820927,
+        102063857,
+        85682519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2856407
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"fbb40beeb06b70300646df2c34112ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063857,
+            "localadmin_id":1377688603,
+            "locality_id":101820927,
+            "neighbourhood_id":1393641319,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":1393641319,
+    "wof:lastmodified":1566714425,
+    "wof:name":"Osterode",
+    "wof:parent_id":101820927,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310188207
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.66892,
+    52.03291,
+    10.66892,
+    52.03291
+],
+  "geometry": {"coordinates":[10.66892,52.03291],"type":"Point"}
+}

@@ -1,1 +1,85 @@
-{"id": 1393636827, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.21726,50.2189,11.21726,50.2189", "geom:latitude": 50.2189, "geom:longitude": 11.21726, "gn:admin1_code": "2", "gn:admin2_code": "94.0", "gn:admin3_code": "9476.0", "gn:admin4_code": "9476154.0", "gn:asciiname": "Leutendorf bei Coburg", "gn:country_code": "DE", "gn:dem": 294, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2878303, "gn:latitude": 50.2189, "gn:longitude": 11.21726, "gn:modification_date": "2013-02-19", "gn:name": "Leutendorf bei Coburg", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "11.21226,50.2139,11.22226,50.2239", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:und_x_variant": ["Leutendorf", "Leutendorf bei Coburg"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377688403, 404227583, 101826085, 102063637, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2878303}, "wof:country": "DE", "wof:geomhash": "af185dc5e1316e6e40a3a19e8a140512", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063637, "localadmin_id": 1377688403, "locality_id": 101826085, "macrocounty_id": 404227583, "neighbourhood_id": 1393636827, "region_id": 85682571}], "wof:id": 1393636827, "wof:lastmodified": 1566714178, "wof:name": "Leutendorf bei Coburg", "wof:parent_id": 101826085, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1193018683], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.21726, 50.2189, 11.21726, 50.2189], "geometry": {"coordinates": [11.21726, 50.2189], "type": "Point"}}
+{
+  "id": 1393636827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21726,50.2189,11.21726,50.2189",
+    "geom:latitude":50.2189,
+    "geom:longitude":11.21726,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"94.0",
+    "gn:admin3_code":"9476.0",
+    "gn:admin4_code":"9476154.0",
+    "gn:asciiname":"Leutendorf bei Coburg",
+    "gn:country_code":"DE",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2878303,
+    "gn:latitude":50.2189,
+    "gn:longitude":11.21726,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Leutendorf bei Coburg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"11.21226,50.2139,11.22226,50.2239",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
+        "Leutendorf",
+        "Leutendorf bei Coburg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377688403,
+        404227583,
+        101826085,
+        102063637,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2878303
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"af185dc5e1316e6e40a3a19e8a140512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063637,
+            "localadmin_id":1377688403,
+            "locality_id":101826085,
+            "macrocounty_id":404227583,
+            "neighbourhood_id":1393636827,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393636827,
+    "wof:lastmodified":1566714178,
+    "wof:name":"Leutendorf bei Coburg",
+    "wof:parent_id":101826085,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193018683
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21726,
+    50.2189,
+    11.21726,
+    50.2189
+],
+  "geometry": {"coordinates":[11.21726,50.2189],"type":"Point"}
+}

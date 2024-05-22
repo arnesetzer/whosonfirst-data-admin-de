@@ -1,1 +1,108 @@
-{"id": 1393662943, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "12.68226,48.42852,12.68226,48.42852", "geom:latitude": 48.42852, "geom:longitude": 12.68226, "gn:admin1_code": "2", "gn:admin2_code": "92.0", "gn:admin3_code": "9277.0", "gn:admin4_code": "9277119.0", "gn:asciiname": "Volksdorf", "gn:country_code": "DE", "gn:dem": 467, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2816609, "gn:latitude": 48.42852, "gn:longitude": 12.68226, "gn:modification_date": "2013-02-19", "gn:name": "Volksdorf", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "12.67726,48.42352,12.68726,48.43352", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:cat_x_preferred": ["Volksdorf"], "name:ceb_x_preferred": ["Volksdorf"], "name:deu_x_preferred": ["Hamburg-Volksdorf"], "name:fas_x_preferred": ["\u0641\u0648\u0644\u06a9\u0633\u062f\u0648\u0631\u0641"], "name:ita_x_preferred": ["Volksdorf"], "name:lat_x_preferred": ["Hamburg-Volksdorf"], "name:mkd_x_preferred": ["\u0424\u043e\u043b\u043a\u0441\u0434\u043e\u0440\u0444"], "name:nld_x_preferred": ["Hamburg-Volksdorf"], "name:pol_x_preferred": ["Volksdorf"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377685239, 404227559, 101784253, 102063315, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2816609}, "wof:country": "DE", "wof:geomhash": "c56fe2af5d8393f5bfc16ca1b29b3b0f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063315, "localadmin_id": 1377685239, "locality_id": 101784253, "macrocounty_id": 404227559, "neighbourhood_id": 1393662943, "region_id": 85682571}], "wof:id": 1393662943, "wof:lastmodified": 1566715216, "wof:name": "Volksdorf", "wof:parent_id": 101784253, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1209016445], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.68226, 48.42852, 12.68226, 48.42852], "geometry": {"coordinates": [12.68226, 48.42852], "type": "Point"}}
+{
+  "id": 1393662943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.68226,48.42852,12.68226,48.42852",
+    "geom:latitude":48.42852,
+    "geom:longitude":12.68226,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"92.0",
+    "gn:admin3_code":"9277.0",
+    "gn:admin4_code":"9277119.0",
+    "gn:asciiname":"Volksdorf",
+    "gn:country_code":"DE",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2816609,
+    "gn:latitude":48.42852,
+    "gn:longitude":12.68226,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Volksdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"12.67726,48.42352,12.68726,48.43352",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Volksdorf"
+    ],
+    "name:ceb_x_preferred":[
+        "Volksdorf"
+    ],
+    "name:deu_x_preferred":[
+        "Hamburg-Volksdorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0644\u06a9\u0633\u062f\u0648\u0631\u0641"
+    ],
+    "name:ita_x_preferred":[
+        "Volksdorf"
+    ],
+    "name:lat_x_preferred":[
+        "Hamburg-Volksdorf"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u043e\u043b\u043a\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Hamburg-Volksdorf"
+    ],
+    "name:pol_x_preferred":[
+        "Volksdorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377685239,
+        404227559,
+        101784253,
+        102063315,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2816609
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"c56fe2af5d8393f5bfc16ca1b29b3b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063315,
+            "localadmin_id":1377685239,
+            "locality_id":101784253,
+            "macrocounty_id":404227559,
+            "neighbourhood_id":1393662943,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393662943,
+    "wof:lastmodified":1566715216,
+    "wof:name":"Volksdorf",
+    "wof:parent_id":101784253,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209016445
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.68226,
+    48.42852,
+    12.68226,
+    48.42852
+],
+  "geometry": {"coordinates":[12.68226,48.42852],"type":"Point"}
+}

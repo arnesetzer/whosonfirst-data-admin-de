@@ -1,1 +1,272 @@
-{"id": 101841265, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_16063099", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Liebenstein, Stadt", "eurostat:nuts_2021_id": "16063099", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEG", "eurostat:nuts_2021_level_2": "DEG0", "eurostat:nuts_2021_level_3": "DEG0P", "eurostat:nuts_2021_level_lau": "16063099", "eurostat:population": 7748, "eurostat:population_year": 2020, "geom:area": 0.006257, "geom:area_square_m": 48869038.991753, "geom:bbox": "10.296242,50.778133,10.412086,50.870281", "geom:latitude": 50.829184, "geom:longitude": 10.360148, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 3965, "iso:country": "DE", "lbl:latitude": 50.8159, "lbl:longitude": 10.347407, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 50.8159, "mps:longitude": 10.347407, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:ara_x_preferred": ["\u0628\u0627\u062f \u0644\u064a\u0628\u0646\u0634\u062a\u0627\u064a\u0646"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0644\u06cc\u0628\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646"], "name:bak_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"], "name:bel_x_preferred": ["\u0411\u0430\u0434-\u041b\u0456\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"], "name:ceb_x_preferred": ["Bad Liebenstein"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"], "name:dan_x_preferred": ["Bad Liebenstein"], "name:deu_x_preferred": ["Bad Liebenstein"], "name:ell_x_preferred": ["\u039c\u03c0\u03b1\u03c4 \u039b\u03b9\u03bc\u03c0\u03b5\u03bd\u03c3\u03c4\u03ac\u03b9\u03bd"], "name:eng_x_preferred": ["Bad Liebenstein"], "name:epo_x_preferred": ["Bad Liebenstein"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0644\u06cc\u0628\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646"], "name:fra_x_preferred": ["Bad Liebenstein"], "name:gle_x_preferred": ["Bad Liebenstein"], "name:hbs_x_preferred": ["Bad Liebenstein"], "name:heb_x_preferred": ["\u05d1\u05d0\u05d3 \u05dc\u05d9\u05d1\u05e0\u05e1\u05d8\u05d9\u05d9\u05df"], "name:heb_x_variant": ["\u05d1\u05d0\u05d3 \u05dc\u05d9\u05d1\u05e0\u05e9\u05d8\u05d9\u05d9\u05df"], "name:hun_x_preferred": ["Bad Liebenstein"], "name:ita_x_preferred": ["Bad Liebenstein"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"], "name:kur_x_preferred": ["Bad Liebenstein"], "name:lat_x_preferred": ["Bad Liebenstein"], "name:lld_x_preferred": ["Bad Liebenstein"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0458\u043d"], "name:msa_x_preferred": ["Bad Liebenstein"], "name:nld_x_preferred": ["Bad Liebenstein"], "name:pol_x_preferred": ["Bad Liebenstein"], "name:por_x_preferred": ["Bad Liebenstein"], "name:ron_x_preferred": ["Bad Liebenstein"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"], "name:spa_x_preferred": ["Bad Liebenstein"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0458\u043d"], "name:swe_x_preferred": ["Bad Liebenstein"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"], "name:tum_x_preferred": ["Bad Liebenstein"], "name:tur_x_preferred": ["Bad Liebenstein"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u041b\u0456\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"], "name:uzb_x_preferred": ["Bad Liebenstein"], "name:vol_x_preferred": ["Bad Liebenstein"], "name:war_x_preferred": ["Bad Liebenstein"], "name:zho_x_preferred": ["\u5df4\u7279\u5229\u672c\u65bd\u6cf0\u56e0"], "name:zho_x_variant": ["\u5df4\u5fb7\u5229\u672c\u65af\u6cf0\u56e0"], "nav:latitude": 50.8159, "nav:longitude": 10.347407, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Wartburgkreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Schweina", "qs:la_lc": "*DE16006350069", "qs:level": "locality", "qs:loc": "Bad Liebenstein", "qs:loc_alt": "Bad Liebenstein", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-multi-in-poly-resolved", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6550962, "qs_pg:gn_pop": 3965, "qs_pg:name": "Bad Liebenstein, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Th\u00fcringen", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 213, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 632479, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12624763, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 91, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Th\u00fcringen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682541, 102191581, 1377689653, 85633111, 102063723], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_16063099", "eurostat:nuts_2021_id": "16063099", "gn:id": 2953409, "gp:id": 636458, "qs_pg:id": 313851, "wd:id": "Q530225", "wk:page": "Arbigland"}, "wof:coterminous": [1377689653], "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "56ec1b9d0ac501d5a12ecb8193e3a245", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063723, "localadmin_id": 1377689653, "locality_id": 101841265, "region_id": 85682541}], "wof:id": 101841265, "wof:lastmodified": 1690873038, "wof:name": "Bad Liebenstein", "wof:parent_id": 1377689653, "wof:placetype": "locality", "wof:population": 7748, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125369191, 1125302921], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.296242, 50.778133, 10.412086, 50.870281], "geometry": {"coordinates": [[[[10.400862, 50.864276], [10.403426, 50.862155], [10.403301, 50.86067], [10.405355, 50.857505], [10.405414, 50.856164], [10.408294, 50.852027], [10.41141, 50.850239], [10.411285, 50.848908], [10.412086, 50.846056], [10.406407, 50.836127], [10.406354, 50.834256], [10.405334, 50.832662], [10.405708, 50.830612], [10.404809, 50.828983], [10.405085, 50.826498], [10.406656, 50.825447], [10.405751, 50.823233], [10.405584, 50.821335], [10.406721, 50.820186], [10.405417, 50.818585], [10.405286, 50.816471], [10.404927, 50.815413], [10.403257, 50.816126], [10.399018, 50.816471], [10.395907, 50.816882], [10.3927, 50.815556], [10.394306, 50.814937], [10.39318, 50.810635], [10.391703, 50.810669], [10.390894, 50.810408], [10.379231, 50.806653], [10.379929, 50.805754], [10.38284, 50.805568], [10.384488, 50.805471], [10.390072, 50.803668], [10.389733, 50.80302], [10.387674, 50.803171], [10.384138, 50.803446], [10.380621, 50.80167], [10.381065, 50.800204], [10.382162, 50.798855], [10.38276, 50.798181], [10.378233, 50.797079], [10.376531, 50.796591], [10.374886, 50.795978], [10.376652, 50.793694], [10.378811, 50.793336], [10.379325, 50.792356], [10.377436, 50.792534], [10.376544, 50.791562], [10.381616, 50.790163], [10.384705, 50.786486], [10.382804, 50.78616], [10.379042, 50.786274], [10.379404, 50.783548], [10.37746, 50.783627], [10.373047, 50.78328], [10.367683, 50.782869], [10.364918, 50.782137], [10.36482, 50.781615], [10.364636, 50.781246], [10.364367, 50.780994], [10.363971, 50.780651], [10.363489, 50.780336], [10.363164, 50.780156], [10.362951, 50.780029], [10.362725, 50.779822], [10.362555, 50.779615], [10.362329, 50.77921], [10.362245, 50.778787], [10.360812, 50.778803], [10.359208, 50.778837], [10.357011, 50.778133], [10.354963, 50.77948], [10.354242, 50.779963], [10.353161, 50.779714], [10.349296, 50.780741], [10.346912, 50.780774], [10.342772, 50.779644], [10.342172, 50.780606], [10.341502, 50.781703], [10.336927, 50.783172], [10.335704, 50.783863], [10.332656, 50.786855], [10.33061, 50.787275], [10.334668, 50.791878], [10.336, 50.792384], [10.337991, 50.79532], [10.337573, 50.801339], [10.336172, 50.804126], [10.334423, 50.804798], [10.331115, 50.804524], [10.327873, 50.805968], [10.328127, 50.8064], [10.328592, 50.807201], [10.328775, 50.807643], [10.328972, 50.808228], [10.329042, 50.808471], [10.329197, 50.808885], [10.329465, 50.809308], [10.329549, 50.809569], [10.329577, 50.809821], [10.329618, 50.810109], [10.329617, 50.810379], [10.329659, 50.81055], [10.32973, 50.810766], [10.329814, 50.810991], [10.329969, 50.811306], [10.330195, 50.811694], [10.330491, 50.812153], [10.328787, 50.812294], [10.325025, 50.811884], [10.324974, 50.814115], [10.322668, 50.815425], [10.323638, 50.817964], [10.320666, 50.819012], [10.31457, 50.819533], [10.314443, 50.819335], [10.313554, 50.818047], [10.30829, 50.817023], [10.30829, 50.817618], [10.30689, 50.819805], [10.306512, 50.820376], [10.306022, 50.820804], [10.30553, 50.82147], [10.30519, 50.821874], [10.304887, 50.822468], [10.304772, 50.823135], [10.304507, 50.823515], [10.303904, 50.823776], [10.303227, 50.823918], [10.301896, 50.823885], [10.29686, 50.825712], [10.296242, 50.826228], [10.302458, 50.828125], [10.311373, 50.824711], [10.314316, 50.826434], [10.316749, 50.828975], [10.319178, 50.829186], [10.321848, 50.829415], [10.323444, 50.831856], [10.31765, 50.834699], [10.315022, 50.834533], [10.312072, 50.833152], [10.308305, 50.833739], [10.31083, 50.834841], [10.309547, 50.835757], [10.311447, 50.83666], [10.311873, 50.836867], [10.312656, 50.836437], [10.314002, 50.837429], [10.316779, 50.839494], [10.316834, 50.839998], [10.317312, 50.844893], [10.317626, 50.848052], [10.318445, 50.849609], [10.31583, 50.856596], [10.332012, 50.859131], [10.331499, 50.859364], [10.330104, 50.859992], [10.327078, 50.863227], [10.324215, 50.868504], [10.326966, 50.870281], [10.332816, 50.868895], [10.336658, 50.868072], [10.336885, 50.868028], [10.337451, 50.86882], [10.338258, 50.869829], [10.338669, 50.870262], [10.34022, 50.869877], [10.347933, 50.867989], [10.350669, 50.866265], [10.35219, 50.866168], [10.359116, 50.865735], [10.360991, 50.866224], [10.361318, 50.866314], [10.369945, 50.862428], [10.373823, 50.863548], [10.380733, 50.863447], [10.383687, 50.86453], [10.38498, 50.864711], [10.386288, 50.864901], [10.386408, 50.868231], [10.388398, 50.868314], [10.389521, 50.86836], [10.393621, 50.86651], [10.397987, 50.865857], [10.400862, 50.864276]]]], "type": "MultiPolygon"}}
+{
+  "id": 101841265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_16063099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Liebenstein, Stadt",
+    "eurostat:nuts_2021_id":"16063099",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEG",
+    "eurostat:nuts_2021_level_2":"DEG0",
+    "eurostat:nuts_2021_level_3":"DEG0P",
+    "eurostat:nuts_2021_level_lau":"16063099",
+    "eurostat:population":7748,
+    "eurostat:population_year":2020,
+    "geom:area":0.006257,
+    "geom:area_square_m":48869038.991753,
+    "geom:bbox":"10.296242,50.778133,10.412086,50.870281",
+    "geom:latitude":50.829184,
+    "geom:longitude":10.360148,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":3965,
+    "iso:country":"DE",
+    "lbl:latitude":50.8159,
+    "lbl:longitude":10.347407,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":50.8159,
+    "mps:longitude":10.347407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0644\u064a\u0628\u0646\u0634\u062a\u0627\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0644\u06cc\u0628\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0456\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4 \u039b\u03b9\u03bc\u03c0\u03b5\u03bd\u03c3\u03c4\u03ac\u03b9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0644\u06cc\u0628\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d3 \u05dc\u05d9\u05d1\u05e0\u05e1\u05d8\u05d9\u05d9\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d0\u05d3 \u05dc\u05d9\u05d1\u05e0\u05e9\u05d8\u05d9\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:lat_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0458\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:por_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0458\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0438\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u041b\u0456\u0431\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:war_x_preferred":[
+        "Bad Liebenstein"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u5229\u672c\u65bd\u6cf0\u56e0"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u5229\u672c\u65af\u6cf0\u56e0"
+    ],
+    "nav:latitude":50.8159,
+    "nav:longitude":10.347407,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Wartburgkreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Schweina",
+    "qs:la_lc":"*DE16006350069",
+    "qs:level":"locality",
+    "qs:loc":"Bad Liebenstein",
+    "qs:loc_alt":"Bad Liebenstein",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6550962,
+    "qs_pg:gn_pop":3965,
+    "qs_pg:name":"Bad Liebenstein, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Th\u00fcringen",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":213,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":632479,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12624763,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":91,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Th\u00fcringen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377689653,
+        85633111,
+        102063723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_16063099",
+        "eurostat:nuts_2021_id":"16063099",
+        "gn:id":2953409,
+        "gp:id":636458,
+        "qs_pg:id":313851,
+        "wd:id":"Q530225",
+        "wk:page":"Arbigland"
+    },
+    "wof:coterminous":[
+        1377689653
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"56ec1b9d0ac501d5a12ecb8193e3a245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063723,
+            "localadmin_id":1377689653,
+            "locality_id":101841265,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101841265,
+    "wof:lastmodified":1690873038,
+    "wof:name":"Bad Liebenstein",
+    "wof:parent_id":1377689653,
+    "wof:placetype":"locality",
+    "wof:population":7748,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125369191,
+        1125302921
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.296242,
+    50.778133,
+    10.412086,
+    50.870281
+],
+  "geometry": {"coordinates":[[[[10.400862,50.864276],[10.403426,50.862155],[10.403301,50.86067],[10.405355,50.857505],[10.405414,50.856164],[10.408294,50.852027],[10.41141,50.850239],[10.411285,50.848908],[10.412086,50.846056],[10.406407,50.836127],[10.406354,50.834256],[10.405334,50.832662],[10.405708,50.830612],[10.404809,50.828983],[10.405085,50.826498],[10.406656,50.825447],[10.405751,50.823233],[10.405584,50.821335],[10.406721,50.820186],[10.405417,50.818585],[10.405286,50.816471],[10.404927,50.815413],[10.403257,50.816126],[10.399018,50.816471],[10.395907,50.816882],[10.3927,50.815556],[10.394306,50.814937],[10.39318,50.810635],[10.391703,50.810669],[10.390894,50.810408],[10.379231,50.806653],[10.379929,50.805754],[10.38284,50.805568],[10.384488,50.805471],[10.390072,50.803668],[10.389733,50.80302],[10.387674,50.803171],[10.384138,50.803446],[10.380621,50.80167],[10.381065,50.800204],[10.382162,50.798855],[10.38276,50.798181],[10.378233,50.797079],[10.376531,50.796591],[10.374886,50.795978],[10.376652,50.793694],[10.378811,50.793336],[10.379325,50.792356],[10.377436,50.792534],[10.376544,50.791562],[10.381616,50.790163],[10.384705,50.786486],[10.382804,50.78616],[10.379042,50.786274],[10.379404,50.783548],[10.37746,50.783627],[10.373047,50.78328],[10.367683,50.782869],[10.364918,50.782137],[10.36482,50.781615],[10.364636,50.781246],[10.364367,50.780994],[10.363971,50.780651],[10.363489,50.780336],[10.363164,50.780156],[10.362951,50.780029],[10.362725,50.779822],[10.362555,50.779615],[10.362329,50.77921],[10.362245,50.778787],[10.360812,50.778803],[10.359208,50.778837],[10.357011,50.778133],[10.354963,50.77948],[10.354242,50.779963],[10.353161,50.779714],[10.349296,50.780741],[10.346912,50.780774],[10.342772,50.779644],[10.342172,50.780606],[10.341502,50.781703],[10.336927,50.783172],[10.335704,50.783863],[10.332656,50.786855],[10.33061,50.787275],[10.334668,50.791878],[10.336,50.792384],[10.337991,50.79532],[10.337573,50.801339],[10.336172,50.804126],[10.334423,50.804798],[10.331115,50.804524],[10.327873,50.805968],[10.328127,50.8064],[10.328592,50.807201],[10.328775,50.807643],[10.328972,50.808228],[10.329042,50.808471],[10.329197,50.808885],[10.329465,50.809308],[10.329549,50.809569],[10.329577,50.809821],[10.329618,50.810109],[10.329617,50.810379],[10.329659,50.81055],[10.32973,50.810766],[10.329814,50.810991],[10.329969,50.811306],[10.330195,50.811694],[10.330491,50.812153],[10.328787,50.812294],[10.325025,50.811884],[10.324974,50.814115],[10.322668,50.815425],[10.323638,50.817964],[10.320666,50.819012],[10.31457,50.819533],[10.314443,50.819335],[10.313554,50.818047],[10.30829,50.817023],[10.30829,50.817618],[10.30689,50.819805],[10.306512,50.820376],[10.306022,50.820804],[10.30553,50.82147],[10.30519,50.821874],[10.304887,50.822468],[10.304772,50.823135],[10.304507,50.823515],[10.303904,50.823776],[10.303227,50.823918],[10.301896,50.823885],[10.29686,50.825712],[10.296242,50.826228],[10.302458,50.828125],[10.311373,50.824711],[10.314316,50.826434],[10.316749,50.828975],[10.319178,50.829186],[10.321848,50.829415],[10.323444,50.831856],[10.31765,50.834699],[10.315022,50.834533],[10.312072,50.833152],[10.308305,50.833739],[10.31083,50.834841],[10.309547,50.835757],[10.311447,50.83666],[10.311873,50.836867],[10.312656,50.836437],[10.314002,50.837429],[10.316779,50.839494],[10.316834,50.839998],[10.317312,50.844893],[10.317626,50.848052],[10.318445,50.849609],[10.31583,50.856596],[10.332012,50.859131],[10.331499,50.859364],[10.330104,50.859992],[10.327078,50.863227],[10.324215,50.868504],[10.326966,50.870281],[10.332816,50.868895],[10.336658,50.868072],[10.336885,50.868028],[10.337451,50.86882],[10.338258,50.869829],[10.338669,50.870262],[10.34022,50.869877],[10.347933,50.867989],[10.350669,50.866265],[10.35219,50.866168],[10.359116,50.865735],[10.360991,50.866224],[10.361318,50.866314],[10.369945,50.862428],[10.373823,50.863548],[10.380733,50.863447],[10.383687,50.86453],[10.38498,50.864711],[10.386288,50.864901],[10.386408,50.868231],[10.388398,50.868314],[10.389521,50.86836],[10.393621,50.86651],[10.397987,50.865857],[10.400862,50.864276]]]],"type":"MultiPolygon"}
+}

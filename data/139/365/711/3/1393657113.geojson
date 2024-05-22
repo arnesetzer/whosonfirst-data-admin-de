@@ -1,1 +1,99 @@
-{"id": 1393657113, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.45,47.76667,11.45,47.76667", "geom:latitude": 47.76667, "geom:longitude": 11.45, "gn:admin1_code": "2.0", "gn:admin2_code": "91.0", "gn:admin3_code": "9173.0", "gn:admin4_code": "9173111.0", "gn:asciiname": "Brandl", "gn:country_code": "DE", "gn:dem": 618, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2945250, "gn:latitude": 47.76667, "gn:longitude": 11.45, "gn:modification_date": "2013-02-19", "gn:name": "Brandl", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "11.445,47.76167,11.455,47.77167", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Brandl"], "name:ces_x_preferred": ["Brandl"], "name:deu_x_preferred": ["Brandl"], "name:fra_x_preferred": ["Brandl"], "name:rus_x_preferred": ["\u0411\u0440\u0430\u043d\u0434\u043b"], "name:swe_x_preferred": ["Brandl"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377691001, 404227567, 101787623, 102063225, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2945250}, "wof:country": "DE", "wof:geomhash": "b2cd0f1a5cc96591b43898f97687cfce", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063225, "localadmin_id": 1377691001, "locality_id": 101787623, "macrocounty_id": 404227567, "neighbourhood_id": 1393657113, "region_id": 85682571}], "wof:id": 1393657113, "wof:lastmodified": 1566713603, "wof:name": "Brandl", "wof:parent_id": 101787623, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1293212501], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.45, 47.76667, 11.45, 47.76667], "geometry": {"coordinates": [11.45, 47.76667], "type": "Point"}}
+{
+  "id": 1393657113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45,47.76667,11.45,47.76667",
+    "geom:latitude":47.76667,
+    "geom:longitude":11.45,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9173.0",
+    "gn:admin4_code":"9173111.0",
+    "gn:asciiname":"Brandl",
+    "gn:country_code":"DE",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2945250,
+    "gn:latitude":47.76667,
+    "gn:longitude":11.45,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Brandl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"11.445,47.76167,11.455,47.77167",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Brandl"
+    ],
+    "name:ces_x_preferred":[
+        "Brandl"
+    ],
+    "name:deu_x_preferred":[
+        "Brandl"
+    ],
+    "name:fra_x_preferred":[
+        "Brandl"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0434\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Brandl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377691001,
+        404227567,
+        101787623,
+        102063225,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2945250
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"b2cd0f1a5cc96591b43898f97687cfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063225,
+            "localadmin_id":1377691001,
+            "locality_id":101787623,
+            "macrocounty_id":404227567,
+            "neighbourhood_id":1393657113,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393657113,
+    "wof:lastmodified":1566713603,
+    "wof:name":"Brandl",
+    "wof:parent_id":101787623,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293212501
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45,
+    47.76667,
+    11.45,
+    47.76667
+],
+  "geometry": {"coordinates":[11.45,47.76667],"type":"Point"}
+}

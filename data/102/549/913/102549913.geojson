@@ -1,1 +1,93 @@
-{"id": 102549913, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.4417,48.2911,10.4417,48.2911", "geom:latitude": 48.2911, "geom:longitude": 10.4417, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 13.0, "name:deu_x_preferred": ["Flugplatz Thannhausen"], "name:eng_x_preferred": ["Thannhausen Airport"], "name:eng_x_variant": ["EDNU", "Thannhausen airfield"], "name:fra_x_preferred": ["a\u00e9rodrome Thannhausen"], "name:msa_x_preferred": ["Lapangan Terbang Thannhausen"], "oa:elevation_ft": "1611", "oa:type": "small_airport", "src:geom": "wikidata", "src:geom_alt": [], "woe:hierarchy": {"country_id": 23424829, "county_id": 12596910, "localadmin_id": 12634847, "planet_id": 1, "state_id": 2345482}, "wof:belongsto": [102191581, 404227547, 1377692629, 85633111, 101785465, 102063295, 85682571], "wof:breaches": [], "wof:concordances": {"gp:id": 56051983, "icao:code": "EDNU", "oa:id": "28738", "wd:id": "Q1433895"}, "wof:country": "DE", "wof:geomhash": "955b5e049b578ef2018b07bb953deaec", "wof:hierarchy": [{"campus_id": 102549913, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063295, "localadmin_id": 1377692629, "locality_id": 101785465, "macrocounty_id": 404227547, "neighbourhood_id": -1, "region_id": 85682571}], "wof:id": 102549913, "wof:lastmodified": 1690871089, "wof:name": "Flugplatz Thannhausen", "wof:parent_id": 101785465, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [10.4417, 48.2911, 10.4417, 48.2911], "geometry": {"coordinates": [10.4417, 48.2911], "type": "Point"}}
+{
+  "id": 102549913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4417,48.2911,10.4417,48.2911",
+    "geom:latitude":48.2911,
+    "geom:longitude":10.4417,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flugplatz Thannhausen"
+    ],
+    "name:eng_x_preferred":[
+        "Thannhausen Airport"
+    ],
+    "name:eng_x_variant":[
+        "EDNU",
+        "Thannhausen airfield"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome Thannhausen"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Thannhausen"
+    ],
+    "oa:elevation_ft":"1611",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596910,
+        "localadmin_id":12634847,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        102191581,
+        404227547,
+        1377692629,
+        85633111,
+        101785465,
+        102063295,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051983,
+        "icao:code":"EDNU",
+        "oa:id":"28738",
+        "wd:id":"Q1433895"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"955b5e049b578ef2018b07bb953deaec",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549913,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063295,
+            "localadmin_id":1377692629,
+            "locality_id":101785465,
+            "macrocounty_id":404227547,
+            "neighbourhood_id":-1,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102549913,
+    "wof:lastmodified":1690871089,
+    "wof:name":"Flugplatz Thannhausen",
+    "wof:parent_id":101785465,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.4417,
+    48.2911,
+    10.4417,
+    48.2911
+],
+  "geometry": {"coordinates":[10.4417,48.2911],"type":"Point"}
+}

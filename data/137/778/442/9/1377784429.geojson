@@ -1,1 +1,82 @@
-{"id": 1377784429, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "12.9546,52.72954,12.9546,52.72954", "geom:latitude": 52.72954, "geom:longitude": 12.9546, "gn:admin1_code": "11", "gn:admin2_code": "0.0", "gn:admin3_code": "12065.0", "gn:admin4_code": "12065165.0", "gn:asciiname": "Flatow", "gn:country_code": "DE", "gn:dem": 43, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2926363, "gn:latitude": 52.72954, "gn:longitude": 12.9546, "gn:modification_date": "2015-09-04", "gn:name": "Flatow", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "12.9496,52.72454,12.9596,52.73454", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:rus_x_preferred": ["\u0424\u043b\u0430\u0442\u043e\u0432"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377683369, 85633111, 101820041, 102063995, 85682553], "wof:breaches": [], "wof:concordances": {"gn:id": 2926363}, "wof:country": "DE", "wof:geomhash": "bd508acf7567024cb4f32078e274f1a4", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063995, "localadmin_id": 1377683369, "locality_id": 101820041, "neighbourhood_id": 1377784429, "region_id": 85682553}], "wof:id": 1377784429, "wof:lastmodified": 1566717788, "wof:name": "Flatow", "wof:parent_id": 101820041, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1310488885], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.9546, 52.72954, 12.9546, 52.72954], "geometry": {"coordinates": [12.9546, 52.72954], "type": "Point"}}
+{
+  "id": 1377784429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9546,52.72954,12.9546,52.72954",
+    "geom:latitude":52.72954,
+    "geom:longitude":12.9546,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"12065.0",
+    "gn:admin4_code":"12065165.0",
+    "gn:asciiname":"Flatow",
+    "gn:country_code":"DE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2926363,
+    "gn:latitude":52.72954,
+    "gn:longitude":12.9546,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"Flatow",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"12.9496,52.72454,12.9596,52.73454",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:rus_x_preferred":[
+        "\u0424\u043b\u0430\u0442\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377683369,
+        85633111,
+        101820041,
+        102063995,
+        85682553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2926363
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"bd508acf7567024cb4f32078e274f1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063995,
+            "localadmin_id":1377683369,
+            "locality_id":101820041,
+            "neighbourhood_id":1377784429,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":1377784429,
+    "wof:lastmodified":1566717788,
+    "wof:name":"Flatow",
+    "wof:parent_id":101820041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310488885
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9546,
+    52.72954,
+    12.9546,
+    52.72954
+],
+  "geometry": {"coordinates":[12.9546,52.72954],"type":"Point"}
+}

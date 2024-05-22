@@ -1,1 +1,149 @@
-{"id": 101820759, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000266, "geom:area_square_m": 2052508.821366, "geom:bbox": "11.762514,51.373618,11.790077,51.38977", "geom:latitude": 51.38265, "geom:longitude": 11.775115, "gn:population": 2170, "iso:country": "DE", "lbl:latitude": 51.383426, "lbl:longitude": 11.774853, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 51.383426, "mps:longitude": 11.774853, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"], "name:ceb_x_preferred": ["Schafst\u00e4dt"], "name:che_x_preferred": ["\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"], "name:deu_x_preferred": ["Schafst\u00e4dt"], "name:eng_x_preferred": ["Schafst\u00e4dt"], "name:epo_x_preferred": ["Schafst\u00e4dt"], "name:fra_x_preferred": ["Schafst\u00e4dt"], "name:gle_x_preferred": ["Schafst\u00e4dt"], "name:ita_x_preferred": ["Schafst\u00e4dt"], "name:kaz_x_preferred": ["\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"], "name:mkd_x_preferred": ["\u0428\u0430\u0444\u0448\u0442\u0435\u0442"], "name:nld_x_preferred": ["Schafst\u00e4dt"], "name:pol_x_preferred": ["Schafst\u00e4dt"], "name:ron_x_preferred": ["Schafst\u00e4dt"], "name:rus_x_preferred": ["\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"], "name:tat_x_preferred": ["\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["Schafst\u00e4dt"], "name:vol_x_preferred": ["Schafst\u00e4dt"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Saalekreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Schafst\u00e4dt", "qs:la_lc": "*DE15008804325", "qs:level": "locality", "qs:loc": "Schafst\u00e4dt", "qs:loc_alt": "Schafstaedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 50, "wof:belongsto": [85682519, 102191581, 1377688825, 85633111, 102063817], "wof:breaches": [], "wof:concordances": {"gn:id": 2840647, "gp:id": 691352, "qs_pg:id": 253939, "wd:id": "Q696912", "wk:page": "Schafst\u00e4dt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "b8818f2bfad7d5ce24219125c1408bb0", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063817, "localadmin_id": 1377688825, "locality_id": 101820759, "region_id": 85682519}], "wof:id": 101820759, "wof:lastmodified": 1690872062, "wof:name": "Schafst\u00e4dt", "wof:parent_id": 1377688825, "wof:placetype": "locality", "wof:population": 2170, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.762514, 51.373618, 11.790077, 51.38977], "geometry": {"coordinates": [[[11.774419, 51.389726], [11.774384, 51.388828], [11.785874, 51.388652], [11.785769, 51.385957], [11.790077, 51.385891], [11.789902, 51.381398], [11.78703, 51.381442], [11.78696, 51.379645], [11.778344, 51.379777], [11.778309, 51.378878], [11.776873, 51.3789], [11.776838, 51.378001], [11.773967, 51.378045], [11.773862, 51.37535], [11.770991, 51.375393], [11.770956, 51.374495], [11.76952, 51.374516], [11.769485, 51.373618], [11.763742, 51.373705], [11.763812, 51.375502], [11.765247, 51.37548], [11.765282, 51.376379], [11.766718, 51.376357], [11.766822, 51.379053], [11.762514, 51.379118], [11.762687, 51.38361], [11.764123, 51.383589], [11.764158, 51.384487], [11.76703, 51.384444], [11.767203, 51.388936], [11.771512, 51.388871], [11.771546, 51.38977], [11.774419, 51.389726]]], "type": "Polygon"}}
+{
+  "id": 101820759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000266,
+    "geom:area_square_m":2052508.821366,
+    "geom:bbox":"11.762514,51.373618,11.790077,51.38977",
+    "geom:latitude":51.38265,
+    "geom:longitude":11.775115,
+    "gn:population":2170,
+    "iso:country":"DE",
+    "lbl:latitude":51.383426,
+    "lbl:longitude":11.774853,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":51.383426,
+    "mps:longitude":11.774853,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:eng_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:epo_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:fra_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:gle_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:ita_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u0444\u0448\u0442\u0435\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:pol_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:ron_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0430\u0444\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "name:vol_x_preferred":[
+        "Schafst\u00e4dt"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Saalekreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Schafst\u00e4dt",
+    "qs:la_lc":"*DE15008804325",
+    "qs:level":"locality",
+    "qs:loc":"Schafst\u00e4dt",
+    "qs:loc_alt":"Schafstaedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688825,
+        85633111,
+        102063817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2840647,
+        "gp:id":691352,
+        "qs_pg:id":253939,
+        "wd:id":"Q696912",
+        "wk:page":"Schafst\u00e4dt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"b8818f2bfad7d5ce24219125c1408bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063817,
+            "localadmin_id":1377688825,
+            "locality_id":101820759,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101820759,
+    "wof:lastmodified":1690872062,
+    "wof:name":"Schafst\u00e4dt",
+    "wof:parent_id":1377688825,
+    "wof:placetype":"locality",
+    "wof:population":2170,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.762514,
+    51.373618,
+    11.790077,
+    51.38977
+],
+  "geometry": {"coordinates":[[[11.774419,51.389726],[11.774384,51.388828],[11.785874,51.388652],[11.785769,51.385957],[11.790077,51.385891],[11.789902,51.381398],[11.78703,51.381442],[11.78696,51.379645],[11.778344,51.379777],[11.778309,51.378878],[11.776873,51.3789],[11.776838,51.378001],[11.773967,51.378045],[11.773862,51.37535],[11.770991,51.375393],[11.770956,51.374495],[11.76952,51.374516],[11.769485,51.373618],[11.763742,51.373705],[11.763812,51.375502],[11.765247,51.37548],[11.765282,51.376379],[11.766718,51.376357],[11.766822,51.379053],[11.762514,51.379118],[11.762687,51.38361],[11.764123,51.383589],[11.764158,51.384487],[11.76703,51.384444],[11.767203,51.388936],[11.771512,51.388871],[11.771546,51.38977],[11.774419,51.389726]]],"type":"Polygon"}
+}

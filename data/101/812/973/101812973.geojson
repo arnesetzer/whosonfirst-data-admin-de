@@ -1,1 +1,258 @@
-{"id": 101812973, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07332006", "eurostat:level_code": "lau", "eurostat:name_local": "Bockenheim an der Weinstra\u00dfe", "eurostat:nuts_2021_id": "07332006", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3C", "eurostat:nuts_2021_level_lau": "07332006", "eurostat:population": 2194, "eurostat:population_year": 2020, "geom:area": 0.001399, "geom:area_square_m": 11212556.901515, "geom:bbox": "8.140061,49.591091,8.222983,49.628853", "geom:latitude": 49.608147, "geom:longitude": 8.187092, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 2196, "iso:country": "DE", "lbl:latitude": 49.605481, "lbl:longitude": 8.181546, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 49.605481, "mps:longitude": 8.181546, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:ceb_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:deu_x_colloquial": ["Bockenheim an der Weinstrasse"], "name:deu_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:deu_x_variant": ["Bockenheim", "Bockenheim (Weinstra\u00dfe)", "Bockenheim a.d. Weinstra\u00dfe", "Bockenheim/Weinstra\u00dfe"], "name:eng_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:epo_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:eus_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:fas_x_preferred": ["\u0628\u0648\u06a9\u0646\u0647\u0627\u06cc\u0645 \u0627\u0646 \u062f\u0631 \u0648\u0627\u06cc\u0646\u0634\u062a\u0631\u0627\u0633\u0647"], "name:fra_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:hun_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:ita_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:jpn_x_preferred": ["\u30dc\u30c3\u30b1\u30f3\u30cf\u30a4\u30e0\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30f4\u30a1\u30a4\u30f3\u30b7\u30e5\u30c8\u30e9\u30fc\u30bb"], "name:kaz_x_preferred": ["\u0411\u043e\u043a\u043a\u0435\u043d\u0445\u0430\u0439\u043c"], "name:kir_x_preferred": ["\u0411\u043e\u043a\u043a\u0435\u043d\u0445\u0430\u0439\u043c"], "name:kur_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:lld_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:mkd_x_preferred": ["\u0411\u043e\u043a\u0435\u043d\u0445\u0430\u0458\u043c \u043d\u0430 \u0412\u0438\u043d\u0441\u043a\u0438\u043e\u0442 \u041f\u0430\u0442"], "name:msa_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:nan_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:nld_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:nob_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:oci_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:pdc_x_preferred": ["Bockrem"], "name:pfl_x_preferred": ["Bockrem"], "name:pol_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:por_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:ron_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:rus_x_preferred": ["\u0411\u043e\u043a\u043a\u0435\u043d\u0445\u0430\u0439\u043c"], "name:spa_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:srp_x_preferred": ["\u0411\u043e\u043a\u0435\u043d\u0445\u0430\u0458\u043c \u0430\u043d \u0434\u0435\u0440 \u0412\u0430\u0458\u043d\u0448\u0442\u0440\u0430\u0441\u0435"], "name:swe_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:ukr_x_preferred": ["\u0411\u043e\u043a\u043a\u0435\u043d\u0433\u0430\u0439\u043c-\u0430\u043d-\u0434\u0435\u0440-\u0412\u0430\u0439\u043d\u0448\u0442\u0440\u0430\u0441\u0441\u0435"], "name:uzb_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:vie_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:vol_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:war_x_preferred": ["Bockenheim an der Weinstra\u00dfe"], "name:zho_x_preferred": ["\u9b4f\u6069\u65bd\u7279\u62c9\u745f\u5730\u533a\u535a\u80af\u6d77\u59c6"], "nav:latitude": 49.605481, "nav:longitude": 8.181546, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Bad D\u00fcrkheim", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bockenheim an der Weinstra\u00dfe", "qs:la_lc": "*DE07033203006", "qs:level": "locality", "qs:loc": "Bockenheim an der Weinstra\u00dfe", "qs:loc_alt": "Bockenheim an der Weinstrasse", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6559154, "qs_pg:gn_pop": 2196, "qs_pg:name": "Gemeinde Bockenheim an der Weinstra\u00dfe", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos": 14, "qs_pg:photos_1k": 3, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 1, "qs_pg:photos_all": 14, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 971981, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12627217, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 935, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682491, 102191581, 1377686301, 85633111, 102063485], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07332006", "eurostat:nuts_2021_id": "07332006", "fct:id": "0738aea6-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2947355, "gp:id": 654838, "qs_pg:id": 382961, "wd:id": "Q22531", "wk:page": "Bockenheim an der Weinstra\u00dfe"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes"], "wof:geomhash": "bbb52f5182ecbbe83fafe961abd18403", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063485, "localadmin_id": 1377686301, "locality_id": 101812973, "region_id": 85682491}], "wof:id": 101812973, "wof:lang": ["ger"], "wof:lastmodified": 1690873234, "wof:name": "Bockenheim an der Weinstra\u00dfe", "wof:parent_id": 1377686301, "wof:placetype": "locality", "wof:population": 2194, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125370757], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.140061, 49.591091, 8.222983, 49.628853], "geometry": {"coordinates": [[[[8.183277, 49.628853], [8.183731, 49.627485], [8.188926, 49.627799], [8.191429, 49.627607], [8.192145, 49.625686], [8.192427, 49.624162], [8.196451, 49.624316], [8.197448, 49.624336], [8.197579, 49.622476], [8.199946, 49.622524], [8.200283, 49.621847], [8.200545, 49.621015], [8.205203, 49.621541], [8.206481, 49.621171], [8.206984, 49.619354], [8.207973, 49.619518], [8.208742, 49.618229], [8.207184, 49.617792], [8.208054, 49.616406], [8.20693, 49.61614], [8.208001, 49.614335], [8.20898, 49.612401], [8.210348, 49.612762], [8.211804, 49.610694], [8.218914, 49.610037], [8.220195, 49.60757], [8.222983, 49.603404], [8.216338, 49.601902], [8.208281, 49.59867], [8.200889, 49.596324], [8.199898, 49.597915], [8.1934, 49.596271], [8.193047, 49.593554], [8.190698, 49.592579], [8.189461, 49.594966], [8.182377, 49.592859], [8.175816, 49.592544], [8.168594, 49.593557], [8.168706, 49.594954], [8.163636, 49.595272], [8.162136, 49.595935], [8.156374, 49.596256], [8.152709, 49.59474], [8.149797, 49.593141], [8.140245, 49.591091], [8.140061, 49.59346], [8.153972, 49.598637], [8.153059, 49.599743], [8.158884, 49.600692], [8.158612, 49.603692], [8.162691, 49.604107], [8.163263, 49.602904], [8.167392, 49.603433], [8.166499, 49.604989], [8.17285, 49.607091], [8.171212, 49.61001], [8.177541, 49.610887], [8.176845, 49.612369], [8.176351, 49.613419], [8.171849, 49.616828], [8.171639, 49.623979], [8.170323, 49.625113], [8.167099, 49.625308], [8.170338, 49.626229], [8.175276, 49.627258], [8.179372, 49.627657], [8.183277, 49.628853]]]], "type": "MultiPolygon"}}
+{
+  "id": 101812973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07332006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bockenheim an der Weinstra\u00dfe",
+    "eurostat:nuts_2021_id":"07332006",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3C",
+    "eurostat:nuts_2021_level_lau":"07332006",
+    "eurostat:population":2194,
+    "eurostat:population_year":2020,
+    "geom:area":0.001399,
+    "geom:area_square_m":11212556.901515,
+    "geom:bbox":"8.140061,49.591091,8.222983,49.628853",
+    "geom:latitude":49.608147,
+    "geom:longitude":8.187092,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":2196,
+    "iso:country":"DE",
+    "lbl:latitude":49.605481,
+    "lbl:longitude":8.181546,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":49.605481,
+    "mps:longitude":8.181546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:ceb_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:deu_x_colloquial":[
+        "Bockenheim an der Weinstrasse"
+    ],
+    "name:deu_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:deu_x_variant":[
+        "Bockenheim",
+        "Bockenheim (Weinstra\u00dfe)",
+        "Bockenheim a.d. Weinstra\u00dfe",
+        "Bockenheim/Weinstra\u00dfe"
+    ],
+    "name:eng_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:epo_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:eus_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0646\u0647\u0627\u06cc\u0645 \u0627\u0646 \u062f\u0631 \u0648\u0627\u06cc\u0646\u0634\u062a\u0631\u0627\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:hun_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:ita_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30c3\u30b1\u30f3\u30cf\u30a4\u30e0\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30f4\u30a1\u30a4\u30f3\u30b7\u30e5\u30c8\u30e9\u30fc\u30bb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u043a\u043a\u0435\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u043a\u043a\u0435\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:kur_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:lld_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u043a\u0435\u043d\u0445\u0430\u0458\u043c \u043d\u0430 \u0412\u0438\u043d\u0441\u043a\u0438\u043e\u0442 \u041f\u0430\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:nan_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:nld_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:nob_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:oci_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:pdc_x_preferred":[
+        "Bockrem"
+    ],
+    "name:pfl_x_preferred":[
+        "Bockrem"
+    ],
+    "name:pol_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:por_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:ron_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043a\u043a\u0435\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u043a\u0435\u043d\u0445\u0430\u0458\u043c \u0430\u043d \u0434\u0435\u0440 \u0412\u0430\u0458\u043d\u0448\u0442\u0440\u0430\u0441\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043a\u043a\u0435\u043d\u0433\u0430\u0439\u043c-\u0430\u043d-\u0434\u0435\u0440-\u0412\u0430\u0439\u043d\u0448\u0442\u0440\u0430\u0441\u0441\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:vie_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:vol_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:war_x_preferred":[
+        "Bockenheim an der Weinstra\u00dfe"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b4f\u6069\u65bd\u7279\u62c9\u745f\u5730\u533a\u535a\u80af\u6d77\u59c6"
+    ],
+    "nav:latitude":49.605481,
+    "nav:longitude":8.181546,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Bad D\u00fcrkheim",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bockenheim an der Weinstra\u00dfe",
+    "qs:la_lc":"*DE07033203006",
+    "qs:level":"locality",
+    "qs:loc":"Bockenheim an der Weinstra\u00dfe",
+    "qs:loc_alt":"Bockenheim an der Weinstrasse",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6559154,
+    "qs_pg:gn_pop":2196,
+    "qs_pg:name":"Gemeinde Bockenheim an der Weinstra\u00dfe",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":971981,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12627217,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":935,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686301,
+        85633111,
+        102063485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07332006",
+        "eurostat:nuts_2021_id":"07332006",
+        "fct:id":"0738aea6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2947355,
+        "gp:id":654838,
+        "qs_pg:id":382961,
+        "wd:id":"Q22531",
+        "wk:page":"Bockenheim an der Weinstra\u00dfe"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"bbb52f5182ecbbe83fafe961abd18403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063485,
+            "localadmin_id":1377686301,
+            "locality_id":101812973,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101812973,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873234,
+    "wof:name":"Bockenheim an der Weinstra\u00dfe",
+    "wof:parent_id":1377686301,
+    "wof:placetype":"locality",
+    "wof:population":2194,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125370757
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.140061,
+    49.591091,
+    8.222983,
+    49.628853
+],
+  "geometry": {"coordinates":[[[[8.183277,49.628853],[8.183731,49.627485],[8.188926,49.627799],[8.191429,49.627607],[8.192145,49.625686],[8.192427,49.624162],[8.196451,49.624316],[8.197448,49.624336],[8.197579,49.622476],[8.199946,49.622524],[8.200283,49.621847],[8.200545,49.621015],[8.205203,49.621541],[8.206481,49.621171],[8.206984,49.619354],[8.207973,49.619518],[8.208742,49.618229],[8.207184,49.617792],[8.208054,49.616406],[8.20693,49.61614],[8.208001,49.614335],[8.20898,49.612401],[8.210348,49.612762],[8.211804,49.610694],[8.218914,49.610037],[8.220195,49.60757],[8.222983,49.603404],[8.216338,49.601902],[8.208281,49.59867],[8.200889,49.596324],[8.199898,49.597915],[8.1934,49.596271],[8.193047,49.593554],[8.190698,49.592579],[8.189461,49.594966],[8.182377,49.592859],[8.175816,49.592544],[8.168594,49.593557],[8.168706,49.594954],[8.163636,49.595272],[8.162136,49.595935],[8.156374,49.596256],[8.152709,49.59474],[8.149797,49.593141],[8.140245,49.591091],[8.140061,49.59346],[8.153972,49.598637],[8.153059,49.599743],[8.158884,49.600692],[8.158612,49.603692],[8.162691,49.604107],[8.163263,49.602904],[8.167392,49.603433],[8.166499,49.604989],[8.17285,49.607091],[8.171212,49.61001],[8.177541,49.610887],[8.176845,49.612369],[8.176351,49.613419],[8.171849,49.616828],[8.171639,49.623979],[8.170323,49.625113],[8.167099,49.625308],[8.170338,49.626229],[8.175276,49.627258],[8.179372,49.627657],[8.183277,49.628853]]]],"type":"MultiPolygon"}
+}

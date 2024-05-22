@@ -1,1 +1,92 @@
-{"id": 1108939579, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.80902163055,53.073934677,8.80902163055,53.073934677", "geom:latitude": 53.073935, "geom:longitude": 8.809022, "iso:country": "DE", "lbl:bbox": "8.80402163055,53.068934677,8.81402163055,53.078934677", "lbl:latitude": 53.073935, "lbl:longitude": 8.809022, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 16.0, "mz:tier_metro": 30, "name:deu_x_preferred": ["Schnoor"], "name:fra_x_preferred": ["Schnoor"], "name:isl_x_preferred": ["Schnoor"], "name:ita_x_preferred": ["Schnoor"], "name:nld_x_preferred": ["Schnoor"], "name:rus_x_preferred": ["\u0411\u0440\u0435\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u0448\u043d\u043e\u0440"], "name:slv_x_preferred": ["Schnoor"], "name:zho_x_preferred": ["\u65bd\u8afe\u723e"], "src:lbl_centroid": "mz", "wof:belongsto": [85682561, 102191581, 1377689379, 85633111, 101913887, 102063991], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491361175, "wof:geomhash": "2fe0b96e2e8f9239a95f9333d5c1b5f5", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063991, "localadmin_id": 1377689379, "locality_id": 101913887, "neighbourhood_id": 1108939579, "region_id": 85682561}], "wof:id": 1108939579, "wof:lastmodified": 1623372436, "wof:name": "Schnoor", "wof:parent_id": 101913887, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.80902163055289, 53.07393467702163, 8.80902163055289, 53.07393467702163], "geometry": {"coordinates": [8.80902163055289, 53.07393467702163], "type": "Point"}}
+{
+  "id": 1108939579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80902163055,53.073934677,8.80902163055,53.073934677",
+    "geom:latitude":53.073935,
+    "geom:longitude":8.809022,
+    "iso:country":"DE",
+    "lbl:bbox":"8.80402163055,53.068934677,8.81402163055,53.078934677",
+    "lbl:latitude":53.073935,
+    "lbl:longitude":8.809022,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Schnoor"
+    ],
+    "name:fra_x_preferred":[
+        "Schnoor"
+    ],
+    "name:isl_x_preferred":[
+        "Schnoor"
+    ],
+    "name:ita_x_preferred":[
+        "Schnoor"
+    ],
+    "name:nld_x_preferred":[
+        "Schnoor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u0448\u043d\u043e\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Schnoor"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u8afe\u723e"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        85682561,
+        102191581,
+        1377689379,
+        85633111,
+        101913887,
+        102063991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491361175,
+    "wof:geomhash":"2fe0b96e2e8f9239a95f9333d5c1b5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063991,
+            "localadmin_id":1377689379,
+            "locality_id":101913887,
+            "neighbourhood_id":1108939579,
+            "region_id":85682561
+        }
+    ],
+    "wof:id":1108939579,
+    "wof:lastmodified":1623372436,
+    "wof:name":"Schnoor",
+    "wof:parent_id":101913887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80902163055289,
+    53.07393467702163,
+    8.80902163055289,
+    53.07393467702163
+],
+  "geometry": {"coordinates":[8.80902163055289,53.07393467702163],"type":"Point"}
+}

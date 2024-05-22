@@ -1,1 +1,223 @@
-{"id": 101838151, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01058148", "eurostat:level_code": "lau", "eurostat:name_local": "Sch\u00fclp b. Rendsburg", "eurostat:nuts_2021_id": "01058148", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF0B", "eurostat:nuts_2021_level_lau": "01058148", "eurostat:population": 1086, "eurostat:population_year": 2020, "geom:area": 0.001462, "geom:area_square_m": 10560600.7817, "geom:bbox": "9.582814,54.225927,9.658592,54.273939", "geom:latitude": 54.247366, "geom:longitude": 9.622068, "gn:population": 1123, "iso:country": "DE", "lbl:latitude": 54.259081, "lbl:longitude": 9.630417, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 54.259081, "mps:longitude": 9.630417, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:ceb_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:che_x_preferred": ["\u0428\u0443\u044c\u043b\u044c\u043f"], "name:dan_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:deu_x_colloquial": ["Schuelp", "Schuelp b. Rendsburg", "Schuelp bei Rendsburg", "Schulp", "Schulp B.rendsburg", "Schulp bei Rendsburg"], "name:deu_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:deu_x_variant": ["Sch\u00fclp bei Rendsburg", "Sch\u00fclp"], "name:eng_x_preferred": ["Sch\u00fclp bei Rendsburg"], "name:epo_x_preferred": ["Sch\u00fclp"], "name:eus_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:fas_x_preferred": ["\u0634\u0648\u0644\u067e \u0628\u0627\u06cc \u0631\u0646\u062f\u0633\u0628\u0648\u0631\u06af"], "name:fra_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:hun_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:ita_x_preferred": ["Sch\u00fclp bei Rendsburg"], "name:mkd_x_preferred": ["\u0428\u0438\u043b\u043f \u043a\u0430\u0458 \u0420\u0435\u043d\u0434\u0441\u0431\u0443\u0440\u0433"], "name:msa_x_preferred": ["Sch\u00fclp bei Rendsburg"], "name:nan_x_preferred": ["Sch\u00fclp bei Rendsburg"], "name:nld_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:nob_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:pol_x_preferred": ["Sch\u00fclp bei Rendsburg"], "name:por_x_preferred": ["Sch\u00fclp bei Rendsburg"], "name:ron_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:rus_x_preferred": ["\u0428\u044e\u043b\u044c\u043f"], "name:spa_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:srp_x_preferred": ["\u0428\u0438\u043b\u043f \u0431\u0430\u0458 \u0420\u0435\u043d\u0434\u0441\u0431\u0443\u0440\u0433"], "name:swe_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:tat_x_preferred": ["\u0428\u044e\u043b\u044c\u043f"], "name:tur_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:ukr_x_preferred": ["\u0428\u044e\u043b\u044c\u043f-\u0431\u0430\u0439-\u0420\u0435\u043d\u0434\u0441\u0431\u0443\u0440\u0433"], "name:uzb_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:vie_x_preferred": ["Sch\u00fclp bei Rendsburg"], "name:vol_x_preferred": ["Sch\u00fclp b. Rendsburg"], "name:war_x_preferred": ["Sch\u00fclp bei Rendsburg"], "name:zho_x_preferred": ["\u8bb8\u5c14\u666e\u62dc\u4f26\u8328\u5821"], "nav:latitude": 54.259081, "nav:longitude": 9.630417, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Schleswig-Holstein", "qs:a1r": "0", "qs:a2": "Rendsburg-Eckernf\u00f6rde", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "N\u00fcbbel", "qs:la_lc": "*DE01005833118", "qs:level": "locality", "qs:loc": "Sch\u00fclp b. Rendsburg", "qs:loc_alt": "Schuelp b. Rendsburg", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-multi-in-poly-resolved", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 38, "wof:belongsto": [85682517, 102191581, 1377684241, 85633111, 102064145], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01058148", "eurostat:nuts_2021_id": "01058148", "fct:id": "07575c7a-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 6559057, "gp:id": 693355, "qs_pg:id": 496759, "wd:id": "Q666297", "wk:page": "Sch\u00fclp bei Rendsburg"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "baf04cb1dd435cfe99d91947f5b9bd2d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064145, "localadmin_id": 1377684241, "locality_id": 101838151, "region_id": 85682517}], "wof:id": 101838151, "wof:lang": ["ger"], "wof:lastmodified": 1690873534, "wof:name": "Sch\u00fclp b. Rendsburg", "wof:parent_id": 1377684241, "wof:placetype": "locality", "wof:population": 1086, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.582814, 54.225927, 9.658592, 54.273939], "geometry": {"coordinates": [[[[9.628166, 54.273939], [9.628163, 54.272556], [9.630402, 54.272599], [9.635506, 54.272849], [9.634649, 54.2712], [9.636594, 54.269893], [9.637519, 54.268903], [9.636253, 54.268499], [9.636996, 54.2674], [9.635553, 54.26668], [9.637218, 54.265551], [9.638191, 54.265953], [9.640086, 54.26479], [9.641024, 54.263898], [9.642075, 54.264301], [9.649416, 54.256071], [9.654559, 54.25193], [9.652623, 54.249762], [9.657913, 54.249806], [9.658592, 54.248006], [9.641577, 54.242341], [9.634279, 54.239301], [9.63193, 54.238674], [9.632328, 54.237213], [9.627992, 54.237084], [9.623074, 54.236933], [9.623384, 54.233765], [9.620701, 54.233755], [9.613783, 54.230986], [9.615087, 54.230196], [9.614684, 54.225927], [9.613636, 54.226216], [9.611982, 54.227632], [9.609342, 54.227856], [9.604618, 54.228729], [9.60428, 54.228045], [9.601693, 54.228592], [9.600435, 54.2294], [9.599591, 54.229439], [9.598527, 54.229027], [9.596486, 54.229129], [9.594645, 54.229637], [9.594268, 54.230181], [9.593981, 54.230345], [9.593415, 54.230269], [9.592892, 54.230052], [9.592242, 54.230118], [9.59167, 54.230747], [9.589335, 54.2317], [9.587379, 54.232143], [9.586177, 54.233158], [9.585726, 54.233478], [9.585244, 54.233807], [9.584699, 54.234207], [9.584403, 54.234403], [9.583803, 54.235252], [9.583985, 54.236052], [9.583324, 54.236873], [9.582814, 54.23704], [9.583453, 54.237261], [9.584848, 54.237989], [9.586542, 54.239041], [9.587684, 54.239416], [9.589439, 54.239846], [9.589913, 54.239903], [9.59147, 54.24021], [9.592947, 54.240715], [9.593497, 54.241527], [9.594284, 54.242763], [9.595004, 54.243487], [9.595672, 54.243833], [9.597509, 54.244708], [9.599253, 54.24561], [9.600062, 54.246514], [9.600931, 54.248226], [9.602437, 54.248811], [9.603976, 54.249298], [9.604857, 54.249691], [9.605438, 54.250512], [9.605752, 54.250883], [9.606221, 54.251182], [9.607327, 54.251846], [9.608461, 54.251899], [9.609601, 54.251619], [9.611387, 54.2513], [9.612367, 54.251361], [9.614134, 54.25122], [9.616162, 54.251001], [9.620105, 54.257683], [9.621797, 54.260479], [9.619882, 54.262611], [9.620595, 54.263721], [9.621952, 54.265625], [9.624986, 54.26579], [9.62601, 54.267485], [9.623921, 54.269123], [9.623989, 54.270345], [9.623927, 54.271117], [9.624007, 54.271692], [9.62433, 54.272395], [9.625147, 54.272975], [9.625983, 54.273358], [9.626941, 54.273787], [9.628166, 54.273939]]]], "type": "MultiPolygon"}}
+{
+  "id": 101838151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01058148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sch\u00fclp b. Rendsburg",
+    "eurostat:nuts_2021_id":"01058148",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF0B",
+    "eurostat:nuts_2021_level_lau":"01058148",
+    "eurostat:population":1086,
+    "eurostat:population_year":2020,
+    "geom:area":0.001462,
+    "geom:area_square_m":10560600.7817,
+    "geom:bbox":"9.582814,54.225927,9.658592,54.273939",
+    "geom:latitude":54.247366,
+    "geom:longitude":9.622068,
+    "gn:population":1123,
+    "iso:country":"DE",
+    "lbl:latitude":54.259081,
+    "lbl:longitude":9.630417,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":54.259081,
+    "mps:longitude":9.630417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:ceb_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0443\u044c\u043b\u044c\u043f"
+    ],
+    "name:dan_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:deu_x_colloquial":[
+        "Schuelp",
+        "Schuelp b. Rendsburg",
+        "Schuelp bei Rendsburg",
+        "Schulp",
+        "Schulp B.rendsburg",
+        "Schulp bei Rendsburg"
+    ],
+    "name:deu_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:deu_x_variant":[
+        "Sch\u00fclp bei Rendsburg",
+        "Sch\u00fclp"
+    ],
+    "name:eng_x_preferred":[
+        "Sch\u00fclp bei Rendsburg"
+    ],
+    "name:epo_x_preferred":[
+        "Sch\u00fclp"
+    ],
+    "name:eus_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0644\u067e \u0628\u0627\u06cc \u0631\u0646\u062f\u0633\u0628\u0648\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:hun_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:ita_x_preferred":[
+        "Sch\u00fclp bei Rendsburg"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0438\u043b\u043f \u043a\u0430\u0458 \u0420\u0435\u043d\u0434\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Sch\u00fclp bei Rendsburg"
+    ],
+    "name:nan_x_preferred":[
+        "Sch\u00fclp bei Rendsburg"
+    ],
+    "name:nld_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:nob_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:pol_x_preferred":[
+        "Sch\u00fclp bei Rendsburg"
+    ],
+    "name:por_x_preferred":[
+        "Sch\u00fclp bei Rendsburg"
+    ],
+    "name:ron_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u044e\u043b\u044c\u043f"
+    ],
+    "name:spa_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u043b\u043f \u0431\u0430\u0458 \u0420\u0435\u043d\u0434\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u044e\u043b\u044c\u043f"
+    ],
+    "name:tur_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u044e\u043b\u044c\u043f-\u0431\u0430\u0439-\u0420\u0435\u043d\u0434\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:vie_x_preferred":[
+        "Sch\u00fclp bei Rendsburg"
+    ],
+    "name:vol_x_preferred":[
+        "Sch\u00fclp b. Rendsburg"
+    ],
+    "name:war_x_preferred":[
+        "Sch\u00fclp bei Rendsburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bb8\u5c14\u666e\u62dc\u4f26\u8328\u5821"
+    ],
+    "nav:latitude":54.259081,
+    "nav:longitude":9.630417,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Schleswig-Holstein",
+    "qs:a1r":"0",
+    "qs:a2":"Rendsburg-Eckernf\u00f6rde",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"N\u00fcbbel",
+    "qs:la_lc":"*DE01005833118",
+    "qs:level":"locality",
+    "qs:loc":"Sch\u00fclp b. Rendsburg",
+    "qs:loc_alt":"Schuelp b. Rendsburg",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377684241,
+        85633111,
+        102064145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01058148",
+        "eurostat:nuts_2021_id":"01058148",
+        "fct:id":"07575c7a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6559057,
+        "gp:id":693355,
+        "qs_pg:id":496759,
+        "wd:id":"Q666297",
+        "wk:page":"Sch\u00fclp bei Rendsburg"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"baf04cb1dd435cfe99d91947f5b9bd2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064145,
+            "localadmin_id":1377684241,
+            "locality_id":101838151,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":101838151,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873534,
+    "wof:name":"Sch\u00fclp b. Rendsburg",
+    "wof:parent_id":1377684241,
+    "wof:placetype":"locality",
+    "wof:population":1086,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.582814,
+    54.225927,
+    9.658592,
+    54.273939
+],
+  "geometry": {"coordinates":[[[[9.628166,54.273939],[9.628163,54.272556],[9.630402,54.272599],[9.635506,54.272849],[9.634649,54.2712],[9.636594,54.269893],[9.637519,54.268903],[9.636253,54.268499],[9.636996,54.2674],[9.635553,54.26668],[9.637218,54.265551],[9.638191,54.265953],[9.640086,54.26479],[9.641024,54.263898],[9.642075,54.264301],[9.649416,54.256071],[9.654559,54.25193],[9.652623,54.249762],[9.657913,54.249806],[9.658592,54.248006],[9.641577,54.242341],[9.634279,54.239301],[9.63193,54.238674],[9.632328,54.237213],[9.627992,54.237084],[9.623074,54.236933],[9.623384,54.233765],[9.620701,54.233755],[9.613783,54.230986],[9.615087,54.230196],[9.614684,54.225927],[9.613636,54.226216],[9.611982,54.227632],[9.609342,54.227856],[9.604618,54.228729],[9.60428,54.228045],[9.601693,54.228592],[9.600435,54.2294],[9.599591,54.229439],[9.598527,54.229027],[9.596486,54.229129],[9.594645,54.229637],[9.594268,54.230181],[9.593981,54.230345],[9.593415,54.230269],[9.592892,54.230052],[9.592242,54.230118],[9.59167,54.230747],[9.589335,54.2317],[9.587379,54.232143],[9.586177,54.233158],[9.585726,54.233478],[9.585244,54.233807],[9.584699,54.234207],[9.584403,54.234403],[9.583803,54.235252],[9.583985,54.236052],[9.583324,54.236873],[9.582814,54.23704],[9.583453,54.237261],[9.584848,54.237989],[9.586542,54.239041],[9.587684,54.239416],[9.589439,54.239846],[9.589913,54.239903],[9.59147,54.24021],[9.592947,54.240715],[9.593497,54.241527],[9.594284,54.242763],[9.595004,54.243487],[9.595672,54.243833],[9.597509,54.244708],[9.599253,54.24561],[9.600062,54.246514],[9.600931,54.248226],[9.602437,54.248811],[9.603976,54.249298],[9.604857,54.249691],[9.605438,54.250512],[9.605752,54.250883],[9.606221,54.251182],[9.607327,54.251846],[9.608461,54.251899],[9.609601,54.251619],[9.611387,54.2513],[9.612367,54.251361],[9.614134,54.25122],[9.616162,54.251001],[9.620105,54.257683],[9.621797,54.260479],[9.619882,54.262611],[9.620595,54.263721],[9.621952,54.265625],[9.624986,54.26579],[9.62601,54.267485],[9.623921,54.269123],[9.623989,54.270345],[9.623927,54.271117],[9.624007,54.271692],[9.62433,54.272395],[9.625147,54.272975],[9.625983,54.273358],[9.626941,54.273787],[9.628166,54.273939]]]],"type":"MultiPolygon"}
+}

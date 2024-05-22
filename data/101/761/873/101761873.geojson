@@ -1,1 +1,456 @@
-{"id": 101761873, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08115050", "eurostat:level_code": "lau", "eurostat:name_local": "Weil der Stadt, Stadt", "eurostat:nuts_2021_id": "08115050", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE11", "eurostat:nuts_2021_level_3": "DE112", "eurostat:nuts_2021_level_lau": "08115050", "eurostat:population": 19220, "eurostat:population_year": 2020, "geom:area": 0.00528, "geom:area_square_m": 43034994.690295, "geom:bbox": "8.799385,48.716916,8.932253,48.802431", "geom:latitude": 48.760111, "geom:longitude": 8.863882, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 18942, "iso:country": "DE", "lbl:latitude": 48.753554, "lbl:longitude": 8.871495, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 48.753554, "mps:longitude": 8.871495, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:afr_x_preferred": ["Weil der Stadt"], "name:als_x_preferred": ["Weil der Stadt"], "name:ara_x_preferred": ["\u0641\u0627\u064a\u0644 \u062f\u0631 \u0634\u062a\u0627\u062a"], "name:arg_x_preferred": ["Weil der Stadt"], "name:arz_x_preferred": ["\u0641\u0627\u064a\u0644 \u062f\u0631 \u0634\u062a\u0627\u062a"], "name:ast_x_preferred": ["Weil der Stadt"], "name:azb_x_preferred": ["\u0648\u0627\u06cc\u0644 \u0634\u0647\u0631"], "name:bar_x_preferred": ["Weil der Stadt"], "name:bel_x_preferred": ["\u0412\u0430\u0439\u043b\u044c-\u0434\u044d\u0440-\u0428\u0442\u0430\u0442"], "name:bre_x_preferred": ["Weil der Stadt"], "name:cat_x_preferred": ["Weil der Stadt"], "name:ceb_x_preferred": ["Weil der Stadt"], "name:ces_x_preferred": ["Weil der Stadt"], "name:che_x_preferred": ["\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"], "name:cos_x_preferred": ["Weil der Stadt"], "name:cym_x_preferred": ["Weil der Stadt"], "name:dan_x_preferred": ["Weil der Stadt"], "name:deu_x_preferred": ["Weil der Stadt"], "name:ell_x_preferred": ["\u0392\u03ac\u03b9\u03bb \u03bd\u03c4\u03b5\u03c1 \u03a3\u03c4\u03b1\u03c4"], "name:eng_x_preferred": ["Weil der Stadt"], "name:epo_x_preferred": ["Weil der Stadt"], "name:est_x_preferred": ["Weil der Stadt"], "name:eus_x_preferred": ["Weil der Stadt"], "name:fas_x_preferred": ["\u0648\u0627\u06cc\u0644 \u0634\u0647\u0631"], "name:fin_x_preferred": ["Weil der Stadt"], "name:fra_x_preferred": ["Weil der Stadt"], "name:frp_x_preferred": ["Weil der Stadt"], "name:fur_x_preferred": ["Weil der Stadt"], "name:gla_x_preferred": ["Weil der Stadt"], "name:gle_x_preferred": ["Weil der Stadt"], "name:glg_x_preferred": ["Weil der Stadt"], "name:gsw_x_preferred": ["Weil dr Stadt"], "name:hbs_x_preferred": ["Weil der Stadt"], "name:heb_x_preferred": ["\u05d5\u05d9\u05d9\u05dc"], "name:hrv_x_preferred": ["Weil der Stadt"], "name:hun_x_preferred": ["Weil der Stadt"], "name:hye_x_preferred": ["\u054e\u0561\u0575\u056c \u0564\u0565\u0580 \u0547\u057f\u0561\u0564\u057f"], "name:ido_x_preferred": ["Weil der Stadt"], "name:ile_x_preferred": ["Weil der Stadt"], "name:ina_x_preferred": ["Weil der Stadt"], "name:ind_x_preferred": ["Weil der Stadt"], "name:isl_x_preferred": ["Weil der Stadt"], "name:ita_x_preferred": ["Weil der Stadt"], "name:jpn_x_preferred": ["\u30f4\u30a1\u30a4\u30eb\u30fb\u30c7\u30a2\u30fb\u30b7\u30e5\u30bf\u30c3\u30c8"], "name:kat_x_preferred": ["\u10d5\u10d0\u10d8\u10da-\u10d3\u10d4\u10e0-\u10e8\u10e2\u10d0\u10d3\u10e2\u10d8"], "name:kaz_x_preferred": ["\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"], "name:kir_x_preferred": ["\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"], "name:kon_x_preferred": ["Weil der Stadt"], "name:kor_x_preferred": ["\ubc14\uc77c\ub370\uc5b4\uc288\ud0c0\ud2b8"], "name:kur_x_preferred": ["Weil der Stadt"], "name:lat_x_preferred": ["Weil der Stadt"], "name:lat_x_variant": ["Vuila"], "name:lij_x_preferred": ["Weil der Stadt"], "name:lim_x_preferred": ["Weil der Stadt"], "name:lld_x_preferred": ["Weil der Stadt"], "name:lmo_x_preferred": ["Weil der Stadt"], "name:ltz_x_preferred": ["Weil der Stadt"], "name:min_x_preferred": ["Weil der Stadt"], "name:mkd_x_preferred": ["\u0412\u0430\u0458\u043b \u0434\u0435\u0440 \u0428\u0442\u0430\u0442"], "name:mlg_x_preferred": ["Weil der Stadt"], "name:msa_x_preferred": ["Weil der Stadt"], "name:nap_x_preferred": ["Weil der Stadt"], "name:nds_x_preferred": ["Weil der Stadt"], "name:nld_x_preferred": ["Weil der Stadt"], "name:nno_x_preferred": ["Weil der Stadt"], "name:nob_x_preferred": ["Weil der Stadt"], "name:nqo_x_preferred": ["\u07e5\u07cd\u07df \u07d8\u07cd\u07d9 \u07db\u07d1\u07d5\u07ca\u07d8\u07d5"], "name:nrm_x_preferred": ["Weil der Stadt"], "name:oci_x_preferred": ["Weil der Stadt"], "name:pcd_x_preferred": ["Weil der Stadt"], "name:pms_x_preferred": ["Weil der Stadt"], "name:pol_x_preferred": ["Weil der Stadt"], "name:por_x_preferred": ["Weil der Stadt"], "name:roh_x_preferred": ["Weil der Stadt"], "name:ron_x_preferred": ["Weil der Stadt"], "name:rue_x_preferred": ["\u0412\u0430\u0439\u043b \u0434\u0435\u0440 \u0428\u0442\u0430\u0434\u0442"], "name:rus_x_preferred": ["\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"], "name:scn_x_preferred": ["Weil der Stadt"], "name:sco_x_preferred": ["Weil der Stadt"], "name:slk_x_preferred": ["Weil der Stadt"], "name:slv_x_preferred": ["Weil der Stadt"], "name:spa_x_preferred": ["Weil der Stadt"], "name:srd_x_preferred": ["Weil der Stadt"], "name:srp_x_preferred": ["\u0412\u0430\u0458\u043b \u0434\u0435\u0440 \u0428\u0442\u0430\u0442"], "name:swa_x_preferred": ["Weil der Stadt"], "name:swe_x_preferred": ["Weil der Stadt"], "name:tat_x_preferred": ["\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"], "name:tum_x_preferred": ["Weil der Stadt"], "name:tur_x_preferred": ["Weil der Stadt"], "name:ukr_x_preferred": ["\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"], "name:uzb_x_preferred": ["Weil der Stadt"], "name:vec_x_preferred": ["Weil der Stadt"], "name:vie_x_preferred": ["Weil der Stadt"], "name:vls_x_preferred": ["Weil der Stadt"], "name:vol_x_preferred": ["Weil der Stadt"], "name:war_x_preferred": ["Weil der Stadt"], "name:wln_x_preferred": ["Weil der Stadt"], "name:wol_x_preferred": ["Weil der Stadt"], "name:yid_x_preferred": ["\u05d5\u05d5\u05d9\u05d9\u05dc"], "name:zho_x_preferred": ["\u9b4f\u5c14\u5fb7\u5c14\u65af\u5854\u7279"], "name:zul_x_preferred": ["Weil der Stadt"], "nav:latitude": 48.753554, "nav:longitude": 8.871495, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "B\u00f6blingen", "qs:a2r": "Stuttgart", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Weil der Stadt", "qs:la_lc": "*DE08101500050", "qs:level": "locality", "qs:loc": "Weil der Stadt", "qs:loc_alt": "Weil der Stadt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555405, "qs_pg:gn_pop": 18942, "qs_pg:name": "Gemeinde Weil der Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 2, "qs_pg:photos_9r": 5, "qs_pg:photos_all": 421, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 907277, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623162, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 48.750833, "wd:longitude": 8.870556, "wd:wordcount": 578, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377686877, 404227549, 102063351], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08115050", "eurostat:nuts_2021_id": "08115050", "fct:id": "075dd032-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2812625, "gp:id": 704676, "loc:id": "n82093645", "qs_pg:id": 141591, "wd:id": "Q505147", "wk:page": "Weil der Stadt"}, "wof:coterminous": [1377686877], "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "c957ce2ec96cd39a4881827e36c962c3", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063351, "localadmin_id": 1377686877, "locality_id": 101761873, "macrocounty_id": 404227549, "region_id": 85682567}], "wof:id": 101761873, "wof:lang": ["ger"], "wof:lastmodified": 1690872945, "wof:name": "Weil der Stadt", "wof:parent_id": 1377686877, "wof:placetype": "locality", "wof:population": 19220, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125350553, 1125345779], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.799385, 48.716916, 8.932253, 48.802431], "geometry": {"coordinates": [[[[8.929062, 48.73514], [8.930061, 48.732833], [8.932253, 48.732738], [8.932031, 48.72992], [8.926409, 48.730974], [8.920158, 48.726666], [8.916247, 48.727375], [8.914632, 48.724789], [8.910862, 48.725311], [8.909781, 48.723442], [8.907099, 48.723152], [8.906118, 48.721457], [8.901322, 48.716916], [8.895573, 48.719766], [8.892056, 48.718429], [8.887173, 48.722199], [8.880933, 48.722198], [8.879775, 48.723476], [8.877826, 48.723628], [8.878631, 48.724773], [8.877253, 48.725733], [8.873424, 48.727602], [8.868995, 48.72832], [8.864917, 48.729897], [8.861829, 48.73237], [8.858872, 48.732956], [8.855855, 48.734126], [8.854505, 48.734619], [8.849707, 48.735375], [8.842478, 48.736014], [8.839301, 48.735454], [8.836736, 48.73609], [8.829203, 48.736472], [8.829792, 48.739578], [8.831221, 48.740714], [8.832038, 48.742068], [8.831023, 48.742481], [8.831513, 48.743262], [8.8335, 48.743229], [8.833653, 48.744707], [8.834384, 48.746795], [8.835346, 48.751281], [8.835623, 48.752319], [8.835454, 48.754098], [8.834151, 48.755185], [8.830605, 48.756643], [8.828019, 48.757854], [8.825288, 48.758919], [8.823512, 48.76013], [8.820702, 48.762116], [8.819268, 48.763434], [8.817558, 48.766183], [8.813637, 48.765355], [8.811447, 48.765727], [8.808375, 48.767965], [8.804209, 48.770753], [8.800817, 48.772005], [8.80052, 48.772334], [8.799385, 48.773666], [8.799952, 48.774952], [8.801228, 48.776213], [8.804182, 48.777778], [8.806593, 48.77965], [8.807213, 48.780577], [8.807797, 48.781449], [8.811125, 48.780861], [8.812203, 48.781957], [8.813657, 48.783994], [8.815749, 48.786472], [8.816065, 48.786783], [8.818328, 48.788256], [8.826083, 48.791963], [8.826417, 48.792534], [8.827769, 48.794777], [8.829766, 48.795715], [8.83098, 48.797236], [8.831627, 48.797425], [8.832448, 48.797698], [8.833068, 48.797888], [8.833744, 48.798033], [8.834448, 48.798151], [8.835086, 48.798206], [8.835711, 48.798242], [8.837938, 48.798797], [8.840729, 48.799207], [8.84241, 48.79943], [8.842866, 48.798151], [8.843861, 48.798109], [8.844764, 48.795498], [8.846046, 48.795023], [8.847476, 48.792624], [8.850077, 48.792996], [8.851973, 48.792889], [8.853249, 48.792611], [8.856114, 48.792464], [8.860558, 48.792701], [8.867769, 48.79242], [8.869729, 48.795264], [8.872569, 48.796655], [8.878955, 48.798691], [8.881622, 48.799135], [8.884002, 48.801283], [8.886864, 48.802431], [8.889614, 48.800825], [8.892705, 48.799565], [8.894565, 48.798513], [8.896098, 48.798256], [8.891683, 48.797554], [8.891875, 48.796684], [8.894712, 48.797355], [8.897456, 48.795901], [8.894852, 48.794757], [8.893332, 48.793791], [8.88876, 48.792492], [8.882669, 48.786512], [8.883111, 48.784683], [8.885423, 48.783943], [8.88488, 48.782244], [8.879583, 48.782302], [8.882716, 48.780189], [8.88275, 48.774666], [8.884389, 48.77451], [8.884152, 48.773022], [8.888472, 48.768336], [8.880044, 48.76645], [8.877284, 48.764755], [8.879242, 48.763956], [8.879961, 48.763202], [8.881014, 48.762236], [8.883056, 48.761376], [8.88551, 48.762473], [8.905722, 48.761415], [8.906463, 48.757072], [8.907871, 48.756126], [8.908062, 48.754701], [8.909404, 48.754506], [8.908968, 48.752871], [8.906927, 48.752878], [8.905923, 48.749481], [8.907632, 48.743407], [8.905533, 48.743134], [8.905597, 48.741174], [8.903773, 48.740402], [8.902916, 48.737934], [8.907071, 48.739369], [8.909103, 48.73876], [8.911834, 48.740526], [8.911829, 48.738988], [8.915226, 48.739522], [8.91644, 48.736481], [8.919915, 48.737079], [8.920331, 48.736015], [8.928064, 48.737815], [8.929062, 48.73514]]]], "type": "MultiPolygon"}}
+{
+  "id": 101761873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08115050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Weil der Stadt, Stadt",
+    "eurostat:nuts_2021_id":"08115050",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE11",
+    "eurostat:nuts_2021_level_3":"DE112",
+    "eurostat:nuts_2021_level_lau":"08115050",
+    "eurostat:population":19220,
+    "eurostat:population_year":2020,
+    "geom:area":0.00528,
+    "geom:area_square_m":43034994.690295,
+    "geom:bbox":"8.799385,48.716916,8.932253,48.802431",
+    "geom:latitude":48.760111,
+    "geom:longitude":8.863882,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":18942,
+    "iso:country":"DE",
+    "lbl:latitude":48.753554,
+    "lbl:longitude":8.871495,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":48.753554,
+    "mps:longitude":8.871495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:als_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u064a\u0644 \u062f\u0631 \u0634\u062a\u0627\u062a"
+    ],
+    "name:arg_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u064a\u0644 \u062f\u0631 \u0634\u062a\u0627\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u06cc\u0644 \u0634\u0647\u0631"
+    ],
+    "name:bar_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0439\u043b\u044c-\u0434\u044d\u0440-\u0428\u0442\u0430\u0442"
+    ],
+    "name:bre_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:cat_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ceb_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ces_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"
+    ],
+    "name:cos_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:cym_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:dan_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:deu_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03b9\u03bb \u03bd\u03c4\u03b5\u03c1 \u03a3\u03c4\u03b1\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:epo_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:est_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:eus_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u0644 \u0634\u0647\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:fra_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:frp_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:fur_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:gla_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:gle_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:glg_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:gsw_x_preferred":[
+        "Weil dr Stadt"
+    ],
+    "name:hbs_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d9\u05dc"
+    ],
+    "name:hrv_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:hun_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0575\u056c \u0564\u0565\u0580 \u0547\u057f\u0561\u0564\u057f"
+    ],
+    "name:ido_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ile_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ina_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ind_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:isl_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ita_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30a4\u30eb\u30fb\u30c7\u30a2\u30fb\u30b7\u30e5\u30bf\u30c3\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10d8\u10da-\u10d3\u10d4\u10e0-\u10e8\u10e2\u10d0\u10d3\u10e2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"
+    ],
+    "name:kon_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc77c\ub370\uc5b4\uc288\ud0c0\ud2b8"
+    ],
+    "name:kur_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:lat_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:lat_x_variant":[
+        "Vuila"
+    ],
+    "name:lij_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:lim_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:lld_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:lmo_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ltz_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:min_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0458\u043b \u0434\u0435\u0440 \u0428\u0442\u0430\u0442"
+    ],
+    "name:mlg_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:msa_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:nap_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:nds_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:nld_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:nno_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:nob_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07e5\u07cd\u07df \u07d8\u07cd\u07d9 \u07db\u07d1\u07d5\u07ca\u07d8\u07d5"
+    ],
+    "name:nrm_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:oci_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:pcd_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:pms_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:pol_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:por_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:roh_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ron_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u0430\u0439\u043b \u0434\u0435\u0440 \u0428\u0442\u0430\u0434\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"
+    ],
+    "name:scn_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:sco_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:slk_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:slv_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:spa_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:srd_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0458\u043b \u0434\u0435\u0440 \u0428\u0442\u0430\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:swe_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"
+    ],
+    "name:tum_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:tur_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0439\u043b\u044c-\u0434\u0435\u0440-\u0428\u0442\u0430\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:vec_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:vie_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:vls_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:vol_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:war_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:wln_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:wol_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05d9\u05dc"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b4f\u5c14\u5fb7\u5c14\u65af\u5854\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Weil der Stadt"
+    ],
+    "nav:latitude":48.753554,
+    "nav:longitude":8.871495,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"B\u00f6blingen",
+    "qs:a2r":"Stuttgart",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Weil der Stadt",
+    "qs:la_lc":"*DE08101500050",
+    "qs:level":"locality",
+    "qs:loc":"Weil der Stadt",
+    "qs:loc_alt":"Weil der Stadt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555405,
+    "qs_pg:gn_pop":18942,
+    "qs_pg:name":"Gemeinde Weil der Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":421,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":907277,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623162,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":48.750833,
+    "wd:longitude":8.870556,
+    "wd:wordcount":578,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377686877,
+        404227549,
+        102063351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08115050",
+        "eurostat:nuts_2021_id":"08115050",
+        "fct:id":"075dd032-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2812625,
+        "gp:id":704676,
+        "loc:id":"n82093645",
+        "qs_pg:id":141591,
+        "wd:id":"Q505147",
+        "wk:page":"Weil der Stadt"
+    },
+    "wof:coterminous":[
+        1377686877
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c957ce2ec96cd39a4881827e36c962c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063351,
+            "localadmin_id":1377686877,
+            "locality_id":101761873,
+            "macrocounty_id":404227549,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101761873,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690872945,
+    "wof:name":"Weil der Stadt",
+    "wof:parent_id":1377686877,
+    "wof:placetype":"locality",
+    "wof:population":19220,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125350553,
+        1125345779
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.799385,
+    48.716916,
+    8.932253,
+    48.802431
+],
+  "geometry": {"coordinates":[[[[8.929062,48.73514],[8.930061,48.732833],[8.932253,48.732738],[8.932031,48.72992],[8.926409,48.730974],[8.920158,48.726666],[8.916247,48.727375],[8.914632,48.724789],[8.910862,48.725311],[8.909781,48.723442],[8.907099,48.723152],[8.906118,48.721457],[8.901322,48.716916],[8.895573,48.719766],[8.892056,48.718429],[8.887173,48.722199],[8.880933,48.722198],[8.879775,48.723476],[8.877826,48.723628],[8.878631,48.724773],[8.877253,48.725733],[8.873424,48.727602],[8.868995,48.72832],[8.864917,48.729897],[8.861829,48.73237],[8.858872,48.732956],[8.855855,48.734126],[8.854505,48.734619],[8.849707,48.735375],[8.842478,48.736014],[8.839301,48.735454],[8.836736,48.73609],[8.829203,48.736472],[8.829792,48.739578],[8.831221,48.740714],[8.832038,48.742068],[8.831023,48.742481],[8.831513,48.743262],[8.8335,48.743229],[8.833653,48.744707],[8.834384,48.746795],[8.835346,48.751281],[8.835623,48.752319],[8.835454,48.754098],[8.834151,48.755185],[8.830605,48.756643],[8.828019,48.757854],[8.825288,48.758919],[8.823512,48.76013],[8.820702,48.762116],[8.819268,48.763434],[8.817558,48.766183],[8.813637,48.765355],[8.811447,48.765727],[8.808375,48.767965],[8.804209,48.770753],[8.800817,48.772005],[8.80052,48.772334],[8.799385,48.773666],[8.799952,48.774952],[8.801228,48.776213],[8.804182,48.777778],[8.806593,48.77965],[8.807213,48.780577],[8.807797,48.781449],[8.811125,48.780861],[8.812203,48.781957],[8.813657,48.783994],[8.815749,48.786472],[8.816065,48.786783],[8.818328,48.788256],[8.826083,48.791963],[8.826417,48.792534],[8.827769,48.794777],[8.829766,48.795715],[8.83098,48.797236],[8.831627,48.797425],[8.832448,48.797698],[8.833068,48.797888],[8.833744,48.798033],[8.834448,48.798151],[8.835086,48.798206],[8.835711,48.798242],[8.837938,48.798797],[8.840729,48.799207],[8.84241,48.79943],[8.842866,48.798151],[8.843861,48.798109],[8.844764,48.795498],[8.846046,48.795023],[8.847476,48.792624],[8.850077,48.792996],[8.851973,48.792889],[8.853249,48.792611],[8.856114,48.792464],[8.860558,48.792701],[8.867769,48.79242],[8.869729,48.795264],[8.872569,48.796655],[8.878955,48.798691],[8.881622,48.799135],[8.884002,48.801283],[8.886864,48.802431],[8.889614,48.800825],[8.892705,48.799565],[8.894565,48.798513],[8.896098,48.798256],[8.891683,48.797554],[8.891875,48.796684],[8.894712,48.797355],[8.897456,48.795901],[8.894852,48.794757],[8.893332,48.793791],[8.88876,48.792492],[8.882669,48.786512],[8.883111,48.784683],[8.885423,48.783943],[8.88488,48.782244],[8.879583,48.782302],[8.882716,48.780189],[8.88275,48.774666],[8.884389,48.77451],[8.884152,48.773022],[8.888472,48.768336],[8.880044,48.76645],[8.877284,48.764755],[8.879242,48.763956],[8.879961,48.763202],[8.881014,48.762236],[8.883056,48.761376],[8.88551,48.762473],[8.905722,48.761415],[8.906463,48.757072],[8.907871,48.756126],[8.908062,48.754701],[8.909404,48.754506],[8.908968,48.752871],[8.906927,48.752878],[8.905923,48.749481],[8.907632,48.743407],[8.905533,48.743134],[8.905597,48.741174],[8.903773,48.740402],[8.902916,48.737934],[8.907071,48.739369],[8.909103,48.73876],[8.911834,48.740526],[8.911829,48.738988],[8.915226,48.739522],[8.91644,48.736481],[8.919915,48.737079],[8.920331,48.736015],[8.928064,48.737815],[8.929062,48.73514]]]],"type":"MultiPolygon"}
+}

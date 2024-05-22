@@ -1,1 +1,162 @@
-{"id": 101824621, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000129, "geom:area_square_m": 1016499.368261, "geom:bbox": "12.636191,50.493208,12.662649,50.507073", "geom:latitude": 50.500594, "geom:longitude": 12.650543, "gn:population": 2223, "iso:country": "DE", "lbl:latitude": 50.502966, "lbl:longitude": 12.64924, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 50.502966, "mps:longitude": 12.64924, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0417\u043e\u0437\u0430"], "name:cat_x_preferred": ["Sosa"], "name:ces_x_preferred": ["Sosa"], "name:che_x_preferred": ["\u0417\u043e\u0437\u0430"], "name:deu_x_preferred": ["Sosa"], "name:eng_x_preferred": ["Sosa"], "name:epo_x_preferred": ["Sosa"], "name:est_x_preferred": ["Sosa vald"], "name:fas_x_preferred": ["\u0633\u0648\u0632\u0627"], "name:fra_x_preferred": ["Sosa"], "name:gle_x_preferred": ["Sosa"], "name:ita_x_preferred": ["Sosa"], "name:mkd_x_preferred": ["\u0417\u043e\u0437\u0430"], "name:nld_x_preferred": ["Sosa"], "name:nob_x_preferred": ["Sosa"], "name:pol_x_preferred": ["Sosa"], "name:ron_x_preferred": ["Sosa"], "name:rus_x_preferred": ["\u0417\u043e\u0437\u0430"], "name:spa_x_preferred": ["Sosa"], "name:srp_x_preferred": ["\u0417\u043e\u0437\u0430"], "name:tat_x_preferred": ["\u0417\u043e\u0437\u0430"], "name:uzb_x_preferred": ["Sosa"], "name:vol_x_preferred": ["Sosa"], "name:war_x_preferred": ["Sosa"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen", "qs:a1r": "0", "qs:a2": "Erzgebirgskreis", "qs:a2r": "Chemnitz", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Eibenstock", "qs:la_lc": "*DE14109120120", "qs:level": "locality", "qs:loc": "Sosa", "qs:loc_alt": "Sosa", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": [], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wof:belongsto": [85682523, 102191581, 1377685451, 85633111, 102064211], "wof:breaches": [], "wof:concordances": {"fct:id": "0758b82c-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2830912, "gp:id": 12625667, "qs_pg:id": 828203, "wd:id": "Q58019"}, "wof:country": "DE", "wof:geomhash": "b13d8fd2abf2f9a8977f34cfd56b9bd7", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064211, "localadmin_id": 1377685451, "locality_id": 101824621, "region_id": 85682523}], "wof:id": 101824621, "wof:lang": ["ger"], "wof:lastmodified": 1690873138, "wof:name": "Sosa", "wof:parent_id": 1377685451, "wof:placetype": "locality", "wof:population": 2223, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.636191, 50.493208, 12.662649, 50.507073], "geometry": {"coordinates": [[[12.654907, 50.506878], [12.654857, 50.50598], [12.656266, 50.505947], [12.656215, 50.505049], [12.654806, 50.505082], [12.654756, 50.504183], [12.653347, 50.504216], [12.653195, 50.501521], [12.654604, 50.501488], [12.654401, 50.497895], [12.657218, 50.49783], [12.657168, 50.496931], [12.658576, 50.496899], [12.658526, 50.496001], [12.659934, 50.495968], [12.659883, 50.49507], [12.661292, 50.495037], [12.661241, 50.494139], [12.662649, 50.494106], [12.662599, 50.493208], [12.659782, 50.493273], [12.659833, 50.494171], [12.655607, 50.494269], [12.655557, 50.493371], [12.654148, 50.493403], [12.654249, 50.4952], [12.648616, 50.49533], [12.648818, 50.498923], [12.644592, 50.499021], [12.644642, 50.499919], [12.636191, 50.500114], [12.636241, 50.501012], [12.641875, 50.500882], [12.641926, 50.501781], [12.644743, 50.501716], [12.644894, 50.504411], [12.643486, 50.504443], [12.643536, 50.505342], [12.644945, 50.505309], [12.644995, 50.506208], [12.646404, 50.506175], [12.646455, 50.507073], [12.654907, 50.506878]]], "type": "Polygon"}}
+{
+  "id": 101824621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":1016499.368261,
+    "geom:bbox":"12.636191,50.493208,12.662649,50.507073",
+    "geom:latitude":50.500594,
+    "geom:longitude":12.650543,
+    "gn:population":2223,
+    "iso:country":"DE",
+    "lbl:latitude":50.502966,
+    "lbl:longitude":12.64924,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":50.502966,
+    "mps:longitude":12.64924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0417\u043e\u0437\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Sosa"
+    ],
+    "name:ces_x_preferred":[
+        "Sosa"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u043e\u0437\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Sosa"
+    ],
+    "name:eng_x_preferred":[
+        "Sosa"
+    ],
+    "name:epo_x_preferred":[
+        "Sosa"
+    ],
+    "name:est_x_preferred":[
+        "Sosa vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0632\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Sosa"
+    ],
+    "name:gle_x_preferred":[
+        "Sosa"
+    ],
+    "name:ita_x_preferred":[
+        "Sosa"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u043e\u0437\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Sosa"
+    ],
+    "name:nob_x_preferred":[
+        "Sosa"
+    ],
+    "name:pol_x_preferred":[
+        "Sosa"
+    ],
+    "name:ron_x_preferred":[
+        "Sosa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u0437\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Sosa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043e\u0437\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u043e\u0437\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Sosa"
+    ],
+    "name:vol_x_preferred":[
+        "Sosa"
+    ],
+    "name:war_x_preferred":[
+        "Sosa"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Erzgebirgskreis",
+    "qs:a2r":"Chemnitz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Eibenstock",
+    "qs:la_lc":"*DE14109120120",
+    "qs:level":"locality",
+    "qs:loc":"Sosa",
+    "qs:loc_alt":"Sosa",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682523,
+        102191581,
+        1377685451,
+        85633111,
+        102064211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0758b82c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2830912,
+        "gp:id":12625667,
+        "qs_pg:id":828203,
+        "wd:id":"Q58019"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"b13d8fd2abf2f9a8977f34cfd56b9bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064211,
+            "localadmin_id":1377685451,
+            "locality_id":101824621,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":101824621,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873138,
+    "wof:name":"Sosa",
+    "wof:parent_id":1377685451,
+    "wof:placetype":"locality",
+    "wof:population":2223,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.636191,
+    50.493208,
+    12.662649,
+    50.507073
+],
+  "geometry": {"coordinates":[[[12.654907,50.506878],[12.654857,50.50598],[12.656266,50.505947],[12.656215,50.505049],[12.654806,50.505082],[12.654756,50.504183],[12.653347,50.504216],[12.653195,50.501521],[12.654604,50.501488],[12.654401,50.497895],[12.657218,50.49783],[12.657168,50.496931],[12.658576,50.496899],[12.658526,50.496001],[12.659934,50.495968],[12.659883,50.49507],[12.661292,50.495037],[12.661241,50.494139],[12.662649,50.494106],[12.662599,50.493208],[12.659782,50.493273],[12.659833,50.494171],[12.655607,50.494269],[12.655557,50.493371],[12.654148,50.493403],[12.654249,50.4952],[12.648616,50.49533],[12.648818,50.498923],[12.644592,50.499021],[12.644642,50.499919],[12.636191,50.500114],[12.636241,50.501012],[12.641875,50.500882],[12.641926,50.501781],[12.644743,50.501716],[12.644894,50.504411],[12.643486,50.504443],[12.643536,50.505342],[12.644945,50.505309],[12.644995,50.506208],[12.646404,50.506175],[12.646455,50.507073],[12.654907,50.506878]]],"type":"Polygon"}
+}

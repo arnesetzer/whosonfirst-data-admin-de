@@ -1,1 +1,161 @@
-{"id": 101910523, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.6e-05, "geom:area_square_m": 438428.015608, "geom:bbox": "11.965102,51.110566,11.98119,51.121275", "geom:latitude": 51.116661, "geom:longitude": 11.972665, "gn:population": 626, "iso:country": "DE", "lbl:latitude": 51.117717, "lbl:longitude": 11.971873, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.117717, "mps:longitude": 11.971873, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"], "name:ceb_x_preferred": ["Krauschwitz"], "name:che_x_preferred": ["\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"], "name:deu_x_preferred": ["Krauschwitz"], "name:eng_x_preferred": ["Krauschwitz"], "name:epo_x_preferred": ["Krauschwitz"], "name:fas_x_preferred": ["\u06a9\u0631\u0627\u0648\u0634\u0648\u06cc\u062a\u0633"], "name:fra_x_preferred": ["Krauschwitz"], "name:gle_x_preferred": ["Krauschwitz"], "name:hbs_x_preferred": ["Krauschwitz"], "name:ita_x_preferred": ["Krauschwitz"], "name:mkd_x_preferred": ["\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"], "name:nld_x_preferred": ["Krauschwitz"], "name:pol_x_preferred": ["Krauschwitz"], "name:ron_x_preferred": ["Krauschwitz"], "name:rus_x_preferred": ["\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"], "name:srp_x_preferred": ["\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"], "name:tat_x_preferred": ["\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"], "name:ukr_x_preferred": ["\u041a\u0440\u0430\u0443\u0448\u0432\u0456\u0446"], "name:uzb_x_preferred": ["Krauschwitz"], "name:vie_x_preferred": ["Krauschwitz"], "name:vol_x_preferred": ["Krauschwitz"], "name:war_x_preferred": ["Krauschwitz"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Burgenlandkreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Krauschwitz", "qs:la_lc": "*DE15008407270", "qs:level": "locality", "qs:loc": "Krauschwitz", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 27, "wof:belongsto": [85682519, 102191581, 1377688459, 85633111, 102063747], "wof:breaches": [], "wof:concordances": {"gn:id": 2884657, "gp:id": 668407, "qs_pg:id": 578197, "wd:id": "Q673188", "wk:page": "Krauschwitz, Saxony-Anhalt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "a4fdfae12d5751924c4907cdd8475589", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063747, "localadmin_id": 1377688459, "locality_id": 101910523, "region_id": 85682519}], "wof:id": 101910523, "wof:lastmodified": 1690873967, "wof:name": "Krauschwitz", "wof:parent_id": 1377688459, "wof:placetype": "locality", "wof:population": 626, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.965102, 51.110566, 11.98119, 51.121275], "geometry": {"coordinates": [[[11.975556, 51.121251], [11.975479, 51.119454], [11.98119, 51.119357], [11.981113, 51.11756], [11.979685, 51.117584], [11.979647, 51.116685], [11.973936, 51.116783], [11.973898, 51.115884], [11.97247, 51.115908], [11.972432, 51.11501], [11.969576, 51.115058], [11.969385, 51.110566], [11.965102, 51.110638], [11.965179, 51.112435], [11.966606, 51.112411], [11.966645, 51.11331], [11.968072, 51.113285], [11.968225, 51.11688], [11.969653, 51.116855], [11.969768, 51.119551], [11.971196, 51.119527], [11.971234, 51.120425], [11.974089, 51.120377], [11.974128, 51.121275], [11.975556, 51.121251]]], "type": "Polygon"}}
+{
+  "id": 101910523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":438428.015608,
+    "geom:bbox":"11.965102,51.110566,11.98119,51.121275",
+    "geom:latitude":51.116661,
+    "geom:longitude":11.972665,
+    "gn:population":626,
+    "iso:country":"DE",
+    "lbl:latitude":51.117717,
+    "lbl:longitude":11.971873,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.117717,
+    "mps:longitude":11.971873,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"
+    ],
+    "name:deu_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:eng_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:epo_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u0648\u0634\u0648\u06cc\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:gle_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:hbs_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:ita_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"
+    ],
+    "name:nld_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:pol_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:ron_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0430\u0443\u0448\u0432\u0438\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0443\u0448\u0432\u0456\u0446"
+    ],
+    "name:uzb_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:vie_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:vol_x_preferred":[
+        "Krauschwitz"
+    ],
+    "name:war_x_preferred":[
+        "Krauschwitz"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Burgenlandkreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Krauschwitz",
+    "qs:la_lc":"*DE15008407270",
+    "qs:level":"locality",
+    "qs:loc":"Krauschwitz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688459,
+        85633111,
+        102063747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2884657,
+        "gp:id":668407,
+        "qs_pg:id":578197,
+        "wd:id":"Q673188",
+        "wk:page":"Krauschwitz, Saxony-Anhalt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"a4fdfae12d5751924c4907cdd8475589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063747,
+            "localadmin_id":1377688459,
+            "locality_id":101910523,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101910523,
+    "wof:lastmodified":1690873967,
+    "wof:name":"Krauschwitz",
+    "wof:parent_id":1377688459,
+    "wof:placetype":"locality",
+    "wof:population":626,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.965102,
+    51.110566,
+    11.98119,
+    51.121275
+],
+  "geometry": {"coordinates":[[[11.975556,51.121251],[11.975479,51.119454],[11.98119,51.119357],[11.981113,51.11756],[11.979685,51.117584],[11.979647,51.116685],[11.973936,51.116783],[11.973898,51.115884],[11.97247,51.115908],[11.972432,51.11501],[11.969576,51.115058],[11.969385,51.110566],[11.965102,51.110638],[11.965179,51.112435],[11.966606,51.112411],[11.966645,51.11331],[11.968072,51.113285],[11.968225,51.11688],[11.969653,51.116855],[11.969768,51.119551],[11.971196,51.119527],[11.971234,51.120425],[11.974089,51.120377],[11.974128,51.121275],[11.975556,51.121251]]],"type":"Polygon"}
+}

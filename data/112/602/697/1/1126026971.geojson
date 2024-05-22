@@ -1,1 +1,207 @@
-{"id": 1126026971, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_13075097", "eurostat:level_code": "lau", "eurostat:name_local": "Neu Boltenhagen", "eurostat:nuts_2021_id": "13075097", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE8", "eurostat:nuts_2021_level_2": "DE80", "eurostat:nuts_2021_level_3": "DE80N", "eurostat:nuts_2021_level_lau": "13075097", "eurostat:population": 568, "eurostat:population_year": 2020, "geom:area": 0.00336, "geom:area_square_m": 24382528.345056, "geom:bbox": "13.569893,54.02846,13.677549,54.08746", "geom:latitude": 54.062407, "geom:longitude": 13.618784, "gn:country": "DE", "gn:fcode": "PPLA4", "gn:population": 657, "iso:country": "DE", "lbl:latitude": 54.06667, "lbl:longitude": 13.61667, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:cat_x_preferred": ["Neu Boltenhagen"], "name:ceb_x_preferred": ["Neu Boltenhagen"], "name:che_x_preferred": ["\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"], "name:dan_x_preferred": ["Neu Boltenhagen"], "name:deu_x_preferred": ["Neu Boltenhagen"], "name:eng_x_preferred": ["Neu Boltenhagen"], "name:epo_x_preferred": ["Neu Boltenhagen"], "name:fas_x_preferred": ["\u0646\u0648\u06cc \u0628\u0648\u0644\u062a\u0646\u0647\u0627\u06af\u0646"], "name:fra_x_preferred": ["Neu Boltenhagen"], "name:hun_x_preferred": ["Neu Boltenhagen"], "name:ita_x_preferred": ["Neu Boltenhagen"], "name:kaz_x_preferred": ["\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"], "name:kir_x_preferred": ["\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"], "name:kur_x_preferred": ["Neu Boltenhagen"], "name:mkd_x_preferred": ["\u041d\u043e\u0458 \u0411\u043e\u043b\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"], "name:msa_x_preferred": ["Neu Boltenhagen"], "name:nld_x_preferred": ["Neu Boltenhagen"], "name:nob_x_preferred": ["Neu Boltenhagen"], "name:pol_x_preferred": ["Neu Boltenhagen"], "name:por_x_preferred": ["Neu Boltenhagen"], "name:ron_x_preferred": ["Neu Boltenhagen"], "name:rus_x_preferred": ["\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"], "name:spa_x_preferred": ["Neu Boltenhagen"], "name:srp_x_preferred": ["\u041d\u043e\u0458 \u0411\u043e\u043b\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"], "name:swe_x_preferred": ["Neu Boltenhagen"], "name:tat_x_preferred": ["\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"], "name:ukr_x_preferred": ["\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0433\u0430\u0433\u0435\u043d"], "name:und_x_variant": ["Boltenhagen"], "name:uzb_x_preferred": ["Neu Boltenhagen"], "name:vie_x_preferred": ["Neu Boltenhagen"], "name:vol_x_preferred": ["Neu Boltenhagen"], "name:war_x_preferred": ["Neu Boltenhagen"], "name:zho_x_preferred": ["\u8bfa\u4f0a\u535a\u5c14\u6ed5\u54c8\u6839"], "nav:latitude": 54.06667, "nav:longitude": 13.61667, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLA4", "qs_pg:gn_id": 2866152, "qs_pg:gn_pop": 657, "qs_pg:name": "Neu Boltenhagen", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 577704, "qs_pg:qs_pg_placetype": "locality", "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682487, 102191581, 1377685123, 85633111, 1377675571], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_13075097", "eurostat:nuts_2021_id": "13075097", "gn:id": 2866152, "qs_pg:id": 577704, "wd:id": "Q636999"}, "wof:country": "DE", "wof:created": 1497301202, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "1ad6580937f82619746e4bdcc163d92f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675571, "localadmin_id": 1377685123, "locality_id": 1126026971, "region_id": 85682487}], "wof:id": 1126026971, "wof:lastmodified": 1690874140, "wof:name": "Neu Boltenhagen", "wof:parent_id": 1377685123, "wof:placetype": "locality", "wof:population": 568, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125332131], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.569893, 54.02846, 13.677549, 54.08746], "geometry": {"coordinates": [[[[13.611396, 54.030073], [13.609948, 54.030118], [13.609323, 54.02992], [13.609064, 54.029689], [13.608586, 54.029225], [13.607903, 54.028719], [13.606834, 54.02846], [13.605547, 54.028539], [13.60463, 54.028705], [13.603825, 54.028749], [13.60277, 54.02868], [13.600711, 54.029825], [13.599698, 54.02952], [13.597736, 54.029954], [13.59367, 54.030738], [13.585817, 54.031112], [13.584758, 54.029107], [13.582651, 54.029114], [13.576859, 54.032044], [13.577677, 54.033453], [13.569893, 54.038669], [13.576747, 54.044209], [13.579797, 54.048862], [13.581807, 54.053909], [13.580858, 54.05689], [13.586079, 54.056195], [13.58632, 54.057224], [13.586347, 54.057604], [13.586253, 54.057987], [13.586033, 54.058301], [13.585497, 54.058719], [13.585357, 54.059032], [13.58539, 54.059483], [13.58535, 54.060055], [13.58515, 54.060654], [13.584859, 54.061113], [13.584802, 54.061448], [13.584834, 54.061899], [13.585025, 54.062298], [13.585255, 54.062697], [13.585496, 54.063238], [13.585652, 54.0639], [13.585761, 54.065435], [13.585976, 54.068441], [13.586014, 54.069309], [13.585895, 54.069907], [13.585536, 54.070534], [13.585075, 54.071449], [13.585121, 54.07209], [13.5853, 54.072895], [13.585728, 54.073788], [13.58607, 54.074612], [13.586119, 54.0753], [13.585916, 54.076423], [13.585274, 54.081088], [13.589084, 54.082216], [13.591701, 54.082871], [13.596835, 54.082543], [13.600557, 54.082728], [13.603503, 54.083289], [13.605908, 54.083588], [13.608934, 54.083567], [13.611154, 54.083404], [13.613625, 54.083747], [13.617857, 54.083713], [13.62185, 54.083958], [13.628884, 54.08439], [13.633704, 54.085079], [13.640877, 54.085752], [13.64304, 54.086049], [13.64638, 54.08636], [13.650007, 54.086619], [13.654757, 54.086958], [13.658369, 54.087217], [13.660633, 54.087439], [13.661567, 54.08746], [13.664051, 54.087352], [13.668167, 54.086969], [13.67074, 54.086608], [13.672018, 54.086425], [13.673947, 54.086044], [13.676058, 54.085705], [13.677549, 54.085525], [13.676613, 54.084759], [13.674236, 54.079415], [13.671391, 54.07367], [13.669563, 54.070863], [13.668549, 54.068714], [13.665637, 54.066048], [13.662428, 54.06163], [13.662722, 54.060633], [13.663565, 54.06045], [13.661899, 54.05669], [13.659567, 54.058232], [13.65578, 54.057636], [13.647992, 54.057077], [13.646902, 54.057842], [13.645721, 54.058195], [13.643987, 54.058517], [13.642365, 54.058702], [13.640869, 54.058928], [13.640167, 54.058721], [13.639644, 54.059103], [13.639061, 54.059702], [13.639041, 54.06026], [13.639086, 54.060681], [13.638416, 54.060707], [13.636588, 54.061202], [13.63513, 54.061545], [13.633666, 54.061581], [13.63242, 54.061253], [13.631236, 54.060528], [13.630136, 54.059683], [13.628857, 54.058691], [13.627896, 54.057438], [13.626609, 54.056553], [13.624892, 54.055626], [13.622419, 54.055013], [13.621082, 54.054705], [13.61972, 54.054451], [13.615292, 54.051523], [13.612276, 54.047616], [13.610946, 54.047596], [13.610653, 54.045859], [13.613796, 54.041789], [13.614475, 54.041664], [13.616716, 54.041186], [13.618353, 54.04101], [13.620484, 54.040912], [13.622136, 54.040727], [13.622965, 54.039951], [13.62388, 54.039074], [13.622226, 54.037542], [13.621668, 54.03637], [13.620816, 54.03471], [13.619767, 54.033514], [13.61849, 54.032736], [13.617818, 54.032322], [13.616925, 54.031157], [13.616138, 54.030413], [13.614587, 54.030074], [13.61279, 54.02993], [13.611396, 54.030073]]]], "type": "MultiPolygon"}}
+{
+  "id": 1126026971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_13075097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neu Boltenhagen",
+    "eurostat:nuts_2021_id":"13075097",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE8",
+    "eurostat:nuts_2021_level_2":"DE80",
+    "eurostat:nuts_2021_level_3":"DE80N",
+    "eurostat:nuts_2021_level_lau":"13075097",
+    "eurostat:population":568,
+    "eurostat:population_year":2020,
+    "geom:area":0.00336,
+    "geom:area_square_m":24382528.345056,
+    "geom:bbox":"13.569893,54.02846,13.677549,54.08746",
+    "geom:latitude":54.062407,
+    "geom:longitude":13.618784,
+    "gn:country":"DE",
+    "gn:fcode":"PPLA4",
+    "gn:population":657,
+    "iso:country":"DE",
+    "lbl:latitude":54.06667,
+    "lbl:longitude":13.61667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:ceb_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:deu_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:eng_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:epo_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc \u0628\u0648\u0644\u062a\u0646\u0647\u0627\u06af\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:hun_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:ita_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:kur_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0458 \u0411\u043e\u043b\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:nld_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:nob_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:pol_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:por_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:ron_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0458 \u0411\u043e\u043b\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439-\u0411\u043e\u043b\u044c\u0442\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Boltenhagen"
+    ],
+    "name:uzb_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:vie_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:vol_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:war_x_preferred":[
+        "Neu Boltenhagen"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u4f0a\u535a\u5c14\u6ed5\u54c8\u6839"
+    ],
+    "nav:latitude":54.06667,
+    "nav:longitude":13.61667,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLA4",
+    "qs_pg:gn_id":2866152,
+    "qs_pg:gn_pop":657,
+    "qs_pg:name":"Neu Boltenhagen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":577704,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377685123,
+        85633111,
+        1377675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_13075097",
+        "eurostat:nuts_2021_id":"13075097",
+        "gn:id":2866152,
+        "qs_pg:id":577704,
+        "wd:id":"Q636999"
+    },
+    "wof:country":"DE",
+    "wof:created":1497301202,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"1ad6580937f82619746e4bdcc163d92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675571,
+            "localadmin_id":1377685123,
+            "locality_id":1126026971,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":1126026971,
+    "wof:lastmodified":1690874140,
+    "wof:name":"Neu Boltenhagen",
+    "wof:parent_id":1377685123,
+    "wof:placetype":"locality",
+    "wof:population":568,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125332131
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.569893,
+    54.02846,
+    13.677549,
+    54.08746
+],
+  "geometry": {"coordinates":[[[[13.611396,54.030073],[13.609948,54.030118],[13.609323,54.02992],[13.609064,54.029689],[13.608586,54.029225],[13.607903,54.028719],[13.606834,54.02846],[13.605547,54.028539],[13.60463,54.028705],[13.603825,54.028749],[13.60277,54.02868],[13.600711,54.029825],[13.599698,54.02952],[13.597736,54.029954],[13.59367,54.030738],[13.585817,54.031112],[13.584758,54.029107],[13.582651,54.029114],[13.576859,54.032044],[13.577677,54.033453],[13.569893,54.038669],[13.576747,54.044209],[13.579797,54.048862],[13.581807,54.053909],[13.580858,54.05689],[13.586079,54.056195],[13.58632,54.057224],[13.586347,54.057604],[13.586253,54.057987],[13.586033,54.058301],[13.585497,54.058719],[13.585357,54.059032],[13.58539,54.059483],[13.58535,54.060055],[13.58515,54.060654],[13.584859,54.061113],[13.584802,54.061448],[13.584834,54.061899],[13.585025,54.062298],[13.585255,54.062697],[13.585496,54.063238],[13.585652,54.0639],[13.585761,54.065435],[13.585976,54.068441],[13.586014,54.069309],[13.585895,54.069907],[13.585536,54.070534],[13.585075,54.071449],[13.585121,54.07209],[13.5853,54.072895],[13.585728,54.073788],[13.58607,54.074612],[13.586119,54.0753],[13.585916,54.076423],[13.585274,54.081088],[13.589084,54.082216],[13.591701,54.082871],[13.596835,54.082543],[13.600557,54.082728],[13.603503,54.083289],[13.605908,54.083588],[13.608934,54.083567],[13.611154,54.083404],[13.613625,54.083747],[13.617857,54.083713],[13.62185,54.083958],[13.628884,54.08439],[13.633704,54.085079],[13.640877,54.085752],[13.64304,54.086049],[13.64638,54.08636],[13.650007,54.086619],[13.654757,54.086958],[13.658369,54.087217],[13.660633,54.087439],[13.661567,54.08746],[13.664051,54.087352],[13.668167,54.086969],[13.67074,54.086608],[13.672018,54.086425],[13.673947,54.086044],[13.676058,54.085705],[13.677549,54.085525],[13.676613,54.084759],[13.674236,54.079415],[13.671391,54.07367],[13.669563,54.070863],[13.668549,54.068714],[13.665637,54.066048],[13.662428,54.06163],[13.662722,54.060633],[13.663565,54.06045],[13.661899,54.05669],[13.659567,54.058232],[13.65578,54.057636],[13.647992,54.057077],[13.646902,54.057842],[13.645721,54.058195],[13.643987,54.058517],[13.642365,54.058702],[13.640869,54.058928],[13.640167,54.058721],[13.639644,54.059103],[13.639061,54.059702],[13.639041,54.06026],[13.639086,54.060681],[13.638416,54.060707],[13.636588,54.061202],[13.63513,54.061545],[13.633666,54.061581],[13.63242,54.061253],[13.631236,54.060528],[13.630136,54.059683],[13.628857,54.058691],[13.627896,54.057438],[13.626609,54.056553],[13.624892,54.055626],[13.622419,54.055013],[13.621082,54.054705],[13.61972,54.054451],[13.615292,54.051523],[13.612276,54.047616],[13.610946,54.047596],[13.610653,54.045859],[13.613796,54.041789],[13.614475,54.041664],[13.616716,54.041186],[13.618353,54.04101],[13.620484,54.040912],[13.622136,54.040727],[13.622965,54.039951],[13.62388,54.039074],[13.622226,54.037542],[13.621668,54.03637],[13.620816,54.03471],[13.619767,54.033514],[13.61849,54.032736],[13.617818,54.032322],[13.616925,54.031157],[13.616138,54.030413],[13.614587,54.030074],[13.61279,54.02993],[13.611396,54.030073]]]],"type":"MultiPolygon"}
+}

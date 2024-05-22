@@ -1,1 +1,90 @@
-{"id": 102550051, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "12.8667,48.4167,12.8667,48.4167", "geom:latitude": 48.4167, "geom:longitude": 12.8667, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 13.0, "name:deu_x_preferred": ["Flugplatz Pfarrkirchen"], "name:eng_x_preferred": ["Pfarrkirchen Airport"], "name:eng_x_variant": ["EDNP", "Pfarrkirchen airfield"], "name:msa_x_preferred": ["Lapangan Terbang Pfarrkirchen"], "oa:elevation_ft": "1266", "oa:type": "small_airport", "src:geom": "wikidata", "src:geom_alt": [], "woe:hierarchy": {"country_id": 23424829, "county_id": 12596743, "localadmin_id": 12622984, "planet_id": 1, "state_id": 2345482}, "wof:belongsto": [102191581, 404227559, 1377685157, 85633111, 101784251, 102063315, 85682571], "wof:breaches": [], "wof:concordances": {"gp:id": 56051956, "icao:code": "EDNP", "oa:id": "28692", "wd:id": "Q1433795"}, "wof:country": "DE", "wof:geomhash": "e2a09d58e6eed8d307fb3fc062fba991", "wof:hierarchy": [{"campus_id": 102550051, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063315, "localadmin_id": 1377685157, "locality_id": 101784251, "macrocounty_id": 404227559, "neighbourhood_id": -1, "region_id": 85682571}], "wof:id": 102550051, "wof:lastmodified": 1690870970, "wof:name": "Sportflugplatz Pfarrkirchen", "wof:parent_id": 101784251, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [12.8667, 48.4167, 12.8667, 48.4167], "geometry": {"coordinates": [12.8667, 48.4167], "type": "Point"}}
+{
+  "id": 102550051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8667,48.4167,12.8667,48.4167",
+    "geom:latitude":48.4167,
+    "geom:longitude":12.8667,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flugplatz Pfarrkirchen"
+    ],
+    "name:eng_x_preferred":[
+        "Pfarrkirchen Airport"
+    ],
+    "name:eng_x_variant":[
+        "EDNP",
+        "Pfarrkirchen airfield"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Pfarrkirchen"
+    ],
+    "oa:elevation_ft":"1266",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596743,
+        "localadmin_id":12622984,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        102191581,
+        404227559,
+        1377685157,
+        85633111,
+        101784251,
+        102063315,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051956,
+        "icao:code":"EDNP",
+        "oa:id":"28692",
+        "wd:id":"Q1433795"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"e2a09d58e6eed8d307fb3fc062fba991",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550051,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063315,
+            "localadmin_id":1377685157,
+            "locality_id":101784251,
+            "macrocounty_id":404227559,
+            "neighbourhood_id":-1,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102550051,
+    "wof:lastmodified":1690870970,
+    "wof:name":"Sportflugplatz Pfarrkirchen",
+    "wof:parent_id":101784251,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.8667,
+    48.4167,
+    12.8667,
+    48.4167
+],
+  "geometry": {"coordinates":[12.8667,48.4167],"type":"Point"}
+}

@@ -1,1 +1,76 @@
-{"id": 1360307309, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "9.61424,51.81249,9.61424,51.81249", "geom:latitude": 51.81249, "geom:longitude": 9.61424, "gn:admin1_code": "6", "gn:admin2_code": "0.0", "gn:admin3_code": "3255.0", "gn:admin4_code": "3255018.0", "gn:asciiname": "Hellental", "gn:country_code": "DE", "gn:dem": 299, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2906845, "gn:latitude": 51.81249, "gn:longitude": 9.61424, "gn:modification_date": "2015-09-04", "gn:name": "Hellental", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "9.59424,51.79249,9.63424,51.83249", "lbl:max_zoom": 18.0, "lbl:min_zoom": 13.5, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 12.0, "src:geom": "geonames", "wof:belongsto": [85682555, 102191581, 1377686847, 85633111, 102063853], "wof:breaches": [], "wof:concordances": {"gn:id": 2906845}, "wof:country": "DE", "wof:geomhash": "74569e76cfb24f2d7afb40f7a7411de3", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063853, "localadmin_id": 1377686847, "locality_id": 1360307309, "region_id": 85682555}], "wof:id": 1360307309, "wof:lastmodified": 1566713256, "wof:name": "Hellental", "wof:parent_id": 1377686847, "wof:placetype": "locality", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.61424, 51.81249, 9.61424, 51.81249], "geometry": {"coordinates": [9.61424, 51.81249], "type": "Point"}}
+{
+  "id": 1360307309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61424,51.81249,9.61424,51.81249",
+    "geom:latitude":51.81249,
+    "geom:longitude":9.61424,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"3255.0",
+    "gn:admin4_code":"3255018.0",
+    "gn:asciiname":"Hellental",
+    "gn:country_code":"DE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2906845,
+    "gn:latitude":51.81249,
+    "gn:longitude":9.61424,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"Hellental",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"9.59424,51.79249,9.63424,51.83249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377686847,
+        85633111,
+        102063853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2906845
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"74569e76cfb24f2d7afb40f7a7411de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063853,
+            "localadmin_id":1377686847,
+            "locality_id":1360307309,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":1360307309,
+    "wof:lastmodified":1566713256,
+    "wof:name":"Hellental",
+    "wof:parent_id":1377686847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61424,
+    51.81249,
+    9.61424,
+    51.81249
+],
+  "geometry": {"coordinates":[9.61424,51.81249],"type":"Point"}
+}

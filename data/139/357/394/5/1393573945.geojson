@@ -1,1 +1,90 @@
-{"id": 1393573945, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "7.13551,52.08987,7.13551,52.08987", "geom:latitude": 52.08987, "geom:longitude": 7.13551, "gn:admin1_code": "7", "gn:admin2_code": "55.0", "gn:admin3_code": "5554.0", "gn:admin4_code": "5554052.0", "gn:asciiname": "Gemen", "gn:country_code": "DE", "gn:dem": 62, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2921400, "gn:latitude": 52.08987, "gn:longitude": 7.13551, "gn:modification_date": "2015-09-04", "gn:name": "Gemen", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "7.13051,52.08487,7.14051,52.09487", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:bul_x_preferred": ["\u0413\u043e\u0441\u043f\u043e\u0434\u0441\u0442\u0432\u043e \u0413\u0435\u043c\u0435\u043d"], "name:deu_x_preferred": ["Herrschaft Gemen"], "name:nld_x_preferred": ["Rijksheerlijkheid Gemen"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377690897, 404227553, 101807569, 102063893, 85682513], "wof:breaches": [], "wof:concordances": {"gn:id": 2921400}, "wof:country": "DE", "wof:geomhash": "56d54fbe97855b762ce24ad79211fdd3", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063893, "localadmin_id": 1377690897, "locality_id": 101807569, "macrocounty_id": 404227553, "neighbourhood_id": 1393573945, "region_id": 85682513}], "wof:id": 1393573945, "wof:lastmodified": 1566715565, "wof:name": "Gemen", "wof:parent_id": 101807569, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1343782853], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.13551, 52.08987, 7.13551, 52.08987], "geometry": {"coordinates": [7.13551, 52.08987], "type": "Point"}}
+{
+  "id": 1393573945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.13551,52.08987,7.13551,52.08987",
+    "geom:latitude":52.08987,
+    "geom:longitude":7.13551,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5554.0",
+    "gn:admin4_code":"5554052.0",
+    "gn:asciiname":"Gemen",
+    "gn:country_code":"DE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2921400,
+    "gn:latitude":52.08987,
+    "gn:longitude":7.13551,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"Gemen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"7.13051,52.08487,7.14051,52.09487",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0441\u043f\u043e\u0434\u0441\u0442\u0432\u043e \u0413\u0435\u043c\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Herrschaft Gemen"
+    ],
+    "name:nld_x_preferred":[
+        "Rijksheerlijkheid Gemen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377690897,
+        404227553,
+        101807569,
+        102063893,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2921400
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"56d54fbe97855b762ce24ad79211fdd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063893,
+            "localadmin_id":1377690897,
+            "locality_id":101807569,
+            "macrocounty_id":404227553,
+            "neighbourhood_id":1393573945,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1393573945,
+    "wof:lastmodified":1566715565,
+    "wof:name":"Gemen",
+    "wof:parent_id":101807569,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343782853
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.13551,
+    52.08987,
+    7.13551,
+    52.08987
+],
+  "geometry": {"coordinates":[7.13551,52.08987],"type":"Point"}
+}

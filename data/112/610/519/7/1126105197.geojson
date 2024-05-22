@@ -1,1 +1,126 @@
-{"id": 1126105197, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.792862,51.384919,6.792862,51.384919", "geom:latitude": 51.384919, "geom:longitude": 6.792862, "gn:country": "DE", "gn:fcode": "PPL", "gn:latitude": 51.38333, "gn:longitude": 6.76667, "gn:population": 0, "iso:country": "DE", "lbl:bbox": "6.787862,51.379919,6.797862,51.389919", "lbl:latitude": 51.384919, "lbl:longitude": 6.792862, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 14.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "mz:tier_metro": 30, "name:ceb_x_preferred": ["Hatert"], "name:deu_x_preferred": ["Am Sittardsberg"], "name:fra_x_preferred": ["Hatert"], "name:nld_x_preferred": ["Hatert"], "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPL", "qs_pg:gn_id": 2956320, "qs_pg:gn_pop": 0, "qs_pg:name": "Am Sittardsberg", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Nordrhein-Westfalen", "qs_pg:photos": 381, "qs_pg:photos_1k": 77, "qs_pg:photos_9k": 2, "qs_pg:photos_9r": 5, "qs_pg:photos_all": 381, "qs_pg:photos_sr": 6, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1117170, "qs_pg:qs_pg_placetype": "neighbourhood", "qs_pg:qs_pg_placetype_gp": "Suburb", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 634957, "src:geom": "whosonfirst", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "whosonfirst", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Nordrhein-Westfalen", "woe:placetype": "Suburb", "wof:belongsto": [102191581, 85633111, 1377689405, 404227561, 101748713, 102063799, 85682513], "wof:breaches": [], "wof:concordances": {"gn:id": 2956320, "gp:id": 634957, "qs_pg:id": 1117170, "wk:page": "Hatert"}, "wof:country": "DE", "wof:created": 1497316802, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "e8c8502d5301d4ff3dca3bb9b988e92d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063799, "localadmin_id": 1377689405, "locality_id": 101748713, "macrocounty_id": 404227561, "neighbourhood_id": 1126105197, "region_id": 85682513}], "wof:id": 1126105197, "wof:lastmodified": 1582342977, "wof:name": "Am Sittardsberg", "wof:parent_id": 101748713, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [85794729], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.792862, 51.384919, 6.792862, 51.384919], "geometry": {"coordinates": [6.792862, 51.384919], "type": "Point"}}
+{
+  "id": 1126105197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.792862,51.384919,6.792862,51.384919",
+    "geom:latitude":51.384919,
+    "geom:longitude":6.792862,
+    "gn:country":"DE",
+    "gn:fcode":"PPL",
+    "gn:latitude":51.38333,
+    "gn:longitude":6.76667,
+    "gn:population":0,
+    "iso:country":"DE",
+    "lbl:bbox":"6.787862,51.379919,6.797862,51.389919",
+    "lbl:latitude":51.384919,
+    "lbl:longitude":6.792862,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Hatert"
+    ],
+    "name:deu_x_preferred":[
+        "Am Sittardsberg"
+    ],
+    "name:fra_x_preferred":[
+        "Hatert"
+    ],
+    "name:nld_x_preferred":[
+        "Hatert"
+    ],
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2956320,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Am Sittardsberg",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Nordrhein-Westfalen",
+    "qs_pg:photos":381,
+    "qs_pg:photos_1k":77,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":381,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117170,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":634957,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Nordrhein-Westfalen",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689405,
+        404227561,
+        101748713,
+        102063799,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2956320,
+        "gp:id":634957,
+        "qs_pg:id":1117170,
+        "wk:page":"Hatert"
+    },
+    "wof:country":"DE",
+    "wof:created":1497316802,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"e8c8502d5301d4ff3dca3bb9b988e92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063799,
+            "localadmin_id":1377689405,
+            "locality_id":101748713,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1126105197,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1126105197,
+    "wof:lastmodified":1582342977,
+    "wof:name":"Am Sittardsberg",
+    "wof:parent_id":101748713,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85794729
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.792862,
+    51.384919,
+    6.792862,
+    51.384919
+],
+  "geometry": {"coordinates":[6.792862,51.384919],"type":"Point"}
+}

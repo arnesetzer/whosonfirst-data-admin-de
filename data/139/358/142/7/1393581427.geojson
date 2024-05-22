@@ -1,1 +1,108 @@
-{"id": 1393581427, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.25603,49.83129,10.25603,49.83129", "geom:latitude": 49.83129, "geom:longitude": 10.25603, "gn:admin1_code": "2", "gn:admin2_code": "96.0", "gn:admin3_code": "9675.0", "gn:admin4_code": "9675174.0", "gn:asciiname": "Dimbach", "gn:country_code": "DE", "gn:dem": 230, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2936953, "gn:latitude": 49.83129, "gn:longitude": 10.25603, "gn:modification_date": "2013-02-19", "gn:name": "Dimbach", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.25103,49.82629,10.26103,49.83629", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Dimbach"], "name:deu_x_preferred": ["Dimbach"], "name:fra_x_preferred": ["Dimbach"], "name:ita_x_preferred": ["Dimbach"], "name:nld_x_preferred": ["Dimbach"], "name:pol_x_preferred": ["Dimbach"], "name:rus_x_preferred": ["\u0414\u0438\u043c\u0431\u0430\u0445"], "name:swe_x_preferred": ["Dimbach"], "name:vol_x_preferred": ["Dimbach"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377691223, 404227569, 101813201, 102063531, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2936953}, "wof:country": "DE", "wof:geomhash": "c8bc0ee2d085437e5130483f318e3840", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063531, "localadmin_id": 1377691223, "locality_id": 101813201, "macrocounty_id": 404227569, "neighbourhood_id": 1393581427, "region_id": 85682571}], "wof:id": 1393581427, "wof:lastmodified": 1566716093, "wof:name": "Dimbach", "wof:parent_id": 101813201, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1343860923], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.25603, 49.83129, 10.25603, 49.83129], "geometry": {"coordinates": [10.25603, 49.83129], "type": "Point"}}
+{
+  "id": 1393581427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25603,49.83129,10.25603,49.83129",
+    "geom:latitude":49.83129,
+    "geom:longitude":10.25603,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"96.0",
+    "gn:admin3_code":"9675.0",
+    "gn:admin4_code":"9675174.0",
+    "gn:asciiname":"Dimbach",
+    "gn:country_code":"DE",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2936953,
+    "gn:latitude":49.83129,
+    "gn:longitude":10.25603,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Dimbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.25103,49.82629,10.26103,49.83629",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Dimbach"
+    ],
+    "name:deu_x_preferred":[
+        "Dimbach"
+    ],
+    "name:fra_x_preferred":[
+        "Dimbach"
+    ],
+    "name:ita_x_preferred":[
+        "Dimbach"
+    ],
+    "name:nld_x_preferred":[
+        "Dimbach"
+    ],
+    "name:pol_x_preferred":[
+        "Dimbach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043c\u0431\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Dimbach"
+    ],
+    "name:vol_x_preferred":[
+        "Dimbach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377691223,
+        404227569,
+        101813201,
+        102063531,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2936953
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"c8bc0ee2d085437e5130483f318e3840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063531,
+            "localadmin_id":1377691223,
+            "locality_id":101813201,
+            "macrocounty_id":404227569,
+            "neighbourhood_id":1393581427,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393581427,
+    "wof:lastmodified":1566716093,
+    "wof:name":"Dimbach",
+    "wof:parent_id":101813201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343860923
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25603,
+    49.83129,
+    10.25603,
+    49.83129
+],
+  "geometry": {"coordinates":[10.25603,49.83129],"type":"Point"}
+}

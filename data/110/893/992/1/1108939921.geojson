@@ -1,1 +1,88 @@
-{"id": 1108939921, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.76412257024,50.1585172693,8.76412257024,50.1585172693", "geom:latitude": 50.158517, "geom:longitude": 8.764123, "iso:country": "DE", "lbl:bbox": "8.75912257024,50.1535172693,8.76912257024,50.1635172693", "lbl:latitude": 50.158517, "lbl:longitude": 8.764123, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 14.0, "mz:min_zoom": 12.0, "mz:tier_metro": 30, "name:ceb_x_preferred": ["Bergen-Enkheim"], "name:deu_x_preferred": ["Frankfurt-Bergen-Enkheim"], "name:fas_x_preferred": ["\u0628\u0631\u06af\u0646-\u0646\u06a9\u0647\u0627\u06cc\u0645"], "name:fra_x_preferred": ["Bergen-Enkheim"], "name:nld_x_preferred": ["Frankfurt-Bergen-Enkheim"], "name:pol_x_preferred": ["Bergen-Enkheim"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377692799, 404227581, 101913837, 102063589, 85682531], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491361414, "wof:geomhash": "5a570e48750d7f27c16aba9484e4d760", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063589, "localadmin_id": 1377692799, "locality_id": 101913837, "macrocounty_id": 404227581, "neighbourhood_id": 1108939921, "region_id": 85682531}], "wof:id": 1108939921, "wof:lastmodified": 1566713047, "wof:name": "Bergen-Enkheim", "wof:parent_id": 101913837, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.76412257024152, 50.15851726930292, 8.76412257024152, 50.15851726930292], "geometry": {"coordinates": [8.76412257024152, 50.15851726930292], "type": "Point"}}
+{
+  "id": 1108939921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76412257024,50.1585172693,8.76412257024,50.1585172693",
+    "geom:latitude":50.158517,
+    "geom:longitude":8.764123,
+    "iso:country":"DE",
+    "lbl:bbox":"8.75912257024,50.1535172693,8.76912257024,50.1635172693",
+    "lbl:latitude":50.158517,
+    "lbl:longitude":8.764123,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":14.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Bergen-Enkheim"
+    ],
+    "name:deu_x_preferred":[
+        "Frankfurt-Bergen-Enkheim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06af\u0646-\u0646\u06a9\u0647\u0627\u06cc\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Bergen-Enkheim"
+    ],
+    "name:nld_x_preferred":[
+        "Frankfurt-Bergen-Enkheim"
+    ],
+    "name:pol_x_preferred":[
+        "Bergen-Enkheim"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377692799,
+        404227581,
+        101913837,
+        102063589,
+        85682531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491361414,
+    "wof:geomhash":"5a570e48750d7f27c16aba9484e4d760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063589,
+            "localadmin_id":1377692799,
+            "locality_id":101913837,
+            "macrocounty_id":404227581,
+            "neighbourhood_id":1108939921,
+            "region_id":85682531
+        }
+    ],
+    "wof:id":1108939921,
+    "wof:lastmodified":1566713047,
+    "wof:name":"Bergen-Enkheim",
+    "wof:parent_id":101913837,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76412257024152,
+    50.15851726930292,
+    8.76412257024152,
+    50.15851726930292
+],
+  "geometry": {"coordinates":[8.76412257024152,50.15851726930292],"type":"Point"}
+}

@@ -1,1 +1,146 @@
-{"id": 1126089473, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "14.67224,52.1455,14.67224,52.1455", "geom:latitude": 52.1455, "geom:longitude": 14.67224, "gn:country": "DE", "gn:fcode": "PPLX", "gn:population": 0, "iso:country": "DE", "lbl:bbox": "14.66724,52.1405,14.67724,52.1505", "lbl:latitude": 52.1455, "lbl:longitude": 14.67224, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:als_x_preferred": ["F\u00fcrstenberg"], "name:ceb_x_preferred": ["F\u00fcrstenberg"], "name:deu_x_preferred": ["F\u00fcrstenberg"], "name:epo_x_preferred": ["F\u00fcrstenberg"], "name:est_x_preferred": ["F\u00fcrstenberg"], "name:fra_x_preferred": ["F\u00fcrstenberg"], "name:heb_x_preferred": ["\u05e4\u05d9\u05e8\u05e1\u05d8\u05e0\u05d1\u05e8\u05d2"], "name:ita_x_preferred": ["F\u00fcrstenberg"], "name:jpn_x_preferred": ["\u30d5\u30e5\u30eb\u30b9\u30c6\u30f3\u30d9\u30eb\u30af"], "name:kor_x_preferred": ["\ud4cc\ub974\uc2a4\ud150\ubca0\ub974\ud06c"], "name:lav_x_preferred": ["Fon Firstenbergs"], "name:mkd_x_preferred": ["\u0424\u0438\u0440\u0441\u0442\u0435\u043d\u0431\u0435\u0440\u0433"], "name:nld_x_preferred": ["F\u00fcrstenberg"], "name:pol_x_preferred": ["F\u00fcrstenberg"], "name:rus_x_preferred": ["\u0424\u044e\u0440\u0441\u0442\u0435\u043d\u0431\u0435\u0440\u0433"], "name:swe_x_preferred": ["F\u00fcrstenberg"], "name:und_x_variant": ["F\u00fcrstenberg Oder"], "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLX", "qs_pg:gn_id": 2923636, "qs_pg:gn_pop": 0, "qs_pg:name": "F\u00fcrstenberg", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Bundesland Brandenburg", "qs_pg:photos": 221, "qs_pg:photos_1k": 45, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 221, "qs_pg:photos_sr": 4, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1080560, "qs_pg:qs_pg_placetype": "neighbourhood", "qs_pg:qs_pg_placetype_gp": "Suburb", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 651174, "src:geom": "qs_pg", "src:lbl_centroid": "qs_pg", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Bundesland Brandenburg", "woe:placetype": "Suburb", "wof:belongsto": [102191581, 1377683509, 85633111, 101819681, 102063935, 85682553], "wof:breaches": [], "wof:concordances": {"gn:id": 2923636, "gp:id": 651174, "qs_pg:id": 1080560}, "wof:country": "DE", "wof:created": 1497313446, "wof:geomhash": "db650eb98b5f4598e23e10c60054c9ca", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063935, "localadmin_id": 1377683509, "locality_id": 101819681, "neighbourhood_id": 1126089473, "region_id": 85682553}], "wof:id": 1126089473, "wof:lastmodified": 1566720586, "wof:name": "F\u00fcrstenberg", "wof:parent_id": 101819681, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [14.67224, 52.1455, 14.67224, 52.1455], "geometry": {"coordinates": [14.67224, 52.1455], "type": "Point"}}
+{
+  "id": 1126089473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67224,52.1455,14.67224,52.1455",
+    "geom:latitude":52.1455,
+    "geom:longitude":14.67224,
+    "gn:country":"DE",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
+    "iso:country":"DE",
+    "lbl:bbox":"14.66724,52.1405,14.67724,52.1505",
+    "lbl:latitude":52.1455,
+    "lbl:longitude":14.67224,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:ceb_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:deu_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:epo_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:est_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:fra_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e8\u05e1\u05d8\u05e0\u05d1\u05e8\u05d2"
+    ],
+    "name:ita_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e5\u30eb\u30b9\u30c6\u30f3\u30d9\u30eb\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ud4cc\ub974\uc2a4\ud150\ubca0\ub974\ud06c"
+    ],
+    "name:lav_x_preferred":[
+        "Fon Firstenbergs"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0438\u0440\u0441\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:pol_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u044e\u0440\u0441\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00fcrstenberg"
+    ],
+    "name:und_x_variant":[
+        "F\u00fcrstenberg Oder"
+    ],
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2923636,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"F\u00fcrstenberg",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Bundesland Brandenburg",
+    "qs_pg:photos":221,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":221,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080560,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":651174,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Bundesland Brandenburg",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        1377683509,
+        85633111,
+        101819681,
+        102063935,
+        85682553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2923636,
+        "gp:id":651174,
+        "qs_pg:id":1080560
+    },
+    "wof:country":"DE",
+    "wof:created":1497313446,
+    "wof:geomhash":"db650eb98b5f4598e23e10c60054c9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063935,
+            "localadmin_id":1377683509,
+            "locality_id":101819681,
+            "neighbourhood_id":1126089473,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":1126089473,
+    "wof:lastmodified":1566720586,
+    "wof:name":"F\u00fcrstenberg",
+    "wof:parent_id":101819681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67224,
+    52.1455,
+    14.67224,
+    52.1455
+],
+  "geometry": {"coordinates":[14.67224,52.1455],"type":"Point"}
+}

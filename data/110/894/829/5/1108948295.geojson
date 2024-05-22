@@ -1,1 +1,70 @@
-{"id": 1108948295, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.73247799561,51.5314009751,6.73247799561,51.5314009751", "geom:latitude": 51.531401, "geom:longitude": 6.732478, "iso:country": "DE", "lbl:bbox": "6.72747799561,51.5264009751,6.73747799561,51.5364009751", "lbl:latitude": 51.531401, "lbl:longitude": 6.732478, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 13.0, "mz:min_zoom": 12.0, "mz:tier_metro": 30, "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377689405, 404227561, 101748713, 102063799, 85682513], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491366904, "wof:geomhash": "7e102c15da6eee4989ec3477489be13c", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063799, "localadmin_id": 1377689405, "locality_id": 101748713, "macrocounty_id": 404227561, "neighbourhood_id": 1108948295, "region_id": 85682513}], "wof:id": 1108948295, "wof:lastmodified": 1566712961, "wof:name": "Walsum", "wof:parent_id": 101748713, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.7324779956099, 51.53140097511847, 6.7324779956099, 51.53140097511847], "geometry": {"coordinates": [6.7324779956099, 51.53140097511847], "type": "Point"}}
+{
+  "id": 1108948295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73247799561,51.5314009751,6.73247799561,51.5314009751",
+    "geom:latitude":51.531401,
+    "geom:longitude":6.732478,
+    "iso:country":"DE",
+    "lbl:bbox":"6.72747799561,51.5264009751,6.73747799561,51.5364009751",
+    "lbl:latitude":51.531401,
+    "lbl:longitude":6.732478,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":13.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689405,
+        404227561,
+        101748713,
+        102063799,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491366904,
+    "wof:geomhash":"7e102c15da6eee4989ec3477489be13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063799,
+            "localadmin_id":1377689405,
+            "locality_id":101748713,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1108948295,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1108948295,
+    "wof:lastmodified":1566712961,
+    "wof:name":"Walsum",
+    "wof:parent_id":101748713,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7324779956099,
+    51.53140097511847,
+    6.7324779956099,
+    51.53140097511847
+],
+  "geometry": {"coordinates":[6.7324779956099,51.53140097511847],"type":"Point"}
+}

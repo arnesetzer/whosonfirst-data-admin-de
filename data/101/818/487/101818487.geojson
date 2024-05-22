@@ -1,1 +1,389 @@
-{"id": 101818487, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_03355040", "eurostat:level_code": "lau", "eurostat:name_local": "Wendisch Evern", "eurostat:nuts_2021_id": "03355040", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE9", "eurostat:nuts_2021_level_2": "DE93", "eurostat:nuts_2021_level_3": "DE935", "eurostat:nuts_2021_level_lau": "03355040", "eurostat:population": 1761, "eurostat:population_year": 2020, "geom:area": 0.002005, "geom:area_square_m": 14849954.798189, "geom:bbox": "10.436703,53.18674,10.509027,53.229578", "geom:latitude": 53.210268, "geom:longitude": 10.475718, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 1754, "iso:country": "DE", "lbl:latitude": 53.214524, "lbl:longitude": 10.473717, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 53.214524, "mps:longitude": 10.473717, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Wendisch Evern"], "name:arg_x_preferred": ["Wendisch Evern"], "name:ast_x_preferred": ["Wendisch Evern"], "name:bar_x_preferred": ["Wendisch Evern"], "name:bre_x_preferred": ["Wendisch Evern"], "name:cat_x_preferred": ["Wendisch Evern"], "name:ceb_x_preferred": ["Wendisch Evern"], "name:ces_x_preferred": ["Wendisch Evern"], "name:che_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0432\u0435\u0440\u043d"], "name:cos_x_preferred": ["Wendisch Evern"], "name:cym_x_preferred": ["Wendisch Evern"], "name:dan_x_preferred": ["Wendisch Evern"], "name:deu_x_preferred": ["Wendisch Evern"], "name:eng_x_preferred": ["Wendisch Evern"], "name:epo_x_preferred": ["Wendisch Evern"], "name:est_x_preferred": ["Wendisch Evern"], "name:eus_x_preferred": ["Wendisch Evern"], "name:fas_x_preferred": ["\u0648\u0646\u062f\u06cc\u0634 \u0641\u0631\u0646"], "name:fin_x_preferred": ["Wendisch Evern"], "name:fra_x_preferred": ["Wendisch Evern"], "name:frp_x_preferred": ["Wendisch Evern"], "name:fur_x_preferred": ["Wendisch Evern"], "name:gla_x_preferred": ["Wendisch Evern"], "name:gle_x_preferred": ["Wendisch Evern"], "name:glg_x_preferred": ["Wendisch Evern"], "name:gsw_x_preferred": ["Wendisch Evern"], "name:hbs_x_preferred": ["Wendisch Evern"], "name:hrv_x_preferred": ["Wendisch Evern"], "name:hun_x_preferred": ["Wendisch Evern"], "name:ido_x_preferred": ["Wendisch Evern"], "name:ile_x_preferred": ["Wendisch Evern"], "name:ina_x_preferred": ["Wendisch Evern"], "name:ind_x_preferred": ["Wendisch Evern"], "name:isl_x_preferred": ["Wendisch Evern"], "name:ita_x_preferred": ["Wendisch Evern"], "name:kaz_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0444\u0435\u0440\u043d"], "name:kir_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0444\u0435\u0440\u043d"], "name:kon_x_preferred": ["Wendisch Evern"], "name:lat_x_preferred": ["Wendisch Evern"], "name:lij_x_preferred": ["Wendisch Evern"], "name:lim_x_preferred": ["Wendisch Evern"], "name:ltz_x_preferred": ["Wendisch Evern"], "name:min_x_preferred": ["Wendisch Evern"], "name:mkd_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448 \u0415\u0432\u0435\u0440\u043d"], "name:mlg_x_preferred": ["Wendisch Evern"], "name:msa_x_preferred": ["Wendisch Evern"], "name:nan_x_preferred": ["Wendisch Evern"], "name:nap_x_preferred": ["Wendisch Evern"], "name:nds_x_preferred": ["Wendsch \u00c4vern"], "name:nld_x_preferred": ["Wendisch Evern"], "name:nno_x_preferred": ["Wendisch Evern"], "name:nob_x_preferred": ["Wendisch Evern"], "name:nrm_x_preferred": ["Wendisch Evern"], "name:oci_x_preferred": ["Wendisch Evern"], "name:pcd_x_preferred": ["Wendisch Evern"], "name:pms_x_preferred": ["Wendisch Evern"], "name:pol_x_preferred": ["Wendisch Evern"], "name:por_x_preferred": ["Wendisch Evern"], "name:roh_x_preferred": ["Wendisch Evern"], "name:ron_x_preferred": ["Wendisch Evern"], "name:rus_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0444\u0435\u0440\u043d"], "name:scn_x_preferred": ["Wendisch Evern"], "name:sco_x_preferred": ["Wendisch Evern"], "name:slk_x_preferred": ["Wendisch Evern"], "name:slv_x_preferred": ["Wendisch Evern"], "name:spa_x_preferred": ["Wendisch Evern"], "name:srd_x_preferred": ["Wendisch Evern"], "name:srp_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448 \u0415\u0432\u0435\u0440\u043d"], "name:swa_x_preferred": ["Wendisch Evern"], "name:swe_x_preferred": ["Wendisch Evern"], "name:tat_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0432\u0435\u0440\u043d"], "name:ukr_x_preferred": ["\u0412\u0435\u043d\u0434\u0456\u0448-\u0415\u0444\u0435\u0440\u043d"], "name:uzb_x_preferred": ["Wendisch Evern"], "name:vec_x_preferred": ["Wendisch Evern"], "name:vie_x_preferred": ["Wendisch Evern"], "name:vls_x_preferred": ["Wendisch Evern"], "name:vol_x_preferred": ["Wendisch Evern"], "name:war_x_preferred": ["Wendisch Evern"], "name:wln_x_preferred": ["Wendisch Evern"], "name:wol_x_preferred": ["Wendisch Evern"], "name:zho_min_nan_x_preferred": ["Wendisch Evern"], "name:zho_x_preferred": ["\u6587\u8fea\u65bd\u57c3\u8d39\u5c14\u6069"], "name:zul_x_preferred": ["Wendisch Evern"], "nav:latitude": 53.214524, "nav:longitude": 10.473717, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "L\u00fcneburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Wendisch Evern", "qs:la_lc": "*DE03035506040", "qs:level": "locality", "qs:loc": "Wendisch Evern", "qs:loc_alt": "Wendisch Evern", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6552699, "qs_pg:gn_pop": 1754, "qs_pg:name": "Gemeinde Wendisch Evern", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Niedersachsen", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 1, "qs_pg:photos_all": 21, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1017498, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12629715, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 231, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Niedersachsen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682555, 102191581, 1377687553, 85633111, 102064001], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_03355040", "eurostat:nuts_2021_id": "03355040", "gn:id": 2811227, "gp:id": 705276, "qs_pg:id": 576467, "wd:id": "Q654392", "wk:page": "Wendisch Evern"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "95e777ea2a1d99e6109422ee34fc85d2", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064001, "localadmin_id": 1377687553, "locality_id": 101818487, "region_id": 85682555}], "wof:id": 101818487, "wof:lastmodified": 1690871968, "wof:name": "Wendisch Evern", "wof:parent_id": 1377687553, "wof:placetype": "locality", "wof:population": 1761, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125390377, 1125387393], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.436703, 53.18674, 10.509027, 53.229578], "geometry": {"coordinates": [[[[10.494264, 53.224096], [10.496136, 53.222649], [10.498146, 53.220751], [10.499484, 53.219487], [10.500197, 53.219035], [10.503139, 53.217264], [10.507254, 53.214096], [10.509027, 53.203872], [10.501871, 53.1959], [10.494223, 53.190677], [10.492847, 53.189518], [10.489464, 53.18914], [10.485903, 53.188735], [10.4849, 53.188618], [10.484002, 53.188393], [10.483149, 53.188223], [10.482341, 53.188133], [10.480725, 53.188114], [10.478959, 53.188078], [10.477343, 53.188114], [10.476355, 53.188078], [10.475592, 53.187907], [10.474545, 53.187538], [10.473408, 53.187133], [10.471986, 53.186818], [10.471325, 53.18674], [10.470247, 53.187845], [10.466785, 53.191392], [10.464272, 53.193968], [10.453996, 53.204114], [10.452302, 53.211883], [10.448239, 53.212263], [10.445541, 53.213739], [10.443907, 53.214969], [10.442224, 53.216362], [10.439053, 53.216955], [10.439276, 53.218149], [10.437029, 53.218535], [10.437558, 53.221694], [10.437486, 53.223242], [10.436703, 53.227079], [10.443832, 53.226627], [10.445072, 53.2272], [10.450225, 53.229578], [10.454121, 53.22798], [10.458929, 53.228494], [10.472649, 53.228435], [10.480408, 53.228068], [10.480648, 53.227295], [10.491672, 53.226361], [10.494264, 53.224096]]]], "type": "MultiPolygon"}}
+{
+  "id": 101818487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_03355040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wendisch Evern",
+    "eurostat:nuts_2021_id":"03355040",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE9",
+    "eurostat:nuts_2021_level_2":"DE93",
+    "eurostat:nuts_2021_level_3":"DE935",
+    "eurostat:nuts_2021_level_lau":"03355040",
+    "eurostat:population":1761,
+    "eurostat:population_year":2020,
+    "geom:area":0.002005,
+    "geom:area_square_m":14849954.798189,
+    "geom:bbox":"10.436703,53.18674,10.509027,53.229578",
+    "geom:latitude":53.210268,
+    "geom:longitude":10.475718,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":1754,
+    "iso:country":"DE",
+    "lbl:latitude":53.214524,
+    "lbl:longitude":10.473717,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":53.214524,
+    "mps:longitude":10.473717,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:arg_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ast_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:bar_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:bre_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:cat_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ceb_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ces_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0432\u0435\u0440\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:cym_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:dan_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:deu_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:eng_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:epo_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:est_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:eus_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u062f\u06cc\u0634 \u0641\u0631\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:fra_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:frp_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:fur_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:gla_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:gle_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:glg_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:gsw_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:hbs_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:hrv_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:hun_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ido_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ile_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ina_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ind_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:isl_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ita_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0444\u0435\u0440\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0444\u0435\u0440\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:lat_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:lij_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:lim_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ltz_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:min_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448 \u0415\u0432\u0435\u0440\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:msa_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:nan_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:nap_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:nds_x_preferred":[
+        "Wendsch \u00c4vern"
+    ],
+    "name:nld_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:nno_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:nob_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:nrm_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:oci_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:pcd_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:pms_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:pol_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:por_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:roh_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:ron_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0444\u0435\u0440\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:sco_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:slk_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:slv_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:spa_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:srd_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448 \u0415\u0432\u0435\u0440\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:swe_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448-\u042d\u0432\u0435\u0440\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0456\u0448-\u0415\u0444\u0435\u0440\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:vec_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:vie_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:vls_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:vol_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:war_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:wln_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:wol_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u8fea\u65bd\u57c3\u8d39\u5c14\u6069"
+    ],
+    "name:zul_x_preferred":[
+        "Wendisch Evern"
+    ],
+    "nav:latitude":53.214524,
+    "nav:longitude":10.473717,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"L\u00fcneburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Wendisch Evern",
+    "qs:la_lc":"*DE03035506040",
+    "qs:level":"locality",
+    "qs:loc":"Wendisch Evern",
+    "qs:loc_alt":"Wendisch Evern",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6552699,
+    "qs_pg:gn_pop":1754,
+    "qs_pg:name":"Gemeinde Wendisch Evern",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Niedersachsen",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1017498,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12629715,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":231,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Niedersachsen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377687553,
+        85633111,
+        102064001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_03355040",
+        "eurostat:nuts_2021_id":"03355040",
+        "gn:id":2811227,
+        "gp:id":705276,
+        "qs_pg:id":576467,
+        "wd:id":"Q654392",
+        "wk:page":"Wendisch Evern"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"95e777ea2a1d99e6109422ee34fc85d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064001,
+            "localadmin_id":1377687553,
+            "locality_id":101818487,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101818487,
+    "wof:lastmodified":1690871968,
+    "wof:name":"Wendisch Evern",
+    "wof:parent_id":1377687553,
+    "wof:placetype":"locality",
+    "wof:population":1761,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125390377,
+        1125387393
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.436703,
+    53.18674,
+    10.509027,
+    53.229578
+],
+  "geometry": {"coordinates":[[[[10.494264,53.224096],[10.496136,53.222649],[10.498146,53.220751],[10.499484,53.219487],[10.500197,53.219035],[10.503139,53.217264],[10.507254,53.214096],[10.509027,53.203872],[10.501871,53.1959],[10.494223,53.190677],[10.492847,53.189518],[10.489464,53.18914],[10.485903,53.188735],[10.4849,53.188618],[10.484002,53.188393],[10.483149,53.188223],[10.482341,53.188133],[10.480725,53.188114],[10.478959,53.188078],[10.477343,53.188114],[10.476355,53.188078],[10.475592,53.187907],[10.474545,53.187538],[10.473408,53.187133],[10.471986,53.186818],[10.471325,53.18674],[10.470247,53.187845],[10.466785,53.191392],[10.464272,53.193968],[10.453996,53.204114],[10.452302,53.211883],[10.448239,53.212263],[10.445541,53.213739],[10.443907,53.214969],[10.442224,53.216362],[10.439053,53.216955],[10.439276,53.218149],[10.437029,53.218535],[10.437558,53.221694],[10.437486,53.223242],[10.436703,53.227079],[10.443832,53.226627],[10.445072,53.2272],[10.450225,53.229578],[10.454121,53.22798],[10.458929,53.228494],[10.472649,53.228435],[10.480408,53.228068],[10.480648,53.227295],[10.491672,53.226361],[10.494264,53.224096]]]],"type":"MultiPolygon"}
+}

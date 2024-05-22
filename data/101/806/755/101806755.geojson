@@ -1,1 +1,606 @@
-{"id": 101806755, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01060094", "eurostat:level_code": "lau", "eurostat:name_local": "Wakendorf II", "eurostat:nuts_2021_id": "01060094", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF0D", "eurostat:nuts_2021_level_lau": "01060094", "eurostat:population": 1347, "eurostat:population_year": 2020, "geom:area": 0.001736, "geom:area_square_m": 12679787.627072, "geom:bbox": "10.045459,53.761556,10.118466,53.805371", "geom:latitude": 53.782198, "geom:longitude": 10.089156, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 1416, "iso:country": "DE", "lbl:latitude": 53.782137, "lbl:longitude": 10.080051, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 53.782137, "mps:longitude": 10.080051, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Wakendorf II"], "name:afr_x_variant": ["Wakendorf"], "name:arg_x_preferred": ["Wakendorf II"], "name:arg_x_variant": ["Wakendorf"], "name:ast_x_preferred": ["Wakendorf II"], "name:ast_x_variant": ["Wakendorf"], "name:bar_x_preferred": ["Wakendorf II"], "name:bar_x_variant": ["Wakendorf"], "name:bre_x_preferred": ["Wakendorf II"], "name:bre_x_variant": ["Wakendorf"], "name:cat_x_preferred": ["Wakendorf II"], "name:cat_x_variant": ["Wakendorf"], "name:ceb_x_preferred": ["Wakendorf II"], "name:ceb_x_variant": ["Wakendorf"], "name:ces_x_preferred": ["Wakendorf II"], "name:ces_x_variant": ["Wakendorf"], "name:che_x_preferred": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"], "name:cos_x_preferred": ["Wakendorf II"], "name:cos_x_variant": ["Wakendorf"], "name:cym_x_preferred": ["Wakendorf II"], "name:cym_x_variant": ["Wakendorf"], "name:dan_x_preferred": ["Wakendorf II"], "name:dan_x_variant": ["Wakendorf"], "name:deu_x_preferred": ["Wakendorf II"], "name:deu_x_variant": ["Wakendorf"], "name:eng_x_preferred": ["Wakendorf II"], "name:eng_x_variant": ["Wakendorf"], "name:epo_x_preferred": ["Wakendorf II"], "name:epo_x_variant": ["Wakendorf"], "name:est_x_preferred": ["Wakendorf II"], "name:est_x_variant": ["Wakendorf"], "name:eus_x_preferred": ["Wakendorf II"], "name:eus_x_variant": ["Wakendorf"], "name:fas_x_preferred": ["\u0648\u0627\u06a9\u0646\u062f\u0648\u0631\u0641 \u0627\u06cc\u0627\u06cc"], "name:fin_x_preferred": ["Wakendorf II"], "name:fin_x_variant": ["Wakendorf"], "name:fra_x_preferred": ["Wakendorf II"], "name:fra_x_variant": ["Wakendorf"], "name:frp_x_preferred": ["Wakendorf II"], "name:frp_x_variant": ["Wakendorf"], "name:fur_x_preferred": ["Wakendorf II"], "name:fur_x_variant": ["Wakendorf"], "name:gla_x_preferred": ["Wakendorf II"], "name:gla_x_variant": ["Wakendorf"], "name:gle_x_preferred": ["Wakendorf II"], "name:gle_x_variant": ["Wakendorf"], "name:glg_x_preferred": ["Wakendorf II"], "name:glg_x_variant": ["Wakendorf"], "name:gsw_x_preferred": ["Wakendorf II"], "name:gsw_x_variant": ["Wakendorf"], "name:hbs_x_preferred": ["Wakendorf II"], "name:hrv_x_preferred": ["Wakendorf II"], "name:hrv_x_variant": ["Wakendorf"], "name:hun_x_preferred": ["Wakendorf II"], "name:hun_x_variant": ["Wakendorf"], "name:ido_x_preferred": ["Wakendorf II"], "name:ido_x_variant": ["Wakendorf"], "name:ile_x_preferred": ["Wakendorf II"], "name:ile_x_variant": ["Wakendorf"], "name:ina_x_preferred": ["Wakendorf II"], "name:ina_x_variant": ["Wakendorf"], "name:ind_x_preferred": ["Wakendorf II"], "name:ind_x_variant": ["Wakendorf"], "name:isl_x_preferred": ["Wakendorf II"], "name:isl_x_variant": ["Wakendorf"], "name:ita_x_preferred": ["Wakendorf II"], "name:ita_x_variant": ["Wakendorf"], "name:kaz_x_preferred": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"], "name:kaz_x_variant": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"], "name:kir_x_preferred": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"], "name:kir_x_variant": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"], "name:kon_x_preferred": ["Wakendorf II"], "name:kon_x_variant": ["Wakendorf"], "name:lij_x_preferred": ["Wakendorf II"], "name:lij_x_variant": ["Wakendorf"], "name:lim_x_preferred": ["Wakendorf II"], "name:lim_x_variant": ["Wakendorf"], "name:lld_x_preferred": ["Wakendorf"], "name:ltz_x_preferred": ["Wakendorf II"], "name:ltz_x_variant": ["Wakendorf"], "name:min_x_preferred": ["Wakendorf II"], "name:min_x_variant": ["Wakendorf"], "name:mkd_x_preferred": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"], "name:mkd_x_variant": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"], "name:mlg_x_preferred": ["Wakendorf II"], "name:mlg_x_variant": ["Wakendorf"], "name:msa_x_preferred": ["Wakendorf II"], "name:msa_x_variant": ["Wakendorf"], "name:nan_x_preferred": ["Wakendorf"], "name:nap_x_preferred": ["Wakendorf II"], "name:nap_x_variant": ["Wakendorf"], "name:nds_x_preferred": ["Wakendorf II"], "name:nds_x_variant": ["Wakendorf"], "name:nld_x_preferred": ["Wakendorf II"], "name:nld_x_variant": ["Wakendorf"], "name:nno_x_preferred": ["Wakendorf II"], "name:nno_x_variant": ["Wakendorf"], "name:nob_x_preferred": ["Wakendorf II"], "name:nob_x_variant": ["Wakendorf"], "name:nrm_x_preferred": ["Wakendorf II"], "name:nrm_x_variant": ["Wakendorf"], "name:oci_x_preferred": ["Wakendorf II"], "name:oci_x_variant": ["Wakendorf"], "name:pcd_x_preferred": ["Wakendorf II"], "name:pcd_x_variant": ["Wakendorf"], "name:pms_x_preferred": ["Wakendorf II"], "name:pms_x_variant": ["Wakendorf"], "name:pol_x_preferred": ["Wakendorf II"], "name:pol_x_variant": ["Wakendorf"], "name:por_x_preferred": ["Wakendorf II"], "name:por_x_variant": ["Wakendorf"], "name:roh_x_preferred": ["Wakendorf II"], "name:roh_x_variant": ["Wakendorf"], "name:ron_x_preferred": ["Wakendorf II"], "name:ron_x_variant": ["Wakendorf"], "name:rus_x_preferred": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"], "name:rus_x_variant": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"], "name:scn_x_preferred": ["Wakendorf II"], "name:scn_x_variant": ["Wakendorf"], "name:sco_x_preferred": ["Wakendorf II"], "name:sco_x_variant": ["Wakendorf"], "name:slk_x_preferred": ["Wakendorf II"], "name:slk_x_variant": ["Wakendorf"], "name:slv_x_preferred": ["Wakendorf II"], "name:slv_x_variant": ["Wakendorf"], "name:spa_x_preferred": ["Wakendorf II"], "name:spa_x_variant": ["Wakendorf"], "name:srd_x_preferred": ["Wakendorf II"], "name:srd_x_variant": ["Wakendorf"], "name:srp_x_preferred": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"], "name:srp_x_variant": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"], "name:swa_x_preferred": ["Wakendorf II"], "name:swa_x_variant": ["Wakendorf"], "name:swe_x_preferred": ["Wakendorf II"], "name:swe_x_variant": ["Wakendorf"], "name:tat_x_preferred": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"], "name:tur_x_preferred": ["Wakendorf II"], "name:tur_x_variant": ["Wakendorf"], "name:ukr_x_preferred": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"], "name:ukr_x_variant": ["\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"], "name:und_x_variant": ["Wakendorf Zwei"], "name:uzb_x_preferred": ["Wakendorf II"], "name:uzb_x_variant": ["Wakendorf"], "name:vec_x_preferred": ["Wakendorf II"], "name:vec_x_variant": ["Wakendorf"], "name:vie_x_preferred": ["Wakendorf II"], "name:vie_x_variant": ["Wakendorf"], "name:vls_x_preferred": ["Wakendorf II"], "name:vls_x_variant": ["Wakendorf"], "name:vol_x_preferred": ["Wakendorf II"], "name:vol_x_variant": ["Wakendorf"], "name:war_x_preferred": ["Wakendorf II"], "name:war_x_variant": ["Wakendorf"], "name:wln_x_preferred": ["Wakendorf II"], "name:wln_x_variant": ["Wakendorf"], "name:wol_x_preferred": ["Wakendorf II"], "name:wol_x_variant": ["Wakendorf"], "name:zho_x_preferred": ["\u74e6\u80af\u591a\u592b\u2161"], "name:zho_x_variant": ["\u74e6\u80af\u591a\u5c14\u592b\u4f0a\u4f0a"], "name:zul_x_preferred": ["Wakendorf II"], "name:zul_x_variant": ["Wakendorf"], "nav:latitude": 53.782137, "nav:longitude": 10.080051, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Schleswig-Holstein", "qs:a1r": "0", "qs:a2": "Segeberg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Wakendorf II", "qs:la_lc": "*DE01006048094", "qs:level": "locality", "qs:loc": "Wakendorf II", "qs:loc_alt": "Wakendorf II", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6552151, "qs_pg:gn_pop": 1416, "qs_pg:name": "Wakendorf II", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 633449, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 36, "wof:belongsto": [85682517, 102191581, 1377684577, 85633111, 102064103], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01060094", "eurostat:nuts_2021_id": "01060094", "gn:id": 2815261, "gp:id": 703318, "qs_pg:id": 377149, "wd:id": "Q549199"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes"], "wof:geomhash": "639c6e5d523b15f095c2fcb38daf92b1", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064103, "localadmin_id": 1377684577, "locality_id": 101806755, "region_id": 85682517}], "wof:id": 101806755, "wof:lastmodified": 1690873639, "wof:name": "Wakendorf II", "wof:parent_id": 1377684577, "wof:placetype": "locality", "wof:population": 1347, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125418953], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.045459, 53.761556, 10.118466, 53.805371], "geometry": {"coordinates": [[[[10.113142, 53.802636], [10.113239, 53.801944], [10.11437, 53.80104], [10.115332, 53.800379], [10.116148, 53.799088], [10.116381, 53.798432], [10.116568, 53.797957], [10.116407, 53.797292], [10.116339, 53.796393], [10.116178, 53.795629], [10.11611, 53.79482], [10.115799, 53.793921], [10.116444, 53.793015], [10.116771, 53.792109], [10.116295, 53.79102], [10.115911, 53.78978], [10.115845, 53.788683], [10.116323, 53.787876], [10.116741, 53.786835], [10.116751, 53.785793], [10.116836, 53.784653], [10.117655, 53.782984], [10.118466, 53.782232], [10.118062, 53.781566], [10.117429, 53.781088], [10.116632, 53.780322], [10.116244, 53.779557], [10.115034, 53.779176], [10.114006, 53.778795], [10.113361, 53.777985], [10.113214, 53.777409], [10.113856, 53.77689], [10.114909, 53.776184], [10.115956, 53.776088], [10.116764, 53.775614], [10.117, 53.774717], [10.117326, 53.773774], [10.116684, 53.772703], [10.117163, 53.772477], [10.118252, 53.771963], [10.117993, 53.770399], [10.116464, 53.769482], [10.114856, 53.76892], [10.113034, 53.767988], [10.111859, 53.767837], [10.110944, 53.768346], [10.108975, 53.769822], [10.105686, 53.769632], [10.105299, 53.768769], [10.099597, 53.768795], [10.095834, 53.76908], [10.095473, 53.770399], [10.094425, 53.770157], [10.094264, 53.769159], [10.093625, 53.768895], [10.091991, 53.768097], [10.090342, 53.768171], [10.089876, 53.76888], [10.088497, 53.768723], [10.087791, 53.768011], [10.087145, 53.767443], [10.086499, 53.766812], [10.085788, 53.76663], [10.084888, 53.767148], [10.084169, 53.767864], [10.082727, 53.767994], [10.081605, 53.7679], [10.08047, 53.767753], [10.078397, 53.76727], [10.077674, 53.766782], [10.0768, 53.766168], [10.075757, 53.765832], [10.07415, 53.765782], [10.072769, 53.765867], [10.070948, 53.766004], [10.069898, 53.766432], [10.068849, 53.766716], [10.067729, 53.766514], [10.066199, 53.766275], [10.065416, 53.765752], [10.064282, 53.76546], [10.06325, 53.765501], [10.062349, 53.766118], [10.060908, 53.766212], [10.0593, 53.766251], [10.058668, 53.765773], [10.058359, 53.764864], [10.056669, 53.764005], [10.055003, 53.763855], [10.053884, 53.763518], [10.053088, 53.762851], [10.052441, 53.762282], [10.051325, 53.761703], [10.050205, 53.761556], [10.048683, 53.762125], [10.047219, 53.762928], [10.046255, 53.763778], [10.045459, 53.764503], [10.048782, 53.765683], [10.047751, 53.767171], [10.059168, 53.776331], [10.059509, 53.777114], [10.059928, 53.777654], [10.060468, 53.778222], [10.061539, 53.778801], [10.061346, 53.78145], [10.063366, 53.78117], [10.064404, 53.78209], [10.065838, 53.782769], [10.067292, 53.78298], [10.068863, 53.783714], [10.070941, 53.786721], [10.070379, 53.786854], [10.069575, 53.788352], [10.0703, 53.788732], [10.069382, 53.789483], [10.068663, 53.790056], [10.068892, 53.791449], [10.068159, 53.79194], [10.068274, 53.792588], [10.069348, 53.792906], [10.072489, 53.792845], [10.075605, 53.792326], [10.077776, 53.793761], [10.07867, 53.793863], [10.078315, 53.794545], [10.078718, 53.795184], [10.080692, 53.796655], [10.081728, 53.796227], [10.083285, 53.796843], [10.085759, 53.796744], [10.085974, 53.798047], [10.086521, 53.798004], [10.088454, 53.797445], [10.090474, 53.797209], [10.091033, 53.799115], [10.093795, 53.80066], [10.093239, 53.801728], [10.093168, 53.802797], [10.093943, 53.802763], [10.094494, 53.803834], [10.094605, 53.805011], [10.0975, 53.805371], [10.098205, 53.804628], [10.099707, 53.80474], [10.100395, 53.804114], [10.103626, 53.804295], [10.106588, 53.804053], [10.107489, 53.803409], [10.108466, 53.80281], [10.109134, 53.802812], [10.109751, 53.803407], [10.110998, 53.803141], [10.113142, 53.802636]]]], "type": "MultiPolygon"}}
+{
+  "id": 101806755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01060094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wakendorf II",
+    "eurostat:nuts_2021_id":"01060094",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF0D",
+    "eurostat:nuts_2021_level_lau":"01060094",
+    "eurostat:population":1347,
+    "eurostat:population_year":2020,
+    "geom:area":0.001736,
+    "geom:area_square_m":12679787.627072,
+    "geom:bbox":"10.045459,53.761556,10.118466,53.805371",
+    "geom:latitude":53.782198,
+    "geom:longitude":10.089156,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":1416,
+    "iso:country":"DE",
+    "lbl:latitude":53.782137,
+    "lbl:longitude":10.080051,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":53.782137,
+    "mps:longitude":10.080051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:afr_x_variant":[
+        "Wakendorf"
+    ],
+    "name:arg_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:arg_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ast_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ast_x_variant":[
+        "Wakendorf"
+    ],
+    "name:bar_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:bar_x_variant":[
+        "Wakendorf"
+    ],
+    "name:bre_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:bre_x_variant":[
+        "Wakendorf"
+    ],
+    "name:cat_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:cat_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ceb_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ceb_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ces_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ces_x_variant":[
+        "Wakendorf"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:cos_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:cos_x_variant":[
+        "Wakendorf"
+    ],
+    "name:cym_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:cym_x_variant":[
+        "Wakendorf"
+    ],
+    "name:dan_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:dan_x_variant":[
+        "Wakendorf"
+    ],
+    "name:deu_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:deu_x_variant":[
+        "Wakendorf"
+    ],
+    "name:eng_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:eng_x_variant":[
+        "Wakendorf"
+    ],
+    "name:epo_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:epo_x_variant":[
+        "Wakendorf"
+    ],
+    "name:est_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:est_x_variant":[
+        "Wakendorf"
+    ],
+    "name:eus_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:eus_x_variant":[
+        "Wakendorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06a9\u0646\u062f\u0648\u0631\u0641 \u0627\u06cc\u0627\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:fin_x_variant":[
+        "Wakendorf"
+    ],
+    "name:fra_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:fra_x_variant":[
+        "Wakendorf"
+    ],
+    "name:frp_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:frp_x_variant":[
+        "Wakendorf"
+    ],
+    "name:fur_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:fur_x_variant":[
+        "Wakendorf"
+    ],
+    "name:gla_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:gla_x_variant":[
+        "Wakendorf"
+    ],
+    "name:gle_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:gle_x_variant":[
+        "Wakendorf"
+    ],
+    "name:glg_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:glg_x_variant":[
+        "Wakendorf"
+    ],
+    "name:gsw_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:gsw_x_variant":[
+        "Wakendorf"
+    ],
+    "name:hbs_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:hrv_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:hrv_x_variant":[
+        "Wakendorf"
+    ],
+    "name:hun_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:hun_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ido_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ido_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ile_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ile_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ina_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ina_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ind_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ind_x_variant":[
+        "Wakendorf"
+    ],
+    "name:isl_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:isl_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ita_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ita_x_variant":[
+        "Wakendorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"
+    ],
+    "name:kir_x_variant":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:kon_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:kon_x_variant":[
+        "Wakendorf"
+    ],
+    "name:lij_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:lij_x_variant":[
+        "Wakendorf"
+    ],
+    "name:lim_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:lim_x_variant":[
+        "Wakendorf"
+    ],
+    "name:lld_x_preferred":[
+        "Wakendorf"
+    ],
+    "name:ltz_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ltz_x_variant":[
+        "Wakendorf"
+    ],
+    "name:min_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:min_x_variant":[
+        "Wakendorf"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:mlg_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:mlg_x_variant":[
+        "Wakendorf"
+    ],
+    "name:msa_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:msa_x_variant":[
+        "Wakendorf"
+    ],
+    "name:nan_x_preferred":[
+        "Wakendorf"
+    ],
+    "name:nap_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:nap_x_variant":[
+        "Wakendorf"
+    ],
+    "name:nds_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:nds_x_variant":[
+        "Wakendorf"
+    ],
+    "name:nld_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:nld_x_variant":[
+        "Wakendorf"
+    ],
+    "name:nno_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:nno_x_variant":[
+        "Wakendorf"
+    ],
+    "name:nob_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:nob_x_variant":[
+        "Wakendorf"
+    ],
+    "name:nrm_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:nrm_x_variant":[
+        "Wakendorf"
+    ],
+    "name:oci_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:oci_x_variant":[
+        "Wakendorf"
+    ],
+    "name:pcd_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:pcd_x_variant":[
+        "Wakendorf"
+    ],
+    "name:pms_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:pms_x_variant":[
+        "Wakendorf"
+    ],
+    "name:pol_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:pol_x_variant":[
+        "Wakendorf"
+    ],
+    "name:por_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:por_x_variant":[
+        "Wakendorf"
+    ],
+    "name:roh_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:roh_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ron_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:ron_x_variant":[
+        "Wakendorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:scn_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:scn_x_variant":[
+        "Wakendorf"
+    ],
+    "name:sco_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:sco_x_variant":[
+        "Wakendorf"
+    ],
+    "name:slk_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:slk_x_variant":[
+        "Wakendorf"
+    ],
+    "name:slv_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:slv_x_variant":[
+        "Wakendorf"
+    ],
+    "name:spa_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:spa_x_variant":[
+        "Wakendorf"
+    ],
+    "name:srd_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:srd_x_variant":[
+        "Wakendorf"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:swa_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:swa_x_variant":[
+        "Wakendorf"
+    ],
+    "name:swe_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:swe_x_variant":[
+        "Wakendorf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:tur_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:tur_x_variant":[
+        "Wakendorf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444 II"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u043a\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:und_x_variant":[
+        "Wakendorf Zwei"
+    ],
+    "name:uzb_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:uzb_x_variant":[
+        "Wakendorf"
+    ],
+    "name:vec_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:vec_x_variant":[
+        "Wakendorf"
+    ],
+    "name:vie_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:vie_x_variant":[
+        "Wakendorf"
+    ],
+    "name:vls_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:vls_x_variant":[
+        "Wakendorf"
+    ],
+    "name:vol_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:vol_x_variant":[
+        "Wakendorf"
+    ],
+    "name:war_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:war_x_variant":[
+        "Wakendorf"
+    ],
+    "name:wln_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:wln_x_variant":[
+        "Wakendorf"
+    ],
+    "name:wol_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:wol_x_variant":[
+        "Wakendorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u80af\u591a\u592b\u2161"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u80af\u591a\u5c14\u592b\u4f0a\u4f0a"
+    ],
+    "name:zul_x_preferred":[
+        "Wakendorf II"
+    ],
+    "name:zul_x_variant":[
+        "Wakendorf"
+    ],
+    "nav:latitude":53.782137,
+    "nav:longitude":10.080051,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Schleswig-Holstein",
+    "qs:a1r":"0",
+    "qs:a2":"Segeberg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Wakendorf II",
+    "qs:la_lc":"*DE01006048094",
+    "qs:level":"locality",
+    "qs:loc":"Wakendorf II",
+    "qs:loc_alt":"Wakendorf II",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6552151,
+    "qs_pg:gn_pop":1416,
+    "qs_pg:name":"Wakendorf II",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":633449,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377684577,
+        85633111,
+        102064103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01060094",
+        "eurostat:nuts_2021_id":"01060094",
+        "gn:id":2815261,
+        "gp:id":703318,
+        "qs_pg:id":377149,
+        "wd:id":"Q549199"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"639c6e5d523b15f095c2fcb38daf92b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064103,
+            "localadmin_id":1377684577,
+            "locality_id":101806755,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":101806755,
+    "wof:lastmodified":1690873639,
+    "wof:name":"Wakendorf II",
+    "wof:parent_id":1377684577,
+    "wof:placetype":"locality",
+    "wof:population":1347,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125418953
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.045459,
+    53.761556,
+    10.118466,
+    53.805371
+],
+  "geometry": {"coordinates":[[[[10.113142,53.802636],[10.113239,53.801944],[10.11437,53.80104],[10.115332,53.800379],[10.116148,53.799088],[10.116381,53.798432],[10.116568,53.797957],[10.116407,53.797292],[10.116339,53.796393],[10.116178,53.795629],[10.11611,53.79482],[10.115799,53.793921],[10.116444,53.793015],[10.116771,53.792109],[10.116295,53.79102],[10.115911,53.78978],[10.115845,53.788683],[10.116323,53.787876],[10.116741,53.786835],[10.116751,53.785793],[10.116836,53.784653],[10.117655,53.782984],[10.118466,53.782232],[10.118062,53.781566],[10.117429,53.781088],[10.116632,53.780322],[10.116244,53.779557],[10.115034,53.779176],[10.114006,53.778795],[10.113361,53.777985],[10.113214,53.777409],[10.113856,53.77689],[10.114909,53.776184],[10.115956,53.776088],[10.116764,53.775614],[10.117,53.774717],[10.117326,53.773774],[10.116684,53.772703],[10.117163,53.772477],[10.118252,53.771963],[10.117993,53.770399],[10.116464,53.769482],[10.114856,53.76892],[10.113034,53.767988],[10.111859,53.767837],[10.110944,53.768346],[10.108975,53.769822],[10.105686,53.769632],[10.105299,53.768769],[10.099597,53.768795],[10.095834,53.76908],[10.095473,53.770399],[10.094425,53.770157],[10.094264,53.769159],[10.093625,53.768895],[10.091991,53.768097],[10.090342,53.768171],[10.089876,53.76888],[10.088497,53.768723],[10.087791,53.768011],[10.087145,53.767443],[10.086499,53.766812],[10.085788,53.76663],[10.084888,53.767148],[10.084169,53.767864],[10.082727,53.767994],[10.081605,53.7679],[10.08047,53.767753],[10.078397,53.76727],[10.077674,53.766782],[10.0768,53.766168],[10.075757,53.765832],[10.07415,53.765782],[10.072769,53.765867],[10.070948,53.766004],[10.069898,53.766432],[10.068849,53.766716],[10.067729,53.766514],[10.066199,53.766275],[10.065416,53.765752],[10.064282,53.76546],[10.06325,53.765501],[10.062349,53.766118],[10.060908,53.766212],[10.0593,53.766251],[10.058668,53.765773],[10.058359,53.764864],[10.056669,53.764005],[10.055003,53.763855],[10.053884,53.763518],[10.053088,53.762851],[10.052441,53.762282],[10.051325,53.761703],[10.050205,53.761556],[10.048683,53.762125],[10.047219,53.762928],[10.046255,53.763778],[10.045459,53.764503],[10.048782,53.765683],[10.047751,53.767171],[10.059168,53.776331],[10.059509,53.777114],[10.059928,53.777654],[10.060468,53.778222],[10.061539,53.778801],[10.061346,53.78145],[10.063366,53.78117],[10.064404,53.78209],[10.065838,53.782769],[10.067292,53.78298],[10.068863,53.783714],[10.070941,53.786721],[10.070379,53.786854],[10.069575,53.788352],[10.0703,53.788732],[10.069382,53.789483],[10.068663,53.790056],[10.068892,53.791449],[10.068159,53.79194],[10.068274,53.792588],[10.069348,53.792906],[10.072489,53.792845],[10.075605,53.792326],[10.077776,53.793761],[10.07867,53.793863],[10.078315,53.794545],[10.078718,53.795184],[10.080692,53.796655],[10.081728,53.796227],[10.083285,53.796843],[10.085759,53.796744],[10.085974,53.798047],[10.086521,53.798004],[10.088454,53.797445],[10.090474,53.797209],[10.091033,53.799115],[10.093795,53.80066],[10.093239,53.801728],[10.093168,53.802797],[10.093943,53.802763],[10.094494,53.803834],[10.094605,53.805011],[10.0975,53.805371],[10.098205,53.804628],[10.099707,53.80474],[10.100395,53.804114],[10.103626,53.804295],[10.106588,53.804053],[10.107489,53.803409],[10.108466,53.80281],[10.109134,53.802812],[10.109751,53.803407],[10.110998,53.803141],[10.113142,53.802636]]]],"type":"MultiPolygon"}
+}

@@ -1,1 +1,415 @@
-{"id": 101819751, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_12069306", "eurostat:level_code": "lau", "eurostat:name_local": "Kloster Lehnin", "eurostat:nuts_2021_id": "12069306", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE4", "eurostat:nuts_2021_level_2": "DE40", "eurostat:nuts_2021_level_3": "DE40E", "eurostat:nuts_2021_level_lau": "12069306", "eurostat:population": 10894, "eurostat:population_year": 2020, "geom:area": 0.026461, "geom:area_square_m": 199962642.324324, "geom:bbox": "12.499618,52.238554,12.827845,52.396008", "geom:latitude": 52.328117, "geom:longitude": 12.689161, "gn:admin1_code": "11.0", "gn:admin2_code": "0.0", "gn:admin3_code": "12069.0", "gn:admin4_code": "12069306.0", "gn:asciiname": "Kloster Lehnin", "gn:country": null, "gn:country_code": "DE", "gn:dem": 38, "gn:elevation": "56.0", "gn:fcode": "ADM4", "gn:feature_class": "P", "gn:feature_code": "PPLS", "gn:geonameid": 6691734, "gn:latitude": 52.32039, "gn:longitude": 12.7432, "gn:modification_date": "2015-09-06", "gn:name": "Kloster Lehnin", "gn:population": 11129, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:latitude": 52.315797, "lbl:longitude": 12.738465, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 52.315797, "mps:longitude": 12.738465, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:afr_x_preferred": ["Kloster Lehnin"], "name:arg_x_preferred": ["Kloster Lehnin"], "name:ast_x_preferred": ["Kloster Lehnin"], "name:bar_x_preferred": ["Kloster Lehnin"], "name:bre_x_preferred": ["Kloster Lehnin"], "name:cat_x_preferred": ["Kloster Lehnin"], "name:ceb_x_preferred": ["Kloster Lehnin"], "name:ces_x_preferred": ["Kloster Lehnin"], "name:che_x_preferred": ["\u041a\u043b\u043e\u0441\u0442\u0435\u0440-\u041b\u0435\u043d\u0438\u043d"], "name:cos_x_preferred": ["Kloster Lehnin"], "name:cym_x_preferred": ["Kloster Lehnin"], "name:dan_x_preferred": ["Kloster Lehnin"], "name:deu_x_historical": ["Zisterzienserkloster Lehnin"], "name:deu_x_preferred": ["Kloster Lehnin"], "name:deu_x_variant": ["Lehnin"], "name:ell_x_preferred": ["\u039a\u03bb\u03cc\u03c3\u03c4\u03b5\u03c1 \u039b\u03ad\u03bd\u03b9\u03bd"], "name:eng_x_preferred": ["Kloster Lehnin"], "name:epo_x_preferred": ["Kloster Lehnin"], "name:est_x_preferred": ["Kloster Lehnin"], "name:eus_x_preferred": ["Kloster Lehnin"], "name:fas_x_preferred": ["\u06a9\u0644\u0648\u0634\u062a\u0631 \u0644\u0647\u0646\u06cc\u0646"], "name:fin_x_preferred": ["Kloster Lehnin"], "name:fra_x_preferred": ["Kloster Lehnin"], "name:frp_x_preferred": ["Kloster Lehnin"], "name:fur_x_preferred": ["Kloster Lehnin"], "name:gla_x_preferred": ["Kloster Lehnin"], "name:gle_x_preferred": ["Kloster Lehnin"], "name:glg_x_preferred": ["Kloster Lehnin"], "name:gsw_x_preferred": ["Kloster Lehnin"], "name:hbs_x_preferred": ["Kloster Lehnin"], "name:hrv_x_preferred": ["Kloster Lehnin"], "name:hun_x_preferred": ["Kloster Lehnin"], "name:hye_x_preferred": ["\u053f\u056c\u0578\u057d\u057f\u0565\u0580 \u053c\u0565\u0570\u0576\u056b\u0576"], "name:ido_x_preferred": ["Kloster Lehnin"], "name:ile_x_preferred": ["Kloster Lehnin"], "name:ina_x_preferred": ["Kloster Lehnin"], "name:ind_x_preferred": ["Kloster Lehnin"], "name:isl_x_preferred": ["Kloster Lehnin"], "name:ita_x_preferred": ["Kloster Lehnin"], "name:jpn_x_preferred": ["\u30af\u30ed\u30b9\u30bf\u30fc\u30fb\u30ec\u30fc\u30cb\u30f3"], "name:kon_x_preferred": ["Kloster Lehnin"], "name:kur_x_preferred": ["Kloster Lehnin"], "name:lij_x_preferred": ["Kloster Lehnin"], "name:lim_x_preferred": ["Kloster Lehnin"], "name:lld_x_preferred": ["Kloster Lehnin"], "name:ltz_x_preferred": ["Kloster Lehnin"], "name:min_x_preferred": ["Kloster Lehnin"], "name:mkd_x_preferred": ["\u041a\u043b\u043e\u0441\u0442\u0435\u0440 \u041b\u0435\u043d\u0438\u043d"], "name:mlg_x_preferred": ["Kloster Lehnin"], "name:msa_x_preferred": ["Kloster Lehnin"], "name:nap_x_preferred": ["Kloster Lehnin"], "name:nds_x_preferred": ["Kloster Lehnin"], "name:nld_x_preferred": ["Kloster Lehnin"], "name:nno_x_preferred": ["Kloster Lehnin"], "name:nob_x_preferred": ["Kloster Lehnin"], "name:nrm_x_preferred": ["Kloster Lehnin"], "name:oci_x_preferred": ["Kloster Lehnin"], "name:pcd_x_preferred": ["Kloster Lehnin"], "name:pms_x_preferred": ["Kloster Lehnin"], "name:pol_x_preferred": ["Kloster Lehnin"], "name:por_x_preferred": ["Kloster Lehnin"], "name:roh_x_preferred": ["Kloster Lehnin"], "name:ron_x_preferred": ["Kloster Lehnin"], "name:rus_x_preferred": ["\u041a\u043b\u043e\u0441\u0442\u0435\u0440-\u041b\u0435\u043d\u0438\u043d"], "name:scn_x_preferred": ["Kloster Lehnin"], "name:sco_x_preferred": ["Kloster Lehnin"], "name:slk_x_preferred": ["Kloster Lehnin"], "name:slv_x_preferred": ["Kloster Lehnin"], "name:spa_x_preferred": ["Kloster Lehnin"], "name:srd_x_preferred": ["Kloster Lehnin"], "name:srp_x_preferred": ["\u041a\u043b\u043e\u0441\u0442\u0435\u0440 \u041b\u0435\u043d\u0438\u043d"], "name:swa_x_preferred": ["Kloster Lehnin"], "name:swe_x_preferred": ["Kloster Lehnin"], "name:tat_x_preferred": ["\u041a\u043b\u043e\u0441\u0442\u0435\u0440-\u041b\u0435\u043d\u0438\u043d"], "name:ukr_x_preferred": ["\u041a\u043b\u043e\u0441\u0442\u0435\u0440-\u041b\u0435\u043d\u0456\u043d"], "name:uzb_x_preferred": ["Kloster Lehnin"], "name:vec_x_preferred": ["Kloster Lehnin"], "name:vie_x_preferred": ["Kloster Lehnin"], "name:vls_x_preferred": ["Kloster Lehnin"], "name:vol_x_preferred": ["Kloster Lehnin"], "name:war_x_preferred": ["Kloster Lehnin"], "name:wln_x_preferred": ["Kloster Lehnin"], "name:wol_x_preferred": ["Kloster Lehnin"], "name:zho_x_preferred": ["\u514b\u6d1b\u65af\u7279\u5c14\u83b1\u5b81"], "name:zul_x_preferred": ["Kloster Lehnin"], "nav:latitude": 52.315797, "nav:longitude": 12.738465, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Brandenburg", "qs:a1r": "0", "qs:a2": "Potsdam-Mittelmark", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Kloster Lehnin", "qs:la_lc": "*DE12006900306", "qs:level": "locality", "qs:loc": "Kloster Lehnin", "qs:loc_alt": "Kloster Lehnin", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6547673, "qs_pg:gn_pop": 11129, "qs_pg:name": "Gemeinde Kloster Lehnin", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Bundesland Brandenburg", "qs_pg:photos": 2, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 2, "qs_pg:photos_9r": 5, "qs_pg:photos_all": 389, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1312966, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 24547172, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 300, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Bundesland Brandenburg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682553, 102191581, 1377683787, 85633111, 102063937], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_12069306", "eurostat:nuts_2021_id": "12069306", "gn:id": 2879407, "gp:id": 670935, "qs_pg:id": 906320, "wd:id": "Q627838", "wk:page": "Kloster Lehnin"}, "wof:coterminous": [1377683787], "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "3b817ee6c75a21d0ce4ab7e3a822d655", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063937, "localadmin_id": 1377683787, "locality_id": 101819751, "region_id": 85682553}], "wof:id": 101819751, "wof:lastmodified": 1690872403, "wof:name": "Kloster Lehnin", "wof:parent_id": 1377683787, "wof:placetype": "locality", "wof:population": 10894, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125340087, 1125379231, 1327112287], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.499618, 52.238554, 12.827845, 52.396008], "geometry": {"coordinates": [[[[12.655658, 52.391331], [12.658274, 52.388855], [12.658173, 52.387975], [12.660111, 52.386978], [12.6604, 52.38565], [12.655991, 52.381054], [12.65713, 52.380424], [12.658193, 52.380034], [12.659491, 52.38001], [12.660793, 52.380066], [12.66191, 52.379887], [12.662871, 52.378593], [12.663397, 52.378202], [12.663933, 52.378026], [12.664338, 52.377997], [12.664825, 52.377962], [12.665756, 52.377922], [12.666447, 52.377719], [12.667017, 52.377447], [12.667426, 52.377058], [12.669149, 52.377289], [12.669654, 52.37728], [12.665376, 52.379798], [12.672729, 52.381547], [12.677593, 52.382703], [12.677485, 52.379524], [12.678164, 52.378144], [12.679806, 52.378478], [12.684083, 52.382199], [12.685072, 52.38226], [12.686781, 52.382365], [12.688349, 52.385873], [12.689505, 52.386105], [12.691033, 52.386412], [12.694206, 52.384042], [12.69521, 52.383171], [12.696429, 52.383611], [12.699559, 52.384777], [12.706752, 52.386328], [12.708605, 52.383937], [12.710375, 52.381655], [12.717597, 52.384995], [12.719207, 52.385739], [12.724281, 52.383665], [12.725663, 52.384557], [12.730251, 52.387523], [12.732321, 52.386872], [12.735044, 52.387793], [12.735917, 52.38703], [12.740336, 52.388575], [12.742939, 52.386931], [12.744365, 52.387452], [12.746166, 52.384562], [12.750381, 52.381559], [12.751726, 52.380601], [12.753518, 52.38078], [12.760416, 52.38147], [12.760396, 52.374048], [12.768769, 52.367501], [12.771528, 52.3662], [12.772326, 52.368033], [12.774377, 52.36749], [12.776404, 52.368566], [12.777997, 52.368536], [12.781917, 52.368475], [12.78122, 52.36556], [12.789548, 52.364721], [12.789495, 52.363675], [12.791769, 52.363274], [12.792592, 52.365687], [12.796104, 52.365167], [12.797533, 52.366993], [12.800685, 52.371024], [12.801291, 52.373805], [12.801903, 52.375127], [12.803788, 52.378523], [12.804463, 52.37878], [12.807685, 52.378817], [12.824278, 52.375834], [12.820444, 52.363365], [12.820579, 52.360861], [12.820701, 52.358654], [12.822622, 52.346325], [12.823747, 52.343082], [12.82338, 52.341668], [12.82269, 52.337174], [12.822731, 52.335697], [12.823912, 52.332222], [12.825357, 52.328599], [12.827058, 52.325424], [12.827827, 52.323675], [12.827845, 52.323171], [12.827704, 52.322715], [12.827208, 52.321924], [12.825324, 52.318145], [12.824999, 52.317539], [12.824561, 52.317008], [12.824071, 52.316631], [12.823535, 52.3162], [12.823043, 52.31576], [12.822721, 52.315226], [12.822694, 52.314687], [12.822828, 52.314153], [12.8207, 52.31019], [12.820562, 52.310076], [12.818207, 52.30825], [12.818327, 52.307429], [12.818816, 52.307239], [12.819002, 52.303447], [12.819426, 52.303115], [12.820974, 52.301825], [12.821673, 52.301425], [12.822508, 52.301112], [12.816811, 52.297659], [12.81045, 52.295244], [12.804849, 52.293471], [12.79924, 52.291842], [12.795692, 52.291029], [12.788187, 52.289462], [12.786117, 52.287223], [12.784403, 52.284827], [12.784153, 52.283713], [12.782076, 52.279186], [12.782118, 52.271906], [12.781228, 52.269673], [12.78021, 52.2681], [12.779154, 52.267517], [12.778202, 52.266968], [12.77729, 52.266338], [12.776388, 52.265608], [12.770782, 52.259425], [12.768068, 52.256768], [12.763425, 52.252203], [12.762491, 52.251402], [12.761486, 52.250665], [12.760354, 52.250012], [12.757541, 52.248598], [12.755798, 52.24774], [12.754625, 52.24715], [12.75348, 52.246524], [12.75192, 52.245528], [12.71427, 52.238554], [12.708637, 52.242497], [12.705193, 52.245065], [12.705663, 52.247104], [12.705938, 52.2483], [12.704143, 52.249962], [12.702053, 52.251908], [12.700094, 52.252628], [12.700082, 52.255984], [12.702306, 52.256186], [12.701183, 52.258717], [12.701857, 52.259605], [12.702202, 52.260057], [12.70343, 52.260286], [12.704263, 52.260523], [12.704884, 52.260926], [12.705192, 52.261541], [12.705366, 52.262095], [12.705594, 52.262856], [12.708032, 52.262631], [12.707594, 52.260876], [12.709052, 52.261002], [12.70961, 52.262818], [12.710876, 52.263506], [12.710681, 52.264328], [12.708893, 52.264649], [12.708225, 52.265381], [12.706543, 52.265475], [12.705231, 52.265931], [12.70231, 52.265877], [12.701387, 52.2653], [12.701297, 52.265257], [12.695656, 52.26536], [12.711109, 52.268261], [12.71139, 52.268319], [12.706928, 52.278128], [12.70682, 52.278328], [12.707943, 52.279378], [12.707199, 52.280975], [12.707049, 52.281797], [12.704412, 52.282305], [12.700649, 52.290145], [12.696464, 52.290108], [12.692312, 52.290102], [12.691389, 52.290119], [12.690514, 52.290234], [12.689656, 52.290394], [12.688904, 52.290624], [12.687817, 52.290895], [12.686706, 52.290988], [12.68572, 52.290934], [12.683727, 52.290682], [12.681848, 52.290356], [12.680261, 52.289998], [12.678488, 52.289446], [12.676932, 52.293379], [12.675256, 52.296055], [12.674213, 52.298782], [12.674099, 52.299459], [12.674077, 52.299612], [12.673932, 52.300254], [12.673874, 52.30057], [12.673787, 52.300895], [12.673253, 52.301697], [12.671622, 52.302869], [12.665288, 52.303001], [12.663682, 52.304713], [12.661942, 52.304852], [12.658444, 52.305986], [12.658743, 52.308536], [12.655941, 52.308586], [12.653294, 52.308184], [12.649291, 52.307959], [12.642405, 52.310448], [12.639931, 52.311099], [12.636983, 52.31158], [12.626074, 52.312524], [12.625142, 52.31129], [12.623293, 52.311609], [12.623882, 52.312991], [12.624226, 52.315342], [12.623931, 52.317739], [12.623152, 52.319753], [12.621147, 52.321717], [12.609354, 52.321831], [12.607564, 52.318774], [12.606446, 52.316706], [12.603097, 52.310142], [12.597452, 52.311416], [12.594411, 52.312103], [12.589682, 52.313995], [12.582284, 52.312434], [12.581022, 52.311493], [12.579462, 52.308007], [12.572406, 52.304891], [12.576668, 52.302151], [12.570932, 52.297974], [12.562498, 52.294215], [12.561305, 52.295711], [12.559343, 52.294539], [12.558362, 52.295545], [12.556644, 52.295197], [12.558605, 52.293148], [12.557641, 52.292921], [12.553871, 52.291996], [12.551666, 52.293195], [12.549988, 52.292099], [12.54784, 52.293593], [12.545821, 52.288868], [12.54371, 52.287303], [12.54538, 52.284971], [12.542492, 52.284696], [12.541337, 52.283807], [12.538559, 52.284016], [12.537127, 52.283501], [12.535589, 52.28583], [12.531008, 52.292917], [12.530209, 52.294064], [12.528329, 52.296309], [12.523442, 52.302186], [12.522945, 52.302878], [12.521242, 52.305498], [12.515382, 52.30377], [12.514739, 52.304816], [12.50896, 52.303257], [12.508364, 52.306992], [12.508235, 52.308398], [12.508253, 52.310116], [12.50834, 52.312067], [12.508792, 52.319571], [12.508821, 52.319886], [12.50886, 52.320443], [12.502079, 52.319828], [12.499618, 52.322253], [12.501291, 52.322316], [12.505251, 52.322465], [12.50526, 52.329599], [12.505252, 52.331075], [12.506301, 52.3322], [12.51004, 52.331742], [12.510103, 52.332163], [12.510415, 52.334542], [12.511047, 52.337528], [12.51942, 52.337531], [12.52578, 52.342111], [12.524313, 52.342478], [12.524465, 52.346191], [12.522515, 52.346278], [12.522665, 52.347652], [12.523883, 52.347622], [12.526567, 52.347523], [12.528464, 52.348162], [12.530102, 52.348714], [12.534543, 52.350096], [12.53627, 52.353531], [12.543198, 52.353368], [12.550855, 52.353085], [12.555588, 52.349585], [12.55795, 52.348984], [12.561014, 52.346725], [12.564622, 52.347483], [12.567542, 52.347821], [12.568441, 52.347925], [12.575465, 52.348604], [12.588252, 52.348706], [12.593635, 52.347893], [12.593391, 52.356858], [12.594993, 52.359703], [12.594856, 52.360943], [12.599992, 52.365749], [12.606196, 52.365145], [12.606561, 52.365952], [12.607016, 52.366966], [12.605953, 52.370017], [12.603172, 52.372459], [12.611732, 52.392912], [12.613762, 52.392624], [12.637885, 52.395342], [12.641271, 52.395486], [12.647678, 52.395757], [12.651264, 52.396008], [12.652139, 52.393969], [12.655658, 52.391331]]]], "type": "MultiPolygon"}}
+{
+  "id": 101819751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_12069306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kloster Lehnin",
+    "eurostat:nuts_2021_id":"12069306",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE4",
+    "eurostat:nuts_2021_level_2":"DE40",
+    "eurostat:nuts_2021_level_3":"DE40E",
+    "eurostat:nuts_2021_level_lau":"12069306",
+    "eurostat:population":10894,
+    "eurostat:population_year":2020,
+    "geom:area":0.026461,
+    "geom:area_square_m":199962642.324324,
+    "geom:bbox":"12.499618,52.238554,12.827845,52.396008",
+    "geom:latitude":52.328117,
+    "geom:longitude":12.689161,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"12069.0",
+    "gn:admin4_code":"12069306.0",
+    "gn:asciiname":"Kloster Lehnin",
+    "gn:country":null,
+    "gn:country_code":"DE",
+    "gn:dem":38,
+    "gn:elevation":"56.0",
+    "gn:fcode":"ADM4",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":6691734,
+    "gn:latitude":52.32039,
+    "gn:longitude":12.7432,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kloster Lehnin",
+    "gn:population":11129,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:latitude":52.315797,
+    "lbl:longitude":12.738465,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":52.315797,
+    "mps:longitude":12.738465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:arg_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:ast_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:bar_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:bre_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:cat_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:ceb_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:ces_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043b\u043e\u0441\u0442\u0435\u0440-\u041b\u0435\u043d\u0438\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:cym_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:dan_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:deu_x_historical":[
+        "Zisterzienserkloster Lehnin"
+    ],
+    "name:deu_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:deu_x_variant":[
+        "Lehnin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03cc\u03c3\u03c4\u03b5\u03c1 \u039b\u03ad\u03bd\u03b9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:epo_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:est_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:eus_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0648\u0634\u062a\u0631 \u0644\u0647\u0646\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:fra_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:frp_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:fur_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:gla_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:gle_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:glg_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:gsw_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:hbs_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:hrv_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:hun_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056c\u0578\u057d\u057f\u0565\u0580 \u053c\u0565\u0570\u0576\u056b\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:ile_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:ina_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:ind_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:isl_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:ita_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30b9\u30bf\u30fc\u30fb\u30ec\u30fc\u30cb\u30f3"
+    ],
+    "name:kon_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:kur_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:lij_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:lim_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:lld_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:ltz_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:min_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043b\u043e\u0441\u0442\u0435\u0440 \u041b\u0435\u043d\u0438\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:msa_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:nap_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:nds_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:nld_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:nno_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:nob_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:nrm_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:oci_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:pcd_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:pms_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:pol_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:por_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:roh_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:ron_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0441\u0442\u0435\u0440-\u041b\u0435\u043d\u0438\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:sco_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:slk_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:slv_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:spa_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:srd_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u043e\u0441\u0442\u0435\u0440 \u041b\u0435\u043d\u0438\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:swe_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043b\u043e\u0441\u0442\u0435\u0440-\u041b\u0435\u043d\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u043e\u0441\u0442\u0435\u0440-\u041b\u0435\u043d\u0456\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:vec_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:vie_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:vls_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:vol_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:war_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:wln_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:wol_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u6d1b\u65af\u7279\u5c14\u83b1\u5b81"
+    ],
+    "name:zul_x_preferred":[
+        "Kloster Lehnin"
+    ],
+    "nav:latitude":52.315797,
+    "nav:longitude":12.738465,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Brandenburg",
+    "qs:a1r":"0",
+    "qs:a2":"Potsdam-Mittelmark",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Kloster Lehnin",
+    "qs:la_lc":"*DE12006900306",
+    "qs:level":"locality",
+    "qs:loc":"Kloster Lehnin",
+    "qs:loc_alt":"Kloster Lehnin",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6547673,
+    "qs_pg:gn_pop":11129,
+    "qs_pg:name":"Gemeinde Kloster Lehnin",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Bundesland Brandenburg",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":389,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1312966,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":24547172,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":300,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Bundesland Brandenburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682553,
+        102191581,
+        1377683787,
+        85633111,
+        102063937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_12069306",
+        "eurostat:nuts_2021_id":"12069306",
+        "gn:id":2879407,
+        "gp:id":670935,
+        "qs_pg:id":906320,
+        "wd:id":"Q627838",
+        "wk:page":"Kloster Lehnin"
+    },
+    "wof:coterminous":[
+        1377683787
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"3b817ee6c75a21d0ce4ab7e3a822d655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063937,
+            "localadmin_id":1377683787,
+            "locality_id":101819751,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":101819751,
+    "wof:lastmodified":1690872403,
+    "wof:name":"Kloster Lehnin",
+    "wof:parent_id":1377683787,
+    "wof:placetype":"locality",
+    "wof:population":10894,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125340087,
+        1125379231,
+        1327112287
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.499618,
+    52.238554,
+    12.827845,
+    52.396008
+],
+  "geometry": {"coordinates":[[[[12.655658,52.391331],[12.658274,52.388855],[12.658173,52.387975],[12.660111,52.386978],[12.6604,52.38565],[12.655991,52.381054],[12.65713,52.380424],[12.658193,52.380034],[12.659491,52.38001],[12.660793,52.380066],[12.66191,52.379887],[12.662871,52.378593],[12.663397,52.378202],[12.663933,52.378026],[12.664338,52.377997],[12.664825,52.377962],[12.665756,52.377922],[12.666447,52.377719],[12.667017,52.377447],[12.667426,52.377058],[12.669149,52.377289],[12.669654,52.37728],[12.665376,52.379798],[12.672729,52.381547],[12.677593,52.382703],[12.677485,52.379524],[12.678164,52.378144],[12.679806,52.378478],[12.684083,52.382199],[12.685072,52.38226],[12.686781,52.382365],[12.688349,52.385873],[12.689505,52.386105],[12.691033,52.386412],[12.694206,52.384042],[12.69521,52.383171],[12.696429,52.383611],[12.699559,52.384777],[12.706752,52.386328],[12.708605,52.383937],[12.710375,52.381655],[12.717597,52.384995],[12.719207,52.385739],[12.724281,52.383665],[12.725663,52.384557],[12.730251,52.387523],[12.732321,52.386872],[12.735044,52.387793],[12.735917,52.38703],[12.740336,52.388575],[12.742939,52.386931],[12.744365,52.387452],[12.746166,52.384562],[12.750381,52.381559],[12.751726,52.380601],[12.753518,52.38078],[12.760416,52.38147],[12.760396,52.374048],[12.768769,52.367501],[12.771528,52.3662],[12.772326,52.368033],[12.774377,52.36749],[12.776404,52.368566],[12.777997,52.368536],[12.781917,52.368475],[12.78122,52.36556],[12.789548,52.364721],[12.789495,52.363675],[12.791769,52.363274],[12.792592,52.365687],[12.796104,52.365167],[12.797533,52.366993],[12.800685,52.371024],[12.801291,52.373805],[12.801903,52.375127],[12.803788,52.378523],[12.804463,52.37878],[12.807685,52.378817],[12.824278,52.375834],[12.820444,52.363365],[12.820579,52.360861],[12.820701,52.358654],[12.822622,52.346325],[12.823747,52.343082],[12.82338,52.341668],[12.82269,52.337174],[12.822731,52.335697],[12.823912,52.332222],[12.825357,52.328599],[12.827058,52.325424],[12.827827,52.323675],[12.827845,52.323171],[12.827704,52.322715],[12.827208,52.321924],[12.825324,52.318145],[12.824999,52.317539],[12.824561,52.317008],[12.824071,52.316631],[12.823535,52.3162],[12.823043,52.31576],[12.822721,52.315226],[12.822694,52.314687],[12.822828,52.314153],[12.8207,52.31019],[12.820562,52.310076],[12.818207,52.30825],[12.818327,52.307429],[12.818816,52.307239],[12.819002,52.303447],[12.819426,52.303115],[12.820974,52.301825],[12.821673,52.301425],[12.822508,52.301112],[12.816811,52.297659],[12.81045,52.295244],[12.804849,52.293471],[12.79924,52.291842],[12.795692,52.291029],[12.788187,52.289462],[12.786117,52.287223],[12.784403,52.284827],[12.784153,52.283713],[12.782076,52.279186],[12.782118,52.271906],[12.781228,52.269673],[12.78021,52.2681],[12.779154,52.267517],[12.778202,52.266968],[12.77729,52.266338],[12.776388,52.265608],[12.770782,52.259425],[12.768068,52.256768],[12.763425,52.252203],[12.762491,52.251402],[12.761486,52.250665],[12.760354,52.250012],[12.757541,52.248598],[12.755798,52.24774],[12.754625,52.24715],[12.75348,52.246524],[12.75192,52.245528],[12.71427,52.238554],[12.708637,52.242497],[12.705193,52.245065],[12.705663,52.247104],[12.705938,52.2483],[12.704143,52.249962],[12.702053,52.251908],[12.700094,52.252628],[12.700082,52.255984],[12.702306,52.256186],[12.701183,52.258717],[12.701857,52.259605],[12.702202,52.260057],[12.70343,52.260286],[12.704263,52.260523],[12.704884,52.260926],[12.705192,52.261541],[12.705366,52.262095],[12.705594,52.262856],[12.708032,52.262631],[12.707594,52.260876],[12.709052,52.261002],[12.70961,52.262818],[12.710876,52.263506],[12.710681,52.264328],[12.708893,52.264649],[12.708225,52.265381],[12.706543,52.265475],[12.705231,52.265931],[12.70231,52.265877],[12.701387,52.2653],[12.701297,52.265257],[12.695656,52.26536],[12.711109,52.268261],[12.71139,52.268319],[12.706928,52.278128],[12.70682,52.278328],[12.707943,52.279378],[12.707199,52.280975],[12.707049,52.281797],[12.704412,52.282305],[12.700649,52.290145],[12.696464,52.290108],[12.692312,52.290102],[12.691389,52.290119],[12.690514,52.290234],[12.689656,52.290394],[12.688904,52.290624],[12.687817,52.290895],[12.686706,52.290988],[12.68572,52.290934],[12.683727,52.290682],[12.681848,52.290356],[12.680261,52.289998],[12.678488,52.289446],[12.676932,52.293379],[12.675256,52.296055],[12.674213,52.298782],[12.674099,52.299459],[12.674077,52.299612],[12.673932,52.300254],[12.673874,52.30057],[12.673787,52.300895],[12.673253,52.301697],[12.671622,52.302869],[12.665288,52.303001],[12.663682,52.304713],[12.661942,52.304852],[12.658444,52.305986],[12.658743,52.308536],[12.655941,52.308586],[12.653294,52.308184],[12.649291,52.307959],[12.642405,52.310448],[12.639931,52.311099],[12.636983,52.31158],[12.626074,52.312524],[12.625142,52.31129],[12.623293,52.311609],[12.623882,52.312991],[12.624226,52.315342],[12.623931,52.317739],[12.623152,52.319753],[12.621147,52.321717],[12.609354,52.321831],[12.607564,52.318774],[12.606446,52.316706],[12.603097,52.310142],[12.597452,52.311416],[12.594411,52.312103],[12.589682,52.313995],[12.582284,52.312434],[12.581022,52.311493],[12.579462,52.308007],[12.572406,52.304891],[12.576668,52.302151],[12.570932,52.297974],[12.562498,52.294215],[12.561305,52.295711],[12.559343,52.294539],[12.558362,52.295545],[12.556644,52.295197],[12.558605,52.293148],[12.557641,52.292921],[12.553871,52.291996],[12.551666,52.293195],[12.549988,52.292099],[12.54784,52.293593],[12.545821,52.288868],[12.54371,52.287303],[12.54538,52.284971],[12.542492,52.284696],[12.541337,52.283807],[12.538559,52.284016],[12.537127,52.283501],[12.535589,52.28583],[12.531008,52.292917],[12.530209,52.294064],[12.528329,52.296309],[12.523442,52.302186],[12.522945,52.302878],[12.521242,52.305498],[12.515382,52.30377],[12.514739,52.304816],[12.50896,52.303257],[12.508364,52.306992],[12.508235,52.308398],[12.508253,52.310116],[12.50834,52.312067],[12.508792,52.319571],[12.508821,52.319886],[12.50886,52.320443],[12.502079,52.319828],[12.499618,52.322253],[12.501291,52.322316],[12.505251,52.322465],[12.50526,52.329599],[12.505252,52.331075],[12.506301,52.3322],[12.51004,52.331742],[12.510103,52.332163],[12.510415,52.334542],[12.511047,52.337528],[12.51942,52.337531],[12.52578,52.342111],[12.524313,52.342478],[12.524465,52.346191],[12.522515,52.346278],[12.522665,52.347652],[12.523883,52.347622],[12.526567,52.347523],[12.528464,52.348162],[12.530102,52.348714],[12.534543,52.350096],[12.53627,52.353531],[12.543198,52.353368],[12.550855,52.353085],[12.555588,52.349585],[12.55795,52.348984],[12.561014,52.346725],[12.564622,52.347483],[12.567542,52.347821],[12.568441,52.347925],[12.575465,52.348604],[12.588252,52.348706],[12.593635,52.347893],[12.593391,52.356858],[12.594993,52.359703],[12.594856,52.360943],[12.599992,52.365749],[12.606196,52.365145],[12.606561,52.365952],[12.607016,52.366966],[12.605953,52.370017],[12.603172,52.372459],[12.611732,52.392912],[12.613762,52.392624],[12.637885,52.395342],[12.641271,52.395486],[12.647678,52.395757],[12.651264,52.396008],[12.652139,52.393969],[12.655658,52.391331]]]],"type":"MultiPolygon"}
+}

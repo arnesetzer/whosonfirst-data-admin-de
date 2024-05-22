@@ -1,1 +1,152 @@
-{"id": 101909671, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4e-05, "geom:area_square_m": 298837.620293, "geom:bbox": "11.645253,52.386592,11.658503,52.392125", "geom:latitude": 52.388906, "geom:longitude": 11.652089, "gn:population": 292, "iso:country": "DE", "lbl:latitude": 52.388457, "lbl:longitude": 11.652089, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.388457, "mps:longitude": 11.652089, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041a\u0440\u0451\u0445\u0435\u0440\u043d"], "name:ceb_x_preferred": ["Cr\u00f6chern"], "name:che_x_preferred": ["\u041a\u0440\u043e\u044c\u0445\u0435\u0440\u043d"], "name:deu_x_preferred": ["Cr\u00f6chern"], "name:eng_x_preferred": ["Cr\u00f6chern"], "name:epo_x_preferred": ["Cr\u00f6chern"], "name:fas_x_preferred": ["\u06a9\u0631\u0648\u0634\u0631\u0646"], "name:fra_x_preferred": ["Cr\u00f6chern"], "name:ita_x_preferred": ["Cr\u00f6chern"], "name:kaz_x_preferred": ["\u041a\u0440\u0451\u0445\u0435\u0440\u043d"], "name:kir_x_preferred": ["\u041a\u0440\u04e9\u0445\u0435\u0440\u043d"], "name:nld_x_preferred": ["Cr\u00f6chern"], "name:pol_x_preferred": ["Cr\u00f6chern"], "name:ron_x_preferred": ["Cr\u00f6chern"], "name:rus_x_preferred": ["\u041a\u0440\u0451\u0445\u0435\u0440\u043d"], "name:tat_x_preferred": ["\u041a\u0440\u0451\u0445\u0435\u0440\u043d"], "name:uzb_x_preferred": ["Cr\u00f6chern"], "name:vie_x_preferred": ["Cr\u00f6chern"], "name:vol_x_preferred": ["Cr\u00f6chern"], "name:zho_x_preferred": ["\u514b\u52d2\u8c22\u6069"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "B\u00f6rde", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Cr\u00f6chern", "qs:la_lc": "*DE15008302135", "qs:level": "locality", "qs:loc": "Cr\u00f6chern", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 27, "wof:belongsto": [85682519, 102191581, 1377688387, 85633111, 102063925], "wof:breaches": [], "wof:concordances": {"gn:id": 2939736, "gp:id": 643364, "qs_pg:id": 1235515, "wd:id": "Q696554", "wk:page": "Cr\u00f6chern"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "8cf623a1f72d51ed7a4307dd01cc74e0", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063925, "localadmin_id": 1377688387, "locality_id": 101909671, "region_id": 85682519}], "wof:id": 101909671, "wof:lastmodified": 1690871422, "wof:name": "Cr\u00f6chern", "wof:parent_id": 1377688387, "wof:placetype": "locality", "wof:population": 292, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.645253, 52.386592, 11.658503, 52.392125], "geometry": {"coordinates": [[[11.64829, 52.392105], [11.648224, 52.390308], [11.658503, 52.390165], [11.658436, 52.388368], [11.656968, 52.388389], [11.6569, 52.386592], [11.649558, 52.386694], [11.649592, 52.387592], [11.648123, 52.387613], [11.64819, 52.38941], [11.645253, 52.38945], [11.64532, 52.391247], [11.646788, 52.391227], [11.646822, 52.392125], [11.64829, 52.392105]]], "type": "Polygon"}}
+{
+  "id": 101909671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":298837.620293,
+    "geom:bbox":"11.645253,52.386592,11.658503,52.392125",
+    "geom:latitude":52.388906,
+    "geom:longitude":11.652089,
+    "gn:population":292,
+    "iso:country":"DE",
+    "lbl:latitude":52.388457,
+    "lbl:longitude":11.652089,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.388457,
+    "mps:longitude":11.652089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041a\u0440\u0451\u0445\u0435\u0440\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u043e\u044c\u0445\u0435\u0440\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:eng_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:epo_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u0634\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:ita_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0451\u0445\u0435\u0440\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0440\u04e9\u0445\u0435\u0440\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:pol_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:ron_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0451\u0445\u0435\u0440\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0451\u0445\u0435\u0440\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:vie_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:vol_x_preferred":[
+        "Cr\u00f6chern"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u52d2\u8c22\u6069"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"B\u00f6rde",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Cr\u00f6chern",
+    "qs:la_lc":"*DE15008302135",
+    "qs:level":"locality",
+    "qs:loc":"Cr\u00f6chern",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688387,
+        85633111,
+        102063925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2939736,
+        "gp:id":643364,
+        "qs_pg:id":1235515,
+        "wd:id":"Q696554",
+        "wk:page":"Cr\u00f6chern"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"8cf623a1f72d51ed7a4307dd01cc74e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063925,
+            "localadmin_id":1377688387,
+            "locality_id":101909671,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909671,
+    "wof:lastmodified":1690871422,
+    "wof:name":"Cr\u00f6chern",
+    "wof:parent_id":1377688387,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.645253,
+    52.386592,
+    11.658503,
+    52.392125
+],
+  "geometry": {"coordinates":[[[11.64829,52.392105],[11.648224,52.390308],[11.658503,52.390165],[11.658436,52.388368],[11.656968,52.388389],[11.6569,52.386592],[11.649558,52.386694],[11.649592,52.387592],[11.648123,52.387613],[11.64819,52.38941],[11.645253,52.38945],[11.64532,52.391247],[11.646788,52.391227],[11.646822,52.392125],[11.64829,52.392105]]],"type":"Polygon"}
+}

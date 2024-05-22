@@ -1,1 +1,81 @@
-{"id": 1393598211, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.65361,49.78286,10.65361,49.78286", "geom:latitude": 49.78286, "geom:longitude": 10.65361, "gn:admin1_code": "2", "gn:admin2_code": "94.0", "gn:admin3_code": "9471.0", "gn:admin4_code": "9471220.0", "gn:asciiname": "Obermelsendorf", "gn:country_code": "DE", "gn:dem": 342, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2859789, "gn:latitude": 49.78286, "gn:longitude": 10.65361, "gn:modification_date": "2013-02-19", "gn:name": "Obermelsendorf", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.64861,49.77786,10.65861,49.78786", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377687247, 404227583, 101827137, 1175611271, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2859789}, "wof:country": "DE", "wof:geomhash": "fcc3bcf13e75aa76f33494dea7835f7a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1175611271, "localadmin_id": 1377687247, "locality_id": 101827137, "macrocounty_id": 404227583, "neighbourhood_id": 1393598211, "region_id": 85682571}], "wof:id": 1393598211, "wof:lastmodified": 1566714905, "wof:name": "Obermelsendorf", "wof:parent_id": 101827137, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1309811827], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.65361, 49.78286, 10.65361, 49.78286], "geometry": {"coordinates": [10.65361, 49.78286], "type": "Point"}}
+{
+  "id": 1393598211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65361,49.78286,10.65361,49.78286",
+    "geom:latitude":49.78286,
+    "geom:longitude":10.65361,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"94.0",
+    "gn:admin3_code":"9471.0",
+    "gn:admin4_code":"9471220.0",
+    "gn:asciiname":"Obermelsendorf",
+    "gn:country_code":"DE",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2859789,
+    "gn:latitude":49.78286,
+    "gn:longitude":10.65361,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Obermelsendorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.64861,49.77786,10.65861,49.78786",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377687247,
+        404227583,
+        101827137,
+        1175611271,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2859789
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"fcc3bcf13e75aa76f33494dea7835f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1175611271,
+            "localadmin_id":1377687247,
+            "locality_id":101827137,
+            "macrocounty_id":404227583,
+            "neighbourhood_id":1393598211,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393598211,
+    "wof:lastmodified":1566714905,
+    "wof:name":"Obermelsendorf",
+    "wof:parent_id":101827137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309811827
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65361,
+    49.78286,
+    10.65361,
+    49.78286
+],
+  "geometry": {"coordinates":[10.65361,49.78286],"type":"Point"}
+}

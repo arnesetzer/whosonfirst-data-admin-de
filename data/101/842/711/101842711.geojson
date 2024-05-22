@@ -1,1 +1,391 @@
-{"id": 101842711, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07340011", "eurostat:level_code": "lau", "eurostat:name_local": "Fischbach bei Dahn", "eurostat:nuts_2021_id": "07340011", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3K", "eurostat:nuts_2021_level_lau": "07340011", "eurostat:population": 1464, "eurostat:population_year": 2020, "geom:area": 0.004045, "geom:area_square_m": 32753598.688736, "geom:bbox": "7.648257,49.044967,7.759781,49.130231", "geom:latitude": 49.090363, "geom:longitude": 7.69728, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 1565, "iso:country": "DE", "lbl:latitude": 49.089769, "lbl:longitude": 7.707148, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 49.089769, "mps:longitude": 7.707148, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Fischbach bei Dahn"], "name:arg_x_preferred": ["Fischbach bei Dahn"], "name:ast_x_preferred": ["Fischbach bei Dahn"], "name:bar_x_preferred": ["Fischbach bei Dahn"], "name:bre_x_preferred": ["Fischbach bei Dahn"], "name:cat_x_preferred": ["Fischbach bei Dahn"], "name:ceb_x_preferred": ["Fischbach bei Dahn"], "name:ces_x_preferred": ["Fischbach bei Dahn"], "name:che_x_preferred": ["\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"], "name:cos_x_preferred": ["Fischbach bei Dahn"], "name:cym_x_preferred": ["Fischbach bei Dahn"], "name:dan_x_preferred": ["Fischbach bei Dahn"], "name:deu_x_preferred": ["Fischbach bei Dahn"], "name:eng_x_preferred": ["Fischbach bei Dahn"], "name:epo_x_preferred": ["Fischbach apud Dahn"], "name:est_x_preferred": ["Fischbach bei Dahn"], "name:eus_x_preferred": ["Fischbach bei Dahn"], "name:fas_x_preferred": ["\u0641\u06cc\u0634\u0628\u0627\u062e \u0628\u0627\u06cc \u062f\u0627\u0646"], "name:fin_x_preferred": ["Fischbach bei Dahn"], "name:fra_x_preferred": ["Fischbach bei Dahn"], "name:frp_x_preferred": ["Fischbach bei Dahn"], "name:fur_x_preferred": ["Fischbach bei Dahn"], "name:gla_x_preferred": ["Fischbach bei Dahn"], "name:gle_x_preferred": ["Fischbach bei Dahn"], "name:glg_x_preferred": ["Fischbach bei Dahn"], "name:gsw_x_preferred": ["Fischbach bei Dahn"], "name:hbs_x_preferred": ["Fischbach bei Dahn"], "name:hrv_x_preferred": ["Fischbach bei Dahn"], "name:hun_x_preferred": ["Fischbach bei Dahn"], "name:ido_x_preferred": ["Fischbach bei Dahn"], "name:ile_x_preferred": ["Fischbach bei Dahn"], "name:ina_x_preferred": ["Fischbach bei Dahn"], "name:ind_x_preferred": ["Fischbach bei Dahn"], "name:isl_x_preferred": ["Fischbach bei Dahn"], "name:ita_x_preferred": ["Fischbach bei Dahn"], "name:jpn_x_preferred": ["\u30d5\u30a3\u30c3\u30b7\u30e5\u30d0\u30c3\u30cf\u30fb\u30d0\u30a4\u30fb\u30c0\u30fc\u30f3"], "name:kaz_x_preferred": ["\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"], "name:kir_x_preferred": ["\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"], "name:kon_x_preferred": ["Fischbach bei Dahn"], "name:lij_x_preferred": ["Fischbach bei Dahn"], "name:lim_x_preferred": ["Fischbach bei Dahn"], "name:lld_x_preferred": ["Fischbach bei Dahn"], "name:ltz_x_preferred": ["Fischbach bei Dahn"], "name:min_x_preferred": ["Fischbach bei Dahn"], "name:mlg_x_preferred": ["Fischbach bei Dahn"], "name:msa_x_preferred": ["Fischbach bei Dahn"], "name:nan_x_preferred": ["Fischbach bei Dahn"], "name:nap_x_preferred": ["Fischbach bei Dahn"], "name:nds_x_preferred": ["Fischbach bei Dahn"], "name:nld_x_preferred": ["Fischbach bei Dahn"], "name:nno_x_preferred": ["Fischbach bei Dahn"], "name:nob_x_preferred": ["Fischbach bei Dahn"], "name:nrm_x_preferred": ["Fischbach bei Dahn"], "name:oci_x_preferred": ["Fischbach bei Dahn"], "name:pcd_x_preferred": ["Fischbach bei Dahn"], "name:pms_x_preferred": ["Fischbach bei Dahn"], "name:pol_x_preferred": ["Fischbach bei Dahn"], "name:por_x_preferred": ["Fischbach bei Dahn"], "name:roh_x_preferred": ["Fischbach bei Dahn"], "name:ron_x_preferred": ["Fischbach bei Dahn"], "name:rus_x_preferred": ["\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"], "name:scn_x_preferred": ["Fischbach bei Dahn"], "name:sco_x_preferred": ["Fischbach bei Dahn"], "name:slk_x_preferred": ["Fischbach bei Dahn"], "name:slv_x_preferred": ["Fischbach bei Dahn"], "name:spa_x_preferred": ["Fischbach bei Dahn"], "name:srd_x_preferred": ["Fischbach bei Dahn"], "name:srp_x_preferred": ["\u0424\u0438\u0448\u0431\u0430\u0445 \u0431\u0430\u0458 \u0414\u0430\u043d"], "name:swa_x_preferred": ["Fischbach bei Dahn"], "name:swe_x_preferred": ["Fischbach bei Dahn"], "name:tat_x_preferred": ["\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"], "name:ukr_x_preferred": ["\u0424\u0456\u0448\u0431\u0430\u0445-\u0431\u0430\u0439-\u0414\u0430\u043d"], "name:und_x_variant": ["Fischbach"], "name:uzb_x_preferred": ["Fischbach bei Dahn"], "name:vec_x_preferred": ["Fischbach bei Dahn"], "name:vie_x_preferred": ["Fischbach bei Dahn"], "name:vls_x_preferred": ["Fischbach bei Dahn"], "name:vol_x_preferred": ["Fischbach bei Dahn"], "name:war_x_preferred": ["Fischbach bei Dahn"], "name:wln_x_preferred": ["Fischbach bei Dahn"], "name:wol_x_preferred": ["Fischbach bei Dahn"], "name:zho_x_preferred": ["\u8fbe\u6069\u9644\u8fd1\u83f2\u65bd\u5df4\u8d6b"], "name:zul_x_preferred": ["Fischbach bei Dahn"], "nav:latitude": 49.089769, "nav:longitude": 7.707148, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "S\u00fcdwestpfalz", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Fischbach bei Dahn", "qs:la_lc": "*DE07034001011", "qs:level": "locality", "qs:loc": "Fischbach bei Dahn", "qs:loc_alt": "Fischbach bei Dahn", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-near-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555322, "qs_pg:gn_pop": 1565, "qs_pg:name": "Fischbach bei Dahn", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos": 15, "qs_pg:photos_1k": 3, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 48, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 635995, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12627697, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 86, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682491, 102191581, 1377686741, 85633111, 102063427], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07340011", "eurostat:nuts_2021_id": "07340011", "gn:id": 2926632, "gp:id": 649797, "qs_pg:id": 450996, "wd:id": "Q374915"}, "wof:concordances_alt": {"qs_pg:id": 579166}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "1b3f12707c3fb9dc41758d8a0b17c57a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063427, "localadmin_id": 1377686741, "locality_id": 101842711, "region_id": 85682491}], "wof:id": 101842711, "wof:lastmodified": 1690872172, "wof:name": "Fischbach bei Dahn", "wof:parent_id": 1377686741, "wof:placetype": "locality", "wof:population": 1464, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125335595, 1125312263], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.648257, 49.044967, 7.759781, 49.130231], "geometry": {"coordinates": [[[[7.754313, 49.109712], [7.755705, 49.106218], [7.759781, 49.10396], [7.755792, 49.102998], [7.75131, 49.10251], [7.747282, 49.101268], [7.742984, 49.098993], [7.742064, 49.097332], [7.741673, 49.096981], [7.739405, 49.094935], [7.73704, 49.08981], [7.734114, 49.089683], [7.735168, 49.084201], [7.734111, 49.083527], [7.733939, 49.083414], [7.733206, 49.082577], [7.732948, 49.082301], [7.72965, 49.08293], [7.729113, 49.083466], [7.728282, 49.084084], [7.727872, 49.084308], [7.727419, 49.084558], [7.726426, 49.084669], [7.725936, 49.084854], [7.725248, 49.085134], [7.724259, 49.085416], [7.723535, 49.085623], [7.722989, 49.085825], [7.722554, 49.086004], [7.72233, 49.086079], [7.721878, 49.086068], [7.721638, 49.085963], [7.721371, 49.085839], [7.720853, 49.085556], [7.720143, 49.085503], [7.719308, 49.085482], [7.718413, 49.085568], [7.717752, 49.085614], [7.717082, 49.085598], [7.716282, 49.085443], [7.715588, 49.085119], [7.715437, 49.08418], [7.715989, 49.083392], [7.715824, 49.082452], [7.714892, 49.081268], [7.71429, 49.079304], [7.713105, 49.075436], [7.71354, 49.071936], [7.711383, 49.070847], [7.70902, 49.070204], [7.706935, 49.069533], [7.705161, 49.069009], [7.703638, 49.067294], [7.702167, 49.066333], [7.701381, 49.065473], [7.699774, 49.062925], [7.699852, 49.062201], [7.699914, 49.061686], [7.697854, 49.060122], [7.697107, 49.059545], [7.695948, 49.057797], [7.694245, 49.056701], [7.693261, 49.055285], [7.692451, 49.054118], [7.697366, 49.051852], [7.697622, 49.049701], [7.69605, 49.049447], [7.694162, 49.049174], [7.692275, 49.048893], [7.689419, 49.049019], [7.687264, 49.049109], [7.685721, 49.049178], [7.68405, 49.048317], [7.680948, 49.048953], [7.676362, 49.04563], [7.676318, 49.045215], [7.674717, 49.044967], [7.673368, 49.045086], [7.672937, 49.045201], [7.668915, 49.046297], [7.662662, 49.047983], [7.659052, 49.048936], [7.649575, 49.051044], [7.648257, 49.051334], [7.661536, 49.067712], [7.665919, 49.070392], [7.668268, 49.071825], [7.669776, 49.071107], [7.671362, 49.07257], [7.671979, 49.073954], [7.675788, 49.074662], [7.676723, 49.076009], [7.67791, 49.076795], [7.678624, 49.077011], [7.679958, 49.077395], [7.681177, 49.079037], [7.682036, 49.079824], [7.685464, 49.080894], [7.688014, 49.081631], [7.690701, 49.082766], [7.691772, 49.083219], [7.696255, 49.084133], [7.697519, 49.084776], [7.699852, 49.084484], [7.701683, 49.085043], [7.702898, 49.084416], [7.704952, 49.084206], [7.705294, 49.084692], [7.704183, 49.084943], [7.703275, 49.085253], [7.702039, 49.085763], [7.701169, 49.086119], [7.700272, 49.086222], [7.698871, 49.086277], [7.697966, 49.086291], [7.697078, 49.086232], [7.696143, 49.085822], [7.695595, 49.085349], [7.69512, 49.084797], [7.694439, 49.085662], [7.690691, 49.084839], [7.688445, 49.084342], [7.686415, 49.084615], [7.685664, 49.084569], [7.685226, 49.084558], [7.683392, 49.084998], [7.681361, 49.085748], [7.680954, 49.086619], [7.680665, 49.087344], [7.681966, 49.087356], [7.68325, 49.087791], [7.682501, 49.088981], [7.680421, 49.089396], [7.678988, 49.089297], [7.676744, 49.090904], [7.677243, 49.091297], [7.678543, 49.092454], [7.676626, 49.093837], [7.676745, 49.093903], [7.679246, 49.094731], [7.678318, 49.095608], [7.677414, 49.095126], [7.672531, 49.094706], [7.672121, 49.095389], [7.672208, 49.096021], [7.672525, 49.096461], [7.673084, 49.096979], [7.673461, 49.097322], [7.673568, 49.097604], [7.67517, 49.09786], [7.675931, 49.097987], [7.676017, 49.09862], [7.675731, 49.099296], [7.675085, 49.100261], [7.674331, 49.101421], [7.674385, 49.102152], [7.673907, 49.103058], [7.67291, 49.104149], [7.671079, 49.103355], [7.669664, 49.103635], [7.668959, 49.104436], [7.669207, 49.105585], [7.669547, 49.106323], [7.671145, 49.10667], [7.672921, 49.107246], [7.673491, 49.10735], [7.675416, 49.107714], [7.675625, 49.108826], [7.672743, 49.108645], [7.672362, 49.109527], [7.67263, 49.110578], [7.669815, 49.110885], [7.669406, 49.110145], [7.669208, 49.109771], [7.668086, 49.109032], [7.665218, 49.108766], [7.664185, 49.10905], [7.663373, 49.109291], [7.662746, 49.109466], [7.661938, 49.109636], [7.661238, 49.109809], [7.660613, 49.10996], [7.660009, 49.110349], [7.659153, 49.110732], [7.658265, 49.111019], [7.657563, 49.11124], [7.656931, 49.111486], [7.656253, 49.111921], [7.655715, 49.112431], [7.65535, 49.113089], [7.654949, 49.113722], [7.654668, 49.114191], [7.654496, 49.114639], [7.654574, 49.115165], [7.654872, 49.115649], [7.655169, 49.116156], [7.655184, 49.116514], [7.654982, 49.116866], [7.654672, 49.117192], [7.654254, 49.117515], [7.653823, 49.118051], [7.653491, 49.118757], [7.653132, 49.11932], [7.652705, 49.119785], [7.652356, 49.120158], [7.652043, 49.120554], [7.651406, 49.120895], [7.650737, 49.121164], [7.651864, 49.123463], [7.654181, 49.123027], [7.655688, 49.121886], [7.656516, 49.120404], [7.659062, 49.119776], [7.659981, 49.119547], [7.663043, 49.117383], [7.663786, 49.116871], [7.666865, 49.116517], [7.667641, 49.116617], [7.669914, 49.1169], [7.670641, 49.117827], [7.671541, 49.118849], [7.673171, 49.120061], [7.677831, 49.121042], [7.679693, 49.12063], [7.682567, 49.120729], [7.684841, 49.121471], [7.687237, 49.123187], [7.690062, 49.120837], [7.691267, 49.120642], [7.692554, 49.12044], [7.692953, 49.120648], [7.695377, 49.121888], [7.697035, 49.123793], [7.697861, 49.125866], [7.700069, 49.127298], [7.701865, 49.128018], [7.704694, 49.12889], [7.706303, 49.12929], [7.710446, 49.130231], [7.711169, 49.129592], [7.711162, 49.129483], [7.711181, 49.128674], [7.712963, 49.127026], [7.714123, 49.126416], [7.713714, 49.124947], [7.715416, 49.123018], [7.716282, 49.12205], [7.716238, 49.120897], [7.716166, 49.119059], [7.717677, 49.117116], [7.718484, 49.115003], [7.718544, 49.114923], [7.720091, 49.114728], [7.722817, 49.111672], [7.72771, 49.112909], [7.73013, 49.114454], [7.730857, 49.115651], [7.732707, 49.11567], [7.73455, 49.116517], [7.736865, 49.115845], [7.737606, 49.113208], [7.738236, 49.112737], [7.738966, 49.112197], [7.739768, 49.111605], [7.741348, 49.111059], [7.740747, 49.1091], [7.741226, 49.108887], [7.741338, 49.108844], [7.742267, 49.108426], [7.743964, 49.108468], [7.74468, 49.108666], [7.749876, 49.110108], [7.750902, 49.110142], [7.752982, 49.110211], [7.753393, 49.110221], [7.754313, 49.109712]]]], "type": "MultiPolygon"}}
+{
+  "id": 101842711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07340011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fischbach bei Dahn",
+    "eurostat:nuts_2021_id":"07340011",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3K",
+    "eurostat:nuts_2021_level_lau":"07340011",
+    "eurostat:population":1464,
+    "eurostat:population_year":2020,
+    "geom:area":0.004045,
+    "geom:area_square_m":32753598.688736,
+    "geom:bbox":"7.648257,49.044967,7.759781,49.130231",
+    "geom:latitude":49.090363,
+    "geom:longitude":7.69728,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":1565,
+    "iso:country":"DE",
+    "lbl:latitude":49.089769,
+    "lbl:longitude":7.707148,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":49.089769,
+    "mps:longitude":7.707148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:arg_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ast_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:bar_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:bre_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:cat_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ceb_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ces_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:cym_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:dan_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:deu_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:eng_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:epo_x_preferred":[
+        "Fischbach apud Dahn"
+    ],
+    "name:est_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:eus_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0634\u0628\u0627\u062e \u0628\u0627\u06cc \u062f\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:fra_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:frp_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:fur_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:gla_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:gle_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:glg_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:gsw_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:hbs_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:hrv_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:hun_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ido_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ile_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ina_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ind_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:isl_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ita_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30c3\u30b7\u30e5\u30d0\u30c3\u30cf\u30fb\u30d0\u30a4\u30fb\u30c0\u30fc\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:lij_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:lim_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:lld_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ltz_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:min_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:mlg_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:msa_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:nan_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:nap_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:nds_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:nld_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:nno_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:nob_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:nrm_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:oci_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:pcd_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:pms_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:pol_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:por_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:roh_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:ron_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:sco_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:slk_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:slv_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:spa_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:srd_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0438\u0448\u0431\u0430\u0445 \u0431\u0430\u0458 \u0414\u0430\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:swe_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u0438\u0448\u0431\u0430\u0445-\u0414\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u0448\u0431\u0430\u0445-\u0431\u0430\u0439-\u0414\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Fischbach"
+    ],
+    "name:uzb_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:vec_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:vie_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:vls_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:vol_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:war_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:wln_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:wol_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u6069\u9644\u8fd1\u83f2\u65bd\u5df4\u8d6b"
+    ],
+    "name:zul_x_preferred":[
+        "Fischbach bei Dahn"
+    ],
+    "nav:latitude":49.089769,
+    "nav:longitude":7.707148,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"S\u00fcdwestpfalz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Fischbach bei Dahn",
+    "qs:la_lc":"*DE07034001011",
+    "qs:level":"locality",
+    "qs:loc":"Fischbach bei Dahn",
+    "qs:loc_alt":"Fischbach bei Dahn",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555322,
+    "qs_pg:gn_pop":1565,
+    "qs_pg:name":"Fischbach bei Dahn",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":635995,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12627697,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":86,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686741,
+        85633111,
+        102063427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07340011",
+        "eurostat:nuts_2021_id":"07340011",
+        "gn:id":2926632,
+        "gp:id":649797,
+        "qs_pg:id":450996,
+        "wd:id":"Q374915"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":579166
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"1b3f12707c3fb9dc41758d8a0b17c57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063427,
+            "localadmin_id":1377686741,
+            "locality_id":101842711,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101842711,
+    "wof:lastmodified":1690872172,
+    "wof:name":"Fischbach bei Dahn",
+    "wof:parent_id":1377686741,
+    "wof:placetype":"locality",
+    "wof:population":1464,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125335595,
+        1125312263
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.648257,
+    49.044967,
+    7.759781,
+    49.130231
+],
+  "geometry": {"coordinates":[[[[7.754313,49.109712],[7.755705,49.106218],[7.759781,49.10396],[7.755792,49.102998],[7.75131,49.10251],[7.747282,49.101268],[7.742984,49.098993],[7.742064,49.097332],[7.741673,49.096981],[7.739405,49.094935],[7.73704,49.08981],[7.734114,49.089683],[7.735168,49.084201],[7.734111,49.083527],[7.733939,49.083414],[7.733206,49.082577],[7.732948,49.082301],[7.72965,49.08293],[7.729113,49.083466],[7.728282,49.084084],[7.727872,49.084308],[7.727419,49.084558],[7.726426,49.084669],[7.725936,49.084854],[7.725248,49.085134],[7.724259,49.085416],[7.723535,49.085623],[7.722989,49.085825],[7.722554,49.086004],[7.72233,49.086079],[7.721878,49.086068],[7.721638,49.085963],[7.721371,49.085839],[7.720853,49.085556],[7.720143,49.085503],[7.719308,49.085482],[7.718413,49.085568],[7.717752,49.085614],[7.717082,49.085598],[7.716282,49.085443],[7.715588,49.085119],[7.715437,49.08418],[7.715989,49.083392],[7.715824,49.082452],[7.714892,49.081268],[7.71429,49.079304],[7.713105,49.075436],[7.71354,49.071936],[7.711383,49.070847],[7.70902,49.070204],[7.706935,49.069533],[7.705161,49.069009],[7.703638,49.067294],[7.702167,49.066333],[7.701381,49.065473],[7.699774,49.062925],[7.699852,49.062201],[7.699914,49.061686],[7.697854,49.060122],[7.697107,49.059545],[7.695948,49.057797],[7.694245,49.056701],[7.693261,49.055285],[7.692451,49.054118],[7.697366,49.051852],[7.697622,49.049701],[7.69605,49.049447],[7.694162,49.049174],[7.692275,49.048893],[7.689419,49.049019],[7.687264,49.049109],[7.685721,49.049178],[7.68405,49.048317],[7.680948,49.048953],[7.676362,49.04563],[7.676318,49.045215],[7.674717,49.044967],[7.673368,49.045086],[7.672937,49.045201],[7.668915,49.046297],[7.662662,49.047983],[7.659052,49.048936],[7.649575,49.051044],[7.648257,49.051334],[7.661536,49.067712],[7.665919,49.070392],[7.668268,49.071825],[7.669776,49.071107],[7.671362,49.07257],[7.671979,49.073954],[7.675788,49.074662],[7.676723,49.076009],[7.67791,49.076795],[7.678624,49.077011],[7.679958,49.077395],[7.681177,49.079037],[7.682036,49.079824],[7.685464,49.080894],[7.688014,49.081631],[7.690701,49.082766],[7.691772,49.083219],[7.696255,49.084133],[7.697519,49.084776],[7.699852,49.084484],[7.701683,49.085043],[7.702898,49.084416],[7.704952,49.084206],[7.705294,49.084692],[7.704183,49.084943],[7.703275,49.085253],[7.702039,49.085763],[7.701169,49.086119],[7.700272,49.086222],[7.698871,49.086277],[7.697966,49.086291],[7.697078,49.086232],[7.696143,49.085822],[7.695595,49.085349],[7.69512,49.084797],[7.694439,49.085662],[7.690691,49.084839],[7.688445,49.084342],[7.686415,49.084615],[7.685664,49.084569],[7.685226,49.084558],[7.683392,49.084998],[7.681361,49.085748],[7.680954,49.086619],[7.680665,49.087344],[7.681966,49.087356],[7.68325,49.087791],[7.682501,49.088981],[7.680421,49.089396],[7.678988,49.089297],[7.676744,49.090904],[7.677243,49.091297],[7.678543,49.092454],[7.676626,49.093837],[7.676745,49.093903],[7.679246,49.094731],[7.678318,49.095608],[7.677414,49.095126],[7.672531,49.094706],[7.672121,49.095389],[7.672208,49.096021],[7.672525,49.096461],[7.673084,49.096979],[7.673461,49.097322],[7.673568,49.097604],[7.67517,49.09786],[7.675931,49.097987],[7.676017,49.09862],[7.675731,49.099296],[7.675085,49.100261],[7.674331,49.101421],[7.674385,49.102152],[7.673907,49.103058],[7.67291,49.104149],[7.671079,49.103355],[7.669664,49.103635],[7.668959,49.104436],[7.669207,49.105585],[7.669547,49.106323],[7.671145,49.10667],[7.672921,49.107246],[7.673491,49.10735],[7.675416,49.107714],[7.675625,49.108826],[7.672743,49.108645],[7.672362,49.109527],[7.67263,49.110578],[7.669815,49.110885],[7.669406,49.110145],[7.669208,49.109771],[7.668086,49.109032],[7.665218,49.108766],[7.664185,49.10905],[7.663373,49.109291],[7.662746,49.109466],[7.661938,49.109636],[7.661238,49.109809],[7.660613,49.10996],[7.660009,49.110349],[7.659153,49.110732],[7.658265,49.111019],[7.657563,49.11124],[7.656931,49.111486],[7.656253,49.111921],[7.655715,49.112431],[7.65535,49.113089],[7.654949,49.113722],[7.654668,49.114191],[7.654496,49.114639],[7.654574,49.115165],[7.654872,49.115649],[7.655169,49.116156],[7.655184,49.116514],[7.654982,49.116866],[7.654672,49.117192],[7.654254,49.117515],[7.653823,49.118051],[7.653491,49.118757],[7.653132,49.11932],[7.652705,49.119785],[7.652356,49.120158],[7.652043,49.120554],[7.651406,49.120895],[7.650737,49.121164],[7.651864,49.123463],[7.654181,49.123027],[7.655688,49.121886],[7.656516,49.120404],[7.659062,49.119776],[7.659981,49.119547],[7.663043,49.117383],[7.663786,49.116871],[7.666865,49.116517],[7.667641,49.116617],[7.669914,49.1169],[7.670641,49.117827],[7.671541,49.118849],[7.673171,49.120061],[7.677831,49.121042],[7.679693,49.12063],[7.682567,49.120729],[7.684841,49.121471],[7.687237,49.123187],[7.690062,49.120837],[7.691267,49.120642],[7.692554,49.12044],[7.692953,49.120648],[7.695377,49.121888],[7.697035,49.123793],[7.697861,49.125866],[7.700069,49.127298],[7.701865,49.128018],[7.704694,49.12889],[7.706303,49.12929],[7.710446,49.130231],[7.711169,49.129592],[7.711162,49.129483],[7.711181,49.128674],[7.712963,49.127026],[7.714123,49.126416],[7.713714,49.124947],[7.715416,49.123018],[7.716282,49.12205],[7.716238,49.120897],[7.716166,49.119059],[7.717677,49.117116],[7.718484,49.115003],[7.718544,49.114923],[7.720091,49.114728],[7.722817,49.111672],[7.72771,49.112909],[7.73013,49.114454],[7.730857,49.115651],[7.732707,49.11567],[7.73455,49.116517],[7.736865,49.115845],[7.737606,49.113208],[7.738236,49.112737],[7.738966,49.112197],[7.739768,49.111605],[7.741348,49.111059],[7.740747,49.1091],[7.741226,49.108887],[7.741338,49.108844],[7.742267,49.108426],[7.743964,49.108468],[7.74468,49.108666],[7.749876,49.110108],[7.750902,49.110142],[7.752982,49.110211],[7.753393,49.110221],[7.754313,49.109712]]]],"type":"MultiPolygon"}
+}

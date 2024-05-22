@@ -1,1 +1,378 @@
-{"id": 101842597, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08336036", "eurostat:level_code": "lau", "eurostat:name_local": "Hausen im Wiesental", "eurostat:nuts_2021_id": "08336036", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE139", "eurostat:nuts_2021_level_lau": "08336036", "eurostat:population": 2376, "eurostat:population_year": 2020, "geom:area": 0.00056, "geom:area_square_m": 4661321.229526, "geom:bbox": "7.815491,47.667414,7.844245,47.702988", "geom:latitude": 47.684431, "geom:longitude": 7.831654, "gn:population": 2410, "iso:country": "DE", "lbl:latitude": 47.681074, "lbl:longitude": 7.840732, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 47.681074, "mps:longitude": 7.840732, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Hausen im Wiesental"], "name:als_x_preferred": ["Hausen im Wiesental"], "name:arg_x_preferred": ["Hausen im Wiesental"], "name:ast_x_preferred": ["Hausen im Wiesental"], "name:bar_x_preferred": ["Hausen im Wiesental"], "name:bre_x_preferred": ["Hausen im Wiesental"], "name:cat_x_preferred": ["Hausen im Wiesental"], "name:ceb_x_preferred": ["Hausen im Wiesental"], "name:ces_x_preferred": ["Hausen im Wiesental"], "name:che_x_preferred": ["\u0425\u0430\u0443\u0437\u0435\u043d"], "name:cos_x_preferred": ["Hausen im Wiesental"], "name:cym_x_preferred": ["Hausen im Wiesental"], "name:dan_x_preferred": ["Hausen im Wiesental"], "name:deu_x_preferred": ["Hausen im Wiesental"], "name:eng_x_preferred": ["Hausen im Wiesental"], "name:epo_x_preferred": ["Hausen im Wiesental"], "name:est_x_preferred": ["Hausen im Wiesental"], "name:eus_x_preferred": ["Hausen im Wiesental"], "name:fas_x_preferred": ["\u0647\u0627\u0648\u0632\u0646 \u06cc\u0645 \u0648\u06cc\u0632\u0646\u062a\u0627\u0644"], "name:fin_x_preferred": ["Hausen im Wiesental"], "name:fra_x_preferred": ["Hausen im Wiesental"], "name:frp_x_preferred": ["Hausen im Wiesental"], "name:fur_x_preferred": ["Hausen im Wiesental"], "name:gla_x_preferred": ["Hausen im Wiesental"], "name:gle_x_preferred": ["Hausen im Wiesental"], "name:glg_x_preferred": ["Hausen im Wiesental"], "name:gsw_x_preferred": ["Huuse im Wiisedal"], "name:hbs_x_preferred": ["Hausen im Wiesental"], "name:hrv_x_preferred": ["Hausen im Wiesental"], "name:hun_x_preferred": ["Hausen im Wiesental"], "name:ido_x_preferred": ["Hausen im Wiesental"], "name:ile_x_preferred": ["Hausen im Wiesental"], "name:ina_x_preferred": ["Hausen im Wiesental"], "name:ind_x_preferred": ["Hausen im Wiesental"], "name:isl_x_preferred": ["Hausen im Wiesental"], "name:ita_x_preferred": ["Hausen im Wiesental"], "name:kaz_x_preferred": ["\u0425\u0430\u0443\u0437\u0435\u043d"], "name:kir_x_preferred": ["\u0425\u0430\u0443\u0437\u0435\u043d"], "name:kon_x_preferred": ["Hausen im Wiesental"], "name:kur_x_preferred": ["Hausen im Wiesental"], "name:lat_x_preferred": ["Hausen im Wiesental"], "name:lij_x_preferred": ["Hausen im Wiesental"], "name:lim_x_preferred": ["Hausen im Wiesental"], "name:lld_x_preferred": ["Hausen im Wiesental"], "name:lmo_x_preferred": ["Hausen im Wiesental"], "name:ltz_x_preferred": ["Hausen im Wiesental"], "name:min_x_preferred": ["Hausen im Wiesental"], "name:mlg_x_preferred": ["Hausen im Wiesental"], "name:msa_x_preferred": ["Hausen im Wiesental"], "name:nan_x_preferred": ["Hausen im Wiesental"], "name:nap_x_preferred": ["Hausen im Wiesental"], "name:nds_x_preferred": ["Hausen im Wiesental"], "name:nld_x_preferred": ["Hausen im Wiesental"], "name:nno_x_preferred": ["Hausen im Wiesental"], "name:nob_x_preferred": ["Hausen im Wiesental"], "name:nrm_x_preferred": ["Hausen im Wiesental"], "name:oci_x_preferred": ["Hausen im Wiesental"], "name:pcd_x_preferred": ["Hausen im Wiesental"], "name:pms_x_preferred": ["Hausen im Wiesental"], "name:pol_x_preferred": ["Hausen im Wiesental"], "name:por_x_preferred": ["Hausen im Wiesental"], "name:roh_x_preferred": ["Hausen im Wiesental"], "name:ron_x_preferred": ["Hausen im Wiesental"], "name:rus_x_preferred": ["\u0425\u0430\u0443\u0437\u0435\u043d-\u0438\u043c-\u0412\u0438\u0437\u0435\u043d\u0442\u0430\u043b\u044c"], "name:rus_x_variant": ["\u0425\u0430\u0443\u0437\u0435\u043d"], "name:scn_x_preferred": ["Hausen im Wiesental"], "name:sco_x_preferred": ["Hausen im Wiesental"], "name:slk_x_preferred": ["Hausen im Wiesental"], "name:slv_x_preferred": ["Hausen im Wiesental"], "name:spa_x_preferred": ["Hausen en el Valle del Wiese"], "name:srd_x_preferred": ["Hausen im Wiesental"], "name:srp_x_preferred": ["\u0425\u0430\u0443\u0437\u0435\u043d \u0438\u043c \u0412\u0438\u0437\u0435\u043d\u0442\u0430\u043b"], "name:swa_x_preferred": ["Hausen im Wiesental"], "name:swe_x_preferred": ["Hausen im Wiesental"], "name:tat_x_preferred": ["\u0425\u0430\u0443\u0437\u0435\u043d"], "name:ukr_x_preferred": ["\u0413\u0430\u0443\u0437\u0435\u043d-\u0456\u043c-\u0412\u0456\u0437\u0435\u043d\u0442\u0430\u043b\u044c"], "name:uzb_x_preferred": ["Hausen im Wiesental"], "name:vec_x_preferred": ["Hausen im Wiesental"], "name:vie_x_preferred": ["Hausen im Wiesental"], "name:vls_x_preferred": ["Hausen im Wiesental"], "name:vol_x_preferred": ["Hausen im Wiesental"], "name:war_x_preferred": ["Hausen im Wiesental"], "name:wln_x_preferred": ["Hausen im Wiesental"], "name:wol_x_preferred": ["Hausen im Wiesental"], "name:zho_min_nan_x_preferred": ["Hausen im Wiesental"], "name:zho_x_preferred": ["\u8c6a\u68ee\u4f0a\u59c6\u7ef4\u68ee\u5854\u5c14"], "name:zul_x_preferred": ["Hausen im Wiesental"], "nav:latitude": 47.681074, "nav:longitude": 7.840732, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "L\u00f6rrach", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Zell im Wiesental", "qs:la_lc": "*DE08303609103", "qs:level": "locality", "qs:loc": "Hausen im Wiesental", "qs:loc_alt": "Hausen im Wiesental", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-near-poly", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 145, "wof:belongsto": [85682567, 102191581, 85633111, 1377689737, 404227543, 102063211], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08336036", "eurostat:nuts_2021_id": "08336036", "fct:id": "0762acf6-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2908913, "gp:id": 658039, "qs_pg:id": 355418, "wd:id": "Q62008"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "d1ecc84e4cabede596308a2700008f1e", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063211, "localadmin_id": 1377689737, "locality_id": 101842597, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101842597, "wof:lang": ["ger"], "wof:lastmodified": 1690872155, "wof:name": "Hausen im Wiesental", "wof:parent_id": 1377689737, "wof:placetype": "locality", "wof:population": 2376, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.815491, 47.667414, 7.844245, 47.702988], "geometry": {"coordinates": [[[[7.841434, 47.690141], [7.841941, 47.688867], [7.842399, 47.688033], [7.842953, 47.687129], [7.843831, 47.684903], [7.844015, 47.684206], [7.84416, 47.683499], [7.844245, 47.682656], [7.844196, 47.681827], [7.844092, 47.681285], [7.843763, 47.680207], [7.843242, 47.67899], [7.842515, 47.677659], [7.84152, 47.676088], [7.840044, 47.674083], [7.838425, 47.672058], [7.83762, 47.671301], [7.836381, 47.670104], [7.835547, 47.669064], [7.834935, 47.668302], [7.834317, 47.667414], [7.829675, 47.669576], [7.823848, 47.668524], [7.825374, 47.676762], [7.823397, 47.676147], [7.825512, 47.678906], [7.821514, 47.680916], [7.819278, 47.682143], [7.815491, 47.683965], [7.816521, 47.68586], [7.820218, 47.687175], [7.820679, 47.689002], [7.822513, 47.688085], [7.824979, 47.688793], [7.823354, 47.691514], [7.824679, 47.692868], [7.82452, 47.695814], [7.822831, 47.697508], [7.824833, 47.699886], [7.826731, 47.699771], [7.828557, 47.701479], [7.830407, 47.702019], [7.830314, 47.702988], [7.831599, 47.702885], [7.833833, 47.702706], [7.833253, 47.697395], [7.838694, 47.695523], [7.838897, 47.694835], [7.839232, 47.694391], [7.839587, 47.694012], [7.83983, 47.693501], [7.839982, 47.692891], [7.840225, 47.69238], [7.840578, 47.692033], [7.840912, 47.691605], [7.841434, 47.690141]]]], "type": "MultiPolygon"}}
+{
+  "id": 101842597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08336036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hausen im Wiesental",
+    "eurostat:nuts_2021_id":"08336036",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE139",
+    "eurostat:nuts_2021_level_lau":"08336036",
+    "eurostat:population":2376,
+    "eurostat:population_year":2020,
+    "geom:area":0.00056,
+    "geom:area_square_m":4661321.229526,
+    "geom:bbox":"7.815491,47.667414,7.844245,47.702988",
+    "geom:latitude":47.684431,
+    "geom:longitude":7.831654,
+    "gn:population":2410,
+    "iso:country":"DE",
+    "lbl:latitude":47.681074,
+    "lbl:longitude":7.840732,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":47.681074,
+    "mps:longitude":7.840732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:als_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:arg_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ast_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:bar_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:bre_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:cat_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ceb_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ces_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:cym_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:dan_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:deu_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:eng_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:epo_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:est_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:eus_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0648\u0632\u0646 \u06cc\u0645 \u0648\u06cc\u0632\u0646\u062a\u0627\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:fra_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:frp_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:fur_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:gla_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:gle_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:glg_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:gsw_x_preferred":[
+        "Huuse im Wiisedal"
+    ],
+    "name:hbs_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:hrv_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:hun_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ido_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ile_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ina_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ind_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:isl_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ita_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:kur_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:lat_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:lij_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:lim_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:lld_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:lmo_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ltz_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:min_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:mlg_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:msa_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:nan_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:nap_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:nds_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:nld_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:nno_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:nob_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:nrm_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:oci_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:pcd_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:pms_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:pol_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:por_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:roh_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:ron_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0443\u0437\u0435\u043d-\u0438\u043c-\u0412\u0438\u0437\u0435\u043d\u0442\u0430\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:sco_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:slk_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:slv_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:spa_x_preferred":[
+        "Hausen en el Valle del Wiese"
+    ],
+    "name:srd_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0443\u0437\u0435\u043d \u0438\u043c \u0412\u0438\u0437\u0435\u043d\u0442\u0430\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:swe_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0443\u0437\u0435\u043d-\u0456\u043c-\u0412\u0456\u0437\u0435\u043d\u0442\u0430\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:vec_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:vie_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:vls_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:vol_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:war_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:wln_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:wol_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u68ee\u4f0a\u59c6\u7ef4\u68ee\u5854\u5c14"
+    ],
+    "name:zul_x_preferred":[
+        "Hausen im Wiesental"
+    ],
+    "nav:latitude":47.681074,
+    "nav:longitude":7.840732,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"L\u00f6rrach",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Zell im Wiesental",
+    "qs:la_lc":"*DE08303609103",
+    "qs:level":"locality",
+    "qs:loc":"Hausen im Wiesental",
+    "qs:loc_alt":"Hausen im Wiesental",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":145,
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689737,
+        404227543,
+        102063211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08336036",
+        "eurostat:nuts_2021_id":"08336036",
+        "fct:id":"0762acf6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2908913,
+        "gp:id":658039,
+        "qs_pg:id":355418,
+        "wd:id":"Q62008"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"d1ecc84e4cabede596308a2700008f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063211,
+            "localadmin_id":1377689737,
+            "locality_id":101842597,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101842597,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690872155,
+    "wof:name":"Hausen im Wiesental",
+    "wof:parent_id":1377689737,
+    "wof:placetype":"locality",
+    "wof:population":2376,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.815491,
+    47.667414,
+    7.844245,
+    47.702988
+],
+  "geometry": {"coordinates":[[[[7.841434,47.690141],[7.841941,47.688867],[7.842399,47.688033],[7.842953,47.687129],[7.843831,47.684903],[7.844015,47.684206],[7.84416,47.683499],[7.844245,47.682656],[7.844196,47.681827],[7.844092,47.681285],[7.843763,47.680207],[7.843242,47.67899],[7.842515,47.677659],[7.84152,47.676088],[7.840044,47.674083],[7.838425,47.672058],[7.83762,47.671301],[7.836381,47.670104],[7.835547,47.669064],[7.834935,47.668302],[7.834317,47.667414],[7.829675,47.669576],[7.823848,47.668524],[7.825374,47.676762],[7.823397,47.676147],[7.825512,47.678906],[7.821514,47.680916],[7.819278,47.682143],[7.815491,47.683965],[7.816521,47.68586],[7.820218,47.687175],[7.820679,47.689002],[7.822513,47.688085],[7.824979,47.688793],[7.823354,47.691514],[7.824679,47.692868],[7.82452,47.695814],[7.822831,47.697508],[7.824833,47.699886],[7.826731,47.699771],[7.828557,47.701479],[7.830407,47.702019],[7.830314,47.702988],[7.831599,47.702885],[7.833833,47.702706],[7.833253,47.697395],[7.838694,47.695523],[7.838897,47.694835],[7.839232,47.694391],[7.839587,47.694012],[7.83983,47.693501],[7.839982,47.692891],[7.840225,47.69238],[7.840578,47.692033],[7.840912,47.691605],[7.841434,47.690141]]]],"type":"MultiPolygon"}
+}

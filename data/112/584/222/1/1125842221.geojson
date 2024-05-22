@@ -1,1 +1,233 @@
-{"id": 1125842221, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01058088", "eurostat:level_code": "lau", "eurostat:name_local": "Klein Wittensee", "eurostat:nuts_2021_id": "01058088", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF0B", "eurostat:nuts_2021_level_lau": "01058088", "eurostat:population": 215, "eurostat:population_year": 2020, "geom:area": 0.000595, "geom:area_square_m": 4279793.383376, "geom:bbox": "9.708431,54.382433,9.744716,54.410762", "geom:latitude": 54.397353, "geom:longitude": 9.724946, "gn:country": "DE", "gn:fcode": "PPLA4", "gn:population": 221, "iso:country": "DE", "lbl:latitude": 54.38333, "lbl:longitude": 9.73333, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:cat_x_preferred": ["Klein Wittensee"], "name:ceb_x_preferred": ["Klein Wittensee"], "name:che_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"], "name:dan_x_preferred": ["Lille Vittens\u00f8"], "name:deu_x_preferred": ["Klein Wittensee"], "name:eng_x_preferred": ["Klein Wittensee"], "name:epo_x_preferred": ["Klein Wittensee"], "name:eus_x_preferred": ["Klein Wittensee"], "name:fas_x_preferred": ["\u06a9\u0644\u0627\u06cc\u0646 \u0648\u06cc\u062a\u0646\u0632\u0647"], "name:fra_x_preferred": ["Klein Wittensee"], "name:hun_x_preferred": ["Klein Wittensee"], "name:ita_x_preferred": ["Klein Wittensee"], "name:kaz_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"], "name:kir_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"], "name:lld_x_preferred": ["Klein Wittensee"], "name:mkd_x_preferred": ["\u041a\u043b\u0430\u0458\u043d \u0412\u0438\u0442\u0435\u043d\u0437\u0435"], "name:msa_x_preferred": ["Klein Wittensee"], "name:nan_x_preferred": ["Klein Wittensee"], "name:nld_x_preferred": ["Klein Wittensee"], "name:nob_x_preferred": ["Klein Wittensee"], "name:pol_x_preferred": ["Klein Wittensee"], "name:por_x_preferred": ["Klein Wittensee"], "name:ron_x_preferred": ["Klein Wittensee"], "name:rus_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"], "name:spa_x_preferred": ["Klein Wittensee"], "name:srp_x_preferred": ["\u041a\u043b\u0430\u0458\u043d \u0412\u0438\u0442\u0435\u043d\u0437\u0435"], "name:swe_x_preferred": ["Klein Wittensee"], "name:tat_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"], "name:tur_x_preferred": ["Klein Wittensee"], "name:ukr_x_preferred": ["\u041a\u043b\u044f\u0439\u043d-\u0412\u0456\u0442\u0442\u0435\u043d\u0437\u0435"], "name:ukr_x_variant": ["\u041a\u043b\u044f\u0439\u043d-\u0412\u0456\u0442\u0442\u0435\u043d\u0437\u0435\u0435"], "name:uzb_x_preferred": ["Klein Wittensee"], "name:vie_x_preferred": ["Klein Wittensee"], "name:vol_x_preferred": ["Klein Wittensee"], "name:war_x_preferred": ["Klein Wittensee"], "name:zho_x_preferred": ["\u5c0f\u7ef4\u6ed5\u585e"], "name:zho_x_variant": ["\u514b\u83b1\u56e0\u7ef4\u6ed5\u585e"], "nav:latitude": 54.38333, "nav:longitude": 9.73333, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLA4", "qs_pg:gn_id": 2887981, "qs_pg:gn_pop": 221, "qs_pg:name": "Klein Wittensee", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Schleswig-Holstein", "qs_pg:photos": 2, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 2, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 578279, "qs_pg:qs_pg_placetype": "locality", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12631480, "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Schleswig-Holstein", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682517, 102191581, 1377684287, 85633111, 102064145], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01058088", "eurostat:nuts_2021_id": "01058088", "gn:id": 2887981, "qs_pg:id": 578279, "wd:id": "Q545064"}, "wof:country": "DE", "wof:created": 1497292982, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "e5daa86b445263c3ac20507ec0aa82fa", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064145, "localadmin_id": 1377684287, "locality_id": 1125842221, "region_id": 85682517}], "wof:id": 1125842221, "wof:lastmodified": 1690874566, "wof:name": "Klein Wittensee", "wof:parent_id": 1377684287, "wof:placetype": "locality", "wof:population": 215, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125338757, 1125350933], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.708431, 54.382433, 9.744716, 54.410762], "geometry": {"coordinates": [[[[9.72777, 54.409266], [9.727246, 54.408428], [9.730313, 54.405636], [9.73172, 54.405259], [9.73247, 54.403764], [9.732615, 54.403442], [9.73458, 54.403669], [9.736453, 54.403932], [9.737489, 54.404558], [9.739047, 54.403481], [9.738551, 54.402804], [9.739294, 54.401704], [9.740048, 54.399949], [9.740932, 54.399541], [9.742198, 54.400187], [9.742881, 54.399015], [9.743759, 54.398059], [9.744633, 54.397382], [9.74372, 54.396775], [9.74366, 54.395823], [9.744716, 54.394402], [9.743563, 54.39347], [9.742107, 54.392294], [9.739751, 54.391508], [9.73732, 54.390685], [9.735299, 54.390098], [9.73271, 54.389517], [9.731016, 54.38877], [9.730001, 54.388746], [9.727045, 54.387121], [9.725353, 54.386257], [9.723947, 54.385791], [9.722922, 54.385425], [9.722439, 54.384956], [9.722079, 54.384459], [9.722171, 54.38358], [9.721001, 54.383627], [9.719652, 54.383385], [9.718745, 54.383379], [9.718208, 54.382433], [9.71686, 54.382964], [9.715145, 54.38342], [9.713788, 54.383582], [9.713311, 54.383579], [9.7139, 54.384157], [9.714569, 54.384619], [9.71144, 54.385803], [9.712397, 54.386428], [9.713296, 54.386919], [9.714272, 54.387392], [9.715969, 54.387986], [9.714915, 54.389254], [9.713934, 54.389042], [9.713377, 54.390071], [9.712989, 54.391065], [9.713886, 54.391672], [9.714186, 54.392096], [9.714455, 54.394208], [9.714078, 54.3946], [9.713925, 54.395425], [9.712115, 54.395935], [9.712576, 54.396809], [9.71225, 54.397794], [9.711737, 54.398931], [9.711245, 54.399745], [9.710561, 54.400136], [9.711224, 54.400885], [9.711055, 54.401692], [9.711938, 54.403045], [9.708431, 54.405483], [9.713308, 54.40809], [9.713332, 54.408458], [9.713148, 54.409274], [9.71221, 54.410022], [9.717263, 54.410664], [9.719052, 54.409625], [9.719689, 54.409279], [9.722202, 54.40819], [9.723224, 54.408726], [9.723891, 54.409269], [9.724389, 54.409838], [9.72461, 54.410378], [9.724681, 54.41071], [9.725803, 54.410762], [9.72777, 54.409266]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125842221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01058088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Klein Wittensee",
+    "eurostat:nuts_2021_id":"01058088",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF0B",
+    "eurostat:nuts_2021_level_lau":"01058088",
+    "eurostat:population":215,
+    "eurostat:population_year":2020,
+    "geom:area":0.000595,
+    "geom:area_square_m":4279793.383376,
+    "geom:bbox":"9.708431,54.382433,9.744716,54.410762",
+    "geom:latitude":54.397353,
+    "geom:longitude":9.724946,
+    "gn:country":"DE",
+    "gn:fcode":"PPLA4",
+    "gn:population":221,
+    "iso:country":"DE",
+    "lbl:latitude":54.38333,
+    "lbl:longitude":9.73333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:ceb_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:dan_x_preferred":[
+        "Lille Vittens\u00f8"
+    ],
+    "name:deu_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:eng_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:epo_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:eus_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u06cc\u0646 \u0648\u06cc\u062a\u0646\u0632\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:hun_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:ita_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:lld_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043b\u0430\u0458\u043d \u0412\u0438\u0442\u0435\u043d\u0437\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:nan_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:nld_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:nob_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:pol_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:por_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:ron_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0430\u0458\u043d \u0412\u0438\u0442\u0435\u043d\u0437\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0412\u0438\u0442\u0442\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u044f\u0439\u043d-\u0412\u0456\u0442\u0442\u0435\u043d\u0437\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043b\u044f\u0439\u043d-\u0412\u0456\u0442\u0442\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:vie_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:vol_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:war_x_preferred":[
+        "Klein Wittensee"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u7ef4\u6ed5\u585e"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u83b1\u56e0\u7ef4\u6ed5\u585e"
+    ],
+    "nav:latitude":54.38333,
+    "nav:longitude":9.73333,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLA4",
+    "qs_pg:gn_id":2887981,
+    "qs_pg:gn_pop":221,
+    "qs_pg:name":"Klein Wittensee",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Schleswig-Holstein",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":578279,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12631480,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Schleswig-Holstein",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377684287,
+        85633111,
+        102064145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01058088",
+        "eurostat:nuts_2021_id":"01058088",
+        "gn:id":2887981,
+        "qs_pg:id":578279,
+        "wd:id":"Q545064"
+    },
+    "wof:country":"DE",
+    "wof:created":1497292982,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"e5daa86b445263c3ac20507ec0aa82fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064145,
+            "localadmin_id":1377684287,
+            "locality_id":1125842221,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":1125842221,
+    "wof:lastmodified":1690874566,
+    "wof:name":"Klein Wittensee",
+    "wof:parent_id":1377684287,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125338757,
+        1125350933
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.708431,
+    54.382433,
+    9.744716,
+    54.410762
+],
+  "geometry": {"coordinates":[[[[9.72777,54.409266],[9.727246,54.408428],[9.730313,54.405636],[9.73172,54.405259],[9.73247,54.403764],[9.732615,54.403442],[9.73458,54.403669],[9.736453,54.403932],[9.737489,54.404558],[9.739047,54.403481],[9.738551,54.402804],[9.739294,54.401704],[9.740048,54.399949],[9.740932,54.399541],[9.742198,54.400187],[9.742881,54.399015],[9.743759,54.398059],[9.744633,54.397382],[9.74372,54.396775],[9.74366,54.395823],[9.744716,54.394402],[9.743563,54.39347],[9.742107,54.392294],[9.739751,54.391508],[9.73732,54.390685],[9.735299,54.390098],[9.73271,54.389517],[9.731016,54.38877],[9.730001,54.388746],[9.727045,54.387121],[9.725353,54.386257],[9.723947,54.385791],[9.722922,54.385425],[9.722439,54.384956],[9.722079,54.384459],[9.722171,54.38358],[9.721001,54.383627],[9.719652,54.383385],[9.718745,54.383379],[9.718208,54.382433],[9.71686,54.382964],[9.715145,54.38342],[9.713788,54.383582],[9.713311,54.383579],[9.7139,54.384157],[9.714569,54.384619],[9.71144,54.385803],[9.712397,54.386428],[9.713296,54.386919],[9.714272,54.387392],[9.715969,54.387986],[9.714915,54.389254],[9.713934,54.389042],[9.713377,54.390071],[9.712989,54.391065],[9.713886,54.391672],[9.714186,54.392096],[9.714455,54.394208],[9.714078,54.3946],[9.713925,54.395425],[9.712115,54.395935],[9.712576,54.396809],[9.71225,54.397794],[9.711737,54.398931],[9.711245,54.399745],[9.710561,54.400136],[9.711224,54.400885],[9.711055,54.401692],[9.711938,54.403045],[9.708431,54.405483],[9.713308,54.40809],[9.713332,54.408458],[9.713148,54.409274],[9.71221,54.410022],[9.717263,54.410664],[9.719052,54.409625],[9.719689,54.409279],[9.722202,54.40819],[9.723224,54.408726],[9.723891,54.409269],[9.724389,54.409838],[9.72461,54.410378],[9.724681,54.41071],[9.725803,54.410762],[9.72777,54.409266]]]],"type":"MultiPolygon"}
+}

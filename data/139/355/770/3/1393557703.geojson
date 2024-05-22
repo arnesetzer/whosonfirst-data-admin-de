@@ -1,1 +1,81 @@
-{"id": 1393557703, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.73283,50.0197,10.73283,50.0197", "geom:latitude": 50.0197, "geom:longitude": 10.73283, "gn:admin1_code": "2", "gn:admin2_code": "96.0", "gn:admin3_code": "9674.0", "gn:admin4_code": "9674118.0", "gn:asciiname": "Forstersgrund", "gn:country_code": "DE", "gn:dem": 320, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2925771, "gn:latitude": 50.0197, "gn:longitude": 10.73283, "gn:modification_date": "2013-02-19", "gn:name": "F\u00f6rstersgrund", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.72783,50.0147,10.73783,50.0247", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377691049, 404227569, 101825979, 102063593, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2925771}, "wof:country": "DE", "wof:geomhash": "8499818ec02d60db20c34d509d0955e9", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063593, "localadmin_id": 1377691049, "locality_id": 101825979, "macrocounty_id": 404227569, "neighbourhood_id": 1393557703, "region_id": 85682571}], "wof:id": 1393557703, "wof:lastmodified": 1566713947, "wof:name": "Forstersgrund", "wof:parent_id": 101825979, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1226654225], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.73283, 50.0197, 10.73283, 50.0197], "geometry": {"coordinates": [10.73283, 50.0197], "type": "Point"}}
+{
+  "id": 1393557703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73283,50.0197,10.73283,50.0197",
+    "geom:latitude":50.0197,
+    "geom:longitude":10.73283,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"96.0",
+    "gn:admin3_code":"9674.0",
+    "gn:admin4_code":"9674118.0",
+    "gn:asciiname":"Forstersgrund",
+    "gn:country_code":"DE",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2925771,
+    "gn:latitude":50.0197,
+    "gn:longitude":10.73283,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"F\u00f6rstersgrund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.72783,50.0147,10.73783,50.0247",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377691049,
+        404227569,
+        101825979,
+        102063593,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2925771
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"8499818ec02d60db20c34d509d0955e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063593,
+            "localadmin_id":1377691049,
+            "locality_id":101825979,
+            "macrocounty_id":404227569,
+            "neighbourhood_id":1393557703,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393557703,
+    "wof:lastmodified":1566713947,
+    "wof:name":"Forstersgrund",
+    "wof:parent_id":101825979,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226654225
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73283,
+    50.0197,
+    10.73283,
+    50.0197
+],
+  "geometry": {"coordinates":[10.73283,50.0197],"type":"Point"}
+}

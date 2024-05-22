@@ -1,1 +1,375 @@
-{"id": 101813019, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07336095", "eurostat:level_code": "lau", "eurostat:name_local": "Sankt Julian", "eurostat:nuts_2021_id": "07336095", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3G", "eurostat:nuts_2021_level_lau": "07336095", "eurostat:population": 1063, "eurostat:population_year": 2020, "geom:area": 0.001742, "geom:area_square_m": 13958143.789955, "geom:bbox": "7.453578,49.577923,7.527801,49.643489", "geom:latitude": 49.609399, "geom:longitude": 7.490267, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 1191, "iso:country": "DE", "lbl:latitude": 49.606987, "lbl:longitude": 7.511112, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 49.606987, "mps:longitude": 7.511112, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Sankt Julian"], "name:arg_x_preferred": ["Sankt Julian"], "name:ast_x_preferred": ["Sankt Julian"], "name:bar_x_preferred": ["Sankt Julian"], "name:bre_x_preferred": ["Sankt Julian"], "name:cat_x_preferred": ["Sankt Julian"], "name:ceb_x_preferred": ["Sankt Julian"], "name:ces_x_preferred": ["Sankt Julian"], "name:che_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0419\u0443\u043b\u0438\u0430\u043d"], "name:cos_x_preferred": ["Sankt Julian"], "name:cym_x_preferred": ["Sankt Julian"], "name:dan_x_preferred": ["Sankt Julian"], "name:deu_x_preferred": ["Sankt Julian"], "name:eng_x_preferred": ["Sankt Julian"], "name:epo_x_preferred": ["Sankt Julian"], "name:est_x_preferred": ["Sankt Julian"], "name:eus_x_preferred": ["Sankt Julian"], "name:fas_x_preferred": ["\u0632\u0627\u0646\u06a9\u062a \u06cc\u0648\u0644\u06cc\u0627\u0646"], "name:fin_x_preferred": ["Sankt Julian"], "name:fra_x_preferred": ["Sankt Julian"], "name:frp_x_preferred": ["Sankt Julian"], "name:fur_x_preferred": ["Sankt Julian"], "name:gla_x_preferred": ["Sankt Julian"], "name:gle_x_preferred": ["Sankt Julian"], "name:glg_x_preferred": ["Sankt Julian"], "name:gsw_x_preferred": ["Sankt Julian"], "name:hbs_x_preferred": ["Sankt Julian"], "name:hrv_x_preferred": ["Sankt Julian"], "name:hun_x_preferred": ["Sankt Julian"], "name:ido_x_preferred": ["Sankt Julian"], "name:ile_x_preferred": ["Sankt Julian"], "name:ina_x_preferred": ["Sankt Julian"], "name:ind_x_preferred": ["Sankt Julian"], "name:isl_x_preferred": ["Sankt Julian"], "name:ita_x_preferred": ["Sankt Julian"], "name:jpn_x_preferred": ["\u30b6\u30f3\u30af\u30c8\u30fb\u30e6\u30ea\u30a2\u30f3"], "name:kon_x_preferred": ["Sankt Julian"], "name:kur_x_preferred": ["Sankt Julian"], "name:lij_x_preferred": ["Sankt Julian"], "name:lim_x_preferred": ["Sankt Julian"], "name:lld_x_preferred": ["Sankt Julian"], "name:ltz_x_preferred": ["Sankt Julian"], "name:min_x_preferred": ["Sankt Julian"], "name:mlg_x_preferred": ["Sankt Julian"], "name:msa_x_preferred": ["Sankt Julian"], "name:nan_x_preferred": ["Sankt Julian"], "name:nap_x_preferred": ["Sankt Julian"], "name:nds_x_preferred": ["Sankt Julian"], "name:nld_x_preferred": ["Sankt Julian"], "name:nno_x_preferred": ["Sankt Julian"], "name:nob_x_preferred": ["Sankt Julian"], "name:nrm_x_preferred": ["Sankt Julian"], "name:oci_x_preferred": ["Sankt Julian"], "name:pcd_x_preferred": ["Sankt Julian"], "name:pms_x_preferred": ["Sankt Julian"], "name:pol_x_preferred": ["Sankt Julian"], "name:por_x_preferred": ["Sankt Julian"], "name:roh_x_preferred": ["Sankt Julian"], "name:ron_x_preferred": ["Sankt Julian"], "name:rus_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u042e\u043b\u0438\u0430\u043d"], "name:scn_x_preferred": ["Sankt Julian"], "name:sco_x_preferred": ["Sankt Julian"], "name:slk_x_preferred": ["Sankt Julian"], "name:slv_x_preferred": ["Sankt Julian"], "name:spa_x_preferred": ["Sankt Julian"], "name:srd_x_preferred": ["Sankt Julian"], "name:srp_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u0408\u0443\u043b\u0438\u0458\u0430\u043d"], "name:srp_x_variant": ["\u0421\u0430\u043d\u043a\u0442 \u0408\u0443\u043b\u0438\u0430\u043d"], "name:swa_x_preferred": ["Sankt Julian"], "name:swe_x_preferred": ["Sankt Julian"], "name:tat_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u042e\u043b\u0438\u0430\u043d"], "name:ukr_x_preferred": ["\u0417\u0430\u043d\u043a\u0442-\u042e\u043b\u0456\u044f\u043d"], "name:und_x_variant": ["Sankt Julian-Obereisenbach"], "name:uzb_x_preferred": ["Sankt Julian"], "name:vec_x_preferred": ["Sankt Julian"], "name:vie_x_preferred": ["Sankt Julian"], "name:vls_x_preferred": ["Sankt Julian"], "name:vol_x_preferred": ["Sankt Julian"], "name:war_x_preferred": ["Sankt Julian"], "name:wln_x_preferred": ["Sankt Julian"], "name:wol_x_preferred": ["Sankt Julian"], "name:zho_x_preferred": ["\u5723\u5c24\u5229\u5b89"], "name:zul_x_preferred": ["Sankt Julian"], "nav:latitude": 49.606987, "nav:longitude": 7.511112, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Kusel", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Sankt Julian", "qs:la_lc": "*DE07033604095", "qs:level": "locality", "qs:loc": "Sankt Julian", "qs:loc_alt": "Sankt Julian", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 2841558, "qs_pg:gn_pop": 1191, "qs_pg:name": "Sankt Julian", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 577115, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 13706, "wof:belongsto": [85682491, 102191581, 1377686483, 85633111, 102063499], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07336095", "eurostat:nuts_2021_id": "07336095", "gn:id": 2841557, "gp:id": 20163695, "qs_pg:id": 577120, "wd:id": "Q653875", "wk:page": "Sankt Julian"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "54ab7daab18656a5cb66a777ca5201ea", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063499, "localadmin_id": 1377686483, "locality_id": 101813019, "region_id": 85682491}], "wof:id": 101813019, "wof:lastmodified": 1690873367, "wof:name": "Sankt Julian", "wof:parent_id": 1377686483, "wof:placetype": "locality", "wof:population": 1063, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125412751], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.453578, 49.577923, 7.527801, 49.643489], "geometry": {"coordinates": [[[[7.503976, 49.624661], [7.503154, 49.623181], [7.504359, 49.621646], [7.505619, 49.620572], [7.510599, 49.616727], [7.511198, 49.616404], [7.511587, 49.616189], [7.512088, 49.616052], [7.513346, 49.615822], [7.514537, 49.615759], [7.515558, 49.615617], [7.516675, 49.615345], [7.51709, 49.613005], [7.517505, 49.610667], [7.524421, 49.609733], [7.527801, 49.606859], [7.52664, 49.606489], [7.525521, 49.605533], [7.523425, 49.604408], [7.520573, 49.60485], [7.520999, 49.603286], [7.518672, 49.602613], [7.519534, 49.60169], [7.516714, 49.599815], [7.51339, 49.600907], [7.512907, 49.597121], [7.505921, 49.591219], [7.50395, 49.591293], [7.503113, 49.590711], [7.499172, 49.58797], [7.497668, 49.588335], [7.498604, 49.587581], [7.499322, 49.586949], [7.497541, 49.58528], [7.498684, 49.584777], [7.499279, 49.584515], [7.496039, 49.583166], [7.492601, 49.580302], [7.491045, 49.578912], [7.487383, 49.577923], [7.485272, 49.579059], [7.481778, 49.580938], [7.481162, 49.581269], [7.480552, 49.584552], [7.481015, 49.585742], [7.480411, 49.587174], [7.47875, 49.588533], [7.478848, 49.590601], [7.478222, 49.592724], [7.474756, 49.596514], [7.473567, 49.598377], [7.476049, 49.599531], [7.477616, 49.60031], [7.476963, 49.602342], [7.477326, 49.602885], [7.478469, 49.604589], [7.480358, 49.605159], [7.483072, 49.606756], [7.484234, 49.607873], [7.479401, 49.612861], [7.479515, 49.613846], [7.480272, 49.614876], [7.481403, 49.615078], [7.482769, 49.616201], [7.483591, 49.617817], [7.483222, 49.61878], [7.483036, 49.619266], [7.481403, 49.61986], [7.479673, 49.621476], [7.478666, 49.622007], [7.475988, 49.622255], [7.475284, 49.622857], [7.473994, 49.624044], [7.472927, 49.62443], [7.471779, 49.623835], [7.470464, 49.623123], [7.468621, 49.623051], [7.466974, 49.621983], [7.468248, 49.620684], [7.471145, 49.618718], [7.467866, 49.617973], [7.466338, 49.61912], [7.463476, 49.619016], [7.46167, 49.620175], [7.460476, 49.623033], [7.459014, 49.62357], [7.457204, 49.626087], [7.460552, 49.627501], [7.46273, 49.627478], [7.45944, 49.631036], [7.45603, 49.630368], [7.454751, 49.632297], [7.453578, 49.63351], [7.457476, 49.635727], [7.457066, 49.636783], [7.46117, 49.639781], [7.461167, 49.642014], [7.462473, 49.643489], [7.465925, 49.64306], [7.469233, 49.641402], [7.472425, 49.6383], [7.472129, 49.63379], [7.47319, 49.633233], [7.473176, 49.631486], [7.476615, 49.629507], [7.481561, 49.629012], [7.482044, 49.628556], [7.482187, 49.627987], [7.48222, 49.627467], [7.482124, 49.626874], [7.482154, 49.626406], [7.482523, 49.626052], [7.482994, 49.625787], [7.483896, 49.625481], [7.484842, 49.625298], [7.486016, 49.625067], [7.487383, 49.624698], [7.488139, 49.624292], [7.488336, 49.623707], [7.488747, 49.623128], [7.489276, 49.623392], [7.49045, 49.623979], [7.492435, 49.624405], [7.493997, 49.62533], [7.496453, 49.626786], [7.496856, 49.626597], [7.498761, 49.625983], [7.499225, 49.625506], [7.50034, 49.624961], [7.503976, 49.624661]]]], "type": "MultiPolygon"}}
+{
+  "id": 101813019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07336095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Julian",
+    "eurostat:nuts_2021_id":"07336095",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3G",
+    "eurostat:nuts_2021_level_lau":"07336095",
+    "eurostat:population":1063,
+    "eurostat:population_year":2020,
+    "geom:area":0.001742,
+    "geom:area_square_m":13958143.789955,
+    "geom:bbox":"7.453578,49.577923,7.527801,49.643489",
+    "geom:latitude":49.609399,
+    "geom:longitude":7.490267,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":1191,
+    "iso:country":"DE",
+    "lbl:latitude":49.606987,
+    "lbl:longitude":7.511112,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":49.606987,
+    "mps:longitude":7.511112,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:arg_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ast_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:bar_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:bre_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:cat_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ceb_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ces_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0419\u0443\u043b\u0438\u0430\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:cym_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:dan_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:deu_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:eng_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:epo_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:est_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:eus_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0646\u06a9\u062a \u06cc\u0648\u0644\u06cc\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:fra_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:frp_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:fur_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:gla_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:gle_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:glg_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:gsw_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:hbs_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:hrv_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:hun_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ido_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ile_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ina_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ind_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:isl_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ita_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30f3\u30af\u30c8\u30fb\u30e6\u30ea\u30a2\u30f3"
+    ],
+    "name:kon_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:kur_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:lij_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:lim_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:lld_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ltz_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:min_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:mlg_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:msa_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:nan_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:nap_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:nds_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:nld_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:nno_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:nob_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:nrm_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:oci_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:pcd_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:pms_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:pol_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:por_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:roh_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:ron_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u042e\u043b\u0438\u0430\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:sco_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:slk_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:slv_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:spa_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:srd_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0408\u0443\u043b\u0438\u0458\u0430\u043d"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0408\u0443\u043b\u0438\u0430\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:swe_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u042e\u043b\u0438\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0442-\u042e\u043b\u0456\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sankt Julian-Obereisenbach"
+    ],
+    "name:uzb_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:vec_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:vie_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:vls_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:vol_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:war_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:wln_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:wol_x_preferred":[
+        "Sankt Julian"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5c24\u5229\u5b89"
+    ],
+    "name:zul_x_preferred":[
+        "Sankt Julian"
+    ],
+    "nav:latitude":49.606987,
+    "nav:longitude":7.511112,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Kusel",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Sankt Julian",
+    "qs:la_lc":"*DE07033604095",
+    "qs:level":"locality",
+    "qs:loc":"Sankt Julian",
+    "qs:loc_alt":"Sankt Julian",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2841558,
+    "qs_pg:gn_pop":1191,
+    "qs_pg:name":"Sankt Julian",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":577115,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":13706,
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686483,
+        85633111,
+        102063499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07336095",
+        "eurostat:nuts_2021_id":"07336095",
+        "gn:id":2841557,
+        "gp:id":20163695,
+        "qs_pg:id":577120,
+        "wd:id":"Q653875",
+        "wk:page":"Sankt Julian"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"54ab7daab18656a5cb66a777ca5201ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063499,
+            "localadmin_id":1377686483,
+            "locality_id":101813019,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101813019,
+    "wof:lastmodified":1690873367,
+    "wof:name":"Sankt Julian",
+    "wof:parent_id":1377686483,
+    "wof:placetype":"locality",
+    "wof:population":1063,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125412751
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.453578,
+    49.577923,
+    7.527801,
+    49.643489
+],
+  "geometry": {"coordinates":[[[[7.503976,49.624661],[7.503154,49.623181],[7.504359,49.621646],[7.505619,49.620572],[7.510599,49.616727],[7.511198,49.616404],[7.511587,49.616189],[7.512088,49.616052],[7.513346,49.615822],[7.514537,49.615759],[7.515558,49.615617],[7.516675,49.615345],[7.51709,49.613005],[7.517505,49.610667],[7.524421,49.609733],[7.527801,49.606859],[7.52664,49.606489],[7.525521,49.605533],[7.523425,49.604408],[7.520573,49.60485],[7.520999,49.603286],[7.518672,49.602613],[7.519534,49.60169],[7.516714,49.599815],[7.51339,49.600907],[7.512907,49.597121],[7.505921,49.591219],[7.50395,49.591293],[7.503113,49.590711],[7.499172,49.58797],[7.497668,49.588335],[7.498604,49.587581],[7.499322,49.586949],[7.497541,49.58528],[7.498684,49.584777],[7.499279,49.584515],[7.496039,49.583166],[7.492601,49.580302],[7.491045,49.578912],[7.487383,49.577923],[7.485272,49.579059],[7.481778,49.580938],[7.481162,49.581269],[7.480552,49.584552],[7.481015,49.585742],[7.480411,49.587174],[7.47875,49.588533],[7.478848,49.590601],[7.478222,49.592724],[7.474756,49.596514],[7.473567,49.598377],[7.476049,49.599531],[7.477616,49.60031],[7.476963,49.602342],[7.477326,49.602885],[7.478469,49.604589],[7.480358,49.605159],[7.483072,49.606756],[7.484234,49.607873],[7.479401,49.612861],[7.479515,49.613846],[7.480272,49.614876],[7.481403,49.615078],[7.482769,49.616201],[7.483591,49.617817],[7.483222,49.61878],[7.483036,49.619266],[7.481403,49.61986],[7.479673,49.621476],[7.478666,49.622007],[7.475988,49.622255],[7.475284,49.622857],[7.473994,49.624044],[7.472927,49.62443],[7.471779,49.623835],[7.470464,49.623123],[7.468621,49.623051],[7.466974,49.621983],[7.468248,49.620684],[7.471145,49.618718],[7.467866,49.617973],[7.466338,49.61912],[7.463476,49.619016],[7.46167,49.620175],[7.460476,49.623033],[7.459014,49.62357],[7.457204,49.626087],[7.460552,49.627501],[7.46273,49.627478],[7.45944,49.631036],[7.45603,49.630368],[7.454751,49.632297],[7.453578,49.63351],[7.457476,49.635727],[7.457066,49.636783],[7.46117,49.639781],[7.461167,49.642014],[7.462473,49.643489],[7.465925,49.64306],[7.469233,49.641402],[7.472425,49.6383],[7.472129,49.63379],[7.47319,49.633233],[7.473176,49.631486],[7.476615,49.629507],[7.481561,49.629012],[7.482044,49.628556],[7.482187,49.627987],[7.48222,49.627467],[7.482124,49.626874],[7.482154,49.626406],[7.482523,49.626052],[7.482994,49.625787],[7.483896,49.625481],[7.484842,49.625298],[7.486016,49.625067],[7.487383,49.624698],[7.488139,49.624292],[7.488336,49.623707],[7.488747,49.623128],[7.489276,49.623392],[7.49045,49.623979],[7.492435,49.624405],[7.493997,49.62533],[7.496453,49.626786],[7.496856,49.626597],[7.498761,49.625983],[7.499225,49.625506],[7.50034,49.624961],[7.503976,49.624661]]]],"type":"MultiPolygon"}
+}

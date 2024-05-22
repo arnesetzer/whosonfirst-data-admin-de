@@ -1,1 +1,155 @@
-{"id": 101909371, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.8e-05, "geom:area_square_m": 288904.381192, "geom:bbox": "12.367002,52.005651,12.381654,52.011099", "geom:latitude": 52.00826, "geom:longitude": 12.375848, "gn:population": 223, "iso:country": "DE", "lbl:latitude": 52.008012, "lbl:longitude": 12.375848, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.008012, "mps:longitude": 12.375848, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"], "name:ceb_x_preferred": ["Stackelitz"], "name:che_x_preferred": ["\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"], "name:deu_x_preferred": ["Stackelitz"], "name:eng_x_preferred": ["Stackelitz"], "name:epo_x_preferred": ["Stackelitz"], "name:fas_x_preferred": ["\u0634\u062a\u0627\u06a9\u0644\u06cc\u062a\u0633"], "name:fra_x_preferred": ["Stackelitz"], "name:gle_x_preferred": ["Stackelitz"], "name:ita_x_preferred": ["Stackelitz"], "name:kaz_x_preferred": ["\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"], "name:kir_x_preferred": ["\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"], "name:mkd_x_preferred": ["\u0428\u0442\u0430\u043a\u0435\u043b\u0438\u0446"], "name:nld_x_preferred": ["Stackelitz"], "name:por_x_preferred": ["Stackelitz"], "name:ron_x_preferred": ["Stackelitz"], "name:rus_x_preferred": ["\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"], "name:tat_x_preferred": ["\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"], "name:uzb_x_preferred": ["Stackelitz"], "name:vie_x_preferred": ["Stackelitz"], "name:vol_x_preferred": ["Stackelitz"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Wittenberg", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Stackelitz", "qs:la_lc": "*DE15009102335", "qs:level": "locality", "qs:loc": "Stackelitz", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377689271, 85633111, 102063859], "wof:breaches": [], "wof:concordances": {"gn:id": 2829912, "gp:id": 696151, "qs_pg:id": 1021168, "wd:id": "Q689989", "wk:page": "Stackelitz"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "41e4a0343b8641b8e64165a0ff5d02b6", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063859, "localadmin_id": 1377689271, "locality_id": 101909371, "region_id": 85682519}], "wof:id": 101909371, "wof:lastmodified": 1690871398, "wof:name": "Stackelitz", "wof:parent_id": 1377689271, "wof:placetype": "locality", "wof:population": 223, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.367002, 52.005651, 12.381654, 52.011099], "geometry": {"coordinates": [[[12.380294, 52.01107], [12.380199, 52.009273], [12.381654, 52.009244], [12.381464, 52.005651], [12.380008, 52.005681], [12.380056, 52.006579], [12.372778, 52.006725], [12.372825, 52.007624], [12.367002, 52.00774], [12.36705, 52.008639], [12.368506, 52.008609], [12.368553, 52.009508], [12.377287, 52.009332], [12.377335, 52.01023], [12.378791, 52.010201], [12.378838, 52.011099], [12.380294, 52.01107]]], "type": "Polygon"}}
+{
+  "id": 101909371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":288904.381192,
+    "geom:bbox":"12.367002,52.005651,12.381654,52.011099",
+    "geom:latitude":52.00826,
+    "geom:longitude":12.375848,
+    "gn:population":223,
+    "iso:country":"DE",
+    "lbl:latitude":52.008012,
+    "lbl:longitude":12.375848,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.008012,
+    "mps:longitude":12.375848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"
+    ],
+    "name:deu_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:eng_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:epo_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u062a\u0627\u06a9\u0644\u06cc\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:gle_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:ita_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0442\u0430\u043a\u0435\u043b\u0438\u0446"
+    ],
+    "name:nld_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:por_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:ron_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0442\u0430\u043a\u043a\u0435\u043b\u0438\u0446"
+    ],
+    "name:uzb_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:vie_x_preferred":[
+        "Stackelitz"
+    ],
+    "name:vol_x_preferred":[
+        "Stackelitz"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Wittenberg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Stackelitz",
+    "qs:la_lc":"*DE15009102335",
+    "qs:level":"locality",
+    "qs:loc":"Stackelitz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689271,
+        85633111,
+        102063859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2829912,
+        "gp:id":696151,
+        "qs_pg:id":1021168,
+        "wd:id":"Q689989",
+        "wk:page":"Stackelitz"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"41e4a0343b8641b8e64165a0ff5d02b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063859,
+            "localadmin_id":1377689271,
+            "locality_id":101909371,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909371,
+    "wof:lastmodified":1690871398,
+    "wof:name":"Stackelitz",
+    "wof:parent_id":1377689271,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.367002,
+    52.005651,
+    12.381654,
+    52.011099
+],
+  "geometry": {"coordinates":[[[12.380294,52.01107],[12.380199,52.009273],[12.381654,52.009244],[12.381464,52.005651],[12.380008,52.005681],[12.380056,52.006579],[12.372778,52.006725],[12.372825,52.007624],[12.367002,52.00774],[12.36705,52.008639],[12.368506,52.008609],[12.368553,52.009508],[12.377287,52.009332],[12.377335,52.01023],[12.378791,52.010201],[12.378838,52.011099],[12.380294,52.01107]]],"type":"Polygon"}
+}

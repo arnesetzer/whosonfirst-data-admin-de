@@ -1,1 +1,382 @@
-{"id": 101815709, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07332039", "eurostat:level_code": "lau", "eurostat:name_local": "Niederkirchen bei Deidesheim", "eurostat:nuts_2021_id": "07332039", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3C", "eurostat:nuts_2021_level_lau": "07332039", "eurostat:population": 2385, "eurostat:population_year": 2020, "geom:area": 0.000471, "geom:area_square_m": 3786336.938817, "geom:bbox": "8.204404,49.404248,8.237957,49.430015", "geom:latitude": 49.416601, "geom:longitude": 8.221678, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 2361, "iso:country": "DE", "lbl:latitude": 49.412016, "lbl:longitude": 8.212444, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 49.412016, "mps:longitude": 8.212444, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Niederkirchen bei Deidesheim"], "name:arg_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ast_x_preferred": ["Niederkirchen bei Deidesheim"], "name:bar_x_preferred": ["Niederkirchen bei Deidesheim"], "name:bre_x_preferred": ["Niederkirchen bei Deidesheim"], "name:cat_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ceb_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ces_x_preferred": ["Niederkirchen bei Deidesheim"], "name:che_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"], "name:cos_x_preferred": ["Niederkirchen bei Deidesheim"], "name:cym_x_preferred": ["Niederkirchen bei Deidesheim"], "name:dan_x_preferred": ["Niederkirchen bei Deidesheim"], "name:deu_x_preferred": ["Niederkirchen bei Deidesheim"], "name:eng_x_preferred": ["Niederkirchen"], "name:eng_x_variant": ["Niederkirchen bei Deidesheim"], "name:epo_x_preferred": ["Niederkirchen apud Deidesheim"], "name:est_x_preferred": ["Niederkirchen bei Deidesheim"], "name:eus_x_preferred": ["Niederkirchen bei Deidesheim"], "name:fas_x_preferred": ["\u0646\u06cc\u062f\u0631\u06a9\u06cc\u0631\u0634\u0646 \u0628\u0627\u06cc \u062f\u0627\u06cc\u062f\u0633\u0647\u0627\u06cc\u0645"], "name:fin_x_preferred": ["Niederkirchen bei Deidesheim"], "name:fra_x_preferred": ["Niederkirchen bei Deidesheim"], "name:frp_x_preferred": ["Niederkirchen bei Deidesheim"], "name:fur_x_preferred": ["Niederkirchen bei Deidesheim"], "name:gla_x_preferred": ["Niederkirchen bei Deidesheim"], "name:gle_x_preferred": ["Niederkirchen bei Deidesheim"], "name:glg_x_preferred": ["Niederkirchen bei Deidesheim"], "name:gsw_x_preferred": ["Niederkirchen bei Deidesheim"], "name:hbs_x_preferred": ["Niederkirchen bei Deidesheim"], "name:hrv_x_preferred": ["Niederkirchen bei Deidesheim"], "name:hun_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ido_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ile_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ina_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ind_x_preferred": ["Niederkirchen bei Deidesheim"], "name:isl_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ita_x_preferred": ["Niederkirchen bei Deidesheim"], "name:jpn_x_preferred": ["\u30cb\u30fc\u30c0\u30fc\u30ad\u30eb\u30d2\u30a7\u30f3\u30fb\u30d0\u30a4\u30fb\u30c0\u30a4\u30c7\u30b9\u30cf\u30a4\u30e0"], "name:kaz_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"], "name:kir_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"], "name:kon_x_preferred": ["Niederkirchen bei Deidesheim"], "name:kur_x_preferred": ["Niederkirchen bei Deidesheim"], "name:lij_x_preferred": ["Niederkirchen bei Deidesheim"], "name:lim_x_preferred": ["Niederkirchen bei Deidesheim"], "name:lld_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ltz_x_preferred": ["Niederkirchen bei Deidesheim"], "name:min_x_preferred": ["Niederkirchen bei Deidesheim"], "name:mlg_x_preferred": ["Niederkirchen bei Deidesheim"], "name:msa_x_preferred": ["Niederkirchen bei Deidesheim"], "name:nan_x_preferred": ["Niederkirchen bei Deidesheim"], "name:nap_x_preferred": ["Niederkirchen bei Deidesheim"], "name:nds_x_preferred": ["Niederkirchen bei Deidesheim"], "name:nld_x_preferred": ["Niederkirchen bei Deidesheim"], "name:nno_x_preferred": ["Niederkirchen bei Deidesheim"], "name:nob_x_preferred": ["Niederkirchen bei Deidesheim"], "name:nrm_x_preferred": ["Niederkirchen bei Deidesheim"], "name:oci_x_preferred": ["Niederkirchen bei Deidesheim"], "name:pcd_x_preferred": ["Niederkirchen bei Deidesheim"], "name:pms_x_preferred": ["Niederkirchen bei Deidesheim"], "name:pol_x_preferred": ["Niederkirchen bei Deidesheim"], "name:por_x_preferred": ["Niederkirchen bei Deidesheim"], "name:roh_x_preferred": ["Niederkirchen bei Deidesheim"], "name:ron_x_preferred": ["Niederkirchen bei Deidesheim"], "name:rus_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"], "name:scn_x_preferred": ["Niederkirchen bei Deidesheim"], "name:sco_x_preferred": ["Niederkirchen bei Deidesheim"], "name:slk_x_preferred": ["Niederkirchen bei Deidesheim"], "name:slv_x_preferred": ["Niederkirchen bei Deidesheim"], "name:spa_x_preferred": ["Niederkirchen bei Deidesheim"], "name:srd_x_preferred": ["Niederkirchen bei Deidesheim"], "name:srp_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d \u0431\u0430\u0458 \u0414\u0430\u0458\u0434\u0435\u0441\u0445\u0430\u0458\u043c"], "name:swa_x_preferred": ["Niederkirchen bei Deidesheim"], "name:swe_x_preferred": ["Niederkirchen bei Deidesheim"], "name:tat_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"], "name:ukr_x_preferred": ["\u041d\u0456\u0434\u0435\u0440\u043a\u0456\u0440\u0445\u0435\u043d-\u0431\u0430\u0439-\u0414\u0430\u0439\u0434\u0435\u0441\u0433\u0430\u0439\u043c"], "name:uzb_x_preferred": ["Niederkirchen bei Deidesheim"], "name:vec_x_preferred": ["Niederkirchen bei Deidesheim"], "name:vie_x_preferred": ["Niederkirchen bei Deidesheim"], "name:vls_x_preferred": ["Niederkirchen bei Deidesheim"], "name:vol_x_preferred": ["Niederkirchen bei Deidesheim"], "name:war_x_preferred": ["Niederkirchen bei Deidesheim"], "name:wln_x_preferred": ["Niederkirchen bei Deidesheim"], "name:wol_x_preferred": ["Niederkirchen bei Deidesheim"], "name:zho_x_preferred": ["\u4ee3\u5fb7\u65af\u6d77\u59c6\u9644\u8fd1\u4e0b\u57fa\u5174"], "name:zul_x_preferred": ["Niederkirchen bei Deidesheim"], "nav:latitude": 49.412016, "nav:longitude": 8.212444, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Bad D\u00fcrkheim", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Deidesheim", "qs:la_lc": "*DE07033201009", "qs:level": "locality", "qs:loc": "Niederkirchen bei Deidesheim", "qs:loc_alt": "Niederkirchen bei Deidesheim", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6554918, "qs_pg:gn_pop": 2361, "qs_pg:name": "Niederkirchen bei Deidesheim", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 635677, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 827, "wof:belongsto": [85682491, 102191581, 1377686261, 85633111, 102063485], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07332039", "eurostat:nuts_2021_id": "07332039", "fct:id": "074f5b56-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2863213, "gp:id": 679622, "qs_pg:id": 900081, "wd:id": "Q566001", "wk:page": "Niederkirchen bei Deidesheim"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "9c10f408cd10549fa46dc3e3e7573aa6", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063485, "localadmin_id": 1377686261, "locality_id": 101815709, "region_id": 85682491}], "wof:id": 101815709, "wof:lang": ["ger"], "wof:lastmodified": 1690873242, "wof:name": "Niederkirchen bei Deidesheim", "wof:parent_id": 1377686261, "wof:placetype": "locality", "wof:population": 2385, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125342175], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.204404, 49.404248, 8.237957, 49.430015], "geometry": {"coordinates": [[[[8.237789, 49.418252], [8.237957, 49.417626], [8.23436, 49.417247], [8.230366, 49.416825], [8.231187, 49.414348], [8.231278, 49.41366], [8.232908, 49.410612], [8.227683, 49.410858], [8.22762, 49.408697], [8.22368, 49.408302], [8.223889, 49.407388], [8.221821, 49.407085], [8.222159, 49.406066], [8.219246, 49.405836], [8.219316, 49.405226], [8.212798, 49.404248], [8.211772, 49.408115], [8.20801, 49.408038], [8.207945, 49.408838], [8.2056, 49.408826], [8.205228, 49.410268], [8.204888, 49.411611], [8.204404, 49.413365], [8.205014, 49.414457], [8.204565, 49.416041], [8.205618, 49.417689], [8.207837, 49.416873], [8.207986, 49.417776], [8.210322, 49.418273], [8.21417, 49.418567], [8.215297, 49.421569], [8.215907, 49.422374], [8.216102, 49.422918], [8.216074, 49.423493], [8.216216, 49.424279], [8.216809, 49.424291], [8.217326, 49.424139], [8.218024, 49.423983], [8.21869, 49.423906], [8.219064, 49.423878], [8.21952, 49.423851], [8.220373, 49.423913], [8.221306, 49.424004], [8.222297, 49.424069], [8.222986, 49.424083], [8.22401, 49.424014], [8.225145, 49.423938], [8.226415, 49.423936], [8.225832, 49.425454], [8.22435, 49.429637], [8.232093, 49.429901], [8.233288, 49.430015], [8.233994, 49.429975], [8.235305, 49.425285], [8.235917, 49.425477], [8.236701, 49.422901], [8.235987, 49.422833], [8.237789, 49.418252]]]], "type": "MultiPolygon"}}
+{
+  "id": 101815709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07332039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niederkirchen bei Deidesheim",
+    "eurostat:nuts_2021_id":"07332039",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3C",
+    "eurostat:nuts_2021_level_lau":"07332039",
+    "eurostat:population":2385,
+    "eurostat:population_year":2020,
+    "geom:area":0.000471,
+    "geom:area_square_m":3786336.938817,
+    "geom:bbox":"8.204404,49.404248,8.237957,49.430015",
+    "geom:latitude":49.416601,
+    "geom:longitude":8.221678,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":2361,
+    "iso:country":"DE",
+    "lbl:latitude":49.412016,
+    "lbl:longitude":8.212444,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":49.412016,
+    "mps:longitude":8.212444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:arg_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ast_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:bar_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:bre_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:cat_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ceb_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ces_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"
+    ],
+    "name:cos_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:cym_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:dan_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:deu_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:eng_x_preferred":[
+        "Niederkirchen"
+    ],
+    "name:eng_x_variant":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:epo_x_preferred":[
+        "Niederkirchen apud Deidesheim"
+    ],
+    "name:est_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:eus_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u062f\u0631\u06a9\u06cc\u0631\u0634\u0646 \u0628\u0627\u06cc \u062f\u0627\u06cc\u062f\u0633\u0647\u0627\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:fra_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:frp_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:fur_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:gla_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:gle_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:glg_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:gsw_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:hbs_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:hrv_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:hun_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ido_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ile_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ina_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ind_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:isl_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ita_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30fc\u30c0\u30fc\u30ad\u30eb\u30d2\u30a7\u30f3\u30fb\u30d0\u30a4\u30fb\u30c0\u30a4\u30c7\u30b9\u30cf\u30a4\u30e0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"
+    ],
+    "name:kon_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:kur_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:lij_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:lim_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:lld_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ltz_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:min_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:mlg_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:msa_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:nan_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:nap_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:nds_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:nld_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:nno_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:nob_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:nrm_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:oci_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:pcd_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:pms_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:pol_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:por_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:roh_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:ron_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"
+    ],
+    "name:scn_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:sco_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:slk_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:slv_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:spa_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:srd_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d \u0431\u0430\u0458 \u0414\u0430\u0458\u0434\u0435\u0441\u0445\u0430\u0458\u043c"
+    ],
+    "name:swa_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:swe_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d-\u0414\u0430\u0439\u0434\u0435\u0441\u0445\u0430\u0439\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0434\u0435\u0440\u043a\u0456\u0440\u0445\u0435\u043d-\u0431\u0430\u0439-\u0414\u0430\u0439\u0434\u0435\u0441\u0433\u0430\u0439\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:vec_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:vie_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:vls_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:vol_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:war_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:wln_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:wol_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u5fb7\u65af\u6d77\u59c6\u9644\u8fd1\u4e0b\u57fa\u5174"
+    ],
+    "name:zul_x_preferred":[
+        "Niederkirchen bei Deidesheim"
+    ],
+    "nav:latitude":49.412016,
+    "nav:longitude":8.212444,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Bad D\u00fcrkheim",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Deidesheim",
+    "qs:la_lc":"*DE07033201009",
+    "qs:level":"locality",
+    "qs:loc":"Niederkirchen bei Deidesheim",
+    "qs:loc_alt":"Niederkirchen bei Deidesheim",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6554918,
+    "qs_pg:gn_pop":2361,
+    "qs_pg:name":"Niederkirchen bei Deidesheim",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":635677,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":827,
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686261,
+        85633111,
+        102063485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07332039",
+        "eurostat:nuts_2021_id":"07332039",
+        "fct:id":"074f5b56-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2863213,
+        "gp:id":679622,
+        "qs_pg:id":900081,
+        "wd:id":"Q566001",
+        "wk:page":"Niederkirchen bei Deidesheim"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"9c10f408cd10549fa46dc3e3e7573aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063485,
+            "localadmin_id":1377686261,
+            "locality_id":101815709,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101815709,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873242,
+    "wof:name":"Niederkirchen bei Deidesheim",
+    "wof:parent_id":1377686261,
+    "wof:placetype":"locality",
+    "wof:population":2385,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125342175
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.204404,
+    49.404248,
+    8.237957,
+    49.430015
+],
+  "geometry": {"coordinates":[[[[8.237789,49.418252],[8.237957,49.417626],[8.23436,49.417247],[8.230366,49.416825],[8.231187,49.414348],[8.231278,49.41366],[8.232908,49.410612],[8.227683,49.410858],[8.22762,49.408697],[8.22368,49.408302],[8.223889,49.407388],[8.221821,49.407085],[8.222159,49.406066],[8.219246,49.405836],[8.219316,49.405226],[8.212798,49.404248],[8.211772,49.408115],[8.20801,49.408038],[8.207945,49.408838],[8.2056,49.408826],[8.205228,49.410268],[8.204888,49.411611],[8.204404,49.413365],[8.205014,49.414457],[8.204565,49.416041],[8.205618,49.417689],[8.207837,49.416873],[8.207986,49.417776],[8.210322,49.418273],[8.21417,49.418567],[8.215297,49.421569],[8.215907,49.422374],[8.216102,49.422918],[8.216074,49.423493],[8.216216,49.424279],[8.216809,49.424291],[8.217326,49.424139],[8.218024,49.423983],[8.21869,49.423906],[8.219064,49.423878],[8.21952,49.423851],[8.220373,49.423913],[8.221306,49.424004],[8.222297,49.424069],[8.222986,49.424083],[8.22401,49.424014],[8.225145,49.423938],[8.226415,49.423936],[8.225832,49.425454],[8.22435,49.429637],[8.232093,49.429901],[8.233288,49.430015],[8.233994,49.429975],[8.235305,49.425285],[8.235917,49.425477],[8.236701,49.422901],[8.235987,49.422833],[8.237789,49.418252]]]],"type":"MultiPolygon"}
+}

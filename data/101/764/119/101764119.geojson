@@ -1,1 +1,418 @@
-{"id": 101764119, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08326031", "eurostat:level_code": "lau", "eurostat:name_local": "K\u00f6nigsfeld im Schwarzwald", "eurostat:nuts_2021_id": "08326031", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE136", "eurostat:nuts_2021_level_lau": "08326031", "eurostat:population": 6040, "eurostat:population_year": 2020, "geom:area": 0.004878, "geom:area_square_m": 40238739.792243, "geom:bbox": "8.340146,48.118572,8.490554,48.181899", "geom:latitude": 48.151063, "geom:longitude": 8.420975, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 5989, "iso:country": "DE", "lbl:latitude": 48.141465, "lbl:longitude": 8.421903, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 48.141465, "mps:longitude": 8.421903, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:als_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:arg_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ast_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:bar_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:bel_x_preferred": ["\u041a\u0451\u043d\u0456\u0433\u0441\u0444\u0435\u043b\u044c\u0434-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"], "name:bre_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:cat_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ceb_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ces_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:che_x_preferred": ["\u041a\u043e\u044c\u043d\u0438\u0433\u0441\u0444\u0435\u043b\u044c\u0434"], "name:cos_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:cym_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:dan_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:deu_x_colloquial": ["Koenigsfeld", "Koenigsfeld im Schwarzwald", "Konigsfeld", "Konigsfeld im Schwarzwald"], "name:deu_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:deu_x_variant": ["K\u00f6nigsfeld"], "name:eng_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:epo_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:epo_x_variant": ["K\u00f6nigsfeld en la Nigra Arbaro"], "name:est_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:eus_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:fas_x_preferred": ["\u06a9\u0648\u0646\u06cc\u06af\u0633\u0641\u0644\u062f \u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0633\u0648\u0627\u0644\u062f"], "name:fin_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:fra_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:frp_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:fur_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:gla_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:gle_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:glg_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:gsw_x_preferred": ["Kennigsfeld"], "name:hrv_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:hun_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ido_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ile_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ina_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ind_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:isl_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ita_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:jpn_x_preferred": ["\u30b1\u30fc\u30cb\u30d2\u30b9\u30d5\u30a7\u30eb\u30c8\u30fb\u30a4\u30e0\u30fb\u30b7\u30e5\u30f4\u30a1\u30eb\u30c4\u30d0\u30eb\u30c8"], "name:kon_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:kur_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:lat_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:lij_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:lim_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:lld_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:lmo_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ltz_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:min_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:mlg_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:msa_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:nan_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:nap_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:nds_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:nld_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:nno_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:nob_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:nrm_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:oci_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:pcd_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:pms_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:pol_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:por_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:roh_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:ron_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:rus_x_preferred": ["\u041a\u0451\u043d\u0438\u0433\u0441\u0444\u0435\u043b\u044c\u0434"], "name:scn_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:sco_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:slk_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:slv_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:spa_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:srd_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:srp_x_preferred": ["\u041a\u0435\u043d\u0438\u0433\u0441\u0444\u0435\u043b\u0434 \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"], "name:swa_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:swe_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:tat_x_preferred": ["\u041a\u04e9\u043d\u0438\u0433\u0441\u0444\u0435\u043b\u0434"], "name:ukr_x_preferred": ["\u041a\u0435\u043d\u0456\u0433\u0441\u0444\u0435\u043b\u044c\u0434-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"], "name:uzb_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:vec_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:vie_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:vls_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:vol_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:war_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:wln_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:wol_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "name:zho_x_preferred": ["\u9ed1\u6797\u5c71\u533a\u514b\u5c3c\u683c\u65af\u8d39\u5c14\u5fb7"], "name:zho_x_variant": ["\u9ed1\u68ee\u6797\u5c71\u9e93\u514b\u5c3c\u683c\u65af\u8d39\u5c14\u5fb7", "\u9ed1\u6797\u5c71\u533a\u67ef\u5c3c\u5e0c\u65af\u8d39\u5c14\u5fb7"], "name:zul_x_preferred": ["K\u00f6nigsfeld im Schwarzwald"], "nav:latitude": 48.141465, "nav:longitude": 8.421903, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Schwarzwald-Baar-Kreis", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "K\u00f6nigsfeld im Schwarzwald", "qs:la_lc": "*DE08302600031", "qs:level": "locality", "qs:loc": "K\u00f6nigsfeld im Schwarzwald", "qs:loc_alt": "Koenigsfeld im Schwarzwald", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555823, "qs_pg:gn_pop": 5989, "qs_pg:name": "K\u00f6nigsfeld im Schwarzwald", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 5, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 97, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 5, "qs_pg:qs_id": 636346, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623464, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 227, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689537, 404227543, 102063253], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08326031", "eurostat:nuts_2021_id": "08326031", "fct:id": "0748d83a-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2885888, "gp:id": 668133, "qs_pg:id": 1344578, "wd:id": "Q81421", "wk:page": "K\u00f6nigsfeld im Schwarzwald"}, "wof:coterminous": [1377689537], "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "f796d6cbbead3a5860b38bdd42ffd042", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063253, "localadmin_id": 1377689537, "locality_id": 101764119, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101764119, "wof:lang": ["ger"], "wof:lastmodified": 1690871509, "wof:name": "K\u00f6nigsfeld im Schwarzwald", "wof:parent_id": 1377689537, "wof:placetype": "locality", "wof:population": 6040, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125341373, 1125284525], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.340146, 48.118572, 8.490554, 48.181899], "geometry": {"coordinates": [[[[8.475021, 48.178754], [8.47884, 48.179409], [8.481179, 48.179697], [8.484136, 48.180765], [8.485971, 48.181275], [8.487806, 48.181767], [8.489105, 48.181899], [8.489778, 48.180589], [8.490554, 48.179363], [8.489139, 48.178779], [8.487059, 48.178013], [8.482278, 48.177191], [8.480958, 48.176998], [8.477725, 48.176447], [8.477843, 48.175764], [8.478427, 48.172449], [8.478748, 48.170522], [8.48093, 48.16879], [8.46734, 48.163863], [8.462945, 48.16157], [8.45722, 48.160573], [8.455996, 48.158347], [8.458115, 48.153835], [8.459236, 48.154119], [8.460542, 48.154391], [8.462218, 48.154669], [8.463024, 48.154731], [8.463811, 48.154714], [8.472284, 48.148289], [8.473347, 48.146636], [8.473317, 48.144081], [8.470968, 48.144685], [8.467798, 48.144663], [8.46746, 48.142417], [8.468253, 48.140471], [8.471788, 48.140438], [8.474614, 48.139681], [8.477449, 48.134121], [8.476822, 48.129119], [8.473835, 48.127265], [8.467756, 48.126164], [8.46902, 48.124164], [8.467159, 48.121755], [8.467435, 48.119278], [8.458923, 48.118572], [8.444327, 48.123974], [8.431062, 48.123203], [8.430275, 48.123719], [8.428803, 48.124545], [8.427488, 48.125141], [8.423596, 48.125068], [8.422006, 48.124228], [8.402722, 48.128232], [8.402162, 48.12939], [8.39815, 48.127713], [8.395026, 48.134164], [8.390872, 48.137691], [8.386276, 48.140525], [8.382889, 48.146162], [8.377521, 48.145689], [8.373961, 48.148148], [8.369069, 48.147837], [8.356757, 48.15097], [8.353786, 48.149464], [8.349639, 48.149635], [8.342282, 48.152224], [8.340146, 48.15372], [8.340679, 48.162409], [8.342119, 48.163283], [8.344743, 48.163829], [8.348299, 48.164915], [8.351585, 48.165699], [8.355264, 48.166409], [8.358147, 48.167518], [8.360646, 48.168475], [8.363186, 48.169424], [8.366338, 48.170537], [8.368572, 48.171417], [8.369778, 48.170577], [8.371011, 48.169728], [8.373039, 48.170703], [8.376374, 48.171937], [8.379257, 48.173063], [8.382094, 48.173675], [8.384621, 48.17402], [8.385855, 48.17408], [8.387852, 48.173291], [8.390545, 48.172255], [8.397026, 48.170985], [8.399513, 48.170691], [8.403089, 48.171325], [8.405398, 48.171405], [8.406333, 48.170596], [8.407077, 48.16891], [8.407482, 48.167299], [8.410413, 48.167283], [8.415941, 48.167235], [8.417839, 48.167496], [8.419388, 48.168056], [8.420995, 48.168518], [8.422632, 48.168594], [8.423788, 48.167968], [8.42517, 48.165791], [8.427024, 48.164549], [8.42776, 48.163358], [8.429264, 48.15924], [8.435497, 48.158683], [8.442749, 48.156256], [8.443294, 48.156743], [8.444031, 48.157098], [8.446105, 48.158936], [8.447003, 48.160931], [8.447503, 48.162478], [8.445796, 48.162788], [8.438654, 48.165137], [8.440646, 48.16798], [8.444085, 48.16996], [8.44462, 48.170671], [8.4445, 48.171298], [8.443768, 48.172076], [8.441969, 48.172978], [8.436802, 48.174356], [8.434905, 48.175336], [8.433844, 48.176593], [8.433706, 48.178291], [8.434228, 48.179613], [8.435679, 48.181242], [8.436422, 48.181822], [8.438995, 48.181385], [8.442194, 48.180779], [8.444726, 48.180368], [8.448724, 48.180254], [8.450196, 48.180119], [8.452526, 48.178085], [8.453051, 48.177735], [8.455339, 48.178335], [8.456117, 48.180005], [8.457538, 48.181092], [8.458816, 48.18105], [8.458508, 48.180192], [8.46011, 48.180034], [8.461201, 48.179515], [8.46241, 48.178062], [8.463054, 48.177121], [8.464496, 48.176059], [8.465635, 48.177133], [8.465402, 48.179844], [8.470653, 48.180013], [8.473151, 48.179421], [8.475021, 48.178754]]]], "type": "MultiPolygon"}}
+{
+  "id": 101764119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08326031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"K\u00f6nigsfeld im Schwarzwald",
+    "eurostat:nuts_2021_id":"08326031",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE136",
+    "eurostat:nuts_2021_level_lau":"08326031",
+    "eurostat:population":6040,
+    "eurostat:population_year":2020,
+    "geom:area":0.004878,
+    "geom:area_square_m":40238739.792243,
+    "geom:bbox":"8.340146,48.118572,8.490554,48.181899",
+    "geom:latitude":48.151063,
+    "geom:longitude":8.420975,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":5989,
+    "iso:country":"DE",
+    "lbl:latitude":48.141465,
+    "lbl:longitude":8.421903,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":48.141465,
+    "mps:longitude":8.421903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:als_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:arg_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ast_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:bar_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0451\u043d\u0456\u0433\u0441\u0444\u0435\u043b\u044c\u0434-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:bre_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:cat_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ces_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u044c\u043d\u0438\u0433\u0441\u0444\u0435\u043b\u044c\u0434"
+    ],
+    "name:cos_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:cym_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:dan_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:deu_x_colloquial":[
+        "Koenigsfeld",
+        "Koenigsfeld im Schwarzwald",
+        "Konigsfeld",
+        "Konigsfeld im Schwarzwald"
+    ],
+    "name:deu_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:deu_x_variant":[
+        "K\u00f6nigsfeld"
+    ],
+    "name:eng_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:epo_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:epo_x_variant":[
+        "K\u00f6nigsfeld en la Nigra Arbaro"
+    ],
+    "name:est_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:eus_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u06cc\u06af\u0633\u0641\u0644\u062f \u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0633\u0648\u0627\u0644\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:frp_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:fur_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:gla_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:gle_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:glg_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:gsw_x_preferred":[
+        "Kennigsfeld"
+    ],
+    "name:hrv_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ido_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ile_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ina_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ind_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:isl_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30fc\u30cb\u30d2\u30b9\u30d5\u30a7\u30eb\u30c8\u30fb\u30a4\u30e0\u30fb\u30b7\u30e5\u30f4\u30a1\u30eb\u30c4\u30d0\u30eb\u30c8"
+    ],
+    "name:kon_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:kur_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:lat_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:lij_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:lim_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:lld_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:lmo_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ltz_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:min_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:mlg_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:nan_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:nap_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:nds_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:nno_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:nob_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:nrm_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:oci_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:pcd_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:pms_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:pol_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:por_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:roh_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:ron_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0451\u043d\u0438\u0433\u0441\u0444\u0435\u043b\u044c\u0434"
+    ],
+    "name:scn_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:sco_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:slk_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:slv_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:spa_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:srd_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0435\u043d\u0438\u0433\u0441\u0444\u0435\u043b\u0434 \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04e9\u043d\u0438\u0433\u0441\u0444\u0435\u043b\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043d\u0456\u0433\u0441\u0444\u0435\u043b\u044c\u0434-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:vec_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:vie_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:vls_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:vol_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:war_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:wln_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:wol_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6797\u5c71\u533a\u514b\u5c3c\u683c\u65af\u8d39\u5c14\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u9ed1\u68ee\u6797\u5c71\u9e93\u514b\u5c3c\u683c\u65af\u8d39\u5c14\u5fb7",
+        "\u9ed1\u6797\u5c71\u533a\u67ef\u5c3c\u5e0c\u65af\u8d39\u5c14\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "K\u00f6nigsfeld im Schwarzwald"
+    ],
+    "nav:latitude":48.141465,
+    "nav:longitude":8.421903,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Schwarzwald-Baar-Kreis",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"K\u00f6nigsfeld im Schwarzwald",
+    "qs:la_lc":"*DE08302600031",
+    "qs:level":"locality",
+    "qs:loc":"K\u00f6nigsfeld im Schwarzwald",
+    "qs:loc_alt":"Koenigsfeld im Schwarzwald",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555823,
+    "qs_pg:gn_pop":5989,
+    "qs_pg:name":"K\u00f6nigsfeld im Schwarzwald",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":97,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":636346,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623464,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":227,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689537,
+        404227543,
+        102063253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08326031",
+        "eurostat:nuts_2021_id":"08326031",
+        "fct:id":"0748d83a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2885888,
+        "gp:id":668133,
+        "qs_pg:id":1344578,
+        "wd:id":"Q81421",
+        "wk:page":"K\u00f6nigsfeld im Schwarzwald"
+    },
+    "wof:coterminous":[
+        1377689537
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"f796d6cbbead3a5860b38bdd42ffd042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063253,
+            "localadmin_id":1377689537,
+            "locality_id":101764119,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101764119,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871509,
+    "wof:name":"K\u00f6nigsfeld im Schwarzwald",
+    "wof:parent_id":1377689537,
+    "wof:placetype":"locality",
+    "wof:population":6040,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125341373,
+        1125284525
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.340146,
+    48.118572,
+    8.490554,
+    48.181899
+],
+  "geometry": {"coordinates":[[[[8.475021,48.178754],[8.47884,48.179409],[8.481179,48.179697],[8.484136,48.180765],[8.485971,48.181275],[8.487806,48.181767],[8.489105,48.181899],[8.489778,48.180589],[8.490554,48.179363],[8.489139,48.178779],[8.487059,48.178013],[8.482278,48.177191],[8.480958,48.176998],[8.477725,48.176447],[8.477843,48.175764],[8.478427,48.172449],[8.478748,48.170522],[8.48093,48.16879],[8.46734,48.163863],[8.462945,48.16157],[8.45722,48.160573],[8.455996,48.158347],[8.458115,48.153835],[8.459236,48.154119],[8.460542,48.154391],[8.462218,48.154669],[8.463024,48.154731],[8.463811,48.154714],[8.472284,48.148289],[8.473347,48.146636],[8.473317,48.144081],[8.470968,48.144685],[8.467798,48.144663],[8.46746,48.142417],[8.468253,48.140471],[8.471788,48.140438],[8.474614,48.139681],[8.477449,48.134121],[8.476822,48.129119],[8.473835,48.127265],[8.467756,48.126164],[8.46902,48.124164],[8.467159,48.121755],[8.467435,48.119278],[8.458923,48.118572],[8.444327,48.123974],[8.431062,48.123203],[8.430275,48.123719],[8.428803,48.124545],[8.427488,48.125141],[8.423596,48.125068],[8.422006,48.124228],[8.402722,48.128232],[8.402162,48.12939],[8.39815,48.127713],[8.395026,48.134164],[8.390872,48.137691],[8.386276,48.140525],[8.382889,48.146162],[8.377521,48.145689],[8.373961,48.148148],[8.369069,48.147837],[8.356757,48.15097],[8.353786,48.149464],[8.349639,48.149635],[8.342282,48.152224],[8.340146,48.15372],[8.340679,48.162409],[8.342119,48.163283],[8.344743,48.163829],[8.348299,48.164915],[8.351585,48.165699],[8.355264,48.166409],[8.358147,48.167518],[8.360646,48.168475],[8.363186,48.169424],[8.366338,48.170537],[8.368572,48.171417],[8.369778,48.170577],[8.371011,48.169728],[8.373039,48.170703],[8.376374,48.171937],[8.379257,48.173063],[8.382094,48.173675],[8.384621,48.17402],[8.385855,48.17408],[8.387852,48.173291],[8.390545,48.172255],[8.397026,48.170985],[8.399513,48.170691],[8.403089,48.171325],[8.405398,48.171405],[8.406333,48.170596],[8.407077,48.16891],[8.407482,48.167299],[8.410413,48.167283],[8.415941,48.167235],[8.417839,48.167496],[8.419388,48.168056],[8.420995,48.168518],[8.422632,48.168594],[8.423788,48.167968],[8.42517,48.165791],[8.427024,48.164549],[8.42776,48.163358],[8.429264,48.15924],[8.435497,48.158683],[8.442749,48.156256],[8.443294,48.156743],[8.444031,48.157098],[8.446105,48.158936],[8.447003,48.160931],[8.447503,48.162478],[8.445796,48.162788],[8.438654,48.165137],[8.440646,48.16798],[8.444085,48.16996],[8.44462,48.170671],[8.4445,48.171298],[8.443768,48.172076],[8.441969,48.172978],[8.436802,48.174356],[8.434905,48.175336],[8.433844,48.176593],[8.433706,48.178291],[8.434228,48.179613],[8.435679,48.181242],[8.436422,48.181822],[8.438995,48.181385],[8.442194,48.180779],[8.444726,48.180368],[8.448724,48.180254],[8.450196,48.180119],[8.452526,48.178085],[8.453051,48.177735],[8.455339,48.178335],[8.456117,48.180005],[8.457538,48.181092],[8.458816,48.18105],[8.458508,48.180192],[8.46011,48.180034],[8.461201,48.179515],[8.46241,48.178062],[8.463054,48.177121],[8.464496,48.176059],[8.465635,48.177133],[8.465402,48.179844],[8.470653,48.180013],[8.473151,48.179421],[8.475021,48.178754]]]],"type":"MultiPolygon"}
+}

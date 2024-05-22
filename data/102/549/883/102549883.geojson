@@ -1,1 +1,93 @@
-{"id": 102549883, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.21472,51.5781,8.21472,51.5781", "geom:latitude": 51.5781, "geom:longitude": 8.21472, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 13.0, "name:deu_x_preferred": ["Flugplatz Soest-Bad Sassendorf"], "name:deu_x_variant": ["Flugplatz Soest/Bad Sassendorf"], "name:eng_x_preferred": ["Soest-Bad Sassendorf Airfield"], "name:eng_x_variant": ["EDLZ", "Soest/Bad Sassendorf airfield"], "name:msa_x_preferred": ["Lapangan Terbang Bad Sassendorf"], "oa:elevation_ft": "394", "oa:type": "small_airport", "src:geom": "wikidata", "src:geom_alt": [], "woe:hierarchy": {"country_id": 23424829, "county_id": 12596964, "localadmin_id": 12624568, "planet_id": 1, "state_id": 2345487}, "wof:belongsto": [102191581, 404227579, 1377692599, 85633111, 101808879, 102063821, 85682513], "wof:breaches": [], "wof:concordances": {"gp:id": 56052063, "icao:code": "EDLZ", "oa:id": "28730", "wd:id": "Q1433863"}, "wof:country": "DE", "wof:geomhash": "18697e7aee397bb20c8b37c8722cd316", "wof:hierarchy": [{"campus_id": 102549883, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063821, "localadmin_id": 1377692599, "locality_id": 101808879, "macrocounty_id": 404227579, "neighbourhood_id": -1, "region_id": 85682513}], "wof:id": 102549883, "wof:lastmodified": 1690871092, "wof:name": "Flugplatz Soest-bad Sassendorf", "wof:parent_id": 101808879, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [8.21472, 51.5781, 8.21472, 51.5781], "geometry": {"coordinates": [8.21472, 51.5781], "type": "Point"}}
+{
+  "id": 102549883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.21472,51.5781,8.21472,51.5781",
+    "geom:latitude":51.5781,
+    "geom:longitude":8.21472,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flugplatz Soest-Bad Sassendorf"
+    ],
+    "name:deu_x_variant":[
+        "Flugplatz Soest/Bad Sassendorf"
+    ],
+    "name:eng_x_preferred":[
+        "Soest-Bad Sassendorf Airfield"
+    ],
+    "name:eng_x_variant":[
+        "EDLZ",
+        "Soest/Bad Sassendorf airfield"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Bad Sassendorf"
+    ],
+    "oa:elevation_ft":"394",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596964,
+        "localadmin_id":12624568,
+        "planet_id":1,
+        "state_id":2345487
+    },
+    "wof:belongsto":[
+        102191581,
+        404227579,
+        1377692599,
+        85633111,
+        101808879,
+        102063821,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56052063,
+        "icao:code":"EDLZ",
+        "oa:id":"28730",
+        "wd:id":"Q1433863"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"18697e7aee397bb20c8b37c8722cd316",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549883,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063821,
+            "localadmin_id":1377692599,
+            "locality_id":101808879,
+            "macrocounty_id":404227579,
+            "neighbourhood_id":-1,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":102549883,
+    "wof:lastmodified":1690871092,
+    "wof:name":"Flugplatz Soest-bad Sassendorf",
+    "wof:parent_id":101808879,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.21472,
+    51.5781,
+    8.21472,
+    51.5781
+],
+  "geometry": {"coordinates":[8.21472,51.5781],"type":"Point"}
+}

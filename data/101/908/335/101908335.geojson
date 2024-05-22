@@ -1,1 +1,328 @@
-{"id": 101908335, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 8.8e-05, "geom:area_square_m": 647350.201502, "geom:bbox": "12.255199,53.335701,12.274801,53.343195", "geom:latitude": 53.33979, "geom:longitude": 12.266218, "gn:population": 474, "iso:country": "DE", "lbl:latitude": 53.338456, "lbl:longitude": 12.268365, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 53.338456, "mps:longitude": 12.268365, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Wendisch Priborn"], "name:arg_x_preferred": ["Wendisch Priborn"], "name:ast_x_preferred": ["Wendisch Priborn"], "name:bar_x_preferred": ["Wendisch Priborn"], "name:bre_x_preferred": ["Wendisch Priborn"], "name:cat_x_preferred": ["Wendisch Priborn"], "name:ceb_x_preferred": ["Wendisch Priborn"], "name:ces_x_preferred": ["Wendisch Priborn"], "name:che_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448-\u041f\u0440\u0438\u0431\u043e\u0440\u043d"], "name:cos_x_preferred": ["Wendisch Priborn"], "name:cym_x_preferred": ["Wendisch Priborn"], "name:dan_x_preferred": ["Wendisch Priborn"], "name:deu_x_preferred": ["Wendisch Priborn"], "name:eng_x_preferred": ["Wendisch Priborn"], "name:epo_x_preferred": ["Wendisch Priborn"], "name:est_x_preferred": ["Wendisch Priborn"], "name:eus_x_preferred": ["Wendisch Priborn"], "name:fas_x_preferred": ["\u0648\u0646\u062f\u06cc\u0634 \u067e\u0631\u06cc\u0628\u0648\u0631\u0646"], "name:fin_x_preferred": ["Wendisch Priborn"], "name:fra_x_preferred": ["Wendisch Priborn"], "name:frp_x_preferred": ["Wendisch Priborn"], "name:fur_x_preferred": ["Wendisch Priborn"], "name:gla_x_preferred": ["Wendisch Priborn"], "name:gle_x_preferred": ["Wendisch Priborn"], "name:glg_x_preferred": ["Wendisch Priborn"], "name:gsw_x_preferred": ["Wendisch Priborn"], "name:hbs_x_preferred": ["Wendisch Priborn"], "name:hrv_x_preferred": ["Wendisch Priborn"], "name:hun_x_preferred": ["Wendisch Priborn"], "name:ido_x_preferred": ["Wendisch Priborn"], "name:ile_x_preferred": ["Wendisch Priborn"], "name:ina_x_preferred": ["Wendisch Priborn"], "name:ind_x_preferred": ["Wendisch Priborn"], "name:isl_x_preferred": ["Wendisch Priborn"], "name:ita_x_preferred": ["Wendisch Priborn"], "name:kon_x_preferred": ["Wendisch Priborn"], "name:lij_x_preferred": ["Wendisch Priborn"], "name:lim_x_preferred": ["Wendisch Priborn"], "name:ltz_x_preferred": ["Wendisch Priborn"], "name:min_x_preferred": ["Wendisch Priborn"], "name:mkd_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448 \u041f\u0440\u0438\u0431\u043e\u0440\u043d"], "name:mlg_x_preferred": ["Wendisch Priborn"], "name:msa_x_preferred": ["Wendisch Priborn"], "name:nap_x_preferred": ["Wendisch Priborn"], "name:nds_x_preferred": ["Wendisch Priborn"], "name:nld_x_preferred": ["Wendisch Priborn"], "name:nno_x_preferred": ["Wendisch Priborn"], "name:nob_x_preferred": ["Wendisch Priborn"], "name:nrm_x_preferred": ["Wendisch Priborn"], "name:oci_x_preferred": ["Wendisch Priborn"], "name:pcd_x_preferred": ["Wendisch Priborn"], "name:pms_x_preferred": ["Wendisch Priborn"], "name:pol_x_preferred": ["Wendisch Priborn"], "name:por_x_preferred": ["Wendisch Priborn"], "name:roh_x_preferred": ["Wendisch Priborn"], "name:ron_x_preferred": ["Wendisch Priborn"], "name:rus_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448-\u041f\u0440\u0438\u0431\u043e\u0440\u043d"], "name:scn_x_preferred": ["Wendisch Priborn"], "name:sco_x_preferred": ["Wendisch Priborn"], "name:slk_x_preferred": ["Wendisch Priborn"], "name:slv_x_preferred": ["Wendisch Priborn"], "name:spa_x_preferred": ["Wendisch Priborn"], "name:srd_x_preferred": ["Wendisch Priborn"], "name:srp_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448 \u041f\u0440\u0438\u0431\u043e\u0440\u043d"], "name:swa_x_preferred": ["Wendisch Priborn"], "name:swe_x_preferred": ["Wendisch Priborn"], "name:tat_x_preferred": ["\u0412\u0435\u043d\u0434\u0438\u0448-\u041f\u0440\u0438\u0431\u043e\u0440\u043d"], "name:tgl_x_preferred": ["Wendisch Priborn"], "name:uzb_x_preferred": ["Wendisch Priborn"], "name:vec_x_preferred": ["Wendisch Priborn"], "name:vie_x_preferred": ["Wendisch Priborn"], "name:vls_x_preferred": ["Wendisch Priborn"], "name:vol_x_preferred": ["Wendisch Priborn"], "name:war_x_preferred": ["Wendisch Priborn"], "name:wln_x_preferred": ["Wendisch Priborn"], "name:wol_x_preferred": ["Wendisch Priborn"], "name:zho_x_preferred": ["\u6587\u8fea\u65bd\u666e\u91cc\u535a\u6069"], "name:zho_x_variant": ["\u6587\u8fea\u65af\u5e0c\u666e\u91cc\u535a\u5c14\u6069"], "name:zul_x_preferred": ["Wendisch Priborn"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "Parchim", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Wendisch Priborn", "qs:la_lc": "*DE13006025083", "qs:level": "locality", "qs:loc": "Wendisch Priborn", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 29, "wof:belongsto": [85682487, 102191581, 1377685315, 85633111, 1377675569], "wof:breaches": [], "wof:concordances": {"gn:id": 2811220, "gp:id": 705280, "qs_pg:id": 576472, "wd:id": "Q652656"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "ae4487a7e48d13b751a2a4456bb31383", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675569, "localadmin_id": 1377685315, "locality_id": 101908335, "region_id": 85682487}], "wof:id": 101908335, "wof:lastmodified": 1690871848, "wof:name": "Wendisch Priborn", "wof:parent_id": 1377685315, "wof:placetype": "locality", "wof:population": 474, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.255199, 53.335701, 12.274801, 53.343195], "geometry": {"coordinates": [[[12.262749, 53.341258], [12.268751, 53.341146], [12.268799, 53.342044], [12.270299, 53.342016], [12.270347, 53.342914], [12.273348, 53.342858], [12.2733, 53.34196], [12.274801, 53.341932], [12.274563, 53.337441], [12.273063, 53.337469], [12.273015, 53.336571], [12.271515, 53.336599], [12.271467, 53.335701], [12.265466, 53.335814], [12.265608, 53.338508], [12.259606, 53.33862], [12.259653, 53.339518], [12.256652, 53.339574], [12.256699, 53.340472], [12.255199, 53.3405], [12.25534, 53.343195], [12.261343, 53.343083], [12.261296, 53.342185], [12.262796, 53.342157], [12.262749, 53.341258]]], "type": "Polygon"}}
+{
+  "id": 101908335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":647350.201502,
+    "geom:bbox":"12.255199,53.335701,12.274801,53.343195",
+    "geom:latitude":53.33979,
+    "geom:longitude":12.266218,
+    "gn:population":474,
+    "iso:country":"DE",
+    "lbl:latitude":53.338456,
+    "lbl:longitude":12.268365,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":53.338456,
+    "mps:longitude":12.268365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:arg_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ast_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:bar_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:bre_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:cat_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ceb_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ces_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448-\u041f\u0440\u0438\u0431\u043e\u0440\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:cym_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:dan_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:deu_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:eng_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:epo_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:est_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:eus_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u062f\u06cc\u0634 \u067e\u0631\u06cc\u0628\u0648\u0631\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:fra_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:frp_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:fur_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:gla_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:gle_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:glg_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:gsw_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:hbs_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:hrv_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:hun_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ido_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ile_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ina_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ind_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:isl_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ita_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:kon_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:lij_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:lim_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ltz_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:min_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448 \u041f\u0440\u0438\u0431\u043e\u0440\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:msa_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:nap_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:nds_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:nld_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:nno_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:nob_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:nrm_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:oci_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:pcd_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:pms_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:pol_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:por_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:roh_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:ron_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448-\u041f\u0440\u0438\u0431\u043e\u0440\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:sco_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:slk_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:slv_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:spa_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:srd_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448 \u041f\u0440\u0438\u0431\u043e\u0440\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:swe_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043d\u0434\u0438\u0448-\u041f\u0440\u0438\u0431\u043e\u0440\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:uzb_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:vec_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:vie_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:vls_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:vol_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:war_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:wln_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:wol_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u8fea\u65bd\u666e\u91cc\u535a\u6069"
+    ],
+    "name:zho_x_variant":[
+        "\u6587\u8fea\u65af\u5e0c\u666e\u91cc\u535a\u5c14\u6069"
+    ],
+    "name:zul_x_preferred":[
+        "Wendisch Priborn"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"Parchim",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Wendisch Priborn",
+    "qs:la_lc":"*DE13006025083",
+    "qs:level":"locality",
+    "qs:loc":"Wendisch Priborn",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377685315,
+        85633111,
+        1377675569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2811220,
+        "gp:id":705280,
+        "qs_pg:id":576472,
+        "wd:id":"Q652656"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"ae4487a7e48d13b751a2a4456bb31383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675569,
+            "localadmin_id":1377685315,
+            "locality_id":101908335,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101908335,
+    "wof:lastmodified":1690871848,
+    "wof:name":"Wendisch Priborn",
+    "wof:parent_id":1377685315,
+    "wof:placetype":"locality",
+    "wof:population":474,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.255199,
+    53.335701,
+    12.274801,
+    53.343195
+],
+  "geometry": {"coordinates":[[[12.262749,53.341258],[12.268751,53.341146],[12.268799,53.342044],[12.270299,53.342016],[12.270347,53.342914],[12.273348,53.342858],[12.2733,53.34196],[12.274801,53.341932],[12.274563,53.337441],[12.273063,53.337469],[12.273015,53.336571],[12.271515,53.336599],[12.271467,53.335701],[12.265466,53.335814],[12.265608,53.338508],[12.259606,53.33862],[12.259653,53.339518],[12.256652,53.339574],[12.256699,53.340472],[12.255199,53.3405],[12.25534,53.343195],[12.261343,53.343083],[12.261296,53.342185],[12.262796,53.342157],[12.262749,53.341258]]],"type":"Polygon"}
+}

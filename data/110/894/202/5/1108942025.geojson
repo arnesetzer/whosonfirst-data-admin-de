@@ -1,1 +1,110 @@
-{"id": 1108942025, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "13.6085445063,51.0548655067,13.6085445063,51.0548655067", "geom:latitude": 51.054866, "geom:longitude": 13.608545, "iso:country": "DE", "lbl:bbox": "13.6035445063,51.0498655067,13.6135445063,51.0598655067", "lbl:latitude": 51.054866, "lbl:longitude": 13.608545, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 15.0, "mz:tier_metro": 30, "name:bak_x_preferred": ["\u0420\u043e\u0439\u0442\u0447"], "name:ceb_x_preferred": ["Roitzsch"], "name:deu_x_preferred": ["Roitzsch"], "name:epo_x_preferred": ["Roitzsch"], "name:fas_x_preferred": ["\u0631\u0648\u06cc\u062a\u0633\u0634"], "name:ita_x_preferred": ["Roitzsch"], "name:kaz_x_preferred": ["\u0420\u043e\u0439\u0442\u0447"], "name:kir_x_preferred": ["\u0420\u043e\u0439\u0442\u0447"], "name:mkd_x_preferred": ["\u0420\u043e\u0458\u0447"], "name:nld_x_preferred": ["Roitzsch"], "name:ron_x_preferred": ["Roitzsch"], "name:rus_x_preferred": ["\u0420\u043e\u0439\u0447"], "name:uzb_x_preferred": ["Roitzsch"], "name:vol_x_preferred": ["Roitzsch"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 1377686581, 85633111, 101752773, 102064219, 85682523], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491362823, "wof:geomhash": "1e5dd19dc46657ed09de114c3077ffed", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064219, "localadmin_id": 1377686581, "locality_id": 101752773, "neighbourhood_id": 1108942025, "region_id": 85682523}], "wof:id": 1108942025, "wof:lastmodified": 1566712980, "wof:name": "Roitzsch", "wof:parent_id": 101752773, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.60854450633751, 51.05486550669336, 13.60854450633751, 51.05486550669336], "geometry": {"coordinates": [13.60854450633751, 51.05486550669336], "type": "Point"}}
+{
+  "id": 1108942025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6085445063,51.0548655067,13.6085445063,51.0548655067",
+    "geom:latitude":51.054866,
+    "geom:longitude":13.608545,
+    "iso:country":"DE",
+    "lbl:bbox":"13.6035445063,51.0498655067,13.6135445063,51.0598655067",
+    "lbl:latitude":51.054866,
+    "lbl:longitude":13.608545,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:bak_x_preferred":[
+        "\u0420\u043e\u0439\u0442\u0447"
+    ],
+    "name:ceb_x_preferred":[
+        "Roitzsch"
+    ],
+    "name:deu_x_preferred":[
+        "Roitzsch"
+    ],
+    "name:epo_x_preferred":[
+        "Roitzsch"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06cc\u062a\u0633\u0634"
+    ],
+    "name:ita_x_preferred":[
+        "Roitzsch"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0439\u0442\u0447"
+    ],
+    "name:kir_x_preferred":[
+        "\u0420\u043e\u0439\u0442\u0447"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u0458\u0447"
+    ],
+    "name:nld_x_preferred":[
+        "Roitzsch"
+    ],
+    "name:ron_x_preferred":[
+        "Roitzsch"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0439\u0447"
+    ],
+    "name:uzb_x_preferred":[
+        "Roitzsch"
+    ],
+    "name:vol_x_preferred":[
+        "Roitzsch"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1377686581,
+        85633111,
+        101752773,
+        102064219,
+        85682523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491362823,
+    "wof:geomhash":"1e5dd19dc46657ed09de114c3077ffed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064219,
+            "localadmin_id":1377686581,
+            "locality_id":101752773,
+            "neighbourhood_id":1108942025,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":1108942025,
+    "wof:lastmodified":1566712980,
+    "wof:name":"Roitzsch",
+    "wof:parent_id":101752773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60854450633751,
+    51.05486550669336,
+    13.60854450633751,
+    51.05486550669336
+],
+  "geometry": {"coordinates":[13.60854450633751,51.05486550669336],"type":"Point"}
+}

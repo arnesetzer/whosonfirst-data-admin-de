@@ -1,1 +1,346 @@
-{"id": 101805229, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000211, "geom:area_square_m": 1493322.966947, "geom:bbox": "8.404734,55.00572,8.440107,55.024745", "geom:latitude": 55.016553, "geom:longitude": 8.425834, "gn:population": 2642, "iso:country": "DE", "lbl:latitude": 55.018115, "lbl:longitude": 8.428514, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 55.018115, "mps:longitude": 8.428514, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["List auf Sylt"], "name:ara_x_preferred": ["\u0644\u064a\u0633\u062a\u060c \u0623\u0644\u0645\u0627\u0646\u064a\u0627"], "name:ara_x_variant": ["\u0644\u064a\u0633\u062a"], "name:arg_x_preferred": ["List auf Sylt"], "name:ast_x_preferred": ["List auf Sylt"], "name:bar_x_preferred": ["List auf Sylt"], "name:bre_x_preferred": ["List auf Sylt"], "name:cat_x_preferred": ["List"], "name:ceb_x_preferred": ["List"], "name:ces_x_preferred": ["List auf Sylt"], "name:che_x_preferred": ["\u041b\u0438\u0441\u0442"], "name:cos_x_preferred": ["List auf Sylt"], "name:cym_x_preferred": ["List auf Sylt"], "name:dan_x_preferred": ["List"], "name:deu_x_preferred": ["List auf Sylt"], "name:eng_x_preferred": ["List auf Sylt"], "name:epo_x_preferred": ["List"], "name:est_x_preferred": ["List auf Sylt"], "name:eus_x_preferred": ["List auf Sylt"], "name:fas_x_preferred": ["\u0644\u06cc\u0634\u062a \u0627\u0648\u0641 \u0632\u06cc\u0644\u062a"], "name:fin_x_preferred": ["List"], "name:fra_x_preferred": ["List"], "name:frp_x_preferred": ["List auf Sylt"], "name:frr_x_preferred": ["List"], "name:fry_x_preferred": ["List"], "name:fur_x_preferred": ["List auf Sylt"], "name:gla_x_preferred": ["List auf Sylt"], "name:gle_x_preferred": ["List auf Sylt"], "name:glg_x_preferred": ["List auf Sylt"], "name:gsw_x_preferred": ["List auf Sylt"], "name:hrv_x_preferred": ["List auf Sylt"], "name:hun_x_preferred": ["List auf Sylt"], "name:ido_x_preferred": ["List auf Sylt"], "name:ile_x_preferred": ["List auf Sylt"], "name:ina_x_preferred": ["List auf Sylt"], "name:ind_x_preferred": ["List auf Sylt"], "name:isl_x_preferred": ["List auf Sylt"], "name:ita_x_preferred": ["List auf Sylt"], "name:jpn_x_preferred": ["\u30ea\u30b9\u30c8"], "name:kon_x_preferred": ["List auf Sylt"], "name:lij_x_preferred": ["List auf Sylt"], "name:lim_x_preferred": ["List auf Sylt"], "name:lit_x_preferred": ["Listas"], "name:ltz_x_preferred": ["List auf Sylt"], "name:min_x_preferred": ["List auf Sylt"], "name:mkd_x_preferred": ["\u041b\u0438\u0441\u0442"], "name:mlg_x_preferred": ["List auf Sylt"], "name:msa_x_preferred": ["List"], "name:nap_x_preferred": ["List auf Sylt"], "name:nds_x_preferred": ["List"], "name:nld_x_preferred": ["List"], "name:nno_x_preferred": ["List auf Sylt"], "name:nob_x_preferred": ["List auf Sylt"], "name:nrm_x_preferred": ["List auf Sylt"], "name:oci_x_preferred": ["List"], "name:pcd_x_preferred": ["List auf Sylt"], "name:pms_x_preferred": ["List auf Sylt"], "name:pol_x_preferred": ["List auf Sylt"], "name:pol_x_variant": ["List"], "name:por_x_preferred": ["List"], "name:roh_x_preferred": ["List auf Sylt"], "name:ron_x_preferred": ["List"], "name:rus_x_preferred": ["\u041b\u0438\u0441\u0442"], "name:scn_x_preferred": ["List auf Sylt"], "name:sco_x_preferred": ["List auf Sylt"], "name:slk_x_preferred": ["List auf Sylt"], "name:slv_x_preferred": ["List auf Sylt"], "name:spa_x_preferred": ["List"], "name:srd_x_preferred": ["List auf Sylt"], "name:srp_x_preferred": ["\u041b\u0438\u0441\u0442"], "name:swa_x_preferred": ["List auf Sylt"], "name:swe_x_preferred": ["List auf Sylt"], "name:tat_x_preferred": ["\u041b\u0438\u0441\u0442"], "name:tur_x_preferred": ["List"], "name:ukr_x_preferred": ["\u041b\u0456\u0441\u0442"], "name:uzb_x_preferred": ["List"], "name:vec_x_preferred": ["List auf Sylt"], "name:vie_x_preferred": ["List"], "name:vls_x_preferred": ["List auf Sylt"], "name:vol_x_preferred": ["List"], "name:war_x_preferred": ["List"], "name:wln_x_preferred": ["List auf Sylt"], "name:wol_x_preferred": ["List auf Sylt"], "name:zho_x_preferred": ["\u5229\u65af\u7279"], "name:zul_x_preferred": ["List auf Sylt"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Schleswig-Holstein", "qs:a1r": "0", "qs:a2": "Nordfriesland", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "List", "qs:la_lc": "*DE01005439078", "qs:level": "locality", "qs:loc": "List", "qs:loc_alt": "List", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 187, "wof:belongsto": [85682517, 102191581, 1377683603, 85633111, 102064165], "wof:breaches": [], "wof:concordances": {"gn:id": 2876837, "gp:id": 672196, "qs_pg:id": 1067726, "wd:id": "Q21160"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "164363e776076c760d45e8da39550ecf", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064165, "localadmin_id": 1377683603, "locality_id": 101805229, "region_id": 85682517}], "wof:id": 101805229, "wof:lastmodified": 1690872539, "wof:name": "List", "wof:parent_id": 1377683603, "wof:placetype": "locality", "wof:population": 2642, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.404734, 55.00572, 8.440107, 55.024745], "geometry": {"coordinates": [[[8.419689, 55.024745], [8.419724, 55.023846], [8.424412, 55.023905], [8.424447, 55.023007], [8.429134, 55.023066], [8.429169, 55.022167], [8.435419, 55.022245], [8.435385, 55.023144], [8.440073, 55.023202], [8.440107, 55.022304], [8.438545, 55.022284], [8.438787, 55.015995], [8.437224, 55.015976], [8.437259, 55.015078], [8.432572, 55.015019], [8.432607, 55.014121], [8.429482, 55.014082], [8.429517, 55.013183], [8.427955, 55.013164], [8.42799, 55.012265], [8.426427, 55.012246], [8.426462, 55.011347], [8.4249, 55.011328], [8.424935, 55.010429], [8.421811, 55.01039], [8.421846, 55.009492], [8.418722, 55.009452], [8.418757, 55.008554], [8.417195, 55.008534], [8.41723, 55.007636], [8.414106, 55.007596], [8.414141, 55.006698], [8.409455, 55.006639], [8.40949, 55.00574], [8.407928, 55.00572], [8.407893, 55.006619], [8.404769, 55.006579], [8.404734, 55.007478], [8.407858, 55.007517], [8.407823, 55.008416], [8.410947, 55.008455], [8.410841, 55.01115], [8.412403, 55.01117], [8.412438, 55.010272], [8.420249, 55.01037], [8.420109, 55.013964], [8.424796, 55.014023], [8.424691, 55.016718], [8.423129, 55.016698], [8.423094, 55.017597], [8.421531, 55.017577], [8.421496, 55.018476], [8.419934, 55.018456], [8.419794, 55.022049], [8.418231, 55.02203], [8.418126, 55.024725], [8.419689, 55.024745]]], "type": "Polygon"}}
+{
+  "id": 101805229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000211,
+    "geom:area_square_m":1493322.966947,
+    "geom:bbox":"8.404734,55.00572,8.440107,55.024745",
+    "geom:latitude":55.016553,
+    "geom:longitude":8.425834,
+    "gn:population":2642,
+    "iso:country":"DE",
+    "lbl:latitude":55.018115,
+    "lbl:longitude":8.428514,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":55.018115,
+    "mps:longitude":8.428514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0633\u062a\u060c \u0623\u0644\u0645\u0627\u0646\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0644\u064a\u0633\u062a"
+    ],
+    "name:arg_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:ast_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:bar_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:bre_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:cat_x_preferred":[
+        "List"
+    ],
+    "name:ceb_x_preferred":[
+        "List"
+    ],
+    "name:ces_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u0441\u0442"
+    ],
+    "name:cos_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:cym_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:dan_x_preferred":[
+        "List"
+    ],
+    "name:deu_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:eng_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:epo_x_preferred":[
+        "List"
+    ],
+    "name:est_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:eus_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0634\u062a \u0627\u0648\u0641 \u0632\u06cc\u0644\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "List"
+    ],
+    "name:fra_x_preferred":[
+        "List"
+    ],
+    "name:frp_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:frr_x_preferred":[
+        "List"
+    ],
+    "name:fry_x_preferred":[
+        "List"
+    ],
+    "name:fur_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:gla_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:gle_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:glg_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:gsw_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:hrv_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:hun_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:ido_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:ile_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:ina_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:ind_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:isl_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:ita_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30b9\u30c8"
+    ],
+    "name:kon_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:lij_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:lim_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:lit_x_preferred":[
+        "Listas"
+    ],
+    "name:ltz_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:min_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0441\u0442"
+    ],
+    "name:mlg_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:msa_x_preferred":[
+        "List"
+    ],
+    "name:nap_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:nds_x_preferred":[
+        "List"
+    ],
+    "name:nld_x_preferred":[
+        "List"
+    ],
+    "name:nno_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:nob_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:nrm_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:oci_x_preferred":[
+        "List"
+    ],
+    "name:pcd_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:pms_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:pol_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:pol_x_variant":[
+        "List"
+    ],
+    "name:por_x_preferred":[
+        "List"
+    ],
+    "name:roh_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:ron_x_preferred":[
+        "List"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0442"
+    ],
+    "name:scn_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:sco_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:slk_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:slv_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:spa_x_preferred":[
+        "List"
+    ],
+    "name:srd_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0441\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:swe_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u0441\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "List"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0441\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "List"
+    ],
+    "name:vec_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:vie_x_preferred":[
+        "List"
+    ],
+    "name:vls_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:vol_x_preferred":[
+        "List"
+    ],
+    "name:war_x_preferred":[
+        "List"
+    ],
+    "name:wln_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:wol_x_preferred":[
+        "List auf Sylt"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u65af\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "List auf Sylt"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Schleswig-Holstein",
+    "qs:a1r":"0",
+    "qs:a2":"Nordfriesland",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"List",
+    "qs:la_lc":"*DE01005439078",
+    "qs:level":"locality",
+    "qs:loc":"List",
+    "qs:loc_alt":"List",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377683603,
+        85633111,
+        102064165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2876837,
+        "gp:id":672196,
+        "qs_pg:id":1067726,
+        "wd:id":"Q21160"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"164363e776076c760d45e8da39550ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064165,
+            "localadmin_id":1377683603,
+            "locality_id":101805229,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":101805229,
+    "wof:lastmodified":1690872539,
+    "wof:name":"List",
+    "wof:parent_id":1377683603,
+    "wof:placetype":"locality",
+    "wof:population":2642,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.404734,
+    55.00572,
+    8.440107,
+    55.024745
+],
+  "geometry": {"coordinates":[[[8.419689,55.024745],[8.419724,55.023846],[8.424412,55.023905],[8.424447,55.023007],[8.429134,55.023066],[8.429169,55.022167],[8.435419,55.022245],[8.435385,55.023144],[8.440073,55.023202],[8.440107,55.022304],[8.438545,55.022284],[8.438787,55.015995],[8.437224,55.015976],[8.437259,55.015078],[8.432572,55.015019],[8.432607,55.014121],[8.429482,55.014082],[8.429517,55.013183],[8.427955,55.013164],[8.42799,55.012265],[8.426427,55.012246],[8.426462,55.011347],[8.4249,55.011328],[8.424935,55.010429],[8.421811,55.01039],[8.421846,55.009492],[8.418722,55.009452],[8.418757,55.008554],[8.417195,55.008534],[8.41723,55.007636],[8.414106,55.007596],[8.414141,55.006698],[8.409455,55.006639],[8.40949,55.00574],[8.407928,55.00572],[8.407893,55.006619],[8.404769,55.006579],[8.404734,55.007478],[8.407858,55.007517],[8.407823,55.008416],[8.410947,55.008455],[8.410841,55.01115],[8.412403,55.01117],[8.412438,55.010272],[8.420249,55.01037],[8.420109,55.013964],[8.424796,55.014023],[8.424691,55.016718],[8.423129,55.016698],[8.423094,55.017597],[8.421531,55.017577],[8.421496,55.018476],[8.419934,55.018456],[8.419794,55.022049],[8.418231,55.02203],[8.418126,55.024725],[8.419689,55.024745]]],"type":"Polygon"}
+}

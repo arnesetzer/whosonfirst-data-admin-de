@@ -1,1 +1,93 @@
-{"id": 102549837, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "9.95472,50.4989,9.95472,50.4989", "geom:latitude": 50.4989, "geom:longitude": 9.95472, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 13.0, "name:deu_x_preferred": ["Flugplatz Wasserkuppe"], "name:eng_x_preferred": ["Wasserkuppe Airport"], "name:eng_x_variant": ["EDER", "Wasserkuppe airfield"], "name:msa_x_preferred": ["Lapangan Terbang Wasserkuppe"], "name:swe_x_preferred": ["Flugplatz Wasserkuppe"], "oa:elevation_ft": "2956", "oa:type": "small_airport", "src:geom": "wikidata", "src:geom_alt": [], "woe:hierarchy": {"country_id": 23424829, "county_id": 12596760, "localadmin_id": 12632745, "planet_id": 1, "state_id": 2345485}, "wof:belongsto": [102191581, 404227551, 1377684129, 85633111, 101812367, 102063659, 85682531], "wof:breaches": [], "wof:concordances": {"gp:id": 56052047, "icao:code": "EDER", "oa:id": "29072", "wd:id": "Q1230050"}, "wof:country": "DE", "wof:geomhash": "7da4b17b5cd12f87b6da2f1172727a01", "wof:hierarchy": [{"campus_id": 102549837, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063659, "localadmin_id": 1377684129, "locality_id": 101812367, "macrocounty_id": 404227551, "neighbourhood_id": -1, "region_id": 85682531}], "wof:id": 102549837, "wof:lastmodified": 1690871095, "wof:name": "Segelflugplatz Wasserkuppe", "wof:parent_id": 101812367, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [9.95472, 50.4989, 9.95472, 50.4989], "geometry": {"coordinates": [9.95472, 50.4989], "type": "Point"}}
+{
+  "id": 102549837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95472,50.4989,9.95472,50.4989",
+    "geom:latitude":50.4989,
+    "geom:longitude":9.95472,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flugplatz Wasserkuppe"
+    ],
+    "name:eng_x_preferred":[
+        "Wasserkuppe Airport"
+    ],
+    "name:eng_x_variant":[
+        "EDER",
+        "Wasserkuppe airfield"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Wasserkuppe"
+    ],
+    "name:swe_x_preferred":[
+        "Flugplatz Wasserkuppe"
+    ],
+    "oa:elevation_ft":"2956",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596760,
+        "localadmin_id":12632745,
+        "planet_id":1,
+        "state_id":2345485
+    },
+    "wof:belongsto":[
+        102191581,
+        404227551,
+        1377684129,
+        85633111,
+        101812367,
+        102063659,
+        85682531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56052047,
+        "icao:code":"EDER",
+        "oa:id":"29072",
+        "wd:id":"Q1230050"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"7da4b17b5cd12f87b6da2f1172727a01",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549837,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063659,
+            "localadmin_id":1377684129,
+            "locality_id":101812367,
+            "macrocounty_id":404227551,
+            "neighbourhood_id":-1,
+            "region_id":85682531
+        }
+    ],
+    "wof:id":102549837,
+    "wof:lastmodified":1690871095,
+    "wof:name":"Segelflugplatz Wasserkuppe",
+    "wof:parent_id":101812367,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    9.95472,
+    50.4989,
+    9.95472,
+    50.4989
+],
+  "geometry": {"coordinates":[9.95472,50.4989],"type":"Point"}
+}

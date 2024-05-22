@@ -1,1 +1,389 @@
-{"id": 101813167, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07331038", "eurostat:level_code": "lau", "eurostat:name_local": "Hamm am Rhein", "eurostat:nuts_2021_id": "07331038", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3B", "eurostat:nuts_2021_level_lau": "07331038", "eurostat:population": 2028, "eurostat:population_year": 2020, "geom:area": 0.000989, "geom:area_square_m": 7902515.847318, "geom:bbox": "8.407772,49.726272,8.47985,49.769227", "geom:latitude": 49.748167, "geom:longitude": 8.449899, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 2213, "iso:country": "DE", "lbl:latitude": 49.733215, "lbl:longitude": 8.430295, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 49.733215, "mps:longitude": 8.430295, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Hamm am Rhein"], "name:arg_x_preferred": ["Hamm am Rhein"], "name:ast_x_preferred": ["Hamm am Rhein"], "name:bar_x_preferred": ["Hamm am Rhein"], "name:bre_x_preferred": ["Hamm am Rhein"], "name:cat_x_preferred": ["Hamm am Rhein"], "name:ceb_x_preferred": ["Hamm am Rhein"], "name:ces_x_preferred": ["Hamm am Rhein"], "name:che_x_preferred": ["\u0425\u0430\u043c\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:cos_x_preferred": ["Hamm am Rhein"], "name:cym_x_preferred": ["Hamm am Rhein"], "name:dan_x_preferred": ["Hamm am Rhein"], "name:deu_x_preferred": ["Hamm am Rhein"], "name:eng_x_preferred": ["Hamm am Rhein"], "name:epo_x_preferred": ["Hamm am Rhein"], "name:est_x_preferred": ["Hamm am Rhein"], "name:eus_x_preferred": ["Hamm am Rhein"], "name:fas_x_preferred": ["\u0647\u0627\u0645 \u0627\u0645 \u0631\u0647\u0627\u06cc\u0646"], "name:fin_x_preferred": ["Hamm am Rhein"], "name:fra_x_preferred": ["Hamm am Rhein"], "name:frp_x_preferred": ["Hamm am Rhein"], "name:fur_x_preferred": ["Hamm am Rhein"], "name:gla_x_preferred": ["Hamm am Rhein"], "name:gle_x_preferred": ["Hamm am Rhein"], "name:glg_x_preferred": ["Hamm am Rhein"], "name:gsw_x_preferred": ["Hamm am Rhein"], "name:hbs_x_preferred": ["Hamm am Rhein"], "name:hrv_x_preferred": ["Hamm am Rhein"], "name:hun_x_preferred": ["Hamm am Rhein"], "name:ido_x_preferred": ["Hamm am Rhein"], "name:ile_x_preferred": ["Hamm am Rhein"], "name:ina_x_preferred": ["Hamm am Rhein"], "name:ind_x_preferred": ["Hamm am Rhein"], "name:isl_x_preferred": ["Hamm am Rhein"], "name:ita_x_preferred": ["Hamm am Rhein"], "name:jpn_x_preferred": ["\u30cf\u30e0\u30fb\u30a2\u30e0\u30fb\u30e9\u30a4\u30f3"], "name:kaz_x_preferred": ["\u0425\u0430\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"], "name:kir_x_preferred": ["\u0425\u0430\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"], "name:kon_x_preferred": ["Hamm am Rhein"], "name:kur_x_preferred": ["Hamm am Rhein"], "name:lij_x_preferred": ["Hamm am Rhein"], "name:lim_x_preferred": ["Hamm am Rhein"], "name:lld_x_preferred": ["Hamm am Rhein"], "name:ltz_x_preferred": ["Hamm am Rhein"], "name:min_x_preferred": ["Hamm am Rhein"], "name:mlg_x_preferred": ["Hamm am Rhein"], "name:msa_x_preferred": ["Hamm am Rhein"], "name:nan_x_preferred": ["Hamm am Rhein"], "name:nap_x_preferred": ["Hamm am Rhein"], "name:nds_x_preferred": ["Hamm am Rhein"], "name:nld_x_preferred": ["Hamm am Rhein"], "name:nno_x_preferred": ["Hamm am Rhein"], "name:nob_x_preferred": ["Hamm am Rhein"], "name:nrm_x_preferred": ["Hamm am Rhein"], "name:oci_x_preferred": ["Hamm am Rhein"], "name:pcd_x_preferred": ["Hamm am Rhein"], "name:pms_x_preferred": ["Hamm am Rhein"], "name:pol_x_preferred": ["Hamm am Rhein"], "name:por_x_preferred": ["Hamm am Rhein"], "name:roh_x_preferred": ["Hamm am Rhein"], "name:ron_x_preferred": ["Hamm am Rhein"], "name:rus_x_preferred": ["\u0425\u0430\u043c\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:rus_x_variant": ["\u0425\u0430\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"], "name:scn_x_preferred": ["Hamm am Rhein"], "name:sco_x_preferred": ["Hamm am Rhein"], "name:slk_x_preferred": ["Hamm am Rhein"], "name:slv_x_preferred": ["Hamm am Rhein"], "name:spa_x_preferred": ["Hamm am Rhein"], "name:srd_x_preferred": ["Hamm am Rhein"], "name:srp_x_preferred": ["\u0425\u0430\u043c \u0430\u043c \u0420\u0430\u0458\u043d"], "name:swa_x_preferred": ["Hamm am Rhein"], "name:swe_x_preferred": ["Hamm am Rhein"], "name:tat_x_preferred": ["\u0425\u0430\u043c\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:ukr_x_preferred": ["\u0413\u0430\u043c\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:uzb_x_preferred": ["Hamm am Rhein"], "name:vec_x_preferred": ["Hamm am Rhein"], "name:vie_x_preferred": ["Hamm am Rhein"], "name:vls_x_preferred": ["Hamm am Rhein"], "name:vol_x_preferred": ["Hamm am Rhein"], "name:war_x_preferred": ["Hamm am Rhein"], "name:wln_x_preferred": ["Hamm am Rhein"], "name:wol_x_preferred": ["Hamm am Rhein"], "name:zho_x_preferred": ["\u83b1\u8335\u6cb3\u7554\u54c8\u59c6"], "name:zul_x_preferred": ["Hamm am Rhein"], "nav:latitude": 49.733215, "nav:longitude": 8.430295, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Alzey-Worms", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Eich", "qs:la_lc": "*DE07033102018", "qs:level": "locality", "qs:loc": "Hamm am Rhein", "qs:loc_alt": "Hamm am Rhein", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6559153, "qs_pg:gn_pop": 2213, "qs_pg:name": "Hamm am Rhein", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos": 31, "qs_pg:photos_1k": 6, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 31, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 639170, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12627178, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 723, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682491, 102191581, 1377686189, 85633111, 102063529], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07331038", "eurostat:nuts_2021_id": "07331038", "gn:id": 2911244, "gp:id": 656990, "qs_pg:id": 1132205, "wd:id": "Q566932"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes"], "wof:geomhash": "9e07efdc1df472385ae7ec73aa29a35a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063529, "localadmin_id": 1377686189, "locality_id": 101813167, "region_id": 85682491}], "wof:id": 101813167, "wof:lastmodified": 1690873314, "wof:name": "Hamm am Rhein", "wof:parent_id": 1377686189, "wof:placetype": "locality", "wof:population": 2028, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125286009, 1125370091], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.407772, 49.726272, 8.47985, 49.769227], "geometry": {"coordinates": [[[[8.448365, 49.733662], [8.44779, 49.732823], [8.446378, 49.7308], [8.441827, 49.731995], [8.438463, 49.731448], [8.432372, 49.729429], [8.423529, 49.726532], [8.423338, 49.726456], [8.422152, 49.726272], [8.419884, 49.727653], [8.416994, 49.728977], [8.41423, 49.729958], [8.409576, 49.731969], [8.407772, 49.73472], [8.412126, 49.734548], [8.414803, 49.734625], [8.421586, 49.735118], [8.425192, 49.735389], [8.424574, 49.736022], [8.429938, 49.736549], [8.433913, 49.742561], [8.433846, 49.746034], [8.441563, 49.747767], [8.44138, 49.74942], [8.446664, 49.749606], [8.446681, 49.750506], [8.446685, 49.751379], [8.451265, 49.751471], [8.451203, 49.752253], [8.455817, 49.755783], [8.458064, 49.76059], [8.45175, 49.762092], [8.443191, 49.764096], [8.443098, 49.765723], [8.448605, 49.766176], [8.453691, 49.766897], [8.463665, 49.768795], [8.465473, 49.76907], [8.466552, 49.769197], [8.467357, 49.769212], [8.468204, 49.769227], [8.469554, 49.769179], [8.47074, 49.769065], [8.471984, 49.768889], [8.473474, 49.768493], [8.474262, 49.768255], [8.475039, 49.767954], [8.475694, 49.767588], [8.477088, 49.766506], [8.477403, 49.766277], [8.478386, 49.765395], [8.478559, 49.765245], [8.479186, 49.764212], [8.479573, 49.76295], [8.47985, 49.761765], [8.479847, 49.760793], [8.479379, 49.759356], [8.478633, 49.758228], [8.477398, 49.757178], [8.470399, 49.75248], [8.460332, 49.745756], [8.457095, 49.743491], [8.455137, 49.741839], [8.454174, 49.740994], [8.453151, 49.739895], [8.451512, 49.737976], [8.448365, 49.733662]]]], "type": "MultiPolygon"}}
+{
+  "id": 101813167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07331038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hamm am Rhein",
+    "eurostat:nuts_2021_id":"07331038",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3B",
+    "eurostat:nuts_2021_level_lau":"07331038",
+    "eurostat:population":2028,
+    "eurostat:population_year":2020,
+    "geom:area":0.000989,
+    "geom:area_square_m":7902515.847318,
+    "geom:bbox":"8.407772,49.726272,8.47985,49.769227",
+    "geom:latitude":49.748167,
+    "geom:longitude":8.449899,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":2213,
+    "iso:country":"DE",
+    "lbl:latitude":49.733215,
+    "lbl:longitude":8.430295,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":49.733215,
+    "mps:longitude":8.430295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:arg_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ast_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:bar_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:bre_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:cat_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ceb_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ces_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u043c\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:cym_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:dan_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:deu_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:eng_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:epo_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:est_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:eus_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0645 \u0627\u0645 \u0631\u0647\u0627\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:fra_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:frp_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:fur_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:gla_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:gle_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:glg_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:gsw_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:hbs_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:hrv_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:hun_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ido_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ile_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ina_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ind_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:isl_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ita_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30e0\u30fb\u30a2\u30e0\u30fb\u30e9\u30a4\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u0430\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:kur_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:lij_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:lim_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:lld_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ltz_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:min_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:mlg_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:msa_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:nan_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:nap_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:nds_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:nld_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:nno_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:nob_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:nrm_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:oci_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:pcd_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:pms_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:pol_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:por_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:roh_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:ron_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:sco_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:slk_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:slv_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:spa_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:srd_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043c \u0430\u043c \u0420\u0430\u0458\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:swe_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u043c\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043c\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:vec_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:vie_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:vls_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:vol_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:war_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:wln_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:wol_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u8335\u6cb3\u7554\u54c8\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Hamm am Rhein"
+    ],
+    "nav:latitude":49.733215,
+    "nav:longitude":8.430295,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Alzey-Worms",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Eich",
+    "qs:la_lc":"*DE07033102018",
+    "qs:level":"locality",
+    "qs:loc":"Hamm am Rhein",
+    "qs:loc_alt":"Hamm am Rhein",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6559153,
+    "qs_pg:gn_pop":2213,
+    "qs_pg:name":"Hamm am Rhein",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":639170,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12627178,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":723,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686189,
+        85633111,
+        102063529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07331038",
+        "eurostat:nuts_2021_id":"07331038",
+        "gn:id":2911244,
+        "gp:id":656990,
+        "qs_pg:id":1132205,
+        "wd:id":"Q566932"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"9e07efdc1df472385ae7ec73aa29a35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063529,
+            "localadmin_id":1377686189,
+            "locality_id":101813167,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101813167,
+    "wof:lastmodified":1690873314,
+    "wof:name":"Hamm am Rhein",
+    "wof:parent_id":1377686189,
+    "wof:placetype":"locality",
+    "wof:population":2028,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125286009,
+        1125370091
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.407772,
+    49.726272,
+    8.47985,
+    49.769227
+],
+  "geometry": {"coordinates":[[[[8.448365,49.733662],[8.44779,49.732823],[8.446378,49.7308],[8.441827,49.731995],[8.438463,49.731448],[8.432372,49.729429],[8.423529,49.726532],[8.423338,49.726456],[8.422152,49.726272],[8.419884,49.727653],[8.416994,49.728977],[8.41423,49.729958],[8.409576,49.731969],[8.407772,49.73472],[8.412126,49.734548],[8.414803,49.734625],[8.421586,49.735118],[8.425192,49.735389],[8.424574,49.736022],[8.429938,49.736549],[8.433913,49.742561],[8.433846,49.746034],[8.441563,49.747767],[8.44138,49.74942],[8.446664,49.749606],[8.446681,49.750506],[8.446685,49.751379],[8.451265,49.751471],[8.451203,49.752253],[8.455817,49.755783],[8.458064,49.76059],[8.45175,49.762092],[8.443191,49.764096],[8.443098,49.765723],[8.448605,49.766176],[8.453691,49.766897],[8.463665,49.768795],[8.465473,49.76907],[8.466552,49.769197],[8.467357,49.769212],[8.468204,49.769227],[8.469554,49.769179],[8.47074,49.769065],[8.471984,49.768889],[8.473474,49.768493],[8.474262,49.768255],[8.475039,49.767954],[8.475694,49.767588],[8.477088,49.766506],[8.477403,49.766277],[8.478386,49.765395],[8.478559,49.765245],[8.479186,49.764212],[8.479573,49.76295],[8.47985,49.761765],[8.479847,49.760793],[8.479379,49.759356],[8.478633,49.758228],[8.477398,49.757178],[8.470399,49.75248],[8.460332,49.745756],[8.457095,49.743491],[8.455137,49.741839],[8.454174,49.740994],[8.453151,49.739895],[8.451512,49.737976],[8.448365,49.733662]]]],"type":"MultiPolygon"}
+}

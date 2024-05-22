@@ -1,1 +1,81 @@
-{"id": 1393603753, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.1513,47.8119,10.1513,47.8119", "geom:latitude": 47.8119, "geom:longitude": 10.1513, "gn:admin1_code": "2.0", "gn:admin2_code": "097", "gn:admin3_code": "9780.0", "gn:admin4_code": "9780112.0", "gn:asciiname": "Weitenau", "gn:country_code": "DE", "gn:dem": 729, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2811681, "gn:latitude": 47.8119, "gn:longitude": 10.1513, "gn:modification_date": "2013-02-19", "gn:name": "Weitenau", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "10.1463,47.8069,10.1563,47.8169", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377693465, 404227547, 101765167, 102063205, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2811681}, "wof:country": "DE", "wof:geomhash": "a641819967c06d66c7a82b426e59481b", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063205, "localadmin_id": 1377693465, "locality_id": 101765167, "macrocounty_id": 404227547, "neighbourhood_id": 1393603753, "region_id": 85682571}], "wof:id": 1393603753, "wof:lastmodified": 1566716544, "wof:name": "Weitenau", "wof:parent_id": 101765167, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1259882473], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.1513, 47.8119, 10.1513, 47.8119], "geometry": {"coordinates": [10.1513, 47.8119], "type": "Point"}}
+{
+  "id": 1393603753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1513,47.8119,10.1513,47.8119",
+    "geom:latitude":47.8119,
+    "geom:longitude":10.1513,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"097",
+    "gn:admin3_code":"9780.0",
+    "gn:admin4_code":"9780112.0",
+    "gn:asciiname":"Weitenau",
+    "gn:country_code":"DE",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2811681,
+    "gn:latitude":47.8119,
+    "gn:longitude":10.1513,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Weitenau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"10.1463,47.8069,10.1563,47.8169",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377693465,
+        404227547,
+        101765167,
+        102063205,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2811681
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"a641819967c06d66c7a82b426e59481b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063205,
+            "localadmin_id":1377693465,
+            "locality_id":101765167,
+            "macrocounty_id":404227547,
+            "neighbourhood_id":1393603753,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393603753,
+    "wof:lastmodified":1566716544,
+    "wof:name":"Weitenau",
+    "wof:parent_id":101765167,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259882473
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1513,
+    47.8119,
+    10.1513,
+    47.8119
+],
+  "geometry": {"coordinates":[10.1513,47.8119],"type":"Point"}
+}

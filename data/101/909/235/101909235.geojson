@@ -1,1 +1,152 @@
-{"id": 101909235, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.4e-05, "geom:area_square_m": 259046.366458, "geom:bbox": "11.041879,51.527053,11.052007,51.531585", "geom:latitude": 51.529342, "geom:longitude": 11.046767, "gn:population": 286, "iso:country": "DE", "lbl:latitude": 51.529316, "lbl:longitude": 11.045851, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.529316, "mps:longitude": 11.045851, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:ceb_x_preferred": ["Dietersdorf"], "name:che_x_preferred": ["\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:deu_x_preferred": ["Dietersdorf"], "name:eng_x_preferred": ["Dietersdorf"], "name:epo_x_preferred": ["Dietersdorf"], "name:fas_x_preferred": ["\u062f\u06cc\u062a\u0631\u0633\u062f\u0648\u0631\u0641"], "name:fra_x_preferred": ["Dietersdorf"], "name:gle_x_preferred": ["Dietersdorf"], "name:ita_x_preferred": ["Dietersdorf"], "name:kaz_x_preferred": ["\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:kir_x_preferred": ["\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:mkd_x_preferred": ["\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:nld_x_preferred": ["Dietersdorf"], "name:ron_x_preferred": ["Dietersdorf"], "name:rus_x_preferred": ["\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:tat_x_preferred": ["\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:uzb_x_preferred": ["Dietersdorf"], "name:vie_x_preferred": ["Dietersdorf"], "name:vol_x_preferred": ["Dietersdorf"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Mansfeld-S\u00fcdharz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Dietersdorf", "qs:la_lc": "*DE15008707115", "qs:level": "locality", "qs:loc": "Dietersdorf", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 35, "wof:belongsto": [85682519, 102191581, 1377688789, 85633111, 102063819], "wof:breaches": [], "wof:concordances": {"gn:id": 2937132, "gp:id": 644634, "qs_pg:id": 348644, "wd:id": "Q266828", "wk:page": "Dietersdorf"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "35c53d9f9e6a1a99a776d7fe75b4defc", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063819, "localadmin_id": 1377688789, "locality_id": 101909235, "region_id": 85682519}], "wof:id": 101909235, "wof:lastmodified": 1690871381, "wof:name": "Dietersdorf", "wof:parent_id": 1377688789, "wof:placetype": "locality", "wof:population": 286, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.041879, 51.527053, 11.052007, 51.531585], "geometry": {"coordinates": [[[11.047705, 51.531546], [11.047684, 51.530647], [11.052007, 51.530609], [11.051945, 51.527913], [11.047622, 51.527951], [11.047602, 51.527053], [11.043279, 51.527091], [11.04332, 51.528889], [11.041879, 51.528901], [11.04192, 51.530699], [11.043361, 51.530686], [11.043382, 51.531585], [11.047705, 51.531546]]], "type": "Polygon"}}
+{
+  "id": 101909235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":259046.366458,
+    "geom:bbox":"11.041879,51.527053,11.052007,51.531585",
+    "geom:latitude":51.529342,
+    "geom:longitude":11.046767,
+    "gn:population":286,
+    "iso:country":"DE",
+    "lbl:latitude":51.529316,
+    "lbl:longitude":11.045851,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.529316,
+    "mps:longitude":11.045851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:deu_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:eng_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:epo_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u062a\u0631\u0633\u062f\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:gle_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:ita_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:ron_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0438\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:uzb_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Dietersdorf"
+    ],
+    "name:vol_x_preferred":[
+        "Dietersdorf"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Mansfeld-S\u00fcdharz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Dietersdorf",
+    "qs:la_lc":"*DE15008707115",
+    "qs:level":"locality",
+    "qs:loc":"Dietersdorf",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688789,
+        85633111,
+        102063819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2937132,
+        "gp:id":644634,
+        "qs_pg:id":348644,
+        "wd:id":"Q266828",
+        "wk:page":"Dietersdorf"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"35c53d9f9e6a1a99a776d7fe75b4defc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063819,
+            "localadmin_id":1377688789,
+            "locality_id":101909235,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909235,
+    "wof:lastmodified":1690871381,
+    "wof:name":"Dietersdorf",
+    "wof:parent_id":1377688789,
+    "wof:placetype":"locality",
+    "wof:population":286,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.041879,
+    51.527053,
+    11.052007,
+    51.531585
+],
+  "geometry": {"coordinates":[[[11.047705,51.531546],[11.047684,51.530647],[11.052007,51.530609],[11.051945,51.527913],[11.047622,51.527951],[11.047602,51.527053],[11.043279,51.527091],[11.04332,51.528889],[11.041879,51.528901],[11.04192,51.530699],[11.043361,51.530686],[11.043382,51.531585],[11.047705,51.531546]]],"type":"Polygon"}
+}

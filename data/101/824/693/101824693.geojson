@@ -1,1 +1,364 @@
-{"id": 101824693, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.002165, "geom:area_square_m": 16989777.9404, "geom:bbox": "10.895153,50.565189,10.972776,50.629515", "geom:latitude": 50.59875, "geom:longitude": 10.930788, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 1079, "iso:country": "DE", "lbl:latitude": 50.582372, "lbl:longitude": 10.933656, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 50.582372, "mps:longitude": 10.933656, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Neustadt am Rennsteig"], "name:arg_x_preferred": ["Neustadt am Rennsteig"], "name:ast_x_preferred": ["Neustadt am Rennsteig"], "name:bak_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:bar_x_preferred": ["Neustadt am Rennsteig"], "name:bre_x_preferred": ["Neustadt am Rennsteig"], "name:cat_x_preferred": ["Neustadt am Rennsteig"], "name:ceb_x_preferred": ["Neustadt am Rennsteig"], "name:ces_x_preferred": ["Neustadt am Rennsteig"], "name:che_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:cos_x_preferred": ["Neustadt am Rennsteig"], "name:cym_x_preferred": ["Neustadt am Rennsteig"], "name:dan_x_preferred": ["Neustadt am Rennsteig"], "name:deu_x_preferred": ["Neustadt am Rennsteig"], "name:deu_x_variant": ["Neustadt"], "name:eng_x_preferred": ["Neustadt am Rennsteig"], "name:epo_x_preferred": ["Neustadt am Rennsteig"], "name:est_x_preferred": ["Neustadt am Rennsteig"], "name:eus_x_preferred": ["Neustadt am Rennsteig"], "name:fas_x_preferred": ["\u0646\u0648\u06cc\u0634\u062a\u0627\u062f\u062a \u0627\u0645 \u0631\u0646\u0634\u062a\u0627\u06cc\u06af"], "name:fin_x_preferred": ["Neustadt am Rennsteig"], "name:fra_x_preferred": ["Neustadt am Rennsteig"], "name:frp_x_preferred": ["Neustadt am Rennsteig"], "name:fur_x_preferred": ["Neustadt am Rennsteig"], "name:gla_x_preferred": ["Neustadt am Rennsteig"], "name:gle_x_preferred": ["Neustadt am Rennsteig"], "name:glg_x_preferred": ["Neustadt am Rennsteig"], "name:gsw_x_preferred": ["Neustadt am Rennsteig"], "name:hbs_x_preferred": ["Neustadt am Rennsteig"], "name:hrv_x_preferred": ["Neustadt am Rennsteig"], "name:hun_x_preferred": ["Neustadt am Rennsteig"], "name:ido_x_preferred": ["Neustadt am Rennsteig"], "name:ile_x_preferred": ["Neustadt am Rennsteig"], "name:ina_x_preferred": ["Neustadt am Rennsteig"], "name:ind_x_preferred": ["Neustadt am Rennsteig"], "name:isl_x_preferred": ["Neustadt am Rennsteig"], "name:ita_x_preferred": ["Neustadt am Rennsteig"], "name:jpn_x_preferred": ["\u30ce\u30a4\u30b7\u30e5\u30bf\u30c3\u30c8\u30fb\u30a2\u30e0\u30fb\u30ec\u30f3\u30b7\u30e5\u30bf\u30a4\u30af"], "name:kaz_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:kir_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:kon_x_preferred": ["Neustadt am Rennsteig"], "name:lij_x_preferred": ["Neustadt am Rennsteig"], "name:lim_x_preferred": ["Neustadt am Rennsteig"], "name:ltz_x_preferred": ["Neustadt am Rennsteig"], "name:min_x_preferred": ["Neustadt am Rennsteig"], "name:mkd_x_preferred": ["\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u043d\u0430 \u0420\u0435\u043d\u0448\u0442\u0430\u0458\u0433"], "name:mlg_x_preferred": ["Neustadt am Rennsteig"], "name:msa_x_preferred": ["Neustadt am Rennsteig"], "name:nap_x_preferred": ["Neustadt am Rennsteig"], "name:nds_x_preferred": ["Neustadt am Rennsteig"], "name:nld_x_preferred": ["Neustadt am Rennsteig"], "name:nno_x_preferred": ["Neustadt am Rennsteig"], "name:nob_x_preferred": ["Neustadt am Rennsteig"], "name:nrm_x_preferred": ["Neustadt am Rennsteig"], "name:oci_x_preferred": ["Neustadt am Rennsteig"], "name:pcd_x_preferred": ["Neustadt am Rennsteig"], "name:pms_x_preferred": ["Neustadt am Rennsteig"], "name:pol_x_preferred": ["Neustadt am Rennsteig"], "name:por_x_preferred": ["Neustadt am Rennsteig"], "name:roh_x_preferred": ["Neustadt am Rennsteig"], "name:ron_x_preferred": ["Neustadt am Rennsteig"], "name:rus_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:scn_x_preferred": ["Neustadt am Rennsteig"], "name:sco_x_preferred": ["Neustadt am Rennsteig"], "name:slk_x_preferred": ["Neustadt am Rennsteig"], "name:slv_x_preferred": ["Neustadt am Rennsteig"], "name:spa_x_preferred": ["Neustadt am Rennsteig"], "name:srd_x_preferred": ["Neustadt am Rennsteig"], "name:srp_x_preferred": ["\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u0430\u043c \u0420\u0435\u043d\u0448\u0442\u0430\u0458\u0433"], "name:swa_x_preferred": ["Neustadt am Rennsteig"], "name:swe_x_preferred": ["Neustadt am Rennsteig"], "name:tat_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"], "name:ukr_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u043d\u0448\u0442\u0430\u0439\u0433"], "name:uzb_x_preferred": ["Neustadt am Rennsteig"], "name:vec_x_preferred": ["Neustadt am Rennsteig"], "name:vie_x_preferred": ["Neustadt am Rennsteig"], "name:vls_x_preferred": ["Neustadt am Rennsteig"], "name:vol_x_preferred": ["Neustadt am Rennsteig"], "name:war_x_preferred": ["Neustadt am Rennsteig"], "name:wln_x_preferred": ["Neustadt am Rennsteig"], "name:wol_x_preferred": ["Neustadt am Rennsteig"], "name:zho_x_preferred": ["\u4f26\u65af\u6cf0\u5e0c\u5730\u533a\u8bfa\u4f0a\u65af\u5854\u7279"], "name:zul_x_preferred": ["Neustadt am Rennsteig"], "nav:latitude": 50.582372, "nav:longitude": 10.933656, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Ilm-Kreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Neustadt am Rennsteig", "qs:la_lc": "*DE16007006038", "qs:level": "locality", "qs:loc": "Neustadt am Rennsteig", "qs:loc_alt": "Neustadt am Rennsteig", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6550216, "qs_pg:gn_pop": 1079, "qs_pg:name": "Neustadt am Rennsteig", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 631794, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 64, "wof:belongsto": [85682541, 102191581, 1377690415, 85633111, 102063677], "wof:breaches": [], "wof:concordances": {"fct:id": "074f1092-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2864059, "gp:id": 679055, "qs_pg:id": 142054, "wd:id": "Q628013", "wk:page": "Neustadt am Rennsteig"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "ca351de77046154e54825838920d7b6f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063677, "localadmin_id": 1377690415, "locality_id": 101824693, "region_id": 85682541}], "wof:id": 101824693, "wof:lang": ["ger"], "wof:lastmodified": 1690873146, "wof:name": "Neustadt am Rennsteig", "wof:parent_id": 1377690415, "wof:placetype": "locality", "wof:population": 1111, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125329959], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.895153, 50.565189, 10.972776, 50.629515], "geometry": {"coordinates": [[[[10.972776, 50.595835], [10.970935, 50.595591], [10.969097, 50.594159], [10.967124, 50.592768], [10.965927, 50.592735], [10.96296, 50.593931], [10.960265, 50.594419], [10.958908, 50.594001], [10.956985, 50.593171], [10.955159, 50.592631], [10.952727, 50.592586], [10.95237, 50.590716], [10.950872, 50.590749], [10.949645, 50.589095], [10.948796, 50.58795], [10.950095, 50.584948], [10.952742, 50.583831], [10.950628, 50.58159], [10.949087, 50.581497], [10.948501, 50.580834], [10.945316, 50.577247], [10.944374, 50.574767], [10.943922, 50.574769], [10.943088, 50.574772], [10.942611, 50.573667], [10.943612, 50.573375], [10.944795, 50.573011], [10.942988, 50.570148], [10.941362, 50.569992], [10.940909, 50.57146], [10.939267, 50.571107], [10.939195, 50.569442], [10.935454, 50.568251], [10.935333, 50.567351], [10.934936, 50.565751], [10.932662, 50.565811], [10.931067, 50.565856], [10.930774, 50.566325], [10.930129, 50.566611], [10.929423, 50.566924], [10.927819, 50.566012], [10.927374, 50.56524], [10.92637, 50.565189], [10.923688, 50.565406], [10.923933, 50.565873], [10.925955, 50.566109], [10.926619, 50.566079], [10.929382, 50.568543], [10.928071, 50.568926], [10.925948, 50.568412], [10.924896, 50.567768], [10.924112, 50.566952], [10.923365, 50.56718], [10.924847, 50.57009], [10.926574, 50.570461], [10.929124, 50.569669], [10.932083, 50.570414], [10.930781, 50.571678], [10.928737, 50.572136], [10.926461, 50.573602], [10.924949, 50.575173], [10.927212, 50.577423], [10.928777, 50.576789], [10.927014, 50.575424], [10.927643, 50.574641], [10.928538, 50.57516], [10.930453, 50.575972], [10.930884, 50.576717], [10.929981, 50.578412], [10.926825, 50.579224], [10.924827, 50.58041], [10.923168, 50.580175], [10.921233, 50.579902], [10.919766, 50.582593], [10.91806, 50.582456], [10.917266, 50.583117], [10.917454, 50.584068], [10.918331, 50.58517], [10.918309, 50.586065], [10.917412, 50.586068], [10.915136, 50.58242], [10.914385, 50.578689], [10.913576, 50.57687], [10.911313, 50.575097], [10.911634, 50.57461], [10.9141, 50.573836], [10.913952, 50.573117], [10.914908, 50.5726], [10.915878, 50.57194], [10.916214, 50.571633], [10.916631, 50.570912], [10.918291, 50.571616], [10.91885, 50.570967], [10.917526, 50.569892], [10.916158, 50.569816], [10.911899, 50.572656], [10.910111, 50.573292], [10.908595, 50.574467], [10.909286, 50.575923], [10.912109, 50.578792], [10.913067, 50.583242], [10.91432, 50.583472], [10.914661, 50.583947], [10.914777, 50.584375], [10.914818, 50.584779], [10.915157, 50.585135], [10.915648, 50.585586], [10.916025, 50.586013], [10.916179, 50.586512], [10.916444, 50.586845], [10.917072, 50.587124], [10.917029, 50.587659], [10.917442, 50.5886], [10.918073, 50.588969], [10.919735, 50.589135], [10.920969, 50.588208], [10.923303, 50.588478], [10.923291, 50.589484], [10.923271, 50.591159], [10.918858, 50.592426], [10.917792, 50.591837], [10.91632, 50.591157], [10.912935, 50.591385], [10.908666, 50.592337], [10.906829, 50.59399], [10.906338, 50.594432], [10.907068, 50.598036], [10.907131, 50.599423], [10.905781, 50.600301], [10.903533, 50.600237], [10.902865, 50.601499], [10.900795, 50.602487], [10.899878, 50.60276], [10.899217, 50.604814], [10.898818, 50.606039], [10.897147, 50.607403], [10.896712, 50.609474], [10.895744, 50.609779], [10.895153, 50.61073], [10.896862, 50.611345], [10.906628, 50.614856], [10.907056, 50.61526], [10.907186, 50.615502], [10.907488, 50.616095], [10.909964, 50.621035], [10.910221, 50.621349], [10.910534, 50.621582], [10.911102, 50.621823], [10.917792, 50.625011], [10.918545, 50.625386], [10.920153, 50.626397], [10.92058, 50.626701], [10.920936, 50.627024], [10.922638, 50.626842], [10.92251, 50.627586], [10.926256, 50.629515], [10.927639, 50.628567], [10.928266, 50.628788], [10.930187, 50.626963], [10.928748, 50.624287], [10.929638, 50.621143], [10.928965, 50.620174], [10.929755, 50.619982], [10.934426, 50.618822], [10.937248, 50.616589], [10.9402, 50.616218], [10.940752, 50.614767], [10.941883, 50.613305], [10.947654, 50.611942], [10.947694, 50.611681], [10.947718, 50.611213], [10.947739, 50.610448], [10.947709, 50.610259], [10.947565, 50.609981], [10.947322, 50.609694], [10.947079, 50.609488], [10.947583, 50.608955], [10.946343, 50.606441], [10.947246, 50.606203], [10.94909, 50.608266], [10.94995, 50.608028], [10.951247, 50.607681], [10.955055, 50.60665], [10.955809, 50.605711], [10.956075, 50.605404], [10.958636, 50.605547], [10.967171, 50.602282], [10.967859, 50.600976], [10.969294, 50.598252], [10.970945, 50.597948], [10.972776, 50.595835]]]], "type": "MultiPolygon"}}
+{
+  "id": 101824693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002165,
+    "geom:area_square_m":16989777.9404,
+    "geom:bbox":"10.895153,50.565189,10.972776,50.629515",
+    "geom:latitude":50.59875,
+    "geom:longitude":10.930788,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":1079,
+    "iso:country":"DE",
+    "lbl:latitude":50.582372,
+    "lbl:longitude":10.933656,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":50.582372,
+    "mps:longitude":10.933656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:arg_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ast_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:bak_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:bar_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:bre_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:cat_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ceb_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ces_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:cos_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:cym_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:dan_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:deu_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:deu_x_variant":[
+        "Neustadt"
+    ],
+    "name:eng_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:epo_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:est_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:eus_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u0634\u062a\u0627\u062f\u062a \u0627\u0645 \u0631\u0646\u0634\u062a\u0627\u06cc\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:fra_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:frp_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:fur_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:gla_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:gle_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:glg_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:gsw_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:hbs_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:hrv_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:hun_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ido_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ile_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ina_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ind_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:isl_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ita_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30a4\u30b7\u30e5\u30bf\u30c3\u30c8\u30fb\u30a2\u30e0\u30fb\u30ec\u30f3\u30b7\u30e5\u30bf\u30a4\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:kon_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:lij_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:lim_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ltz_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:min_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u043d\u0430 \u0420\u0435\u043d\u0448\u0442\u0430\u0458\u0433"
+    ],
+    "name:mlg_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:msa_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:nap_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:nds_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:nld_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:nno_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:nob_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:nrm_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:oci_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:pcd_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:pms_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:pol_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:por_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:roh_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:ron_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:scn_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:sco_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:slk_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:slv_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:spa_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:srd_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u0430\u043c \u0420\u0435\u043d\u0448\u0442\u0430\u0458\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:swe_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0435\u043d\u043d\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:vec_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:vie_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:vls_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:vol_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:war_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:wln_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:wol_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f26\u65af\u6cf0\u5e0c\u5730\u533a\u8bfa\u4f0a\u65af\u5854\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Neustadt am Rennsteig"
+    ],
+    "nav:latitude":50.582372,
+    "nav:longitude":10.933656,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Ilm-Kreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Neustadt am Rennsteig",
+    "qs:la_lc":"*DE16007006038",
+    "qs:level":"locality",
+    "qs:loc":"Neustadt am Rennsteig",
+    "qs:loc_alt":"Neustadt am Rennsteig",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6550216,
+    "qs_pg:gn_pop":1079,
+    "qs_pg:name":"Neustadt am Rennsteig",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":631794,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377690415,
+        85633111,
+        102063677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"074f1092-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2864059,
+        "gp:id":679055,
+        "qs_pg:id":142054,
+        "wd:id":"Q628013",
+        "wk:page":"Neustadt am Rennsteig"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"ca351de77046154e54825838920d7b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063677,
+            "localadmin_id":1377690415,
+            "locality_id":101824693,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101824693,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873146,
+    "wof:name":"Neustadt am Rennsteig",
+    "wof:parent_id":1377690415,
+    "wof:placetype":"locality",
+    "wof:population":1111,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125329959
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.895153,
+    50.565189,
+    10.972776,
+    50.629515
+],
+  "geometry": {"coordinates":[[[[10.972776,50.595835],[10.970935,50.595591],[10.969097,50.594159],[10.967124,50.592768],[10.965927,50.592735],[10.96296,50.593931],[10.960265,50.594419],[10.958908,50.594001],[10.956985,50.593171],[10.955159,50.592631],[10.952727,50.592586],[10.95237,50.590716],[10.950872,50.590749],[10.949645,50.589095],[10.948796,50.58795],[10.950095,50.584948],[10.952742,50.583831],[10.950628,50.58159],[10.949087,50.581497],[10.948501,50.580834],[10.945316,50.577247],[10.944374,50.574767],[10.943922,50.574769],[10.943088,50.574772],[10.942611,50.573667],[10.943612,50.573375],[10.944795,50.573011],[10.942988,50.570148],[10.941362,50.569992],[10.940909,50.57146],[10.939267,50.571107],[10.939195,50.569442],[10.935454,50.568251],[10.935333,50.567351],[10.934936,50.565751],[10.932662,50.565811],[10.931067,50.565856],[10.930774,50.566325],[10.930129,50.566611],[10.929423,50.566924],[10.927819,50.566012],[10.927374,50.56524],[10.92637,50.565189],[10.923688,50.565406],[10.923933,50.565873],[10.925955,50.566109],[10.926619,50.566079],[10.929382,50.568543],[10.928071,50.568926],[10.925948,50.568412],[10.924896,50.567768],[10.924112,50.566952],[10.923365,50.56718],[10.924847,50.57009],[10.926574,50.570461],[10.929124,50.569669],[10.932083,50.570414],[10.930781,50.571678],[10.928737,50.572136],[10.926461,50.573602],[10.924949,50.575173],[10.927212,50.577423],[10.928777,50.576789],[10.927014,50.575424],[10.927643,50.574641],[10.928538,50.57516],[10.930453,50.575972],[10.930884,50.576717],[10.929981,50.578412],[10.926825,50.579224],[10.924827,50.58041],[10.923168,50.580175],[10.921233,50.579902],[10.919766,50.582593],[10.91806,50.582456],[10.917266,50.583117],[10.917454,50.584068],[10.918331,50.58517],[10.918309,50.586065],[10.917412,50.586068],[10.915136,50.58242],[10.914385,50.578689],[10.913576,50.57687],[10.911313,50.575097],[10.911634,50.57461],[10.9141,50.573836],[10.913952,50.573117],[10.914908,50.5726],[10.915878,50.57194],[10.916214,50.571633],[10.916631,50.570912],[10.918291,50.571616],[10.91885,50.570967],[10.917526,50.569892],[10.916158,50.569816],[10.911899,50.572656],[10.910111,50.573292],[10.908595,50.574467],[10.909286,50.575923],[10.912109,50.578792],[10.913067,50.583242],[10.91432,50.583472],[10.914661,50.583947],[10.914777,50.584375],[10.914818,50.584779],[10.915157,50.585135],[10.915648,50.585586],[10.916025,50.586013],[10.916179,50.586512],[10.916444,50.586845],[10.917072,50.587124],[10.917029,50.587659],[10.917442,50.5886],[10.918073,50.588969],[10.919735,50.589135],[10.920969,50.588208],[10.923303,50.588478],[10.923291,50.589484],[10.923271,50.591159],[10.918858,50.592426],[10.917792,50.591837],[10.91632,50.591157],[10.912935,50.591385],[10.908666,50.592337],[10.906829,50.59399],[10.906338,50.594432],[10.907068,50.598036],[10.907131,50.599423],[10.905781,50.600301],[10.903533,50.600237],[10.902865,50.601499],[10.900795,50.602487],[10.899878,50.60276],[10.899217,50.604814],[10.898818,50.606039],[10.897147,50.607403],[10.896712,50.609474],[10.895744,50.609779],[10.895153,50.61073],[10.896862,50.611345],[10.906628,50.614856],[10.907056,50.61526],[10.907186,50.615502],[10.907488,50.616095],[10.909964,50.621035],[10.910221,50.621349],[10.910534,50.621582],[10.911102,50.621823],[10.917792,50.625011],[10.918545,50.625386],[10.920153,50.626397],[10.92058,50.626701],[10.920936,50.627024],[10.922638,50.626842],[10.92251,50.627586],[10.926256,50.629515],[10.927639,50.628567],[10.928266,50.628788],[10.930187,50.626963],[10.928748,50.624287],[10.929638,50.621143],[10.928965,50.620174],[10.929755,50.619982],[10.934426,50.618822],[10.937248,50.616589],[10.9402,50.616218],[10.940752,50.614767],[10.941883,50.613305],[10.947654,50.611942],[10.947694,50.611681],[10.947718,50.611213],[10.947739,50.610448],[10.947709,50.610259],[10.947565,50.609981],[10.947322,50.609694],[10.947079,50.609488],[10.947583,50.608955],[10.946343,50.606441],[10.947246,50.606203],[10.94909,50.608266],[10.94995,50.608028],[10.951247,50.607681],[10.955055,50.60665],[10.955809,50.605711],[10.956075,50.605404],[10.958636,50.605547],[10.967171,50.602282],[10.967859,50.600976],[10.969294,50.598252],[10.970945,50.597948],[10.972776,50.595835]]]],"type":"MultiPolygon"}
+}

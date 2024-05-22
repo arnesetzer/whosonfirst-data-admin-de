@@ -1,1 +1,78 @@
-{"id": 1360297313, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.42011,49.73068,11.42011,49.73068", "geom:latitude": 49.73068, "geom:longitude": 11.42011, "gn:admin1_code": "2", "gn:admin2_code": "94.0", "gn:admin3_code": "9472.0", "gn:admin4_code": "9472179.0", "gn:asciiname": "Waidach", "gn:country_code": "DE", "gn:dem": 483, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2815321, "gn:latitude": 49.73068, "gn:longitude": 11.42011, "gn:modification_date": "2013-02-19", "gn:name": "Waidach", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "11.40011,49.71068,11.44011,49.75068", "lbl:max_zoom": 18.0, "lbl:min_zoom": 13.5, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 12.0, "src:geom": "geonames", "wof:belongsto": [85682571, 102191581, 85633111, 1377687491, 404227583, 1377675599], "wof:breaches": [], "wof:concordances": {"gn:id": 2815321}, "wof:country": "DE", "wof:geomhash": "779d69f2145177346098b66dc14c0e64", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675599, "localadmin_id": 1377687491, "locality_id": 1360297313, "macrocounty_id": 404227583, "region_id": 85682571}], "wof:id": 1360297313, "wof:lastmodified": 1566713283, "wof:name": "Waidach", "wof:parent_id": 1377687491, "wof:placetype": "locality", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.42011, 49.73068, 11.42011, 49.73068], "geometry": {"coordinates": [11.42011, 49.73068], "type": "Point"}}
+{
+  "id": 1360297313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.42011,49.73068,11.42011,49.73068",
+    "geom:latitude":49.73068,
+    "geom:longitude":11.42011,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"94.0",
+    "gn:admin3_code":"9472.0",
+    "gn:admin4_code":"9472179.0",
+    "gn:asciiname":"Waidach",
+    "gn:country_code":"DE",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2815321,
+    "gn:latitude":49.73068,
+    "gn:longitude":11.42011,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Waidach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"11.40011,49.71068,11.44011,49.75068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682571,
+        102191581,
+        85633111,
+        1377687491,
+        404227583,
+        1377675599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2815321
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"779d69f2145177346098b66dc14c0e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675599,
+            "localadmin_id":1377687491,
+            "locality_id":1360297313,
+            "macrocounty_id":404227583,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1360297313,
+    "wof:lastmodified":1566713283,
+    "wof:name":"Waidach",
+    "wof:parent_id":1377687491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.42011,
+    49.73068,
+    11.42011,
+    49.73068
+],
+  "geometry": {"coordinates":[11.42011,49.73068],"type":"Point"}
+}

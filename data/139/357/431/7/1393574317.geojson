@@ -1,1 +1,81 @@
-{"id": 1393574317, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "9.5978,49.31623,9.5978,49.31623", "geom:latitude": 49.31623, "geom:longitude": 9.5978, "gn:admin1_code": "1", "gn:admin2_code": "81.0", "gn:admin3_code": "8126.0", "gn:admin4_code": "8126086.0", "gn:asciiname": "Crispenhofen", "gn:country_code": "DE", "gn:dem": 257, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2939741, "gn:latitude": 49.31623, "gn:longitude": 9.5978, "gn:modification_date": "2013-02-15", "gn:name": "Crispenhofen", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "9.5928,49.31123,9.6028,49.32123", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377687799, 404227549, 101759603, 102063435, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 2939741}, "wof:country": "DE", "wof:geomhash": "07b04a01612b679838fd595c87c4cef5", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063435, "localadmin_id": 1377687799, "locality_id": 101759603, "macrocounty_id": 404227549, "neighbourhood_id": 1393574317, "region_id": 85682567}], "wof:id": 1393574317, "wof:lastmodified": 1566715490, "wof:name": "Crispenhofen", "wof:parent_id": 101759603, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1276772423], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.5978, 49.31623, 9.5978, 49.31623], "geometry": {"coordinates": [9.5978, 49.31623], "type": "Point"}}
+{
+  "id": 1393574317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5978,49.31623,9.5978,49.31623",
+    "geom:latitude":49.31623,
+    "geom:longitude":9.5978,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8126.0",
+    "gn:admin4_code":"8126086.0",
+    "gn:asciiname":"Crispenhofen",
+    "gn:country_code":"DE",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2939741,
+    "gn:latitude":49.31623,
+    "gn:longitude":9.5978,
+    "gn:modification_date":"2013-02-15",
+    "gn:name":"Crispenhofen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"9.5928,49.31123,9.6028,49.32123",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377687799,
+        404227549,
+        101759603,
+        102063435,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2939741
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"07b04a01612b679838fd595c87c4cef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063435,
+            "localadmin_id":1377687799,
+            "locality_id":101759603,
+            "macrocounty_id":404227549,
+            "neighbourhood_id":1393574317,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1393574317,
+    "wof:lastmodified":1566715490,
+    "wof:name":"Crispenhofen",
+    "wof:parent_id":101759603,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276772423
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5978,
+    49.31623,
+    9.5978,
+    49.31623
+],
+  "geometry": {"coordinates":[9.5978,49.31623],"type":"Point"}
+}

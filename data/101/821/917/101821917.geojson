@@ -1,1 +1,155 @@
-{"id": 101821917, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.9e-05, "geom:area_square_m": 458351.280766, "geom:bbox": "11.900855,51.176214,11.916694,51.186144", "geom:latitude": 51.181824, "geom:longitude": 11.909009, "gn:population": 1541, "iso:country": "DE", "lbl:latitude": 51.182518, "lbl:longitude": 11.908889, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 51.182518, "mps:longitude": 11.908889, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041b\u0430\u0439\u0441\u043b\u0438\u043d\u0433"], "name:ceb_x_preferred": ["Lei\u00dfling"], "name:che_x_preferred": ["\u041b\u0430\u0439\u0441\u043b\u0438\u043d\u0433"], "name:deu_x_preferred": ["Lei\u00dfling"], "name:eng_x_preferred": ["Lei\u00dfling"], "name:epo_x_preferred": ["Lei\u00dfling"], "name:fas_x_preferred": ["\u0644\u0627\u06cc\u0633\u0644\u06cc\u0646\u06af"], "name:fra_x_preferred": ["Lei\u00dfling"], "name:gle_x_preferred": ["Lei\u00dfling"], "name:ita_x_preferred": ["Lei\u00dfling"], "name:jpn_x_preferred": ["\u30e9\u30a4\u30b9\u30ea\u30f3\u30b0"], "name:mkd_x_preferred": ["\u041b\u0430\u0458\u0441\u043b\u0438\u043d\u0433"], "name:nld_x_preferred": ["Lei\u00dfling"], "name:pol_x_preferred": ["Lei\u00dfling"], "name:ron_x_preferred": ["Lei\u00dfling"], "name:rus_x_preferred": ["\u041b\u0430\u0439\u0441\u043b\u0438\u043d\u0433"], "name:tat_x_preferred": ["\u041b\u0430\u0439\u0441\u043b\u0438\u043d\u0433"], "name:uzb_x_preferred": ["Lei\u00dfling"], "name:vie_x_preferred": ["Lei\u00dfling"], "name:vol_x_preferred": ["Lei\u00dfling"], "name:war_x_preferred": ["Lei\u00dfling"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Burgenlandkreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Lei\u00dfling", "qs:la_lc": "*DE15008407295", "qs:level": "locality", "qs:loc": "Lei\u00dfling", "qs:loc_alt": "Leissling", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 244, "wof:belongsto": [85682519, 102191581, 1377688467, 85633111, 102063747], "wof:breaches": [], "wof:concordances": {"gn:id": 2879106, "gp:id": 671084, "qs_pg:id": 185269, "wd:id": "Q688622", "wk:page": "Lei\u00dfling"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "22e1a347765a3a2e9f4d32af0640461d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063747, "localadmin_id": 1377688467, "locality_id": 101821917, "region_id": 85682519}], "wof:id": 101821917, "wof:lastmodified": 1690872370, "wof:name": "Lei\u00dfling", "wof:parent_id": 1377688467, "wof:placetype": "locality", "wof:population": 1541, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.900855, 51.176214, 11.916694, 51.186144], "geometry": {"coordinates": [[[11.913946, 51.186121], [11.913834, 51.183425], [11.916694, 51.183378], [11.916656, 51.18248], [11.910937, 51.182574], [11.910789, 51.17898], [11.913648, 51.178933], [11.913611, 51.178034], [11.91504, 51.178011], [11.914965, 51.176214], [11.912106, 51.176261], [11.912144, 51.177159], [11.910714, 51.177183], [11.910751, 51.178081], [11.909322, 51.178105], [11.909396, 51.179902], [11.907966, 51.179925], [11.908004, 51.180824], [11.900855, 51.180941], [11.900966, 51.183636], [11.905256, 51.183566], [11.905293, 51.184465], [11.909582, 51.184394], [11.909619, 51.185293], [11.912479, 51.185246], [11.912516, 51.186144], [11.913946, 51.186121]]], "type": "Polygon"}}
+{
+  "id": 101821917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":458351.280766,
+    "geom:bbox":"11.900855,51.176214,11.916694,51.186144",
+    "geom:latitude":51.181824,
+    "geom:longitude":11.909009,
+    "gn:population":1541,
+    "iso:country":"DE",
+    "lbl:latitude":51.182518,
+    "lbl:longitude":11.908889,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":51.182518,
+    "mps:longitude":11.908889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041b\u0430\u0439\u0441\u043b\u0438\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u0439\u0441\u043b\u0438\u043d\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:eng_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:epo_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06cc\u0633\u0644\u06cc\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:gle_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:ita_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a4\u30b9\u30ea\u30f3\u30b0"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0458\u0441\u043b\u0438\u043d\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:pol_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:ron_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0439\u0441\u043b\u0438\u043d\u0433"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u0439\u0441\u043b\u0438\u043d\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:vie_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:vol_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "name:war_x_preferred":[
+        "Lei\u00dfling"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Burgenlandkreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Lei\u00dfling",
+    "qs:la_lc":"*DE15008407295",
+    "qs:level":"locality",
+    "qs:loc":"Lei\u00dfling",
+    "qs:loc_alt":"Leissling",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":244,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688467,
+        85633111,
+        102063747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2879106,
+        "gp:id":671084,
+        "qs_pg:id":185269,
+        "wd:id":"Q688622",
+        "wk:page":"Lei\u00dfling"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"22e1a347765a3a2e9f4d32af0640461d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063747,
+            "localadmin_id":1377688467,
+            "locality_id":101821917,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101821917,
+    "wof:lastmodified":1690872370,
+    "wof:name":"Lei\u00dfling",
+    "wof:parent_id":1377688467,
+    "wof:placetype":"locality",
+    "wof:population":1541,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.900855,
+    51.176214,
+    11.916694,
+    51.186144
+],
+  "geometry": {"coordinates":[[[11.913946,51.186121],[11.913834,51.183425],[11.916694,51.183378],[11.916656,51.18248],[11.910937,51.182574],[11.910789,51.17898],[11.913648,51.178933],[11.913611,51.178034],[11.91504,51.178011],[11.914965,51.176214],[11.912106,51.176261],[11.912144,51.177159],[11.910714,51.177183],[11.910751,51.178081],[11.909322,51.178105],[11.909396,51.179902],[11.907966,51.179925],[11.908004,51.180824],[11.900855,51.180941],[11.900966,51.183636],[11.905256,51.183566],[11.905293,51.184465],[11.909582,51.184394],[11.909619,51.185293],[11.912479,51.185246],[11.912516,51.186144],[11.913946,51.186121]]],"type":"Polygon"}
+}

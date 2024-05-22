@@ -1,1 +1,400 @@
-{"id": 101760689, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08119038", "eurostat:level_code": "lau", "eurostat:name_local": "Kirchberg an der Murr", "eurostat:nuts_2021_id": "08119038", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE11", "eurostat:nuts_2021_level_3": "DE116", "eurostat:nuts_2021_level_lau": "08119038", "eurostat:population": 3878, "eurostat:population_year": 2020, "geom:area": 0.001629, "geom:area_square_m": 13231449.968158, "geom:bbox": "9.30443,48.927954,9.382091,48.966526", "geom:latitude": 48.947549, "geom:longitude": 9.34669, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 3722, "iso:country": "DE", "lbl:latitude": 48.942644, "lbl:longitude": 9.344186, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 48.942644, "mps:longitude": 9.344186, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Kirchberg an der Murr"], "name:als_x_preferred": ["Kirchberg an der Murr"], "name:arg_x_preferred": ["Kirchberg an der Murr"], "name:ast_x_preferred": ["Kirchberg an der Murr"], "name:bar_x_preferred": ["Kirchberg an der Murr"], "name:bre_x_preferred": ["Kirchberg an der Murr"], "name:cat_x_preferred": ["Kirchberg an der Murr"], "name:ceb_x_preferred": ["Kirchberg an der Murr"], "name:ces_x_preferred": ["Kirchberg an der Murr"], "name:cos_x_preferred": ["Kirchberg an der Murr"], "name:cym_x_preferred": ["Kirchberg an der Murr"], "name:dan_x_preferred": ["Kirchberg an der Murr"], "name:deu_x_preferred": ["Kirchberg an der Murr"], "name:deu_x_variant": ["Kirchberg (Murr)", "Kirchberg a.d. Murr", "Kirchberg/Murr"], "name:eng_x_preferred": ["Kirchberg"], "name:eng_x_variant": ["Kirchberg an der Murr"], "name:epo_x_preferred": ["Kirchberg"], "name:est_x_preferred": ["Kirchberg an der Murr"], "name:eus_x_preferred": ["Kirchberg an der Murr"], "name:fas_x_preferred": ["\u06a9\u06cc\u0631\u0634\u0628\u0631\u06af \u0627\u0646 \u062f\u0631 \u0645\u0648\u0631"], "name:fin_x_preferred": ["Kirchberg an der Murr"], "name:fra_x_preferred": ["Kirchberg an der Murr"], "name:frp_x_preferred": ["Kirchberg an der Murr"], "name:fur_x_preferred": ["Kirchberg an der Murr"], "name:gla_x_preferred": ["Kirchberg an der Murr"], "name:gle_x_preferred": ["Kirchberg an der Murr"], "name:glg_x_preferred": ["Kirchberg an der Murr"], "name:gsw_x_preferred": ["Kirchberg an der Murr"], "name:hbs_x_preferred": ["Kirchberg an der Murr"], "name:hrv_x_preferred": ["Kirchberg an der Murr"], "name:hun_x_preferred": ["Kirchberg an der Murr"], "name:ido_x_preferred": ["Kirchberg an der Murr"], "name:ile_x_preferred": ["Kirchberg an der Murr"], "name:ina_x_preferred": ["Kirchberg an der Murr"], "name:ind_x_preferred": ["Kirchberg an der Murr"], "name:isl_x_preferred": ["Kirchberg an der Murr"], "name:ita_x_preferred": ["Kirchberg an der Murr"], "name:kon_x_preferred": ["Kirchberg an der Murr"], "name:kur_x_preferred": ["Kirchberg an der Murr"], "name:lat_x_preferred": ["Kirchberg an der Murr"], "name:lij_x_preferred": ["Kirchberg an der Murr"], "name:lim_x_preferred": ["Kirchberg an der Murr"], "name:lld_x_preferred": ["Kirchberg an der Murr"], "name:lmo_x_preferred": ["Kirchberg an der Murr"], "name:ltz_x_preferred": ["Kirchberg an der Murr"], "name:min_x_preferred": ["Kirchberg an der Murr"], "name:mlg_x_preferred": ["Kirchberg an der Murr"], "name:msa_x_preferred": ["Kirchberg an der Murr"], "name:nan_x_preferred": ["Kirchberg an der Murr"], "name:nap_x_preferred": ["Kirchberg an der Murr"], "name:nds_x_preferred": ["Kirchberg an der Murr"], "name:nld_x_preferred": ["Kirchberg an der Murr"], "name:nno_x_preferred": ["Kirchberg an der Murr"], "name:nob_x_preferred": ["Kirchberg an der Murr"], "name:nrm_x_preferred": ["Kirchberg an der Murr"], "name:oci_x_preferred": ["Kirchberg an der Murr"], "name:pcd_x_preferred": ["Kirchberg an der Murr"], "name:pms_x_preferred": ["Kirchberg an der Murr"], "name:pol_x_preferred": ["Kirchberg an der Murr"], "name:por_x_preferred": ["Kirchberg an der Murr"], "name:roh_x_preferred": ["Kirchberg an der Murr"], "name:ron_x_preferred": ["Kirchberg an der Murr"], "name:rus_x_preferred": ["\u041a\u0438\u0440\u0445\u0431\u0435\u0440\u0433-\u043d\u0430-\u041c\u0443\u0440\u0435"], "name:scn_x_preferred": ["Kirchberg an der Murr"], "name:sco_x_preferred": ["Kirchberg an der Murr"], "name:slk_x_preferred": ["Kirchberg an der Murr"], "name:slv_x_preferred": ["Kirchberg an der Murr"], "name:spa_x_preferred": ["Kirchberg an der Murr"], "name:srd_x_preferred": ["Kirchberg an der Murr"], "name:srp_x_preferred": ["\u041a\u0438\u0440\u0445\u0431\u0435\u0440\u0433 \u0430\u043d \u0434\u0435\u0440 \u041c\u0443\u0440\u0438"], "name:swa_x_preferred": ["Kirchberg an der Murr"], "name:swe_x_preferred": ["Kirchberg an der Murr"], "name:ukr_x_preferred": ["\u041a\u0456\u0440\u0445\u0431\u0435\u0440\u0433-\u0430\u043d-\u0434\u0435\u0440-\u041c\u0443\u0440"], "name:uzb_x_preferred": ["Kirchberg an der Murr"], "name:vec_x_preferred": ["Kirchberg an der Murr"], "name:vie_x_preferred": ["Kirchberg an der Murr"], "name:vls_x_preferred": ["Kirchberg an der Murr"], "name:vol_x_preferred": ["Kirchberg an der Murr"], "name:war_x_preferred": ["Kirchberg an der Murr"], "name:wln_x_preferred": ["Kirchberg an der Murr"], "name:wol_x_preferred": ["Kirchberg an der Murr"], "name:zho_min_nan_x_preferred": ["Kirchberg an der Murr"], "name:zho_x_preferred": ["\u7a46\u5c14\u6cb3\u7554\u57fa\u5c14\u5e0c\u8d1d\u683c"], "name:zul_x_preferred": ["Kirchberg an der Murr"], "nav:latitude": 48.942644, "nav:longitude": 9.344186, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Rems-Murr-Kreis", "qs:a2r": "Stuttgart", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Kirchberg an der Murr", "qs:la_lc": "*DE08101901038", "qs:level": "locality", "qs:loc": "Kirchberg an der Murr", "qs:loc_alt": "Kirchberg an der Murr", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555499, "qs_pg:gn_pop": 3722, "qs_pg:name": "Gemeinde Kirchberg an der Murr", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 3, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 1, "qs_pg:photos_all": 3, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 245530, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12624105, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 34, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377687521, 404227549, 102063379], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08119038", "eurostat:nuts_2021_id": "08119038", "fct:id": "0747a726-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2890645, "gp:id": 665870, "qs_pg:id": 1039430, "wd:id": "Q81216", "wk:page": "Kirchberg an der Murr"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "93f3ead0e9f2fd589db7d0844e252bbc", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063379, "localadmin_id": 1377687521, "locality_id": 101760689, "macrocounty_id": 404227549, "region_id": 85682567}], "wof:id": 101760689, "wof:lang": ["ger"], "wof:lastmodified": 1690872800, "wof:name": "Kirchberg an der Murr", "wof:parent_id": 1377687521, "wof:placetype": "locality", "wof:population": 3878, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125414047], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.30443, 48.927954, 9.382091, 48.966526], "geometry": {"coordinates": [[[[9.382091, 48.95653], [9.381213, 48.955427], [9.382051, 48.953579], [9.381095, 48.951575], [9.378596, 48.951576], [9.379472, 48.949094], [9.373618, 48.949502], [9.373807, 48.948444], [9.372468, 48.948549], [9.372118, 48.948046], [9.37184, 48.947567], [9.371636, 48.947041], [9.371616, 48.946316], [9.371701, 48.945781], [9.372042, 48.945118], [9.372417, 48.944526], [9.3729, 48.943972], [9.373376, 48.943679], [9.373927, 48.943304], [9.374694, 48.942931], [9.375389, 48.942557], [9.375833, 48.942133], [9.376027, 48.941564], [9.376005, 48.940921], [9.376052, 48.94047], [9.376568, 48.940047], [9.377297, 48.939768], [9.377881, 48.939489], [9.374762, 48.938477], [9.368426, 48.939654], [9.361388, 48.938764], [9.35817, 48.93337], [9.357575, 48.933493], [9.357069, 48.933512], [9.356348, 48.933433], [9.355626, 48.933425], [9.354685, 48.933511], [9.353632, 48.933714], [9.350372, 48.934085], [9.349503, 48.934172], [9.34878, 48.934236], [9.348096, 48.934133], [9.347235, 48.933863], [9.346774, 48.933525], [9.346106, 48.932756], [9.345579, 48.932132], [9.345122, 48.931604], [9.344627, 48.931146], [9.344093, 48.930831], [9.343303, 48.930609], [9.342511, 48.930506], [9.341355, 48.930494], [9.340596, 48.930533], [9.340697, 48.928693], [9.339176, 48.928932], [9.338564, 48.927954], [9.33461, 48.928979], [9.335297, 48.930434], [9.333296, 48.930469], [9.331975, 48.932614], [9.327364, 48.932466], [9.326374, 48.932568], [9.324952, 48.933421], [9.320566, 48.933573], [9.318971, 48.93236], [9.31484, 48.934898], [9.316239, 48.936864], [9.315322, 48.937538], [9.316196, 48.938627], [9.314986, 48.940313], [9.312989, 48.940406], [9.312432, 48.941899], [9.314428, 48.941835], [9.314998, 48.943369], [9.312367, 48.944424], [9.312016, 48.944736], [9.307882, 48.94577], [9.306712, 48.946145], [9.30723, 48.947859], [9.30443, 48.948414], [9.30646, 48.950858], [9.307233, 48.95161], [9.308105, 48.952267], [9.312332, 48.950864], [9.314033, 48.950576], [9.315282, 48.951417], [9.319219, 48.951964], [9.318998, 48.950334], [9.320749, 48.951438], [9.322662, 48.951252], [9.323812, 48.949996], [9.326827, 48.951251], [9.329423, 48.951764], [9.330407, 48.95119], [9.337739, 48.955827], [9.339436, 48.959667], [9.342798, 48.962455], [9.347005, 48.965368], [9.350017, 48.965669], [9.351939, 48.96585], [9.355827, 48.96607], [9.359915, 48.966526], [9.360025, 48.964737], [9.368298, 48.964425], [9.368564, 48.962377], [9.376789, 48.962316], [9.376748, 48.959428], [9.378125, 48.959251], [9.380346, 48.956989], [9.381103, 48.957092], [9.382091, 48.95653]]]], "type": "MultiPolygon"}}
+{
+  "id": 101760689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08119038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchberg an der Murr",
+    "eurostat:nuts_2021_id":"08119038",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE11",
+    "eurostat:nuts_2021_level_3":"DE116",
+    "eurostat:nuts_2021_level_lau":"08119038",
+    "eurostat:population":3878,
+    "eurostat:population_year":2020,
+    "geom:area":0.001629,
+    "geom:area_square_m":13231449.968158,
+    "geom:bbox":"9.30443,48.927954,9.382091,48.966526",
+    "geom:latitude":48.947549,
+    "geom:longitude":9.34669,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":3722,
+    "iso:country":"DE",
+    "lbl:latitude":48.942644,
+    "lbl:longitude":9.344186,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":48.942644,
+    "mps:longitude":9.344186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:als_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:arg_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ast_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:bar_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:bre_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:cat_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ceb_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ces_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:cos_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:cym_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:dan_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:deu_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:deu_x_variant":[
+        "Kirchberg (Murr)",
+        "Kirchberg a.d. Murr",
+        "Kirchberg/Murr"
+    ],
+    "name:eng_x_preferred":[
+        "Kirchberg"
+    ],
+    "name:eng_x_variant":[
+        "Kirchberg an der Murr"
+    ],
+    "name:epo_x_preferred":[
+        "Kirchberg"
+    ],
+    "name:est_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:eus_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0631\u0634\u0628\u0631\u06af \u0627\u0646 \u062f\u0631 \u0645\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:fra_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:frp_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:fur_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:gla_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:gle_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:glg_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:gsw_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:hbs_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:hrv_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:hun_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ido_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ile_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ina_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ind_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:isl_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ita_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:kon_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:kur_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:lat_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:lij_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:lim_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:lld_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:lmo_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ltz_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:min_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:mlg_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:msa_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:nan_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:nap_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:nds_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:nld_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:nno_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:nob_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:nrm_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:oci_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:pcd_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:pms_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:pol_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:por_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:roh_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ron_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0445\u0431\u0435\u0440\u0433-\u043d\u0430-\u041c\u0443\u0440\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:sco_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:slk_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:slv_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:spa_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:srd_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0440\u0445\u0431\u0435\u0440\u0433 \u0430\u043d \u0434\u0435\u0440 \u041c\u0443\u0440\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:swe_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u0445\u0431\u0435\u0440\u0433-\u0430\u043d-\u0434\u0435\u0440-\u041c\u0443\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:vec_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:vie_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:vls_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:vol_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:war_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:wln_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:wol_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5c14\u6cb3\u7554\u57fa\u5c14\u5e0c\u8d1d\u683c"
+    ],
+    "name:zul_x_preferred":[
+        "Kirchberg an der Murr"
+    ],
+    "nav:latitude":48.942644,
+    "nav:longitude":9.344186,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Rems-Murr-Kreis",
+    "qs:a2r":"Stuttgart",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Kirchberg an der Murr",
+    "qs:la_lc":"*DE08101901038",
+    "qs:level":"locality",
+    "qs:loc":"Kirchberg an der Murr",
+    "qs:loc_alt":"Kirchberg an der Murr",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555499,
+    "qs_pg:gn_pop":3722,
+    "qs_pg:name":"Gemeinde Kirchberg an der Murr",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":245530,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12624105,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":34,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377687521,
+        404227549,
+        102063379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08119038",
+        "eurostat:nuts_2021_id":"08119038",
+        "fct:id":"0747a726-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2890645,
+        "gp:id":665870,
+        "qs_pg:id":1039430,
+        "wd:id":"Q81216",
+        "wk:page":"Kirchberg an der Murr"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"93f3ead0e9f2fd589db7d0844e252bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063379,
+            "localadmin_id":1377687521,
+            "locality_id":101760689,
+            "macrocounty_id":404227549,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101760689,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690872800,
+    "wof:name":"Kirchberg an der Murr",
+    "wof:parent_id":1377687521,
+    "wof:placetype":"locality",
+    "wof:population":3878,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125414047
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.30443,
+    48.927954,
+    9.382091,
+    48.966526
+],
+  "geometry": {"coordinates":[[[[9.382091,48.95653],[9.381213,48.955427],[9.382051,48.953579],[9.381095,48.951575],[9.378596,48.951576],[9.379472,48.949094],[9.373618,48.949502],[9.373807,48.948444],[9.372468,48.948549],[9.372118,48.948046],[9.37184,48.947567],[9.371636,48.947041],[9.371616,48.946316],[9.371701,48.945781],[9.372042,48.945118],[9.372417,48.944526],[9.3729,48.943972],[9.373376,48.943679],[9.373927,48.943304],[9.374694,48.942931],[9.375389,48.942557],[9.375833,48.942133],[9.376027,48.941564],[9.376005,48.940921],[9.376052,48.94047],[9.376568,48.940047],[9.377297,48.939768],[9.377881,48.939489],[9.374762,48.938477],[9.368426,48.939654],[9.361388,48.938764],[9.35817,48.93337],[9.357575,48.933493],[9.357069,48.933512],[9.356348,48.933433],[9.355626,48.933425],[9.354685,48.933511],[9.353632,48.933714],[9.350372,48.934085],[9.349503,48.934172],[9.34878,48.934236],[9.348096,48.934133],[9.347235,48.933863],[9.346774,48.933525],[9.346106,48.932756],[9.345579,48.932132],[9.345122,48.931604],[9.344627,48.931146],[9.344093,48.930831],[9.343303,48.930609],[9.342511,48.930506],[9.341355,48.930494],[9.340596,48.930533],[9.340697,48.928693],[9.339176,48.928932],[9.338564,48.927954],[9.33461,48.928979],[9.335297,48.930434],[9.333296,48.930469],[9.331975,48.932614],[9.327364,48.932466],[9.326374,48.932568],[9.324952,48.933421],[9.320566,48.933573],[9.318971,48.93236],[9.31484,48.934898],[9.316239,48.936864],[9.315322,48.937538],[9.316196,48.938627],[9.314986,48.940313],[9.312989,48.940406],[9.312432,48.941899],[9.314428,48.941835],[9.314998,48.943369],[9.312367,48.944424],[9.312016,48.944736],[9.307882,48.94577],[9.306712,48.946145],[9.30723,48.947859],[9.30443,48.948414],[9.30646,48.950858],[9.307233,48.95161],[9.308105,48.952267],[9.312332,48.950864],[9.314033,48.950576],[9.315282,48.951417],[9.319219,48.951964],[9.318998,48.950334],[9.320749,48.951438],[9.322662,48.951252],[9.323812,48.949996],[9.326827,48.951251],[9.329423,48.951764],[9.330407,48.95119],[9.337739,48.955827],[9.339436,48.959667],[9.342798,48.962455],[9.347005,48.965368],[9.350017,48.965669],[9.351939,48.96585],[9.355827,48.96607],[9.359915,48.966526],[9.360025,48.964737],[9.368298,48.964425],[9.368564,48.962377],[9.376789,48.962316],[9.376748,48.959428],[9.378125,48.959251],[9.380346,48.956989],[9.381103,48.957092],[9.382091,48.95653]]]],"type":"MultiPolygon"}
+}

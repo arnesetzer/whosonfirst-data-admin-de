@@ -1,1 +1,416 @@
-{"id": 101764171, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08316012", "eurostat:level_code": "lau", "eurostat:name_local": "Endingen am Kaiserstuhl, Stadt", "eurostat:nuts_2021_id": "08316012", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE133", "eurostat:nuts_2021_level_lau": "08316012", "eurostat:population": 10068, "eurostat:population_year": 2020, "geom:area": 0.003226, "geom:area_square_m": 26619136.3727, "geom:bbox": "7.639129,48.107829,7.728917,48.159068", "geom:latitude": 48.134057, "geom:longitude": 7.68201, "gn:country": null, "gn:population": 9034, "iso:country": "DE", "lbl:latitude": 48.144333, "lbl:longitude": 7.702426, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 48.144333, "mps:longitude": 7.702426, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Endingen am Kaiserstuhl"], "name:als_x_preferred": ["Endingen am Kaiserstuhl"], "name:arg_x_preferred": ["Endingen am Kaiserstuhl"], "name:ast_x_preferred": ["Endingen am Kaiserstuhl"], "name:azb_x_preferred": ["\u0627\u0646\u062f\u06cc\u0646\u0642\u0646 \u0622\u0645 \u06a9\u0627\u06cc\u0632\u0631\u0627\u0634\u062a\u0648\u0644"], "name:bar_x_preferred": ["Endingen am Kaiserstuhl"], "name:bel_x_preferred": ["\u042d\u043d\u0434\u044b\u043d\u0433\u0435\u043d"], "name:bre_x_preferred": ["Endingen am Kaiserstuhl"], "name:cat_x_preferred": ["Endingen am Kaiserstuhl"], "name:ceb_x_preferred": ["Endingen"], "name:ces_x_preferred": ["Endingen am Kaiserstuhl"], "name:che_x_preferred": ["\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"], "name:cos_x_preferred": ["Endingen am Kaiserstuhl"], "name:cym_x_preferred": ["Endingen am Kaiserstuhl"], "name:dan_x_preferred": ["Endingen am Kaiserstuhl"], "name:deu_x_preferred": ["Endingen am Kaiserstuhl"], "name:eng_x_preferred": ["Endingen am Kaiserstuhl"], "name:epo_x_preferred": ["Endingen am Kaiserstuhl"], "name:est_x_preferred": ["Endingen am Kaiserstuhl"], "name:eus_x_preferred": ["Endingen am Kaiserstuhl"], "name:fas_x_preferred": ["\u0627\u0646\u062f\u06cc\u0646\u06af\u0646 \u0622\u0645 \u06a9\u0627\u06cc\u0632\u0631\u0627\u0634\u062a\u0648\u0644"], "name:fin_x_preferred": ["Endingen am Kaiserstuhl"], "name:fra_x_preferred": ["Endingen am Kaiserstuhl"], "name:frp_x_preferred": ["Endingen am Kaiserstuhl"], "name:fur_x_preferred": ["Endingen am Kaiserstuhl"], "name:gla_x_preferred": ["Endingen am Kaiserstuhl"], "name:gle_x_preferred": ["Endingen am Kaiserstuhl"], "name:glg_x_preferred": ["Endingen am Kaiserstuhl"], "name:gsw_x_preferred": ["\u00c4ndinge am Kaiserstuehl"], "name:hbs_x_preferred": ["Endingen am Kaiserstuhl"], "name:hrv_x_preferred": ["Endingen am Kaiserstuhl"], "name:hun_x_preferred": ["Endingen am Kaiserstuhl"], "name:hye_x_preferred": ["\u0537\u0576\u0564\u056b\u0576\u0563\u0565\u0576"], "name:ido_x_preferred": ["Endingen am Kaiserstuhl"], "name:ile_x_preferred": ["Endingen am Kaiserstuhl"], "name:ina_x_preferred": ["Endingen am Kaiserstuhl"], "name:ind_x_preferred": ["Endingen am Kaiserstuhl"], "name:isl_x_preferred": ["Endingen am Kaiserstuhl"], "name:ita_x_preferred": ["Endingen am Kaiserstuhl"], "name:jpn_x_preferred": ["\u30a8\u30f3\u30c7\u30a3\u30f3\u30b2\u30f3\u30fb\u30a2\u30e0\u30fb\u30ab\u30a4\u30b6\u30fc\u30b7\u30e5\u30c8\u30a5\u30fc\u30eb"], "name:kaz_x_preferred": ["\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"], "name:kir_x_preferred": ["\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"], "name:kon_x_preferred": ["Endingen am Kaiserstuhl"], "name:kur_x_preferred": ["Endingen am Kaiserstuhl"], "name:lat_x_preferred": ["Endingen am Kaiserstuhl"], "name:lij_x_preferred": ["Endingen am Kaiserstuhl"], "name:lim_x_preferred": ["Endingen am Kaiserstuhl"], "name:lld_x_preferred": ["Endingen am Kaiserstuhl"], "name:lmo_x_preferred": ["Endingen am Kaiserstuhl"], "name:ltz_x_preferred": ["Endingen am Kaiserstuhl"], "name:min_x_preferred": ["Endingen am Kaiserstuhl"], "name:mlg_x_preferred": ["Endingen am Kaiserstuhl"], "name:msa_x_preferred": ["Endingen am Kaiserstuhl"], "name:nap_x_preferred": ["Endingen am Kaiserstuhl"], "name:nds_x_preferred": ["Endingen am Kaiserstuhl"], "name:nld_x_preferred": ["Endingen am Kaiserstuhl"], "name:nno_x_preferred": ["Endingen am Kaiserstuhl"], "name:nob_x_preferred": ["Endingen am Kaiserstuhl"], "name:nrm_x_preferred": ["Endingen am Kaiserstuhl"], "name:oci_x_preferred": ["Endingen am Kaiserstuhl"], "name:pcd_x_preferred": ["Endingen am Kaiserstuhl"], "name:pms_x_preferred": ["Endingen am Kaiserstuhl"], "name:pol_x_preferred": ["Endingen am Kaiserstuhl"], "name:por_x_preferred": ["Endingen"], "name:roh_x_preferred": ["Endingen am Kaiserstuhl"], "name:ron_x_preferred": ["Endingen am Kaiserstuhl"], "name:rus_x_preferred": ["\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"], "name:scn_x_preferred": ["Endingen am Kaiserstuhl"], "name:sco_x_preferred": ["Endingen am Kaiserstuhl"], "name:slk_x_preferred": ["Endingen am Kaiserstuhl"], "name:slv_x_preferred": ["Endingen am Kaiserstuhl"], "name:spa_x_preferred": ["Endingen am Kaiserstuhl"], "name:srd_x_preferred": ["Endingen am Kaiserstuhl"], "name:srp_x_preferred": ["\u0415\u043d\u0434\u0438\u043d\u0433\u0435\u043d \u0430\u043c \u041a\u0430\u0458\u0437\u0435\u0440\u0448\u0442\u0443\u043b"], "name:swa_x_preferred": ["Endingen am Kaiserstuhl"], "name:swe_x_preferred": ["Endingen am Kaiserstuhl"], "name:tat_x_preferred": ["\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"], "name:tum_x_preferred": ["Endingen am Kaiserstuhl"], "name:tur_x_preferred": ["Endingen am Kaiserstuhl"], "name:ukr_x_preferred": ["\u0415\u043d\u0434\u0456\u043d\u0433\u0435\u043d-\u0430\u043c-\u041a\u0430\u0439\u0437\u0435\u0440\u0448\u0442\u0443\u043b\u044c"], "name:uzb_x_preferred": ["Endingen am Kaiserstuhl"], "name:vec_x_preferred": ["Endingen am Kaiserstuhl"], "name:vie_x_preferred": ["Endingen am Kaiserstuhl"], "name:vls_x_preferred": ["Endingen am Kaiserstuhl"], "name:vol_x_preferred": ["Endingen am Kaiserstuhl"], "name:war_x_preferred": ["Endingen am Kaiserstuhl"], "name:wln_x_preferred": ["Endingen am Kaiserstuhl"], "name:wol_x_preferred": ["Endingen am Kaiserstuhl"], "name:zho_x_preferred": ["\u51ef\u6492\u65af\u56fe\u5c14\u5c71\u9e93\u6069\u4e01\u6839"], "name:zho_x_variant": ["\u51ef\u585e\u5c14\u65af\u56fe\u5c14\u5c71\u9e93\u6069\u4e01\u6839", "\u51ef\u6492\u65bd\u56fe\u5c14\u5c71\u9e93\u6069\u4e01\u6839"], "name:zul_x_preferred": ["Endingen am Kaiserstuhl"], "nav:latitude": 48.144333, "nav:longitude": 7.702426, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Emmendingen", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Endingen am Kaiserstuhl", "qs:la_lc": "*DE08301605012", "qs:level": "locality", "qs:loc": "Endingen am Kaiserstuhl", "qs:loc_alt": "Endingen am Kaiserstuhl", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:name": "Gemeinde Endingen am Kaiserstuhl", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 7, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 186, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 238792, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623366, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 26.71, "wd:latitude": 48.140833, "wd:longitude": 7.706389, "wd:population": 5892, "wd:wordcount": 252, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377685569, 404227543, 102063263], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08316012", "eurostat:nuts_2021_id": "08316012", "gn:id": 2930383, "gp:id": 647940, "qs_pg:id": 142644, "wd:id": "Q168511", "wk:page": "Endingen am Kaiserstuhl"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "8fbae45c3d18befadc1ebbd4fba2d6c3", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063263, "localadmin_id": 1377685569, "locality_id": 101764171, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101764171, "wof:lastmodified": 1690871534, "wof:name": "Endingen am Kaiserstuhl", "wof:parent_id": 1377685569, "wof:placetype": "locality", "wof:population": 10068, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125411593], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.639129, 48.107829, 7.728917, 48.159068], "geometry": {"coordinates": [[[[7.712339, 48.158246], [7.723881, 48.156002], [7.723283, 48.154916], [7.724579, 48.154589], [7.723022, 48.149305], [7.725217, 48.143037], [7.726827, 48.143563], [7.727672, 48.14407], [7.728237, 48.142879], [7.727355, 48.140167], [7.727687, 48.139519], [7.728917, 48.139388], [7.726721, 48.137587], [7.728516, 48.136976], [7.712681, 48.124215], [7.712127, 48.122842], [7.711075, 48.121713], [7.709931, 48.120582], [7.707892, 48.119109], [7.707396, 48.118407], [7.706089, 48.116553], [7.703144, 48.114949], [7.699386, 48.113711], [7.698454, 48.112392], [7.695985, 48.112104], [7.693499, 48.112589], [7.690501, 48.113799], [7.688421, 48.116597], [7.684959, 48.115582], [7.681593, 48.115711], [7.680605, 48.114435], [7.678178, 48.113878], [7.673469, 48.110501], [7.669111, 48.11154], [7.667491, 48.109816], [7.661621, 48.109808], [7.658932, 48.109378], [7.654087, 48.110467], [7.650797, 48.109752], [7.648088, 48.107829], [7.646032, 48.109233], [7.643221, 48.112065], [7.639741, 48.113009], [7.639965, 48.117243], [7.642886, 48.120621], [7.639864, 48.121757], [7.641135, 48.123931], [7.64115, 48.126216], [7.642549, 48.12735], [7.640038, 48.128247], [7.641543, 48.129627], [7.640329, 48.131557], [7.647052, 48.134052], [7.639129, 48.135781], [7.641423, 48.141418], [7.64127, 48.145435], [7.642501, 48.146916], [7.646772, 48.146289], [7.647177, 48.147415], [7.650917, 48.147134], [7.652384, 48.14594], [7.654248, 48.147185], [7.659035, 48.146463], [7.663078, 48.14932], [7.664168, 48.148827], [7.666005, 48.150089], [7.667687, 48.149358], [7.674765, 48.159068], [7.688875, 48.155678], [7.695318, 48.155159], [7.695477, 48.156378], [7.697019, 48.15621], [7.697108, 48.15749], [7.711007, 48.155892], [7.712339, 48.158246]]]], "type": "MultiPolygon"}}
+{
+  "id": 101764171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08316012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Endingen am Kaiserstuhl, Stadt",
+    "eurostat:nuts_2021_id":"08316012",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE133",
+    "eurostat:nuts_2021_level_lau":"08316012",
+    "eurostat:population":10068,
+    "eurostat:population_year":2020,
+    "geom:area":0.003226,
+    "geom:area_square_m":26619136.3727,
+    "geom:bbox":"7.639129,48.107829,7.728917,48.159068",
+    "geom:latitude":48.134057,
+    "geom:longitude":7.68201,
+    "gn:country":null,
+    "gn:population":9034,
+    "iso:country":"DE",
+    "lbl:latitude":48.144333,
+    "lbl:longitude":7.702426,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":48.144333,
+    "mps:longitude":7.702426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:als_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:arg_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:ast_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u062f\u06cc\u0646\u0642\u0646 \u0622\u0645 \u06a9\u0627\u06cc\u0632\u0631\u0627\u0634\u062a\u0648\u0644"
+    ],
+    "name:bar_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u043d\u0434\u044b\u043d\u0433\u0435\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:cat_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:ceb_x_preferred":[
+        "Endingen"
+    ],
+    "name:ces_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:che_x_preferred":[
+        "\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:cym_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:dan_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:deu_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:eng_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:epo_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:est_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:eus_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062f\u06cc\u0646\u06af\u0646 \u0622\u0645 \u06a9\u0627\u06cc\u0632\u0631\u0627\u0634\u062a\u0648\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:fra_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:frp_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:fur_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:gla_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:gle_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:glg_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:gsw_x_preferred":[
+        "\u00c4ndinge am Kaiserstuehl"
+    ],
+    "name:hbs_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:hrv_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:hun_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0576\u0564\u056b\u0576\u0563\u0565\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:ile_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:ina_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:ind_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:isl_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:ita_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30f3\u30c7\u30a3\u30f3\u30b2\u30f3\u30fb\u30a2\u30e0\u30fb\u30ab\u30a4\u30b6\u30fc\u30b7\u30e5\u30c8\u30a5\u30fc\u30eb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:kur_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:lat_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:lij_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:lim_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:lld_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:lmo_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:ltz_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:min_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:mlg_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:msa_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:nap_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:nds_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:nld_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:nno_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:nob_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:nrm_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:oci_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:pcd_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:pms_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:pol_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:por_x_preferred":[
+        "Endingen"
+    ],
+    "name:roh_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:ron_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:sco_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:slk_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:slv_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:spa_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:srd_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043d\u0434\u0438\u043d\u0433\u0435\u043d \u0430\u043c \u041a\u0430\u0458\u0437\u0435\u0440\u0448\u0442\u0443\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:swe_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:tat_x_preferred":[
+        "\u042d\u043d\u0434\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:tum_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:tur_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043d\u0434\u0456\u043d\u0433\u0435\u043d-\u0430\u043c-\u041a\u0430\u0439\u0437\u0435\u0440\u0448\u0442\u0443\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:vec_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:vie_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:vls_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:vol_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:war_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:wln_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:wol_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u6492\u65af\u56fe\u5c14\u5c71\u9e93\u6069\u4e01\u6839"
+    ],
+    "name:zho_x_variant":[
+        "\u51ef\u585e\u5c14\u65af\u56fe\u5c14\u5c71\u9e93\u6069\u4e01\u6839",
+        "\u51ef\u6492\u65bd\u56fe\u5c14\u5c71\u9e93\u6069\u4e01\u6839"
+    ],
+    "name:zul_x_preferred":[
+        "Endingen am Kaiserstuhl"
+    ],
+    "nav:latitude":48.144333,
+    "nav:longitude":7.702426,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Emmendingen",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Endingen am Kaiserstuhl",
+    "qs:la_lc":"*DE08301605012",
+    "qs:level":"locality",
+    "qs:loc":"Endingen am Kaiserstuhl",
+    "qs:loc_alt":"Endingen am Kaiserstuhl",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Gemeinde Endingen am Kaiserstuhl",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":186,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238792,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623366,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":26.71,
+    "wd:latitude":48.140833,
+    "wd:longitude":7.706389,
+    "wd:population":5892,
+    "wd:wordcount":252,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377685569,
+        404227543,
+        102063263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08316012",
+        "eurostat:nuts_2021_id":"08316012",
+        "gn:id":2930383,
+        "gp:id":647940,
+        "qs_pg:id":142644,
+        "wd:id":"Q168511",
+        "wk:page":"Endingen am Kaiserstuhl"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"8fbae45c3d18befadc1ebbd4fba2d6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063263,
+            "localadmin_id":1377685569,
+            "locality_id":101764171,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101764171,
+    "wof:lastmodified":1690871534,
+    "wof:name":"Endingen am Kaiserstuhl",
+    "wof:parent_id":1377685569,
+    "wof:placetype":"locality",
+    "wof:population":10068,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125411593
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.639129,
+    48.107829,
+    7.728917,
+    48.159068
+],
+  "geometry": {"coordinates":[[[[7.712339,48.158246],[7.723881,48.156002],[7.723283,48.154916],[7.724579,48.154589],[7.723022,48.149305],[7.725217,48.143037],[7.726827,48.143563],[7.727672,48.14407],[7.728237,48.142879],[7.727355,48.140167],[7.727687,48.139519],[7.728917,48.139388],[7.726721,48.137587],[7.728516,48.136976],[7.712681,48.124215],[7.712127,48.122842],[7.711075,48.121713],[7.709931,48.120582],[7.707892,48.119109],[7.707396,48.118407],[7.706089,48.116553],[7.703144,48.114949],[7.699386,48.113711],[7.698454,48.112392],[7.695985,48.112104],[7.693499,48.112589],[7.690501,48.113799],[7.688421,48.116597],[7.684959,48.115582],[7.681593,48.115711],[7.680605,48.114435],[7.678178,48.113878],[7.673469,48.110501],[7.669111,48.11154],[7.667491,48.109816],[7.661621,48.109808],[7.658932,48.109378],[7.654087,48.110467],[7.650797,48.109752],[7.648088,48.107829],[7.646032,48.109233],[7.643221,48.112065],[7.639741,48.113009],[7.639965,48.117243],[7.642886,48.120621],[7.639864,48.121757],[7.641135,48.123931],[7.64115,48.126216],[7.642549,48.12735],[7.640038,48.128247],[7.641543,48.129627],[7.640329,48.131557],[7.647052,48.134052],[7.639129,48.135781],[7.641423,48.141418],[7.64127,48.145435],[7.642501,48.146916],[7.646772,48.146289],[7.647177,48.147415],[7.650917,48.147134],[7.652384,48.14594],[7.654248,48.147185],[7.659035,48.146463],[7.663078,48.14932],[7.664168,48.148827],[7.666005,48.150089],[7.667687,48.149358],[7.674765,48.159068],[7.688875,48.155678],[7.695318,48.155159],[7.695477,48.156378],[7.697019,48.15621],[7.697108,48.15749],[7.711007,48.155892],[7.712339,48.158246]]]],"type":"MultiPolygon"}
+}

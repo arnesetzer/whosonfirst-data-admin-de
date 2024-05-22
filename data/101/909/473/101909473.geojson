@@ -1,1 +1,152 @@
-{"id": 101909473, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 6.5e-05, "geom:area_square_m": 498131.183758, "geom:bbox": "11.81829,51.836614,11.828553,51.846609", "geom:latitude": 51.84194, "geom:longitude": 11.824493, "gn:population": 679, "iso:country": "DE", "lbl:latitude": 51.842064, "lbl:longitude": 11.824591, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.842064, "mps:longitude": 11.824591, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0413\u0435\u0440\u0431\u0438\u0446"], "name:ceb_x_preferred": ["Gerbitz"], "name:che_x_preferred": ["\u0413\u0435\u0440\u0431\u0438\u0446"], "name:deu_x_preferred": ["Gerbitz"], "name:eng_x_preferred": ["Gerbitz"], "name:epo_x_preferred": ["Gerbitz"], "name:fas_x_preferred": ["\u06af\u0631\u0628\u06cc\u062a\u0633"], "name:fra_x_preferred": ["Gerbitz"], "name:gle_x_preferred": ["Gerbitz"], "name:ita_x_preferred": ["Gerbitz"], "name:kaz_x_preferred": ["\u0413\u0435\u0440\u0431\u0438\u0446"], "name:kir_x_preferred": ["\u0413\u0435\u0440\u0431\u0438\u0446"], "name:mkd_x_preferred": ["\u0413\u0435\u0440\u0431\u0438\u0446"], "name:nld_x_preferred": ["Gerbitz"], "name:ron_x_preferred": ["Gerbitz"], "name:rus_x_preferred": ["\u0413\u0435\u0440\u0431\u0438\u0446"], "name:tat_x_preferred": ["\u0413\u0435\u0440\u0431\u0438\u0446"], "name:uzb_x_preferred": ["Gerbitz"], "name:vie_x_preferred": ["Gerbitz"], "name:vol_x_preferred": ["Gerbitz"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Salzlandkreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Gerbitz", "qs:la_lc": "*DE15008905120", "qs:level": "locality", "qs:loc": "Gerbitz", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 27, "wof:belongsto": [85682519, 102191581, 1377689123, 85633111, 102063865], "wof:breaches": [], "wof:concordances": {"gn:id": 2921168, "gp:id": 652193, "qs_pg:id": 352103, "wd:id": "Q696886", "wk:page": "Gerbitz"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "4ee9968b08ce3e0c6026c163a080345a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063865, "localadmin_id": 1377689123, "locality_id": 101909473, "region_id": 85682519}], "wof:id": 101909473, "wof:lastmodified": 1690871428, "wof:name": "Gerbitz", "wof:parent_id": 1377689123, "wof:placetype": "locality", "wof:population": 679, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.81829, 51.836614, 11.828553, 51.846609], "geometry": {"coordinates": [[[11.828553, 51.8447], [11.828226, 51.836614], [11.825325, 51.836659], [11.825361, 51.837557], [11.823911, 51.83758], [11.823947, 51.838478], [11.822497, 51.838501], [11.822533, 51.839399], [11.821082, 51.839422], [11.821191, 51.842117], [11.81829, 51.842162], [11.818362, 51.843959], [11.821264, 51.843914], [11.821372, 51.846609], [11.825725, 51.846542], [11.825688, 51.845643], [11.827139, 51.845621], [11.827103, 51.844722], [11.828553, 51.8447]]], "type": "Polygon"}}
+{
+  "id": 101909473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":498131.183758,
+    "geom:bbox":"11.81829,51.836614,11.828553,51.846609",
+    "geom:latitude":51.84194,
+    "geom:longitude":11.824493,
+    "gn:population":679,
+    "iso:country":"DE",
+    "lbl:latitude":51.842064,
+    "lbl:longitude":11.824591,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.842064,
+    "mps:longitude":11.824591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0413\u0435\u0440\u0431\u0438\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0435\u0440\u0431\u0438\u0446"
+    ],
+    "name:deu_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:eng_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:epo_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0628\u06cc\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:gle_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:ita_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0435\u0440\u0431\u0438\u0446"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u0435\u0440\u0431\u0438\u0446"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0435\u0440\u0431\u0438\u0446"
+    ],
+    "name:nld_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:ron_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u0431\u0438\u0446"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0435\u0440\u0431\u0438\u0446"
+    ],
+    "name:uzb_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:vie_x_preferred":[
+        "Gerbitz"
+    ],
+    "name:vol_x_preferred":[
+        "Gerbitz"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Salzlandkreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Gerbitz",
+    "qs:la_lc":"*DE15008905120",
+    "qs:level":"locality",
+    "qs:loc":"Gerbitz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689123,
+        85633111,
+        102063865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2921168,
+        "gp:id":652193,
+        "qs_pg:id":352103,
+        "wd:id":"Q696886",
+        "wk:page":"Gerbitz"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"4ee9968b08ce3e0c6026c163a080345a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063865,
+            "localadmin_id":1377689123,
+            "locality_id":101909473,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909473,
+    "wof:lastmodified":1690871428,
+    "wof:name":"Gerbitz",
+    "wof:parent_id":1377689123,
+    "wof:placetype":"locality",
+    "wof:population":679,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81829,
+    51.836614,
+    11.828553,
+    51.846609
+],
+  "geometry": {"coordinates":[[[11.828553,51.8447],[11.828226,51.836614],[11.825325,51.836659],[11.825361,51.837557],[11.823911,51.83758],[11.823947,51.838478],[11.822497,51.838501],[11.822533,51.839399],[11.821082,51.839422],[11.821191,51.842117],[11.81829,51.842162],[11.818362,51.843959],[11.821264,51.843914],[11.821372,51.846609],[11.825725,51.846542],[11.825688,51.845643],[11.827139,51.845621],[11.827103,51.844722],[11.828553,51.8447]]],"type":"Polygon"}
+}

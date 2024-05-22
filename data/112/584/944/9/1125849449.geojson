@@ -1,1 +1,426 @@
-{"id": 1125849449, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_12064009", "eurostat:level_code": "lau", "eurostat:name_local": "Alt Tucheband", "eurostat:nuts_2021_id": "12064009", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE4", "eurostat:nuts_2021_level_2": "DE40", "eurostat:nuts_2021_level_3": "DE409", "eurostat:nuts_2021_level_lau": "12064009", "eurostat:population": 792, "eurostat:population_year": 2020, "geom:area": 0.004054, "geom:area_square_m": 30490997.921664, "geom:bbox": "14.44145,52.498631,14.601179,52.557606", "geom:latitude": 52.531313, "geom:longitude": 14.508542, "gn:country": "DE", "gn:fcode": "PPLA4", "gn:population": 1019, "iso:country": "DE", "lbl:latitude": 52.53732, "lbl:longitude": 14.51225, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:afr_x_preferred": ["Alt Tucheband"], "name:ang_x_preferred": ["Alt Tucheband"], "name:arg_x_preferred": ["Alt Tucheband"], "name:ast_x_preferred": ["Alt Tucheband"], "name:bar_x_preferred": ["Alt Tucheband"], "name:bos_x_preferred": ["Alt Tucheband"], "name:bre_x_preferred": ["Alt Tucheband"], "name:cat_x_preferred": ["Alt Tucheband"], "name:ceb_x_preferred": ["Alt Tucheband"], "name:ces_x_preferred": ["Alt Tucheband"], "name:che_x_preferred": ["\u0410\u043b\u044c\u0442-\u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"], "name:cos_x_preferred": ["Alt Tucheband"], "name:cym_x_preferred": ["Alt Tucheband"], "name:dan_x_preferred": ["Alt Tucheband"], "name:deu_x_preferred": ["Alt Tucheband"], "name:dsb_x_preferred": ["Alt Tucheband"], "name:eng_x_preferred": ["Alt Tucheband"], "name:epo_x_preferred": ["Alt Tucheband"], "name:est_x_preferred": ["Alt Tucheband"], "name:eus_x_preferred": ["Alt Tucheband"], "name:fao_x_preferred": ["Alt Tucheband"], "name:fas_x_preferred": ["\u0622\u0644\u062a \u062a\u0648\u0686\u0628\u0627\u0646\u062f"], "name:fas_x_variant": ["\u0627\u0644\u062a \u062a\u0648\u0686\u0628\u0627\u0646\u062f"], "name:fin_x_preferred": ["Alt Tucheband"], "name:fra_x_preferred": ["Alt Tucheband"], "name:frp_x_preferred": ["Alt Tucheband"], "name:frr_x_preferred": ["Alt Tucheband"], "name:fry_x_preferred": ["Alt Tucheband"], "name:fur_x_preferred": ["Alt Tucheband"], "name:gla_x_preferred": ["Alt Tucheband"], "name:gle_x_preferred": ["Alt Tucheband"], "name:glg_x_preferred": ["Alt Tucheband"], "name:gsw_x_preferred": ["Alt Tucheband"], "name:hat_x_preferred": ["Alt Tucheband"], "name:hrv_x_preferred": ["Alt Tucheband"], "name:hsb_x_preferred": ["Alt Tucheband"], "name:hun_x_preferred": ["Alt Tucheband"], "name:hye_x_preferred": ["\u0531\u056c\u0569 \u054f\u0578\u0582\u056d\u0565\u0562\u0561\u0576\u0564"], "name:ido_x_preferred": ["Alt Tucheband"], "name:ile_x_preferred": ["Alt Tucheband"], "name:ina_x_preferred": ["Alt Tucheband"], "name:ind_x_preferred": ["Alt Tucheband"], "name:isl_x_preferred": ["Alt Tucheband"], "name:ita_x_preferred": ["Alt Tucheband"], "name:jpn_x_preferred": ["\u30a2\u30eb\u30c8\u30fb\u30c8\u30a5\u30fc\u30d8\u30d0\u30f3\u30c8"], "name:kon_x_preferred": ["Alt Tucheband"], "name:ksh_x_preferred": ["Alt Tucheband"], "name:kur_x_preferred": ["Alt Tucheband"], "name:lat_x_preferred": ["Alt Tucheband"], "name:lav_x_preferred": ["Alt Tucheband"], "name:lij_x_preferred": ["Alt Tucheband"], "name:lim_x_preferred": ["Alt Tucheband"], "name:lit_x_preferred": ["Alt Tucheband"], "name:lld_x_preferred": ["Alt Tucheband"], "name:lmo_x_preferred": ["Alt Tucheband"], "name:ltz_x_preferred": ["Alt Tucheband"], "name:min_x_preferred": ["Alt Tucheband"], "name:mkd_x_preferred": ["\u0410\u043b\u0442 \u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"], "name:mlg_x_preferred": ["Alt Tucheband"], "name:mlt_x_preferred": ["Alt Tucheband"], "name:msa_x_preferred": ["Alt Tucheband"], "name:mwl_x_preferred": ["Alt Tucheband"], "name:nap_x_preferred": ["Alt Tucheband"], "name:nds_x_preferred": ["Alt Tucheband"], "name:nld_x_preferred": ["Alt Tucheband"], "name:nno_x_preferred": ["Alt Tucheband"], "name:nob_x_preferred": ["Alt Tucheband"], "name:nrm_x_preferred": ["Alt Tucheband"], "name:oci_x_preferred": ["Alt Tucheband"], "name:pcd_x_preferred": ["Alt Tucheband"], "name:pdc_x_preferred": ["Alt Tucheband"], "name:pfl_x_preferred": ["Alt Tucheband"], "name:pli_x_preferred": ["Alt Tucheband"], "name:pms_x_preferred": ["Alt Tucheband"], "name:pol_x_preferred": ["Alt Tucheband"], "name:por_x_preferred": ["Alt Tucheband"], "name:roh_x_preferred": ["Alt Tucheband"], "name:ron_x_preferred": ["Alt Tucheband"], "name:rus_x_preferred": ["\u0410\u043b\u044c\u0442-\u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"], "name:scn_x_preferred": ["Alt Tucheband"], "name:sco_x_preferred": ["Alt Tucheband"], "name:slk_x_preferred": ["Alt Tucheband"], "name:slv_x_preferred": ["Alt Tucheband"], "name:spa_x_preferred": ["Alt Tucheband"], "name:sqi_x_preferred": ["Alt Tucheband"], "name:srd_x_preferred": ["Alt Tucheband"], "name:srp_x_preferred": ["\u0410\u043b\u0442 \u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"], "name:stq_x_preferred": ["Alt Tucheband"], "name:swa_x_preferred": ["Alt Tucheband"], "name:swe_x_preferred": ["Alt Tucheband"], "name:szl_x_preferred": ["Alt Tucheband"], "name:tat_x_preferred": ["\u0410\u043b\u044c\u0442-\u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"], "name:tur_x_preferred": ["Alt Tucheband"], "name:ukr_x_preferred": ["\u0410\u043b\u044c\u0442-\u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"], "name:uzb_x_preferred": ["Alt Tucheband"], "name:vec_x_preferred": ["Alt Tucheband"], "name:vie_x_preferred": ["Alt Tucheband"], "name:vls_x_preferred": ["Alt Tucheband"], "name:vol_x_preferred": ["Alt Tucheband"], "name:war_x_preferred": ["Alt Tucheband"], "name:wln_x_preferred": ["Alt Tucheband"], "name:wol_x_preferred": ["Alt Tucheband"], "name:zea_x_preferred": ["Alt Tucheband"], "name:zho_x_preferred": ["\u963f\u5c14\u7279\u56fe\u9ed1\u73ed\u5fb7"], "name:zho_x_variant": ["\u65e7\u56fe\u8d6b\u73ed\u5fb7"], "name:zul_x_preferred": ["Alt Tucheband"], "nav:latitude": 52.53732, "nav:longitude": 14.51225, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLA4", "qs_pg:gn_id": 2956789, "qs_pg:gn_pop": 1019, "qs_pg:name": "Alt Tucheband", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 579975, "qs_pg:qs_pg_placetype": "locality", "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682553, 102191581, 1377694679, 85633111, 102063963], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_12064009", "eurostat:nuts_2021_id": "12064009", "gn:id": 2956789, "qs_pg:id": 579975, "wd:id": "Q433372"}, "wof:country": "DE", "wof:created": 1497293326, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "9be3e2a6abbae290fe15a265f4edc9c2", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063963, "localadmin_id": 1377694679, "locality_id": 1125849449, "region_id": 85682553}], "wof:id": 1125849449, "wof:lastmodified": 1690874599, "wof:name": "Alt Tucheband", "wof:parent_id": 1377694679, "wof:placetype": "locality", "wof:population": 792, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125352443], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [14.44145, 52.498631, 14.601179, 52.557606], "geometry": {"coordinates": [[[[14.601179, 52.525579], [14.597192, 52.525476], [14.591578, 52.523456], [14.590956, 52.523924], [14.590315, 52.524184], [14.589623, 52.524303], [14.588455, 52.524343], [14.587474, 52.524305], [14.586641, 52.524166], [14.586053, 52.524138], [14.585553, 52.524227], [14.584581, 52.524936], [14.581694, 52.524152], [14.575421, 52.522676], [14.570415, 52.521451], [14.568544, 52.521148], [14.566445, 52.520808], [14.561497, 52.520894], [14.558017, 52.515324], [14.55284, 52.513571], [14.551933, 52.506475], [14.550054, 52.502278], [14.549079, 52.502061], [14.54502, 52.501017], [14.542207, 52.501069], [14.536567, 52.500086], [14.536436, 52.498631], [14.530068, 52.498871], [14.527, 52.500192], [14.525763, 52.501375], [14.522258, 52.50174], [14.519973, 52.502828], [14.517635, 52.502878], [14.514358, 52.502387], [14.504649, 52.503574], [14.505742, 52.505573], [14.506073, 52.506301], [14.506301, 52.507032], [14.506491, 52.507836], [14.511505, 52.508078], [14.5102, 52.510522], [14.511552, 52.510793], [14.512068, 52.510947], [14.512401, 52.511044], [14.513052, 52.511382], [14.519647, 52.515202], [14.516215, 52.51875], [14.519394, 52.519928], [14.516116, 52.523881], [14.510675, 52.522116], [14.504488, 52.529236], [14.491345, 52.52504], [14.4893, 52.526786], [14.485014, 52.525588], [14.481978, 52.525148], [14.478424, 52.525203], [14.471939, 52.52407], [14.466572, 52.523388], [14.463982, 52.52268], [14.458381, 52.517031], [14.456173, 52.515165], [14.454471, 52.513611], [14.453436, 52.51413], [14.445871, 52.518033], [14.44496, 52.517523], [14.444, 52.518326], [14.447012, 52.520436], [14.443995, 52.522553], [14.445649, 52.523228], [14.447845, 52.524028], [14.450155, 52.524357], [14.452484, 52.525849], [14.451013, 52.532051], [14.448719, 52.532772], [14.4525, 52.536506], [14.450034, 52.541483], [14.449435, 52.542968], [14.449221, 52.543643], [14.449212, 52.544429], [14.44945, 52.545351], [14.449889, 52.546337], [14.450787, 52.547684], [14.451195, 52.548296], [14.449161, 52.550936], [14.445572, 52.550577], [14.441778, 52.554542], [14.44145, 52.554885], [14.444006, 52.555728], [14.446538, 52.556789], [14.449579, 52.555249], [14.451918, 52.554943], [14.453348, 52.553872], [14.4655, 52.553704], [14.465881, 52.553699], [14.47076, 52.556254], [14.472848, 52.556876], [14.475045, 52.5574], [14.476389, 52.55757], [14.477779, 52.557595], [14.479937, 52.557238], [14.482536, 52.55658], [14.484123, 52.555956], [14.485225, 52.555157], [14.486476, 52.554282], [14.487874, 52.553735], [14.489555, 52.553298], [14.491603, 52.55304], [14.495856, 52.552947], [14.497731, 52.552932], [14.499404, 52.553282], [14.505616, 52.554867], [14.505899, 52.556209], [14.512614, 52.557606], [14.517804, 52.556983], [14.524433, 52.556096], [14.532553, 52.535906], [14.548122, 52.534968], [14.547824, 52.530122], [14.551848, 52.530032], [14.553509, 52.531417], [14.569373, 52.528039], [14.569498, 52.527009], [14.569841, 52.524163], [14.573295, 52.526148], [14.578156, 52.528942], [14.581246, 52.530765], [14.583727, 52.530341], [14.5841, 52.532733], [14.591937, 52.532505], [14.59608, 52.531176], [14.596816, 52.529355], [14.600567, 52.527311], [14.601179, 52.525579]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125849449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_12064009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alt Tucheband",
+    "eurostat:nuts_2021_id":"12064009",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE4",
+    "eurostat:nuts_2021_level_2":"DE40",
+    "eurostat:nuts_2021_level_3":"DE409",
+    "eurostat:nuts_2021_level_lau":"12064009",
+    "eurostat:population":792,
+    "eurostat:population_year":2020,
+    "geom:area":0.004054,
+    "geom:area_square_m":30490997.921664,
+    "geom:bbox":"14.44145,52.498631,14.601179,52.557606",
+    "geom:latitude":52.531313,
+    "geom:longitude":14.508542,
+    "gn:country":"DE",
+    "gn:fcode":"PPLA4",
+    "gn:population":1019,
+    "iso:country":"DE",
+    "lbl:latitude":52.53732,
+    "lbl:longitude":14.51225,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ang_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:arg_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ast_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:bar_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:bos_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:bre_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:cat_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ceb_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ces_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"
+    ],
+    "name:cos_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:cym_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:dan_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:deu_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:dsb_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:eng_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:epo_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:est_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:eus_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:fao_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u062a \u062a\u0648\u0686\u0628\u0627\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u062a \u062a\u0648\u0686\u0628\u0627\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:fra_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:frp_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:frr_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:fry_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:fur_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:gla_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:gle_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:glg_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:gsw_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:hat_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:hrv_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:hsb_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:hun_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0569 \u054f\u0578\u0582\u056d\u0565\u0562\u0561\u0576\u0564"
+    ],
+    "name:ido_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ile_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ina_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ind_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:isl_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ita_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30c8\u30fb\u30c8\u30a5\u30fc\u30d8\u30d0\u30f3\u30c8"
+    ],
+    "name:kon_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ksh_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:kur_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:lat_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:lav_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:lij_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:lim_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:lit_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:lld_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:lmo_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ltz_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:min_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0442 \u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"
+    ],
+    "name:mlg_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:mlt_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:msa_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:mwl_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:nap_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:nds_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:nld_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:nno_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:nob_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:nrm_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:oci_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:pcd_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:pdc_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:pfl_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:pli_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:pms_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:pol_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:por_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:roh_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ron_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"
+    ],
+    "name:scn_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:sco_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:slk_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:slv_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:spa_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:sqi_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:srd_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0442 \u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"
+    ],
+    "name:stq_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:swa_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:swe_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:szl_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"
+    ],
+    "name:tur_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0422\u0443\u0445\u0435\u0431\u0430\u043d\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:vec_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:vie_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:vls_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:vol_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:war_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:wln_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:wol_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:zea_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u7279\u56fe\u9ed1\u73ed\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u65e7\u56fe\u8d6b\u73ed\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Alt Tucheband"
+    ],
+    "nav:latitude":52.53732,
+    "nav:longitude":14.51225,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLA4",
+    "qs_pg:gn_id":2956789,
+    "qs_pg:gn_pop":1019,
+    "qs_pg:name":"Alt Tucheband",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":579975,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682553,
+        102191581,
+        1377694679,
+        85633111,
+        102063963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_12064009",
+        "eurostat:nuts_2021_id":"12064009",
+        "gn:id":2956789,
+        "qs_pg:id":579975,
+        "wd:id":"Q433372"
+    },
+    "wof:country":"DE",
+    "wof:created":1497293326,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"9be3e2a6abbae290fe15a265f4edc9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063963,
+            "localadmin_id":1377694679,
+            "locality_id":1125849449,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":1125849449,
+    "wof:lastmodified":1690874599,
+    "wof:name":"Alt Tucheband",
+    "wof:parent_id":1377694679,
+    "wof:placetype":"locality",
+    "wof:population":792,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125352443
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44145,
+    52.498631,
+    14.601179,
+    52.557606
+],
+  "geometry": {"coordinates":[[[[14.601179,52.525579],[14.597192,52.525476],[14.591578,52.523456],[14.590956,52.523924],[14.590315,52.524184],[14.589623,52.524303],[14.588455,52.524343],[14.587474,52.524305],[14.586641,52.524166],[14.586053,52.524138],[14.585553,52.524227],[14.584581,52.524936],[14.581694,52.524152],[14.575421,52.522676],[14.570415,52.521451],[14.568544,52.521148],[14.566445,52.520808],[14.561497,52.520894],[14.558017,52.515324],[14.55284,52.513571],[14.551933,52.506475],[14.550054,52.502278],[14.549079,52.502061],[14.54502,52.501017],[14.542207,52.501069],[14.536567,52.500086],[14.536436,52.498631],[14.530068,52.498871],[14.527,52.500192],[14.525763,52.501375],[14.522258,52.50174],[14.519973,52.502828],[14.517635,52.502878],[14.514358,52.502387],[14.504649,52.503574],[14.505742,52.505573],[14.506073,52.506301],[14.506301,52.507032],[14.506491,52.507836],[14.511505,52.508078],[14.5102,52.510522],[14.511552,52.510793],[14.512068,52.510947],[14.512401,52.511044],[14.513052,52.511382],[14.519647,52.515202],[14.516215,52.51875],[14.519394,52.519928],[14.516116,52.523881],[14.510675,52.522116],[14.504488,52.529236],[14.491345,52.52504],[14.4893,52.526786],[14.485014,52.525588],[14.481978,52.525148],[14.478424,52.525203],[14.471939,52.52407],[14.466572,52.523388],[14.463982,52.52268],[14.458381,52.517031],[14.456173,52.515165],[14.454471,52.513611],[14.453436,52.51413],[14.445871,52.518033],[14.44496,52.517523],[14.444,52.518326],[14.447012,52.520436],[14.443995,52.522553],[14.445649,52.523228],[14.447845,52.524028],[14.450155,52.524357],[14.452484,52.525849],[14.451013,52.532051],[14.448719,52.532772],[14.4525,52.536506],[14.450034,52.541483],[14.449435,52.542968],[14.449221,52.543643],[14.449212,52.544429],[14.44945,52.545351],[14.449889,52.546337],[14.450787,52.547684],[14.451195,52.548296],[14.449161,52.550936],[14.445572,52.550577],[14.441778,52.554542],[14.44145,52.554885],[14.444006,52.555728],[14.446538,52.556789],[14.449579,52.555249],[14.451918,52.554943],[14.453348,52.553872],[14.4655,52.553704],[14.465881,52.553699],[14.47076,52.556254],[14.472848,52.556876],[14.475045,52.5574],[14.476389,52.55757],[14.477779,52.557595],[14.479937,52.557238],[14.482536,52.55658],[14.484123,52.555956],[14.485225,52.555157],[14.486476,52.554282],[14.487874,52.553735],[14.489555,52.553298],[14.491603,52.55304],[14.495856,52.552947],[14.497731,52.552932],[14.499404,52.553282],[14.505616,52.554867],[14.505899,52.556209],[14.512614,52.557606],[14.517804,52.556983],[14.524433,52.556096],[14.532553,52.535906],[14.548122,52.534968],[14.547824,52.530122],[14.551848,52.530032],[14.553509,52.531417],[14.569373,52.528039],[14.569498,52.527009],[14.569841,52.524163],[14.573295,52.526148],[14.578156,52.528942],[14.581246,52.530765],[14.583727,52.530341],[14.5841,52.532733],[14.591937,52.532505],[14.59608,52.531176],[14.596816,52.529355],[14.600567,52.527311],[14.601179,52.525579]]]],"type":"MultiPolygon"}
+}

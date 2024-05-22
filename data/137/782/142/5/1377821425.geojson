@@ -1,1 +1,111 @@
-{"id": 1377821425, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "7.6549,47.8056,7.6549,47.8056", "geom:latitude": 47.8056, "geom:longitude": 7.6549, "gn:admin1_code": "1", "gn:admin2_code": "83.0", "gn:admin3_code": "8315.0", "gn:admin4_code": "8315074.0", "gn:asciiname": "Niederweiler", "gn:country_code": "DE", "gn:dem": 305, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2862748, "gn:latitude": 47.8056, "gn:longitude": 7.6549, "gn:modification_date": "2013-02-15", "gn:name": "Niederweiler", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "7.6499,47.8006,7.6599,47.8106", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Niederweiler"], "name:deu_x_preferred": ["Niederweiler"], "name:epo_x_preferred": ["Niederweiler"], "name:ita_x_preferred": ["Niederweiler"], "name:nds_x_preferred": ["Niederweiler"], "name:nld_x_preferred": ["Niederweiler"], "name:pol_x_preferred": ["Niederweiler"], "name:rus_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0432\u0430\u0439\u043b\u0435\u0440"], "name:srp_x_preferred": ["\u041d\u0438\u0434\u0435\u0440\u0432\u0430\u0458\u043b\u0435\u0440"], "name:swe_x_preferred": ["Niederweiler"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377685479, 404227543, 101765347, 102063241, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 2862748}, "wof:country": "DE", "wof:geomhash": "5b64616fa7cd7831b81cc91186ece44e", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063241, "localadmin_id": 1377685479, "locality_id": 101765347, "macrocounty_id": 404227543, "neighbourhood_id": 1377821425, "region_id": 85682567}], "wof:id": 1377821425, "wof:lastmodified": 1566717969, "wof:name": "Niederweiler", "wof:parent_id": 101765347, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1259395823], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.6549, 47.8056, 7.6549, 47.8056], "geometry": {"coordinates": [7.6549, 47.8056], "type": "Point"}}
+{
+  "id": 1377821425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6549,47.8056,7.6549,47.8056",
+    "geom:latitude":47.8056,
+    "geom:longitude":7.6549,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"83.0",
+    "gn:admin3_code":"8315.0",
+    "gn:admin4_code":"8315074.0",
+    "gn:asciiname":"Niederweiler",
+    "gn:country_code":"DE",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2862748,
+    "gn:latitude":47.8056,
+    "gn:longitude":7.6549,
+    "gn:modification_date":"2013-02-15",
+    "gn:name":"Niederweiler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"7.6499,47.8006,7.6599,47.8106",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Niederweiler"
+    ],
+    "name:deu_x_preferred":[
+        "Niederweiler"
+    ],
+    "name:epo_x_preferred":[
+        "Niederweiler"
+    ],
+    "name:ita_x_preferred":[
+        "Niederweiler"
+    ],
+    "name:nds_x_preferred":[
+        "Niederweiler"
+    ],
+    "name:nld_x_preferred":[
+        "Niederweiler"
+    ],
+    "name:pol_x_preferred":[
+        "Niederweiler"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0432\u0430\u0439\u043b\u0435\u0440"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0432\u0430\u0458\u043b\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Niederweiler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377685479,
+        404227543,
+        101765347,
+        102063241,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2862748
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"5b64616fa7cd7831b81cc91186ece44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063241,
+            "localadmin_id":1377685479,
+            "locality_id":101765347,
+            "macrocounty_id":404227543,
+            "neighbourhood_id":1377821425,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1377821425,
+    "wof:lastmodified":1566717969,
+    "wof:name":"Niederweiler",
+    "wof:parent_id":101765347,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259395823
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6549,
+    47.8056,
+    7.6549,
+    47.8056
+],
+  "geometry": {"coordinates":[7.6549,47.8056],"type":"Point"}
+}

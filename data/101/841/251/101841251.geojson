@@ -1,1 +1,248 @@
-{"id": 101841251, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_16074003", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Klosterlausnitz", "eurostat:nuts_2021_id": "16074003", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEG", "eurostat:nuts_2021_level_2": "DEG0", "eurostat:nuts_2021_level_3": "DEG0J", "eurostat:nuts_2021_level_lau": "16074003", "eurostat:population": 3405, "eurostat:population_year": 2020, "geom:area": 0.002104, "geom:area_square_m": 16402845.502929, "geom:bbox": "11.81014,50.891337,11.917566,50.92888", "geom:latitude": 50.909805, "geom:longitude": 11.85804, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 3453, "iso:country": "DE", "lbl:latitude": 50.915341, "lbl:longitude": 11.867134, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 50.915341, "mps:longitude": 11.867134, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"], "name:cat_x_preferred": ["Bad Klosterlausnitz"], "name:ceb_x_preferred": ["Bad Klosterlausnitz"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"], "name:deu_x_preferred": ["Bad Klosterlausnitz"], "name:eng_x_preferred": ["Bad Klosterlausnitz"], "name:epo_x_preferred": ["Bad Klosterlausnitz"], "name:eus_x_preferred": ["Bad Klosterlausnitz"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u06a9\u0644\u0648\u0634\u062a\u0631\u0644\u0627\u0648\u0633\u0646\u06cc\u062a\u0633"], "name:fra_x_preferred": ["Bad Klosterlausnitz"], "name:hbs_x_preferred": ["Bad Klosterlausnitz"], "name:hun_x_preferred": ["Bad Klosterlausnitz"], "name:ita_x_preferred": ["Bad Klosterlausnitz"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"], "name:lld_x_preferred": ["Bad Klosterlausnitz"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"], "name:msa_x_preferred": ["Bad Klosterlausnitz"], "name:nan_x_preferred": ["Bad Klosterlausnitz"], "name:nld_x_preferred": ["Bad Klosterlausnitz"], "name:nob_x_preferred": ["Bad Klosterlausnitz"], "name:pol_x_preferred": ["Bad Klosterlausnitz"], "name:por_x_preferred": ["Bad Klosterlausnitz"], "name:ron_x_preferred": ["Bad Klosterlausnitz"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"], "name:spa_x_preferred": ["Bad Klosterlausnitz"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"], "name:swe_x_preferred": ["Bad Klosterlausnitz"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0456\u0446"], "name:und_x_variant": ["Klosterlausnitz"], "name:uzb_x_preferred": ["Bad Klosterlausnitz"], "name:vie_x_preferred": ["Bad Klosterlausnitz"], "name:vol_x_preferred": ["Bad Klosterlausnitz"], "name:war_x_preferred": ["Bad Klosterlausnitz"], "name:zho_x_preferred": ["\u5df4\u5fb7\u514b\u6d1b\u65af\u7279\u5c14\u52b3\u65af\u5c3c\u8328"], "nav:latitude": 50.915341, "nav:longitude": 11.867134, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Saale-Holzland-Kreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Klosterlausnitz", "qs:la_lc": "*DE16007453003", "qs:level": "locality", "qs:loc": "Bad Klosterlausnitz", "qs:loc_alt": "Bad Klosterlausnitz", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-multi-in-poly-resolved", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6550345, "qs_pg:gn_pop": 3453, "qs_pg:name": "Bad Klosterlausnitz", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Th\u00fcringen", "qs_pg:photos": 29, "qs_pg:photos_1k": 6, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 41, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 631899, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12625387, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 34, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Th\u00fcringen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682541, 102191581, 1377690707, 85633111, 102063705], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_16074003", "eurostat:nuts_2021_id": "16074003", "gn:id": 2953421, "gp:id": 636446, "qs_pg:id": 37649, "wd:id": "Q568106", "wk:page": "Bad Klosterlausnitz"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "e28175b12f4d279e64e10a6f4942a84f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063705, "localadmin_id": 1377690707, "locality_id": 101841251, "region_id": 85682541}], "wof:id": 101841251, "wof:lastmodified": 1690873020, "wof:name": "Bad Klosterlausnitz", "wof:parent_id": 1377690707, "wof:placetype": "locality", "wof:population": 3405, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125418813, 1125286235], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.81014, 50.891337, 11.917566, 50.92888], "geometry": {"coordinates": [[[[11.911352, 50.907643], [11.912143, 50.90605], [11.913768, 50.904716], [11.913849, 50.903485], [11.917088, 50.898559], [11.917507, 50.894789], [11.917549, 50.893853], [11.917566, 50.893466], [11.912276, 50.894511], [11.905919, 50.894633], [11.905541, 50.895295], [11.901655, 50.895261], [11.901519, 50.89546], [11.899032, 50.898856], [11.897956, 50.898572], [11.896349, 50.89815], [11.898016, 50.895385], [11.890799, 50.895274], [11.88917, 50.893629], [11.88702, 50.891657], [11.884406, 50.891337], [11.88182, 50.892879], [11.880757, 50.893513], [11.87608, 50.894117], [11.87487, 50.895536], [11.871679, 50.897841], [11.868999, 50.898655], [11.863795, 50.900246], [11.863885, 50.900416], [11.866685, 50.906107], [11.866096, 50.906946], [11.865142, 50.908303], [11.864588, 50.908146], [11.863032, 50.907707], [11.859172, 50.906627], [11.859587, 50.907702], [11.858315, 50.908005], [11.856718, 50.908383], [11.855559, 50.909657], [11.851747, 50.908403], [11.845703, 50.906416], [11.844193, 50.905919], [11.844692, 50.901531], [11.842535, 50.900764], [11.83411, 50.897783], [11.832961, 50.8974], [11.831681, 50.897415], [11.831145, 50.897592], [11.828509, 50.898459], [11.824245, 50.897149], [11.822723, 50.897166], [11.823228, 50.897926], [11.823615, 50.898497], [11.82309, 50.899574], [11.821348, 50.89936], [11.820234, 50.9002], [11.815777, 50.902627], [11.811451, 50.90263], [11.81035, 50.908015], [11.811146, 50.909986], [11.81101, 50.913254], [11.81014, 50.915721], [11.810563, 50.917597], [11.812925, 50.919568], [11.815902, 50.921127], [11.821508, 50.92352], [11.825532, 50.924338], [11.82691, 50.925195], [11.829023, 50.925909], [11.829023, 50.927889], [11.829706, 50.92888], [11.83291, 50.928402], [11.837759, 50.926196], [11.841932, 50.927219], [11.848664, 50.9276], [11.852668, 50.927211], [11.854129, 50.925875], [11.852545, 50.925413], [11.855014, 50.922199], [11.859422, 50.923452], [11.861654, 50.923345], [11.863752, 50.922556], [11.869547, 50.923027], [11.871048, 50.922749], [11.872327, 50.922138], [11.875969, 50.919771], [11.876722, 50.919163], [11.877604, 50.918432], [11.878723, 50.917529], [11.881309, 50.915437], [11.883573, 50.91307], [11.886792, 50.911232], [11.887235, 50.911272], [11.890448, 50.911612], [11.891502, 50.911158], [11.892008, 50.910936], [11.892611, 50.911127], [11.894149, 50.911612], [11.897223, 50.907805], [11.897374, 50.907614], [11.905602, 50.910035], [11.907214, 50.907801], [11.909008, 50.907348], [11.911352, 50.907643]]]], "type": "MultiPolygon"}}
+{
+  "id": 101841251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_16074003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Klosterlausnitz",
+    "eurostat:nuts_2021_id":"16074003",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEG",
+    "eurostat:nuts_2021_level_2":"DEG0",
+    "eurostat:nuts_2021_level_3":"DEG0J",
+    "eurostat:nuts_2021_level_lau":"16074003",
+    "eurostat:population":3405,
+    "eurostat:population_year":2020,
+    "geom:area":0.002104,
+    "geom:area_square_m":16402845.502929,
+    "geom:bbox":"11.81014,50.891337,11.917566,50.92888",
+    "geom:latitude":50.909805,
+    "geom:longitude":11.85804,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":3453,
+    "iso:country":"DE",
+    "lbl:latitude":50.915341,
+    "lbl:longitude":11.867134,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":50.915341,
+    "mps:longitude":11.867134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u06a9\u0644\u0648\u0634\u062a\u0631\u0644\u0627\u0648\u0633\u0646\u06cc\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:nan_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:por_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0438\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u043b\u0430\u0443\u0441\u043d\u0456\u0446"
+    ],
+    "name:und_x_variant":[
+        "Klosterlausnitz"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:war_x_preferred":[
+        "Bad Klosterlausnitz"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5fb7\u514b\u6d1b\u65af\u7279\u5c14\u52b3\u65af\u5c3c\u8328"
+    ],
+    "nav:latitude":50.915341,
+    "nav:longitude":11.867134,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Saale-Holzland-Kreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Klosterlausnitz",
+    "qs:la_lc":"*DE16007453003",
+    "qs:level":"locality",
+    "qs:loc":"Bad Klosterlausnitz",
+    "qs:loc_alt":"Bad Klosterlausnitz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6550345,
+    "qs_pg:gn_pop":3453,
+    "qs_pg:name":"Bad Klosterlausnitz",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Th\u00fcringen",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":631899,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12625387,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":34,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Th\u00fcringen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377690707,
+        85633111,
+        102063705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_16074003",
+        "eurostat:nuts_2021_id":"16074003",
+        "gn:id":2953421,
+        "gp:id":636446,
+        "qs_pg:id":37649,
+        "wd:id":"Q568106",
+        "wk:page":"Bad Klosterlausnitz"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"e28175b12f4d279e64e10a6f4942a84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063705,
+            "localadmin_id":1377690707,
+            "locality_id":101841251,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101841251,
+    "wof:lastmodified":1690873020,
+    "wof:name":"Bad Klosterlausnitz",
+    "wof:parent_id":1377690707,
+    "wof:placetype":"locality",
+    "wof:population":3405,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125418813,
+        1125286235
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81014,
+    50.891337,
+    11.917566,
+    50.92888
+],
+  "geometry": {"coordinates":[[[[11.911352,50.907643],[11.912143,50.90605],[11.913768,50.904716],[11.913849,50.903485],[11.917088,50.898559],[11.917507,50.894789],[11.917549,50.893853],[11.917566,50.893466],[11.912276,50.894511],[11.905919,50.894633],[11.905541,50.895295],[11.901655,50.895261],[11.901519,50.89546],[11.899032,50.898856],[11.897956,50.898572],[11.896349,50.89815],[11.898016,50.895385],[11.890799,50.895274],[11.88917,50.893629],[11.88702,50.891657],[11.884406,50.891337],[11.88182,50.892879],[11.880757,50.893513],[11.87608,50.894117],[11.87487,50.895536],[11.871679,50.897841],[11.868999,50.898655],[11.863795,50.900246],[11.863885,50.900416],[11.866685,50.906107],[11.866096,50.906946],[11.865142,50.908303],[11.864588,50.908146],[11.863032,50.907707],[11.859172,50.906627],[11.859587,50.907702],[11.858315,50.908005],[11.856718,50.908383],[11.855559,50.909657],[11.851747,50.908403],[11.845703,50.906416],[11.844193,50.905919],[11.844692,50.901531],[11.842535,50.900764],[11.83411,50.897783],[11.832961,50.8974],[11.831681,50.897415],[11.831145,50.897592],[11.828509,50.898459],[11.824245,50.897149],[11.822723,50.897166],[11.823228,50.897926],[11.823615,50.898497],[11.82309,50.899574],[11.821348,50.89936],[11.820234,50.9002],[11.815777,50.902627],[11.811451,50.90263],[11.81035,50.908015],[11.811146,50.909986],[11.81101,50.913254],[11.81014,50.915721],[11.810563,50.917597],[11.812925,50.919568],[11.815902,50.921127],[11.821508,50.92352],[11.825532,50.924338],[11.82691,50.925195],[11.829023,50.925909],[11.829023,50.927889],[11.829706,50.92888],[11.83291,50.928402],[11.837759,50.926196],[11.841932,50.927219],[11.848664,50.9276],[11.852668,50.927211],[11.854129,50.925875],[11.852545,50.925413],[11.855014,50.922199],[11.859422,50.923452],[11.861654,50.923345],[11.863752,50.922556],[11.869547,50.923027],[11.871048,50.922749],[11.872327,50.922138],[11.875969,50.919771],[11.876722,50.919163],[11.877604,50.918432],[11.878723,50.917529],[11.881309,50.915437],[11.883573,50.91307],[11.886792,50.911232],[11.887235,50.911272],[11.890448,50.911612],[11.891502,50.911158],[11.892008,50.910936],[11.892611,50.911127],[11.894149,50.911612],[11.897223,50.907805],[11.897374,50.907614],[11.905602,50.910035],[11.907214,50.907801],[11.909008,50.907348],[11.911352,50.907643]]]],"type":"MultiPolygon"}
+}

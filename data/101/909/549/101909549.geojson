@@ -1,1 +1,137 @@
-{"id": 101909549, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4.8e-05, "geom:area_square_m": 368630.082619, "geom:bbox": "12.173737,51.715468,12.186842,51.721837", "geom:latitude": 51.718023, "geom:longitude": 12.180358, "gn:population": 604, "iso:country": "DE", "lbl:latitude": 51.717787, "lbl:longitude": 12.180259, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.717787, "mps:longitude": 12.180259, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0422\u043e\u0440\u043d\u0430\u0443-\u0444\u043e\u0440-\u0434\u0435\u0440-\u0425\u0430\u0439\u0434\u0435"], "name:deu_x_preferred": ["Tornau vor der Heide"], "name:eng_x_preferred": ["Tornau vor der Heide"], "name:epo_x_preferred": ["Tornau vor der Heide"], "name:fas_x_preferred": ["\u062a\u0648\u0631\u0646\u0627\u0648 \u0641\u0648\u0631 \u062f\u0631 \u0647\u0627\u06cc\u062f\u0647"], "name:fra_x_preferred": ["Tornau vor der Heide"], "name:gle_x_preferred": ["Tornau vor der Heide"], "name:ita_x_preferred": ["Tornau vor der Heide"], "name:kaz_x_preferred": ["\u0422\u043e\u0440\u043d\u0430\u0443-\u0444\u043e\u0440-\u0434\u0435\u0440-\u0425\u0430\u0439\u0434\u0435"], "name:kir_x_preferred": ["\u0422\u043e\u0440\u043d\u0430\u0443-\u0444\u043e\u0440-\u0434\u0435\u0440-\u0425\u0430\u0439\u0434\u0435"], "name:mkd_x_preferred": ["\u0422\u043e\u0440\u043d\u0430\u0443 \u0444\u043e\u0440 \u0434\u0435\u0440 \u0425\u0430\u0458\u0434\u0435"], "name:nld_x_preferred": ["Tornau vor der Heide"], "name:ron_x_preferred": ["Tornau vor der Heide"], "name:rus_x_preferred": ["\u0422\u043e\u0440\u043d\u0430\u0443-\u0444\u043e\u0440-\u0434\u0435\u0440-\u0425\u0430\u0439\u0434\u0435"], "name:uzb_x_preferred": ["Tornau vor der Heide"], "name:vie_x_preferred": ["Tornau vor der Heide"], "name:vol_x_preferred": ["Tornau vor der Heide"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Anhalt-Bitterfeld", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Tornau vor der Heide", "qs:la_lc": "*DE15008205385", "qs:level": "locality", "qs:loc": "Tornau vor der Heide", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": [], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 33, "wof:belongsto": [85682519, 102191581, 1377688263, 85633111, 102063873], "wof:breaches": [], "wof:concordances": {"gn:id": 2821785, "gp:id": 699684, "qs_pg:id": 375042, "wd:id": "Q696252"}, "wof:country": "DE", "wof:geomhash": "3623fd4dbf8a1a77fffabe7877a23ef4", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063873, "localadmin_id": 1377688263, "locality_id": 101909549, "region_id": 85682519}], "wof:id": 101909549, "wof:lastmodified": 1690871444, "wof:name": "Tornau vor der Heide", "wof:parent_id": 1377688263, "wof:placetype": "locality", "wof:population": 604, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.173737, 51.715468, 12.186842, 51.721837], "geometry": {"coordinates": [[[12.181186, 51.72181], [12.181099, 51.720014], [12.185439, 51.719933], [12.185395, 51.719035], [12.186842, 51.719008], [12.186755, 51.717211], [12.183862, 51.717265], [12.183776, 51.715468], [12.175098, 51.715629], [12.175184, 51.717426], [12.173737, 51.717453], [12.17378, 51.718351], [12.175227, 51.718324], [12.17527, 51.719223], [12.178163, 51.719169], [12.178249, 51.720966], [12.179696, 51.720939], [12.179739, 51.721837], [12.181186, 51.72181]]], "type": "Polygon"}}
+{
+  "id": 101909549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":368630.082619,
+    "geom:bbox":"12.173737,51.715468,12.186842,51.721837",
+    "geom:latitude":51.718023,
+    "geom:longitude":12.180358,
+    "gn:population":604,
+    "iso:country":"DE",
+    "lbl:latitude":51.717787,
+    "lbl:longitude":12.180259,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.717787,
+    "mps:longitude":12.180259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u0430\u0443-\u0444\u043e\u0440-\u0434\u0435\u0440-\u0425\u0430\u0439\u0434\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:eng_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:epo_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u0627\u0648 \u0641\u0648\u0631 \u062f\u0631 \u0647\u0627\u06cc\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:gle_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:ita_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u0430\u0443-\u0444\u043e\u0440-\u0434\u0435\u0440-\u0425\u0430\u0439\u0434\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u0430\u0443-\u0444\u043e\u0440-\u0434\u0435\u0440-\u0425\u0430\u0439\u0434\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u0430\u0443 \u0444\u043e\u0440 \u0434\u0435\u0440 \u0425\u0430\u0458\u0434\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:ron_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u0430\u0443-\u0444\u043e\u0440-\u0434\u0435\u0440-\u0425\u0430\u0439\u0434\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:vie_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "name:vol_x_preferred":[
+        "Tornau vor der Heide"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Anhalt-Bitterfeld",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Tornau vor der Heide",
+    "qs:la_lc":"*DE15008205385",
+    "qs:level":"locality",
+    "qs:loc":"Tornau vor der Heide",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688263,
+        85633111,
+        102063873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2821785,
+        "gp:id":699684,
+        "qs_pg:id":375042,
+        "wd:id":"Q696252"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"3623fd4dbf8a1a77fffabe7877a23ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063873,
+            "localadmin_id":1377688263,
+            "locality_id":101909549,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909549,
+    "wof:lastmodified":1690871444,
+    "wof:name":"Tornau vor der Heide",
+    "wof:parent_id":1377688263,
+    "wof:placetype":"locality",
+    "wof:population":604,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.173737,
+    51.715468,
+    12.186842,
+    51.721837
+],
+  "geometry": {"coordinates":[[[12.181186,51.72181],[12.181099,51.720014],[12.185439,51.719933],[12.185395,51.719035],[12.186842,51.719008],[12.186755,51.717211],[12.183862,51.717265],[12.183776,51.715468],[12.175098,51.715629],[12.175184,51.717426],[12.173737,51.717453],[12.17378,51.718351],[12.175227,51.718324],[12.17527,51.719223],[12.178163,51.719169],[12.178249,51.720966],[12.179696,51.720939],[12.179739,51.721837],[12.181186,51.72181]]],"type":"Polygon"}
+}

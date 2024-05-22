@@ -1,1 +1,152 @@
-{"id": 101909741, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.1e-05, "geom:area_square_m": 388513.252644, "geom:bbox": "11.258729,52.17653,11.270473,52.18468", "geom:latitude": 52.180987, "geom:longitude": 11.264168, "gn:population": 578, "iso:country": "DE", "lbl:latitude": 52.18154, "lbl:longitude": 11.264168, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.18154, "mps:longitude": 11.264168, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:ceb_x_preferred": ["Hakenstedt"], "name:che_x_preferred": ["\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:deu_x_preferred": ["Hakenstedt"], "name:eng_x_preferred": ["Hakenstedt"], "name:epo_x_preferred": ["Hakenstedt"], "name:fas_x_preferred": ["\u0647\u0627\u06a9\u0646\u0634\u062a\u062a"], "name:fra_x_preferred": ["Hakenstedt"], "name:gle_x_preferred": ["Hakenstedt"], "name:hun_x_preferred": ["Hakenstedt"], "name:ita_x_preferred": ["Hakenstedt"], "name:kaz_x_preferred": ["\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:nld_x_preferred": ["Hakenstedt"], "name:ron_x_preferred": ["Hakenstedt"], "name:rus_x_preferred": ["\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:tat_x_preferred": ["\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["Hakenstedt"], "name:vie_x_preferred": ["Hakenstedt"], "name:vol_x_preferred": ["Hakenstedt"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "B\u00f6rde", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Hakenstedt", "qs:la_lc": "*DE15008303265", "qs:level": "locality", "qs:loc": "Hakenstedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 27, "wof:belongsto": [85682519, 102191581, 1377688395, 85633111, 102063925], "wof:breaches": [], "wof:concordances": {"gn:id": 2911700, "gp:id": 656773, "qs_pg:id": 932312, "wd:id": "Q703725", "wk:page": "Hakenstedt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "614bb2c03c91dfb49ffb0bf1a2b2f98e", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063925, "localadmin_id": 1377688395, "locality_id": 101909741, "region_id": 85682519}], "wof:id": 101909741, "wof:lastmodified": 1690871403, "wof:name": "Hakenstedt", "wof:parent_id": 1377688395, "wof:placetype": "locality", "wof:population": 578, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.258729, 52.17653, 11.270473, 52.18468], "geometry": {"coordinates": [[[11.267703, 52.184648], [11.267575, 52.180155], [11.269037, 52.18014], [11.269011, 52.179241], [11.270473, 52.179226], [11.270396, 52.17653], [11.268935, 52.176546], [11.26896, 52.177444], [11.267499, 52.17746], [11.26755, 52.179257], [11.260241, 52.179335], [11.26019, 52.177538], [11.258729, 52.177553], [11.258881, 52.182945], [11.260343, 52.182929], [11.260368, 52.183828], [11.264754, 52.183781], [11.264779, 52.18468], [11.267703, 52.184648]]], "type": "Polygon"}}
+{
+  "id": 101909741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":388513.252644,
+    "geom:bbox":"11.258729,52.17653,11.270473,52.18468",
+    "geom:latitude":52.180987,
+    "geom:longitude":11.264168,
+    "gn:population":578,
+    "iso:country":"DE",
+    "lbl:latitude":52.18154,
+    "lbl:longitude":11.264168,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.18154,
+    "mps:longitude":11.264168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:eng_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:epo_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06a9\u0646\u0634\u062a\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:gle_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:hun_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:ita_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:ron_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u043a\u0435\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:vie_x_preferred":[
+        "Hakenstedt"
+    ],
+    "name:vol_x_preferred":[
+        "Hakenstedt"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"B\u00f6rde",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Hakenstedt",
+    "qs:la_lc":"*DE15008303265",
+    "qs:level":"locality",
+    "qs:loc":"Hakenstedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688395,
+        85633111,
+        102063925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2911700,
+        "gp:id":656773,
+        "qs_pg:id":932312,
+        "wd:id":"Q703725",
+        "wk:page":"Hakenstedt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"614bb2c03c91dfb49ffb0bf1a2b2f98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063925,
+            "localadmin_id":1377688395,
+            "locality_id":101909741,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909741,
+    "wof:lastmodified":1690871403,
+    "wof:name":"Hakenstedt",
+    "wof:parent_id":1377688395,
+    "wof:placetype":"locality",
+    "wof:population":578,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.258729,
+    52.17653,
+    11.270473,
+    52.18468
+],
+  "geometry": {"coordinates":[[[11.267703,52.184648],[11.267575,52.180155],[11.269037,52.18014],[11.269011,52.179241],[11.270473,52.179226],[11.270396,52.17653],[11.268935,52.176546],[11.26896,52.177444],[11.267499,52.17746],[11.26755,52.179257],[11.260241,52.179335],[11.26019,52.177538],[11.258729,52.177553],[11.258881,52.182945],[11.260343,52.182929],[11.260368,52.183828],[11.264754,52.183781],[11.264779,52.18468],[11.267703,52.184648]]],"type":"Polygon"}
+}

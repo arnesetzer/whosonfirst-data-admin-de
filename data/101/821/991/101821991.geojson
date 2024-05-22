@@ -1,1 +1,268 @@
-{"id": 101821991, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_16065003", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Frankenhausen/Kyffh\u00e4user, Stadt", "eurostat:nuts_2021_id": "16065003", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEG", "eurostat:nuts_2021_level_2": "DEG0", "eurostat:nuts_2021_level_3": "DEG0A", "eurostat:nuts_2021_level_lau": "16065003", "eurostat:population": 10139, "eurostat:population_year": 2020, "geom:area": 0.008555, "geom:area_square_m": 66053763.535855, "geom:bbox": "11.054598,51.310772,11.207285,51.413685", "geom:latitude": 51.361249, "geom:longitude": 11.124421, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 9000, "iso:country": "DE", "lbl:latitude": 51.354394, "lbl:longitude": 11.103881, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 51.354394, "mps:longitude": 11.103881, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:ara_x_preferred": ["\u0628\u0627\u062f \u0641\u0631\u0627\u0646\u0643\u0646\u0647\u0627\u0648\u0632\u0646"], "name:arz_x_preferred": ["\u0628\u0627\u062f \u0641\u0631\u0627\u0646\u0643\u0646\u0647\u0627\u0648\u0632\u0646"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0641\u0631\u0627\u0646\u06a9\u0646\u200c\u0647\u0627\u0648\u0632\u0646/\u06a9\u06cc\u0641\u0631\u0647\u0648\u06cc\u0632\u0631"], "name:bak_x_preferred": ["\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"], "name:bul_x_preferred": ["\u0411\u0430\u0434 \u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d"], "name:bul_x_variant": ["\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d"], "name:ceb_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"], "name:dan_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:deu_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:eng_x_preferred": ["Bad Frankenhausen"], "name:epo_x_preferred": ["Bad Frankenhausen"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0641\u0631\u0627\u0646\u06a9\u0646\u200c\u0647\u0627\u0648\u0632\u0646/\u06a9\u06cc\u0641\u0631\u0647\u0648\u06cc\u0632\u0631"], "name:fra_x_preferred": ["Bad Frankenhausen"], "name:gle_x_preferred": ["Bad Frankenhausen"], "name:hbs_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:heb_x_preferred": ["\u05d1\u05d0\u05d3 \u05e4\u05e8\u05e0\u05e7\u05e0\u05d4\u05d0\u05d5\u05d6\u05df"], "name:hun_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:ita_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30d5\u30e9\u30f3\u30b1\u30f3\u30cf\u30a6\u30bc\u30f3"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"], "name:ksh_x_preferred": ["Bad Frankenhausen"], "name:kur_x_preferred": ["Bad Frankenhausen"], "name:lat_x_preferred": ["Francohusium"], "name:lld_x_preferred": ["Bad Frankenhausen"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d"], "name:msa_x_preferred": ["Bad Frankenhausen"], "name:nld_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:nno_x_preferred": ["Bad Frankenhausen"], "name:nob_x_preferred": ["Bad Frankenhausen"], "name:pol_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:por_x_preferred": ["Bad Frankenhausen"], "name:ron_x_preferred": ["Bad Frankenhausen"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"], "name:spa_x_preferred": ["Bad Frankenhausen"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d"], "name:swe_x_preferred": ["Bad Frankenhausen"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"], "name:tur_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0433\u0430\u0443\u0437\u0435\u043d"], "name:und_x_variant": ["Frankenhausen"], "name:uzb_x_preferred": ["Bad Frankenhausen/Kyffh\u00e4user"], "name:vie_x_preferred": ["Bad Frankenhausen"], "name:vol_x_preferred": ["Bad Frankenhausen"], "name:war_x_preferred": ["Bad Frankenhausen"], "name:zho_x_preferred": ["\u5df4\u7279\u5f17\u5170\u80af\u8c6a\u68ee"], "name:zho_x_variant": ["\u5df4\u5fb7\u592b\u5170\u80af\u8c6a\u68ee"], "nav:latitude": 51.354394, "nav:longitude": 11.103881, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Kyffh\u00e4userkreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Frankenhausen/Kyffh\u00e4user", "qs:la_lc": "*DE16006553003", "qs:level": "locality", "qs:loc": "Bad Frankenhausen/Kyffh\u00e4user", "qs:loc_alt": "Bad Frankenhausen/Kyffhaeuser", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6551252, "qs_pg:gn_pop": 9000, "qs_pg:name": "Bad Frankenhausen/Kyffh\u00e4user, Stadt", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 5, "qs_pg:qs_id": 632722, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682541, 102191581, 1377689861, 85633111, 102063765], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_16065003", "eurostat:nuts_2021_id": "16065003", "gn:id": 2953459, "gp:id": 636421, "loc:id": "n86094619", "qs_pg:id": 1234895, "wd:id": "Q151876", "wk:page": "Bad Frankenhausen"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes"], "wof:geomhash": "1c442ca63800658e9e2d52fcf2b7072e", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063765, "localadmin_id": 1377689861, "locality_id": 101821991, "region_id": 85682541}], "wof:id": 101821991, "wof:lastmodified": 1690872318, "wof:name": "Bad Frankenhausen/Kyffh\u00e4user", "wof:parent_id": 1377689861, "wof:placetype": "locality", "wof:population": 10139, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125278593], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.054598, 51.310772, 11.207285, 51.413685], "geometry": {"coordinates": [[[[11.162594, 51.403372], [11.16211, 51.398732], [11.165431, 51.397625], [11.166783, 51.396645], [11.167171, 51.395653], [11.164812, 51.392999], [11.164013, 51.392099], [11.163207, 51.392005], [11.162314, 51.391902], [11.162111, 51.39085], [11.167275, 51.390902], [11.163553, 51.388134], [11.168085, 51.385319], [11.172909, 51.385805], [11.175684, 51.383644], [11.178624, 51.381354], [11.181597, 51.382075], [11.182655, 51.379099], [11.185337, 51.371562], [11.185963, 51.3702], [11.187016, 51.370464], [11.188983, 51.365522], [11.190093, 51.365722], [11.196113, 51.356373], [11.1981, 51.354529], [11.199278, 51.354474], [11.199815, 51.35478], [11.202821, 51.351179], [11.204367, 51.351728], [11.207285, 51.348093], [11.205339, 51.346728], [11.205129, 51.346118], [11.187758, 51.341209], [11.183269, 51.340777], [11.180419, 51.344248], [11.176298, 51.343417], [11.171433, 51.343733], [11.160911, 51.343325], [11.157268, 51.343714], [11.149613, 51.343883], [11.144028, 51.330796], [11.143894, 51.330455], [11.143832, 51.330077], [11.140232, 51.324988], [11.137782, 51.321581], [11.135473, 51.319677], [11.134689, 51.319024], [11.132762, 51.319835], [11.13049, 51.32279], [11.126497, 51.32199], [11.124771, 51.321215], [11.124619, 51.318709], [11.122799, 51.316997], [11.122257, 51.3174], [11.11753, 51.315054], [11.11653, 51.315259], [11.115497, 51.313008], [11.115534, 51.312322], [11.114664, 51.310772], [11.109306, 51.311637], [11.103166, 51.313027], [11.100305, 51.312754], [11.099398, 51.313178], [11.092742, 51.316284], [11.088496, 51.317699], [11.086874, 51.317708], [11.08185, 51.319001], [11.081993, 51.320063], [11.083558, 51.321227], [11.082882, 51.32183], [11.072282, 51.323653], [11.072273, 51.324762], [11.073053, 51.328564], [11.073195, 51.329571], [11.075988, 51.330124], [11.077123, 51.331288], [11.07074, 51.333145], [11.068208, 51.333931], [11.065816, 51.333349], [11.064059, 51.334122], [11.063345, 51.334441], [11.063145, 51.334532], [11.06458, 51.335613], [11.065624, 51.336391], [11.065572, 51.337975], [11.069777, 51.340015], [11.069612, 51.340645], [11.068953, 51.343132], [11.063689, 51.343733], [11.061264, 51.343988], [11.060763, 51.342946], [11.0559, 51.343518], [11.054598, 51.343965], [11.056421, 51.348644], [11.067091, 51.364563], [11.067376, 51.365542], [11.064543, 51.366528], [11.065138, 51.36745], [11.066107, 51.368757], [11.069464, 51.369598], [11.068763, 51.370717], [11.06831, 51.372193], [11.067508, 51.372721], [11.068341, 51.37386], [11.072198, 51.372996], [11.0761, 51.374659], [11.07799, 51.376377], [11.082249, 51.37668], [11.083437, 51.376242], [11.085384, 51.376709], [11.08641, 51.376065], [11.087837, 51.376337], [11.090417, 51.376826], [11.092773, 51.377842], [11.093425, 51.37881], [11.093519, 51.381418], [11.085063, 51.391061], [11.085001, 51.392951], [11.087688, 51.397346], [11.090347, 51.402803], [11.097678, 51.403468], [11.099585, 51.403983], [11.100154, 51.404733], [11.102326, 51.404758], [11.104246, 51.403065], [11.110367, 51.402566], [11.112173, 51.406085], [11.112454, 51.408079], [11.11306, 51.408166], [11.113955, 51.408413], [11.114765, 51.408724], [11.116518, 51.409419], [11.117436, 51.409723], [11.11847, 51.41017], [11.119657, 51.410735], [11.122444, 51.412786], [11.123944, 51.412485], [11.125938, 51.413685], [11.127573, 51.413254], [11.128468, 51.410334], [11.125661, 51.408118], [11.126587, 51.407465], [11.131107, 51.408534], [11.131681, 51.407045], [11.131787, 51.404816], [11.132285, 51.404471], [11.135051, 51.406341], [11.140907, 51.404779], [11.140236, 51.403091], [11.141755, 51.402633], [11.143783, 51.403666], [11.148629, 51.403982], [11.151837, 51.403576], [11.152934, 51.401644], [11.158867, 51.403258], [11.161308, 51.402769], [11.162594, 51.403372]]]], "type": "MultiPolygon"}}
+{
+  "id": 101821991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_16065003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Frankenhausen/Kyffh\u00e4user, Stadt",
+    "eurostat:nuts_2021_id":"16065003",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEG",
+    "eurostat:nuts_2021_level_2":"DEG0",
+    "eurostat:nuts_2021_level_3":"DEG0A",
+    "eurostat:nuts_2021_level_lau":"16065003",
+    "eurostat:population":10139,
+    "eurostat:population_year":2020,
+    "geom:area":0.008555,
+    "geom:area_square_m":66053763.535855,
+    "geom:bbox":"11.054598,51.310772,11.207285,51.413685",
+    "geom:latitude":51.361249,
+    "geom:longitude":11.124421,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":9000,
+    "iso:country":"DE",
+    "lbl:latitude":51.354394,
+    "lbl:longitude":11.103881,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":51.354394,
+    "mps:longitude":11.103881,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0641\u0631\u0627\u0646\u0643\u0646\u0647\u0627\u0648\u0632\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062f \u0641\u0631\u0627\u0646\u0643\u0646\u0647\u0627\u0648\u0632\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0641\u0631\u0627\u0646\u06a9\u0646\u200c\u0647\u0627\u0648\u0632\u0646/\u06a9\u06cc\u0641\u0631\u0647\u0648\u06cc\u0632\u0631"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0434 \u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0641\u0631\u0627\u0646\u06a9\u0646\u200c\u0647\u0627\u0648\u0632\u0646/\u06a9\u06cc\u0641\u0631\u0647\u0648\u06cc\u0632\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d3 \u05e4\u05e8\u05e0\u05e7\u05e0\u05d4\u05d0\u05d5\u05d6\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30d5\u30e9\u30f3\u30b1\u30f3\u30cf\u30a6\u30bc\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"
+    ],
+    "name:ksh_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:lat_x_preferred":[
+        "Francohusium"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:por_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d-\u041a\u0438\u0444\u0445\u043e\u0439\u0437\u0435\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0424\u0440\u0430\u043d\u043a\u0435\u043d\u0433\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Frankenhausen"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Frankenhausen/Kyffh\u00e4user"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:war_x_preferred":[
+        "Bad Frankenhausen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u5f17\u5170\u80af\u8c6a\u68ee"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u592b\u5170\u80af\u8c6a\u68ee"
+    ],
+    "nav:latitude":51.354394,
+    "nav:longitude":11.103881,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Kyffh\u00e4userkreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Frankenhausen/Kyffh\u00e4user",
+    "qs:la_lc":"*DE16006553003",
+    "qs:level":"locality",
+    "qs:loc":"Bad Frankenhausen/Kyffh\u00e4user",
+    "qs:loc_alt":"Bad Frankenhausen/Kyffhaeuser",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6551252,
+    "qs_pg:gn_pop":9000,
+    "qs_pg:name":"Bad Frankenhausen/Kyffh\u00e4user, Stadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":632722,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377689861,
+        85633111,
+        102063765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_16065003",
+        "eurostat:nuts_2021_id":"16065003",
+        "gn:id":2953459,
+        "gp:id":636421,
+        "loc:id":"n86094619",
+        "qs_pg:id":1234895,
+        "wd:id":"Q151876",
+        "wk:page":"Bad Frankenhausen"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"1c442ca63800658e9e2d52fcf2b7072e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063765,
+            "localadmin_id":1377689861,
+            "locality_id":101821991,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101821991,
+    "wof:lastmodified":1690872318,
+    "wof:name":"Bad Frankenhausen/Kyffh\u00e4user",
+    "wof:parent_id":1377689861,
+    "wof:placetype":"locality",
+    "wof:population":10139,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125278593
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.054598,
+    51.310772,
+    11.207285,
+    51.413685
+],
+  "geometry": {"coordinates":[[[[11.162594,51.403372],[11.16211,51.398732],[11.165431,51.397625],[11.166783,51.396645],[11.167171,51.395653],[11.164812,51.392999],[11.164013,51.392099],[11.163207,51.392005],[11.162314,51.391902],[11.162111,51.39085],[11.167275,51.390902],[11.163553,51.388134],[11.168085,51.385319],[11.172909,51.385805],[11.175684,51.383644],[11.178624,51.381354],[11.181597,51.382075],[11.182655,51.379099],[11.185337,51.371562],[11.185963,51.3702],[11.187016,51.370464],[11.188983,51.365522],[11.190093,51.365722],[11.196113,51.356373],[11.1981,51.354529],[11.199278,51.354474],[11.199815,51.35478],[11.202821,51.351179],[11.204367,51.351728],[11.207285,51.348093],[11.205339,51.346728],[11.205129,51.346118],[11.187758,51.341209],[11.183269,51.340777],[11.180419,51.344248],[11.176298,51.343417],[11.171433,51.343733],[11.160911,51.343325],[11.157268,51.343714],[11.149613,51.343883],[11.144028,51.330796],[11.143894,51.330455],[11.143832,51.330077],[11.140232,51.324988],[11.137782,51.321581],[11.135473,51.319677],[11.134689,51.319024],[11.132762,51.319835],[11.13049,51.32279],[11.126497,51.32199],[11.124771,51.321215],[11.124619,51.318709],[11.122799,51.316997],[11.122257,51.3174],[11.11753,51.315054],[11.11653,51.315259],[11.115497,51.313008],[11.115534,51.312322],[11.114664,51.310772],[11.109306,51.311637],[11.103166,51.313027],[11.100305,51.312754],[11.099398,51.313178],[11.092742,51.316284],[11.088496,51.317699],[11.086874,51.317708],[11.08185,51.319001],[11.081993,51.320063],[11.083558,51.321227],[11.082882,51.32183],[11.072282,51.323653],[11.072273,51.324762],[11.073053,51.328564],[11.073195,51.329571],[11.075988,51.330124],[11.077123,51.331288],[11.07074,51.333145],[11.068208,51.333931],[11.065816,51.333349],[11.064059,51.334122],[11.063345,51.334441],[11.063145,51.334532],[11.06458,51.335613],[11.065624,51.336391],[11.065572,51.337975],[11.069777,51.340015],[11.069612,51.340645],[11.068953,51.343132],[11.063689,51.343733],[11.061264,51.343988],[11.060763,51.342946],[11.0559,51.343518],[11.054598,51.343965],[11.056421,51.348644],[11.067091,51.364563],[11.067376,51.365542],[11.064543,51.366528],[11.065138,51.36745],[11.066107,51.368757],[11.069464,51.369598],[11.068763,51.370717],[11.06831,51.372193],[11.067508,51.372721],[11.068341,51.37386],[11.072198,51.372996],[11.0761,51.374659],[11.07799,51.376377],[11.082249,51.37668],[11.083437,51.376242],[11.085384,51.376709],[11.08641,51.376065],[11.087837,51.376337],[11.090417,51.376826],[11.092773,51.377842],[11.093425,51.37881],[11.093519,51.381418],[11.085063,51.391061],[11.085001,51.392951],[11.087688,51.397346],[11.090347,51.402803],[11.097678,51.403468],[11.099585,51.403983],[11.100154,51.404733],[11.102326,51.404758],[11.104246,51.403065],[11.110367,51.402566],[11.112173,51.406085],[11.112454,51.408079],[11.11306,51.408166],[11.113955,51.408413],[11.114765,51.408724],[11.116518,51.409419],[11.117436,51.409723],[11.11847,51.41017],[11.119657,51.410735],[11.122444,51.412786],[11.123944,51.412485],[11.125938,51.413685],[11.127573,51.413254],[11.128468,51.410334],[11.125661,51.408118],[11.126587,51.407465],[11.131107,51.408534],[11.131681,51.407045],[11.131787,51.404816],[11.132285,51.404471],[11.135051,51.406341],[11.140907,51.404779],[11.140236,51.403091],[11.141755,51.402633],[11.143783,51.403666],[11.148629,51.403982],[11.151837,51.403576],[11.152934,51.401644],[11.158867,51.403258],[11.161308,51.402769],[11.162594,51.403372]]]],"type":"MultiPolygon"}
+}

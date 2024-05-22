@@ -1,1 +1,374 @@
-{"id": 101906447, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01059051", "eurostat:level_code": "lau", "eurostat:name_local": "Klein Rheide", "eurostat:nuts_2021_id": "01059051", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF0C", "eurostat:nuts_2021_level_lau": "01059051", "eurostat:population": 327, "eurostat:population_year": 2020, "geom:area": 0.001746, "geom:area_square_m": 12557852.406974, "geom:bbox": "9.455619,54.421127,9.517736,54.466482", "geom:latitude": 54.443337, "geom:longitude": 9.486241, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 339, "iso:country": "DE", "lbl:latitude": 54.449479, "lbl:longitude": 9.475471, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 54.449479, "mps:longitude": 9.475471, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Klein Rheide"], "name:arg_x_preferred": ["Klein Rheide"], "name:ast_x_preferred": ["Klein Rheide"], "name:bar_x_preferred": ["Klein Rheide"], "name:bre_x_preferred": ["Klein Rheide"], "name:cat_x_preferred": ["Klein Rheide"], "name:ceb_x_preferred": ["Klein Rheide"], "name:ces_x_preferred": ["Klein Rheide"], "name:che_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"], "name:cos_x_preferred": ["Klein Rheide"], "name:cym_x_preferred": ["Klein Rheide"], "name:dan_x_preferred": ["Lille Rejde"], "name:deu_x_preferred": ["Klein Rheide"], "name:eng_x_preferred": ["Klein Rheide"], "name:epo_x_preferred": ["Klein Rheide"], "name:est_x_preferred": ["Klein Rheide"], "name:eus_x_preferred": ["Klein Rheide"], "name:fas_x_preferred": ["\u06a9\u0644\u0627\u06cc\u0646 \u0631\u0647\u0627\u06cc\u062f\u0647"], "name:fin_x_preferred": ["Klein Rheide"], "name:fra_x_preferred": ["Klein Rheide"], "name:frp_x_preferred": ["Klein Rheide"], "name:fur_x_preferred": ["Klein Rheide"], "name:gla_x_preferred": ["Klein Rheide"], "name:gle_x_preferred": ["Klein Rheide"], "name:glg_x_preferred": ["Klein Rheide"], "name:gsw_x_preferred": ["Klein Rheide"], "name:hbs_x_preferred": ["Klein Rheide"], "name:hrv_x_preferred": ["Klein Rheide"], "name:hun_x_preferred": ["Klein Rheide"], "name:ido_x_preferred": ["Klein Rheide"], "name:ile_x_preferred": ["Klein Rheide"], "name:ina_x_preferred": ["Klein Rheide"], "name:ind_x_preferred": ["Klein Rheide"], "name:isl_x_preferred": ["Klein Rheide"], "name:ita_x_preferred": ["Klein Rheide"], "name:kaz_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"], "name:kir_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"], "name:kon_x_preferred": ["Klein Rheide"], "name:lij_x_preferred": ["Klein Rheide"], "name:lim_x_preferred": ["Klein Rheide"], "name:lld_x_preferred": ["Klein Rheide"], "name:ltz_x_preferred": ["Klein Rheide"], "name:min_x_preferred": ["Klein Rheide"], "name:mkd_x_preferred": ["\u041a\u043b\u0430\u0458\u043d \u0420\u0430\u0458\u0434\u0435"], "name:mlg_x_preferred": ["Klein Rheide"], "name:msa_x_preferred": ["Klein Rheide"], "name:nan_x_preferred": ["Klein Rheide"], "name:nap_x_preferred": ["Klein Rheide"], "name:nds_x_preferred": ["Klein Rheide"], "name:nld_x_preferred": ["Klein Rheide"], "name:nno_x_preferred": ["Klein Rheide"], "name:nob_x_preferred": ["Klein Rheide"], "name:nrm_x_preferred": ["Klein Rheide"], "name:oci_x_preferred": ["Klein Rheide"], "name:pcd_x_preferred": ["Klein Rheide"], "name:pms_x_preferred": ["Klein Rheide"], "name:pol_x_preferred": ["Klein Rheide"], "name:por_x_preferred": ["Klein Rheide"], "name:roh_x_preferred": ["Klein Rheide"], "name:ron_x_preferred": ["Klein Rheide"], "name:rus_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"], "name:scn_x_preferred": ["Klein Rheide"], "name:sco_x_preferred": ["Klein Rheide"], "name:slk_x_preferred": ["Klein Rheide"], "name:slv_x_preferred": ["Klein Rheide"], "name:spa_x_preferred": ["Klein Rheide"], "name:srd_x_preferred": ["Klein Rheide"], "name:srp_x_preferred": ["\u041a\u043b\u0430\u0458\u043d \u0420\u0445\u0430\u0458\u0434\u0435"], "name:swa_x_preferred": ["Klein Rheide"], "name:swe_x_preferred": ["Klein Rheide"], "name:tat_x_preferred": ["\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"], "name:tur_x_preferred": ["Klein Rheide"], "name:ukr_x_preferred": ["\u041a\u043b\u044f\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"], "name:uzb_x_preferred": ["Klein Rheide"], "name:vec_x_preferred": ["Klein Rheide"], "name:vie_x_preferred": ["Klein Rheide"], "name:vls_x_preferred": ["Klein Rheide"], "name:vol_x_preferred": ["Klein Rheide"], "name:war_x_preferred": ["Klein Rheide"], "name:wln_x_preferred": ["Klein Rheide"], "name:wol_x_preferred": ["Klein Rheide"], "name:zho_x_preferred": ["\u5c0f\u8d56\u5fb7"], "name:zul_x_preferred": ["Klein Rheide"], "nav:latitude": 54.449479, "nav:longitude": 9.475471, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Schleswig-Holstein", "qs:a1r": "0", "qs:a2": "Schleswig-Flensburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Klein Rheide", "qs:la_lc": "*DE01005934051", "qs:level": "locality", "qs:loc": "Klein Rheide", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6551973, "qs_pg:gn_pop": 339, "qs_pg:name": "Klein Rheide", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 633298, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 40, "wof:belongsto": [85682517, 102191581, 1377684465, 85633111, 102064159], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01059051", "eurostat:nuts_2021_id": "01059051", "gn:id": 2888333, "gp:id": 666564, "qs_pg:id": 93578, "wd:id": "Q545911"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "d212a232ba43d1246320ba6bcf3520ee", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064159, "localadmin_id": 1377684465, "locality_id": 101906447, "region_id": 85682517}], "wof:id": 101906447, "wof:lastmodified": 1690871677, "wof:name": "Klein Rheide", "wof:parent_id": 1377684465, "wof:placetype": "locality", "wof:population": 327, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125278197], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.455619, 54.421127, 9.517736, 54.466482], "geometry": {"coordinates": [[[[9.508065, 54.463241], [9.509887, 54.460409], [9.507736, 54.459468], [9.508915, 54.453138], [9.513193, 54.454043], [9.514459, 54.45056], [9.516239, 54.450888], [9.517736, 54.447434], [9.515052, 54.446893], [9.516083, 54.444935], [9.510232, 54.444153], [9.511877, 54.441598], [9.50594, 54.440563], [9.508575, 54.435871], [9.50397, 54.430564], [9.497925, 54.424995], [9.485621, 54.423452], [9.470712, 54.421127], [9.469405, 54.424468], [9.464962, 54.424172], [9.465222, 54.426158], [9.462426, 54.425893], [9.463037, 54.434391], [9.4611, 54.434232], [9.462486, 54.436793], [9.462521, 54.444263], [9.463413, 54.445599], [9.463888, 54.446312], [9.464186, 54.446737], [9.461927, 54.448433], [9.458805, 54.450113], [9.45562, 54.451829], [9.455619, 54.453121], [9.455935, 54.454067], [9.457708, 54.454037], [9.457797, 54.454154], [9.458498, 54.455138], [9.45867, 54.4569], [9.459152, 54.456724], [9.460553, 54.45617], [9.461685, 54.456484], [9.463184, 54.456937], [9.467289, 54.457985], [9.471223, 54.457146], [9.480722, 54.457529], [9.481916, 54.458499], [9.484503, 54.460522], [9.486057, 54.461917], [9.489303, 54.464151], [9.499263, 54.461331], [9.501237, 54.465916], [9.505816, 54.466482], [9.508065, 54.463241]]]], "type": "MultiPolygon"}}
+{
+  "id": 101906447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01059051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Klein Rheide",
+    "eurostat:nuts_2021_id":"01059051",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF0C",
+    "eurostat:nuts_2021_level_lau":"01059051",
+    "eurostat:population":327,
+    "eurostat:population_year":2020,
+    "geom:area":0.001746,
+    "geom:area_square_m":12557852.406974,
+    "geom:bbox":"9.455619,54.421127,9.517736,54.466482",
+    "geom:latitude":54.443337,
+    "geom:longitude":9.486241,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":339,
+    "iso:country":"DE",
+    "lbl:latitude":54.449479,
+    "lbl:longitude":9.475471,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":54.449479,
+    "mps:longitude":9.475471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:arg_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ast_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:bar_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:bre_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:cat_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ceb_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ces_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"
+    ],
+    "name:cos_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:cym_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:dan_x_preferred":[
+        "Lille Rejde"
+    ],
+    "name:deu_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:eng_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:epo_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:est_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:eus_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u06cc\u0646 \u0631\u0647\u0627\u06cc\u062f\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:fra_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:frp_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:fur_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:gla_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:gle_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:glg_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:gsw_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:hbs_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:hrv_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:hun_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ido_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ile_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ina_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ind_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:isl_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ita_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:lij_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:lim_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:lld_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ltz_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:min_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043b\u0430\u0458\u043d \u0420\u0430\u0458\u0434\u0435"
+    ],
+    "name:mlg_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:msa_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:nan_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:nap_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:nds_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:nld_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:nno_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:nob_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:nrm_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:oci_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:pcd_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:pms_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:pol_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:por_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:roh_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ron_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:sco_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:slk_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:slv_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:spa_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:srd_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0430\u0458\u043d \u0420\u0445\u0430\u0458\u0434\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:swe_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u044f\u0439\u043d-\u0420\u0430\u0439\u0434\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:vec_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:vie_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:vls_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:vol_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:war_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:wln_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:wol_x_preferred":[
+        "Klein Rheide"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u8d56\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Klein Rheide"
+    ],
+    "nav:latitude":54.449479,
+    "nav:longitude":9.475471,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Schleswig-Holstein",
+    "qs:a1r":"0",
+    "qs:a2":"Schleswig-Flensburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Klein Rheide",
+    "qs:la_lc":"*DE01005934051",
+    "qs:level":"locality",
+    "qs:loc":"Klein Rheide",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6551973,
+    "qs_pg:gn_pop":339,
+    "qs_pg:name":"Klein Rheide",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":633298,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377684465,
+        85633111,
+        102064159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01059051",
+        "eurostat:nuts_2021_id":"01059051",
+        "gn:id":2888333,
+        "gp:id":666564,
+        "qs_pg:id":93578,
+        "wd:id":"Q545911"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"d212a232ba43d1246320ba6bcf3520ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064159,
+            "localadmin_id":1377684465,
+            "locality_id":101906447,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":101906447,
+    "wof:lastmodified":1690871677,
+    "wof:name":"Klein Rheide",
+    "wof:parent_id":1377684465,
+    "wof:placetype":"locality",
+    "wof:population":327,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125278197
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.455619,
+    54.421127,
+    9.517736,
+    54.466482
+],
+  "geometry": {"coordinates":[[[[9.508065,54.463241],[9.509887,54.460409],[9.507736,54.459468],[9.508915,54.453138],[9.513193,54.454043],[9.514459,54.45056],[9.516239,54.450888],[9.517736,54.447434],[9.515052,54.446893],[9.516083,54.444935],[9.510232,54.444153],[9.511877,54.441598],[9.50594,54.440563],[9.508575,54.435871],[9.50397,54.430564],[9.497925,54.424995],[9.485621,54.423452],[9.470712,54.421127],[9.469405,54.424468],[9.464962,54.424172],[9.465222,54.426158],[9.462426,54.425893],[9.463037,54.434391],[9.4611,54.434232],[9.462486,54.436793],[9.462521,54.444263],[9.463413,54.445599],[9.463888,54.446312],[9.464186,54.446737],[9.461927,54.448433],[9.458805,54.450113],[9.45562,54.451829],[9.455619,54.453121],[9.455935,54.454067],[9.457708,54.454037],[9.457797,54.454154],[9.458498,54.455138],[9.45867,54.4569],[9.459152,54.456724],[9.460553,54.45617],[9.461685,54.456484],[9.463184,54.456937],[9.467289,54.457985],[9.471223,54.457146],[9.480722,54.457529],[9.481916,54.458499],[9.484503,54.460522],[9.486057,54.461917],[9.489303,54.464151],[9.499263,54.461331],[9.501237,54.465916],[9.505816,54.466482],[9.508065,54.463241]]]],"type":"MultiPolygon"}
+}

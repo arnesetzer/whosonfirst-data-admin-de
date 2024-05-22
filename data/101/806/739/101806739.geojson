@@ -1,1 +1,405 @@
-{"id": 101806739, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01060004", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Bramstedt, Stadt", "eurostat:nuts_2021_id": "01060004", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF0D", "eurostat:nuts_2021_level_lau": "01060004", "eurostat:population": 14773, "eurostat:population_year": 2020, "geom:area": 0.003276, "geom:area_square_m": 23860041.291247, "geom:bbox": "9.851733,53.887431,9.953318,53.944065", "geom:latitude": 53.911009, "geom:longitude": 9.904334, "gn:country": null, "gn:population": 13177, "iso:country": "DE", "lbl:latitude": 53.917208, "lbl:longitude": 9.880338, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 53.917208, "mps:longitude": 9.880338, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:afr_x_preferred": ["Bad Bramstedt"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0628\u0631\u0627\u0645\u0634\u062a\u064a\u062a"], "name:arg_x_preferred": ["Bad Bramstedt"], "name:ast_x_preferred": ["Bad Bramstedt"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0628\u0631\u0627\u0645\u200c\u0627\u0634\u062a\u062a"], "name:bar_x_preferred": ["Bad Bramstedt"], "name:bre_x_preferred": ["Bad Bramstedt"], "name:cat_x_preferred": ["Bad Bramstedt"], "name:ceb_x_preferred": ["Bad Bramstedt"], "name:ces_x_preferred": ["Bad Bramstedt"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0434\u0442"], "name:cos_x_preferred": ["Bad Bramstedt"], "name:cym_x_preferred": ["Bad Bramstedt"], "name:dan_x_preferred": ["Bad Bramstedt"], "name:deu_x_preferred": ["Bad Bramstedt"], "name:eng_x_preferred": ["Bad Bramstedt"], "name:epo_x_preferred": ["Bad Bramstedt"], "name:est_x_preferred": ["Bad Bramstedt"], "name:eus_x_preferred": ["Bad Bramstedt"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0628\u0631\u0627\u0645\u200c\u0627\u0634\u062a\u062a"], "name:fin_x_preferred": ["Bad Bramstedt"], "name:fra_x_preferred": ["Bad Bramstedt"], "name:frp_x_preferred": ["Bad Bramstedt"], "name:fur_x_preferred": ["Bad Bramstedt"], "name:gla_x_preferred": ["Bad Bramstedt"], "name:gle_x_preferred": ["Bad Bramstedt"], "name:glg_x_preferred": ["Bad Bramstedt"], "name:gsw_x_preferred": ["Bad Bramstedt"], "name:hbs_x_preferred": ["Bad Bramstedt"], "name:hrv_x_preferred": ["Bad Bramstedt"], "name:hun_x_preferred": ["Bad Bramstedt"], "name:ido_x_preferred": ["Bad Bramstedt"], "name:ile_x_preferred": ["Bad Bramstedt"], "name:ina_x_preferred": ["Bad Bramstedt"], "name:ind_x_preferred": ["Bad Bramstedt"], "name:isl_x_preferred": ["Bad Bramstedt"], "name:ita_x_preferred": ["Bad Bramstedt"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30d6\u30e9\u30e0\u30b7\u30e5\u30c6\u30c3\u30c8"], "name:kat_x_preferred": ["\u10d1\u10d0\u10d3-\u10d1\u10e0\u10d0\u10db\u10e8\u10e2\u10d4\u10d3\u10e2\u10d8"], "name:kon_x_preferred": ["Bad Bramstedt"], "name:kur_x_preferred": ["Bad Bramstedt"], "name:lij_x_preferred": ["Bad Bramstedt"], "name:lim_x_preferred": ["Bad Bramstedt"], "name:lld_x_preferred": ["Bad Bramstedt"], "name:ltz_x_preferred": ["Bad Bramstedt"], "name:min_x_preferred": ["Bad Bramstedt"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0442"], "name:mlg_x_preferred": ["Bad Bramstedt"], "name:msa_x_preferred": ["Bad Bramstedt"], "name:nap_x_preferred": ["Bad Bramstedt"], "name:nds_x_preferred": ["Bad Braamsteed"], "name:nld_x_preferred": ["Bad Bramstedt"], "name:nno_x_preferred": ["Bad Bramstedt"], "name:nob_x_preferred": ["Bad Bramstedt"], "name:nor_x_preferred": ["Bad Bramstedt"], "name:nrm_x_preferred": ["Bad Bramstedt"], "name:oci_x_preferred": ["Bad Bramstedt"], "name:pcd_x_preferred": ["Bad Bramstedt"], "name:pms_x_preferred": ["Bad Bramstedt"], "name:pol_x_preferred": ["Bad Bramstedt"], "name:por_x_preferred": ["Bad Bramstedt"], "name:roh_x_preferred": ["Bad Bramstedt"], "name:ron_x_preferred": ["Bad Bramstedt"], "name:rup_x_preferred": ["Bad Bramstedt"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0434\u0442"], "name:scn_x_preferred": ["Bad Bramstedt"], "name:sco_x_preferred": ["Bad Bramstedt"], "name:slk_x_preferred": ["Bad Bramstedt"], "name:slv_x_preferred": ["Bad Bramstedt"], "name:spa_x_preferred": ["Bad Bramstedt"], "name:srd_x_preferred": ["Bad Bramstedt"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0442"], "name:swa_x_preferred": ["Bad Bramstedt"], "name:swe_x_preferred": ["Bad Bramstedt"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0434\u0442"], "name:tum_x_preferred": ["Bad Bramstedt"], "name:tur_x_preferred": ["Bad Bramstedt"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["Bad Bramstedt"], "name:vec_x_preferred": ["Bad Bramstedt"], "name:vie_x_preferred": ["Bad Bramstedt"], "name:vls_x_preferred": ["Bad Bramstedt"], "name:vol_x_preferred": ["Bad Bramstedt"], "name:war_x_preferred": ["Bad Bramstedt"], "name:wln_x_preferred": ["Bad Bramstedt"], "name:wol_x_preferred": ["Bad Bramstedt"], "name:zho_x_preferred": ["\u5df4\u7279\u5e03\u62c9\u59c6\u65bd\u6cf0\u7279"], "name:zho_x_variant": ["\u5df4\u5fb7\u5e03\u62c9\u59c6\u65af\u7279"], "name:zul_x_preferred": ["Bad Bramstedt"], "nav:latitude": 53.917208, "nav:longitude": 9.880338, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Schleswig-Holstein", "qs:a1r": "0", "qs:a2": "Segeberg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Lentf\u00f6hrden", "qs:la_lc": "*DE01006043054", "qs:level": "locality", "qs:loc": "Bad Bramstedt", "qs:loc_alt": "Bad Bramstedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:name": "Gemeinde Bad Bramstedt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Schleswig-Holstein", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 272, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1312118, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12631657, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 212, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Schleswig-Holstein", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682517, 102191581, 1377684473, 85633111, 102064103], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01060004", "eurostat:nuts_2021_id": "01060004", "gn:id": 2953537, "gp:id": 636401, "qs_pg:id": 142914, "wd:id": "Q523987", "wk:page": "Bad Bramstedt"}, "wof:coterminous": [1377684473], "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "07329dc65c7014bd8cdc0df92bdc7062", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064103, "localadmin_id": 1377684473, "locality_id": 101806739, "region_id": 85682517}], "wof:id": 101806739, "wof:lastmodified": 1690873641, "wof:name": "Bad Bramstedt", "wof:parent_id": 1377684473, "wof:placetype": "locality", "wof:population": 14773, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125338509], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.851733, 53.887431, 9.953318, 53.944065], "geometry": {"coordinates": [[[[9.952191, 53.910271], [9.952386, 53.908089], [9.950372, 53.902511], [9.947449, 53.894333], [9.944692, 53.894725], [9.942828, 53.894168], [9.943837, 53.892565], [9.938876, 53.891626], [9.940017, 53.889242], [9.937178, 53.88887], [9.935033, 53.890145], [9.927273, 53.888151], [9.927295, 53.887648], [9.919193, 53.887431], [9.916647, 53.887886], [9.91339, 53.888086], [9.910671, 53.887885], [9.908834, 53.887642], [9.907458, 53.888202], [9.906419, 53.888574], [9.905434, 53.889432], [9.902272, 53.8916], [9.899434, 53.893347], [9.895294, 53.895752], [9.893596, 53.896498], [9.88947, 53.897871], [9.888338, 53.898278], [9.887994, 53.898995], [9.887902, 53.900136], [9.887565, 53.900278], [9.886127, 53.89975], [9.884761, 53.900677], [9.881502, 53.899825], [9.880508, 53.896991], [9.87749, 53.896428], [9.868329, 53.894675], [9.864066, 53.893935], [9.858894, 53.891905], [9.854662, 53.894263], [9.851733, 53.895865], [9.852961, 53.902268], [9.855286, 53.907535], [9.863065, 53.906155], [9.863534, 53.909473], [9.864656, 53.909712], [9.865359, 53.91162], [9.864858, 53.916729], [9.862816, 53.916898], [9.861298, 53.919847], [9.861124, 53.920222], [9.865028, 53.920727], [9.864228, 53.921879], [9.863443, 53.922938], [9.865595, 53.923532], [9.865395, 53.923729], [9.86536, 53.926082], [9.86642, 53.926438], [9.866746, 53.927478], [9.870197, 53.927514], [9.870281, 53.926835], [9.874435, 53.92691], [9.876875, 53.927578], [9.877106, 53.928495], [9.875749, 53.929701], [9.876699, 53.931377], [9.877872, 53.931311], [9.885049, 53.93078], [9.890574, 53.930834], [9.892236, 53.930609], [9.893109, 53.932437], [9.902863, 53.932646], [9.907075, 53.931875], [9.90849, 53.934172], [9.907345, 53.934383], [9.907032, 53.934983], [9.905427, 53.935469], [9.905992, 53.938679], [9.911777, 53.939847], [9.913764, 53.943746], [9.915589, 53.944027], [9.916744, 53.944065], [9.918998, 53.944022], [9.921748, 53.943352], [9.915556, 53.938473], [9.918107, 53.937856], [9.922789, 53.93609], [9.925346, 53.934961], [9.926378, 53.934041], [9.925833, 53.933822], [9.92664, 53.932685], [9.927745, 53.93084], [9.92898, 53.929525], [9.9306, 53.930134], [9.930256, 53.928525], [9.927438, 53.92756], [9.926794, 53.926766], [9.926802, 53.926111], [9.926564, 53.92575], [9.926631, 53.925239], [9.927123, 53.924864], [9.926704, 53.924323], [9.926648, 53.923945], [9.927355, 53.923472], [9.928718, 53.923955], [9.929383, 53.923149], [9.929787, 53.922531], [9.929886, 53.921966], [9.929236, 53.921577], [9.928762, 53.920622], [9.928998, 53.920012], [9.929997, 53.919253], [9.930722, 53.918547], [9.930734, 53.917595], [9.930842, 53.916311], [9.931105, 53.916043], [9.93149, 53.915649], [9.932381, 53.914989], [9.933754, 53.914752], [9.935519, 53.914715], [9.937543, 53.914724], [9.937695, 53.914725], [9.938059, 53.914799], [9.93938, 53.915065], [9.939624, 53.915021], [9.940672, 53.91517], [9.941873, 53.915265], [9.943807, 53.91513], [9.945054, 53.915162], [9.946469, 53.915196], [9.947517, 53.91529], [9.948318, 53.91577], [9.949115, 53.916483], [9.950066, 53.917062], [9.952163, 53.917359], [9.953318, 53.917454], [9.952924, 53.914892], [9.951942, 53.914366], [9.952191, 53.910271]]]], "type": "MultiPolygon"}}
+{
+  "id": 101806739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01060004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Bramstedt, Stadt",
+    "eurostat:nuts_2021_id":"01060004",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF0D",
+    "eurostat:nuts_2021_level_lau":"01060004",
+    "eurostat:population":14773,
+    "eurostat:population_year":2020,
+    "geom:area":0.003276,
+    "geom:area_square_m":23860041.291247,
+    "geom:bbox":"9.851733,53.887431,9.953318,53.944065",
+    "geom:latitude":53.911009,
+    "geom:longitude":9.904334,
+    "gn:country":null,
+    "gn:population":13177,
+    "iso:country":"DE",
+    "lbl:latitude":53.917208,
+    "lbl:longitude":9.880338,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":53.917208,
+    "mps:longitude":9.880338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0631\u0627\u0645\u0634\u062a\u064a\u062a"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0631\u0627\u0645\u200c\u0627\u0634\u062a\u062a"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:est_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0631\u0627\u0645\u200c\u0627\u0634\u062a\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30d6\u30e9\u30e0\u30b7\u30e5\u30c6\u30c3\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d3-\u10d1\u10e0\u10d0\u10db\u10e8\u10e2\u10d4\u10d3\u10e2\u10d8"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:min_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0442"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Braamsteed"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:nor_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:por_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:rup_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0440\u0430\u043c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:war_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u5e03\u62c9\u59c6\u65bd\u6cf0\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u5e03\u62c9\u59c6\u65af\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Bramstedt"
+    ],
+    "nav:latitude":53.917208,
+    "nav:longitude":9.880338,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Schleswig-Holstein",
+    "qs:a1r":"0",
+    "qs:a2":"Segeberg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Lentf\u00f6hrden",
+    "qs:la_lc":"*DE01006043054",
+    "qs:level":"locality",
+    "qs:loc":"Bad Bramstedt",
+    "qs:loc_alt":"Bad Bramstedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Gemeinde Bad Bramstedt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Schleswig-Holstein",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":272,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1312118,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12631657,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":212,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Schleswig-Holstein",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377684473,
+        85633111,
+        102064103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01060004",
+        "eurostat:nuts_2021_id":"01060004",
+        "gn:id":2953537,
+        "gp:id":636401,
+        "qs_pg:id":142914,
+        "wd:id":"Q523987",
+        "wk:page":"Bad Bramstedt"
+    },
+    "wof:coterminous":[
+        1377684473
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"07329dc65c7014bd8cdc0df92bdc7062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064103,
+            "localadmin_id":1377684473,
+            "locality_id":101806739,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":101806739,
+    "wof:lastmodified":1690873641,
+    "wof:name":"Bad Bramstedt",
+    "wof:parent_id":1377684473,
+    "wof:placetype":"locality",
+    "wof:population":14773,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125338509
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.851733,
+    53.887431,
+    9.953318,
+    53.944065
+],
+  "geometry": {"coordinates":[[[[9.952191,53.910271],[9.952386,53.908089],[9.950372,53.902511],[9.947449,53.894333],[9.944692,53.894725],[9.942828,53.894168],[9.943837,53.892565],[9.938876,53.891626],[9.940017,53.889242],[9.937178,53.88887],[9.935033,53.890145],[9.927273,53.888151],[9.927295,53.887648],[9.919193,53.887431],[9.916647,53.887886],[9.91339,53.888086],[9.910671,53.887885],[9.908834,53.887642],[9.907458,53.888202],[9.906419,53.888574],[9.905434,53.889432],[9.902272,53.8916],[9.899434,53.893347],[9.895294,53.895752],[9.893596,53.896498],[9.88947,53.897871],[9.888338,53.898278],[9.887994,53.898995],[9.887902,53.900136],[9.887565,53.900278],[9.886127,53.89975],[9.884761,53.900677],[9.881502,53.899825],[9.880508,53.896991],[9.87749,53.896428],[9.868329,53.894675],[9.864066,53.893935],[9.858894,53.891905],[9.854662,53.894263],[9.851733,53.895865],[9.852961,53.902268],[9.855286,53.907535],[9.863065,53.906155],[9.863534,53.909473],[9.864656,53.909712],[9.865359,53.91162],[9.864858,53.916729],[9.862816,53.916898],[9.861298,53.919847],[9.861124,53.920222],[9.865028,53.920727],[9.864228,53.921879],[9.863443,53.922938],[9.865595,53.923532],[9.865395,53.923729],[9.86536,53.926082],[9.86642,53.926438],[9.866746,53.927478],[9.870197,53.927514],[9.870281,53.926835],[9.874435,53.92691],[9.876875,53.927578],[9.877106,53.928495],[9.875749,53.929701],[9.876699,53.931377],[9.877872,53.931311],[9.885049,53.93078],[9.890574,53.930834],[9.892236,53.930609],[9.893109,53.932437],[9.902863,53.932646],[9.907075,53.931875],[9.90849,53.934172],[9.907345,53.934383],[9.907032,53.934983],[9.905427,53.935469],[9.905992,53.938679],[9.911777,53.939847],[9.913764,53.943746],[9.915589,53.944027],[9.916744,53.944065],[9.918998,53.944022],[9.921748,53.943352],[9.915556,53.938473],[9.918107,53.937856],[9.922789,53.93609],[9.925346,53.934961],[9.926378,53.934041],[9.925833,53.933822],[9.92664,53.932685],[9.927745,53.93084],[9.92898,53.929525],[9.9306,53.930134],[9.930256,53.928525],[9.927438,53.92756],[9.926794,53.926766],[9.926802,53.926111],[9.926564,53.92575],[9.926631,53.925239],[9.927123,53.924864],[9.926704,53.924323],[9.926648,53.923945],[9.927355,53.923472],[9.928718,53.923955],[9.929383,53.923149],[9.929787,53.922531],[9.929886,53.921966],[9.929236,53.921577],[9.928762,53.920622],[9.928998,53.920012],[9.929997,53.919253],[9.930722,53.918547],[9.930734,53.917595],[9.930842,53.916311],[9.931105,53.916043],[9.93149,53.915649],[9.932381,53.914989],[9.933754,53.914752],[9.935519,53.914715],[9.937543,53.914724],[9.937695,53.914725],[9.938059,53.914799],[9.93938,53.915065],[9.939624,53.915021],[9.940672,53.91517],[9.941873,53.915265],[9.943807,53.91513],[9.945054,53.915162],[9.946469,53.915196],[9.947517,53.91529],[9.948318,53.91577],[9.949115,53.916483],[9.950066,53.917062],[9.952163,53.917359],[9.953318,53.917454],[9.952924,53.914892],[9.951942,53.914366],[9.952191,53.910271]]]],"type":"MultiPolygon"}
+}

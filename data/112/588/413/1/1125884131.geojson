@@ -1,1 +1,210 @@
-{"id": 1125884131, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_13072003", "eurostat:level_code": "lau", "eurostat:name_local": "Alt S\u00fchrkow", "eurostat:nuts_2021_id": "13072003", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE8", "eurostat:nuts_2021_level_2": "DE80", "eurostat:nuts_2021_level_3": "DE80K", "eurostat:nuts_2021_level_lau": "13072003", "eurostat:population": 392, "eurostat:population_year": 2020, "geom:area": 0.003468, "geom:area_square_m": 25322061.731293, "geom:bbox": "12.591646,53.768744,12.704431,53.828495", "geom:latitude": 53.801745, "geom:longitude": 12.65901, "gn:country": "DE", "gn:fcode": "PPLA4", "gn:population": 471, "iso:country": "DE", "lbl:latitude": 53.8, "lbl:longitude": 12.65, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:cat_x_preferred": ["Alt S\u00fchrkow"], "name:ceb_x_preferred": ["Alt S\u00fchrkow"], "name:che_x_preferred": ["\u0410\u043b\u044c\u0442-\u0417\u0443\u044c\u0440\u043a\u043e\u0432"], "name:deu_x_preferred": ["Alt S\u00fchrkow"], "name:eng_x_preferred": ["Alt S\u00fchrkow"], "name:epo_x_preferred": ["Alt S\u00fchrkow"], "name:fas_x_preferred": ["\u0627\u0644\u062a \u0633\u0648\u0647\u0631\u06a9\u0648"], "name:fra_x_preferred": ["Alt S\u00fchrkow"], "name:hun_x_preferred": ["Alt S\u00fchrkow"], "name:ile_x_preferred": ["Alt S\u00fchrkow"], "name:ita_x_preferred": ["Alt S\u00fchrkow"], "name:kaz_x_preferred": ["\u0410\u043b\u044c\u0442-\u0417\u044e\u0440\u043a\u043e\u0432"], "name:kir_x_preferred": ["\u0410\u043b\u044c\u0442-\u0417\u04af\u0440\u043a\u043e\u0432"], "name:kur_x_preferred": ["Alt S\u00fchrkow"], "name:lld_x_preferred": ["Alt S\u00fchrkow"], "name:mkd_x_preferred": ["\u0410\u043b\u0442 \u0417\u0438\u0440\u043a\u043e\u0432"], "name:msa_x_preferred": ["Alt S\u00fchrkow"], "name:nld_x_preferred": ["Alt S\u00fchrkow"], "name:nob_x_preferred": ["Alt S\u00fchrkow"], "name:pms_x_preferred": ["Alt S\u00fchrkow"], "name:pol_x_preferred": ["Alt S\u00fchrkow"], "name:por_x_preferred": ["Alt S\u00fchrkow"], "name:ron_x_preferred": ["Alt S\u00fchrkow"], "name:rus_x_preferred": ["\u0410\u043b\u044c\u0442-\u0417\u044e\u0440\u043a\u043e\u0432"], "name:spa_x_preferred": ["Alt S\u00fchrkow"], "name:srp_x_preferred": ["\u0410\u043b\u0442 \u0417\u0438\u0440\u043a\u043e\u0432"], "name:swe_x_preferred": ["Alt S\u00fchrkow"], "name:tat_x_preferred": ["\u0410\u043b\u044c\u0442-\u0417\u044e\u0440\u043a\u043e\u0432"], "name:ukr_x_preferred": ["\u0410\u043b\u044c\u0442-\u0417\u044e\u0440\u043a\u043e\u0432"], "name:uzb_x_preferred": ["Alt S\u00fchrkow"], "name:vie_x_preferred": ["Alt S\u00fchrkow"], "name:vol_x_preferred": ["Alt S\u00fchrkow"], "name:war_x_preferred": ["Alt S\u00fchrkow"], "name:zho_x_preferred": ["\u65e7\u53d9\u8d6b\u5c14\u79d1"], "nav:latitude": 53.8, "nav:longitude": 12.65, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLA4", "qs_pg:gn_id": 2956808, "qs_pg:gn_pop": 471, "qs_pg:name": "Alt S\u00fchrkow", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 374544, "qs_pg:qs_pg_placetype": "locality", "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682487, 102191581, 1377684695, 85633111, 1377675573], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_13072003", "eurostat:nuts_2021_id": "13072003", "gn:id": 2956808, "qs_pg:id": 374544, "wd:id": "Q433370"}, "wof:country": "DE", "wof:created": 1497294990, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "ff532a4391aae3aa8f301eadfb687dd3", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675573, "localadmin_id": 1377684695, "locality_id": 1125884131, "region_id": 85682487}], "wof:id": 1125884131, "wof:lastmodified": 1690874221, "wof:name": "Alt S\u00fchrkow", "wof:parent_id": 1377684695, "wof:placetype": "locality", "wof:population": 392, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125336071], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.591646, 53.768744, 12.704431, 53.828495], "geometry": {"coordinates": [[[[12.703661, 53.814466], [12.703752, 53.81025], [12.703641, 53.807474], [12.704431, 53.806283], [12.70369, 53.804831], [12.703202, 53.803294], [12.703265, 53.802736], [12.70172, 53.801622], [12.700947, 53.800746], [12.700834, 53.799714], [12.702358, 53.798617], [12.7023, 53.796282], [12.702666, 53.79481], [12.703292, 53.793388], [12.70313, 53.786884], [12.701007, 53.785124], [12.699014, 53.784125], [12.696804, 53.783023], [12.696428, 53.781601], [12.696087, 53.779647], [12.695373, 53.778438], [12.695209, 53.777587], [12.697107, 53.776403], [12.698638, 53.77579], [12.699019, 53.775379], [12.699074, 53.774879], [12.698762, 53.774266], [12.698168, 53.773635], [12.697581, 53.773146], [12.696577, 53.772511], [12.696203, 53.7721], [12.696222, 53.771672], [12.696239, 53.771219], [12.69578, 53.770871], [12.695198, 53.770477], [12.694385, 53.770277], [12.692935, 53.770392], [12.689739, 53.772012], [12.684118, 53.769136], [12.682399, 53.768744], [12.681422, 53.769543], [12.679033, 53.769082], [12.674632, 53.769662], [12.669277, 53.770897], [12.666845, 53.771009], [12.662606, 53.771293], [12.66066, 53.770904], [12.658157, 53.771277], [12.657719, 53.772164], [12.655645, 53.774262], [12.656011, 53.775197], [12.656452, 53.780235], [12.65657, 53.784205], [12.658684, 53.784303], [12.659569, 53.785321], [12.659333, 53.786359], [12.661439, 53.78661], [12.663453, 53.787114], [12.664252, 53.790983], [12.66393, 53.793056], [12.663461, 53.794601], [12.65113, 53.796055], [12.647606, 53.794777], [12.644974, 53.794346], [12.638985, 53.794791], [12.639016, 53.797271], [12.628302, 53.799837], [12.629401, 53.800582], [12.629699, 53.800784], [12.619723, 53.800433], [12.615264, 53.800204], [12.611134, 53.799878], [12.603917, 53.799453], [12.60031, 53.803772], [12.601381, 53.80416], [12.591646, 53.810723], [12.60012, 53.81546], [12.604234, 53.812281], [12.611157, 53.815076], [12.612745, 53.817125], [12.612559, 53.817973], [12.612307, 53.819046], [12.612628, 53.82002], [12.613378, 53.820772], [12.618128, 53.823189], [12.619858, 53.824076], [12.623844, 53.824215], [12.627979, 53.824585], [12.630037, 53.825367], [12.632772, 53.825985], [12.636291, 53.8265], [12.638689, 53.827079], [12.642213, 53.827692], [12.645794, 53.828215], [12.65053, 53.828151], [12.652462, 53.828495], [12.669761, 53.821714], [12.670864, 53.820688], [12.672639, 53.818518], [12.672601, 53.817458], [12.672697, 53.816935], [12.673445, 53.81641], [12.674613, 53.815464], [12.674918, 53.814874], [12.674732, 53.814203], [12.673667, 53.812946], [12.674411, 53.812645], [12.676596, 53.812598], [12.678586, 53.812608], [12.680218, 53.812759], [12.681927, 53.813223], [12.684473, 53.813718], [12.686133, 53.814111], [12.686975, 53.81424], [12.689023, 53.814204], [12.690265, 53.814146], [12.693622, 53.814446], [12.696582, 53.81443], [12.698021, 53.814656], [12.703661, 53.814466]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125884131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_13072003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alt S\u00fchrkow",
+    "eurostat:nuts_2021_id":"13072003",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE8",
+    "eurostat:nuts_2021_level_2":"DE80",
+    "eurostat:nuts_2021_level_3":"DE80K",
+    "eurostat:nuts_2021_level_lau":"13072003",
+    "eurostat:population":392,
+    "eurostat:population_year":2020,
+    "geom:area":0.003468,
+    "geom:area_square_m":25322061.731293,
+    "geom:bbox":"12.591646,53.768744,12.704431,53.828495",
+    "geom:latitude":53.801745,
+    "geom:longitude":12.65901,
+    "gn:country":"DE",
+    "gn:fcode":"PPLA4",
+    "gn:population":471,
+    "iso:country":"DE",
+    "lbl:latitude":53.8,
+    "lbl:longitude":12.65,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:ceb_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0417\u0443\u044c\u0440\u043a\u043e\u0432"
+    ],
+    "name:deu_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:eng_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:epo_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a \u0633\u0648\u0647\u0631\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:hun_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:ile_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:ita_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0417\u044e\u0440\u043a\u043e\u0432"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0417\u04af\u0440\u043a\u043e\u0432"
+    ],
+    "name:kur_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:lld_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0442 \u0417\u0438\u0440\u043a\u043e\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:nld_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:nob_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:pms_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:pol_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:por_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:ron_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0417\u044e\u0440\u043a\u043e\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0442 \u0417\u0438\u0440\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0417\u044e\u0440\u043a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0417\u044e\u0440\u043a\u043e\u0432"
+    ],
+    "name:uzb_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:vie_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:vol_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:war_x_preferred":[
+        "Alt S\u00fchrkow"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e7\u53d9\u8d6b\u5c14\u79d1"
+    ],
+    "nav:latitude":53.8,
+    "nav:longitude":12.65,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLA4",
+    "qs_pg:gn_id":2956808,
+    "qs_pg:gn_pop":471,
+    "qs_pg:name":"Alt S\u00fchrkow",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":374544,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377684695,
+        85633111,
+        1377675573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_13072003",
+        "eurostat:nuts_2021_id":"13072003",
+        "gn:id":2956808,
+        "qs_pg:id":374544,
+        "wd:id":"Q433370"
+    },
+    "wof:country":"DE",
+    "wof:created":1497294990,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"ff532a4391aae3aa8f301eadfb687dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675573,
+            "localadmin_id":1377684695,
+            "locality_id":1125884131,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":1125884131,
+    "wof:lastmodified":1690874221,
+    "wof:name":"Alt S\u00fchrkow",
+    "wof:parent_id":1377684695,
+    "wof:placetype":"locality",
+    "wof:population":392,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125336071
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.591646,
+    53.768744,
+    12.704431,
+    53.828495
+],
+  "geometry": {"coordinates":[[[[12.703661,53.814466],[12.703752,53.81025],[12.703641,53.807474],[12.704431,53.806283],[12.70369,53.804831],[12.703202,53.803294],[12.703265,53.802736],[12.70172,53.801622],[12.700947,53.800746],[12.700834,53.799714],[12.702358,53.798617],[12.7023,53.796282],[12.702666,53.79481],[12.703292,53.793388],[12.70313,53.786884],[12.701007,53.785124],[12.699014,53.784125],[12.696804,53.783023],[12.696428,53.781601],[12.696087,53.779647],[12.695373,53.778438],[12.695209,53.777587],[12.697107,53.776403],[12.698638,53.77579],[12.699019,53.775379],[12.699074,53.774879],[12.698762,53.774266],[12.698168,53.773635],[12.697581,53.773146],[12.696577,53.772511],[12.696203,53.7721],[12.696222,53.771672],[12.696239,53.771219],[12.69578,53.770871],[12.695198,53.770477],[12.694385,53.770277],[12.692935,53.770392],[12.689739,53.772012],[12.684118,53.769136],[12.682399,53.768744],[12.681422,53.769543],[12.679033,53.769082],[12.674632,53.769662],[12.669277,53.770897],[12.666845,53.771009],[12.662606,53.771293],[12.66066,53.770904],[12.658157,53.771277],[12.657719,53.772164],[12.655645,53.774262],[12.656011,53.775197],[12.656452,53.780235],[12.65657,53.784205],[12.658684,53.784303],[12.659569,53.785321],[12.659333,53.786359],[12.661439,53.78661],[12.663453,53.787114],[12.664252,53.790983],[12.66393,53.793056],[12.663461,53.794601],[12.65113,53.796055],[12.647606,53.794777],[12.644974,53.794346],[12.638985,53.794791],[12.639016,53.797271],[12.628302,53.799837],[12.629401,53.800582],[12.629699,53.800784],[12.619723,53.800433],[12.615264,53.800204],[12.611134,53.799878],[12.603917,53.799453],[12.60031,53.803772],[12.601381,53.80416],[12.591646,53.810723],[12.60012,53.81546],[12.604234,53.812281],[12.611157,53.815076],[12.612745,53.817125],[12.612559,53.817973],[12.612307,53.819046],[12.612628,53.82002],[12.613378,53.820772],[12.618128,53.823189],[12.619858,53.824076],[12.623844,53.824215],[12.627979,53.824585],[12.630037,53.825367],[12.632772,53.825985],[12.636291,53.8265],[12.638689,53.827079],[12.642213,53.827692],[12.645794,53.828215],[12.65053,53.828151],[12.652462,53.828495],[12.669761,53.821714],[12.670864,53.820688],[12.672639,53.818518],[12.672601,53.817458],[12.672697,53.816935],[12.673445,53.81641],[12.674613,53.815464],[12.674918,53.814874],[12.674732,53.814203],[12.673667,53.812946],[12.674411,53.812645],[12.676596,53.812598],[12.678586,53.812608],[12.680218,53.812759],[12.681927,53.813223],[12.684473,53.813718],[12.686133,53.814111],[12.686975,53.81424],[12.689023,53.814204],[12.690265,53.814146],[12.693622,53.814446],[12.696582,53.81443],[12.698021,53.814656],[12.703661,53.814466]]]],"type":"MultiPolygon"}
+}

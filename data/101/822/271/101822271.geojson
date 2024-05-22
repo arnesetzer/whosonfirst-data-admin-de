@@ -1,1 +1,155 @@
-{"id": 101822271, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000106, "geom:area_square_m": 817001.248086, "geom:bbox": "11.727018,51.499994,11.748685,51.507032", "geom:latitude": 51.503352, "geom:longitude": 11.738917, "gn:population": 1645, "iso:country": "DE", "lbl:latitude": 51.503538, "lbl:longitude": 11.738917, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 51.503538, "mps:longitude": 11.738917, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0425\u0451\u043d\u0448\u0442\u0435\u0434\u0442"], "name:ceb_x_preferred": ["H\u00f6hnstedt"], "name:che_x_preferred": ["\u0425\u043e\u044c\u043d\u0448\u0442\u0435\u0434\u0442"], "name:deu_x_preferred": ["H\u00f6hnstedt"], "name:eng_x_preferred": ["H\u00f6hnstedt"], "name:epo_x_preferred": ["H\u00f6hnstedt"], "name:fas_x_preferred": ["\u0647\u0648\u0647\u0646\u0634\u062a\u062f\u062a"], "name:fra_x_preferred": ["H\u00f6hnstedt"], "name:gle_x_preferred": ["H\u00f6hnstedt"], "name:ita_x_preferred": ["H\u00f6hnstedt"], "name:kaz_x_preferred": ["\u0425\u0451\u043d\u0448\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u0425\u04e9\u043d\u0448\u0442\u0435\u0434\u0442"], "name:mkd_x_preferred": ["\u0425\u0435\u043d\u0448\u0442\u0435\u0442"], "name:nld_x_preferred": ["H\u00f6hnstedt"], "name:pol_x_preferred": ["H\u00f6hnstedt"], "name:ron_x_preferred": ["H\u00f6hnstedt"], "name:rus_x_preferred": ["\u0425\u0451\u043d\u0448\u0442\u0435\u0434\u0442"], "name:tat_x_preferred": ["\u0425\u0451\u043d\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["H\u00f6hnstedt"], "name:vie_x_preferred": ["H\u00f6hnstedt"], "name:vol_x_preferred": ["H\u00f6hnstedt"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Saalekreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "H\u00f6hnstedt", "qs:la_lc": "*DE15008812140", "qs:level": "locality", "qs:loc": "H\u00f6hnstedt", "qs:loc_alt": "Hoehnstedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 27, "wof:belongsto": [85682519, 102191581, 1377688915, 85633111, 102063817], "wof:breaches": [], "wof:concordances": {"gn:id": 2900849, "gp:id": 661481, "qs_pg:id": 24600, "wd:id": "Q689571", "wk:page": "H\u00f6hnstedt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "fdeda977ab7a081e704b7358eb3e0e7b", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063817, "localadmin_id": 1377688915, "locality_id": 101822271, "region_id": 85682519}], "wof:id": 101822271, "wof:lastmodified": 1690873462, "wof:name": "H\u00f6hnstedt", "wof:parent_id": 1377688915, "wof:placetype": "locality", "wof:population": 1645, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.727018, 51.499994, 11.748685, 51.507032], "geometry": {"coordinates": [[[11.74728, 51.50701], [11.747245, 51.506112], [11.748685, 51.50609], [11.748479, 51.500699], [11.735521, 51.500892], [11.735487, 51.499994], [11.729728, 51.500079], [11.729864, 51.503673], [11.728424, 51.503694], [11.728458, 51.504593], [11.727018, 51.504614], [11.727052, 51.505513], [11.735692, 51.505385], [11.735726, 51.506283], [11.745805, 51.506133], [11.74584, 51.507032], [11.74728, 51.50701]]], "type": "Polygon"}}
+{
+  "id": 101822271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":817001.248086,
+    "geom:bbox":"11.727018,51.499994,11.748685,51.507032",
+    "geom:latitude":51.503352,
+    "geom:longitude":11.738917,
+    "gn:population":1645,
+    "iso:country":"DE",
+    "lbl:latitude":51.503538,
+    "lbl:longitude":11.738917,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":51.503538,
+    "mps:longitude":11.738917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0425\u0451\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u044c\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:epo_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0647\u0646\u0634\u062a\u062f\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:gle_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0451\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u04e9\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0435\u043d\u0448\u0442\u0435\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:ron_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0451\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0451\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:vie_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "name:vol_x_preferred":[
+        "H\u00f6hnstedt"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Saalekreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"H\u00f6hnstedt",
+    "qs:la_lc":"*DE15008812140",
+    "qs:level":"locality",
+    "qs:loc":"H\u00f6hnstedt",
+    "qs:loc_alt":"Hoehnstedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688915,
+        85633111,
+        102063817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2900849,
+        "gp:id":661481,
+        "qs_pg:id":24600,
+        "wd:id":"Q689571",
+        "wk:page":"H\u00f6hnstedt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"fdeda977ab7a081e704b7358eb3e0e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063817,
+            "localadmin_id":1377688915,
+            "locality_id":101822271,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101822271,
+    "wof:lastmodified":1690873462,
+    "wof:name":"H\u00f6hnstedt",
+    "wof:parent_id":1377688915,
+    "wof:placetype":"locality",
+    "wof:population":1645,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.727018,
+    51.499994,
+    11.748685,
+    51.507032
+],
+  "geometry": {"coordinates":[[[11.74728,51.50701],[11.747245,51.506112],[11.748685,51.50609],[11.748479,51.500699],[11.735521,51.500892],[11.735487,51.499994],[11.729728,51.500079],[11.729864,51.503673],[11.728424,51.503694],[11.728458,51.504593],[11.727018,51.504614],[11.727052,51.505513],[11.735692,51.505385],[11.735726,51.506283],[11.745805,51.506133],[11.74584,51.507032],[11.74728,51.50701]]],"type":"Polygon"}
+}

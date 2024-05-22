@@ -1,1 +1,371 @@
-{"id": 1125888637, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08226103", "eurostat:level_code": "lau", "eurostat:name_local": "St. Leon-Rot", "eurostat:nuts_2021_id": "08226103", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE12", "eurostat:nuts_2021_level_3": "DE128", "eurostat:nuts_2021_level_lau": "08226103", "eurostat:population": 13766, "eurostat:population_year": 2020, "geom:area": 0.003182, "geom:area_square_m": 25672629.134617, "geom:bbox": "8.561465,49.235356,8.656809,49.290869", "geom:latitude": 49.264164, "geom:longitude": 8.611612, "gn:country": "DE", "gn:fcode": "PPL", "gn:population": 12192, "iso:country": "DE", "lbl:latitude": 49.26593, "lbl:longitude": 8.61803, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:afr_x_preferred": ["St. Leon-Rot"], "name:arg_x_preferred": ["St. Leon-Rot"], "name:ast_x_preferred": ["St. Leon-Rot"], "name:bar_x_preferred": ["St. Leon-Rot"], "name:bre_x_preferred": ["St. Leon-Rot"], "name:cat_x_preferred": ["Sankt Leon-Rot"], "name:ceb_x_preferred": ["Sankt Leon-Rot"], "name:ces_x_preferred": ["St. Leon-Rot"], "name:che_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u041b\u0435\u043e\u043d-\u0420\u043e\u0442"], "name:cos_x_preferred": ["St. Leon-Rot"], "name:cym_x_preferred": ["St. Leon-Rot"], "name:dan_x_preferred": ["St. Leon-Rot"], "name:deu_x_preferred": ["St. Leon-Rot"], "name:eng_x_preferred": ["Sankt Leon-Rot"], "name:epo_x_preferred": ["St. Leon-Rot"], "name:est_x_preferred": ["St. Leon-Rot"], "name:eus_x_preferred": ["Sankt Leon-Rot"], "name:fas_x_preferred": ["\u0632\u0627\u0646\u06a9\u062a \u0644\u0648\u0646-\u0631\u0648\u062a"], "name:fin_x_preferred": ["St. Leon-Rot"], "name:fra_x_preferred": ["Sankt Leon-Rot"], "name:frp_x_preferred": ["St. Leon-Rot"], "name:fur_x_preferred": ["St. Leon-Rot"], "name:gla_x_preferred": ["St. Leon-Rot"], "name:gle_x_preferred": ["St. Leon-Rot"], "name:glg_x_preferred": ["St. Leon-Rot"], "name:gsw_x_preferred": ["St. Leon-Rot"], "name:hrv_x_preferred": ["St. Leon-Rot"], "name:hun_x_preferred": ["St. Leon-Rot"], "name:ido_x_preferred": ["St. Leon-Rot"], "name:ile_x_preferred": ["St. Leon-Rot"], "name:ina_x_preferred": ["St. Leon-Rot"], "name:ind_x_preferred": ["St. Leon-Rot"], "name:isl_x_preferred": ["St. Leon-Rot"], "name:ita_x_preferred": ["St. Leon-Rot"], "name:jpn_x_preferred": ["\u30b6\u30f3\u30af\u30c8\u30fb\u30ec\u30aa\u30f3\uff1d\u30ed\u30fc\u30c8"], "name:kon_x_preferred": ["St. Leon-Rot"], "name:kur_x_preferred": ["Sankt Leon-Rot"], "name:lat_x_preferred": ["Sankt Leon-Rot"], "name:lij_x_preferred": ["St. Leon-Rot"], "name:lim_x_preferred": ["St. Leon-Rot"], "name:lit_x_preferred": ["Sent Leon Roras"], "name:lmo_x_preferred": ["St. Leon-Rot"], "name:ltz_x_preferred": ["St. Leon-Rot"], "name:min_x_preferred": ["St. Leon-Rot"], "name:mlg_x_preferred": ["St. Leon-Rot"], "name:msa_x_preferred": ["St. Leon-Rot"], "name:nan_x_preferred": ["Sankt Leon-Rot"], "name:nap_x_preferred": ["St. Leon-Rot"], "name:nds_x_preferred": ["St. Leon-Rot"], "name:nld_x_preferred": ["St. Leon-Rot"], "name:nno_x_preferred": ["St. Leon-Rot"], "name:nob_x_preferred": ["St. Leon-Rot"], "name:nrm_x_preferred": ["St. Leon-Rot"], "name:oci_x_preferred": ["Sankt Leon-Rot"], "name:pcd_x_preferred": ["St. Leon-Rot"], "name:pms_x_preferred": ["St. Leon-Rot"], "name:pol_x_preferred": ["St. Leon-Rot"], "name:por_x_preferred": ["St. Leon-Rot"], "name:roh_x_preferred": ["St. Leon-Rot"], "name:ron_x_preferred": ["St. Leon-Rot"], "name:rus_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u041b\u0435\u043e\u043d-\u0420\u043e\u0442"], "name:scn_x_preferred": ["St. Leon-Rot"], "name:sco_x_preferred": ["St. Leon-Rot"], "name:slk_x_preferred": ["St. Leon-Rot"], "name:slv_x_preferred": ["St. Leon-Rot"], "name:spa_x_preferred": ["St. Leon-Rot"], "name:srd_x_preferred": ["St. Leon-Rot"], "name:srp_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u041b\u0435\u043e\u043d-\u0420\u043e\u0442"], "name:swa_x_preferred": ["St. Leon-Rot"], "name:swe_x_preferred": ["St. Leon-Rot"], "name:tat_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u041b\u0435\u043e\u043d-\u0420\u043e\u0442"], "name:ukr_x_preferred": ["\u0417\u0430\u043d\u043a\u0442-\u041b\u0435\u043e\u043d-\u0420\u043e\u0442"], "name:uzb_x_preferred": ["St. Leon-Rot"], "name:vec_x_preferred": ["St. Leon-Rot"], "name:vie_x_preferred": ["St. Leon-Rot"], "name:vls_x_preferred": ["St. Leon-Rot"], "name:vol_x_preferred": ["St. Leon-Rot"], "name:war_x_preferred": ["Sankt Leon-Rot"], "name:wln_x_preferred": ["St. Leon-Rot"], "name:wol_x_preferred": ["St. Leon-Rot"], "name:zho_x_preferred": ["\u5723\u83b1\u7fc1-\u7f57\u7279"], "name:zul_x_preferred": ["St. Leon-Rot"], "nav:latitude": 49.26593, "nav:longitude": 8.61803, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPL", "qs_pg:gn_id": 3272456, "qs_pg:gn_pop": 12192, "qs_pg:name": "St. Leon-Rot", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 102, "qs_pg:photos_1k": 21, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 3, "qs_pg:photos_all": 102, "qs_pg:photos_sr": 3, "qs_pg:pop_sr": 6, "qs_pg:qs_id": 463989, "qs_pg:qs_pg_placetype": "locality", "qs_pg:qs_pg_placetype_gp": "Town", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 20160636, "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "Town", "wof:belongsto": [85682567, 102191581, 85633111, 1377688697, 404227555, 102063481], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08226103", "eurostat:nuts_2021_id": "08226103", "gn:id": 3272456, "gp:id": 20160636, "qs_pg:id": 463989, "wd:id": "Q81625"}, "wof:country": "DE", "wof:created": 1497295215, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "648d0f8a758751176b1c2c79f99bb091", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063481, "localadmin_id": 1377688697, "locality_id": 1125888637, "macrocounty_id": 404227555, "region_id": 85682567}], "wof:id": 1125888637, "wof:lastmodified": 1690874236, "wof:name": "St. Leon-Rot", "wof:parent_id": 1377688697, "wof:placetype": "locality", "wof:population": 13766, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125406797, 1125327275], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.561465, 49.235356, 8.656809, 49.290869], "geometry": {"coordinates": [[[[8.647761, 49.277373], [8.650096, 49.276326], [8.653686, 49.27379], [8.656173, 49.273465], [8.656599, 49.270691], [8.656697, 49.269912], [8.656809, 49.269018], [8.656189, 49.265578], [8.655719, 49.264049], [8.654943, 49.263319], [8.652379, 49.260991], [8.649848, 49.254588], [8.65013, 49.252739], [8.65215, 49.249065], [8.650598, 49.245089], [8.650557, 49.243289], [8.649984, 49.24177], [8.646954, 49.240357], [8.645904, 49.240015], [8.644469, 49.238763], [8.642288, 49.235356], [8.639931, 49.237631], [8.636892, 49.239617], [8.63417, 49.241173], [8.633354, 49.241417], [8.629287, 49.242636], [8.62643, 49.243492], [8.623581, 49.243256], [8.620637, 49.242351], [8.617146, 49.241582], [8.614404, 49.24105], [8.614267, 49.242092], [8.598516, 49.246658], [8.582094, 49.251436], [8.576085, 49.253196], [8.570376, 49.254954], [8.574972, 49.26213], [8.561465, 49.26601], [8.572619, 49.284137], [8.573203, 49.285004], [8.570515, 49.285767], [8.570865, 49.286706], [8.578777, 49.285766], [8.584635, 49.286023], [8.586889, 49.284952], [8.591182, 49.285001], [8.591632, 49.284406], [8.59653, 49.285766], [8.597773, 49.284924], [8.603353, 49.285396], [8.597078, 49.290329], [8.599767, 49.290869], [8.603651, 49.287965], [8.608889, 49.284877], [8.611651, 49.285302], [8.614252, 49.285975], [8.625891, 49.280996], [8.632898, 49.278341], [8.630676, 49.28032], [8.63491, 49.278942], [8.639052, 49.27677], [8.642726, 49.275994], [8.647761, 49.277373]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125888637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08226103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Leon-Rot",
+    "eurostat:nuts_2021_id":"08226103",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE12",
+    "eurostat:nuts_2021_level_3":"DE128",
+    "eurostat:nuts_2021_level_lau":"08226103",
+    "eurostat:population":13766,
+    "eurostat:population_year":2020,
+    "geom:area":0.003182,
+    "geom:area_square_m":25672629.134617,
+    "geom:bbox":"8.561465,49.235356,8.656809,49.290869",
+    "geom:latitude":49.264164,
+    "geom:longitude":8.611612,
+    "gn:country":"DE",
+    "gn:fcode":"PPL",
+    "gn:population":12192,
+    "iso:country":"DE",
+    "lbl:latitude":49.26593,
+    "lbl:longitude":8.61803,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:arg_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:ast_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:bar_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:bre_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:cat_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:ceb_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:ces_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041b\u0435\u043e\u043d-\u0420\u043e\u0442"
+    ],
+    "name:cos_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:cym_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:dan_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:deu_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:eng_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:epo_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:est_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:eus_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0646\u06a9\u062a \u0644\u0648\u0646-\u0631\u0648\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:fra_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:frp_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:fur_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:gla_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:gle_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:glg_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:gsw_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:hrv_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:hun_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:ido_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:ile_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:ina_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:ind_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:isl_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:ita_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30f3\u30af\u30c8\u30fb\u30ec\u30aa\u30f3\uff1d\u30ed\u30fc\u30c8"
+    ],
+    "name:kon_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:kur_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:lat_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:lij_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:lim_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:lit_x_preferred":[
+        "Sent Leon Roras"
+    ],
+    "name:lmo_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:ltz_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:min_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:mlg_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:msa_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:nan_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:nap_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:nds_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:nld_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:nno_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:nob_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:nrm_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:oci_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:pcd_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:pms_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:pol_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:por_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:roh_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:ron_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041b\u0435\u043e\u043d-\u0420\u043e\u0442"
+    ],
+    "name:scn_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:sco_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:slk_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:slv_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:spa_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:srd_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u041b\u0435\u043e\u043d-\u0420\u043e\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:swe_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041b\u0435\u043e\u043d-\u0420\u043e\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0442-\u041b\u0435\u043e\u043d-\u0420\u043e\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:vec_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:vie_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:vls_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:vol_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:war_x_preferred":[
+        "Sankt Leon-Rot"
+    ],
+    "name:wln_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:wol_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u83b1\u7fc1-\u7f57\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "St. Leon-Rot"
+    ],
+    "nav:latitude":49.26593,
+    "nav:longitude":8.61803,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3272456,
+    "qs_pg:gn_pop":12192,
+    "qs_pg:name":"St. Leon-Rot",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":102,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":102,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":463989,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":20160636,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377688697,
+        404227555,
+        102063481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08226103",
+        "eurostat:nuts_2021_id":"08226103",
+        "gn:id":3272456,
+        "gp:id":20160636,
+        "qs_pg:id":463989,
+        "wd:id":"Q81625"
+    },
+    "wof:country":"DE",
+    "wof:created":1497295215,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"648d0f8a758751176b1c2c79f99bb091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063481,
+            "localadmin_id":1377688697,
+            "locality_id":1125888637,
+            "macrocounty_id":404227555,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1125888637,
+    "wof:lastmodified":1690874236,
+    "wof:name":"St. Leon-Rot",
+    "wof:parent_id":1377688697,
+    "wof:placetype":"locality",
+    "wof:population":13766,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125406797,
+        1125327275
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.561465,
+    49.235356,
+    8.656809,
+    49.290869
+],
+  "geometry": {"coordinates":[[[[8.647761,49.277373],[8.650096,49.276326],[8.653686,49.27379],[8.656173,49.273465],[8.656599,49.270691],[8.656697,49.269912],[8.656809,49.269018],[8.656189,49.265578],[8.655719,49.264049],[8.654943,49.263319],[8.652379,49.260991],[8.649848,49.254588],[8.65013,49.252739],[8.65215,49.249065],[8.650598,49.245089],[8.650557,49.243289],[8.649984,49.24177],[8.646954,49.240357],[8.645904,49.240015],[8.644469,49.238763],[8.642288,49.235356],[8.639931,49.237631],[8.636892,49.239617],[8.63417,49.241173],[8.633354,49.241417],[8.629287,49.242636],[8.62643,49.243492],[8.623581,49.243256],[8.620637,49.242351],[8.617146,49.241582],[8.614404,49.24105],[8.614267,49.242092],[8.598516,49.246658],[8.582094,49.251436],[8.576085,49.253196],[8.570376,49.254954],[8.574972,49.26213],[8.561465,49.26601],[8.572619,49.284137],[8.573203,49.285004],[8.570515,49.285767],[8.570865,49.286706],[8.578777,49.285766],[8.584635,49.286023],[8.586889,49.284952],[8.591182,49.285001],[8.591632,49.284406],[8.59653,49.285766],[8.597773,49.284924],[8.603353,49.285396],[8.597078,49.290329],[8.599767,49.290869],[8.603651,49.287965],[8.608889,49.284877],[8.611651,49.285302],[8.614252,49.285975],[8.625891,49.280996],[8.632898,49.278341],[8.630676,49.28032],[8.63491,49.278942],[8.639052,49.27677],[8.642726,49.275994],[8.647761,49.277373]]]],"type":"MultiPolygon"}
+}

@@ -1,1 +1,102 @@
-{"id": 1377783139, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "8.26766,47.75165,8.26766,47.75165", "geom:latitude": 47.75165, "geom:longitude": 8.26766, "gn:admin1_code": "1", "gn:admin2_code": "83.0", "gn:admin3_code": "8337.0", "gn:admin4_code": "8337039.0", "gn:asciiname": "Mettenberg", "gn:country_code": "DE", "gn:dem": 905, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2871565, "gn:latitude": 47.75165, "gn:longitude": 8.26766, "gn:modification_date": "2013-02-15", "gn:name": "Mettenberg", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "8.26266,47.74665,8.27266,47.75665", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:deu_x_preferred": ["M\u00e4ttenberg"], "name:fin_x_preferred": ["M\u00e4ttenberg"], "name:heb_x_preferred": ["\u05de\u05d8\u05e0\u05d1\u05e8\u05d2"], "name:kat_x_preferred": ["\u10db\u10d4\u10e2\u10d4\u10dc\u10d1\u10d4\u10e0\u10d2\u10d8"], "name:nno_x_preferred": ["M\u00e4ttenberg"], "name:pol_x_preferred": ["M\u00e4ttenberg"], "name:zho_x_preferred": ["\u6885\u6ed5\u5c71"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377689839, 404227543, 101842577, 102063207, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 2871565}, "wof:country": "DE", "wof:geomhash": "911368e78b94301762f44ff0a668b007", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063207, "localadmin_id": 1377689839, "locality_id": 101842577, "macrocounty_id": 404227543, "neighbourhood_id": 1377783139, "region_id": 85682567}], "wof:id": 1377783139, "wof:lastmodified": 1566717714, "wof:name": "Mettenberg", "wof:parent_id": 101842577, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1276231523], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.26766, 47.75165, 8.26766, 47.75165], "geometry": {"coordinates": [8.26766, 47.75165], "type": "Point"}}
+{
+  "id": 1377783139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.26766,47.75165,8.26766,47.75165",
+    "geom:latitude":47.75165,
+    "geom:longitude":8.26766,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"83.0",
+    "gn:admin3_code":"8337.0",
+    "gn:admin4_code":"8337039.0",
+    "gn:asciiname":"Mettenberg",
+    "gn:country_code":"DE",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2871565,
+    "gn:latitude":47.75165,
+    "gn:longitude":8.26766,
+    "gn:modification_date":"2013-02-15",
+    "gn:name":"Mettenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"8.26266,47.74665,8.27266,47.75665",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "M\u00e4ttenberg"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00e4ttenberg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05e0\u05d1\u05e8\u05d2"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10e2\u10d4\u10dc\u10d1\u10d4\u10e0\u10d2\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00e4ttenberg"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00e4ttenberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u6ed5\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689839,
+        404227543,
+        101842577,
+        102063207,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2871565
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"911368e78b94301762f44ff0a668b007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063207,
+            "localadmin_id":1377689839,
+            "locality_id":101842577,
+            "macrocounty_id":404227543,
+            "neighbourhood_id":1377783139,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1377783139,
+    "wof:lastmodified":1566717714,
+    "wof:name":"Mettenberg",
+    "wof:parent_id":101842577,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276231523
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.26766,
+    47.75165,
+    8.26766,
+    47.75165
+],
+  "geometry": {"coordinates":[8.26766,47.75165],"type":"Point"}
+}

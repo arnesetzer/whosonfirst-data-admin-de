@@ -1,1 +1,114 @@
-{"id": 1126105055, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.41711,53.63382,11.41711,53.63382", "geom:latitude": 53.63382, "geom:longitude": 11.41711, "gn:country": "DE", "gn:fcode": "PPLX", "gn:population": 4308, "iso:country": "DE", "lbl:bbox": "11.41211,53.62882,11.42211,53.63882", "lbl:latitude": 53.63382, "lbl:longitude": 11.41711, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:ceb_x_preferred": ["Schelfstadt"], "name:deu_x_preferred": ["Schelfstadt"], "name:nld_x_preferred": ["Schelfstadt"], "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLX", "qs_pg:gn_id": 7284134, "qs_pg:gn_pop": 4308, "qs_pg:name": "Schelfstadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Mecklenburg-Vorpommern", "qs_pg:photos": 97, "qs_pg:photos_1k": 20, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 97, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 671100, "qs_pg:qs_pg_placetype": "neighbourhood", "qs_pg:qs_pg_placetype_gp": "Town", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 29352079, "src:geom": "qs_pg", "src:lbl_centroid": "qs_pg", "src:population": "geonames", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Mecklenburg-Vorpommern", "woe:placetype": "Town", "wof:belongsto": [102191581, 1377684361, 85633111, 101748851, 102064039, 85682487], "wof:breaches": [], "wof:concordances": {"gn:id": 7284134, "gp:id": 29352079, "qs_pg:id": 671100}, "wof:concordances_alt": {"qs_pg:id": [1091580]}, "wof:country": "DE", "wof:created": 1497316764, "wof:geomhash": "134c30fefae8aef19cf803c5a6e9e10d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064039, "localadmin_id": 1377684361, "locality_id": 101748851, "neighbourhood_id": 1126105055, "region_id": 85682487}], "wof:id": 1126105055, "wof:lastmodified": 1706239500, "wof:name": "Schelfstadt", "wof:parent_id": 101748851, "wof:placetype": "neighbourhood", "wof:population": 4308, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1377798019], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.41711, 53.63382, 11.41711, 53.63382], "geometry": {"coordinates": [11.41711, 53.63382], "type": "Point"}}
+{
+  "id": 1126105055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.41711,53.63382,11.41711,53.63382",
+    "geom:latitude":53.63382,
+    "geom:longitude":11.41711,
+    "gn:country":"DE",
+    "gn:fcode":"PPLX",
+    "gn:population":4308,
+    "iso:country":"DE",
+    "lbl:bbox":"11.41211,53.62882,11.42211,53.63882",
+    "lbl:latitude":53.63382,
+    "lbl:longitude":11.41711,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Schelfstadt"
+    ],
+    "name:deu_x_preferred":[
+        "Schelfstadt"
+    ],
+    "name:nld_x_preferred":[
+        "Schelfstadt"
+    ],
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7284134,
+    "qs_pg:gn_pop":4308,
+    "qs_pg:name":"Schelfstadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Mecklenburg-Vorpommern",
+    "qs_pg:photos":97,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":97,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":671100,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":29352079,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Mecklenburg-Vorpommern",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1377684361,
+        85633111,
+        101748851,
+        102064039,
+        85682487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7284134,
+        "gp:id":29352079,
+        "qs_pg:id":671100
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            1091580
+        ]
+    },
+    "wof:country":"DE",
+    "wof:created":1497316764,
+    "wof:geomhash":"134c30fefae8aef19cf803c5a6e9e10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064039,
+            "localadmin_id":1377684361,
+            "locality_id":101748851,
+            "neighbourhood_id":1126105055,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":1126105055,
+    "wof:lastmodified":1706239500,
+    "wof:name":"Schelfstadt",
+    "wof:parent_id":101748851,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4308,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1377798019
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.41711,
+    53.63382,
+    11.41711,
+    53.63382
+],
+  "geometry": {"coordinates":[11.41711,53.63382],"type":"Point"}
+}

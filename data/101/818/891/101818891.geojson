@@ -1,1 +1,371 @@
-{"id": 101818891, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_13072073", "eurostat:level_code": "lau", "eurostat:name_local": "M\u00fchl Rosin", "eurostat:nuts_2021_id": "13072073", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE8", "eurostat:nuts_2021_level_2": "DE80", "eurostat:nuts_2021_level_3": "DE80K", "eurostat:nuts_2021_level_lau": "13072073", "eurostat:population": 1130, "eurostat:population_year": 2020, "geom:area": 0.003345, "geom:area_square_m": 24463370.936738, "geom:bbox": "12.155106,53.719148,12.286015,53.770529", "geom:latitude": 53.744687, "geom:longitude": 12.220894, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 1083, "iso:country": "DE", "lbl:latitude": 53.760368, "lbl:longitude": 12.207065, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 53.760368, "mps:longitude": 12.207065, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["M\u00fchl Rosin"], "name:arg_x_preferred": ["M\u00fchl Rosin"], "name:ast_x_preferred": ["M\u00fchl Rosin"], "name:bar_x_preferred": ["M\u00fchl Rosin"], "name:bre_x_preferred": ["M\u00fchl Rosin"], "name:cat_x_preferred": ["M\u00fchl Rosin"], "name:ceb_x_preferred": ["M\u00fchl Rosin"], "name:ces_x_preferred": ["M\u00fchl Rosin"], "name:che_x_preferred": ["\u041c\u0443\u044c\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"], "name:cos_x_preferred": ["M\u00fchl Rosin"], "name:cym_x_preferred": ["M\u00fchl Rosin"], "name:dan_x_preferred": ["M\u00fchl Rosin"], "name:deu_x_preferred": ["M\u00fchl Rosin"], "name:eng_x_preferred": ["M\u00fchl Rosin"], "name:epo_x_preferred": ["M\u00fchl Rosin"], "name:est_x_preferred": ["M\u00fchl Rosin"], "name:eus_x_preferred": ["M\u00fchl Rosin"], "name:fas_x_preferred": ["\u0645\u0648\u0647\u0644 \u0631\u0648\u0632\u06cc\u0646"], "name:fin_x_preferred": ["M\u00fchl Rosin"], "name:fra_x_preferred": ["M\u00fchl Rosin"], "name:frp_x_preferred": ["M\u00fchl Rosin"], "name:fur_x_preferred": ["M\u00fchl Rosin"], "name:gla_x_preferred": ["M\u00fchl Rosin"], "name:gle_x_preferred": ["M\u00fchl Rosin"], "name:glg_x_preferred": ["M\u00fchl Rosin"], "name:gsw_x_preferred": ["M\u00fchl Rosin"], "name:hrv_x_preferred": ["M\u00fchl Rosin"], "name:hun_x_preferred": ["M\u00fchl Rosin"], "name:ido_x_preferred": ["M\u00fchl Rosin"], "name:ile_x_preferred": ["M\u00fchl Rosin"], "name:ina_x_preferred": ["M\u00fchl Rosin"], "name:ind_x_preferred": ["M\u00fchl Rosin"], "name:isl_x_preferred": ["M\u00fchl Rosin"], "name:ita_x_preferred": ["M\u00fchl Rosin"], "name:kaz_x_preferred": ["\u041c\u044e\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"], "name:kir_x_preferred": ["\u041c\u04af\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"], "name:kon_x_preferred": ["M\u00fchl Rosin"], "name:kur_x_preferred": ["M\u00fchl Rosin"], "name:lij_x_preferred": ["M\u00fchl Rosin"], "name:lim_x_preferred": ["M\u00fchl Rosin"], "name:lld_x_preferred": ["M\u00fchl Rosin"], "name:ltz_x_preferred": ["M\u00fchl Rosin"], "name:min_x_preferred": ["M\u00fchl Rosin"], "name:mkd_x_preferred": ["\u041c\u0438\u043b \u0420\u043e\u0437\u0438\u043d"], "name:mlg_x_preferred": ["M\u00fchl Rosin"], "name:msa_x_preferred": ["M\u00fchl Rosin"], "name:nap_x_preferred": ["M\u00fchl Rosin"], "name:nds_x_preferred": ["M\u00fchl Rosin"], "name:nld_x_preferred": ["M\u00fchl Rosin"], "name:nno_x_preferred": ["M\u00fchl Rosin"], "name:nob_x_preferred": ["M\u00fchl Rosin"], "name:nrm_x_preferred": ["M\u00fchl Rosin"], "name:oci_x_preferred": ["M\u00fchl Rosin"], "name:pcd_x_preferred": ["M\u00fchl Rosin"], "name:pms_x_preferred": ["M\u00fchl Rosin"], "name:pol_x_preferred": ["M\u00fchl Rosin"], "name:por_x_preferred": ["M\u00fchl Rosin"], "name:roh_x_preferred": ["M\u00fchl Rosin"], "name:ron_x_preferred": ["M\u00fchl Rosin"], "name:rus_x_preferred": ["\u041c\u044e\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"], "name:scn_x_preferred": ["M\u00fchl Rosin"], "name:sco_x_preferred": ["M\u00fchl Rosin"], "name:slk_x_preferred": ["M\u00fchl Rosin"], "name:slv_x_preferred": ["M\u00fchl Rosin"], "name:spa_x_preferred": ["M\u00fchl Rosin"], "name:srd_x_preferred": ["M\u00fchl Rosin"], "name:srp_x_preferred": ["\u041c\u0438\u043b \u0420\u043e\u0441\u0438\u043d"], "name:swa_x_preferred": ["M\u00fchl Rosin"], "name:swe_x_preferred": ["M\u00fchl Rosin"], "name:tat_x_preferred": ["\u041c\u044e\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"], "name:ukr_x_preferred": ["\u041c\u044e\u043b\u044c-\u0420\u043e\u0437\u0456\u043d"], "name:uzb_x_preferred": ["M\u00fchl Rosin"], "name:vec_x_preferred": ["M\u00fchl Rosin"], "name:vep_x_preferred": ["M\u00fcl' Rozin"], "name:vie_x_preferred": ["M\u00fchl Rosin"], "name:vls_x_preferred": ["M\u00fchl Rosin"], "name:vol_x_preferred": ["M\u00fchl Rosin"], "name:war_x_preferred": ["M\u00fchl Rosin"], "name:wln_x_preferred": ["M\u00fchl Rosin"], "name:wol_x_preferred": ["M\u00fchl Rosin"], "name:zho_x_preferred": ["\u7c73\u8d6b\u5c14\u7f57\u8f9b"], "name:zul_x_preferred": ["M\u00fchl Rosin"], "nav:latitude": 53.760368, "nav:longitude": 12.207065, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "G\u00fcstrow", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "G\u00fcstrow", "qs:la_lc": "*DE13005300031", "qs:level": "locality", "qs:loc": "M\u00fchl Rosin", "qs:loc_alt": "Muehl Rosin", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6547900, "qs_pg:gn_pop": 1083, "qs_pg:name": "M\u00fchl Rosin", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 630575, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 34, "wof:belongsto": [85682487, 102191581, 1377684667, 85633111, 1377675573], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_13072073", "eurostat:nuts_2021_id": "13072073", "gn:id": 2867929, "gp:id": 676458, "qs_pg:id": 259243, "wd:id": "Q669536"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "c8547436a85e02d31857e6ebb137611b", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675573, "localadmin_id": 1377684667, "locality_id": 101818891, "region_id": 85682487}], "wof:id": 101818891, "wof:lastmodified": 1690871974, "wof:name": "M\u00fchl Rosin", "wof:parent_id": 1377684667, "wof:placetype": "locality", "wof:population": 1130, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125318759], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.155106, 53.719148, 12.286015, 53.770529], "geometry": {"coordinates": [[[[12.282474, 53.754585], [12.283995, 53.753661], [12.284948, 53.752487], [12.286015, 53.750764], [12.285948, 53.750244], [12.285828, 53.749167], [12.285252, 53.74843], [12.28006, 53.747884], [12.277223, 53.747853], [12.274979, 53.747103], [12.27263, 53.747137], [12.271107, 53.746224], [12.263442, 53.746369], [12.260062, 53.746031], [12.257741, 53.745605], [12.255963, 53.744381], [12.256319, 53.74381], [12.25634, 53.743199], [12.256335, 53.742696], [12.257327, 53.74136], [12.257756, 53.739961], [12.258756, 53.738833], [12.25954, 53.738196], [12.260443, 53.737708], [12.260985, 53.737224], [12.261654, 53.735931], [12.26058, 53.735194], [12.258879, 53.734455], [12.2577, 53.733689], [12.25515, 53.732836], [12.255634, 53.731688], [12.254417, 53.731202], [12.255861, 53.729797], [12.25578, 53.729286], [12.25577, 53.728307], [12.258138, 53.72502], [12.253844, 53.724103], [12.252346, 53.723035], [12.252396, 53.721512], [12.252484, 53.719681], [12.25078, 53.719148], [12.244045, 53.72122], [12.243362, 53.72191], [12.240146, 53.722237], [12.238916, 53.721866], [12.239373, 53.721265], [12.237779, 53.720503], [12.235675, 53.721032], [12.234583, 53.719787], [12.233788, 53.719941], [12.233036, 53.720189], [12.233048, 53.720498], [12.233623, 53.720847], [12.233802, 53.721296], [12.233248, 53.721494], [12.232533, 53.721647], [12.231941, 53.721893], [12.231796, 53.722275], [12.231827, 53.722991], [12.230952, 53.724603], [12.229886, 53.726677], [12.229308, 53.727279], [12.228479, 53.7276], [12.226915, 53.727598], [12.224957, 53.727768], [12.22205, 53.728276], [12.220444, 53.728649], [12.218151, 53.729051], [12.217322, 53.729372], [12.21637, 53.729647], [12.21509, 53.729584], [12.214267, 53.729202], [12.213176, 53.728822], [12.211934, 53.727689], [12.210811, 53.726859], [12.207494, 53.725368], [12.205258, 53.72477], [12.201838, 53.724871], [12.199271, 53.725508], [12.195407, 53.726676], [12.194219, 53.726908], [12.191993, 53.726938], [12.186825, 53.726541], [12.18214, 53.726083], [12.178649, 53.725933], [12.176904, 53.725867], [12.176876, 53.728689], [12.183875, 53.731389], [12.173965, 53.745237], [12.172391, 53.744907], [12.170847, 53.74545], [12.166301, 53.747802], [12.158924, 53.74676], [12.155106, 53.751223], [12.156988, 53.75127], [12.158926, 53.75135], [12.15961, 53.751412], [12.160057, 53.751549], [12.16067, 53.75185], [12.16128, 53.752489], [12.16222, 53.753276], [12.162993, 53.753688], [12.164064, 53.753916], [12.16501, 53.754074], [12.165596, 53.754336], [12.166267, 53.754444], [12.16698, 53.754443], [12.167449, 53.754419], [12.167691, 53.754397], [12.16837, 53.754316], [12.169063, 53.754199], [12.171079, 53.753786], [12.171772, 53.753669], [12.172919, 53.753518], [12.174253, 53.753498], [12.175342, 53.75365], [12.17639, 53.753778], [12.177193, 53.753791], [12.177918, 53.753877], [12.17853, 53.754154], [12.179104, 53.754455], [12.179356, 53.754761], [12.179414, 53.755212], [12.179189, 53.755619], [12.178716, 53.755839], [12.177958, 53.755968], [12.177362, 53.756095], [12.176402, 53.75618], [12.175517, 53.75612], [12.174709, 53.755989], [12.173943, 53.75588], [12.173104, 53.755963], [12.172511, 53.756208], [12.172163, 53.756546], [12.172018, 53.756952], [12.17199, 53.757262], [12.172201, 53.757544], [12.172531, 53.757777], [12.17314, 53.757959], [12.173701, 53.757928], [12.174655, 53.757701], [12.176289, 53.757418], [12.177086, 53.757288], [12.178247, 53.757201], [12.178928, 53.757192], [12.17958, 53.757444], [12.179835, 53.757821], [12.179953, 53.758213], [12.179845, 53.758556], [12.17946, 53.758786], [12.179876, 53.759355], [12.180471, 53.759042], [12.181098, 53.7588], [12.182151, 53.758561], [12.183212, 53.758546], [12.183955, 53.758554], [12.185493, 53.758327], [12.186421, 53.75797], [12.186974, 53.757748], [12.187774, 53.757666], [12.188822, 53.757795], [12.189636, 53.758093], [12.190297, 53.758583], [12.190797, 53.759052], [12.191374, 53.759448], [12.192343, 53.75977], [12.193092, 53.75993], [12.194131, 53.760114], [12.19503, 53.760228], [12.19629, 53.760669], [12.197137, 53.760999], [12.197608, 53.761396], [12.198675, 53.761526], [12.199575, 53.761675], [12.200504, 53.761779], [12.201462, 53.761829], [12.202391, 53.761924], [12.202834, 53.762017], [12.203448, 53.762215], [12.203849, 53.76238], [12.204376, 53.762661], [12.204858, 53.762969], [12.205563, 53.763534], [12.206052, 53.76403], [12.206607, 53.764634], [12.208497, 53.76681], [12.208845, 53.767182], [12.209188, 53.76742], [12.209496, 53.767533], [12.209813, 53.767888], [12.209526, 53.768305], [12.209031, 53.768438], [12.20847, 53.768445], [12.207804, 53.768859], [12.20726, 53.769316], [12.207043, 53.769561], [12.206842, 53.769852], [12.20925, 53.770529], [12.210738, 53.769511], [12.213765, 53.770017], [12.215248, 53.770302], [12.216294, 53.767696], [12.217452, 53.764278], [12.226321, 53.76455], [12.233477, 53.767155], [12.233056, 53.766101], [12.232962, 53.765257], [12.233174, 53.763281], [12.233406, 53.763064], [12.233556, 53.7628], [12.233387, 53.762565], [12.232979, 53.762404], [12.232617, 53.762385], [12.23229, 53.762224], [12.232279, 53.761962], [12.232631, 53.76172], [12.23337, 53.761414], [12.234634, 53.760785], [12.235953, 53.760767], [12.236702, 53.760927], [12.237462, 53.760962], [12.238285, 53.76068], [12.240053, 53.760152], [12.240599, 53.759381], [12.243186, 53.759605], [12.245638, 53.75949], [12.247359, 53.759304], [12.249443, 53.758331], [12.2514, 53.757593], [12.254096, 53.757133], [12.255515, 53.757329], [12.257425, 53.758065], [12.259427, 53.75845], [12.26098, 53.758985], [12.265915, 53.758017], [12.269934, 53.756899], [12.274558, 53.757615], [12.27593, 53.757424], [12.281291, 53.75505], [12.282474, 53.754585]]]], "type": "MultiPolygon"}}
+{
+  "id": 101818891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_13072073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00fchl Rosin",
+    "eurostat:nuts_2021_id":"13072073",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE8",
+    "eurostat:nuts_2021_level_2":"DE80",
+    "eurostat:nuts_2021_level_3":"DE80K",
+    "eurostat:nuts_2021_level_lau":"13072073",
+    "eurostat:population":1130,
+    "eurostat:population_year":2020,
+    "geom:area":0.003345,
+    "geom:area_square_m":24463370.936738,
+    "geom:bbox":"12.155106,53.719148,12.286015,53.770529",
+    "geom:latitude":53.744687,
+    "geom:longitude":12.220894,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":1083,
+    "iso:country":"DE",
+    "lbl:latitude":53.760368,
+    "lbl:longitude":12.207065,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":53.760368,
+    "mps:longitude":12.207065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:arg_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ast_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:bar_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:bre_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:cat_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ces_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0443\u044c\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:cym_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:dan_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:est_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:eus_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0647\u0644 \u0631\u0648\u0632\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:frp_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:fur_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:gla_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:glg_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:gsw_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:hrv_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ido_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ile_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ina_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ind_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:isl_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u044e\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u04af\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:kur_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:lij_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:lim_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:lld_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ltz_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:min_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u043b \u0420\u043e\u0437\u0438\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:nap_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:nds_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:nob_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:nrm_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:oci_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:pcd_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:pms_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:por_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:roh_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:ron_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044e\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:sco_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:slk_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:slv_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:srd_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b \u0420\u043e\u0441\u0438\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u044e\u043b\u044c-\u0420\u043e\u0437\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043b\u044c-\u0420\u043e\u0437\u0456\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:vec_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:vep_x_preferred":[
+        "M\u00fcl' Rozin"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:vls_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:war_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:wln_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:wol_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u8d6b\u5c14\u7f57\u8f9b"
+    ],
+    "name:zul_x_preferred":[
+        "M\u00fchl Rosin"
+    ],
+    "nav:latitude":53.760368,
+    "nav:longitude":12.207065,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"G\u00fcstrow",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"G\u00fcstrow",
+    "qs:la_lc":"*DE13005300031",
+    "qs:level":"locality",
+    "qs:loc":"M\u00fchl Rosin",
+    "qs:loc_alt":"Muehl Rosin",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6547900,
+    "qs_pg:gn_pop":1083,
+    "qs_pg:name":"M\u00fchl Rosin",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":630575,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377684667,
+        85633111,
+        1377675573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_13072073",
+        "eurostat:nuts_2021_id":"13072073",
+        "gn:id":2867929,
+        "gp:id":676458,
+        "qs_pg:id":259243,
+        "wd:id":"Q669536"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c8547436a85e02d31857e6ebb137611b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675573,
+            "localadmin_id":1377684667,
+            "locality_id":101818891,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101818891,
+    "wof:lastmodified":1690871974,
+    "wof:name":"M\u00fchl Rosin",
+    "wof:parent_id":1377684667,
+    "wof:placetype":"locality",
+    "wof:population":1130,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125318759
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.155106,
+    53.719148,
+    12.286015,
+    53.770529
+],
+  "geometry": {"coordinates":[[[[12.282474,53.754585],[12.283995,53.753661],[12.284948,53.752487],[12.286015,53.750764],[12.285948,53.750244],[12.285828,53.749167],[12.285252,53.74843],[12.28006,53.747884],[12.277223,53.747853],[12.274979,53.747103],[12.27263,53.747137],[12.271107,53.746224],[12.263442,53.746369],[12.260062,53.746031],[12.257741,53.745605],[12.255963,53.744381],[12.256319,53.74381],[12.25634,53.743199],[12.256335,53.742696],[12.257327,53.74136],[12.257756,53.739961],[12.258756,53.738833],[12.25954,53.738196],[12.260443,53.737708],[12.260985,53.737224],[12.261654,53.735931],[12.26058,53.735194],[12.258879,53.734455],[12.2577,53.733689],[12.25515,53.732836],[12.255634,53.731688],[12.254417,53.731202],[12.255861,53.729797],[12.25578,53.729286],[12.25577,53.728307],[12.258138,53.72502],[12.253844,53.724103],[12.252346,53.723035],[12.252396,53.721512],[12.252484,53.719681],[12.25078,53.719148],[12.244045,53.72122],[12.243362,53.72191],[12.240146,53.722237],[12.238916,53.721866],[12.239373,53.721265],[12.237779,53.720503],[12.235675,53.721032],[12.234583,53.719787],[12.233788,53.719941],[12.233036,53.720189],[12.233048,53.720498],[12.233623,53.720847],[12.233802,53.721296],[12.233248,53.721494],[12.232533,53.721647],[12.231941,53.721893],[12.231796,53.722275],[12.231827,53.722991],[12.230952,53.724603],[12.229886,53.726677],[12.229308,53.727279],[12.228479,53.7276],[12.226915,53.727598],[12.224957,53.727768],[12.22205,53.728276],[12.220444,53.728649],[12.218151,53.729051],[12.217322,53.729372],[12.21637,53.729647],[12.21509,53.729584],[12.214267,53.729202],[12.213176,53.728822],[12.211934,53.727689],[12.210811,53.726859],[12.207494,53.725368],[12.205258,53.72477],[12.201838,53.724871],[12.199271,53.725508],[12.195407,53.726676],[12.194219,53.726908],[12.191993,53.726938],[12.186825,53.726541],[12.18214,53.726083],[12.178649,53.725933],[12.176904,53.725867],[12.176876,53.728689],[12.183875,53.731389],[12.173965,53.745237],[12.172391,53.744907],[12.170847,53.74545],[12.166301,53.747802],[12.158924,53.74676],[12.155106,53.751223],[12.156988,53.75127],[12.158926,53.75135],[12.15961,53.751412],[12.160057,53.751549],[12.16067,53.75185],[12.16128,53.752489],[12.16222,53.753276],[12.162993,53.753688],[12.164064,53.753916],[12.16501,53.754074],[12.165596,53.754336],[12.166267,53.754444],[12.16698,53.754443],[12.167449,53.754419],[12.167691,53.754397],[12.16837,53.754316],[12.169063,53.754199],[12.171079,53.753786],[12.171772,53.753669],[12.172919,53.753518],[12.174253,53.753498],[12.175342,53.75365],[12.17639,53.753778],[12.177193,53.753791],[12.177918,53.753877],[12.17853,53.754154],[12.179104,53.754455],[12.179356,53.754761],[12.179414,53.755212],[12.179189,53.755619],[12.178716,53.755839],[12.177958,53.755968],[12.177362,53.756095],[12.176402,53.75618],[12.175517,53.75612],[12.174709,53.755989],[12.173943,53.75588],[12.173104,53.755963],[12.172511,53.756208],[12.172163,53.756546],[12.172018,53.756952],[12.17199,53.757262],[12.172201,53.757544],[12.172531,53.757777],[12.17314,53.757959],[12.173701,53.757928],[12.174655,53.757701],[12.176289,53.757418],[12.177086,53.757288],[12.178247,53.757201],[12.178928,53.757192],[12.17958,53.757444],[12.179835,53.757821],[12.179953,53.758213],[12.179845,53.758556],[12.17946,53.758786],[12.179876,53.759355],[12.180471,53.759042],[12.181098,53.7588],[12.182151,53.758561],[12.183212,53.758546],[12.183955,53.758554],[12.185493,53.758327],[12.186421,53.75797],[12.186974,53.757748],[12.187774,53.757666],[12.188822,53.757795],[12.189636,53.758093],[12.190297,53.758583],[12.190797,53.759052],[12.191374,53.759448],[12.192343,53.75977],[12.193092,53.75993],[12.194131,53.760114],[12.19503,53.760228],[12.19629,53.760669],[12.197137,53.760999],[12.197608,53.761396],[12.198675,53.761526],[12.199575,53.761675],[12.200504,53.761779],[12.201462,53.761829],[12.202391,53.761924],[12.202834,53.762017],[12.203448,53.762215],[12.203849,53.76238],[12.204376,53.762661],[12.204858,53.762969],[12.205563,53.763534],[12.206052,53.76403],[12.206607,53.764634],[12.208497,53.76681],[12.208845,53.767182],[12.209188,53.76742],[12.209496,53.767533],[12.209813,53.767888],[12.209526,53.768305],[12.209031,53.768438],[12.20847,53.768445],[12.207804,53.768859],[12.20726,53.769316],[12.207043,53.769561],[12.206842,53.769852],[12.20925,53.770529],[12.210738,53.769511],[12.213765,53.770017],[12.215248,53.770302],[12.216294,53.767696],[12.217452,53.764278],[12.226321,53.76455],[12.233477,53.767155],[12.233056,53.766101],[12.232962,53.765257],[12.233174,53.763281],[12.233406,53.763064],[12.233556,53.7628],[12.233387,53.762565],[12.232979,53.762404],[12.232617,53.762385],[12.23229,53.762224],[12.232279,53.761962],[12.232631,53.76172],[12.23337,53.761414],[12.234634,53.760785],[12.235953,53.760767],[12.236702,53.760927],[12.237462,53.760962],[12.238285,53.76068],[12.240053,53.760152],[12.240599,53.759381],[12.243186,53.759605],[12.245638,53.75949],[12.247359,53.759304],[12.249443,53.758331],[12.2514,53.757593],[12.254096,53.757133],[12.255515,53.757329],[12.257425,53.758065],[12.259427,53.75845],[12.26098,53.758985],[12.265915,53.758017],[12.269934,53.756899],[12.274558,53.757615],[12.27593,53.757424],[12.281291,53.75505],[12.282474,53.754585]]]],"type":"MultiPolygon"}
+}

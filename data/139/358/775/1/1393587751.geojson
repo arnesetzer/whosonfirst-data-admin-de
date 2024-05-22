@@ -1,1 +1,117 @@
-{"id": 1393587751, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "12.70153,47.81828,12.70153,47.81828", "geom:latitude": 47.81828, "geom:longitude": 12.70153, "gn:admin1_code": "2.0", "gn:admin2_code": "91.0", "gn:admin3_code": "9189.0", "gn:admin4_code": "9189145.0", "gn:asciiname": "Feichten", "gn:country_code": "DE", "gn:dem": 702, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 11594432, "gn:latitude": 47.81828, "gn:longitude": 12.70153, "gn:modification_date": "2017-07-03", "gn:name": "Feichten", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "12.69653,47.81328,12.70653,47.82328", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ara_x_preferred": ["\u0641\u064a\u0634\u062a\u0646"], "name:ceb_x_preferred": ["Feichten a.d.Alz"], "name:fas_x_preferred": ["\u0641\u0627\u06cc\u0634\u062a\u0646"], "name:hye_x_preferred": ["\u0531\u056c\u0581\u056b \u0556\u0561\u0575\u056d\u057f\u0565\u0576"], "name:ilo_x_preferred": ["Feichten"], "name:kaz_x_preferred": ["\u0424\u0430\u0439\u0445\u0442\u0435\u043d-\u043d\u0430-\u0410\u043b\u044c\u0446\u0435"], "name:msa_x_preferred": ["Feichten"], "name:por_x_preferred": ["Feichten"], "name:rus_x_preferred": ["\u0424\u0430\u0439\u0445\u0442\u0435\u043d-\u0430\u043d-\u0434\u0435\u0440-\u0410\u043b\u044c\u0446"], "name:spa_x_preferred": ["Feichten"], "name:ukr_x_preferred": ["\u0424\u0430\u0439\u0445\u0442\u0435\u043d"], "name:war_x_preferred": ["Feichten"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377694601, 404227567, 101787771, 102063251, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 11594432}, "wof:country": "DE", "wof:geomhash": "128a8f21ca2ba964e48eaa3c74b81888", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063251, "localadmin_id": 1377694601, "locality_id": 101787771, "macrocounty_id": 404227567, "neighbourhood_id": 1393587751, "region_id": 85682571}], "wof:id": 1393587751, "wof:lastmodified": 1566716232, "wof:name": "Feichten", "wof:parent_id": 101787771, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1309720341], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.70153, 47.81828, 12.70153, 47.81828], "geometry": {"coordinates": [12.70153, 47.81828], "type": "Point"}}
+{
+  "id": 1393587751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70153,47.81828,12.70153,47.81828",
+    "geom:latitude":47.81828,
+    "geom:longitude":12.70153,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9189.0",
+    "gn:admin4_code":"9189145.0",
+    "gn:asciiname":"Feichten",
+    "gn:country_code":"DE",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594432,
+    "gn:latitude":47.81828,
+    "gn:longitude":12.70153,
+    "gn:modification_date":"2017-07-03",
+    "gn:name":"Feichten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"12.69653,47.81328,12.70653,47.82328",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0634\u062a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Feichten a.d.Alz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u06cc\u0634\u062a\u0646"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0581\u056b \u0556\u0561\u0575\u056d\u057f\u0565\u0576"
+    ],
+    "name:ilo_x_preferred":[
+        "Feichten"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0430\u0439\u0445\u0442\u0435\u043d-\u043d\u0430-\u0410\u043b\u044c\u0446\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Feichten"
+    ],
+    "name:por_x_preferred":[
+        "Feichten"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0439\u0445\u0442\u0435\u043d-\u0430\u043d-\u0434\u0435\u0440-\u0410\u043b\u044c\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Feichten"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0439\u0445\u0442\u0435\u043d"
+    ],
+    "name:war_x_preferred":[
+        "Feichten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377694601,
+        404227567,
+        101787771,
+        102063251,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594432
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"128a8f21ca2ba964e48eaa3c74b81888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063251,
+            "localadmin_id":1377694601,
+            "locality_id":101787771,
+            "macrocounty_id":404227567,
+            "neighbourhood_id":1393587751,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393587751,
+    "wof:lastmodified":1566716232,
+    "wof:name":"Feichten",
+    "wof:parent_id":101787771,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309720341
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70153,
+    47.81828,
+    12.70153,
+    47.81828
+],
+  "geometry": {"coordinates":[12.70153,47.81828],"type":"Point"}
+}

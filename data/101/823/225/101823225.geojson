@@ -1,1 +1,194 @@
-{"id": 101823225, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000295, "geom:area_square_m": 2301873.387284, "geom:bbox": "10.494392,50.869897,10.527148,50.887076", "geom:latitude": 50.877858, "geom:longitude": 10.511465, "gn:population": 4192, "iso:country": "DE", "lbl:latitude": 50.875312, "lbl:longitude": 10.516676, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 50.875312, "mps:longitude": 10.516676, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0422\u0430\u0431\u0430\u0440\u0446"], "name:cat_x_preferred": ["Bad Tabarz"], "name:ceb_x_preferred": ["Tabarz"], "name:dan_x_preferred": ["Tabarz"], "name:deu_x_preferred": ["Bad Tabarz"], "name:eng_x_preferred": ["Bad Tabarz"], "name:epo_x_preferred": ["Tabarz"], "name:eus_x_preferred": ["Tabarz"], "name:fas_x_preferred": ["\u062a\u0627\u0628\u0627\u0631\u062a\u0633"], "name:fra_x_preferred": ["Tabarz/Th\u00fcringer Wald"], "name:hun_x_preferred": ["Tabarz/Th\u00fcr. Wald"], "name:ita_x_preferred": ["Bad Tabarz"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30bf\u30d0\u30eb\u30c4"], "name:kaz_x_preferred": ["\u0422\u0430\u0431\u0430\u0440\u0446"], "name:kir_x_preferred": ["\u0422\u0430\u0431\u0430\u0440\u0446"], "name:lld_x_preferred": ["Bad Tabarz"], "name:mkd_x_preferred": ["\u0422\u0430\u0431\u0430\u0440\u0446"], "name:msa_x_preferred": ["Tabarz"], "name:nan_x_preferred": ["Bad Tabarz"], "name:nld_x_preferred": ["Tabarz/Th\u00fcr. Wald"], "name:nld_x_variant": ["Bad Tabarz"], "name:nob_x_preferred": ["Bad Tabarz"], "name:pol_x_preferred": ["Tabarz/Th\u00fcr. Wald"], "name:por_x_preferred": ["Tabarz"], "name:ron_x_preferred": ["Tabarz/Th\u00fcr. Wald"], "name:rus_x_preferred": ["\u0422\u0430\u0431\u0430\u0440\u0446"], "name:rus_x_variant": ["\u0411\u0430\u0434-\u0422\u0430\u0431\u0430\u0440\u0446"], "name:spa_x_preferred": ["Tabarz"], "name:srp_x_preferred": ["\u0422\u0430\u0431\u0430\u0440\u0446"], "name:swe_x_preferred": ["Bad Tabarz"], "name:ukr_x_preferred": ["\u0422\u0430\u0431\u0430\u0440\u0446"], "name:uzb_x_preferred": ["Tabarz/Th\u00fcr. Wald"], "name:vie_x_preferred": ["Tabarz"], "name:vol_x_preferred": ["Tabarz/Th\u00fcr. Wald"], "name:war_x_preferred": ["Tabarz"], "name:zho_x_preferred": ["\u5854\u5df4\u5c14\u8328"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Gotha", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Waltershausen", "qs:la_lc": "*DE16006700072", "qs:level": "locality", "qs:loc": "Tabarz/Th\u00fcr. Wald", "qs:loc_alt": "Tabarz/Thuer. Wald", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": [], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wof:belongsto": [85682541, 102191581, 1377690085, 85633111, 102063711], "wof:breaches": [], "wof:concordances": {"gn:id": 2824437, "gp:id": 698465, "qs_pg:id": 221949, "wd:id": "Q309670", "wk:page": "Tabarz"}, "wof:country": "DE", "wof:geomhash": "6dd585ecd628a825ce9333c79f184581", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063711, "localadmin_id": 1377690085, "locality_id": 101823225, "region_id": 85682541}], "wof:id": 101823225, "wof:lastmodified": 1690873118, "wof:name": "Tabarz/Th\u00fcr. Wald", "wof:parent_id": 1377690085, "wof:placetype": "locality", "wof:population": 4192, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.494392, 50.869897, 10.527148, 50.887076], "geometry": {"coordinates": [[[10.504473, 50.886153], [10.504443, 50.883456], [10.510127, 50.883431], [10.510147, 50.885229], [10.512989, 50.885216], [10.512929, 50.879823], [10.518613, 50.879798], [10.518643, 50.882494], [10.520064, 50.882488], [10.520053, 50.881589], [10.522895, 50.881576], [10.522885, 50.880677], [10.527148, 50.880658], [10.527117, 50.877961], [10.525696, 50.877968], [10.525635, 50.872574], [10.527056, 50.872568], [10.527046, 50.871669], [10.521364, 50.871695], [10.521344, 50.869897], [10.517082, 50.869916], [10.517092, 50.870815], [10.51141, 50.87084], [10.5114, 50.869941], [10.509979, 50.869947], [10.510019, 50.873543], [10.511439, 50.873537], [10.511469, 50.876234], [10.504366, 50.876265], [10.504346, 50.874467], [10.502925, 50.874473], [10.502916, 50.873574], [10.501495, 50.87358], [10.501505, 50.874479], [10.495822, 50.874504], [10.495813, 50.873605], [10.494392, 50.873611], [10.494421, 50.876308], [10.497262, 50.876296], [10.497272, 50.877194], [10.498692, 50.877188], [10.498721, 50.879885], [10.4973, 50.879891], [10.49731, 50.88079], [10.498731, 50.880784], [10.49876, 50.883481], [10.497339, 50.883487], [10.497358, 50.885285], [10.498779, 50.885278], [10.498798, 50.887076], [10.50164, 50.887064], [10.501631, 50.886165], [10.504473, 50.886153]]], "type": "Polygon"}}
+{
+  "id": 101823225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000295,
+    "geom:area_square_m":2301873.387284,
+    "geom:bbox":"10.494392,50.869897,10.527148,50.887076",
+    "geom:latitude":50.877858,
+    "geom:longitude":10.511465,
+    "gn:population":4192,
+    "iso:country":"DE",
+    "lbl:latitude":50.875312,
+    "lbl:longitude":10.516676,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":50.875312,
+    "mps:longitude":10.516676,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u0440\u0446"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Tabarz"
+    ],
+    "name:ceb_x_preferred":[
+        "Tabarz"
+    ],
+    "name:dan_x_preferred":[
+        "Tabarz"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Tabarz"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Tabarz"
+    ],
+    "name:epo_x_preferred":[
+        "Tabarz"
+    ],
+    "name:eus_x_preferred":[
+        "Tabarz"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0628\u0627\u0631\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Tabarz/Th\u00fcringer Wald"
+    ],
+    "name:hun_x_preferred":[
+        "Tabarz/Th\u00fcr. Wald"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Tabarz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30bf\u30d0\u30eb\u30c4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u0440\u0446"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u0440\u0446"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Tabarz"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u0440\u0446"
+    ],
+    "name:msa_x_preferred":[
+        "Tabarz"
+    ],
+    "name:nan_x_preferred":[
+        "Bad Tabarz"
+    ],
+    "name:nld_x_preferred":[
+        "Tabarz/Th\u00fcr. Wald"
+    ],
+    "name:nld_x_variant":[
+        "Bad Tabarz"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Tabarz"
+    ],
+    "name:pol_x_preferred":[
+        "Tabarz/Th\u00fcr. Wald"
+    ],
+    "name:por_x_preferred":[
+        "Tabarz"
+    ],
+    "name:ron_x_preferred":[
+        "Tabarz/Th\u00fcr. Wald"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u0440\u0446"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0434-\u0422\u0430\u0431\u0430\u0440\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Tabarz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u0440\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Tabarz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u0440\u0446"
+    ],
+    "name:uzb_x_preferred":[
+        "Tabarz/Th\u00fcr. Wald"
+    ],
+    "name:vie_x_preferred":[
+        "Tabarz"
+    ],
+    "name:vol_x_preferred":[
+        "Tabarz/Th\u00fcr. Wald"
+    ],
+    "name:war_x_preferred":[
+        "Tabarz"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5df4\u5c14\u8328"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Gotha",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Waltershausen",
+    "qs:la_lc":"*DE16006700072",
+    "qs:level":"locality",
+    "qs:loc":"Tabarz/Th\u00fcr. Wald",
+    "qs:loc_alt":"Tabarz/Thuer. Wald",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377690085,
+        85633111,
+        102063711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2824437,
+        "gp:id":698465,
+        "qs_pg:id":221949,
+        "wd:id":"Q309670",
+        "wk:page":"Tabarz"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"6dd585ecd628a825ce9333c79f184581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063711,
+            "localadmin_id":1377690085,
+            "locality_id":101823225,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101823225,
+    "wof:lastmodified":1690873118,
+    "wof:name":"Tabarz/Th\u00fcr. Wald",
+    "wof:parent_id":1377690085,
+    "wof:placetype":"locality",
+    "wof:population":4192,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.494392,
+    50.869897,
+    10.527148,
+    50.887076
+],
+  "geometry": {"coordinates":[[[10.504473,50.886153],[10.504443,50.883456],[10.510127,50.883431],[10.510147,50.885229],[10.512989,50.885216],[10.512929,50.879823],[10.518613,50.879798],[10.518643,50.882494],[10.520064,50.882488],[10.520053,50.881589],[10.522895,50.881576],[10.522885,50.880677],[10.527148,50.880658],[10.527117,50.877961],[10.525696,50.877968],[10.525635,50.872574],[10.527056,50.872568],[10.527046,50.871669],[10.521364,50.871695],[10.521344,50.869897],[10.517082,50.869916],[10.517092,50.870815],[10.51141,50.87084],[10.5114,50.869941],[10.509979,50.869947],[10.510019,50.873543],[10.511439,50.873537],[10.511469,50.876234],[10.504366,50.876265],[10.504346,50.874467],[10.502925,50.874473],[10.502916,50.873574],[10.501495,50.87358],[10.501505,50.874479],[10.495822,50.874504],[10.495813,50.873605],[10.494392,50.873611],[10.494421,50.876308],[10.497262,50.876296],[10.497272,50.877194],[10.498692,50.877188],[10.498721,50.879885],[10.4973,50.879891],[10.49731,50.88079],[10.498731,50.880784],[10.49876,50.883481],[10.497339,50.883487],[10.497358,50.885285],[10.498779,50.885278],[10.498798,50.887076],[10.50164,50.887064],[10.501631,50.886165],[10.504473,50.886153]]],"type":"Polygon"}
+}

@@ -1,1 +1,393 @@
-{"id": 101820065, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_12070008", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Wilsnack, Stadt", "eurostat:nuts_2021_id": "12070008", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE4", "eurostat:nuts_2021_level_2": "DE40", "eurostat:nuts_2021_level_3": "DE40F", "eurostat:nuts_2021_level_lau": "12070008", "eurostat:population": 2533, "eurostat:population_year": 2020, "geom:area": 0.010663, "geom:area_square_m": 79399501.015093, "geom:bbox": "11.830374,52.929272,12.033359,53.011643", "geom:latitude": 52.973139, "geom:longitude": 11.931581, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 2671, "iso:country": "DE", "lbl:latitude": 52.957069, "lbl:longitude": 11.946928, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 52.957069, "mps:longitude": 11.946928, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Wilsnack"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0641\u064a\u0644\u0633\u0646\u0627\u0643"], "name:arg_x_preferred": ["Bad Wilsnack"], "name:arz_x_preferred": ["\u0628\u0627\u062f \u0641\u064a\u0644\u0633\u0646\u0627\u0643"], "name:ast_x_preferred": ["Bad Wilsnack"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0648\u06cc\u0644\u0632\u0646\u0627\u06a9"], "name:bar_x_preferred": ["Bad Wilsnack"], "name:bre_x_preferred": ["Bad Wilsnack"], "name:cat_x_preferred": ["Bad Wilsnack"], "name:ceb_x_preferred": ["Bad Wilsnack"], "name:ces_x_preferred": ["Bad Wilsnack"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0412\u0438\u043b\u044c\u0441\u043d\u0430\u043a"], "name:cos_x_preferred": ["Bad Wilsnack"], "name:cym_x_preferred": ["Bad Wilsnack"], "name:dan_x_preferred": ["Bad Wilsnack"], "name:deu_x_preferred": ["Bad Wilsnack"], "name:eng_x_preferred": ["Bad Wilsnack"], "name:epo_x_preferred": ["Bad Wilsnack"], "name:est_x_preferred": ["Bad Wilsnack"], "name:eus_x_preferred": ["Bad Wilsnack"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0648\u06cc\u0644\u0632\u0646\u0627\u06a9"], "name:fin_x_preferred": ["Bad Wilsnack"], "name:fra_x_preferred": ["Bad Wilsnack"], "name:frp_x_preferred": ["Bad Wilsnack"], "name:fur_x_preferred": ["Bad Wilsnack"], "name:gla_x_preferred": ["Bad Wilsnack"], "name:gle_x_preferred": ["Bad Wilsnack"], "name:glg_x_preferred": ["Bad Wilsnack"], "name:gsw_x_preferred": ["Bad Wilsnack"], "name:hbs_x_preferred": ["Bad Wilsnack"], "name:hrv_x_preferred": ["Bad Wilsnack"], "name:hun_x_preferred": ["Bad Wilsnack"], "name:ido_x_preferred": ["Bad Wilsnack"], "name:ile_x_preferred": ["Bad Wilsnack"], "name:ina_x_preferred": ["Bad Wilsnack"], "name:ind_x_preferred": ["Bad Wilsnack"], "name:isl_x_preferred": ["Bad Wilsnack"], "name:ita_x_preferred": ["Bad Wilsnack"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30f4\u30a3\u30eb\u30b9\u30ca\u30c3\u30af"], "name:kon_x_preferred": ["Bad Wilsnack"], "name:kur_x_preferred": ["Bad Wilsnack"], "name:lav_x_preferred": ["B\u0101dvilsnaka"], "name:lij_x_preferred": ["Bad Wilsnack"], "name:lim_x_preferred": ["Bad Wilsnack"], "name:lld_x_preferred": ["Bad Wilsnack"], "name:ltz_x_preferred": ["Bad Wilsnack"], "name:min_x_preferred": ["Bad Wilsnack"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0412\u0438\u043b\u0441\u043d\u0430\u043a"], "name:mlg_x_preferred": ["Bad Wilsnack"], "name:msa_x_preferred": ["Bad Wilsnack"], "name:nap_x_preferred": ["Bad Wilsnack"], "name:nds_x_preferred": ["Bad Wilsnack"], "name:nld_x_preferred": ["Bad Wilsnack"], "name:nno_x_preferred": ["Bad Wilsnack"], "name:nob_x_preferred": ["Bad Wilsnack"], "name:nrm_x_preferred": ["Bad Wilsnack"], "name:oci_x_preferred": ["Bad Wilsnack"], "name:pcd_x_preferred": ["Bad Wilsnack"], "name:pms_x_preferred": ["Bad Wilsnack"], "name:pol_x_preferred": ["Bad Wilsnack"], "name:por_x_preferred": ["Bad Wilsnack"], "name:roh_x_preferred": ["Bad Wilsnack"], "name:ron_x_preferred": ["Bad Wilsnack"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0412\u0438\u043b\u044c\u0441\u043d\u0430\u043a"], "name:scn_x_preferred": ["Bad Wilsnack"], "name:sco_x_preferred": ["Bad Wilsnack"], "name:slk_x_preferred": ["Bad Wilsnack"], "name:slv_x_preferred": ["Bad Wilsnack"], "name:spa_x_preferred": ["Bad Wilsnack"], "name:srd_x_preferred": ["Bad Wilsnack"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0412\u0438\u043b\u0441\u043d\u0430\u043a"], "name:swa_x_preferred": ["Bad Wilsnack"], "name:swe_x_preferred": ["Bad Wilsnack"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0412\u0438\u043b\u044c\u0441\u043d\u0430\u043a"], "name:tum_x_preferred": ["Bad Wilsnack"], "name:tur_x_preferred": ["Bad Wilsnack"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0412\u0456\u043b\u044c\u0441\u043d\u0430\u043a"], "name:uzb_x_preferred": ["Bad Wilsnack"], "name:vec_x_preferred": ["Bad Wilsnack"], "name:vie_x_preferred": ["Bad Wilsnack"], "name:vls_x_preferred": ["Bad Wilsnack"], "name:vol_x_preferred": ["Bad Wilsnack"], "name:war_x_preferred": ["Bad Wilsnack"], "name:wln_x_preferred": ["Bad Wilsnack"], "name:wol_x_preferred": ["Bad Wilsnack"], "name:zho_x_preferred": ["\u5df4\u7279\u7ef4\u5c14\u65af\u7eb3\u514b"], "name:zho_x_variant": ["\u5df4\u5fb7\u7ef4\u5c14\u65af\u7eb3\u514b"], "name:zul_x_preferred": ["Bad Wilsnack"], "nav:latitude": 52.957069, "nav:longitude": 11.946928, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Brandenburg", "qs:a1r": "0", "qs:a2": "Prignitz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Bad Wilsnack", "qs:la_lc": "*DE12007001008", "qs:level": "locality", "qs:loc": "Bad Wilsnack", "qs:loc_alt": "Bad Wilsnack", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6550647, "qs_pg:gn_pop": 2671, "qs_pg:name": "Bad Wilsnack, Stadt", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 632182, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 52.95, "wd:longitude": 11.949722, "wd:wordcount": 489, "wof:belongsto": [85682553, 102191581, 1377683985, 85633111, 102064003], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_12070008", "eurostat:nuts_2021_id": "12070008", "gn:id": 2953316, "gp:id": 636529, "qs_pg:id": 1232144, "wd:id": "Q570108", "wk:page": "Bad Wilsnack"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "5ddc4aaa57422897647c1e5841a20542", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064003, "localadmin_id": 1377683985, "locality_id": 101820065, "region_id": 85682553}], "wof:id": 101820065, "wof:lastmodified": 1690872044, "wof:name": "Bad Wilsnack", "wof:parent_id": 1377683985, "wof:placetype": "locality", "wof:population": 2533, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125276497], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.830374, 52.929272, 12.033359, 53.011643], "geometry": {"coordinates": [[[[11.999946, 52.944639], [11.99467, 52.941809], [11.988979, 52.93678], [11.978719, 52.935727], [11.976334, 52.936502], [11.968635, 52.938082], [11.964472, 52.938936], [11.963014, 52.939235], [11.962151, 52.938319], [11.958058, 52.936956], [11.953308, 52.936896], [11.952369, 52.936872], [11.951426, 52.936703], [11.949444, 52.936085], [11.947183, 52.935576], [11.945347, 52.93542], [11.943396, 52.935371], [11.940083, 52.935197], [11.932542, 52.933965], [11.930795, 52.931059], [11.927138, 52.931209], [11.925049, 52.930532], [11.922411, 52.930349], [11.920089, 52.929534], [11.917991, 52.929293], [11.916277, 52.929272], [11.91196, 52.929519], [11.910129, 52.930351], [11.908491, 52.933026], [11.906858, 52.933621], [11.906124, 52.934879], [11.903562, 52.935763], [11.899919, 52.936344], [11.898724, 52.936655], [11.897829, 52.937061], [11.897157, 52.937464], [11.896562, 52.937965], [11.895999, 52.938511], [11.894959, 52.939054], [11.893724, 52.939518], [11.892977, 52.939922], [11.892512, 52.940278], [11.891872, 52.940744], [11.891004, 52.941086], [11.890239, 52.941374], [11.889014, 52.941711], [11.888039, 52.941938], [11.887262, 52.942307], [11.885356, 52.943804], [11.883389, 52.944476], [11.881349, 52.944119], [11.879336, 52.944465], [11.87565, 52.945613], [11.872032, 52.947047], [11.870868, 52.947411], [11.867245, 52.948702], [11.866065, 52.949039], [11.865194, 52.949291], [11.864083, 52.949457], [11.863133, 52.949566], [11.86231, 52.949899], [11.861682, 52.950302], [11.860866, 52.950954], [11.85915, 52.951966], [11.857395, 52.952813], [11.855807, 52.953555], [11.855001, 52.953009], [11.848304, 52.949516], [11.84731, 52.950597], [11.84603, 52.9516], [11.844217, 52.952681], [11.842058, 52.953685], [11.840044, 52.954534], [11.83646, 52.955535], [11.832661, 52.956547], [11.830374, 52.956968], [11.830768, 52.957477], [11.833284, 52.960965], [11.838883, 52.964402], [11.842314, 52.965101], [11.843237, 52.965577], [11.843343, 52.966124], [11.843775, 52.966605], [11.844084, 52.966997], [11.844603, 52.967423], [11.845716, 52.968247], [11.848053, 52.970068], [11.847521, 52.971728], [11.846799, 52.973027], [11.846274, 52.973393], [11.845655, 52.973615], [11.844823, 52.973687], [11.843994, 52.97384], [11.843232, 52.97428], [11.842545, 52.974711], [11.841539, 52.974938], [11.840602, 52.974984], [11.836662, 52.974236], [11.833622, 52.975168], [11.831536, 52.976153], [11.83549, 52.978358], [11.83782, 52.979034], [11.840615, 52.979839], [11.84193, 52.980463], [11.842956, 52.980883], [11.844323, 52.981264], [11.854399, 52.983895], [11.855824, 52.984202], [11.856842, 52.984371], [11.857845, 52.984504], [11.858629, 52.98481], [11.859339, 52.985125], [11.860121, 52.985368], [11.860949, 52.985647], [11.863504, 52.987123], [11.866257, 52.99109], [11.86847, 52.993772], [11.869426, 52.998194], [11.871274, 53.002525], [11.867655, 53.006953], [11.875929, 53.007472], [11.877346, 53.007492], [11.878819, 53.007403], [11.880291, 53.007278], [11.885547, 53.006607], [11.887255, 53.006408], [11.889201, 53.006215], [11.891329, 53.006092], [11.895167, 53.005841], [11.9071, 53.00581], [11.909527, 53.005854], [11.912079, 53.00611], [11.914811, 53.006435], [11.917187, 53.006728], [11.919178, 53.007026], [11.921194, 53.007181], [11.923265, 53.007193], [11.927047, 53.007042], [11.929593, 53.007119], [11.942829, 53.008426], [11.952604, 53.007941], [11.954885, 53.011632], [11.95534, 53.011639], [11.957248, 53.011643], [11.9594, 53.010964], [11.961158, 53.009935], [11.96262, 53.009079], [11.963403, 53.008854], [11.964294, 53.008762], [11.964593, 53.008785], [11.965115, 53.008797], [11.965758, 53.008852], [11.966521, 53.008924], [11.975526, 53.006712], [11.979425, 53.006113], [11.985655, 53.006825], [11.985624, 53.00785], [11.99225, 53.008009], [12.004576, 53.00748], [12.005605, 53.007063], [12.005302, 53.006914], [12.004967, 53.00672], [12.004858, 53.006577], [12.004849, 53.006317], [12.004993, 53.006162], [12.005403, 53.00595], [12.010304, 53.003669], [12.010759, 53.003456], [12.011217, 53.003343], [12.011975, 53.00327], [12.012731, 53.003153], [12.013102, 53.003103], [12.016514, 53.002171], [12.017798, 53.001804], [12.018743, 53.001541], [12.0197, 53.001196], [12.020815, 53.000679], [12.025063, 52.99853], [12.026352, 52.997876], [12.028537, 52.996383], [12.029656, 52.99556], [12.029993, 52.995411], [12.030379, 52.995344], [12.030826, 52.995365], [12.031288, 52.995368], [12.031568, 52.995275], [12.031862, 52.995154], [12.033044, 52.994429], [12.03332, 52.99421], [12.033359, 52.994047], [12.033306, 52.993805], [12.032999, 52.993548], [12.032363, 52.99326], [12.031984, 52.993067], [12.031679, 52.992873], [12.031347, 52.992319], [12.031221, 52.992123], [12.030306, 52.99066], [12.030104, 52.990402], [12.029719, 52.990038], [12.026947, 52.988292], [12.026217, 52.98787], [12.02611, 52.987808], [12.025264, 52.987018], [12.024951, 52.986591], [12.024742, 52.986135], [12.024724, 52.985613], [12.024766, 52.985118], [12.025024, 52.984827], [12.025743, 52.984504], [12.026066, 52.984356], [12.026254, 52.984201], [12.027453, 52.982657], [12.027468, 52.982238], [12.027139, 52.981838], [12.026531, 52.98137], [12.024751, 52.980766], [12.022657, 52.979896], [12.02082, 52.979205], [12.019748, 52.97898], [12.018839, 52.978897], [12.017816, 52.978957], [12.016641, 52.979186], [12.016013, 52.979241], [12.01542, 52.979201], [12.013559, 52.978939], [12.012453, 52.978881], [12.009818, 52.979056], [12.008363, 52.979146], [12.00738, 52.979229], [12.00508, 52.979995], [12.004499, 52.980288], [12.00416, 52.980744], [12.003993, 52.981069], [12.003824, 52.981359], [12.003549, 52.981596], [12.003017, 52.981729], [12.002705, 52.981751], [11.99876, 52.981853], [11.998477, 52.981857], [11.998165, 52.981861], [11.997819, 52.981775], [11.997638, 52.981714], [11.997377, 52.981484], [11.995827, 52.979704], [11.996384, 52.979419], [11.996847, 52.979017], [11.997009, 52.978512], [11.996928, 52.977874], [11.996973, 52.977442], [11.997182, 52.977017], [11.997526, 52.976617], [11.99926, 52.975031], [11.999525, 52.974489], [11.999686, 52.973983], [11.99961, 52.973489], [11.999655, 52.973057], [11.999874, 52.972488], [11.999852, 52.971841], [11.999538, 52.97135], [11.998801, 52.970712], [11.997899, 52.970013], [11.997166, 52.969491], [11.996564, 52.968851], [11.99614, 52.967768], [11.997307, 52.967304], [11.998286, 52.966915], [12.002862, 52.963945], [12.003785, 52.96307], [11.995107, 52.962421], [11.9935, 52.962838], [11.993022, 52.962962], [11.992425, 52.963095], [11.991449, 52.963312], [11.990706, 52.96207], [11.989286, 52.960578], [11.988723, 52.960234], [11.988228, 52.959665], [11.988111, 52.959279], [11.988125, 52.958821], [11.988242, 52.958316], [11.989803, 52.955594], [11.99422, 52.947893], [11.999946, 52.944639]]]], "type": "MultiPolygon"}}
+{
+  "id": 101820065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_12070008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Wilsnack, Stadt",
+    "eurostat:nuts_2021_id":"12070008",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE4",
+    "eurostat:nuts_2021_level_2":"DE40",
+    "eurostat:nuts_2021_level_3":"DE40F",
+    "eurostat:nuts_2021_level_lau":"12070008",
+    "eurostat:population":2533,
+    "eurostat:population_year":2020,
+    "geom:area":0.010663,
+    "geom:area_square_m":79399501.015093,
+    "geom:bbox":"11.830374,52.929272,12.033359,53.011643",
+    "geom:latitude":52.973139,
+    "geom:longitude":11.931581,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":2671,
+    "iso:country":"DE",
+    "lbl:latitude":52.957069,
+    "lbl:longitude":11.946928,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":52.957069,
+    "mps:longitude":11.946928,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0641\u064a\u0644\u0633\u0646\u0627\u0643"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062f \u0641\u064a\u0644\u0633\u0646\u0627\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0648\u06cc\u0644\u0632\u0646\u0627\u06a9"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0438\u043b\u044c\u0441\u043d\u0430\u043a"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:est_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0648\u06cc\u0644\u0632\u0646\u0627\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30f4\u30a3\u30eb\u30b9\u30ca\u30c3\u30af"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:lav_x_preferred":[
+        "B\u0101dvilsnaka"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:min_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0412\u0438\u043b\u0441\u043d\u0430\u043a"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:por_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0438\u043b\u044c\u0441\u043d\u0430\u043a"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0412\u0438\u043b\u0441\u043d\u0430\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0438\u043b\u044c\u0441\u043d\u0430\u043a"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0456\u043b\u044c\u0441\u043d\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:war_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u7ef4\u5c14\u65af\u7eb3\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u7ef4\u5c14\u65af\u7eb3\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Wilsnack"
+    ],
+    "nav:latitude":52.957069,
+    "nav:longitude":11.946928,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Brandenburg",
+    "qs:a1r":"0",
+    "qs:a2":"Prignitz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Bad Wilsnack",
+    "qs:la_lc":"*DE12007001008",
+    "qs:level":"locality",
+    "qs:loc":"Bad Wilsnack",
+    "qs:loc_alt":"Bad Wilsnack",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6550647,
+    "qs_pg:gn_pop":2671,
+    "qs_pg:name":"Bad Wilsnack, Stadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":632182,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":52.95,
+    "wd:longitude":11.949722,
+    "wd:wordcount":489,
+    "wof:belongsto":[
+        85682553,
+        102191581,
+        1377683985,
+        85633111,
+        102064003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_12070008",
+        "eurostat:nuts_2021_id":"12070008",
+        "gn:id":2953316,
+        "gp:id":636529,
+        "qs_pg:id":1232144,
+        "wd:id":"Q570108",
+        "wk:page":"Bad Wilsnack"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"5ddc4aaa57422897647c1e5841a20542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064003,
+            "localadmin_id":1377683985,
+            "locality_id":101820065,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":101820065,
+    "wof:lastmodified":1690872044,
+    "wof:name":"Bad Wilsnack",
+    "wof:parent_id":1377683985,
+    "wof:placetype":"locality",
+    "wof:population":2533,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125276497
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.830374,
+    52.929272,
+    12.033359,
+    53.011643
+],
+  "geometry": {"coordinates":[[[[11.999946,52.944639],[11.99467,52.941809],[11.988979,52.93678],[11.978719,52.935727],[11.976334,52.936502],[11.968635,52.938082],[11.964472,52.938936],[11.963014,52.939235],[11.962151,52.938319],[11.958058,52.936956],[11.953308,52.936896],[11.952369,52.936872],[11.951426,52.936703],[11.949444,52.936085],[11.947183,52.935576],[11.945347,52.93542],[11.943396,52.935371],[11.940083,52.935197],[11.932542,52.933965],[11.930795,52.931059],[11.927138,52.931209],[11.925049,52.930532],[11.922411,52.930349],[11.920089,52.929534],[11.917991,52.929293],[11.916277,52.929272],[11.91196,52.929519],[11.910129,52.930351],[11.908491,52.933026],[11.906858,52.933621],[11.906124,52.934879],[11.903562,52.935763],[11.899919,52.936344],[11.898724,52.936655],[11.897829,52.937061],[11.897157,52.937464],[11.896562,52.937965],[11.895999,52.938511],[11.894959,52.939054],[11.893724,52.939518],[11.892977,52.939922],[11.892512,52.940278],[11.891872,52.940744],[11.891004,52.941086],[11.890239,52.941374],[11.889014,52.941711],[11.888039,52.941938],[11.887262,52.942307],[11.885356,52.943804],[11.883389,52.944476],[11.881349,52.944119],[11.879336,52.944465],[11.87565,52.945613],[11.872032,52.947047],[11.870868,52.947411],[11.867245,52.948702],[11.866065,52.949039],[11.865194,52.949291],[11.864083,52.949457],[11.863133,52.949566],[11.86231,52.949899],[11.861682,52.950302],[11.860866,52.950954],[11.85915,52.951966],[11.857395,52.952813],[11.855807,52.953555],[11.855001,52.953009],[11.848304,52.949516],[11.84731,52.950597],[11.84603,52.9516],[11.844217,52.952681],[11.842058,52.953685],[11.840044,52.954534],[11.83646,52.955535],[11.832661,52.956547],[11.830374,52.956968],[11.830768,52.957477],[11.833284,52.960965],[11.838883,52.964402],[11.842314,52.965101],[11.843237,52.965577],[11.843343,52.966124],[11.843775,52.966605],[11.844084,52.966997],[11.844603,52.967423],[11.845716,52.968247],[11.848053,52.970068],[11.847521,52.971728],[11.846799,52.973027],[11.846274,52.973393],[11.845655,52.973615],[11.844823,52.973687],[11.843994,52.97384],[11.843232,52.97428],[11.842545,52.974711],[11.841539,52.974938],[11.840602,52.974984],[11.836662,52.974236],[11.833622,52.975168],[11.831536,52.976153],[11.83549,52.978358],[11.83782,52.979034],[11.840615,52.979839],[11.84193,52.980463],[11.842956,52.980883],[11.844323,52.981264],[11.854399,52.983895],[11.855824,52.984202],[11.856842,52.984371],[11.857845,52.984504],[11.858629,52.98481],[11.859339,52.985125],[11.860121,52.985368],[11.860949,52.985647],[11.863504,52.987123],[11.866257,52.99109],[11.86847,52.993772],[11.869426,52.998194],[11.871274,53.002525],[11.867655,53.006953],[11.875929,53.007472],[11.877346,53.007492],[11.878819,53.007403],[11.880291,53.007278],[11.885547,53.006607],[11.887255,53.006408],[11.889201,53.006215],[11.891329,53.006092],[11.895167,53.005841],[11.9071,53.00581],[11.909527,53.005854],[11.912079,53.00611],[11.914811,53.006435],[11.917187,53.006728],[11.919178,53.007026],[11.921194,53.007181],[11.923265,53.007193],[11.927047,53.007042],[11.929593,53.007119],[11.942829,53.008426],[11.952604,53.007941],[11.954885,53.011632],[11.95534,53.011639],[11.957248,53.011643],[11.9594,53.010964],[11.961158,53.009935],[11.96262,53.009079],[11.963403,53.008854],[11.964294,53.008762],[11.964593,53.008785],[11.965115,53.008797],[11.965758,53.008852],[11.966521,53.008924],[11.975526,53.006712],[11.979425,53.006113],[11.985655,53.006825],[11.985624,53.00785],[11.99225,53.008009],[12.004576,53.00748],[12.005605,53.007063],[12.005302,53.006914],[12.004967,53.00672],[12.004858,53.006577],[12.004849,53.006317],[12.004993,53.006162],[12.005403,53.00595],[12.010304,53.003669],[12.010759,53.003456],[12.011217,53.003343],[12.011975,53.00327],[12.012731,53.003153],[12.013102,53.003103],[12.016514,53.002171],[12.017798,53.001804],[12.018743,53.001541],[12.0197,53.001196],[12.020815,53.000679],[12.025063,52.99853],[12.026352,52.997876],[12.028537,52.996383],[12.029656,52.99556],[12.029993,52.995411],[12.030379,52.995344],[12.030826,52.995365],[12.031288,52.995368],[12.031568,52.995275],[12.031862,52.995154],[12.033044,52.994429],[12.03332,52.99421],[12.033359,52.994047],[12.033306,52.993805],[12.032999,52.993548],[12.032363,52.99326],[12.031984,52.993067],[12.031679,52.992873],[12.031347,52.992319],[12.031221,52.992123],[12.030306,52.99066],[12.030104,52.990402],[12.029719,52.990038],[12.026947,52.988292],[12.026217,52.98787],[12.02611,52.987808],[12.025264,52.987018],[12.024951,52.986591],[12.024742,52.986135],[12.024724,52.985613],[12.024766,52.985118],[12.025024,52.984827],[12.025743,52.984504],[12.026066,52.984356],[12.026254,52.984201],[12.027453,52.982657],[12.027468,52.982238],[12.027139,52.981838],[12.026531,52.98137],[12.024751,52.980766],[12.022657,52.979896],[12.02082,52.979205],[12.019748,52.97898],[12.018839,52.978897],[12.017816,52.978957],[12.016641,52.979186],[12.016013,52.979241],[12.01542,52.979201],[12.013559,52.978939],[12.012453,52.978881],[12.009818,52.979056],[12.008363,52.979146],[12.00738,52.979229],[12.00508,52.979995],[12.004499,52.980288],[12.00416,52.980744],[12.003993,52.981069],[12.003824,52.981359],[12.003549,52.981596],[12.003017,52.981729],[12.002705,52.981751],[11.99876,52.981853],[11.998477,52.981857],[11.998165,52.981861],[11.997819,52.981775],[11.997638,52.981714],[11.997377,52.981484],[11.995827,52.979704],[11.996384,52.979419],[11.996847,52.979017],[11.997009,52.978512],[11.996928,52.977874],[11.996973,52.977442],[11.997182,52.977017],[11.997526,52.976617],[11.99926,52.975031],[11.999525,52.974489],[11.999686,52.973983],[11.99961,52.973489],[11.999655,52.973057],[11.999874,52.972488],[11.999852,52.971841],[11.999538,52.97135],[11.998801,52.970712],[11.997899,52.970013],[11.997166,52.969491],[11.996564,52.968851],[11.99614,52.967768],[11.997307,52.967304],[11.998286,52.966915],[12.002862,52.963945],[12.003785,52.96307],[11.995107,52.962421],[11.9935,52.962838],[11.993022,52.962962],[11.992425,52.963095],[11.991449,52.963312],[11.990706,52.96207],[11.989286,52.960578],[11.988723,52.960234],[11.988228,52.959665],[11.988111,52.959279],[11.988125,52.958821],[11.988242,52.958316],[11.989803,52.955594],[11.99422,52.947893],[11.999946,52.944639]]]],"type":"MultiPolygon"}
+}

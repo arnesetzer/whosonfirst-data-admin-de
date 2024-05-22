@@ -1,1 +1,115 @@
-{"id": 1393594277, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "7.01126,49.22886,7.01126,49.22886", "geom:latitude": 49.22886, "geom:longitude": 7.01126, "gn:admin1_code": "9", "gn:admin2_code": "0.0", "gn:admin3_code": "10041.0", "gn:admin4_code": "10041100.0", "gn:asciiname": "Sankt Johann", "gn:country_code": "DE", "gn:dem": 197, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2841575, "gn:latitude": 49.22886, "gn:longitude": 7.01126, "gn:modification_date": "2015-09-04", "gn:name": "Sankt Johann", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "7.00626,49.22386,7.01626,49.23386", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Sankt Johann"], "name:deu_x_preferred": ["Sankt Johann"], "name:epo_x_preferred": ["Sankt Johann"], "name:fas_x_preferred": ["\u0633\u0646\u062a \u06cc\u0648\u0647\u0627\u0646"], "name:fra_x_preferred": ["Sankt Johann"], "name:ita_x_preferred": ["Sankt Johann"], "name:nld_x_preferred": ["Sankt Johann"], "name:pol_x_preferred": ["Sankt Johann"], "name:ron_x_preferred": ["Sankt Johann"], "name:rus_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0419\u043e\u0445\u0430\u043d"], "name:srp_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u0408\u043e\u0445\u0430\u043d"], "name:swe_x_preferred": ["Sankt Johann"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377694063, 85633111, 101905991, 102063437, 85682479], "wof:breaches": [], "wof:concordances": {"gn:id": 2841575}, "wof:country": "DE", "wof:geomhash": "13165fea66c9100f5b9ded97efb27959", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063437, "localadmin_id": 1377694063, "locality_id": 101905991, "neighbourhood_id": 1393594277, "region_id": 85682479}], "wof:id": 1393594277, "wof:lastmodified": 1566715051, "wof:name": "Sankt Johann", "wof:parent_id": 101905991, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1309795323], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.01126, 49.22886, 7.01126, 49.22886], "geometry": {"coordinates": [7.01126, 49.22886], "type": "Point"}}
+{
+  "id": 1393594277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01126,49.22886,7.01126,49.22886",
+    "geom:latitude":49.22886,
+    "geom:longitude":7.01126,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"10041.0",
+    "gn:admin4_code":"10041100.0",
+    "gn:asciiname":"Sankt Johann",
+    "gn:country_code":"DE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2841575,
+    "gn:latitude":49.22886,
+    "gn:longitude":7.01126,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"Sankt Johann",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"7.00626,49.22386,7.01626,49.23386",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Sankt Johann"
+    ],
+    "name:deu_x_preferred":[
+        "Sankt Johann"
+    ],
+    "name:epo_x_preferred":[
+        "Sankt Johann"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u06cc\u0648\u0647\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sankt Johann"
+    ],
+    "name:ita_x_preferred":[
+        "Sankt Johann"
+    ],
+    "name:nld_x_preferred":[
+        "Sankt Johann"
+    ],
+    "name:pol_x_preferred":[
+        "Sankt Johann"
+    ],
+    "name:ron_x_preferred":[
+        "Sankt Johann"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0419\u043e\u0445\u0430\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0408\u043e\u0445\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sankt Johann"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377694063,
+        85633111,
+        101905991,
+        102063437,
+        85682479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2841575
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"13165fea66c9100f5b9ded97efb27959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063437,
+            "localadmin_id":1377694063,
+            "locality_id":101905991,
+            "neighbourhood_id":1393594277,
+            "region_id":85682479
+        }
+    ],
+    "wof:id":1393594277,
+    "wof:lastmodified":1566715051,
+    "wof:name":"Sankt Johann",
+    "wof:parent_id":101905991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309795323
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01126,
+    49.22886,
+    7.01126,
+    49.22886
+],
+  "geometry": {"coordinates":[7.01126,49.22886],"type":"Point"}
+}

@@ -1,1 +1,146 @@
-{"id": 101908781, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4.4e-05, "geom:area_square_m": 318660.324125, "geom:bbox": "13.445073,53.765678,13.460368,53.771148", "geom:latitude": 53.76854, "geom:longitude": 13.453091, "gn:population": 220, "iso:country": "DE", "lbl:latitude": 53.768315, "lbl:longitude": 13.453091, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 53.768315, "mps:longitude": 13.453091, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:ast_x_preferred": ["Japenzin"], "name:ceb_x_preferred": ["Japenzin"], "name:che_x_preferred": ["\u042f\u043f\u0435\u043d\u0446\u0438\u043d"], "name:deu_x_preferred": ["Japenzin"], "name:eng_x_preferred": ["Japenzin"], "name:epo_x_preferred": ["Japenzin"], "name:fas_x_preferred": ["\u06cc\u0627\u067e\u0646\u062a\u0633\u06cc\u0646"], "name:fra_x_preferred": ["Japenzin"], "name:gle_x_preferred": ["Japenzin"], "name:kaz_x_preferred": ["\u042f\u043f\u0435\u043d\u0446\u0438\u043d"], "name:kir_x_preferred": ["\u042f\u043f\u0435\u043d\u0446\u0438\u043d"], "name:nld_x_preferred": ["Japenzin"], "name:ron_x_preferred": ["Japenzin"], "name:rus_x_preferred": ["\u042f\u043f\u0435\u043d\u0446\u0438\u043d"], "name:tat_x_preferred": ["\u042f\u043f\u0435\u043d\u0446\u0438\u043d"], "name:urd_x_preferred": ["\u062c\u067e\u0646\u0632\u06cc\u06ba"], "name:uzb_x_preferred": ["Japenzin"], "name:vol_x_preferred": ["Japenzin"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "Ostvorpommern", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Japenzin", "qs:la_lc": "*DE13005928034", "qs:level": "locality", "qs:loc": "Japenzin", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682487, 102191581, 1377685091, 85633111, 1377675571], "wof:breaches": [], "wof:concordances": {"gn:id": 2895181, "gp:id": 663962, "qs_pg:id": 1238683, "wd:id": "Q140226", "wk:page": "Japenzin"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "33cee7bc6bd97bc8280c118e66117b41", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675571, "localadmin_id": 1377685091, "locality_id": 101908781, "region_id": 85682487}], "wof:id": 101908781, "wof:lastmodified": 1690871889, "wof:name": "Japenzin", "wof:parent_id": 1377685091, "wof:placetype": "locality", "wof:population": 220, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.445073, 53.765678, 13.460368, 53.771148], "geometry": {"coordinates": [[[13.449837, 53.771106], [13.449763, 53.770208], [13.460368, 53.769908], [13.460221, 53.768114], [13.458706, 53.768156], [13.458633, 53.767259], [13.457118, 53.767302], [13.457045, 53.766404], [13.450986, 53.766576], [13.450912, 53.765678], [13.449398, 53.765721], [13.449617, 53.768413], [13.445073, 53.768542], [13.445146, 53.769439], [13.446661, 53.769396], [13.446734, 53.770294], [13.448249, 53.770251], [13.448322, 53.771148], [13.449837, 53.771106]]], "type": "Polygon"}}
+{
+  "id": 101908781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":318660.324125,
+    "geom:bbox":"13.445073,53.765678,13.460368,53.771148",
+    "geom:latitude":53.76854,
+    "geom:longitude":13.453091,
+    "gn:population":220,
+    "iso:country":"DE",
+    "lbl:latitude":53.768315,
+    "lbl:longitude":13.453091,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":53.768315,
+    "mps:longitude":13.453091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Japenzin"
+    ],
+    "name:ceb_x_preferred":[
+        "Japenzin"
+    ],
+    "name:che_x_preferred":[
+        "\u042f\u043f\u0435\u043d\u0446\u0438\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Japenzin"
+    ],
+    "name:eng_x_preferred":[
+        "Japenzin"
+    ],
+    "name:epo_x_preferred":[
+        "Japenzin"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u067e\u0646\u062a\u0633\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Japenzin"
+    ],
+    "name:gle_x_preferred":[
+        "Japenzin"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042f\u043f\u0435\u043d\u0446\u0438\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u042f\u043f\u0435\u043d\u0446\u0438\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Japenzin"
+    ],
+    "name:ron_x_preferred":[
+        "Japenzin"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043f\u0435\u043d\u0446\u0438\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u043f\u0435\u043d\u0446\u0438\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u067e\u0646\u0632\u06cc\u06ba"
+    ],
+    "name:uzb_x_preferred":[
+        "Japenzin"
+    ],
+    "name:vol_x_preferred":[
+        "Japenzin"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"Ostvorpommern",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Japenzin",
+    "qs:la_lc":"*DE13005928034",
+    "qs:level":"locality",
+    "qs:loc":"Japenzin",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377685091,
+        85633111,
+        1377675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2895181,
+        "gp:id":663962,
+        "qs_pg:id":1238683,
+        "wd:id":"Q140226",
+        "wk:page":"Japenzin"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"33cee7bc6bd97bc8280c118e66117b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675571,
+            "localadmin_id":1377685091,
+            "locality_id":101908781,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101908781,
+    "wof:lastmodified":1690871889,
+    "wof:name":"Japenzin",
+    "wof:parent_id":1377685091,
+    "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.445073,
+    53.765678,
+    13.460368,
+    53.771148
+],
+  "geometry": {"coordinates":[[[13.449837,53.771106],[13.449763,53.770208],[13.460368,53.769908],[13.460221,53.768114],[13.458706,53.768156],[13.458633,53.767259],[13.457118,53.767302],[13.457045,53.766404],[13.450986,53.766576],[13.450912,53.765678],[13.449398,53.765721],[13.449617,53.768413],[13.445073,53.768542],[13.445146,53.769439],[13.446661,53.769396],[13.446734,53.770294],[13.448249,53.770251],[13.448322,53.771148],[13.449837,53.771106]]],"type":"Polygon"}
+}

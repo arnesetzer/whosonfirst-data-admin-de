@@ -1,1 +1,124 @@
-{"id": 101910173, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 8.9e-05, "geom:area_square_m": 697598.037865, "geom:bbox": "12.790117,50.467261,12.811021,50.480283", "geom:latitude": 50.474801, "geom:longitude": 12.801043, "gn:population": 1889, "iso:country": "DE", "lbl:latitude": 50.476046, "lbl:longitude": 12.800014, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 50.476046, "mps:longitude": 12.800014, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Rittersgr\u00fcn"], "name:ceb_x_preferred": ["Rittersgr\u00fcn"], "name:ces_x_preferred": ["Rittersgr\u00fcn"], "name:deu_x_preferred": ["Ochsenkopf bei Rittersgr\u00fcn"], "name:deu_x_variant": ["Rittersgr\u00fcn"], "name:eng_x_preferred": ["Rittersgr\u00fcn"], "name:fra_x_preferred": ["Rittersgr\u00fcn"], "name:gle_x_preferred": ["Rittersgr\u00fcn"], "name:nld_x_preferred": ["Rittersgr\u00fcn"], "name:pol_x_preferred": ["Rittersgr\u00fcn"], "name:spa_x_preferred": ["Rittersgr\u00fcn"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen", "qs:a1r": "0", "qs:a2": "Erzgebirgskreis", "qs:a2r": "Chemnitz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Rittersgr\u00fcn", "qs:la_lc": "*DE14109111260", "qs:level": "locality", "qs:loc": "Rittersgr\u00fcn", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wof:belongsto": [85682523, 102191581, 1377685415, 85633111, 102064211], "wof:breaches": [], "wof:concordances": {"gn:id": 2846378, "gp:id": 688913, "qs_pg:id": 141858, "wd:id": "Q1284571"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "384501911ab4d8ea8f2bc9740b28626a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064211, "localadmin_id": 1377685415, "locality_id": 101910173, "region_id": 85682523}], "wof:id": 101910173, "wof:lastmodified": 1690873932, "wof:name": "Rittersgr\u00fcn", "wof:parent_id": 1377685415, "wof:placetype": "locality", "wof:population": 1889, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.790117, 50.467261, 12.811021, 50.480283], "geometry": {"coordinates": [[[12.803983, 50.475448], [12.808206, 50.475345], [12.808259, 50.476243], [12.809667, 50.476209], [12.809614, 50.475311], [12.811021, 50.475276], [12.810968, 50.474378], [12.808152, 50.474447], [12.808099, 50.473548], [12.805283, 50.473617], [12.80507, 50.470024], [12.806477, 50.46999], [12.80637, 50.468193], [12.807778, 50.468159], [12.807725, 50.467261], [12.803502, 50.467364], [12.803662, 50.470059], [12.802255, 50.470093], [12.802308, 50.470991], [12.799493, 50.47106], [12.799599, 50.472857], [12.798192, 50.472891], [12.798245, 50.473789], [12.796837, 50.473823], [12.796944, 50.47562], [12.795536, 50.475654], [12.795642, 50.477451], [12.792827, 50.477519], [12.79288, 50.478418], [12.791472, 50.478452], [12.791525, 50.47935], [12.790117, 50.479384], [12.79017, 50.480283], [12.794394, 50.48018], [12.794341, 50.479282], [12.802788, 50.479076], [12.802628, 50.476381], [12.804036, 50.476347], [12.803983, 50.475448]]], "type": "Polygon"}}
+{
+  "id": 101910173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":697598.037865,
+    "geom:bbox":"12.790117,50.467261,12.811021,50.480283",
+    "geom:latitude":50.474801,
+    "geom:longitude":12.801043,
+    "gn:population":1889,
+    "iso:country":"DE",
+    "lbl:latitude":50.476046,
+    "lbl:longitude":12.800014,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":50.476046,
+    "mps:longitude":12.800014,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Rittersgr\u00fcn"
+    ],
+    "name:ceb_x_preferred":[
+        "Rittersgr\u00fcn"
+    ],
+    "name:ces_x_preferred":[
+        "Rittersgr\u00fcn"
+    ],
+    "name:deu_x_preferred":[
+        "Ochsenkopf bei Rittersgr\u00fcn"
+    ],
+    "name:deu_x_variant":[
+        "Rittersgr\u00fcn"
+    ],
+    "name:eng_x_preferred":[
+        "Rittersgr\u00fcn"
+    ],
+    "name:fra_x_preferred":[
+        "Rittersgr\u00fcn"
+    ],
+    "name:gle_x_preferred":[
+        "Rittersgr\u00fcn"
+    ],
+    "name:nld_x_preferred":[
+        "Rittersgr\u00fcn"
+    ],
+    "name:pol_x_preferred":[
+        "Rittersgr\u00fcn"
+    ],
+    "name:spa_x_preferred":[
+        "Rittersgr\u00fcn"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Erzgebirgskreis",
+    "qs:a2r":"Chemnitz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Rittersgr\u00fcn",
+    "qs:la_lc":"*DE14109111260",
+    "qs:level":"locality",
+    "qs:loc":"Rittersgr\u00fcn",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682523,
+        102191581,
+        1377685415,
+        85633111,
+        102064211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2846378,
+        "gp:id":688913,
+        "qs_pg:id":141858,
+        "wd:id":"Q1284571"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"384501911ab4d8ea8f2bc9740b28626a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064211,
+            "localadmin_id":1377685415,
+            "locality_id":101910173,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":101910173,
+    "wof:lastmodified":1690873932,
+    "wof:name":"Rittersgr\u00fcn",
+    "wof:parent_id":1377685415,
+    "wof:placetype":"locality",
+    "wof:population":1889,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.790117,
+    50.467261,
+    12.811021,
+    50.480283
+],
+  "geometry": {"coordinates":[[[12.803983,50.475448],[12.808206,50.475345],[12.808259,50.476243],[12.809667,50.476209],[12.809614,50.475311],[12.811021,50.475276],[12.810968,50.474378],[12.808152,50.474447],[12.808099,50.473548],[12.805283,50.473617],[12.80507,50.470024],[12.806477,50.46999],[12.80637,50.468193],[12.807778,50.468159],[12.807725,50.467261],[12.803502,50.467364],[12.803662,50.470059],[12.802255,50.470093],[12.802308,50.470991],[12.799493,50.47106],[12.799599,50.472857],[12.798192,50.472891],[12.798245,50.473789],[12.796837,50.473823],[12.796944,50.47562],[12.795536,50.475654],[12.795642,50.477451],[12.792827,50.477519],[12.79288,50.478418],[12.791472,50.478452],[12.791525,50.47935],[12.790117,50.479384],[12.79017,50.480283],[12.794394,50.48018],[12.794341,50.479282],[12.802788,50.479076],[12.802628,50.476381],[12.804036,50.476347],[12.803983,50.475448]]],"type":"Polygon"}
+}

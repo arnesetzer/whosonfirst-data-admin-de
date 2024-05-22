@@ -1,1 +1,427 @@
-{"id": 101810035, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_06636001", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Sooden-Allendorf, Stadt", "eurostat:nuts_2021_id": "06636001", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE7", "eurostat:nuts_2021_level_2": "DE73", "eurostat:nuts_2021_level_3": "DE737", "eurostat:nuts_2021_level_lau": "06636001", "eurostat:population": 8631, "eurostat:population_year": 2020, "geom:area": 0.009513, "geom:area_square_m": 73593374.373429, "geom:bbox": "9.851064,51.229006,10.060124,51.321352", "geom:latitude": 51.270953, "geom:longitude": 9.950111, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 8487, "iso:country": "DE", "lbl:latitude": 51.2692, "lbl:longitude": 9.971161, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 51.2692, "mps:longitude": 9.971161, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Sooden-Allendorf"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0632\u0648\u062f\u0646-\u0622\u0644\u0646\u062f\u0648\u0631\u0641"], "name:arg_x_preferred": ["Bad Sooden-Allendorf"], "name:arz_x_preferred": ["\u0628\u0627\u062f \u0632\u0648\u062f\u0646 \u0622\u0644\u0646\u062f\u0648\u0631\u0641"], "name:ast_x_preferred": ["Bad Sooden-Allendorf"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0632\u0648\u0646\u062f\u0646-\u0627\u0644\u0646\u062f\u0648\u0631\u0641"], "name:bar_x_preferred": ["Bad Sooden-Allendorf"], "name:bre_x_preferred": ["Bad Sooden-Allendorf"], "name:cat_x_preferred": ["Bad Sooden-Allendorf"], "name:ceb_x_preferred": ["Bad Sooden-Allendorf"], "name:ces_x_preferred": ["Bad Sooden-Allendorf"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"], "name:cos_x_preferred": ["Bad Sooden-Allendorf"], "name:cym_x_preferred": ["Bad Sooden-Allendorf"], "name:dan_x_preferred": ["Bad Sooden-Allendorf"], "name:deu_x_preferred": ["Bad Sooden-Allendorf"], "name:deu_x_variant": ["Bad Sooden"], "name:eng_x_preferred": ["Allendorf"], "name:eng_x_variant": ["Bad Sooden-Allendorf"], "name:epo_x_preferred": ["Bad Sooden-Allendorf"], "name:est_x_preferred": ["Bad Sooden-Allendorf"], "name:eus_x_preferred": ["Bad Sooden-Allendorf"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0632\u0648\u0646\u062f\u0646-\u0627\u0644\u0646\u062f\u0648\u0631\u0641"], "name:fin_x_preferred": ["Bad Sooden-Allendorf"], "name:fra_x_preferred": ["Bad Sooden-Allendorf"], "name:frp_x_preferred": ["Bad Sooden-Allendorf"], "name:fur_x_preferred": ["Bad Sooden-Allendorf"], "name:gla_x_preferred": ["Bad Sooden-Allendorf"], "name:gle_x_preferred": ["Bad Sooden-Allendorf"], "name:glg_x_preferred": ["Bad Sooden-Allendorf"], "name:gsw_x_preferred": ["Bad Sooden-Allendorf"], "name:hbs_x_preferred": ["Bad Sooden-Allendorf"], "name:heb_x_preferred": ["\u05d1\u05d0\u05d3 \u05d6\u05d5\u05d3\u05df-\u05d0\u05dc\u05e0\u05d3\u05d5\u05e8\u05e3"], "name:hrv_x_preferred": ["Bad Sooden-Allendorf"], "name:hun_x_preferred": ["Bad Sooden-Allendorf"], "name:ido_x_preferred": ["Bad Sooden-Allendorf"], "name:ile_x_preferred": ["Bad Sooden-Allendorf"], "name:ina_x_preferred": ["Bad Sooden-Allendorf"], "name:ind_x_preferred": ["Bad Sooden-Allendorf"], "name:isl_x_preferred": ["Bad Sooden-Allendorf"], "name:ita_x_preferred": ["Bad Sooden-Allendorf"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30be\u30fc\u30c7\u30f3\uff1d\u30a2\u30ec\u30f3\u30c9\u30eb\u30d5"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"], "name:kon_x_preferred": ["Bad Sooden-Allendorf"], "name:kur_x_preferred": ["Bad Sooden-Allendorf"], "name:lij_x_preferred": ["Bad Sooden-Allendorf"], "name:lim_x_preferred": ["Bad Sooden-Allendorf"], "name:lld_x_preferred": ["Bad Sooden-Allendorf"], "name:ltz_x_preferred": ["Bad Sooden-Allendorf"], "name:min_x_preferred": ["Bad Sooden-Allendorf"], "name:mlg_x_preferred": ["Bad Sooden-Allendorf"], "name:msa_x_preferred": ["Bad Sooden-Allendorf"], "name:nap_x_preferred": ["Bad Sooden-Allendorf"], "name:nds_x_preferred": ["Bad Sooden-Allendorf"], "name:nld_x_preferred": ["Bad Sooden-Allendorf"], "name:nno_x_preferred": ["Bad Sooden-Allendorf"], "name:nob_x_preferred": ["Bad Sooden-Allendorf"], "name:nrm_x_preferred": ["Bad Sooden-Allendorf"], "name:oci_x_preferred": ["Bad Sooden-Allendorf"], "name:pcd_x_preferred": ["Bad Sooden-Allendorf"], "name:pms_x_preferred": ["Bad Sooden-Allendorf"], "name:pol_x_preferred": ["Bad Sooden-Allendorf"], "name:por_x_preferred": ["Bad Sooden-Allendorf"], "name:roh_x_preferred": ["Bad Sooden-Allendorf"], "name:ron_x_preferred": ["Bad Sooden-Allendorf"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"], "name:scn_x_preferred": ["Bad Sooden-Allendorf"], "name:sco_x_preferred": ["Bad Sooden-Allendorf"], "name:slk_x_preferred": ["Bad Sooden-Allendorf"], "name:slv_x_preferred": ["Bad Sooden-Allendorf"], "name:spa_x_preferred": ["Bad Sooden-Allendorf"], "name:srd_x_preferred": ["Bad Sooden-Allendorf"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u0435\u043d\u0434\u043e\u0440\u0444"], "name:swa_x_preferred": ["Bad Sooden-Allendorf"], "name:swe_x_preferred": ["Bad Sooden-Allendorf"], "name:szl_x_preferred": ["Bad Sooden-Allendorf"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"], "name:tum_x_preferred": ["Bad Sooden-Allendorf"], "name:tur_x_preferred": ["Bad Sooden-Allendorf"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"], "name:uzb_x_preferred": ["Bad Sooden-Allendorf"], "name:vec_x_preferred": ["Bad Sooden-Allendorf"], "name:vie_x_preferred": ["Bad Sooden-Allendorf"], "name:vls_x_preferred": ["Bad Sooden-Allendorf"], "name:vol_x_preferred": ["Bad Sooden-Allendorf"], "name:war_x_preferred": ["Bad Sooden-Allendorf"], "name:wln_x_preferred": ["Bad Sooden-Allendorf"], "name:wol_x_preferred": ["Bad Sooden-Allendorf"], "name:zho_x_preferred": ["\u5df4\u7279\u7d22\u767b-\u963f\u4f26\u591a\u592b"], "name:zho_x_variant": ["\u5df4\u5fb7\u7d22\u767b-\u963f\u4f26\u591a\u5c14\u592b"], "name:zul_x_preferred": ["Bad Sooden-Allendorf"], "nav:latitude": 51.2692, "nav:longitude": 9.971161, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Hessen", "qs:a1r": "0", "qs:a2": "Werra-Mei\u00dfner-Kreis", "qs:a2r": "Kassel", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Sooden-Allendorf", "qs:la_lc": "*DE06603600001", "qs:level": "locality", "qs:loc": "Bad Sooden-Allendorf", "qs:loc_alt": "Bad Sooden-Allendorf", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557840, "qs_pg:gn_pop": 8487, "qs_pg:name": "Bad Sooden-Allendorf, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Hessen", "qs_pg:photos": 7, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 207, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 5, "qs_pg:qs_id": 637863, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12632854, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:elevation": 162.0, "wd:latitude": 51.283333, "wd:longitude": 9.983333, "wd:population": 8350, "wd:wordcount": 1623, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Hessen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682531, 102191581, 85633111, 1377685065, 404227551, 102063763], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_06636001", "eurostat:nuts_2021_id": "06636001", "fct:id": "0736d69e-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2953336, "gp:id": 636513, "qs_pg:id": 142874, "wd:id": "Q564821", "wk:page": "Bad Sooden-Allendorf"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "b82b7903cd6196855dd1feb1d208af91", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063763, "localadmin_id": 1377685065, "locality_id": 101810035, "macrocounty_id": 404227551, "region_id": 85682531}], "wof:id": 101810035, "wof:lang": ["ger"], "wof:lastmodified": 1690872255, "wof:name": "Bad Sooden-Allendorf", "wof:parent_id": 1377685065, "wof:placetype": "locality", "wof:population": 8631, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125366263, 1125331943], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.851064, 51.229006, 10.060124, 51.321352], "geometry": {"coordinates": [[[[9.959744, 51.304912], [9.960547, 51.304772], [9.961063, 51.30455], [9.96538, 51.302311], [9.966117, 51.301928], [9.96668, 51.301651], [9.968901, 51.300699], [9.969506, 51.300468], [9.969853, 51.300271], [9.970115, 51.299984], [9.970348, 51.299698], [9.970395, 51.299293], [9.970257, 51.29589], [9.970379, 51.295224], [9.970537, 51.294701], [9.971036, 51.294203], [9.971647, 51.293896], [9.97241, 51.293614], [9.973865, 51.293271], [9.974619, 51.293005], [9.975381, 51.292747], [9.975842, 51.292296], [9.976189, 51.291822], [9.976424, 51.291204], [9.976422, 51.290539], [9.976116, 51.289692], [9.974509, 51.287192], [9.974339, 51.286984], [9.974084, 51.286722], [9.973842, 51.286532], [9.971981, 51.284896], [9.972977, 51.284351], [9.975155, 51.284856], [9.977937, 51.284751], [9.980638, 51.284058], [9.983448, 51.283336], [9.985282, 51.28353], [9.989454, 51.285262], [9.991332, 51.286556], [9.997261, 51.284908], [10.000233, 51.286063], [10.004331, 51.286983], [10.005988, 51.285916], [10.010347, 51.28346], [10.013699, 51.28262], [10.019955, 51.282763], [10.020512, 51.281766], [10.023934, 51.282032], [10.026708, 51.280136], [10.029987, 51.277882], [10.04141, 51.280392], [10.044908, 51.279092], [10.049294, 51.277681], [10.051608, 51.277579], [10.052335, 51.278721], [10.053718, 51.279], [10.057277, 51.277367], [10.059916, 51.275865], [10.060124, 51.273662], [10.058837, 51.270175], [10.057452, 51.267656], [10.055862, 51.267193], [10.054687, 51.266332], [10.053499, 51.266699], [10.052535, 51.267552], [10.050373, 51.265116], [10.048193, 51.264536], [10.046554, 51.264501], [10.046341, 51.262986], [10.047536, 51.261877], [10.047906, 51.26125], [10.047325, 51.260219], [10.047104, 51.259504], [10.047426, 51.259191], [10.048607, 51.259453], [10.049428, 51.259284], [10.050117, 51.258716], [10.049466, 51.255371], [10.048017, 51.254594], [10.046969, 51.253426], [10.045261, 51.252057], [10.043014, 51.250276], [10.038906, 51.249576], [10.032546, 51.25045], [10.029532, 51.249359], [10.026588, 51.24986], [10.025052, 51.250123], [10.024524, 51.248439], [10.02555, 51.246293], [10.017007, 51.236604], [10.013247, 51.234357], [10.0077, 51.23436], [10.005596, 51.235449], [9.998932, 51.236726], [9.997853, 51.237273], [9.997076, 51.237642], [9.996071, 51.23798], [9.995249, 51.238234], [9.994428, 51.238373], [9.994092, 51.238345], [9.993701, 51.238313], [9.993526, 51.238176], [9.993295, 51.237997], [9.993211, 51.237368], [9.992946, 51.236567], [9.992316, 51.235936], [9.99155, 51.235304], [9.990724, 51.234953], [9.990566, 51.234891], [9.989963, 51.234726], [9.98928, 51.23478], [9.988429, 51.235241], [9.987822, 51.235661], [9.987115, 51.236126], [9.986293, 51.236563], [9.985846, 51.236822], [9.9855, 51.237009], [9.983411, 51.237981], [9.983064, 51.238231], [9.982773, 51.238581], [9.982512, 51.238885], [9.98235, 51.239254], [9.982346, 51.23965], [9.982385, 51.240028], [9.982453, 51.240289], [9.982622, 51.240586], [9.982862, 51.240938], [9.973761, 51.24079], [9.968006, 51.240215], [9.964286, 51.239667], [9.966721, 51.243511], [9.960772, 51.245958], [9.958682, 51.245751], [9.951698, 51.250793], [9.946267, 51.250551], [9.945922, 51.249443], [9.945673, 51.248695], [9.944801, 51.248457], [9.936142, 51.246139], [9.930481, 51.247156], [9.931499, 51.248276], [9.925951, 51.247169], [9.923372, 51.249316], [9.922299, 51.252595], [9.91794, 51.251467], [9.914852, 51.254195], [9.915156, 51.257355], [9.913514, 51.257031], [9.911992, 51.254404], [9.910203, 51.254895], [9.907547, 51.254726], [9.904488, 51.256771], [9.902755, 51.255858], [9.901078, 51.256006], [9.899529, 51.255889], [9.899843, 51.255152], [9.899293, 51.254378], [9.896517, 51.256091], [9.894263, 51.25526], [9.895313, 51.253925], [9.893369, 51.254095], [9.890983, 51.253903], [9.888175, 51.251341], [9.88737, 51.250609], [9.884695, 51.250163], [9.879496, 51.247679], [9.879114, 51.246202], [9.879175, 51.24595], [9.879701, 51.244171], [9.878123, 51.243191], [9.877045, 51.242349], [9.876364, 51.241814], [9.87579, 51.240813], [9.87526, 51.239721], [9.87497, 51.238865], [9.875061, 51.237462], [9.875706, 51.236395], [9.875447, 51.235412], [9.875212, 51.234781], [9.875528, 51.233667], [9.875944, 51.232554], [9.876502, 51.231612], [9.876517, 51.230488], [9.875798, 51.229638], [9.875448, 51.229006], [9.875247, 51.229014], [9.867891, 51.229344], [9.867191, 51.230222], [9.866736, 51.231047], [9.866726, 51.231731], [9.866388, 51.232386], [9.865708, 51.232868], [9.864829, 51.233151], [9.863382, 51.233143], [9.862064, 51.233136], [9.861139, 51.232645], [9.859188, 51.231771], [9.858165, 51.232107], [9.856712, 51.231523], [9.856145, 51.234147], [9.858538, 51.235204], [9.859084, 51.236081], [9.858256, 51.236738], [9.856983, 51.235459], [9.85611, 51.235894], [9.854255, 51.235037], [9.85311, 51.235654], [9.851064, 51.236755], [9.851597, 51.237559], [9.853195, 51.239901], [9.852672, 51.240597], [9.854236, 51.241506], [9.854705, 51.241796], [9.855204, 51.242033], [9.855874, 51.24227], [9.855271, 51.243356], [9.858309, 51.248564], [9.859686, 51.252638], [9.85957, 51.257892], [9.860252, 51.264581], [9.865362, 51.268415], [9.870449, 51.270862], [9.873814, 51.277798], [9.873644, 51.279154], [9.871566, 51.284715], [9.872747, 51.286422], [9.881268, 51.287664], [9.876694, 51.288467], [9.879354, 51.290218], [9.881539, 51.289897], [9.88367, 51.289395], [9.885877, 51.29171], [9.888918, 51.292869], [9.893289, 51.295509], [9.893803, 51.298994], [9.898212, 51.300969], [9.897693, 51.303369], [9.899843, 51.304693], [9.898941, 51.305624], [9.898592, 51.305965], [9.896686, 51.307907], [9.896884, 51.310319], [9.896995, 51.311706], [9.90086, 51.313669], [9.905046, 51.31414], [9.909196, 51.312919], [9.911033, 51.312974], [9.914912, 51.315044], [9.913104, 51.316088], [9.913568, 51.31681], [9.917645, 51.318018], [9.917762, 51.317821], [9.918084, 51.317381], [9.918374, 51.317131], [9.918663, 51.316979], [9.920439, 51.316232], [9.921001, 51.316028], [9.921362, 51.315886], [9.921695, 51.315681], [9.924416, 51.313895], [9.924822, 51.3136], [9.92547, 51.313378], [9.926032, 51.31321], [9.926781, 51.313043], [9.927803, 51.312868], [9.928406, 51.312817], [9.928952, 51.312792], [9.929698, 51.312823], [9.930387, 51.312853], [9.930903, 51.31291], [9.931629, 51.313055], [9.932177, 51.31324], [9.932705, 51.313431], [9.933204, 51.313722], [9.933617, 51.314056], [9.933985, 51.314463], [9.93461, 51.315308], [9.935426, 51.316883], [9.936698, 51.318531], [9.938354, 51.319801], [9.940395, 51.320644], [9.942364, 51.321153], [9.944109, 51.321352], [9.945478, 51.321287], [9.946872, 51.320832], [9.947366, 51.320411], [9.94818, 51.319578], [9.948601, 51.319148], [9.94892, 51.318871], [9.949173, 51.318206], [9.949037, 51.317558], [9.948771, 51.31699], [9.948176, 51.316321], [9.947536, 51.315751], [9.946526, 51.315], [9.945502, 51.31423], [9.943168, 51.312546], [9.942566, 51.312091], [9.942306, 51.311614], [9.94191, 51.310857], [9.941639, 51.310206], [9.941227, 51.309799], [9.9407, 51.309392], [9.94006, 51.308889], [9.939647, 51.308482], [9.939311, 51.308029], [9.939315, 51.307672], [9.939357, 51.30741], [9.939742, 51.306959], [9.940202, 51.306581], [9.944838, 51.303652], [9.945563, 51.303369], [9.946288, 51.303111], [9.947163, 51.302949], [9.948151, 51.302929], [9.949365, 51.302983], [9.950313, 51.30313], [9.951449, 51.303397], [9.95675, 51.304707], [9.957925, 51.304879], [9.958912, 51.304932], [9.959744, 51.304912]]]], "type": "MultiPolygon"}}
+{
+  "id": 101810035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_06636001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Sooden-Allendorf, Stadt",
+    "eurostat:nuts_2021_id":"06636001",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE7",
+    "eurostat:nuts_2021_level_2":"DE73",
+    "eurostat:nuts_2021_level_3":"DE737",
+    "eurostat:nuts_2021_level_lau":"06636001",
+    "eurostat:population":8631,
+    "eurostat:population_year":2020,
+    "geom:area":0.009513,
+    "geom:area_square_m":73593374.373429,
+    "geom:bbox":"9.851064,51.229006,10.060124,51.321352",
+    "geom:latitude":51.270953,
+    "geom:longitude":9.950111,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":8487,
+    "iso:country":"DE",
+    "lbl:latitude":51.2692,
+    "lbl:longitude":9.971161,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":51.2692,
+    "mps:longitude":9.971161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0632\u0648\u062f\u0646-\u0622\u0644\u0646\u062f\u0648\u0631\u0641"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062f \u0632\u0648\u062f\u0646 \u0622\u0644\u0646\u062f\u0648\u0631\u0641"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0632\u0648\u0646\u062f\u0646-\u0627\u0644\u0646\u062f\u0648\u0631\u0641"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:deu_x_variant":[
+        "Bad Sooden"
+    ],
+    "name:eng_x_preferred":[
+        "Allendorf"
+    ],
+    "name:eng_x_variant":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:est_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0632\u0648\u0646\u062f\u0646-\u0627\u0644\u0646\u062f\u0648\u0631\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d3 \u05d6\u05d5\u05d3\u05df-\u05d0\u05dc\u05e0\u05d3\u05d5\u05e8\u05e3"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30be\u30fc\u30c7\u30f3\uff1d\u30a2\u30ec\u30f3\u30c9\u30eb\u30d5"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:min_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:por_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:szl_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0417\u043e\u0434\u0435\u043d-\u0410\u043b\u043b\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:war_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u7d22\u767b-\u963f\u4f26\u591a\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u7d22\u767b-\u963f\u4f26\u591a\u5c14\u592b"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Sooden-Allendorf"
+    ],
+    "nav:latitude":51.2692,
+    "nav:longitude":9.971161,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Hessen",
+    "qs:a1r":"0",
+    "qs:a2":"Werra-Mei\u00dfner-Kreis",
+    "qs:a2r":"Kassel",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Sooden-Allendorf",
+    "qs:la_lc":"*DE06603600001",
+    "qs:level":"locality",
+    "qs:loc":"Bad Sooden-Allendorf",
+    "qs:loc_alt":"Bad Sooden-Allendorf",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557840,
+    "qs_pg:gn_pop":8487,
+    "qs_pg:name":"Bad Sooden-Allendorf, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Hessen",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":207,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":637863,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12632854,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:elevation":162.0,
+    "wd:latitude":51.283333,
+    "wd:longitude":9.983333,
+    "wd:population":8350,
+    "wd:wordcount":1623,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Hessen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682531,
+        102191581,
+        85633111,
+        1377685065,
+        404227551,
+        102063763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_06636001",
+        "eurostat:nuts_2021_id":"06636001",
+        "fct:id":"0736d69e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2953336,
+        "gp:id":636513,
+        "qs_pg:id":142874,
+        "wd:id":"Q564821",
+        "wk:page":"Bad Sooden-Allendorf"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"b82b7903cd6196855dd1feb1d208af91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063763,
+            "localadmin_id":1377685065,
+            "locality_id":101810035,
+            "macrocounty_id":404227551,
+            "region_id":85682531
+        }
+    ],
+    "wof:id":101810035,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690872255,
+    "wof:name":"Bad Sooden-Allendorf",
+    "wof:parent_id":1377685065,
+    "wof:placetype":"locality",
+    "wof:population":8631,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125366263,
+        1125331943
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.851064,
+    51.229006,
+    10.060124,
+    51.321352
+],
+  "geometry": {"coordinates":[[[[9.959744,51.304912],[9.960547,51.304772],[9.961063,51.30455],[9.96538,51.302311],[9.966117,51.301928],[9.96668,51.301651],[9.968901,51.300699],[9.969506,51.300468],[9.969853,51.300271],[9.970115,51.299984],[9.970348,51.299698],[9.970395,51.299293],[9.970257,51.29589],[9.970379,51.295224],[9.970537,51.294701],[9.971036,51.294203],[9.971647,51.293896],[9.97241,51.293614],[9.973865,51.293271],[9.974619,51.293005],[9.975381,51.292747],[9.975842,51.292296],[9.976189,51.291822],[9.976424,51.291204],[9.976422,51.290539],[9.976116,51.289692],[9.974509,51.287192],[9.974339,51.286984],[9.974084,51.286722],[9.973842,51.286532],[9.971981,51.284896],[9.972977,51.284351],[9.975155,51.284856],[9.977937,51.284751],[9.980638,51.284058],[9.983448,51.283336],[9.985282,51.28353],[9.989454,51.285262],[9.991332,51.286556],[9.997261,51.284908],[10.000233,51.286063],[10.004331,51.286983],[10.005988,51.285916],[10.010347,51.28346],[10.013699,51.28262],[10.019955,51.282763],[10.020512,51.281766],[10.023934,51.282032],[10.026708,51.280136],[10.029987,51.277882],[10.04141,51.280392],[10.044908,51.279092],[10.049294,51.277681],[10.051608,51.277579],[10.052335,51.278721],[10.053718,51.279],[10.057277,51.277367],[10.059916,51.275865],[10.060124,51.273662],[10.058837,51.270175],[10.057452,51.267656],[10.055862,51.267193],[10.054687,51.266332],[10.053499,51.266699],[10.052535,51.267552],[10.050373,51.265116],[10.048193,51.264536],[10.046554,51.264501],[10.046341,51.262986],[10.047536,51.261877],[10.047906,51.26125],[10.047325,51.260219],[10.047104,51.259504],[10.047426,51.259191],[10.048607,51.259453],[10.049428,51.259284],[10.050117,51.258716],[10.049466,51.255371],[10.048017,51.254594],[10.046969,51.253426],[10.045261,51.252057],[10.043014,51.250276],[10.038906,51.249576],[10.032546,51.25045],[10.029532,51.249359],[10.026588,51.24986],[10.025052,51.250123],[10.024524,51.248439],[10.02555,51.246293],[10.017007,51.236604],[10.013247,51.234357],[10.0077,51.23436],[10.005596,51.235449],[9.998932,51.236726],[9.997853,51.237273],[9.997076,51.237642],[9.996071,51.23798],[9.995249,51.238234],[9.994428,51.238373],[9.994092,51.238345],[9.993701,51.238313],[9.993526,51.238176],[9.993295,51.237997],[9.993211,51.237368],[9.992946,51.236567],[9.992316,51.235936],[9.99155,51.235304],[9.990724,51.234953],[9.990566,51.234891],[9.989963,51.234726],[9.98928,51.23478],[9.988429,51.235241],[9.987822,51.235661],[9.987115,51.236126],[9.986293,51.236563],[9.985846,51.236822],[9.9855,51.237009],[9.983411,51.237981],[9.983064,51.238231],[9.982773,51.238581],[9.982512,51.238885],[9.98235,51.239254],[9.982346,51.23965],[9.982385,51.240028],[9.982453,51.240289],[9.982622,51.240586],[9.982862,51.240938],[9.973761,51.24079],[9.968006,51.240215],[9.964286,51.239667],[9.966721,51.243511],[9.960772,51.245958],[9.958682,51.245751],[9.951698,51.250793],[9.946267,51.250551],[9.945922,51.249443],[9.945673,51.248695],[9.944801,51.248457],[9.936142,51.246139],[9.930481,51.247156],[9.931499,51.248276],[9.925951,51.247169],[9.923372,51.249316],[9.922299,51.252595],[9.91794,51.251467],[9.914852,51.254195],[9.915156,51.257355],[9.913514,51.257031],[9.911992,51.254404],[9.910203,51.254895],[9.907547,51.254726],[9.904488,51.256771],[9.902755,51.255858],[9.901078,51.256006],[9.899529,51.255889],[9.899843,51.255152],[9.899293,51.254378],[9.896517,51.256091],[9.894263,51.25526],[9.895313,51.253925],[9.893369,51.254095],[9.890983,51.253903],[9.888175,51.251341],[9.88737,51.250609],[9.884695,51.250163],[9.879496,51.247679],[9.879114,51.246202],[9.879175,51.24595],[9.879701,51.244171],[9.878123,51.243191],[9.877045,51.242349],[9.876364,51.241814],[9.87579,51.240813],[9.87526,51.239721],[9.87497,51.238865],[9.875061,51.237462],[9.875706,51.236395],[9.875447,51.235412],[9.875212,51.234781],[9.875528,51.233667],[9.875944,51.232554],[9.876502,51.231612],[9.876517,51.230488],[9.875798,51.229638],[9.875448,51.229006],[9.875247,51.229014],[9.867891,51.229344],[9.867191,51.230222],[9.866736,51.231047],[9.866726,51.231731],[9.866388,51.232386],[9.865708,51.232868],[9.864829,51.233151],[9.863382,51.233143],[9.862064,51.233136],[9.861139,51.232645],[9.859188,51.231771],[9.858165,51.232107],[9.856712,51.231523],[9.856145,51.234147],[9.858538,51.235204],[9.859084,51.236081],[9.858256,51.236738],[9.856983,51.235459],[9.85611,51.235894],[9.854255,51.235037],[9.85311,51.235654],[9.851064,51.236755],[9.851597,51.237559],[9.853195,51.239901],[9.852672,51.240597],[9.854236,51.241506],[9.854705,51.241796],[9.855204,51.242033],[9.855874,51.24227],[9.855271,51.243356],[9.858309,51.248564],[9.859686,51.252638],[9.85957,51.257892],[9.860252,51.264581],[9.865362,51.268415],[9.870449,51.270862],[9.873814,51.277798],[9.873644,51.279154],[9.871566,51.284715],[9.872747,51.286422],[9.881268,51.287664],[9.876694,51.288467],[9.879354,51.290218],[9.881539,51.289897],[9.88367,51.289395],[9.885877,51.29171],[9.888918,51.292869],[9.893289,51.295509],[9.893803,51.298994],[9.898212,51.300969],[9.897693,51.303369],[9.899843,51.304693],[9.898941,51.305624],[9.898592,51.305965],[9.896686,51.307907],[9.896884,51.310319],[9.896995,51.311706],[9.90086,51.313669],[9.905046,51.31414],[9.909196,51.312919],[9.911033,51.312974],[9.914912,51.315044],[9.913104,51.316088],[9.913568,51.31681],[9.917645,51.318018],[9.917762,51.317821],[9.918084,51.317381],[9.918374,51.317131],[9.918663,51.316979],[9.920439,51.316232],[9.921001,51.316028],[9.921362,51.315886],[9.921695,51.315681],[9.924416,51.313895],[9.924822,51.3136],[9.92547,51.313378],[9.926032,51.31321],[9.926781,51.313043],[9.927803,51.312868],[9.928406,51.312817],[9.928952,51.312792],[9.929698,51.312823],[9.930387,51.312853],[9.930903,51.31291],[9.931629,51.313055],[9.932177,51.31324],[9.932705,51.313431],[9.933204,51.313722],[9.933617,51.314056],[9.933985,51.314463],[9.93461,51.315308],[9.935426,51.316883],[9.936698,51.318531],[9.938354,51.319801],[9.940395,51.320644],[9.942364,51.321153],[9.944109,51.321352],[9.945478,51.321287],[9.946872,51.320832],[9.947366,51.320411],[9.94818,51.319578],[9.948601,51.319148],[9.94892,51.318871],[9.949173,51.318206],[9.949037,51.317558],[9.948771,51.31699],[9.948176,51.316321],[9.947536,51.315751],[9.946526,51.315],[9.945502,51.31423],[9.943168,51.312546],[9.942566,51.312091],[9.942306,51.311614],[9.94191,51.310857],[9.941639,51.310206],[9.941227,51.309799],[9.9407,51.309392],[9.94006,51.308889],[9.939647,51.308482],[9.939311,51.308029],[9.939315,51.307672],[9.939357,51.30741],[9.939742,51.306959],[9.940202,51.306581],[9.944838,51.303652],[9.945563,51.303369],[9.946288,51.303111],[9.947163,51.302949],[9.948151,51.302929],[9.949365,51.302983],[9.950313,51.30313],[9.951449,51.303397],[9.95675,51.304707],[9.957925,51.304879],[9.958912,51.304932],[9.959744,51.304912]]]],"type":"MultiPolygon"}
+}

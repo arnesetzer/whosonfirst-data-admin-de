@@ -1,1 +1,275 @@
-{"id": 101842583, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08337013", "eurostat:level_code": "lau", "eurostat:name_local": "Bernau im Schwarzwald", "eurostat:nuts_2021_id": "08337013", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE13A", "eurostat:nuts_2021_level_lau": "08337013", "eurostat:population": 1995, "eurostat:population_year": 2020, "geom:area": 0.004554, "geom:area_square_m": 37831480.308582, "geom:bbox": "7.997803,47.758473,8.09687,47.84343", "geom:latitude": 47.796383, "geom:longitude": 8.036998, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 1887, "iso:country": "DE", "lbl:latitude": 47.802225, "lbl:longitude": 8.037229, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 47.802225, "mps:longitude": 8.037229, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bernau im Schwarzwald"], "name:als_x_preferred": ["Bernau im Schwarzwald"], "name:cat_x_preferred": ["Bernau im Schwarzwald"], "name:ceb_x_preferred": ["Bernau im Schwarzwald"], "name:ces_x_preferred": ["Bernau im Schwarzwald"], "name:che_x_preferred": ["\u0411\u0435\u0440\u043d\u0430\u0443"], "name:dan_x_preferred": ["Bernau im Schwarzwald"], "name:deu_x_preferred": ["Bernau im Schwarzwald"], "name:eng_x_preferred": ["Bernau im Schwarzwald"], "name:epo_x_preferred": ["Bernau im Schwarzwald"], "name:eus_x_preferred": ["Bernau im Schwarzwald"], "name:fas_x_preferred": ["\u0628\u0631\u0646\u0627\u0648 \u0627\u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0633\u0648\u0627\u0644\u062f"], "name:fra_x_preferred": ["Bernau im Schwarzwald"], "name:gsw_x_preferred": ["Bernau im Schwarzwald"], "name:hbs_x_preferred": ["Bernau im Schwarzwald"], "name:hun_x_preferred": ["Bernau im Schwarzwald"], "name:ita_x_preferred": ["Bernau im Schwarzwald"], "name:kaz_x_preferred": ["\u0411\u0435\u0440\u043d\u0430\u0443"], "name:kir_x_preferred": ["\u0411\u0435\u0440\u043d\u0430\u0443"], "name:kur_x_preferred": ["Bernau im Schwarzwald"], "name:lat_x_preferred": ["Bernau im Schwarzwald"], "name:lld_x_preferred": ["Bernau im Schwarzwald"], "name:lmo_x_preferred": ["Bernau im Schwarzwald"], "name:msa_x_preferred": ["Bernau im Schwarzwald"], "name:nan_x_preferred": ["Bernau im Schwarzwald"], "name:nld_x_preferred": ["Bernau im Schwarzwald"], "name:nob_x_preferred": ["Bernau im Schwarzwald"], "name:pol_x_preferred": ["Bernau im Schwarzwald"], "name:por_x_preferred": ["Bernau"], "name:ron_x_preferred": ["Bernau im Schwarzwald"], "name:rus_x_preferred": ["\u0411\u0435\u0440\u043d\u0430\u0443"], "name:spa_x_preferred": ["Bernau"], "name:spa_x_variant": ["Bernau im Schwarzwald"], "name:srp_x_preferred": ["\u0411\u0435\u0440\u043d\u0430\u0443 \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"], "name:swe_x_preferred": ["Bernau im Schwarzwald"], "name:tat_x_preferred": ["\u0411\u0435\u0440\u043d\u0430\u0443"], "name:ukr_x_preferred": ["\u0411\u0435\u0440\u043d\u0430\u0443-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"], "name:uzb_x_preferred": ["Bernau im Schwarzwald"], "name:vie_x_preferred": ["Bernau im Schwarzwald"], "name:vol_x_preferred": ["Bernau im Schwarzwald"], "name:war_x_preferred": ["Bernau im Schwarzwald"], "name:zho_min_nan_x_preferred": ["Bernau im Schwarzwald"], "name:zho_x_preferred": ["\u9ed1\u6797\u5c71\u533a\u8d1d\u5c14\u7459"], "name:zho_x_variant": ["\u65bd\u74e6\u5c14\u8328\u74e6\u5c14\u5fb7\u5730\u533a\u8d1d\u5c14\u7459"], "nav:latitude": 47.802225, "nav:longitude": 8.037229, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Waldshut", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bernau im Schwarzwald", "qs:la_lc": "*DE08303706013", "qs:level": "locality", "qs:loc": "Bernau im Schwarzwald", "qs:loc_alt": "Bernau im Schwarzwald", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-near-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6559167, "qs_pg:gn_pop": 1887, "qs_pg:name": "Gemeinde Bernau im Schwarzwald", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 876, "qs_pg:photos_1k": 178, "qs_pg:photos_9k": 4, "qs_pg:photos_9r": 6, "qs_pg:photos_all": 969, "qs_pg:photos_sr": 10, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1211540, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623581, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 892, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689857, 404227543, 102063207], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08337013", "eurostat:nuts_2021_id": "08337013", "gn:id": 2950099, "gp:id": 638276, "qs_pg:id": 1271850, "wd:id": "Q537241", "wk:page": "Bernau im Schwarzwald"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "8f667c9d41be11a31adf619fd95c9db3", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063207, "localadmin_id": 1377689857, "locality_id": 101842583, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101842583, "wof:lastmodified": 1690872172, "wof:name": "Bernau im Schwarzwald", "wof:parent_id": 1377689857, "wof:placetype": "locality", "wof:population": 1995, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125316543, 1125423517], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.997803, 47.758473, 8.09687, 47.84343], "geometry": {"coordinates": [[[[8.072932, 47.768703], [8.070674, 47.767311], [8.067901, 47.767292], [8.065427, 47.767886], [8.064446, 47.7678], [8.063926, 47.767175], [8.062128, 47.766268], [8.054291, 47.765625], [8.048033, 47.762984], [8.045153, 47.763243], [8.039339, 47.75867], [8.035375, 47.758473], [8.026419, 47.76237], [8.024316, 47.764521], [8.017297, 47.771694], [8.015207, 47.775612], [8.003646, 47.773658], [8.002993, 47.774704], [8.002187, 47.776142], [8.003869, 47.780614], [8.00398, 47.784249], [8.002578, 47.786114], [8.001807, 47.788695], [8.002525, 47.791409], [8.004597, 47.794505], [8.002594, 47.796393], [8.000998, 47.796536], [7.998585, 47.797011], [7.998551, 47.800859], [7.997803, 47.806166], [8.00111, 47.813094], [8.001262, 47.814842], [8.001092, 47.816366], [8.000715, 47.817743], [7.999894, 47.820269], [7.999651, 47.820839], [7.99942, 47.822515], [8.000008, 47.827519], [8.002033, 47.829463], [8.005239, 47.832099], [8.010123, 47.836428], [8.013261, 47.838838], [8.015087, 47.839799], [8.018114, 47.841394], [8.020526, 47.841782], [8.023436, 47.84343], [8.024838, 47.839973], [8.027827, 47.836282], [8.029857, 47.836283], [8.036741, 47.831879], [8.041821, 47.830699], [8.038107, 47.828574], [8.03886, 47.824985], [8.040354, 47.822321], [8.046605, 47.818076], [8.048502, 47.81803], [8.051819, 47.819528], [8.052942, 47.818189], [8.053919, 47.815363], [8.055145, 47.812654], [8.060512, 47.808854], [8.068707, 47.804801], [8.072053, 47.801063], [8.072339, 47.799595], [8.079132, 47.795858], [8.081134, 47.793751], [8.082483, 47.792456], [8.082876, 47.791781], [8.083102, 47.791525], [8.083391, 47.791343], [8.084123, 47.791125], [8.085114, 47.790778], [8.086012, 47.790412], [8.086758, 47.789898], [8.087209, 47.789404], [8.087608, 47.789152], [8.088148, 47.789011], [8.088734, 47.789042], [8.089283, 47.789009], [8.089813, 47.788814], [8.090418, 47.788441], [8.091636, 47.787803], [8.092414, 47.787442], [8.093089, 47.787286], [8.09355, 47.787143], [8.094055, 47.786894], [8.094431, 47.786569], [8.09493, 47.785915], [8.095727, 47.784898], [8.096432, 47.784105], [8.09687, 47.783602], [8.094173, 47.782275], [8.091205, 47.782137], [8.088089, 47.783651], [8.086019, 47.783285], [8.083788, 47.783692], [8.079603, 47.785855], [8.075113, 47.785719], [8.074928, 47.7846], [8.075319, 47.78424], [8.075843, 47.783901], [8.076327, 47.783822], [8.077012, 47.783729], [8.078174, 47.783623], [8.078303, 47.783637], [8.078699, 47.783679], [8.079057, 47.783754], [8.079282, 47.78387], [8.079539, 47.784009], [8.0798, 47.784059], [8.080429, 47.784006], [8.080829, 47.783904], [8.081134, 47.783733], [8.081387, 47.783273], [8.081867, 47.781841], [8.081951, 47.781176], [8.082167, 47.780803], [8.082476, 47.780543], [8.082981, 47.78031], [8.083385, 47.780142], [8.083593, 47.779924], [8.083643, 47.77957], [8.083657, 47.779282], [8.083808, 47.778885], [8.084182, 47.778649], [8.084617, 47.778526], [8.085209, 47.778539], [8.085827, 47.778708], [8.08552, 47.778334], [8.081518, 47.773416], [8.079233, 47.769131], [8.072932, 47.768703]]]], "type": "MultiPolygon"}}
+{
+  "id": 101842583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08337013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bernau im Schwarzwald",
+    "eurostat:nuts_2021_id":"08337013",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE13A",
+    "eurostat:nuts_2021_level_lau":"08337013",
+    "eurostat:population":1995,
+    "eurostat:population_year":2020,
+    "geom:area":0.004554,
+    "geom:area_square_m":37831480.308582,
+    "geom:bbox":"7.997803,47.758473,8.09687,47.84343",
+    "geom:latitude":47.796383,
+    "geom:longitude":8.036998,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":1887,
+    "iso:country":"DE",
+    "lbl:latitude":47.802225,
+    "lbl:longitude":8.037229,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":47.802225,
+    "mps:longitude":8.037229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:als_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:cat_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:ceb_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:ces_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0443"
+    ],
+    "name:dan_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:deu_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:eng_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:epo_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:eus_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0646\u0627\u0648 \u0627\u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0633\u0648\u0627\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:gsw_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:hbs_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:hun_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:ita_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0443"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0443"
+    ],
+    "name:kur_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:lat_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:lld_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:lmo_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:msa_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:nan_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:nld_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:nob_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:pol_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:por_x_preferred":[
+        "Bernau"
+    ],
+    "name:ron_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Bernau"
+    ],
+    "name:spa_x_variant":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0443 \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0443-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:vie_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:vol_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:war_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bernau im Schwarzwald"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6797\u5c71\u533a\u8d1d\u5c14\u7459"
+    ],
+    "name:zho_x_variant":[
+        "\u65bd\u74e6\u5c14\u8328\u74e6\u5c14\u5fb7\u5730\u533a\u8d1d\u5c14\u7459"
+    ],
+    "nav:latitude":47.802225,
+    "nav:longitude":8.037229,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Waldshut",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bernau im Schwarzwald",
+    "qs:la_lc":"*DE08303706013",
+    "qs:level":"locality",
+    "qs:loc":"Bernau im Schwarzwald",
+    "qs:loc_alt":"Bernau im Schwarzwald",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6559167,
+    "qs_pg:gn_pop":1887,
+    "qs_pg:name":"Gemeinde Bernau im Schwarzwald",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":876,
+    "qs_pg:photos_1k":178,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":969,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1211540,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623581,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":892,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689857,
+        404227543,
+        102063207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08337013",
+        "eurostat:nuts_2021_id":"08337013",
+        "gn:id":2950099,
+        "gp:id":638276,
+        "qs_pg:id":1271850,
+        "wd:id":"Q537241",
+        "wk:page":"Bernau im Schwarzwald"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"8f667c9d41be11a31adf619fd95c9db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063207,
+            "localadmin_id":1377689857,
+            "locality_id":101842583,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101842583,
+    "wof:lastmodified":1690872172,
+    "wof:name":"Bernau im Schwarzwald",
+    "wof:parent_id":1377689857,
+    "wof:placetype":"locality",
+    "wof:population":1995,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125316543,
+        1125423517
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.997803,
+    47.758473,
+    8.09687,
+    47.84343
+],
+  "geometry": {"coordinates":[[[[8.072932,47.768703],[8.070674,47.767311],[8.067901,47.767292],[8.065427,47.767886],[8.064446,47.7678],[8.063926,47.767175],[8.062128,47.766268],[8.054291,47.765625],[8.048033,47.762984],[8.045153,47.763243],[8.039339,47.75867],[8.035375,47.758473],[8.026419,47.76237],[8.024316,47.764521],[8.017297,47.771694],[8.015207,47.775612],[8.003646,47.773658],[8.002993,47.774704],[8.002187,47.776142],[8.003869,47.780614],[8.00398,47.784249],[8.002578,47.786114],[8.001807,47.788695],[8.002525,47.791409],[8.004597,47.794505],[8.002594,47.796393],[8.000998,47.796536],[7.998585,47.797011],[7.998551,47.800859],[7.997803,47.806166],[8.00111,47.813094],[8.001262,47.814842],[8.001092,47.816366],[8.000715,47.817743],[7.999894,47.820269],[7.999651,47.820839],[7.99942,47.822515],[8.000008,47.827519],[8.002033,47.829463],[8.005239,47.832099],[8.010123,47.836428],[8.013261,47.838838],[8.015087,47.839799],[8.018114,47.841394],[8.020526,47.841782],[8.023436,47.84343],[8.024838,47.839973],[8.027827,47.836282],[8.029857,47.836283],[8.036741,47.831879],[8.041821,47.830699],[8.038107,47.828574],[8.03886,47.824985],[8.040354,47.822321],[8.046605,47.818076],[8.048502,47.81803],[8.051819,47.819528],[8.052942,47.818189],[8.053919,47.815363],[8.055145,47.812654],[8.060512,47.808854],[8.068707,47.804801],[8.072053,47.801063],[8.072339,47.799595],[8.079132,47.795858],[8.081134,47.793751],[8.082483,47.792456],[8.082876,47.791781],[8.083102,47.791525],[8.083391,47.791343],[8.084123,47.791125],[8.085114,47.790778],[8.086012,47.790412],[8.086758,47.789898],[8.087209,47.789404],[8.087608,47.789152],[8.088148,47.789011],[8.088734,47.789042],[8.089283,47.789009],[8.089813,47.788814],[8.090418,47.788441],[8.091636,47.787803],[8.092414,47.787442],[8.093089,47.787286],[8.09355,47.787143],[8.094055,47.786894],[8.094431,47.786569],[8.09493,47.785915],[8.095727,47.784898],[8.096432,47.784105],[8.09687,47.783602],[8.094173,47.782275],[8.091205,47.782137],[8.088089,47.783651],[8.086019,47.783285],[8.083788,47.783692],[8.079603,47.785855],[8.075113,47.785719],[8.074928,47.7846],[8.075319,47.78424],[8.075843,47.783901],[8.076327,47.783822],[8.077012,47.783729],[8.078174,47.783623],[8.078303,47.783637],[8.078699,47.783679],[8.079057,47.783754],[8.079282,47.78387],[8.079539,47.784009],[8.0798,47.784059],[8.080429,47.784006],[8.080829,47.783904],[8.081134,47.783733],[8.081387,47.783273],[8.081867,47.781841],[8.081951,47.781176],[8.082167,47.780803],[8.082476,47.780543],[8.082981,47.78031],[8.083385,47.780142],[8.083593,47.779924],[8.083643,47.77957],[8.083657,47.779282],[8.083808,47.778885],[8.084182,47.778649],[8.084617,47.778526],[8.085209,47.778539],[8.085827,47.778708],[8.08552,47.778334],[8.081518,47.773416],[8.079233,47.769131],[8.072932,47.768703]]]],"type":"MultiPolygon"}
+}

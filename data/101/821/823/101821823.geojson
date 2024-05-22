@@ -1,1 +1,248 @@
-{"id": 101821823, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_14628260", "eurostat:level_code": "lau", "eurostat:name_local": "Neustadt in Sachsen, Stadt", "eurostat:nuts_2021_id": "14628260", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DED", "eurostat:nuts_2021_level_2": "DED2", "eurostat:nuts_2021_level_3": "DED2F", "eurostat:nuts_2021_level_lau": "14628260", "eurostat:population": 12097, "eurostat:population_year": 2020, "geom:area": 0.000753, "geom:area_square_m": 5859099.224829, "geom:bbox": "14.173191,51.011604,14.266468,51.053875", "geom:latitude": 51.026153, "geom:longitude": 14.217188, "gn:population": 14000, "iso:country": "DE", "lbl:latitude": 51.024332, "lbl:longitude": 14.210239, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 51.024332, "mps:longitude": 14.210239, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:ara_x_preferred": ["\u0646\u0648\u064a\u0634\u062a\u0627\u062a \u0625\u0646 \u0632\u0627\u0643\u0633\u0646"], "name:bak_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"], "name:bul_x_preferred": ["\u041d\u043e\u0439\u0449\u0430\u0442"], "name:cat_x_preferred": ["Neustadt in Sachsen"], "name:ceb_x_preferred": ["Neustadt in Sachsen"], "name:ces_x_preferred": ["Neustadt in Sachsen"], "name:che_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"], "name:deu_x_preferred": ["Neustadt in Sachsen"], "name:deu_x_variant": ["Neustadt i. Sa."], "name:eng_x_preferred": ["Neustadt in Sachsen"], "name:epo_x_preferred": ["Neustadt en Saksio"], "name:fas_x_preferred": ["\u0646\u0648\u06cc\u200c\u0627\u0634\u062a\u0627\u062a \u0627\u06cc\u0646 \u0632\u0627\u06a9\u0633\u0646"], "name:fin_x_preferred": ["Neustadt in Sachsen"], "name:fra_x_preferred": ["Neustadt in Sachsen"], "name:gle_x_preferred": ["Neustadt in Sachsen"], "name:hbs_x_preferred": ["Neustadt in Sachsen"], "name:hsb_x_preferred": ["Neustadt in Sachsen"], "name:hun_x_preferred": ["Neustadt i. Sa."], "name:ita_x_preferred": ["Neustadt in Sachsen"], "name:jpn_x_preferred": ["\u30b6\u30af\u30bb\u30f3\u30fb\u30ce\u30a4\u30b7\u30e5\u30bf\u30c3\u30c8"], "name:kaz_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"], "name:kir_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"], "name:kur_x_preferred": ["Neustadt a Saksonyay\u00ea"], "name:lav_x_preferred": ["Nei\u0161tate Saksij\u0101"], "name:lld_x_preferred": ["Neustadt in Sachsen"], "name:mkd_x_preferred": ["\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u0432\u043e \u0421\u0430\u043a\u0441\u043e\u043d\u0438\u0458\u0430"], "name:msa_x_preferred": ["Neustadt in Sachsen"], "name:nld_x_preferred": ["Neustadt in Sachsen"], "name:nob_x_preferred": ["Neustadt i Sachsen"], "name:nor_x_preferred": ["Neustadt i Sachsen"], "name:oci_x_preferred": ["Neustadt in Sachsen"], "name:pol_x_preferred": ["Neustadt in Sachsen"], "name:por_x_preferred": ["Neustadt in Sachsen"], "name:ron_x_preferred": ["Neustadt in Sachsen"], "name:rus_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"], "name:spa_x_preferred": ["Neustadt in Sachsen"], "name:srp_x_preferred": ["\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u0438\u043d \u0417\u0430\u0445\u0441\u0435\u043d"], "name:swe_x_preferred": ["Neustadt in Sachsen"], "name:szl_x_preferred": ["Neustadt in Sachsen"], "name:tat_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"], "name:ukr_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"], "name:uzb_x_preferred": ["Neustadt in Sachsen"], "name:vie_x_preferred": ["Neustadt in Sachsen"], "name:vol_x_preferred": ["Neustadt in Sachsen"], "name:war_x_preferred": ["Neustadt in Sachsen"], "name:zho_x_preferred": ["\u8428\u514b\u68ee\u5730\u533a\u8bfa\u4f0a\u65bd\u5854\u7279"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen", "qs:a1r": "0", "qs:a2": "S\u00e4chsische Schweiz-Osterzgebirge", "qs:a2r": "Dresden", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Hohwald", "qs:la_lc": "*DE14208700170", "qs:level": "locality", "qs:loc": "Neustadt i. Sa.", "qs:loc_alt": "Neustadt i. Sa.", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 51.023889, "wd:longitude": 14.216667, "wd:wordcount": 118, "wof:belongsto": [85682523, 102191581, 1377687549, 85633111, 102064217], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_14628260", "eurostat:nuts_2021_id": "14628260", "gn:id": 2864089, "gp:id": 679043, "qs_pg:id": 1060597, "wd:id": "Q8210", "wk:page": "Neustadt in Sachsen"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "6a5301636ee518e162a93df95202da3a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064217, "localadmin_id": 1377687549, "locality_id": 101821823, "region_id": 85682523}], "wof:id": 101821823, "wof:lastmodified": 1690872351, "wof:name": "Neustadt i. Sa.", "wof:parent_id": 1377687549, "wof:placetype": "locality", "wof:population": 12097, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [14.173191, 51.011604, 14.266468, 51.053875], "geometry": {"coordinates": [[[14.228478, 51.053823], [14.228314, 51.052029], [14.22689, 51.052081], [14.226644, 51.049389], [14.223796, 51.049493], [14.223305, 51.04411], [14.226152, 51.044006], [14.22607, 51.043109], [14.223223, 51.043213], [14.223141, 51.042316], [14.221717, 51.042367], [14.221226, 51.036984], [14.222649, 51.036932], [14.222568, 51.036035], [14.231109, 51.035724], [14.230699, 51.031238], [14.232123, 51.031186], [14.231795, 51.027597], [14.236065, 51.027441], [14.236147, 51.028338], [14.23757, 51.028286], [14.237652, 51.029183], [14.239076, 51.029131], [14.238911, 51.027337], [14.240335, 51.027285], [14.240253, 51.026388], [14.245946, 51.026179], [14.246275, 51.029768], [14.247698, 51.029716], [14.247616, 51.028819], [14.24904, 51.028766], [14.248957, 51.027869], [14.253227, 51.027713], [14.253145, 51.026815], [14.254568, 51.026763], [14.254486, 51.025866], [14.257332, 51.025761], [14.25725, 51.024864], [14.260096, 51.02476], [14.260014, 51.023863], [14.261437, 51.02381], [14.261354, 51.022913], [14.262778, 51.022861], [14.262612, 51.021066], [14.264035, 51.021014], [14.26387, 51.01922], [14.265293, 51.019167], [14.265045, 51.016476], [14.266468, 51.016424], [14.266303, 51.014629], [14.26488, 51.014682], [14.264963, 51.015579], [14.26354, 51.015631], [14.263788, 51.018323], [14.262365, 51.018375], [14.26253, 51.020169], [14.261107, 51.020222], [14.261272, 51.022016], [14.259849, 51.022068], [14.259931, 51.022965], [14.258508, 51.023018], [14.25859, 51.023915], [14.255744, 51.024019], [14.255826, 51.024917], [14.25298, 51.025021], [14.253062, 51.025918], [14.247369, 51.026127], [14.247287, 51.02523], [14.24444, 51.025334], [14.244193, 51.022643], [14.24277, 51.022695], [14.242688, 51.021798], [14.239842, 51.021902], [14.239924, 51.022799], [14.234231, 51.023007], [14.234149, 51.02211], [14.229879, 51.022266], [14.229797, 51.021369], [14.222681, 51.021629], [14.222272, 51.017143], [14.226541, 51.016987], [14.226459, 51.01609], [14.227882, 51.016038], [14.227555, 51.012449], [14.226132, 51.012501], [14.22605, 51.011604], [14.223204, 51.011708], [14.223286, 51.012605], [14.221863, 51.012657], [14.221945, 51.013554], [14.21483, 51.013813], [14.214667, 51.012019], [14.211821, 51.012122], [14.212474, 51.0193], [14.205358, 51.019558], [14.205195, 51.017764], [14.202349, 51.017867], [14.202593, 51.020559], [14.20117, 51.02061], [14.201252, 51.021508], [14.196982, 51.021662], [14.197226, 51.024354], [14.195803, 51.024406], [14.195884, 51.025303], [14.191614, 51.025457], [14.191533, 51.02456], [14.190109, 51.024612], [14.190028, 51.023714], [14.185758, 51.023869], [14.185677, 51.022972], [14.184254, 51.023023], [14.184173, 51.022126], [14.181326, 51.022229], [14.181083, 51.019537], [14.17966, 51.019588], [14.179579, 51.018691], [14.178156, 51.018742], [14.178075, 51.017845], [14.176652, 51.017897], [14.17738, 51.025971], [14.175957, 51.026023], [14.176038, 51.02692], [14.173191, 51.027023], [14.173272, 51.02792], [14.177542, 51.027766], [14.177461, 51.026869], [14.183155, 51.026663], [14.183074, 51.025766], [14.190191, 51.025509], [14.190353, 51.027303], [14.196047, 51.027097], [14.196209, 51.028892], [14.197633, 51.02884], [14.197877, 51.031532], [14.196453, 51.031583], [14.196535, 51.03248], [14.200805, 51.032326], [14.201131, 51.035914], [14.202555, 51.035863], [14.20231, 51.033171], [14.203734, 51.03312], [14.203489, 51.030428], [14.206336, 51.030325], [14.206255, 51.029427], [14.214796, 51.029117], [14.214877, 51.030014], [14.216301, 51.029962], [14.216546, 51.032654], [14.217969, 51.032602], [14.218787, 51.041574], [14.220211, 51.041522], [14.220457, 51.044214], [14.219033, 51.044265], [14.219115, 51.045163], [14.220539, 51.045111], [14.220948, 51.049597], [14.222372, 51.049545], [14.222454, 51.050442], [14.223878, 51.05039], [14.22396, 51.051287], [14.225384, 51.051235], [14.225548, 51.05303], [14.226972, 51.052978], [14.227054, 51.053875], [14.228478, 51.053823]], [[14.220326, 51.027115], [14.22008, 51.024424], [14.225773, 51.024216], [14.226019, 51.026908], [14.220326, 51.027115]]], "type": "Polygon"}}
+{
+  "id": 101821823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_14628260",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neustadt in Sachsen, Stadt",
+    "eurostat:nuts_2021_id":"14628260",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DED",
+    "eurostat:nuts_2021_level_2":"DED2",
+    "eurostat:nuts_2021_level_3":"DED2F",
+    "eurostat:nuts_2021_level_lau":"14628260",
+    "eurostat:population":12097,
+    "eurostat:population_year":2020,
+    "geom:area":0.000753,
+    "geom:area_square_m":5859099.224829,
+    "geom:bbox":"14.173191,51.011604,14.266468,51.053875",
+    "geom:latitude":51.026153,
+    "geom:longitude":14.217188,
+    "gn:population":14000,
+    "iso:country":"DE",
+    "lbl:latitude":51.024332,
+    "lbl:longitude":14.210239,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":51.024332,
+    "mps:longitude":14.210239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0634\u062a\u0627\u062a \u0625\u0646 \u0632\u0627\u0643\u0633\u0646"
+    ],
+    "name:bak_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0439\u0449\u0430\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:ceb_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:ces_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:deu_x_variant":[
+        "Neustadt i. Sa."
+    ],
+    "name:eng_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:epo_x_preferred":[
+        "Neustadt en Saksio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u200c\u0627\u0634\u062a\u0627\u062a \u0627\u06cc\u0646 \u0632\u0627\u06a9\u0633\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:fra_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:gle_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:hbs_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:hsb_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:hun_x_preferred":[
+        "Neustadt i. Sa."
+    ],
+    "name:ita_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30af\u30bb\u30f3\u30fb\u30ce\u30a4\u30b7\u30e5\u30bf\u30c3\u30c8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"
+    ],
+    "name:kur_x_preferred":[
+        "Neustadt a Saksonyay\u00ea"
+    ],
+    "name:lav_x_preferred":[
+        "Nei\u0161tate Saksij\u0101"
+    ],
+    "name:lld_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u0432\u043e \u0421\u0430\u043a\u0441\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:nld_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:nob_x_preferred":[
+        "Neustadt i Sachsen"
+    ],
+    "name:nor_x_preferred":[
+        "Neustadt i Sachsen"
+    ],
+    "name:oci_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:pol_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:por_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:ron_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u0438\u043d \u0417\u0430\u0445\u0441\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:szl_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:vie_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:vol_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:war_x_preferred":[
+        "Neustadt in Sachsen"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u514b\u68ee\u5730\u533a\u8bfa\u4f0a\u65bd\u5854\u7279"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen",
+    "qs:a1r":"0",
+    "qs:a2":"S\u00e4chsische Schweiz-Osterzgebirge",
+    "qs:a2r":"Dresden",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Hohwald",
+    "qs:la_lc":"*DE14208700170",
+    "qs:level":"locality",
+    "qs:loc":"Neustadt i. Sa.",
+    "qs:loc_alt":"Neustadt i. Sa.",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":51.023889,
+    "wd:longitude":14.216667,
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        85682523,
+        102191581,
+        1377687549,
+        85633111,
+        102064217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_14628260",
+        "eurostat:nuts_2021_id":"14628260",
+        "gn:id":2864089,
+        "gp:id":679043,
+        "qs_pg:id":1060597,
+        "wd:id":"Q8210",
+        "wk:page":"Neustadt in Sachsen"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"6a5301636ee518e162a93df95202da3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064217,
+            "localadmin_id":1377687549,
+            "locality_id":101821823,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":101821823,
+    "wof:lastmodified":1690872351,
+    "wof:name":"Neustadt i. Sa.",
+    "wof:parent_id":1377687549,
+    "wof:placetype":"locality",
+    "wof:population":12097,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.173191,
+    51.011604,
+    14.266468,
+    51.053875
+],
+  "geometry": {"coordinates":[[[14.228478,51.053823],[14.228314,51.052029],[14.22689,51.052081],[14.226644,51.049389],[14.223796,51.049493],[14.223305,51.04411],[14.226152,51.044006],[14.22607,51.043109],[14.223223,51.043213],[14.223141,51.042316],[14.221717,51.042367],[14.221226,51.036984],[14.222649,51.036932],[14.222568,51.036035],[14.231109,51.035724],[14.230699,51.031238],[14.232123,51.031186],[14.231795,51.027597],[14.236065,51.027441],[14.236147,51.028338],[14.23757,51.028286],[14.237652,51.029183],[14.239076,51.029131],[14.238911,51.027337],[14.240335,51.027285],[14.240253,51.026388],[14.245946,51.026179],[14.246275,51.029768],[14.247698,51.029716],[14.247616,51.028819],[14.24904,51.028766],[14.248957,51.027869],[14.253227,51.027713],[14.253145,51.026815],[14.254568,51.026763],[14.254486,51.025866],[14.257332,51.025761],[14.25725,51.024864],[14.260096,51.02476],[14.260014,51.023863],[14.261437,51.02381],[14.261354,51.022913],[14.262778,51.022861],[14.262612,51.021066],[14.264035,51.021014],[14.26387,51.01922],[14.265293,51.019167],[14.265045,51.016476],[14.266468,51.016424],[14.266303,51.014629],[14.26488,51.014682],[14.264963,51.015579],[14.26354,51.015631],[14.263788,51.018323],[14.262365,51.018375],[14.26253,51.020169],[14.261107,51.020222],[14.261272,51.022016],[14.259849,51.022068],[14.259931,51.022965],[14.258508,51.023018],[14.25859,51.023915],[14.255744,51.024019],[14.255826,51.024917],[14.25298,51.025021],[14.253062,51.025918],[14.247369,51.026127],[14.247287,51.02523],[14.24444,51.025334],[14.244193,51.022643],[14.24277,51.022695],[14.242688,51.021798],[14.239842,51.021902],[14.239924,51.022799],[14.234231,51.023007],[14.234149,51.02211],[14.229879,51.022266],[14.229797,51.021369],[14.222681,51.021629],[14.222272,51.017143],[14.226541,51.016987],[14.226459,51.01609],[14.227882,51.016038],[14.227555,51.012449],[14.226132,51.012501],[14.22605,51.011604],[14.223204,51.011708],[14.223286,51.012605],[14.221863,51.012657],[14.221945,51.013554],[14.21483,51.013813],[14.214667,51.012019],[14.211821,51.012122],[14.212474,51.0193],[14.205358,51.019558],[14.205195,51.017764],[14.202349,51.017867],[14.202593,51.020559],[14.20117,51.02061],[14.201252,51.021508],[14.196982,51.021662],[14.197226,51.024354],[14.195803,51.024406],[14.195884,51.025303],[14.191614,51.025457],[14.191533,51.02456],[14.190109,51.024612],[14.190028,51.023714],[14.185758,51.023869],[14.185677,51.022972],[14.184254,51.023023],[14.184173,51.022126],[14.181326,51.022229],[14.181083,51.019537],[14.17966,51.019588],[14.179579,51.018691],[14.178156,51.018742],[14.178075,51.017845],[14.176652,51.017897],[14.17738,51.025971],[14.175957,51.026023],[14.176038,51.02692],[14.173191,51.027023],[14.173272,51.02792],[14.177542,51.027766],[14.177461,51.026869],[14.183155,51.026663],[14.183074,51.025766],[14.190191,51.025509],[14.190353,51.027303],[14.196047,51.027097],[14.196209,51.028892],[14.197633,51.02884],[14.197877,51.031532],[14.196453,51.031583],[14.196535,51.03248],[14.200805,51.032326],[14.201131,51.035914],[14.202555,51.035863],[14.20231,51.033171],[14.203734,51.03312],[14.203489,51.030428],[14.206336,51.030325],[14.206255,51.029427],[14.214796,51.029117],[14.214877,51.030014],[14.216301,51.029962],[14.216546,51.032654],[14.217969,51.032602],[14.218787,51.041574],[14.220211,51.041522],[14.220457,51.044214],[14.219033,51.044265],[14.219115,51.045163],[14.220539,51.045111],[14.220948,51.049597],[14.222372,51.049545],[14.222454,51.050442],[14.223878,51.05039],[14.22396,51.051287],[14.225384,51.051235],[14.225548,51.05303],[14.226972,51.052978],[14.227054,51.053875],[14.228478,51.053823]],[[14.220326,51.027115],[14.22008,51.024424],[14.225773,51.024216],[14.226019,51.026908],[14.220326,51.027115]]],"type":"Polygon"}
+}

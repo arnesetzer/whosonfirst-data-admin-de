@@ -1,1 +1,433 @@
-{"id": 101756307, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08125007", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Wimpfen, Stadt", "eurostat:nuts_2021_id": "08125007", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE11", "eurostat:nuts_2021_level_3": "DE118", "eurostat:nuts_2021_level_lau": "08125007", "eurostat:population": 7225, "eurostat:population_year": 2020, "geom:area": 0.002394, "geom:area_square_m": 19335638.050109, "geom:bbox": "9.109388,49.206501,9.20386,49.251371", "geom:latitude": 49.226583, "geom:longitude": 9.148163, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 6850, "iso:country": "DE", "lbl:latitude": 49.228163, "lbl:longitude": 9.155818, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 49.228163, "mps:longitude": 9.155818, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Wimpfen"], "name:als_x_preferred": ["Bad Wimpfen"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0641\u064a\u0645\u0628\u0641\u0646"], "name:arg_x_preferred": ["Bad Wimpfen"], "name:arz_x_preferred": ["\u0628\u0627\u062f \u0641\u064a\u0645\u0628\u0641\u0646"], "name:ast_x_preferred": ["Bad Wimpfen"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0648\u06cc\u0645\u067e\u0646"], "name:bar_x_preferred": ["Bad Wimpfen"], "name:bre_x_preferred": ["Bad Wimpfen"], "name:bul_x_preferred": ["\u0411\u0430\u0434 \u0412\u0438\u043c\u0444\u0435\u043d"], "name:cat_x_preferred": ["Bad Wimpfen"], "name:ceb_x_preferred": ["Bad Wimpfen"], "name:ces_x_preferred": ["Bad Wimpfen"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"], "name:cos_x_preferred": ["Bad Wimpfen"], "name:cym_x_preferred": ["Bad Wimpfen"], "name:dan_x_preferred": ["Bad Wimpfen"], "name:deu_x_preferred": ["Bad Wimpfen"], "name:ell_x_preferred": ["\u039c\u03c0\u03b1\u03bd\u03c4 \u0392\u03af\u03bc\u03c0\u03c6\u03b5\u03bd"], "name:eng_x_preferred": ["Bad Wimpfen"], "name:epo_x_preferred": ["Bad Wimpfen"], "name:est_x_preferred": ["Bad Wimpfen"], "name:eus_x_preferred": ["Bad Wimpfen"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0648\u06cc\u0645\u067e\u0646"], "name:fin_x_preferred": ["Bad Wimpfen"], "name:fra_x_preferred": ["Bad Wimpfen"], "name:frp_x_preferred": ["Bad Wimpfen"], "name:fur_x_preferred": ["Bad Wimpfen"], "name:gla_x_preferred": ["Bad Wimpfen"], "name:gle_x_preferred": ["Bad Wimpfen"], "name:glg_x_preferred": ["Bad Wimpfen"], "name:gsw_x_preferred": ["Bad Wimpfen"], "name:hbs_x_preferred": ["Bad Wimpfen"], "name:hrv_x_preferred": ["Bad Wimpfen"], "name:hun_x_preferred": ["Bad Wimpfen"], "name:ido_x_preferred": ["Bad Wimpfen"], "name:ile_x_preferred": ["Bad Wimpfen"], "name:ina_x_preferred": ["Bad Wimpfen"], "name:ind_x_preferred": ["Bad Wimpfen"], "name:isl_x_preferred": ["Bad Wimpfen"], "name:ita_x_preferred": ["Bad Wimpfen"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30f4\u30a3\u30f3\u30d7\u30d5\u30a7\u30f3"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"], "name:kon_x_preferred": ["Bad Wimpfen"], "name:kur_x_preferred": ["Bad Wimpfen"], "name:lat_x_preferred": ["Wimpina"], "name:lij_x_preferred": ["Bad Wimpfen"], "name:lim_x_preferred": ["Bad Wimpfen"], "name:lld_x_preferred": ["Bad Wimpfen"], "name:lmo_x_preferred": ["Bad Wimpfen"], "name:ltz_x_preferred": ["Bad Wimpfen"], "name:min_x_preferred": ["Bad Wimpfen"], "name:mlg_x_preferred": ["Bad Wimpfen"], "name:msa_x_preferred": ["Bad Wimpfen"], "name:nap_x_preferred": ["Bad Wimpfen"], "name:nds_x_preferred": ["Bad Wimpfen"], "name:nld_x_preferred": ["Bad Wimpfen"], "name:nno_x_preferred": ["Bad Wimpfen"], "name:nob_x_preferred": ["Bad Wimpfen"], "name:nrm_x_preferred": ["Bad Wimpfen"], "name:oci_x_preferred": ["Bad Wimpfen"], "name:pcd_x_preferred": ["Bad Wimpfen"], "name:pdc_x_preferred": ["Bad Wimpfen"], "name:pms_x_preferred": ["Bad Wimpfen"], "name:pol_x_preferred": ["Bad Wimpfen"], "name:por_x_preferred": ["Bad Wimpfen"], "name:roh_x_preferred": ["Bad Wimpfen"], "name:ron_x_preferred": ["Bad Wimpfen"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"], "name:scn_x_preferred": ["Bad Wimpfen"], "name:sco_x_preferred": ["Bad Wimpfen"], "name:slk_x_preferred": ["Bad Wimpfen"], "name:slv_x_preferred": ["Bad Wimpfen"], "name:spa_x_preferred": ["Bad Wimpfen"], "name:srd_x_preferred": ["Bad Wimpfen"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0412\u0438\u043c\u043f\u0444\u0435\u043d"], "name:swa_x_preferred": ["Bad Wimpfen"], "name:swe_x_preferred": ["Bad Wimpfen"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"], "name:tum_x_preferred": ["Bad Wimpfen"], "name:tur_x_preferred": ["Bad Wimpfen"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0412\u0456\u043c\u043f\u0444\u0435\u043d"], "name:uzb_x_preferred": ["Bad Wimpfen"], "name:vec_x_preferred": ["Bad Wimpfen"], "name:vie_x_preferred": ["Bad Wimpfen"], "name:vls_x_preferred": ["Bad Wimpfen"], "name:vol_x_preferred": ["Bad Wimpfen"], "name:war_x_preferred": ["Bad Wimpfen"], "name:wln_x_preferred": ["Bad Wimpfen"], "name:wol_x_preferred": ["Bad Wimpfen"], "name:zho_x_preferred": ["\u5df4\u7279\u6e29\u666e\u82ac"], "name:zho_x_variant": ["\u5df4\u5fb7\u6e29\u666e\u82ac"], "name:zul_x_preferred": ["Bad Wimpfen"], "nav:latitude": 49.228163, "nav:longitude": 9.155818, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Heilbronn", "qs:a2r": "Stuttgart", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Neckarsulm", "qs:la_lc": "*DE08102508065", "qs:level": "locality", "qs:loc": "Bad Wimpfen", "qs:loc_alt": "Bad Wimpfen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "suburbs point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557977, "qs_pg:gn_pop": 6850, "qs_pg:name": "Bad Wimpfen, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 5, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 4, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 820, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 5, "qs_pg:qs_id": 638000, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623273, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 19.38, "wd:latitude": 49.230556, "wd:longitude": 9.163056, "wd:population": 5117, "wd:wordcount": 3348, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377687579, 404227549, 1377675595], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08125007", "eurostat:nuts_2021_id": "08125007", "gn:id": 2953315, "gp:id": 636530, "qs_pg:id": 246799, "wd:id": "Q491535", "wk:page": "Bad Wimpfen"}, "wof:coterminous": [1377687579], "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "8836dbc997089a9b44b881106f291534", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675595, "localadmin_id": 1377687579, "locality_id": 101756307, "macrocounty_id": 404227549, "region_id": 85682567}], "wof:id": 101756307, "wof:lastmodified": 1690872843, "wof:name": "Bad Wimpfen", "wof:parent_id": 1377687579, "wof:placetype": "locality", "wof:population": 7225, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125338055, 1125310127], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.109388, 49.206501, 9.20386, 49.251371], "geometry": {"coordinates": [[[[9.157543, 49.243207], [9.157377, 49.242288], [9.157331, 49.241459], [9.157542, 49.239816], [9.158256, 49.237359], [9.158769, 49.236196], [9.159413, 49.235268], [9.160124, 49.234412], [9.160928, 49.233657], [9.16201, 49.23278], [9.162991, 49.232108], [9.164394, 49.231548], [9.165586, 49.231149], [9.166858, 49.230867], [9.167864, 49.230762], [9.168907, 49.230774], [9.169905, 49.230957], [9.171078, 49.231259], [9.172196, 49.231587], [9.173586, 49.231972], [9.175494, 49.232544], [9.176789, 49.232901], [9.178086, 49.233204], [9.17891, 49.233726], [9.179977, 49.234369], [9.181008, 49.234858], [9.184208, 49.234382], [9.184993, 49.233807], [9.185849, 49.233178], [9.187597, 49.233055], [9.188823, 49.232925], [9.189916, 49.23265], [9.190721, 49.232344], [9.191265, 49.232045], [9.191474, 49.23193], [9.192078, 49.231434], [9.192964, 49.230697], [9.198604, 49.224294], [9.20386, 49.218345], [9.201053, 49.217027], [9.200708, 49.218102], [9.196901, 49.217698], [9.195215, 49.217398], [9.193462, 49.216635], [9.193145, 49.217603], [9.191823, 49.217549], [9.191873, 49.216036], [9.189107, 49.215118], [9.186994, 49.215687], [9.185478, 49.215476], [9.184318, 49.216433], [9.182893, 49.215931], [9.180884, 49.217331], [9.171504, 49.217337], [9.171308, 49.21595], [9.168427, 49.215367], [9.169116, 49.2138], [9.164044, 49.21347], [9.161539, 49.212685], [9.159936, 49.209562], [9.15972, 49.206501], [9.156525, 49.206813], [9.150153, 49.208338], [9.148216, 49.208369], [9.14551, 49.208408], [9.136321, 49.208009], [9.127461, 49.209088], [9.119896, 49.208591], [9.117923, 49.209862], [9.115828, 49.210637], [9.114334, 49.210537], [9.113889, 49.212151], [9.116849, 49.216191], [9.112361, 49.219897], [9.112181, 49.221068], [9.112475, 49.222214], [9.113343, 49.22348], [9.112134, 49.223971], [9.110296, 49.225317], [9.109388, 49.226787], [9.109418, 49.233841], [9.112668, 49.233575], [9.114582, 49.233419], [9.114712, 49.23414], [9.114878, 49.23506], [9.117694, 49.235573], [9.12102, 49.236373], [9.121803, 49.237552], [9.122511, 49.239503], [9.12141, 49.239847], [9.121312, 49.240489], [9.121374, 49.241874], [9.11927, 49.241477], [9.117147, 49.241694], [9.117622, 49.242363], [9.118018, 49.242467], [9.118686, 49.242637], [9.119572, 49.242909], [9.120404, 49.243108], [9.121278, 49.243299], [9.120466, 49.244648], [9.121123, 49.246796], [9.124373, 49.246839], [9.125829, 49.247056], [9.126861, 49.247506], [9.127299, 49.248042], [9.127846, 49.248597], [9.128344, 49.248981], [9.12865, 49.249327], [9.136428, 49.250321], [9.136206, 49.251371], [9.152226, 49.24811], [9.15261, 49.244705], [9.155231, 49.24336], [9.157543, 49.243207]]]], "type": "MultiPolygon"}}
+{
+  "id": 101756307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08125007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Wimpfen, Stadt",
+    "eurostat:nuts_2021_id":"08125007",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE11",
+    "eurostat:nuts_2021_level_3":"DE118",
+    "eurostat:nuts_2021_level_lau":"08125007",
+    "eurostat:population":7225,
+    "eurostat:population_year":2020,
+    "geom:area":0.002394,
+    "geom:area_square_m":19335638.050109,
+    "geom:bbox":"9.109388,49.206501,9.20386,49.251371",
+    "geom:latitude":49.226583,
+    "geom:longitude":9.148163,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":6850,
+    "iso:country":"DE",
+    "lbl:latitude":49.228163,
+    "lbl:longitude":9.155818,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":49.228163,
+    "mps:longitude":9.155818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:als_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0641\u064a\u0645\u0628\u0641\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062f \u0641\u064a\u0645\u0628\u0641\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0648\u06cc\u0645\u067e\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0434 \u0412\u0438\u043c\u0444\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4 \u0392\u03af\u03bc\u03c0\u03c6\u03b5\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:est_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0648\u06cc\u0645\u067e\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30f4\u30a3\u30f3\u30d7\u30d5\u30a7\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:lat_x_preferred":[
+        "Wimpina"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:lmo_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:min_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:pdc_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:por_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0412\u0438\u043c\u043f\u0444\u0435\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0438\u043c\u043f\u0444\u0435\u043d"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0412\u0456\u043c\u043f\u0444\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:war_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u6e29\u666e\u82ac"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u6e29\u666e\u82ac"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Wimpfen"
+    ],
+    "nav:latitude":49.228163,
+    "nav:longitude":9.155818,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Heilbronn",
+    "qs:a2r":"Stuttgart",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Neckarsulm",
+    "qs:la_lc":"*DE08102508065",
+    "qs:level":"locality",
+    "qs:loc":"Bad Wimpfen",
+    "qs:loc_alt":"Bad Wimpfen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557977,
+    "qs_pg:gn_pop":6850,
+    "qs_pg:name":"Bad Wimpfen, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":820,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":638000,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623273,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":19.38,
+    "wd:latitude":49.230556,
+    "wd:longitude":9.163056,
+    "wd:population":5117,
+    "wd:wordcount":3348,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377687579,
+        404227549,
+        1377675595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08125007",
+        "eurostat:nuts_2021_id":"08125007",
+        "gn:id":2953315,
+        "gp:id":636530,
+        "qs_pg:id":246799,
+        "wd:id":"Q491535",
+        "wk:page":"Bad Wimpfen"
+    },
+    "wof:coterminous":[
+        1377687579
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"8836dbc997089a9b44b881106f291534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675595,
+            "localadmin_id":1377687579,
+            "locality_id":101756307,
+            "macrocounty_id":404227549,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101756307,
+    "wof:lastmodified":1690872843,
+    "wof:name":"Bad Wimpfen",
+    "wof:parent_id":1377687579,
+    "wof:placetype":"locality",
+    "wof:population":7225,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125338055,
+        1125310127
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.109388,
+    49.206501,
+    9.20386,
+    49.251371
+],
+  "geometry": {"coordinates":[[[[9.157543,49.243207],[9.157377,49.242288],[9.157331,49.241459],[9.157542,49.239816],[9.158256,49.237359],[9.158769,49.236196],[9.159413,49.235268],[9.160124,49.234412],[9.160928,49.233657],[9.16201,49.23278],[9.162991,49.232108],[9.164394,49.231548],[9.165586,49.231149],[9.166858,49.230867],[9.167864,49.230762],[9.168907,49.230774],[9.169905,49.230957],[9.171078,49.231259],[9.172196,49.231587],[9.173586,49.231972],[9.175494,49.232544],[9.176789,49.232901],[9.178086,49.233204],[9.17891,49.233726],[9.179977,49.234369],[9.181008,49.234858],[9.184208,49.234382],[9.184993,49.233807],[9.185849,49.233178],[9.187597,49.233055],[9.188823,49.232925],[9.189916,49.23265],[9.190721,49.232344],[9.191265,49.232045],[9.191474,49.23193],[9.192078,49.231434],[9.192964,49.230697],[9.198604,49.224294],[9.20386,49.218345],[9.201053,49.217027],[9.200708,49.218102],[9.196901,49.217698],[9.195215,49.217398],[9.193462,49.216635],[9.193145,49.217603],[9.191823,49.217549],[9.191873,49.216036],[9.189107,49.215118],[9.186994,49.215687],[9.185478,49.215476],[9.184318,49.216433],[9.182893,49.215931],[9.180884,49.217331],[9.171504,49.217337],[9.171308,49.21595],[9.168427,49.215367],[9.169116,49.2138],[9.164044,49.21347],[9.161539,49.212685],[9.159936,49.209562],[9.15972,49.206501],[9.156525,49.206813],[9.150153,49.208338],[9.148216,49.208369],[9.14551,49.208408],[9.136321,49.208009],[9.127461,49.209088],[9.119896,49.208591],[9.117923,49.209862],[9.115828,49.210637],[9.114334,49.210537],[9.113889,49.212151],[9.116849,49.216191],[9.112361,49.219897],[9.112181,49.221068],[9.112475,49.222214],[9.113343,49.22348],[9.112134,49.223971],[9.110296,49.225317],[9.109388,49.226787],[9.109418,49.233841],[9.112668,49.233575],[9.114582,49.233419],[9.114712,49.23414],[9.114878,49.23506],[9.117694,49.235573],[9.12102,49.236373],[9.121803,49.237552],[9.122511,49.239503],[9.12141,49.239847],[9.121312,49.240489],[9.121374,49.241874],[9.11927,49.241477],[9.117147,49.241694],[9.117622,49.242363],[9.118018,49.242467],[9.118686,49.242637],[9.119572,49.242909],[9.120404,49.243108],[9.121278,49.243299],[9.120466,49.244648],[9.121123,49.246796],[9.124373,49.246839],[9.125829,49.247056],[9.126861,49.247506],[9.127299,49.248042],[9.127846,49.248597],[9.128344,49.248981],[9.12865,49.249327],[9.136428,49.250321],[9.136206,49.251371],[9.152226,49.24811],[9.15261,49.244705],[9.155231,49.24336],[9.157543,49.243207]]]],"type":"MultiPolygon"}
+}

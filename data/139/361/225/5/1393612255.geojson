@@ -1,1 +1,109 @@
-{"id": 1393612255, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "9.89949,54.69922,9.89949,54.69922", "geom:latitude": 54.69922, "geom:longitude": 9.89949, "gn:admin1_code": "10", "gn:admin2_code": "0.0", "gn:admin3_code": "1059.0", "gn:admin4_code": "1059168.0", "gn:asciiname": "Vogelsang", "gn:country_code": "DE", "gn:dem": 21, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2816958, "gn:latitude": 54.69922, "gn:longitude": 9.89949, "gn:modification_date": "2015-09-04", "gn:name": "Vogelsang", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "9.89449,54.69422,9.90449,54.70422", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Vogelsang"], "name:ces_x_preferred": ["Vogelsang"], "name:deu_x_preferred": ["Vogelsang"], "name:epo_x_preferred": ["Vogelsang"], "name:fra_x_preferred": ["Vogelsang"], "name:ita_x_preferred": ["Vogelsang"], "name:nld_x_preferred": ["Vogelsang"], "name:pol_x_preferred": ["Vogelsang"], "name:rus_x_preferred": ["\u0424\u043e\u0433\u0435\u043b\u044c\u0437\u0430\u043d\u0433"], "name:swe_x_preferred": ["Vogelsang"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377684447, 85633111, 1125851029, 102064159, 85682517], "wof:breaches": [], "wof:concordances": {"gn:id": 2816958}, "wof:country": "DE", "wof:geomhash": "641de82fb4a9aa68ebe80cfe68905229", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064159, "localadmin_id": 1377684447, "locality_id": 1125851029, "neighbourhood_id": 1393612255, "region_id": 85682517}], "wof:id": 1393612255, "wof:lastmodified": 1566714759, "wof:name": "Vogelsang", "wof:parent_id": 1125851029, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1242862961], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.89949, 54.69922, 9.89949, 54.69922], "geometry": {"coordinates": [9.89949, 54.69922], "type": "Point"}}
+{
+  "id": 1393612255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.89949,54.69922,9.89949,54.69922",
+    "geom:latitude":54.69922,
+    "geom:longitude":9.89949,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"1059.0",
+    "gn:admin4_code":"1059168.0",
+    "gn:asciiname":"Vogelsang",
+    "gn:country_code":"DE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2816958,
+    "gn:latitude":54.69922,
+    "gn:longitude":9.89949,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"Vogelsang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"9.89449,54.69422,9.90449,54.70422",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Vogelsang"
+    ],
+    "name:ces_x_preferred":[
+        "Vogelsang"
+    ],
+    "name:deu_x_preferred":[
+        "Vogelsang"
+    ],
+    "name:epo_x_preferred":[
+        "Vogelsang"
+    ],
+    "name:fra_x_preferred":[
+        "Vogelsang"
+    ],
+    "name:ita_x_preferred":[
+        "Vogelsang"
+    ],
+    "name:nld_x_preferred":[
+        "Vogelsang"
+    ],
+    "name:pol_x_preferred":[
+        "Vogelsang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0433\u0435\u043b\u044c\u0437\u0430\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Vogelsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377684447,
+        85633111,
+        1125851029,
+        102064159,
+        85682517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2816958
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"641de82fb4a9aa68ebe80cfe68905229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064159,
+            "localadmin_id":1377684447,
+            "locality_id":1125851029,
+            "neighbourhood_id":1393612255,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":1393612255,
+    "wof:lastmodified":1566714759,
+    "wof:name":"Vogelsang",
+    "wof:parent_id":1125851029,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242862961
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89949,
+    54.69922,
+    9.89949,
+    54.69922
+],
+  "geometry": {"coordinates":[9.89949,54.69922],"type":"Point"}
+}

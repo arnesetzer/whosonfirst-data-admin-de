@@ -1,1 +1,95 @@
-{"id": 1108942285, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "9.78138741464,52.3513200492,9.78138741464,52.3513200492", "geom:latitude": 52.35132, "geom:longitude": 9.781387, "iso:country": "DE", "lbl:bbox": "9.77638741464,52.3463200492,9.78638741464,52.3563200492", "lbl:latitude": 52.35132, "lbl:longitude": 9.781387, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 14.0, "mz:tier_metro": 30, "name:ceb_x_preferred": ["Waldheim"], "name:ces_x_preferred": ["Waldheim"], "name:deu_x_preferred": ["Waldheim"], "name:fra_x_preferred": ["Waldheim"], "name:heb_x_preferred": ["\u05d5\u05dc\u05d3\u05d4\u05d9\u05d9\u05dd"], "name:nld_x_preferred": ["Waldheim"], "name:pol_x_preferred": ["Waldheim"], "name:rus_x_preferred": ["\u0412\u0430\u043b\u044c\u0434\u0445\u0430\u0439\u043c"], "name:tur_x_preferred": ["Waldheim"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 1377686265, 85633111, 101748819, 102063941, 85682555], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491362999, "wof:geomhash": "e0b2faba156eb9b837c5f80b24b43b10", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063941, "localadmin_id": 1377686265, "locality_id": 101748819, "neighbourhood_id": 1108942285, "region_id": 85682555}], "wof:id": 1108942285, "wof:lastmodified": 1566712971, "wof:name": "Waldheim", "wof:parent_id": 101748819, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.78138741463617, 52.35132004916379, 9.78138741463617, 52.35132004916379], "geometry": {"coordinates": [9.78138741463617, 52.35132004916379], "type": "Point"}}
+{
+  "id": 1108942285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78138741464,52.3513200492,9.78138741464,52.3513200492",
+    "geom:latitude":52.35132,
+    "geom:longitude":9.781387,
+    "iso:country":"DE",
+    "lbl:bbox":"9.77638741464,52.3463200492,9.78638741464,52.3563200492",
+    "lbl:latitude":52.35132,
+    "lbl:longitude":9.781387,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Waldheim"
+    ],
+    "name:ces_x_preferred":[
+        "Waldheim"
+    ],
+    "name:deu_x_preferred":[
+        "Waldheim"
+    ],
+    "name:fra_x_preferred":[
+        "Waldheim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05d3\u05d4\u05d9\u05d9\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Waldheim"
+    ],
+    "name:pol_x_preferred":[
+        "Waldheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0434\u0445\u0430\u0439\u043c"
+    ],
+    "name:tur_x_preferred":[
+        "Waldheim"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1377686265,
+        85633111,
+        101748819,
+        102063941,
+        85682555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491362999,
+    "wof:geomhash":"e0b2faba156eb9b837c5f80b24b43b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063941,
+            "localadmin_id":1377686265,
+            "locality_id":101748819,
+            "neighbourhood_id":1108942285,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":1108942285,
+    "wof:lastmodified":1566712971,
+    "wof:name":"Waldheim",
+    "wof:parent_id":101748819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78138741463617,
+    52.35132004916379,
+    9.78138741463617,
+    52.35132004916379
+],
+  "geometry": {"coordinates":[9.78138741463617,52.35132004916379],"type":"Point"}
+}

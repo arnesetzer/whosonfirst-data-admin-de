@@ -1,1 +1,170 @@
-{"id": 101909613, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.8e-05, "geom:area_square_m": 288901.945262, "geom:bbox": "10.632654,52.046792,10.642845,52.052231", "geom:latitude": 52.049337, "geom:longitude": 10.637741, "gn:population": 820, "iso:country": "DE", "lbl:latitude": 52.049058, "lbl:longitude": 10.637741, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.049058, "mps:longitude": 10.637741, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:ceb_x_preferred": ["Achim"], "name:che_x_preferred": ["\u0410\u0445\u0438\u043c"], "name:deu_x_preferred": ["Achim"], "name:eng_x_preferred": ["Achim"], "name:epo_x_preferred": ["Achim"], "name:fas_x_preferred": ["\u0627\u0686\u06cc\u0645\u060c \u0648\u0644\u0641\u0646\u0628\u0648\u062a\u0644"], "name:fas_x_variant": ["\u0627\u0686\u06cc\u0645"], "name:fra_x_preferred": ["Achim"], "name:gml_x_preferred": ["Achem [a. 1176]"], "name:ind_x_preferred": ["Achim"], "name:ita_x_preferred": ["Achim"], "name:kaz_x_preferred": ["\u0410\u0445\u0438\u043c"], "name:kir_x_preferred": ["\u0410\u0445\u0438\u043c"], "name:nds_x_preferred": ["Achen"], "name:nld_x_preferred": ["Achim"], "name:osx_x_preferred": ["Acheim [a. 1022]"], "name:pol_x_preferred": ["Achim"], "name:por_x_preferred": ["Achim"], "name:ron_x_preferred": ["Achim"], "name:rus_x_preferred": ["\u0410\u0445\u0438\u043c"], "name:srp_x_preferred": ["\u0410\u0445\u0438\u043c"], "name:tat_x_preferred": ["\u0410\u0445\u0438\u043c"], "name:uzb_x_preferred": ["Achim"], "name:vie_x_preferred": ["Achim"], "name:vol_x_preferred": ["Achim"], "name:war_x_preferred": ["Achim"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "Wolfenb\u00fcttel", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Achim", "qs:la_lc": "*DE03015803001", "qs:level": "locality", "qs:loc": "Achim", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 467, "wof:belongsto": [85682555, 102191581, 1377686129, 85633111, 102063881], "wof:breaches": [], "wof:concordances": {"gn:id": 2959682, "gp:id": 694377, "qs_pg:id": 580047, "wd:id": "Q340347", "wk:page": "Mohlsdorf"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "fea5271ce6740ae6a39a4697a2629134", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063881, "localadmin_id": 1377686129, "locality_id": 101909613, "region_id": 85682555}], "wof:id": 101909613, "wof:lastmodified": 1690871418, "wof:name": "Achim", "wof:parent_id": 1377686129, "wof:placetype": "locality", "wof:population": 820, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.632654, 52.046792, 10.642845, 52.052231], "geometry": {"coordinates": [[[10.642845, 52.04948], [10.642819, 52.047682], [10.641361, 52.04769], [10.641349, 52.046792], [10.635518, 52.046823], [10.635531, 52.047722], [10.634074, 52.04773], [10.634112, 52.050426], [10.632654, 52.050434], [10.632679, 52.052231], [10.635595, 52.052215], [10.635582, 52.051317], [10.641413, 52.051285], [10.641387, 52.049488], [10.642845, 52.04948]]], "type": "Polygon"}}
+{
+  "id": 101909613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":288901.945262,
+    "geom:bbox":"10.632654,52.046792,10.642845,52.052231",
+    "geom:latitude":52.049337,
+    "geom:longitude":10.637741,
+    "gn:population":820,
+    "iso:country":"DE",
+    "lbl:latitude":52.049058,
+    "lbl:longitude":10.637741,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.049058,
+    "mps:longitude":10.637741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Achim"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0445\u0438\u043c"
+    ],
+    "name:deu_x_preferred":[
+        "Achim"
+    ],
+    "name:eng_x_preferred":[
+        "Achim"
+    ],
+    "name:epo_x_preferred":[
+        "Achim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0686\u06cc\u0645\u060c \u0648\u0644\u0641\u0646\u0628\u0648\u062a\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0686\u06cc\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Achim"
+    ],
+    "name:gml_x_preferred":[
+        "Achem [a. 1176]"
+    ],
+    "name:ind_x_preferred":[
+        "Achim"
+    ],
+    "name:ita_x_preferred":[
+        "Achim"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0445\u0438\u043c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u0445\u0438\u043c"
+    ],
+    "name:nds_x_preferred":[
+        "Achen"
+    ],
+    "name:nld_x_preferred":[
+        "Achim"
+    ],
+    "name:osx_x_preferred":[
+        "Acheim [a. 1022]"
+    ],
+    "name:pol_x_preferred":[
+        "Achim"
+    ],
+    "name:por_x_preferred":[
+        "Achim"
+    ],
+    "name:ron_x_preferred":[
+        "Achim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0438\u043c"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0445\u0438\u043c"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0445\u0438\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Achim"
+    ],
+    "name:vie_x_preferred":[
+        "Achim"
+    ],
+    "name:vol_x_preferred":[
+        "Achim"
+    ],
+    "name:war_x_preferred":[
+        "Achim"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Wolfenb\u00fcttel",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Achim",
+    "qs:la_lc":"*DE03015803001",
+    "qs:level":"locality",
+    "qs:loc":"Achim",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":467,
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377686129,
+        85633111,
+        102063881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2959682,
+        "gp:id":694377,
+        "qs_pg:id":580047,
+        "wd:id":"Q340347",
+        "wk:page":"Mohlsdorf"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"fea5271ce6740ae6a39a4697a2629134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063881,
+            "localadmin_id":1377686129,
+            "locality_id":101909613,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101909613,
+    "wof:lastmodified":1690871418,
+    "wof:name":"Achim",
+    "wof:parent_id":1377686129,
+    "wof:placetype":"locality",
+    "wof:population":820,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.632654,
+    52.046792,
+    10.642845,
+    52.052231
+],
+  "geometry": {"coordinates":[[[10.642845,52.04948],[10.642819,52.047682],[10.641361,52.04769],[10.641349,52.046792],[10.635518,52.046823],[10.635531,52.047722],[10.634074,52.04773],[10.634112,52.050426],[10.632654,52.050434],[10.632679,52.052231],[10.635595,52.052215],[10.635582,52.051317],[10.641413,52.051285],[10.641387,52.049488],[10.642845,52.04948]]],"type":"Polygon"}
+}

@@ -1,1 +1,244 @@
-{"id": 101906781, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07336034", "eurostat:level_code": "lau", "eurostat:name_local": "Haschbach am Remigiusberg", "eurostat:nuts_2021_id": "07336034", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3G", "eurostat:nuts_2021_level_lau": "07336034", "eurostat:population": 671, "eurostat:population_year": 2020, "geom:area": 0.000498, "geom:area_square_m": 3994044.11629, "geom:bbox": "7.408473,49.515993,7.450315,49.535673", "geom:latitude": 49.525593, "geom:longitude": 7.429123, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 715, "iso:country": "DE", "lbl:latitude": 49.524202, "lbl:longitude": 7.430265, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 49.524202, "mps:longitude": 7.430265, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bul_x_preferred": ["\u0425\u0430\u0448\u0431\u0430\u0445 \u0430\u043c \u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"], "name:cat_x_preferred": ["Haschbach am Remigiusberg"], "name:ceb_x_preferred": ["Haschbach am Remigiusberg"], "name:che_x_preferred": ["\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"], "name:deu_x_preferred": ["Haschbach am Remigiusberg"], "name:deu_x_variant": ["Haschbach"], "name:eng_x_preferred": ["Haschbach am Remigiusberg"], "name:epo_x_preferred": ["Haschbach am Remigiusberg"], "name:eus_x_preferred": ["Haschbach am Remigiusberg"], "name:fas_x_preferred": ["\u0647\u0627\u0634\u0628\u0627\u062e \u0627\u0645 \u0631\u0645\u06cc\u06af\u06cc\u0648\u0633\u0628\u0631\u06af"], "name:fra_x_preferred": ["Haschbach am Remigiusberg"], "name:hbs_x_preferred": ["Haschbach am Remigiusberg"], "name:hun_x_preferred": ["Haschbach am Remigiusberg"], "name:ita_x_preferred": ["Haschbach am Remigiusberg"], "name:jpn_x_preferred": ["\u30cf\u30b7\u30e5\u30d0\u30c3\u30cf\u30fb\u30a2\u30e0\u30fb\u30ec\u30df\u30ae\u30a6\u30b9\u30d9\u30eb\u30af"], "name:kaz_x_preferred": ["\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"], "name:kir_x_preferred": ["\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"], "name:kur_x_preferred": ["Haschbach am Remigiusberg"], "name:lld_x_preferred": ["Haschbach am Remigiusberg"], "name:msa_x_preferred": ["Haschbach am Remigiusberg"], "name:nan_x_preferred": ["Haschbach am Remigiusberg"], "name:nld_x_preferred": ["Haschbach am Remigiusberg"], "name:nob_x_preferred": ["Haschbach am Remigiusberg"], "name:pol_x_preferred": ["Haschbach am Remigiusberg"], "name:por_x_preferred": ["Haschbach am Remigiusberg"], "name:ron_x_preferred": ["Haschbach am Remigiusberg"], "name:rus_x_preferred": ["\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"], "name:spa_x_preferred": ["Haschbach am Remigiusberg"], "name:srp_x_preferred": ["\u0425\u0430\u0448\u0431\u0430\u0445 \u043d\u0430 \u0420\u0435\u043c\u0438\u0433\u0438\u0458\u0443\u0437\u0431\u0435\u0440\u0433\u0443"], "name:srp_x_variant": ["\u0425\u0430\u0448\u0431\u0430\u0445 \u0430\u043c \u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"], "name:swe_x_preferred": ["Haschbach am Remigiusberg"], "name:tat_x_preferred": ["\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"], "name:ukr_x_preferred": ["\u0413\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0456\u0433\u0456\u0443\u0441\u0431\u0435\u0440\u0433"], "name:uzb_x_preferred": ["Haschbach am Remigiusberg"], "name:vie_x_preferred": ["Haschbach am Remigiusberg"], "name:vol_x_preferred": ["Haschbach am Remigiusberg"], "name:war_x_preferred": ["Haschbach am Remigiusberg"], "name:zho_x_preferred": ["\u96f7\u7c73\u5409\u4e4c\u65af\u8d1d\u683c\u5c71\u9e93\u54c8\u65bd\u5df4\u8d6b"], "nav:latitude": 49.524202, "nav:longitude": 7.430265, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Kusel", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Haschbach am Remigiusberg", "qs:la_lc": "*DE07033603034", "qs:level": "locality", "qs:loc": "Haschbach am Remigiusberg", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555100, "qs_pg:gn_pop": 715, "qs_pg:name": "Haschbach am Remigiusberg", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 635831, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 4783, "wof:belongsto": [85682491, 102191581, 1377686501, 85633111, 102063499], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07336034", "eurostat:nuts_2021_id": "07336034", "fct:id": "0743009a-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2909908, "gp:id": 657579, "qs_pg:id": 1157346, "wd:id": "Q551718", "wk:page": "Haschbach am Remigiusberg"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "879cb7f4ff0b3515ea4d015fb8a33708", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063499, "localadmin_id": 1377686501, "locality_id": 101906781, "region_id": 85682491}], "wof:id": 101906781, "wof:lang": ["ger"], "wof:lastmodified": 1690871744, "wof:name": "Haschbach am Remigiusberg", "wof:parent_id": 1377686501, "wof:placetype": "locality", "wof:population": 671, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125282299], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.408473, 49.515993, 7.450315, 49.535673], "geometry": {"coordinates": [[[[7.450315, 49.534098], [7.447646, 49.527363], [7.443923, 49.524156], [7.443774, 49.522702], [7.443836, 49.521376], [7.442499, 49.520056], [7.439512, 49.518508], [7.435679, 49.51618], [7.429423, 49.52035], [7.42552, 49.519249], [7.422967, 49.518195], [7.418687, 49.517357], [7.416629, 49.516447], [7.415611, 49.516849], [7.414283, 49.515993], [7.409931, 49.517009], [7.408473, 49.517086], [7.4089, 49.517756], [7.409729, 49.519056], [7.411791, 49.520544], [7.41108, 49.522983], [7.411703, 49.523946], [7.415583, 49.52994], [7.420885, 49.531765], [7.421835, 49.532092], [7.42318, 49.532986], [7.424087, 49.533589], [7.425826, 49.535478], [7.426952, 49.535119], [7.428634, 49.534582], [7.430163, 49.534893], [7.431007, 49.535603], [7.432989, 49.535673], [7.433345, 49.534762], [7.434339, 49.534353], [7.435269, 49.534572], [7.435993, 49.533964], [7.438916, 49.531511], [7.441698, 49.531858], [7.44299, 49.531743], [7.445947, 49.531666], [7.446487, 49.532282], [7.447533, 49.533473], [7.448876, 49.533775], [7.450315, 49.534098]]]], "type": "MultiPolygon"}}
+{
+  "id": 101906781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07336034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haschbach am Remigiusberg",
+    "eurostat:nuts_2021_id":"07336034",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3G",
+    "eurostat:nuts_2021_level_lau":"07336034",
+    "eurostat:population":671,
+    "eurostat:population_year":2020,
+    "geom:area":0.000498,
+    "geom:area_square_m":3994044.11629,
+    "geom:bbox":"7.408473,49.515993,7.450315,49.535673",
+    "geom:latitude":49.525593,
+    "geom:longitude":7.429123,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":715,
+    "iso:country":"DE",
+    "lbl:latitude":49.524202,
+    "lbl:longitude":7.430265,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":49.524202,
+    "mps:longitude":7.430265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0448\u0431\u0430\u0445 \u0430\u043c \u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:ceb_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:deu_x_variant":[
+        "Haschbach"
+    ],
+    "name:eng_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:epo_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:eus_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0634\u0628\u0627\u062e \u0627\u0645 \u0631\u0645\u06cc\u06af\u06cc\u0648\u0633\u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:hbs_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:hun_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:ita_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30b7\u30e5\u30d0\u30c3\u30cf\u30fb\u30a2\u30e0\u30fb\u30ec\u30df\u30ae\u30a6\u30b9\u30d9\u30eb\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:kur_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:lld_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:msa_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:nan_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:nld_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:nob_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:pol_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:por_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:ron_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0448\u0431\u0430\u0445 \u043d\u0430 \u0420\u0435\u043c\u0438\u0433\u0438\u0458\u0443\u0437\u0431\u0435\u0440\u0433\u0443"
+    ],
+    "name:srp_x_variant":[
+        "\u0425\u0430\u0448\u0431\u0430\u0445 \u0430\u043c \u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0438\u0433\u0438\u0443\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0448\u0431\u0430\u0445-\u0430\u043c-\u0420\u0435\u043c\u0456\u0433\u0456\u0443\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:vie_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:vol_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:war_x_preferred":[
+        "Haschbach am Remigiusberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u7c73\u5409\u4e4c\u65af\u8d1d\u683c\u5c71\u9e93\u54c8\u65bd\u5df4\u8d6b"
+    ],
+    "nav:latitude":49.524202,
+    "nav:longitude":7.430265,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Kusel",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Haschbach am Remigiusberg",
+    "qs:la_lc":"*DE07033603034",
+    "qs:level":"locality",
+    "qs:loc":"Haschbach am Remigiusberg",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555100,
+    "qs_pg:gn_pop":715,
+    "qs_pg:name":"Haschbach am Remigiusberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":635831,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":4783,
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686501,
+        85633111,
+        102063499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07336034",
+        "eurostat:nuts_2021_id":"07336034",
+        "fct:id":"0743009a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2909908,
+        "gp:id":657579,
+        "qs_pg:id":1157346,
+        "wd:id":"Q551718",
+        "wk:page":"Haschbach am Remigiusberg"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"879cb7f4ff0b3515ea4d015fb8a33708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063499,
+            "localadmin_id":1377686501,
+            "locality_id":101906781,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101906781,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871744,
+    "wof:name":"Haschbach am Remigiusberg",
+    "wof:parent_id":1377686501,
+    "wof:placetype":"locality",
+    "wof:population":671,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125282299
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.408473,
+    49.515993,
+    7.450315,
+    49.535673
+],
+  "geometry": {"coordinates":[[[[7.450315,49.534098],[7.447646,49.527363],[7.443923,49.524156],[7.443774,49.522702],[7.443836,49.521376],[7.442499,49.520056],[7.439512,49.518508],[7.435679,49.51618],[7.429423,49.52035],[7.42552,49.519249],[7.422967,49.518195],[7.418687,49.517357],[7.416629,49.516447],[7.415611,49.516849],[7.414283,49.515993],[7.409931,49.517009],[7.408473,49.517086],[7.4089,49.517756],[7.409729,49.519056],[7.411791,49.520544],[7.41108,49.522983],[7.411703,49.523946],[7.415583,49.52994],[7.420885,49.531765],[7.421835,49.532092],[7.42318,49.532986],[7.424087,49.533589],[7.425826,49.535478],[7.426952,49.535119],[7.428634,49.534582],[7.430163,49.534893],[7.431007,49.535603],[7.432989,49.535673],[7.433345,49.534762],[7.434339,49.534353],[7.435269,49.534572],[7.435993,49.533964],[7.438916,49.531511],[7.441698,49.531858],[7.44299,49.531743],[7.445947,49.531666],[7.446487,49.532282],[7.447533,49.533473],[7.448876,49.533775],[7.450315,49.534098]]]],"type":"MultiPolygon"}
+}

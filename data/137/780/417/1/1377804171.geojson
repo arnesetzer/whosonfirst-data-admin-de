@@ -1,1 +1,85 @@
-{"id": 1377804171, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "13.44057,54.00787,13.44057,54.00787", "geom:latitude": 54.00787, "geom:longitude": 13.44057, "gn:admin1_code": "12", "gn:admin2_code": "0.0", "gn:admin3_code": "13075.0", "gn:admin4_code": "13075041.0", "gn:asciiname": "Sanz", "gn:country_code": "DE", "gn:dem": 35, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2841437, "gn:latitude": 54.00787, "gn:longitude": 13.44057, "gn:modification_date": "2015-09-05", "gn:name": "Sanz", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "13.43557,54.00287,13.44557,54.01287", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:heb_x_preferred": ["\u05d7\u05e1\u05d9\u05d3\u05d5\u05ea \u05e6\u05d0\u05e0\u05d6"], "name:yid_x_preferred": ["\u05e6\u05d0\u05e0\u05d6"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377685173, 85633111, 101818937, 1377675571, 85682487], "wof:breaches": [], "wof:concordances": {"gn:id": 2841437}, "wof:country": "DE", "wof:geomhash": "d226d4663307c16a6c4460001b1366a6", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675571, "localadmin_id": 1377685173, "locality_id": 101818937, "neighbourhood_id": 1377804171, "region_id": 85682487}], "wof:id": 1377804171, "wof:lastmodified": 1566719509, "wof:name": "Sanz", "wof:parent_id": 101818937, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1293566023], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.44057, 54.00787, 13.44057, 54.00787], "geometry": {"coordinates": [13.44057, 54.00787], "type": "Point"}}
+{
+  "id": 1377804171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44057,54.00787,13.44057,54.00787",
+    "geom:latitude":54.00787,
+    "geom:longitude":13.44057,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"13075.0",
+    "gn:admin4_code":"13075041.0",
+    "gn:asciiname":"Sanz",
+    "gn:country_code":"DE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2841437,
+    "gn:latitude":54.00787,
+    "gn:longitude":13.44057,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Sanz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"13.43557,54.00287,13.44557,54.01287",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:heb_x_preferred":[
+        "\u05d7\u05e1\u05d9\u05d3\u05d5\u05ea \u05e6\u05d0\u05e0\u05d6"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e6\u05d0\u05e0\u05d6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377685173,
+        85633111,
+        101818937,
+        1377675571,
+        85682487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2841437
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"d226d4663307c16a6c4460001b1366a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675571,
+            "localadmin_id":1377685173,
+            "locality_id":101818937,
+            "neighbourhood_id":1377804171,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":1377804171,
+    "wof:lastmodified":1566719509,
+    "wof:name":"Sanz",
+    "wof:parent_id":101818937,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293566023
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44057,
+    54.00787,
+    13.44057,
+    54.00787
+],
+  "geometry": {"coordinates":[13.44057,54.00787],"type":"Point"}
+}

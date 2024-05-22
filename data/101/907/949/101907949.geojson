@@ -1,1 +1,151 @@
-{"id": 101907949, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.9e-05, "geom:area_square_m": 288853.515383, "geom:bbox": "11.835712,52.79549,11.850382,52.803757", "geom:latitude": 52.79988, "geom:longitude": 11.843052, "gn:population": 530, "iso:country": "DE", "lbl:latitude": 52.800049, "lbl:longitude": 11.843163, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.800049, "mps:longitude": 11.843163, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041a\u0451\u043d\u0438\u0433\u0441\u043c\u0430\u0440\u043a"], "name:bre_x_preferred": ["K\u00f6nigsmark"], "name:cat_x_preferred": ["K\u00f6nigsmark"], "name:ceb_x_preferred": ["K\u00f6nigsmark"], "name:che_x_preferred": ["\u041a\u043e\u044c\u043d\u0438\u0433\u0441\u043c\u0430\u0440\u043a"], "name:deu_x_preferred": ["K\u00f6nigsmark"], "name:eng_x_preferred": ["K\u00f6nigsmark"], "name:epo_x_preferred": ["K\u00f6nigsmark"], "name:fas_x_preferred": ["\u06a9\u0648\u0646\u06cc\u06af\u0633\u0645\u0627\u0631\u06a9"], "name:fra_x_preferred": ["K\u00f6nigsmark"], "name:gle_x_preferred": ["K\u00f6nigsmark"], "name:ita_x_preferred": ["K\u00f6nigsmark"], "name:nld_x_preferred": ["K\u00f6nigsmark"], "name:nob_x_preferred": ["K\u00f6nigsmark"], "name:ron_x_preferred": ["K\u00f6nigsmark"], "name:rus_x_preferred": ["\u041a\u0451\u043d\u0438\u0433\u0441\u043c\u0430\u0440\u043a"], "name:swe_x_preferred": ["K\u00f6nigsmark"], "name:tat_x_preferred": ["\u041a\u0451\u043d\u0438\u0433\u0441\u043c\u0430\u0440\u043a"], "name:uzb_x_preferred": ["K\u00f6nigsmark"], "name:vol_x_preferred": ["K\u00f6nigsmark"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Stendal", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "K\u00f6nigsmark", "qs:la_lc": "*DE15009004315", "qs:level": "locality", "qs:loc": "K\u00f6nigsmark", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wof:belongsto": [85682519, 102191581, 1377689195, 85633111, 102063905], "wof:breaches": [], "wof:concordances": {"gn:id": 2885798, "gp:id": 668166, "qs_pg:id": 1239291, "wd:id": "Q700258", "wk:page": "K\u00f6nigsmark"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "289ee92a82440307379fd79cf06d636f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063905, "localadmin_id": 1377689195, "locality_id": 101907949, "region_id": 85682519}], "wof:id": 101907949, "wof:lastmodified": 1690871585, "wof:name": "K\u00f6nigsmark", "wof:parent_id": 1377689195, "wof:placetype": "locality", "wof:population": 530, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.835712, 52.79549, 11.850382, 52.803757], "geometry": {"coordinates": [[[11.850382, 52.797241], [11.850344, 52.796343], [11.84738, 52.796389], [11.847342, 52.79549], [11.84586, 52.795513], [11.845936, 52.79731], [11.844453, 52.797333], [11.844491, 52.798231], [11.841527, 52.798276], [11.841641, 52.800971], [11.835712, 52.801062], [11.835825, 52.803757], [11.838789, 52.803712], [11.838752, 52.802814], [11.840234, 52.802791], [11.840196, 52.801892], [11.844643, 52.801824], [11.844605, 52.800926], [11.846087, 52.800903], [11.846049, 52.800005], [11.847531, 52.799982], [11.847456, 52.798185], [11.848938, 52.798162], [11.8489, 52.797264], [11.850382, 52.797241]]], "type": "Polygon"}}
+{
+  "id": 101907949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":288853.515383,
+    "geom:bbox":"11.835712,52.79549,11.850382,52.803757",
+    "geom:latitude":52.79988,
+    "geom:longitude":11.843052,
+    "gn:population":530,
+    "iso:country":"DE",
+    "lbl:latitude":52.800049,
+    "lbl:longitude":11.843163,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.800049,
+    "mps:longitude":11.843163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041a\u0451\u043d\u0438\u0433\u0441\u043c\u0430\u0440\u043a"
+    ],
+    "name:bre_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:cat_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u044c\u043d\u0438\u0433\u0441\u043c\u0430\u0440\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:eng_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:epo_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u06cc\u06af\u0633\u0645\u0627\u0631\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:gle_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:nob_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:ron_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0451\u043d\u0438\u0433\u0441\u043c\u0430\u0440\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0451\u043d\u0438\u0433\u0441\u043c\u0430\u0440\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "name:vol_x_preferred":[
+        "K\u00f6nigsmark"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Stendal",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"K\u00f6nigsmark",
+    "qs:la_lc":"*DE15009004315",
+    "qs:level":"locality",
+    "qs:loc":"K\u00f6nigsmark",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689195,
+        85633111,
+        102063905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2885798,
+        "gp:id":668166,
+        "qs_pg:id":1239291,
+        "wd:id":"Q700258",
+        "wk:page":"K\u00f6nigsmark"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"289ee92a82440307379fd79cf06d636f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063905,
+            "localadmin_id":1377689195,
+            "locality_id":101907949,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101907949,
+    "wof:lastmodified":1690871585,
+    "wof:name":"K\u00f6nigsmark",
+    "wof:parent_id":1377689195,
+    "wof:placetype":"locality",
+    "wof:population":530,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.835712,
+    52.79549,
+    11.850382,
+    52.803757
+],
+  "geometry": {"coordinates":[[[11.850382,52.797241],[11.850344,52.796343],[11.84738,52.796389],[11.847342,52.79549],[11.84586,52.795513],[11.845936,52.79731],[11.844453,52.797333],[11.844491,52.798231],[11.841527,52.798276],[11.841641,52.800971],[11.835712,52.801062],[11.835825,52.803757],[11.838789,52.803712],[11.838752,52.802814],[11.840234,52.802791],[11.840196,52.801892],[11.844643,52.801824],[11.844605,52.800926],[11.846087,52.800903],[11.846049,52.800005],[11.847531,52.799982],[11.847456,52.798185],[11.848938,52.798162],[11.8489,52.797264],[11.850382,52.797241]]],"type":"Polygon"}
+}

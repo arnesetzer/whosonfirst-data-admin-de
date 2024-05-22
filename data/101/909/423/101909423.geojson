@@ -1,1 +1,164 @@
-{"id": 101909423, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000117, "geom:area_square_m": 896663.3981, "geom:bbox": "12.880723,51.696702,12.907202,51.708019", "geom:latitude": 51.702463, "geom:longitude": 12.893384, "gn:population": 611, "iso:country": "DE", "lbl:latitude": 51.701973, "lbl:longitude": 12.891378, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.701973, "mps:longitude": 12.891378, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0410\u043a\u0441\u0438\u043d"], "name:ceb_x_preferred": ["Axien"], "name:che_x_preferred": ["\u0410\u043a\u0441\u0438\u043d"], "name:deu_x_preferred": ["Axien"], "name:eng_x_preferred": ["Axien"], "name:epo_x_preferred": ["Axien"], "name:fas_x_preferred": ["\u0622\u06a9\u0633\u0627\u06cc\u0646"], "name:fra_x_preferred": ["Axien"], "name:gle_x_preferred": ["Axien"], "name:hbs_x_preferred": ["Axien"], "name:ita_x_preferred": ["Axien"], "name:kaz_x_preferred": ["\u0410\u043a\u0441\u0438\u043d"], "name:kir_x_preferred": ["\u0410\u043a\u0441\u0438\u043d"], "name:mkd_x_preferred": ["\u0410\u043a\u0441\u0438\u043d"], "name:nld_x_preferred": ["Axien"], "name:por_x_preferred": ["Axien"], "name:ron_x_preferred": ["Axien"], "name:rus_x_preferred": ["\u0410\u043a\u0441\u0438\u043d"], "name:srp_x_preferred": ["\u0410\u043a\u0441\u0438\u043d"], "name:tat_x_preferred": ["\u0410\u043a\u0441\u0438\u043d"], "name:uzb_x_preferred": ["Axien"], "name:vie_x_preferred": ["Axien"], "name:vol_x_preferred": ["Axien"], "name:war_x_preferred": ["Axien"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Wittenberg", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Axien", "qs:la_lc": "*DE15009101015", "qs:level": "locality", "qs:loc": "Axien", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 165, "wof:belongsto": [85682519, 102191581, 1377689253, 85633111, 102063859], "wof:breaches": [], "wof:concordances": {"gn:id": 2953841, "gp:id": 636242, "qs_pg:id": 579923, "wd:id": "Q176983", "wk:page": "Col du Pillon"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "ff6ed02db8b4675b06206494c1e597e3", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063859, "localadmin_id": 1377689253, "locality_id": 101909423, "region_id": 85682519}], "wof:id": 101909423, "wof:lastmodified": 1690871376, "wof:name": "Axien", "wof:parent_id": 1377689253, "wof:placetype": "locality", "wof:population": 611, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.880723, 51.696702, 12.907202, 51.708019], "geometry": {"coordinates": [[[12.907202, 51.706978], [12.906972, 51.703387], [12.90119, 51.70353], [12.901075, 51.701734], [12.898184, 51.701805], [12.898126, 51.700907], [12.896681, 51.700943], [12.896624, 51.700045], [12.893733, 51.700116], [12.893675, 51.699218], [12.89223, 51.699254], [12.892173, 51.698356], [12.887836, 51.698463], [12.887779, 51.697565], [12.886334, 51.6976], [12.886276, 51.696702], [12.884831, 51.696738], [12.885003, 51.699432], [12.882112, 51.699503], [12.882169, 51.700401], [12.880723, 51.700436], [12.880837, 51.702232], [12.883729, 51.702161], [12.883843, 51.703957], [12.889625, 51.703815], [12.88974, 51.705611], [12.892631, 51.70554], [12.892574, 51.704642], [12.894019, 51.704606], [12.893962, 51.703708], [12.898299, 51.703601], [12.898356, 51.704499], [12.899802, 51.704463], [12.899917, 51.706259], [12.901362, 51.706224], [12.901477, 51.708019], [12.904369, 51.707948], [12.904311, 51.70705], [12.907202, 51.706978]]], "type": "Polygon"}}
+{
+  "id": 101909423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":896663.3981,
+    "geom:bbox":"12.880723,51.696702,12.907202,51.708019",
+    "geom:latitude":51.702463,
+    "geom:longitude":12.893384,
+    "gn:population":611,
+    "iso:country":"DE",
+    "lbl:latitude":51.701973,
+    "lbl:longitude":12.891378,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.701973,
+    "mps:longitude":12.891378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Axien"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Axien"
+    ],
+    "name:eng_x_preferred":[
+        "Axien"
+    ],
+    "name:epo_x_preferred":[
+        "Axien"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06a9\u0633\u0627\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Axien"
+    ],
+    "name:gle_x_preferred":[
+        "Axien"
+    ],
+    "name:hbs_x_preferred":[
+        "Axien"
+    ],
+    "name:ita_x_preferred":[
+        "Axien"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Axien"
+    ],
+    "name:por_x_preferred":[
+        "Axien"
+    ],
+    "name:ron_x_preferred":[
+        "Axien"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Axien"
+    ],
+    "name:vie_x_preferred":[
+        "Axien"
+    ],
+    "name:vol_x_preferred":[
+        "Axien"
+    ],
+    "name:war_x_preferred":[
+        "Axien"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Wittenberg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Axien",
+    "qs:la_lc":"*DE15009101015",
+    "qs:level":"locality",
+    "qs:loc":"Axien",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689253,
+        85633111,
+        102063859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2953841,
+        "gp:id":636242,
+        "qs_pg:id":579923,
+        "wd:id":"Q176983",
+        "wk:page":"Col du Pillon"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"ff6ed02db8b4675b06206494c1e597e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063859,
+            "localadmin_id":1377689253,
+            "locality_id":101909423,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909423,
+    "wof:lastmodified":1690871376,
+    "wof:name":"Axien",
+    "wof:parent_id":1377689253,
+    "wof:placetype":"locality",
+    "wof:population":611,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.880723,
+    51.696702,
+    12.907202,
+    51.708019
+],
+  "geometry": {"coordinates":[[[12.907202,51.706978],[12.906972,51.703387],[12.90119,51.70353],[12.901075,51.701734],[12.898184,51.701805],[12.898126,51.700907],[12.896681,51.700943],[12.896624,51.700045],[12.893733,51.700116],[12.893675,51.699218],[12.89223,51.699254],[12.892173,51.698356],[12.887836,51.698463],[12.887779,51.697565],[12.886334,51.6976],[12.886276,51.696702],[12.884831,51.696738],[12.885003,51.699432],[12.882112,51.699503],[12.882169,51.700401],[12.880723,51.700436],[12.880837,51.702232],[12.883729,51.702161],[12.883843,51.703957],[12.889625,51.703815],[12.88974,51.705611],[12.892631,51.70554],[12.892574,51.704642],[12.894019,51.704606],[12.893962,51.703708],[12.898299,51.703601],[12.898356,51.704499],[12.899802,51.704463],[12.899917,51.706259],[12.901362,51.706224],[12.901477,51.708019],[12.904369,51.707948],[12.904311,51.70705],[12.907202,51.706978]]],"type":"Polygon"}
+}

@@ -1,1 +1,410 @@
-{"id": 101765231, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08435018", "eurostat:level_code": "lau", "eurostat:name_local": "Hagnau am Bodensee", "eurostat:nuts_2021_id": "08435018", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE14", "eurostat:nuts_2021_level_3": "DE147", "eurostat:nuts_2021_level_lau": "08435018", "eurostat:population": 1410, "eurostat:population_year": 2020, "geom:area": 0.00035, "geom:area_square_m": 2911206.966459, "geom:bbox": "9.303671,47.669102,9.337832,47.688106", "geom:latitude": 47.679025, "geom:longitude": 9.319859, "gn:country": null, "gn:population": 1389, "iso:country": "DE", "lbl:latitude": 47.675638, "lbl:longitude": 9.317585, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 47.675638, "mps:longitude": 9.317585, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Hagnau am Bodensee"], "name:als_x_preferred": ["Hagnau am Bodensee"], "name:arg_x_preferred": ["Hagnau am Bodensee"], "name:ast_x_preferred": ["Hagnau am Bodensee"], "name:bar_x_preferred": ["Hagnau am Bodensee"], "name:bre_x_preferred": ["Hagnau am Bodensee"], "name:cat_x_preferred": ["Hagnau am Bodensee"], "name:ceb_x_preferred": ["Hagnau am Bodensee"], "name:ces_x_preferred": ["Hagnau am Bodensee"], "name:che_x_preferred": ["\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"], "name:cos_x_preferred": ["Hagnau am Bodensee"], "name:cym_x_preferred": ["Hagnau am Bodensee"], "name:dan_x_preferred": ["Hagnau am Bodensee"], "name:deu_x_preferred": ["Hagnau am Bodensee"], "name:deu_x_variant": ["Hagnau", "Hagnau (Bodensee)", "Hagnau/Bodensee"], "name:eng_x_preferred": ["Hagnau am Bodensee"], "name:epo_x_preferred": ["Hagnau am Bodensee"], "name:est_x_preferred": ["Hagnau am Bodensee"], "name:eus_x_preferred": ["Hagnau am Bodensee"], "name:fas_x_preferred": ["\u0647\u0627\u06af\u0646\u0627\u0648 \u0627\u0645 \u0628\u0648\u062f\u0646\u0632\u0647"], "name:fin_x_preferred": ["Hagnau am Bodensee"], "name:fra_x_preferred": ["Hagnau am Bodensee"], "name:frp_x_preferred": ["Hagnau am Bodensee"], "name:fur_x_preferred": ["Hagnau am Bodensee"], "name:gla_x_preferred": ["Hagnau am Bodensee"], "name:gle_x_preferred": ["Hagnau am Bodensee"], "name:glg_x_preferred": ["Hagnau am Bodensee"], "name:gsw_x_preferred": ["Hagnau am Bodensee"], "name:hbs_x_preferred": ["Hagnau am Bodensee"], "name:hrv_x_preferred": ["Hagnau am Bodensee"], "name:hun_x_preferred": ["Hagnau am Bodensee"], "name:hye_x_preferred": ["\u0540\u0561\u0563\u0576\u0561\u0578\u0582 \u0532\u0578\u0564\u0565\u0576\u0566\u0565\u0565"], "name:ido_x_preferred": ["Hagnau am Bodensee"], "name:ile_x_preferred": ["Hagnau am Bodensee"], "name:ina_x_preferred": ["Hagnau am Bodensee"], "name:ind_x_preferred": ["Hagnau am Bodensee"], "name:isl_x_preferred": ["Hagnau am Bodensee"], "name:ita_x_preferred": ["Hagnau am Bodensee"], "name:kat_x_preferred": ["\u10f0\u10d0\u10d2\u10dc\u10d0\u10e3-\u10d0\u10db-\u10d1\u10dd\u10d3\u10d4\u10dc\u10d6\u10d4\u10d4"], "name:kaz_x_preferred": ["\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"], "name:kir_x_preferred": ["\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"], "name:kon_x_preferred": ["Hagnau am Bodensee"], "name:kur_x_preferred": ["Hagnau am Bodensee"], "name:lat_x_preferred": ["Hagnau am Bodensee"], "name:lij_x_preferred": ["Hagnau am Bodensee"], "name:lim_x_preferred": ["Hagnau am Bodensee"], "name:lld_x_preferred": ["Hagnau am Bodensee"], "name:lmo_x_preferred": ["Hagnau am Bodensee"], "name:ltz_x_preferred": ["Hagnau am Bodensee"], "name:min_x_preferred": ["Hagnau am Bodensee"], "name:mlg_x_preferred": ["Hagnau am Bodensee"], "name:msa_x_preferred": ["Hagnau am Bodensee"], "name:nan_x_preferred": ["Hagnau am Bodensee"], "name:nap_x_preferred": ["Hagnau am Bodensee"], "name:nds_x_preferred": ["Hagnau am Bodensee"], "name:nld_x_preferred": ["Hagnau am Bodensee"], "name:nno_x_preferred": ["Hagnau am Bodensee"], "name:nob_x_preferred": ["Hagnau am Bodensee"], "name:nrm_x_preferred": ["Hagnau am Bodensee"], "name:oci_x_preferred": ["Hagnau am Bodensee"], "name:pcd_x_preferred": ["Hagnau am Bodensee"], "name:pms_x_preferred": ["Hagnau am Bodensee"], "name:pol_x_preferred": ["Hagnau am Bodensee"], "name:por_x_preferred": ["Hagnau"], "name:roh_x_preferred": ["Hagnau am Bodensee"], "name:ron_x_preferred": ["Hagnau am Bodensee"], "name:rus_x_preferred": ["\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"], "name:scn_x_preferred": ["Hagnau am Bodensee"], "name:sco_x_preferred": ["Hagnau am Bodensee"], "name:slk_x_preferred": ["Hagnau am Bodensee"], "name:slv_x_preferred": ["Hagnau am Bodensee"], "name:spa_x_preferred": ["Hagnau am Bodensee"], "name:srd_x_preferred": ["Hagnau am Bodensee"], "name:srp_x_preferred": ["\u0425\u0430\u0433\u043d\u0430\u0443 \u0430\u043c \u0411\u043e\u0434\u0435\u043d\u0437\u0435"], "name:swa_x_preferred": ["Hagnau am Bodensee"], "name:swe_x_preferred": ["Hagnau am Bodensee"], "name:tat_x_preferred": ["\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"], "name:ukr_x_preferred": ["\u0413\u0430\u0433\u043d\u0430\u0443-\u0430\u043c-\u0411\u043e\u0434\u0435\u043d\u0437\u0435"], "name:uzb_x_preferred": ["Hagnau am Bodensee"], "name:vec_x_preferred": ["Hagnau am Bodensee"], "name:vie_x_preferred": ["Hagnau am Bodensee"], "name:vls_x_preferred": ["Hagnau am Bodensee"], "name:vol_x_preferred": ["Hagnau am Bodensee"], "name:war_x_preferred": ["Hagnau am Bodensee"], "name:wln_x_preferred": ["Hagnau am Bodensee"], "name:wol_x_preferred": ["Hagnau am Bodensee"], "name:zho_min_nan_x_preferred": ["Hagnau am Bodensee"], "name:zho_x_preferred": ["\u535a\u767b\u6e56\u6ee8\u54c8\u683c\u7459"], "name:zul_x_preferred": ["Hagnau am Bodensee"], "nav:latitude": 47.675638, "nav:longitude": 9.317585, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Bodenseekreis", "qs:a2r": "T\u00fcbingen", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bodensee", "qs:la_lc": "*DE00000000999", "qs:level": "locality", "qs:loc": "Hagnau am Bodensee", "qs:loc_alt": "Hagnau am Bodensee", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:name": "Gemeinde Hagnau am Bodensee", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 11, "qs_pg:photos_1k": 2, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 3, "qs_pg:photos_all": 99, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 911401, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623784, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 67, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377690457, 404227573, 102063209], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08435018", "eurostat:nuts_2021_id": "08435018", "fct:id": "0762b890-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 6556041, "gp:id": 20159812, "qs_pg:id": 230027, "wd:id": "Q539889"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "e5edaf7416d87c7785afce257147b034", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063209, "localadmin_id": 1377690457, "locality_id": 101765231, "macrocounty_id": 404227573, "region_id": 85682567}], "wof:id": 101765231, "wof:lang": ["ger"], "wof:lastmodified": 1690871779, "wof:name": "Hagnau am Bodensee", "wof:parent_id": 1377690457, "wof:placetype": "locality", "wof:population": 1410, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125375097], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.303671, 47.669102, 9.337832, 47.688106], "geometry": {"coordinates": [[[[9.331329, 47.680956], [9.33265, 47.679676], [9.330227, 47.677466], [9.332226, 47.677352], [9.334816, 47.674702], [9.333623, 47.672838], [9.337832, 47.670366], [9.332436, 47.671791], [9.329679, 47.669102], [9.329047, 47.6694], [9.328426, 47.669771], [9.327922, 47.67026], [9.327164, 47.6708], [9.325872, 47.671442], [9.324032, 47.67215], [9.323188, 47.672384], [9.322562, 47.672413], [9.322267, 47.672491], [9.32137, 47.67276], [9.32105, 47.672774], [9.320558, 47.672769], [9.319971, 47.672798], [9.319384, 47.6729], [9.318795, 47.673037], [9.31802, 47.673146], [9.317233, 47.673236], [9.316659, 47.67332], [9.316311, 47.673415], [9.315626, 47.673695], [9.315236, 47.673835], [9.314913, 47.673993], [9.314396, 47.673933], [9.314135, 47.673697], [9.31378, 47.673531], [9.313289, 47.673472], [9.312703, 47.673483], [9.311484, 47.67383], [9.310423, 47.674222], [9.308983, 47.674917], [9.307254, 47.675967], [9.306647, 47.676329], [9.305639, 47.676749], [9.304514, 47.677016], [9.304234, 47.677058], [9.303671, 47.677222], [9.305839, 47.681695], [9.310096, 47.684536], [9.309529, 47.685995], [9.310225, 47.686848], [9.311171, 47.688008], [9.314573, 47.687704], [9.317353, 47.68608], [9.321804, 47.688106], [9.327983, 47.68381], [9.331329, 47.680956]]]], "type": "MultiPolygon"}}
+{
+  "id": 101765231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08435018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hagnau am Bodensee",
+    "eurostat:nuts_2021_id":"08435018",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE14",
+    "eurostat:nuts_2021_level_3":"DE147",
+    "eurostat:nuts_2021_level_lau":"08435018",
+    "eurostat:population":1410,
+    "eurostat:population_year":2020,
+    "geom:area":0.00035,
+    "geom:area_square_m":2911206.966459,
+    "geom:bbox":"9.303671,47.669102,9.337832,47.688106",
+    "geom:latitude":47.679025,
+    "geom:longitude":9.319859,
+    "gn:country":null,
+    "gn:population":1389,
+    "iso:country":"DE",
+    "lbl:latitude":47.675638,
+    "lbl:longitude":9.317585,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":47.675638,
+    "mps:longitude":9.317585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:als_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:arg_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:ast_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:bar_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:bre_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:cat_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:ceb_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:ces_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:cos_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:cym_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:dan_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:deu_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:deu_x_variant":[
+        "Hagnau",
+        "Hagnau (Bodensee)",
+        "Hagnau/Bodensee"
+    ],
+    "name:eng_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:epo_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:est_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:eus_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06af\u0646\u0627\u0648 \u0627\u0645 \u0628\u0648\u062f\u0646\u0632\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:fra_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:frp_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:fur_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:gla_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:gle_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:glg_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:gsw_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:hbs_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:hrv_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:hun_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0563\u0576\u0561\u0578\u0582 \u0532\u0578\u0564\u0565\u0576\u0566\u0565\u0565"
+    ],
+    "name:ido_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:ile_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:ina_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:ind_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:isl_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:ita_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10d2\u10dc\u10d0\u10e3-\u10d0\u10db-\u10d1\u10dd\u10d3\u10d4\u10dc\u10d6\u10d4\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:kur_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:lat_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:lij_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:lim_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:lld_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:lmo_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:ltz_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:min_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:mlg_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:msa_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:nan_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:nap_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:nds_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:nld_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:nno_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:nob_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:nrm_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:oci_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:pcd_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:pms_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:pol_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:por_x_preferred":[
+        "Hagnau"
+    ],
+    "name:roh_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:ron_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:sco_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:slk_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:slv_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:spa_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:srd_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0433\u043d\u0430\u0443 \u0430\u043c \u0411\u043e\u0434\u0435\u043d\u0437\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:swe_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u0433\u043d\u0430\u0443-\u0411\u043e\u0434\u0435\u043d\u0437\u0435\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0433\u043d\u0430\u0443-\u0430\u043c-\u0411\u043e\u0434\u0435\u043d\u0437\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:vec_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:vie_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:vls_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:vol_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:war_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:wln_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:wol_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u767b\u6e56\u6ee8\u54c8\u683c\u7459"
+    ],
+    "name:zul_x_preferred":[
+        "Hagnau am Bodensee"
+    ],
+    "nav:latitude":47.675638,
+    "nav:longitude":9.317585,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Bodenseekreis",
+    "qs:a2r":"T\u00fcbingen",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bodensee",
+    "qs:la_lc":"*DE00000000999",
+    "qs:level":"locality",
+    "qs:loc":"Hagnau am Bodensee",
+    "qs:loc_alt":"Hagnau am Bodensee",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Gemeinde Hagnau am Bodensee",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":11,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":99,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":911401,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623784,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":67,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377690457,
+        404227573,
+        102063209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08435018",
+        "eurostat:nuts_2021_id":"08435018",
+        "fct:id":"0762b890-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6556041,
+        "gp:id":20159812,
+        "qs_pg:id":230027,
+        "wd:id":"Q539889"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"e5edaf7416d87c7785afce257147b034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063209,
+            "localadmin_id":1377690457,
+            "locality_id":101765231,
+            "macrocounty_id":404227573,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101765231,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871779,
+    "wof:name":"Hagnau am Bodensee",
+    "wof:parent_id":1377690457,
+    "wof:placetype":"locality",
+    "wof:population":1410,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125375097
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.303671,
+    47.669102,
+    9.337832,
+    47.688106
+],
+  "geometry": {"coordinates":[[[[9.331329,47.680956],[9.33265,47.679676],[9.330227,47.677466],[9.332226,47.677352],[9.334816,47.674702],[9.333623,47.672838],[9.337832,47.670366],[9.332436,47.671791],[9.329679,47.669102],[9.329047,47.6694],[9.328426,47.669771],[9.327922,47.67026],[9.327164,47.6708],[9.325872,47.671442],[9.324032,47.67215],[9.323188,47.672384],[9.322562,47.672413],[9.322267,47.672491],[9.32137,47.67276],[9.32105,47.672774],[9.320558,47.672769],[9.319971,47.672798],[9.319384,47.6729],[9.318795,47.673037],[9.31802,47.673146],[9.317233,47.673236],[9.316659,47.67332],[9.316311,47.673415],[9.315626,47.673695],[9.315236,47.673835],[9.314913,47.673993],[9.314396,47.673933],[9.314135,47.673697],[9.31378,47.673531],[9.313289,47.673472],[9.312703,47.673483],[9.311484,47.67383],[9.310423,47.674222],[9.308983,47.674917],[9.307254,47.675967],[9.306647,47.676329],[9.305639,47.676749],[9.304514,47.677016],[9.304234,47.677058],[9.303671,47.677222],[9.305839,47.681695],[9.310096,47.684536],[9.309529,47.685995],[9.310225,47.686848],[9.311171,47.688008],[9.314573,47.687704],[9.317353,47.68608],[9.321804,47.688106],[9.327983,47.68381],[9.331329,47.680956]]]],"type":"MultiPolygon"}
+}

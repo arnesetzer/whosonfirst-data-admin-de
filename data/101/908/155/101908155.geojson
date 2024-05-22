@@ -1,1 +1,334 @@
-{"id": 101908155, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4.3e-05, "geom:area_square_m": 318678.165611, "geom:bbox": "12.503676,53.581875,12.514397,53.589957", "geom:latitude": 53.584987, "geom:longitude": 12.508475, "gn:population": 133, "iso:country": "DE", "lbl:latitude": 53.585033, "lbl:longitude": 12.507581, "lbl:max_zoom": 18.0, "lbl:min_zoom": 13.0, "mps:latitude": 53.585033, "mps:longitude": 12.507581, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Neu Gaarz"], "name:arg_x_preferred": ["Neu Gaarz"], "name:ast_x_preferred": ["Neu Gaarz"], "name:bar_x_preferred": ["Neu Gaarz"], "name:bre_x_preferred": ["Neu Gaarz"], "name:cat_x_preferred": ["Neu Gaarz"], "name:ceb_x_preferred": ["Neu Gaarz"], "name:ces_x_preferred": ["Neu Gaarz"], "name:che_x_preferred": ["\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"], "name:cos_x_preferred": ["Neu Gaarz"], "name:cym_x_preferred": ["Neu Gaarz"], "name:dan_x_preferred": ["Neu Gaarz"], "name:deu_x_preferred": ["Neu Gaarz"], "name:eng_x_preferred": ["Neu Gaarz"], "name:epo_x_preferred": ["Neu Gaarz"], "name:est_x_preferred": ["Neu Gaarz"], "name:eus_x_preferred": ["Neu Gaarz"], "name:fas_x_preferred": ["\u0646\u0648\u06cc \u06af\u0627\u0631\u062a\u0633"], "name:fin_x_preferred": ["Neu Gaarz"], "name:fra_x_preferred": ["Neu Gaarz"], "name:frp_x_preferred": ["Neu Gaarz"], "name:fur_x_preferred": ["Neu Gaarz"], "name:gla_x_preferred": ["Neu Gaarz"], "name:gle_x_preferred": ["Neu Gaarz"], "name:glg_x_preferred": ["Neu Gaarz"], "name:gsw_x_preferred": ["Neu Gaarz"], "name:hbs_x_preferred": ["Neu Gaarz"], "name:hrv_x_preferred": ["Neu Gaarz"], "name:hun_x_preferred": ["Neu Gaarz"], "name:ido_x_preferred": ["Neu Gaarz"], "name:ile_x_preferred": ["Neu Gaarz"], "name:ina_x_preferred": ["Neu Gaarz"], "name:ind_x_preferred": ["Neu Gaarz"], "name:isl_x_preferred": ["Neu Gaarz"], "name:ita_x_preferred": ["Neu Gaarz"], "name:kaz_x_preferred": ["\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"], "name:kir_x_preferred": ["\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"], "name:kon_x_preferred": ["Neu Gaarz"], "name:lij_x_preferred": ["Neu Gaarz"], "name:lim_x_preferred": ["Neu Gaarz"], "name:lld_x_preferred": ["Neu Gaarz"], "name:ltz_x_preferred": ["Neu Gaarz"], "name:min_x_preferred": ["Neu Gaarz"], "name:mkd_x_preferred": ["\u041d\u043e\u0458 \u0413\u0430\u0440\u0446"], "name:mlg_x_preferred": ["Neu Gaarz"], "name:msa_x_preferred": ["Neu Gaarz"], "name:nap_x_preferred": ["Neu Gaarz"], "name:nds_x_preferred": ["Neu Gaarz"], "name:nld_x_preferred": ["Neu Gaarz"], "name:nno_x_preferred": ["Neu Gaarz"], "name:nob_x_preferred": ["Neu Gaarz"], "name:nrm_x_preferred": ["Neu Gaarz"], "name:oci_x_preferred": ["Neu Gaarz"], "name:pcd_x_preferred": ["Neu Gaarz"], "name:pms_x_preferred": ["Neu Gaarz"], "name:pol_x_preferred": ["Neu Gaarz"], "name:por_x_preferred": ["Neu Gaarz"], "name:roh_x_preferred": ["Neu Gaarz"], "name:ron_x_preferred": ["Neu Gaarz"], "name:rus_x_preferred": ["\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"], "name:scn_x_preferred": ["Neu Gaarz"], "name:sco_x_preferred": ["Neu Gaarz"], "name:slk_x_preferred": ["Neu Gaarz"], "name:slv_x_preferred": ["Neu Gaarz"], "name:spa_x_preferred": ["Neu Gaarz"], "name:srd_x_preferred": ["Neu Gaarz"], "name:srp_x_preferred": ["\u041d\u043e\u0458 \u0413\u0430\u0440\u0446"], "name:swa_x_preferred": ["Neu Gaarz"], "name:swe_x_preferred": ["Neu Gaarz"], "name:tat_x_preferred": ["\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"], "name:uzb_x_preferred": ["Neu Gaarz"], "name:vec_x_preferred": ["Neu Gaarz"], "name:vie_x_preferred": ["Neu Gaarz"], "name:vls_x_preferred": ["Neu Gaarz"], "name:vol_x_preferred": ["Neu Gaarz"], "name:war_x_preferred": ["Neu Gaarz"], "name:wln_x_preferred": ["Neu Gaarz"], "name:wol_x_preferred": ["Neu Gaarz"], "name:zho_x_preferred": ["\u8bfa\u4f0a\u52a0\u5c14\u8328"], "name:zul_x_preferred": ["Neu Gaarz"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "M\u00fcritz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Neu Gaarz", "qs:la_lc": "*DE13005620050", "qs:level": "locality", "qs:loc": "Neu Gaarz", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 29, "wof:belongsto": [85682487, 102191581, 1377684505, 85633111, 1377675565], "wof:breaches": [], "wof:concordances": {"gn:id": 2923478, "gp:id": 651254, "qs_pg:id": 495639, "wd:id": "Q20209"}, "wof:concordances_alt": {"qs_pg:id": 577683}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "6d33d893222391e8384c30c96a527eed", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675565, "localadmin_id": 1377684505, "locality_id": 101908155, "region_id": 85682487}], "wof:id": 101908155, "wof:lastmodified": 1690871852, "wof:name": "Neu Gaarz", "wof:parent_id": 1377684505, "wof:placetype": "locality", "wof:population": 133, "wof:population_rank": 1, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.503676, 53.581875, 12.514397, 53.589957], "geometry": {"coordinates": [[[12.510135, 53.589926], [12.50987, 53.585436], [12.514397, 53.585343], [12.514291, 53.583547], [12.512782, 53.583578], [12.512729, 53.58268], [12.508203, 53.582773], [12.50815, 53.581875], [12.505132, 53.581937], [12.505185, 53.582835], [12.503676, 53.582866], [12.503834, 53.58556], [12.505343, 53.585529], [12.505449, 53.587325], [12.506958, 53.587294], [12.507011, 53.588192], [12.50852, 53.588161], [12.508626, 53.589957], [12.510135, 53.589926]]], "type": "Polygon"}}
+{
+  "id": 101908155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":318678.165611,
+    "geom:bbox":"12.503676,53.581875,12.514397,53.589957",
+    "geom:latitude":53.584987,
+    "geom:longitude":12.508475,
+    "gn:population":133,
+    "iso:country":"DE",
+    "lbl:latitude":53.585033,
+    "lbl:longitude":12.507581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mps:latitude":53.585033,
+    "mps:longitude":12.507581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:arg_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ast_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:bar_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:bre_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:cat_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ceb_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ces_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"
+    ],
+    "name:cos_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:cym_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:dan_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:deu_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:eng_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:epo_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:est_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:eus_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc \u06af\u0627\u0631\u062a\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:fra_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:frp_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:fur_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:gla_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:gle_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:glg_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:gsw_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:hbs_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:hrv_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:hun_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ido_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ile_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ina_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ind_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:isl_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ita_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"
+    ],
+    "name:kon_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:lij_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:lim_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:lld_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ltz_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:min_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0458 \u0413\u0430\u0440\u0446"
+    ],
+    "name:mlg_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:msa_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:nap_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:nds_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:nld_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:nno_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:nob_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:nrm_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:oci_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:pcd_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:pms_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:pol_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:por_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:roh_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:ron_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"
+    ],
+    "name:scn_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:sco_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:slk_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:slv_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:spa_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:srd_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0458 \u0413\u0430\u0440\u0446"
+    ],
+    "name:swa_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:swe_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439-\u0413\u0430\u0440\u0446"
+    ],
+    "name:uzb_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:vec_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:vie_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:vls_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:vol_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:war_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:wln_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:wol_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u4f0a\u52a0\u5c14\u8328"
+    ],
+    "name:zul_x_preferred":[
+        "Neu Gaarz"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"M\u00fcritz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Neu Gaarz",
+    "qs:la_lc":"*DE13005620050",
+    "qs:level":"locality",
+    "qs:loc":"Neu Gaarz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377684505,
+        85633111,
+        1377675565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2923478,
+        "gp:id":651254,
+        "qs_pg:id":495639,
+        "wd:id":"Q20209"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":577683
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"6d33d893222391e8384c30c96a527eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675565,
+            "localadmin_id":1377684505,
+            "locality_id":101908155,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101908155,
+    "wof:lastmodified":1690871852,
+    "wof:name":"Neu Gaarz",
+    "wof:parent_id":1377684505,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.503676,
+    53.581875,
+    12.514397,
+    53.589957
+],
+  "geometry": {"coordinates":[[[12.510135,53.589926],[12.50987,53.585436],[12.514397,53.585343],[12.514291,53.583547],[12.512782,53.583578],[12.512729,53.58268],[12.508203,53.582773],[12.50815,53.581875],[12.505132,53.581937],[12.505185,53.582835],[12.503676,53.582866],[12.503834,53.58556],[12.505343,53.585529],[12.505449,53.587325],[12.506958,53.587294],[12.507011,53.588192],[12.50852,53.588161],[12.508626,53.589957],[12.510135,53.589926]]],"type":"Polygon"}
+}

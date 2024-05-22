@@ -1,1 +1,108 @@
-{"id": 102549307, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.2117,48.7117,11.2117,48.7117", "geom:latitude": 48.7117, "geom:longitude": 11.2117, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 13.0, "name:deu_x_preferred": ["Fliegerhorst Neuburg"], "name:eng_x_preferred": ["Neuburg Air Base"], "name:eng_x_variant": ["ETSN"], "name:fin_x_preferred": ["Neuburgin lentotukikohta"], "name:fra_x_preferred": ["Base a\u00e9rienne de Neubourg"], "name:jpn_x_preferred": ["\u30ce\u30a4\u30d6\u30eb\u30af\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30c9\u30ca\u30a6\u822a\u7a7a\u57fa\u5730"], "name:msa_x_preferred": ["Lapangan Terbang Neuburg AB"], "name:msa_x_variant": ["Lapangan Terbang Neuburg"], "name:por_x_preferred": ["Base a\u00e9rea de Neuburg"], "name:zho_x_preferred": ["\u7ebd\u56e0\u5821\u7a7a\u519b\u57fa\u5730"], "oa:elevation_ft": "1249", "oa:type": "medium_airport", "src:geom": "wikidata", "src:geom_alt": [], "wd:wordcount": 42, "woe:hierarchy": {"country_id": 23424829, "county_id": 12596818, "localadmin_id": 12634661, "planet_id": 1, "state_id": 2345482}, "wof:belongsto": [102191581, 404227567, 1377693743, 85633111, 101782999, 102063337, 85682571], "wof:breaches": [], "wof:concordances": {"gp:id": 12513191, "icao:code": "ETSN", "oa:id": "2755", "wd:id": "Q538648"}, "wof:country": "DE", "wof:geomhash": "437a2c1427afe7df408433a490ab18df", "wof:hierarchy": [{"campus_id": 102549307, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063337, "localadmin_id": 1377693743, "locality_id": 101782999, "macrocounty_id": 404227567, "neighbourhood_id": -1, "region_id": 85682571}], "wof:id": 102549307, "wof:lastmodified": 1690871080, "wof:name": "Neuburg Airport", "wof:parent_id": 101782999, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [11.2117, 48.7117, 11.2117, 48.7117], "geometry": {"coordinates": [11.2117, 48.7117], "type": "Point"}}
+{
+  "id": 102549307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2117,48.7117,11.2117,48.7117",
+    "geom:latitude":48.7117,
+    "geom:longitude":11.2117,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Fliegerhorst Neuburg"
+    ],
+    "name:eng_x_preferred":[
+        "Neuburg Air Base"
+    ],
+    "name:eng_x_variant":[
+        "ETSN"
+    ],
+    "name:fin_x_preferred":[
+        "Neuburgin lentotukikohta"
+    ],
+    "name:fra_x_preferred":[
+        "Base a\u00e9rienne de Neubourg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30a4\u30d6\u30eb\u30af\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30c9\u30ca\u30a6\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Neuburg AB"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Neuburg"
+    ],
+    "name:por_x_preferred":[
+        "Base a\u00e9rea de Neuburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ebd\u56e0\u5821\u7a7a\u519b\u57fa\u5730"
+    ],
+    "oa:elevation_ft":"1249",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":42,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596818,
+        "localadmin_id":12634661,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        102191581,
+        404227567,
+        1377693743,
+        85633111,
+        101782999,
+        102063337,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513191,
+        "icao:code":"ETSN",
+        "oa:id":"2755",
+        "wd:id":"Q538648"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"437a2c1427afe7df408433a490ab18df",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549307,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063337,
+            "localadmin_id":1377693743,
+            "locality_id":101782999,
+            "macrocounty_id":404227567,
+            "neighbourhood_id":-1,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102549307,
+    "wof:lastmodified":1690871080,
+    "wof:name":"Neuburg Airport",
+    "wof:parent_id":101782999,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.2117,
+    48.7117,
+    11.2117,
+    48.7117
+],
+  "geometry": {"coordinates":[11.2117,48.7117],"type":"Point"}
+}

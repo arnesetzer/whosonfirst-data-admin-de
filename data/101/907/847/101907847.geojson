@@ -1,1 +1,149 @@
-{"id": 101907847, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4e-05, "geom:area_square_m": 298806.242658, "geom:bbox": "11.482115,52.909189,11.495521,52.916432", "geom:latitude": 52.913891, "geom:longitude": 11.490146, "gn:population": 226, "iso:country": "DE", "lbl:latitude": 52.914011, "lbl:longitude": 11.49172, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.914011, "mps:longitude": 11.49172, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"], "name:ceb_x_preferred": ["Ziemendorf"], "name:che_x_preferred": ["\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"], "name:deu_x_preferred": ["Ziemendorf"], "name:eng_x_preferred": ["Ziemendorf"], "name:epo_x_preferred": ["Ziemendorf"], "name:fas_x_preferred": ["\u062a\u0633\u06cc\u0645\u0646\u062f\u0648\u0631\u0641"], "name:fra_x_preferred": ["Ziemendorf"], "name:gle_x_preferred": ["Ziemendorf"], "name:ita_x_preferred": ["Ziemendorf"], "name:kaz_x_preferred": ["\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"], "name:kir_x_preferred": ["\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"], "name:nld_x_preferred": ["Ziemendorf"], "name:ron_x_preferred": ["Ziemendorf"], "name:rus_x_preferred": ["\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"], "name:tat_x_preferred": ["\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"], "name:uzb_x_preferred": ["Ziemendorf"], "name:vie_x_preferred": ["Ziemendorf"], "name:vol_x_preferred": ["Ziemendorf"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Altmarkkreis Salzwedel", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Ziemendorf", "qs:la_lc": "*DE15008101595", "qs:level": "locality", "qs:loc": "Ziemendorf", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377688163, 85633111, 102063961], "wof:breaches": [], "wof:concordances": {"gn:id": 2804315, "gp:id": 708939, "qs_pg:id": 380541, "wd:id": "Q199049", "wk:page": "Ziemendorf"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "14ba4fb69bde19a32583b244b5820a09", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063961, "localadmin_id": 1377688163, "locality_id": 101907847, "region_id": 85682519}], "wof:id": 101907847, "wof:lastmodified": 1690871611, "wof:name": "Ziemendorf", "wof:parent_id": 1377688163, "wof:placetype": "locality", "wof:population": 226, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.482115, 52.909189, 11.495521, 52.916432], "geometry": {"coordinates": [[[11.494097, 52.916358], [11.494035, 52.914562], [11.495521, 52.914543], [11.49549, 52.913645], [11.494004, 52.913663], [11.493912, 52.910968], [11.492426, 52.910986], [11.492364, 52.909189], [11.490878, 52.909208], [11.49097, 52.911903], [11.489484, 52.911922], [11.489546, 52.913718], [11.482115, 52.91381], [11.482145, 52.914709], [11.483631, 52.91469], [11.483662, 52.915589], [11.488121, 52.915534], [11.488151, 52.916432], [11.494097, 52.916358]]], "type": "Polygon"}}
+{
+  "id": 101907847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":298806.242658,
+    "geom:bbox":"11.482115,52.909189,11.495521,52.916432",
+    "geom:latitude":52.913891,
+    "geom:longitude":11.490146,
+    "gn:population":226,
+    "iso:country":"DE",
+    "lbl:latitude":52.914011,
+    "lbl:longitude":11.49172,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.914011,
+    "mps:longitude":11.49172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:che_x_preferred":[
+        "\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:deu_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:eng_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:epo_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u06cc\u0645\u0646\u062f\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:gle_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:ita_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:kir_x_preferred":[
+        "\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:ron_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:uzb_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:vie_x_preferred":[
+        "Ziemendorf"
+    ],
+    "name:vol_x_preferred":[
+        "Ziemendorf"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Altmarkkreis Salzwedel",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Ziemendorf",
+    "qs:la_lc":"*DE15008101595",
+    "qs:level":"locality",
+    "qs:loc":"Ziemendorf",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688163,
+        85633111,
+        102063961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2804315,
+        "gp:id":708939,
+        "qs_pg:id":380541,
+        "wd:id":"Q199049",
+        "wk:page":"Ziemendorf"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"14ba4fb69bde19a32583b244b5820a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063961,
+            "localadmin_id":1377688163,
+            "locality_id":101907847,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101907847,
+    "wof:lastmodified":1690871611,
+    "wof:name":"Ziemendorf",
+    "wof:parent_id":1377688163,
+    "wof:placetype":"locality",
+    "wof:population":226,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.482115,
+    52.909189,
+    11.495521,
+    52.916432
+],
+  "geometry": {"coordinates":[[[11.494097,52.916358],[11.494035,52.914562],[11.495521,52.914543],[11.49549,52.913645],[11.494004,52.913663],[11.493912,52.910968],[11.492426,52.910986],[11.492364,52.909189],[11.490878,52.909208],[11.49097,52.911903],[11.489484,52.911922],[11.489546,52.913718],[11.482115,52.91381],[11.482145,52.914709],[11.483631,52.91469],[11.483662,52.915589],[11.488121,52.915534],[11.488151,52.916432],[11.494097,52.916358]]],"type":"Polygon"}
+}

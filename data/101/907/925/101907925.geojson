@@ -1,1 +1,151 @@
-{"id": 101907925, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.2e-05, "geom:area_square_m": 388487.02308, "geom:bbox": "11.850878,52.87779,11.885146,52.881383", "geom:latitude": 52.87938, "geom:longitude": 11.869391, "gn:population": 262, "iso:country": "DE", "lbl:latitude": 52.879178, "lbl:longitude": 11.870559, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.879178, "mps:longitude": 11.870559, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"], "name:ceb_x_preferred": ["Neukirchen"], "name:che_x_preferred": ["\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"], "name:deu_x_preferred": ["Neukirchen"], "name:eng_x_preferred": ["Neukirchen"], "name:epo_x_preferred": ["Neukirchen"], "name:fas_x_preferred": ["\u0646\u0648\u06cc\u06a9\u06cc\u0631\u0634\u0646"], "name:fra_x_preferred": ["Neukirchen"], "name:gle_x_preferred": ["Neukirchen"], "name:ita_x_preferred": ["Neukirchen"], "name:kaz_x_preferred": ["\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"], "name:kir_x_preferred": ["\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"], "name:mkd_x_preferred": ["\u041d\u043e\u0458\u043a\u0438\u0440\u0445\u0435\u043d"], "name:nld_x_preferred": ["Neukirchen"], "name:ron_x_preferred": ["Neukirchen"], "name:rus_x_preferred": ["\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"], "name:tat_x_preferred": ["\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"], "name:uzb_x_preferred": ["Neukirchen"], "name:vie_x_preferred": ["Neukirchen"], "name:vol_x_preferred": ["Neukirchen"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Stendal", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Neukirchen (Altmark)", "qs:la_lc": "*DE15009005410", "qs:level": "locality", "qs:loc": "Neukirchen (Altmark)", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wof:belongsto": [85682519, 102191581, 1377689243, 85633111, 102063905], "wof:breaches": [], "wof:concordances": {"gn:id": 2864740, "gp:id": 678687, "qs_pg:id": 364467, "wd:id": "Q696213", "wk:page": "Neukirchen, Saxony-Anhalt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "c717aa5f9da35a8f25546f186aa69932", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063905, "localadmin_id": 1377689243, "locality_id": 101907925, "region_id": 85682519}], "wof:id": 101907925, "wof:lastmodified": 1690871587, "wof:name": "Neukirchen (Altmark)", "wof:parent_id": 1377689243, "wof:placetype": "locality", "wof:population": 262, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.850878, 52.87779, 11.885146, 52.881383], "geometry": {"coordinates": [[[11.879206, 52.88129], [11.879168, 52.880392], [11.883622, 52.880322], [11.883661, 52.88122], [11.885146, 52.881197], [11.885068, 52.8794], [11.874674, 52.879563], [11.874636, 52.878665], [11.873151, 52.878688], [11.873112, 52.87779], [11.85381, 52.878089], [11.853848, 52.878987], [11.850878, 52.879033], [11.850916, 52.879931], [11.855371, 52.879863], [11.855333, 52.878964], [11.864242, 52.878826], [11.86428, 52.879725], [11.868735, 52.879656], [11.868773, 52.880554], [11.873228, 52.880484], [11.873267, 52.881383], [11.879206, 52.88129]]], "type": "Polygon"}}
+{
+  "id": 101907925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":388487.02308,
+    "geom:bbox":"11.850878,52.87779,11.885146,52.881383",
+    "geom:latitude":52.87938,
+    "geom:longitude":11.869391,
+    "gn:population":262,
+    "iso:country":"DE",
+    "lbl:latitude":52.879178,
+    "lbl:longitude":11.870559,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.879178,
+    "mps:longitude":11.870559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:eng_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:epo_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u06a9\u06cc\u0631\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:gle_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:ita_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0458\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:ron_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:vie_x_preferred":[
+        "Neukirchen"
+    ],
+    "name:vol_x_preferred":[
+        "Neukirchen"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Stendal",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Neukirchen (Altmark)",
+    "qs:la_lc":"*DE15009005410",
+    "qs:level":"locality",
+    "qs:loc":"Neukirchen (Altmark)",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689243,
+        85633111,
+        102063905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2864740,
+        "gp:id":678687,
+        "qs_pg:id":364467,
+        "wd:id":"Q696213",
+        "wk:page":"Neukirchen, Saxony-Anhalt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"c717aa5f9da35a8f25546f186aa69932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063905,
+            "localadmin_id":1377689243,
+            "locality_id":101907925,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101907925,
+    "wof:lastmodified":1690871587,
+    "wof:name":"Neukirchen (Altmark)",
+    "wof:parent_id":1377689243,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.850878,
+    52.87779,
+    11.885146,
+    52.881383
+],
+  "geometry": {"coordinates":[[[11.879206,52.88129],[11.879168,52.880392],[11.883622,52.880322],[11.883661,52.88122],[11.885146,52.881197],[11.885068,52.8794],[11.874674,52.879563],[11.874636,52.878665],[11.873151,52.878688],[11.873112,52.87779],[11.85381,52.878089],[11.853848,52.878987],[11.850878,52.879033],[11.850916,52.879931],[11.855371,52.879863],[11.855333,52.878964],[11.864242,52.878826],[11.86428,52.879725],[11.868735,52.879656],[11.868773,52.880554],[11.873228,52.880484],[11.873267,52.881383],[11.879206,52.88129]]],"type":"Polygon"}
+}

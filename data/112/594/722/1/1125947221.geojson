@@ -1,1 +1,218 @@
-{"id": 1125947221, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07133010", "eurostat:level_code": "lau", "eurostat:name_local": "Becherbach bei Kirn", "eurostat:nuts_2021_id": "07133010", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB1", "eurostat:nuts_2021_level_3": "DEB14", "eurostat:nuts_2021_level_lau": "07133010", "eurostat:population": 387, "eurostat:population_year": 2020, "geom:area": 0.001046, "geom:area_square_m": 8358813.723064, "geom:bbox": "7.472654,49.71129,7.523414,49.751099", "geom:latitude": 49.733078, "geom:longitude": 7.500584, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 411, "iso:country": "DE", "lbl:latitude": 49.74079, "lbl:longitude": 7.50014, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:ara_x_preferred": ["\u0628\u0634\u0631\u0628\u0622\u062e"], "name:cat_x_preferred": ["Becherbach bei Kirn"], "name:ceb_x_preferred": ["Becherbach bei Kirn"], "name:che_x_preferred": ["\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u0431\u0430\u0439-\u041a\u0438\u0440\u043d"], "name:deu_x_preferred": ["Becherbach bei Kirn"], "name:eng_x_preferred": ["Becherbach bei Kirn"], "name:epo_x_preferred": ["Becherbach apud Kirn"], "name:eus_x_preferred": ["Becherbach bei Kirn"], "name:fas_x_preferred": ["\u0628\u0627\u0634\u0631\u0628\u0627\u062e \u0628\u0627\u06cc \u06a9\u06cc\u0631\u0646"], "name:fra_x_preferred": ["Becherbach bei Kirn"], "name:hun_x_preferred": ["Becherbach bei Kirn"], "name:ita_x_preferred": ["Becherbach bei Kirn"], "name:jpn_x_preferred": ["\u30d9\u30d8\u30eb\u30d0\u30c3\u30cf\u30fb\u30d0\u30a4\u30fb\u30ad\u30eb\u30f3"], "name:kaz_x_preferred": ["\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u041a\u0438\u0440\u043d"], "name:kir_x_preferred": ["\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u041a\u0438\u0440\u043d"], "name:kur_x_preferred": ["Becherbach bei Kirn"], "name:lld_x_preferred": ["Becherbach bei Kirn"], "name:msa_x_preferred": ["Becherbach bei Kirn"], "name:nan_x_preferred": ["Becherbach bei Kirn"], "name:nld_x_preferred": ["Becherbach bei Kirn"], "name:nob_x_preferred": ["Becherbach bei Kirn"], "name:pol_x_preferred": ["Becherbach bei Kirn"], "name:por_x_preferred": ["Becherbach bei Kirn"], "name:ron_x_preferred": ["Becherbach bei Kirn"], "name:rus_x_preferred": ["\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u041a\u0438\u0440\u043d"], "name:spa_x_preferred": ["Becherbach bei Kirn"], "name:srp_x_preferred": ["\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445 \u0431\u0430\u0458 \u041a\u0438\u0440\u043d"], "name:tat_x_preferred": ["\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u0431\u0430\u0439-\u041a\u0438\u0440\u043d"], "name:ukr_x_preferred": ["\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u0431\u0430\u0439-\u041a\u0456\u0440\u043d"], "name:uzb_x_preferred": ["Becherbach bei Kirn"], "name:vie_x_preferred": ["Becherbach bei Kirn"], "name:vol_x_preferred": ["Becherbach bei Kirn"], "name:war_x_preferred": ["Becherbach bei Kirn"], "name:zho_x_preferred": ["\u57fa\u6069\u9644\u8fd1\u8d1d\u6b47\u5c14\u5df4\u8d6b"], "nav:latitude": 49.74079, "nav:longitude": 7.50014, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6553467, "qs_pg:gn_pop": 411, "qs_pg:name": "Becherbach bei Kirn", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 1234495, "qs_pg:qs_pg_placetype": "locality", "qs_pg:qs_pg_placetype_gp": "Town", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 637320, "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "Town", "wof:belongsto": [85682491, 102191581, 1377685389, 85633111, 102063551], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07133010", "eurostat:nuts_2021_id": "07133010", "gn:id": 6553467, "gp:id": 637320, "qs_pg:id": 1234495, "wd:id": "Q562869"}, "wof:country": "DE", "wof:created": 1497297329, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "0b1e112b316bd5ea2aba74d10289f94d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063551, "localadmin_id": 1377685389, "locality_id": 1125947221, "region_id": 85682491}], "wof:id": 1125947221, "wof:lastmodified": 1690874099, "wof:name": "Becherbach bei Kirn", "wof:parent_id": 1377685389, "wof:placetype": "locality", "wof:population": 387, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.472654, 49.71129, 7.523414, 49.751099], "geometry": {"coordinates": [[[[7.516761, 49.744345], [7.518318, 49.740992], [7.522707, 49.739234], [7.522514, 49.738736], [7.522012, 49.737444], [7.521427, 49.735937], [7.521363, 49.735183], [7.52279, 49.734806], [7.522948, 49.73404], [7.52278, 49.729845], [7.519419, 49.727848], [7.519511, 49.726824], [7.516064, 49.72685], [7.513174, 49.723542], [7.521034, 49.724892], [7.522393, 49.724477], [7.521371, 49.722614], [7.523414, 49.721263], [7.516381, 49.719772], [7.514659, 49.719408], [7.509322, 49.718276], [7.502415, 49.716415], [7.487783, 49.71129], [7.487303, 49.713169], [7.495058, 49.716139], [7.496645, 49.71718], [7.494896, 49.71916], [7.492347, 49.718174], [7.491249, 49.719279], [7.493311, 49.720504], [7.491169, 49.722443], [7.490807, 49.72277], [7.487692, 49.72854], [7.485697, 49.731098], [7.482953, 49.733834], [7.482516, 49.735921], [7.48186, 49.736624], [7.480598, 49.737896], [7.476934, 49.73959], [7.472654, 49.741565], [7.475722, 49.744465], [7.482238, 49.745791], [7.481119, 49.746121], [7.480765, 49.746229], [7.483804, 49.748047], [7.490573, 49.75032], [7.492908, 49.751099], [7.496617, 49.747595], [7.499985, 49.746657], [7.501125, 49.745076], [7.505263, 49.743238], [7.506564, 49.742978], [7.507637, 49.743159], [7.510124, 49.743594], [7.515085, 49.743374], [7.516761, 49.744345]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125947221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07133010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Becherbach bei Kirn",
+    "eurostat:nuts_2021_id":"07133010",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB1",
+    "eurostat:nuts_2021_level_3":"DEB14",
+    "eurostat:nuts_2021_level_lau":"07133010",
+    "eurostat:population":387,
+    "eurostat:population_year":2020,
+    "geom:area":0.001046,
+    "geom:area_square_m":8358813.723064,
+    "geom:bbox":"7.472654,49.71129,7.523414,49.751099",
+    "geom:latitude":49.733078,
+    "geom:longitude":7.500584,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":411,
+    "iso:country":"DE",
+    "lbl:latitude":49.74079,
+    "lbl:longitude":7.50014,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0631\u0628\u0622\u062e"
+    ],
+    "name:cat_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:ceb_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u0431\u0430\u0439-\u041a\u0438\u0440\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:eng_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:epo_x_preferred":[
+        "Becherbach apud Kirn"
+    ],
+    "name:eus_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0634\u0631\u0628\u0627\u062e \u0628\u0627\u06cc \u06a9\u06cc\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:hun_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:ita_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30d8\u30eb\u30d0\u30c3\u30cf\u30fb\u30d0\u30a4\u30fb\u30ad\u30eb\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u041a\u0438\u0440\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u041a\u0438\u0440\u043d"
+    ],
+    "name:kur_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:lld_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:msa_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:nan_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:nld_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:nob_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:pol_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:por_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:ron_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u041a\u0438\u0440\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445 \u0431\u0430\u0458 \u041a\u0438\u0440\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u0431\u0430\u0439-\u041a\u0438\u0440\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0445\u0435\u0440\u0431\u0430\u0445-\u0431\u0430\u0439-\u041a\u0456\u0440\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:vie_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:vol_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:war_x_preferred":[
+        "Becherbach bei Kirn"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u6069\u9644\u8fd1\u8d1d\u6b47\u5c14\u5df4\u8d6b"
+    ],
+    "nav:latitude":49.74079,
+    "nav:longitude":7.50014,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6553467,
+    "qs_pg:gn_pop":411,
+    "qs_pg:name":"Becherbach bei Kirn",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1234495,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":637320,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377685389,
+        85633111,
+        102063551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07133010",
+        "eurostat:nuts_2021_id":"07133010",
+        "gn:id":6553467,
+        "gp:id":637320,
+        "qs_pg:id":1234495,
+        "wd:id":"Q562869"
+    },
+    "wof:country":"DE",
+    "wof:created":1497297329,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"0b1e112b316bd5ea2aba74d10289f94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063551,
+            "localadmin_id":1377685389,
+            "locality_id":1125947221,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":1125947221,
+    "wof:lastmodified":1690874099,
+    "wof:name":"Becherbach bei Kirn",
+    "wof:parent_id":1377685389,
+    "wof:placetype":"locality",
+    "wof:population":387,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.472654,
+    49.71129,
+    7.523414,
+    49.751099
+],
+  "geometry": {"coordinates":[[[[7.516761,49.744345],[7.518318,49.740992],[7.522707,49.739234],[7.522514,49.738736],[7.522012,49.737444],[7.521427,49.735937],[7.521363,49.735183],[7.52279,49.734806],[7.522948,49.73404],[7.52278,49.729845],[7.519419,49.727848],[7.519511,49.726824],[7.516064,49.72685],[7.513174,49.723542],[7.521034,49.724892],[7.522393,49.724477],[7.521371,49.722614],[7.523414,49.721263],[7.516381,49.719772],[7.514659,49.719408],[7.509322,49.718276],[7.502415,49.716415],[7.487783,49.71129],[7.487303,49.713169],[7.495058,49.716139],[7.496645,49.71718],[7.494896,49.71916],[7.492347,49.718174],[7.491249,49.719279],[7.493311,49.720504],[7.491169,49.722443],[7.490807,49.72277],[7.487692,49.72854],[7.485697,49.731098],[7.482953,49.733834],[7.482516,49.735921],[7.48186,49.736624],[7.480598,49.737896],[7.476934,49.73959],[7.472654,49.741565],[7.475722,49.744465],[7.482238,49.745791],[7.481119,49.746121],[7.480765,49.746229],[7.483804,49.748047],[7.490573,49.75032],[7.492908,49.751099],[7.496617,49.747595],[7.499985,49.746657],[7.501125,49.745076],[7.505263,49.743238],[7.506564,49.742978],[7.507637,49.743159],[7.510124,49.743594],[7.515085,49.743374],[7.516761,49.744345]]]],"type":"MultiPolygon"}
+}

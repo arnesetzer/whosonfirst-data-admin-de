@@ -1,1 +1,97 @@
-{"id": 1393578897, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "9.00036,48.88629,9.00036,48.88629", "geom:latitude": 48.88629, "geom:longitude": 9.00036, "gn:admin1_code": "1", "gn:admin2_code": "81.0", "gn:admin3_code": "8118.0", "gn:admin4_code": "8118012.0", "gn:asciiname": "Hochdorf", "gn:country_code": "DE", "gn:dem": 355, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2903288, "gn:latitude": 48.88629, "gn:longitude": 9.00036, "gn:modification_date": "2013-02-15", "gn:name": "Hochdorf", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "8.99536,48.88129,9.00536,48.89129", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:bel_x_preferred": ["\u0413\u043e\u0445\u0434\u0430\u0440\u0444\u0441\u043a\u0430\u044f \u0433\u0440\u0430\u0431\u043d\u0456\u0446\u0430"], "name:deu_x_preferred": ["Keltenmuseum Hochdorf"], "name:nld_x_preferred": ["Vorstengraf"], "name:rus_x_preferred": ["\u0425\u043e\u0445\u0434\u043e\u0440\u0444\u0441\u043a\u0430\u044f \u0433\u0440\u043e\u0431\u043d\u0438\u0446\u0430"], "name:swe_x_preferred": ["Hochdorf"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377687423, 404227549, 101842121, 102063373, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 2903288, "wk:page": "Hochdorf_Chieftain%27s_Grave"}, "wof:country": "DE", "wof:geomhash": "48a2dd8351e80804abb3365330ad6b89", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063373, "localadmin_id": 1377687423, "locality_id": 101842121, "macrocounty_id": 404227549, "neighbourhood_id": 1393578897, "region_id": 85682567}], "wof:id": 1393578897, "wof:lastmodified": 1566715444, "wof:name": "Hochdorf", "wof:parent_id": 101842121, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1209719215], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.00036, 48.88629, 9.00036, 48.88629], "geometry": {"coordinates": [9.00036, 48.88629], "type": "Point"}}
+{
+  "id": 1393578897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.00036,48.88629,9.00036,48.88629",
+    "geom:latitude":48.88629,
+    "geom:longitude":9.00036,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8118.0",
+    "gn:admin4_code":"8118012.0",
+    "gn:asciiname":"Hochdorf",
+    "gn:country_code":"DE",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2903288,
+    "gn:latitude":48.88629,
+    "gn:longitude":9.00036,
+    "gn:modification_date":"2013-02-15",
+    "gn:name":"Hochdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"8.99536,48.88129,9.00536,48.89129",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0445\u0434\u0430\u0440\u0444\u0441\u043a\u0430\u044f \u0433\u0440\u0430\u0431\u043d\u0456\u0446\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Keltenmuseum Hochdorf"
+    ],
+    "name:nld_x_preferred":[
+        "Vorstengraf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0445\u0434\u043e\u0440\u0444\u0441\u043a\u0430\u044f \u0433\u0440\u043e\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hochdorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377687423,
+        404227549,
+        101842121,
+        102063373,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2903288,
+        "wk:page":"Hochdorf_Chieftain%27s_Grave"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"48a2dd8351e80804abb3365330ad6b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063373,
+            "localadmin_id":1377687423,
+            "locality_id":101842121,
+            "macrocounty_id":404227549,
+            "neighbourhood_id":1393578897,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1393578897,
+    "wof:lastmodified":1566715444,
+    "wof:name":"Hochdorf",
+    "wof:parent_id":101842121,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209719215
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.00036,
+    48.88629,
+    9.00036,
+    48.88629
+],
+  "geometry": {"coordinates":[9.00036,48.88629],"type":"Point"}
+}

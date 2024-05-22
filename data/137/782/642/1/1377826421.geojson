@@ -1,1 +1,84 @@
-{"id": 1377826421, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "7.20696,51.65297,7.20696,51.65297", "geom:latitude": 51.65297, "geom:longitude": 7.20696, "gn:admin1_code": "7", "gn:admin2_code": "55.0", "gn:admin3_code": "5562.0", "gn:admin4_code": "5562028.0", "gn:asciiname": "Siepen", "gn:country_code": "DE", "gn:dem": 62, "gn:feature_class": "P", "gn:feature_code": "PPLL", "gn:geonameid": 2832348, "gn:latitude": 51.65297, "gn:longitude": 7.20696, "gn:modification_date": "2015-09-04", "gn:name": "Siepen", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "7.20196,51.64797,7.21196,51.65797", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:deu_x_preferred": ["Siepen"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377691087, 404227553, 101808907, 102063831, 85682513], "wof:breaches": [], "wof:concordances": {"gn:id": 2832348}, "wof:country": "DE", "wof:geomhash": "c547ed338cc36c4bbbe015b4f1acde09", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063831, "localadmin_id": 1377691087, "locality_id": 101808907, "macrocounty_id": 404227553, "neighbourhood_id": 1377826421, "region_id": 85682513}], "wof:id": 1377826421, "wof:lastmodified": 1566717915, "wof:name": "Siepen", "wof:parent_id": 101808907, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1343652963], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.20696, 51.65297, 7.20696, 51.65297], "geometry": {"coordinates": [7.20696, 51.65297], "type": "Point"}}
+{
+  "id": 1377826421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.20696,51.65297,7.20696,51.65297",
+    "geom:latitude":51.65297,
+    "geom:longitude":7.20696,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5562.0",
+    "gn:admin4_code":"5562028.0",
+    "gn:asciiname":"Siepen",
+    "gn:country_code":"DE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2832348,
+    "gn:latitude":51.65297,
+    "gn:longitude":7.20696,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"Siepen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"7.20196,51.64797,7.21196,51.65797",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Siepen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377691087,
+        404227553,
+        101808907,
+        102063831,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2832348
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"c547ed338cc36c4bbbe015b4f1acde09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063831,
+            "localadmin_id":1377691087,
+            "locality_id":101808907,
+            "macrocounty_id":404227553,
+            "neighbourhood_id":1377826421,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1377826421,
+    "wof:lastmodified":1566717915,
+    "wof:name":"Siepen",
+    "wof:parent_id":101808907,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343652963
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.20696,
+    51.65297,
+    7.20696,
+    51.65297
+],
+  "geometry": {"coordinates":[7.20696,51.65297],"type":"Point"}
+}

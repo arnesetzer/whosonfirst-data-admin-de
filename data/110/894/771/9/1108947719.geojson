@@ -1,1 +1,96 @@
-{"id": 1108947719, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "12.3389934957,51.4078111678,12.3389934957,51.4078111678", "geom:latitude": 51.407811, "geom:longitude": 12.338993, "iso:country": "DE", "lbl:bbox": "12.3339934957,51.4028111678,12.3439934957,51.4128111678", "lbl:latitude": 51.407811, "lbl:longitude": 12.338993, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 13.0, "mz:tier_metro": 30, "name:als_x_preferred": ["Breitenfeld"], "name:deu_x_preferred": ["Breitenfeld"], "name:fra_x_preferred": ["Breitenfeld"], "name:ita_x_preferred": ["Breitenfeld"], "name:nld_x_preferred": ["Breitenfeld"], "name:pol_x_preferred": ["Breitenfeld"], "name:rus_x_preferred": ["\u0411\u0440\u0430\u0439\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434"], "name:srp_x_preferred": ["\u0411\u0440\u0430\u0458\u0442\u0435\u043d\u0444\u0435\u043b\u0434"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 1377687677, 85633111, 101748685, 102064225, 85682523], "wof:breaches": [], "wof:concordances": {"gn:id": 2944612, "gp:id": 641050, "qs_pg:id": 395735}, "wof:country": "DE", "wof:created": 1491366540, "wof:geomhash": "a2ad213877e79807f73312d5114934d1", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064225, "localadmin_id": 1377687677, "locality_id": 101748685, "neighbourhood_id": 1108947719, "region_id": 85682523}], "wof:id": 1108947719, "wof:lastmodified": 1566712985, "wof:name": "Breitenfeld", "wof:parent_id": 101748685, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.33899349569041, 51.40781116780956, 12.33899349569041, 51.40781116780956], "geometry": {"coordinates": [12.33899349569041, 51.40781116780956], "type": "Point"}}
+{
+  "id": 1108947719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3389934957,51.4078111678,12.3389934957,51.4078111678",
+    "geom:latitude":51.407811,
+    "geom:longitude":12.338993,
+    "iso:country":"DE",
+    "lbl:bbox":"12.3339934957,51.4028111678,12.3439934957,51.4128111678",
+    "lbl:latitude":51.407811,
+    "lbl:longitude":12.338993,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:als_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:deu_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:fra_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:ita_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:nld_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:pol_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0439\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u0458\u0442\u0435\u043d\u0444\u0435\u043b\u0434"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1377687677,
+        85633111,
+        101748685,
+        102064225,
+        85682523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2944612,
+        "gp:id":641050,
+        "qs_pg:id":395735
+    },
+    "wof:country":"DE",
+    "wof:created":1491366540,
+    "wof:geomhash":"a2ad213877e79807f73312d5114934d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064225,
+            "localadmin_id":1377687677,
+            "locality_id":101748685,
+            "neighbourhood_id":1108947719,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":1108947719,
+    "wof:lastmodified":1566712985,
+    "wof:name":"Breitenfeld",
+    "wof:parent_id":101748685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.33899349569041,
+    51.40781116780956,
+    12.33899349569041,
+    51.40781116780956
+],
+  "geometry": {"coordinates":[12.33899349569041,51.40781116780956],"type":"Point"}
+}

@@ -1,1 +1,155 @@
-{"id": 101909335, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4.2e-05, "geom:area_square_m": 318802.879925, "geom:bbox": "11.240563,51.83431,11.250817,51.842429", "geom:latitude": 51.838991, "geom:longitude": 11.246053, "gn:population": 507, "iso:country": "DE", "lbl:latitude": 51.839293, "lbl:longitude": 11.245626, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.839293, "mps:longitude": 11.245626, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"], "name:ceb_x_preferred": ["Wedderstedt"], "name:che_x_preferred": ["\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"], "name:dan_x_preferred": ["Wedderstedt"], "name:deu_x_preferred": ["Wedderstedt"], "name:eng_x_preferred": ["Wedderstedt"], "name:epo_x_preferred": ["Wedderstedt"], "name:fas_x_preferred": ["\u0648\u062f\u0631\u0634\u062a\u062f\u062a"], "name:fra_x_preferred": ["Wedderstedt"], "name:gle_x_preferred": ["Wedderstedt"], "name:ita_x_preferred": ["Wedderstedt"], "name:kaz_x_preferred": ["\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"], "name:mkd_x_preferred": ["\u0412\u0435\u0434\u0435\u0440\u0448\u0442\u0435\u0442"], "name:nld_x_preferred": ["Wedderstedt"], "name:ron_x_preferred": ["Wedderstedt"], "name:rus_x_preferred": ["\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"], "name:tat_x_preferred": ["\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["Wedderstedt"], "name:vie_x_preferred": ["Wedderstedt"], "name:vol_x_preferred": ["Wedderstedt"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Harz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Wedderstedt", "qs:la_lc": "*DE15008501360", "qs:level": "locality", "qs:loc": "Wedderstedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 29, "wof:belongsto": [85682519, 102191581, 1377688639, 85633111, 102063857], "wof:breaches": [], "wof:concordances": {"gn:id": 2813479, "gp:id": 704255, "qs_pg:id": 377730, "wd:id": "Q700416", "wk:page": "Wedderstedt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "b2120c489badb4270a97d0aaa7d56e21", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063857, "localadmin_id": 1377688639, "locality_id": 101909335, "region_id": 85682519}], "wof:id": 101909335, "wof:lastmodified": 1690871409, "wof:name": "Wedderstedt", "wof:parent_id": 1377688639, "wof:placetype": "locality", "wof:population": 507, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.240563, 51.83431, 11.250817, 51.842429], "geometry": {"coordinates": [[[11.250817, 51.842367], [11.250793, 51.841468], [11.249342, 51.841484], [11.249267, 51.838788], [11.247816, 51.838803], [11.247742, 51.836108], [11.249193, 51.836092], [11.249168, 51.835194], [11.247717, 51.835209], [11.247692, 51.83431], [11.246242, 51.834326], [11.246267, 51.835224], [11.244816, 51.83524], [11.244841, 51.836138], [11.24339, 51.836154], [11.243464, 51.838849], [11.240563, 51.83888], [11.240588, 51.839779], [11.242038, 51.839763], [11.242063, 51.840662], [11.243514, 51.840647], [11.243539, 51.841545], [11.244989, 51.84153], [11.245014, 51.842429], [11.250817, 51.842367]]], "type": "Polygon"}}
+{
+  "id": 101909335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":318802.879925,
+    "geom:bbox":"11.240563,51.83431,11.250817,51.842429",
+    "geom:latitude":51.838991,
+    "geom:longitude":11.246053,
+    "gn:population":507,
+    "iso:country":"DE",
+    "lbl:latitude":51.839293,
+    "lbl:longitude":11.245626,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.839293,
+    "mps:longitude":11.245626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:dan_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:deu_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:eng_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:epo_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u062f\u0631\u0634\u062a\u062f\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:gle_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:ita_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u0434\u0435\u0440\u0448\u0442\u0435\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:ron_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u0434\u0434\u0435\u0440\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:vie_x_preferred":[
+        "Wedderstedt"
+    ],
+    "name:vol_x_preferred":[
+        "Wedderstedt"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Harz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Wedderstedt",
+    "qs:la_lc":"*DE15008501360",
+    "qs:level":"locality",
+    "qs:loc":"Wedderstedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688639,
+        85633111,
+        102063857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2813479,
+        "gp:id":704255,
+        "qs_pg:id":377730,
+        "wd:id":"Q700416",
+        "wk:page":"Wedderstedt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"b2120c489badb4270a97d0aaa7d56e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063857,
+            "localadmin_id":1377688639,
+            "locality_id":101909335,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909335,
+    "wof:lastmodified":1690871409,
+    "wof:name":"Wedderstedt",
+    "wof:parent_id":1377688639,
+    "wof:placetype":"locality",
+    "wof:population":507,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.240563,
+    51.83431,
+    11.250817,
+    51.842429
+],
+  "geometry": {"coordinates":[[[11.250817,51.842367],[11.250793,51.841468],[11.249342,51.841484],[11.249267,51.838788],[11.247816,51.838803],[11.247742,51.836108],[11.249193,51.836092],[11.249168,51.835194],[11.247717,51.835209],[11.247692,51.83431],[11.246242,51.834326],[11.246267,51.835224],[11.244816,51.83524],[11.244841,51.836138],[11.24339,51.836154],[11.243464,51.838849],[11.240563,51.83888],[11.240588,51.839779],[11.242038,51.839763],[11.242063,51.840662],[11.243514,51.840647],[11.243539,51.841545],[11.244989,51.84153],[11.245014,51.842429],[11.250817,51.842367]]],"type":"Polygon"}
+}

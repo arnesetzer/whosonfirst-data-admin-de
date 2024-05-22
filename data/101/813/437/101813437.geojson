@@ -1,1 +1,393 @@
-{"id": 101813437, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07133076", "eurostat:level_code": "lau", "eurostat:name_local": "Odernheim am Glan", "eurostat:nuts_2021_id": "07133076", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB1", "eurostat:nuts_2021_level_3": "DEB14", "eurostat:nuts_2021_level_lau": "07133076", "eurostat:population": 1680, "eurostat:population_year": 2020, "geom:area": 0.001641, "geom:area_square_m": 13104541.372861, "geom:bbox": "7.682352,49.740573,7.751272,49.782243", "geom:latitude": 49.759261, "geom:longitude": 7.712858, "gn:country": null, "gn:population": 1690, "iso:country": "DE", "lbl:latitude": 49.764758, "lbl:longitude": 7.703881, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 49.764758, "mps:longitude": 7.703881, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Odernheim am Glan"], "name:ara_x_preferred": ["\u0623\u0648\u062f\u0631\u0646\u0647\u0622\u064a\u0645"], "name:ara_x_variant": ["\u0623\u0648\u062f\u0631\u0646\u0647\u0627\u064a\u0645"], "name:arg_x_preferred": ["Odernheim am Glan"], "name:ast_x_preferred": ["Odernheim am Glan"], "name:bar_x_preferred": ["Odernheim am Glan"], "name:bre_x_preferred": ["Odernheim am Glan"], "name:cat_x_preferred": ["Odernheim am Glan"], "name:ceb_x_preferred": ["Odernheim am Glan"], "name:ces_x_preferred": ["Odernheim am Glan"], "name:che_x_preferred": ["\u0413\u043b\u0430\u043d-\u0442\u04c0\u0435\u0440\u0430-\u041e\u0434\u0435\u0440\u043d\u0445\u0430\u0439\u043c"], "name:cos_x_preferred": ["Odernheim am Glan"], "name:cym_x_preferred": ["Odernheim am Glan"], "name:dan_x_preferred": ["Odernheim am Glan"], "name:deu_x_preferred": ["Odernheim am Glan"], "name:deu_x_variant": ["Odernheim", "Odernheim (Glan)", "Odernheim/Glan"], "name:eng_x_preferred": ["Odernheim am Glan"], "name:epo_x_preferred": ["Odernheim am Glan"], "name:est_x_preferred": ["Odernheim am Glan"], "name:eus_x_preferred": ["Odernheim am Glan"], "name:fas_x_preferred": ["\u0627\u0648\u062f\u0631\u0646\u0647\u0627\u06cc\u0645 \u0627\u0645 \u06af\u0644\u0627\u0646"], "name:fin_x_preferred": ["Odernheim am Glan"], "name:fra_x_preferred": ["Odernheim am Glan"], "name:frp_x_preferred": ["Odernheim am Glan"], "name:fry_x_preferred": ["Odernheim am Glan"], "name:fur_x_preferred": ["Odernheim am Glan"], "name:gla_x_preferred": ["Odernheim am Glan"], "name:gle_x_preferred": ["Odernheim am Glan"], "name:glg_x_preferred": ["Odernheim am Glan"], "name:gsw_x_preferred": ["Odernheim am Glan"], "name:hbs_x_preferred": ["Odernheim am Glan"], "name:hrv_x_preferred": ["Odernheim am Glan"], "name:hun_x_preferred": ["Odernheim am Glan"], "name:ido_x_preferred": ["Odernheim am Glan"], "name:ile_x_preferred": ["Odernheim am Glan"], "name:ina_x_preferred": ["Odernheim am Glan"], "name:ind_x_preferred": ["Odernheim am Glan"], "name:isl_x_preferred": ["Odernheim am Glan"], "name:ita_x_preferred": ["Odernheim am Glan"], "name:jpn_x_preferred": ["\u30aa\u30fc\u30c0\u30fc\u30f3\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30b0\u30e9\u30f3"], "name:kon_x_preferred": ["Odernheim am Glan"], "name:kur_x_preferred": ["Odernheim am Glan"], "name:lij_x_preferred": ["Odernheim am Glan"], "name:lim_x_preferred": ["Odernheim am Glan"], "name:ltz_x_preferred": ["Odernheim am Glan"], "name:min_x_preferred": ["Odernheim am Glan"], "name:mlg_x_preferred": ["Odernheim am Glan"], "name:msa_x_preferred": ["Odernheim am Glan"], "name:nan_x_preferred": ["Odernheim am Glan"], "name:nap_x_preferred": ["Odernheim am Glan"], "name:nds_x_preferred": ["Odernheim am Glan"], "name:nld_x_preferred": ["Odernheim am Glan"], "name:nno_x_preferred": ["Odernheim am Glan"], "name:nob_x_preferred": ["Odernheim am Glan"], "name:nrm_x_preferred": ["Odernheim am Glan"], "name:oci_x_preferred": ["Odernheim am Glan"], "name:pcd_x_preferred": ["Odernheim am Glan"], "name:pms_x_preferred": ["Odernheim am Glan"], "name:pol_x_preferred": ["Odernheim am Glan"], "name:por_x_preferred": ["Odernheim am Glan"], "name:roh_x_preferred": ["Odernheim am Glan"], "name:ron_x_preferred": ["Odernheim am Glan"], "name:rus_x_preferred": ["\u041e\u0434\u0435\u0440\u043d\u0445\u0430\u0439\u043c-\u043d\u0430-\u0413\u043b\u0430\u043d\u0435"], "name:scn_x_preferred": ["Odernheim am Glan"], "name:sco_x_preferred": ["Odernheim am Glan"], "name:slk_x_preferred": ["Odernheim am Glan"], "name:slv_x_preferred": ["Odernheim am Glan"], "name:spa_x_preferred": ["Odernheim am Glan"], "name:srd_x_preferred": ["Odernheim am Glan"], "name:srp_x_preferred": ["\u041e\u0434\u0435\u0440\u043d\u0445\u0430\u0458\u043c \u0430\u043c \u0413\u043b\u0430\u043d"], "name:swa_x_preferred": ["Odernheim am Glan"], "name:swe_x_preferred": ["Odernheim am Glan"], "name:tat_x_preferred": ["\u041e\u0434\u0435\u0440\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0413\u043b\u0430\u043d\u0435"], "name:ukr_x_preferred": ["\u041e\u0434\u0435\u0440\u043d\u0433\u0430\u0439\u043c-\u0430\u043c-\u0413\u043b\u0430\u043d"], "name:uzb_x_preferred": ["Odernheim am Glan"], "name:vec_x_preferred": ["Odernheim am Glan"], "name:vie_x_preferred": ["Odernheim am Glan"], "name:vls_x_preferred": ["Odernheim am Glan"], "name:vol_x_preferred": ["Odernheim am Glan"], "name:war_x_preferred": ["Odernheim am Glan"], "name:wln_x_preferred": ["Odernheim am Glan"], "name:wol_x_preferred": ["Odernheim am Glan"], "name:zho_x_preferred": ["\u683c\u5170\u6cb3\u7554\u5965\u767b\u6d77\u59c6"], "name:zul_x_preferred": ["Odernheim am Glan"], "nav:latitude": 49.764758, "nav:longitude": 7.703881, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Bad Kreuznach", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Odernheim am Glan", "qs:la_lc": "*DE07013307076", "qs:level": "locality", "qs:loc": "Odernheim am Glan", "qs:loc_alt": "Odernheim am Glan", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:name": "Gemeinde Odernheim am Glan", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos": 6, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 195, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 58573, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12628039, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 3055, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682491, 102191581, 1377685419, 85633111, 102063551], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07133076", "eurostat:nuts_2021_id": "07133076", "fct:id": "07512b16-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 6553525, "gp:id": 682832, "qs_pg:id": 1157468, "wd:id": "Q658702", "wk:page": "Odernheim am Glan"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "8953de525ea362ca02760d09764cd08b", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063551, "localadmin_id": 1377685419, "locality_id": 101813437, "region_id": 85682491}], "wof:id": 101813437, "wof:lang": ["ger"], "wof:lastmodified": 1690873328, "wof:name": "Odernheim am Glan", "wof:parent_id": 1377685419, "wof:placetype": "locality", "wof:population": 1680, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125275791], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.682352, 49.740573, 7.751272, 49.782243], "geometry": {"coordinates": [[[[7.751272, 49.748227], [7.744281, 49.745384], [7.739993, 49.745298], [7.738816, 49.746673], [7.731401, 49.748987], [7.73015, 49.747795], [7.726029, 49.748891], [7.722269, 49.748799], [7.720494, 49.748234], [7.717304, 49.747219], [7.71847, 49.744941], [7.720567, 49.742031], [7.717516, 49.741856], [7.716103, 49.741842], [7.714251, 49.740734], [7.710274, 49.740573], [7.70829, 49.743369], [7.703608, 49.745982], [7.699356, 49.745517], [7.694961, 49.741339], [7.691796, 49.745537], [7.690372, 49.745132], [7.686919, 49.743596], [7.684203, 49.744016], [7.684727, 49.747144], [7.685926, 49.748522], [7.687706, 49.750567], [7.685201, 49.749938], [7.6839, 49.749928], [7.684707, 49.752692], [7.683559, 49.755693], [7.682352, 49.759339], [7.684605, 49.760007], [7.687353, 49.763163], [7.69032, 49.765237], [7.691912, 49.767616], [7.692593, 49.773034], [7.692839, 49.774985], [7.698188, 49.776936], [7.701621, 49.77956], [7.702576, 49.779862], [7.702738, 49.779938], [7.703276, 49.780249], [7.70374, 49.780647], [7.704004, 49.781122], [7.707873, 49.782243], [7.715382, 49.776531], [7.717838, 49.775898], [7.719001, 49.7745], [7.721921, 49.771259], [7.723656, 49.769333], [7.728744, 49.769809], [7.734186, 49.769455], [7.734562, 49.767529], [7.738248, 49.766763], [7.740793, 49.767455], [7.746355, 49.764304], [7.742028, 49.762219], [7.742341, 49.755375], [7.745456, 49.751255], [7.751272, 49.748227]]]], "type": "MultiPolygon"}}
+{
+  "id": 101813437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07133076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Odernheim am Glan",
+    "eurostat:nuts_2021_id":"07133076",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB1",
+    "eurostat:nuts_2021_level_3":"DEB14",
+    "eurostat:nuts_2021_level_lau":"07133076",
+    "eurostat:population":1680,
+    "eurostat:population_year":2020,
+    "geom:area":0.001641,
+    "geom:area_square_m":13104541.372861,
+    "geom:bbox":"7.682352,49.740573,7.751272,49.782243",
+    "geom:latitude":49.759261,
+    "geom:longitude":7.712858,
+    "gn:country":null,
+    "gn:population":1690,
+    "iso:country":"DE",
+    "lbl:latitude":49.764758,
+    "lbl:longitude":7.703881,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":49.764758,
+    "mps:longitude":7.703881,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u062f\u0631\u0646\u0647\u0622\u064a\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u062f\u0631\u0646\u0647\u0627\u064a\u0645"
+    ],
+    "name:arg_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ast_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:bar_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:bre_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:cat_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ceb_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ces_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043b\u0430\u043d-\u0442\u04c0\u0435\u0440\u0430-\u041e\u0434\u0435\u0440\u043d\u0445\u0430\u0439\u043c"
+    ],
+    "name:cos_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:cym_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:dan_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:deu_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:deu_x_variant":[
+        "Odernheim",
+        "Odernheim (Glan)",
+        "Odernheim/Glan"
+    ],
+    "name:eng_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:epo_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:est_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:eus_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062f\u0631\u0646\u0647\u0627\u06cc\u0645 \u0627\u0645 \u06af\u0644\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:fra_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:frp_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:fry_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:fur_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:gla_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:gle_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:glg_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:gsw_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:hbs_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:hrv_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:hun_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ido_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ile_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ina_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ind_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:isl_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ita_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30c0\u30fc\u30f3\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30b0\u30e9\u30f3"
+    ],
+    "name:kon_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:kur_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:lij_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:lim_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ltz_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:min_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:mlg_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:msa_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:nan_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:nap_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:nds_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:nld_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:nno_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:nob_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:nrm_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:oci_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:pcd_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:pms_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:pol_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:por_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:roh_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:ron_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0435\u0440\u043d\u0445\u0430\u0439\u043c-\u043d\u0430-\u0413\u043b\u0430\u043d\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:sco_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:slk_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:slv_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:spa_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:srd_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0434\u0435\u0440\u043d\u0445\u0430\u0458\u043c \u0430\u043c \u0413\u043b\u0430\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:swe_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0434\u0435\u0440\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0413\u043b\u0430\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0434\u0435\u0440\u043d\u0433\u0430\u0439\u043c-\u0430\u043c-\u0413\u043b\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:vec_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:vie_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:vls_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:vol_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:war_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:wln_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:wol_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5170\u6cb3\u7554\u5965\u767b\u6d77\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Odernheim am Glan"
+    ],
+    "nav:latitude":49.764758,
+    "nav:longitude":7.703881,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Bad Kreuznach",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Odernheim am Glan",
+    "qs:la_lc":"*DE07013307076",
+    "qs:level":"locality",
+    "qs:loc":"Odernheim am Glan",
+    "qs:loc_alt":"Odernheim am Glan",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Gemeinde Odernheim am Glan",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":195,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":58573,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12628039,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":3055,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377685419,
+        85633111,
+        102063551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07133076",
+        "eurostat:nuts_2021_id":"07133076",
+        "fct:id":"07512b16-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6553525,
+        "gp:id":682832,
+        "qs_pg:id":1157468,
+        "wd:id":"Q658702",
+        "wk:page":"Odernheim am Glan"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"8953de525ea362ca02760d09764cd08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063551,
+            "localadmin_id":1377685419,
+            "locality_id":101813437,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101813437,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873328,
+    "wof:name":"Odernheim am Glan",
+    "wof:parent_id":1377685419,
+    "wof:placetype":"locality",
+    "wof:population":1680,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125275791
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.682352,
+    49.740573,
+    7.751272,
+    49.782243
+],
+  "geometry": {"coordinates":[[[[7.751272,49.748227],[7.744281,49.745384],[7.739993,49.745298],[7.738816,49.746673],[7.731401,49.748987],[7.73015,49.747795],[7.726029,49.748891],[7.722269,49.748799],[7.720494,49.748234],[7.717304,49.747219],[7.71847,49.744941],[7.720567,49.742031],[7.717516,49.741856],[7.716103,49.741842],[7.714251,49.740734],[7.710274,49.740573],[7.70829,49.743369],[7.703608,49.745982],[7.699356,49.745517],[7.694961,49.741339],[7.691796,49.745537],[7.690372,49.745132],[7.686919,49.743596],[7.684203,49.744016],[7.684727,49.747144],[7.685926,49.748522],[7.687706,49.750567],[7.685201,49.749938],[7.6839,49.749928],[7.684707,49.752692],[7.683559,49.755693],[7.682352,49.759339],[7.684605,49.760007],[7.687353,49.763163],[7.69032,49.765237],[7.691912,49.767616],[7.692593,49.773034],[7.692839,49.774985],[7.698188,49.776936],[7.701621,49.77956],[7.702576,49.779862],[7.702738,49.779938],[7.703276,49.780249],[7.70374,49.780647],[7.704004,49.781122],[7.707873,49.782243],[7.715382,49.776531],[7.717838,49.775898],[7.719001,49.7745],[7.721921,49.771259],[7.723656,49.769333],[7.728744,49.769809],[7.734186,49.769455],[7.734562,49.767529],[7.738248,49.766763],[7.740793,49.767455],[7.746355,49.764304],[7.742028,49.762219],[7.742341,49.755375],[7.745456,49.751255],[7.751272,49.748227]]]],"type":"MultiPolygon"}
+}

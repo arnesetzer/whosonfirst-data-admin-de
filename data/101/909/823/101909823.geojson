@@ -1,1 +1,149 @@
-{"id": 101909823, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.8e-05, "geom:area_square_m": 288899.57108, "geom:bbox": "12.036383,52.073964,12.046589,52.07953", "geom:latitude": 52.076523, "geom:longitude": 12.041105, "gn:population": 480, "iso:country": "DE", "lbl:latitude": 52.076279, "lbl:longitude": 12.042635, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.076279, "mps:longitude": 12.042635, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0425\u043e\u0431\u0435\u043a"], "name:ceb_x_preferred": ["Hobeck"], "name:che_x_preferred": ["\u0425\u043e\u0431\u0435\u043a"], "name:deu_x_preferred": ["Hobeck"], "name:eng_x_preferred": ["Hobeck"], "name:epo_x_preferred": ["Hobeck"], "name:fas_x_preferred": ["\u0647\u0648\u0628\u06a9"], "name:fra_x_preferred": ["Hobeck"], "name:gle_x_preferred": ["Hobeck"], "name:kaz_x_preferred": ["\u0425\u043e\u0431\u0435\u043a"], "name:kir_x_preferred": ["\u0425\u043e\u0431\u0435\u043a"], "name:mkd_x_preferred": ["\u0425\u043e\u0431\u0435\u043a"], "name:nld_x_preferred": ["Hobeck"], "name:ron_x_preferred": ["Hobeck"], "name:rus_x_preferred": ["\u0425\u043e\u0431\u0435\u043a"], "name:tat_x_preferred": ["\u0425\u043e\u0431\u0435\u043a"], "name:und_x_variant": ["Hohbeck"], "name:uzb_x_preferred": ["Hobeck"], "name:vol_x_preferred": ["Hobeck"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Jerichower Land", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Hobeck", "qs:la_lc": "*DE15008604070", "qs:level": "locality", "qs:loc": "Hobeck", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377688699, 85633111, 102063939], "wof:breaches": [], "wof:concordances": {"gn:id": 2903420, "gp:id": 660470, "qs_pg:id": 932499, "wd:id": "Q822119", "wk:page": "Hobeck"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "a840655e97bb1b4a1e84e6d7cb2e87f4", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063939, "localadmin_id": 1377688699, "locality_id": 101909823, "region_id": 85682519}], "wof:id": 101909823, "wof:lastmodified": 1690871421, "wof:name": "Hobeck", "wof:parent_id": 1377688699, "wof:placetype": "locality", "wof:population": 480, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.036383, 52.073964, 12.046589, 52.07953], "geometry": {"coordinates": [[[12.046589, 52.074862], [12.046548, 52.073964], [12.040716, 52.074065], [12.040757, 52.074963], [12.036383, 52.075038], [12.036587, 52.07953], [12.038045, 52.079505], [12.038004, 52.078607], [12.045295, 52.078481], [12.045131, 52.074887], [12.046589, 52.074862]]], "type": "Polygon"}}
+{
+  "id": 101909823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":288899.57108,
+    "geom:bbox":"12.036383,52.073964,12.046589,52.07953",
+    "geom:latitude":52.076523,
+    "geom:longitude":12.041105,
+    "gn:population":480,
+    "iso:country":"DE",
+    "lbl:latitude":52.076279,
+    "lbl:longitude":12.042635,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.076279,
+    "mps:longitude":12.042635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0425\u043e\u0431\u0435\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Hobeck"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0431\u0435\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Hobeck"
+    ],
+    "name:eng_x_preferred":[
+        "Hobeck"
+    ],
+    "name:epo_x_preferred":[
+        "Hobeck"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0628\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Hobeck"
+    ],
+    "name:gle_x_preferred":[
+        "Hobeck"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u043e\u0431\u0435\u043a"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u043e\u0431\u0435\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u0431\u0435\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Hobeck"
+    ],
+    "name:ron_x_preferred":[
+        "Hobeck"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0431\u0435\u043a"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0431\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Hohbeck"
+    ],
+    "name:uzb_x_preferred":[
+        "Hobeck"
+    ],
+    "name:vol_x_preferred":[
+        "Hobeck"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Jerichower Land",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Hobeck",
+    "qs:la_lc":"*DE15008604070",
+    "qs:level":"locality",
+    "qs:loc":"Hobeck",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688699,
+        85633111,
+        102063939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2903420,
+        "gp:id":660470,
+        "qs_pg:id":932499,
+        "wd:id":"Q822119",
+        "wk:page":"Hobeck"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"a840655e97bb1b4a1e84e6d7cb2e87f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063939,
+            "localadmin_id":1377688699,
+            "locality_id":101909823,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909823,
+    "wof:lastmodified":1690871421,
+    "wof:name":"Hobeck",
+    "wof:parent_id":1377688699,
+    "wof:placetype":"locality",
+    "wof:population":480,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.036383,
+    52.073964,
+    12.046589,
+    52.07953
+],
+  "geometry": {"coordinates":[[[12.046589,52.074862],[12.046548,52.073964],[12.040716,52.074065],[12.040757,52.074963],[12.036383,52.075038],[12.036587,52.07953],[12.038045,52.079505],[12.038004,52.078607],[12.045295,52.078481],[12.045131,52.074887],[12.046589,52.074862]]],"type":"Polygon"}
+}

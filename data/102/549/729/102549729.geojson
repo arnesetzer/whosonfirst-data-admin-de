@@ -1,1 +1,94 @@
-{"id": 102549729, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "7.136667,50.5585,7.136667,50.5585", "geom:latitude": 50.5585, "geom:longitude": 7.136667, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 13.0, "name:deu_x_preferred": ["Flugplatz Bad Neuenahr-Ahrweiler"], "name:eng_x_preferred": ["Bad Neuenahr-Ahrweiler Airport"], "name:eng_x_variant": ["EDRA", "Bad Neuenahr-Ahrweiler airfield"], "name:ind_x_preferred": ["Bandar Udara Bad Neuenahr-Ahrweiler"], "name:msa_x_preferred": ["Lapangan Terbang Bad Neuenahr-Ahrweiler"], "name:ron_x_preferred": ["Aeroportul Bad Neuenahr-Ahrweiler"], "oa:elevation_ft": "673", "oa:type": "small_airport", "src:geom": "wikidata", "src:geom_alt": [], "woe:hierarchy": {"country_id": 23424829, "county_id": 12596824, "localadmin_id": 12627807, "planet_id": 1, "state_id": 2345488}, "wof:belongsto": [102191581, 1377685227, 85633111, 101810665, 102063651, 85682491], "wof:breaches": [], "wof:concordances": {"gp:id": 56052012, "icao:code": "EDRA", "oa:id": "28514", "wd:id": "Q20458129"}, "wof:country": "DE", "wof:geomhash": "d5bf5fe7f31b1825767cc0836d3f5a51", "wof:hierarchy": [{"campus_id": 102549729, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063651, "localadmin_id": 1377685227, "locality_id": 101810665, "neighbourhood_id": -1, "region_id": 85682491}], "wof:id": 102549729, "wof:lastmodified": 1690871098, "wof:name": "Flugplatz Bad Neuenahr-ahrweiler", "wof:parent_id": 101810665, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [7.136667, 50.5585, 7.136667, 50.5585], "geometry": {"coordinates": [7.136667, 50.5585], "type": "Point"}}
+{
+  "id": 102549729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.136667,50.5585,7.136667,50.5585",
+    "geom:latitude":50.5585,
+    "geom:longitude":7.136667,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flugplatz Bad Neuenahr-Ahrweiler"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Neuenahr-Ahrweiler Airport"
+    ],
+    "name:eng_x_variant":[
+        "EDRA",
+        "Bad Neuenahr-Ahrweiler airfield"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Bad Neuenahr-Ahrweiler"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Bad Neuenahr-Ahrweiler"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Bad Neuenahr-Ahrweiler"
+    ],
+    "oa:elevation_ft":"673",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596824,
+        "localadmin_id":12627807,
+        "planet_id":1,
+        "state_id":2345488
+    },
+    "wof:belongsto":[
+        102191581,
+        1377685227,
+        85633111,
+        101810665,
+        102063651,
+        85682491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56052012,
+        "icao:code":"EDRA",
+        "oa:id":"28514",
+        "wd:id":"Q20458129"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"d5bf5fe7f31b1825767cc0836d3f5a51",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549729,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063651,
+            "localadmin_id":1377685227,
+            "locality_id":101810665,
+            "neighbourhood_id":-1,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":102549729,
+    "wof:lastmodified":1690871098,
+    "wof:name":"Flugplatz Bad Neuenahr-ahrweiler",
+    "wof:parent_id":101810665,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.136667,
+    50.5585,
+    7.136667,
+    50.5585
+],
+  "geometry": {"coordinates":[7.136667,50.5585],"type":"Point"}
+}

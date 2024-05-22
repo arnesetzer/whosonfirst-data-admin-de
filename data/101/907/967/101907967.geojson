@@ -1,1 +1,144 @@
-{"id": 101907967, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.1e-05, "geom:area_square_m": 378500.280116, "geom:bbox": "11.922668,52.751868,11.936113,52.759197", "geom:latitude": 52.755329, "geom:longitude": 11.929517, "gn:population": 425, "iso:country": "DE", "lbl:latitude": 52.754156, "lbl:longitude": 11.93186, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.754156, "mps:longitude": 11.93186, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"], "name:cat_x_preferred": ["Hindenburg"], "name:ceb_x_preferred": ["Hindenburg"], "name:che_x_preferred": ["\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"], "name:deu_x_preferred": ["Hindenburg"], "name:eng_x_preferred": ["Hindenburg"], "name:epo_x_preferred": ["Hindenburg"], "name:fas_x_preferred": ["\u0647\u06cc\u0646\u062f\u0646\u0628\u0648\u0631\u06af"], "name:gle_x_preferred": ["Hindenburg"], "name:jpn_x_preferred": ["\u30d2\u30f3\u30c7\u30f3\u30d6\u30eb\u30af"], "name:kaz_x_preferred": ["\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"], "name:kir_x_preferred": ["\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"], "name:nld_x_preferred": ["Hindenburg"], "name:nob_x_preferred": ["Hindenburg"], "name:ron_x_preferred": ["Hindenburg"], "name:rus_x_preferred": ["\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"], "name:tat_x_preferred": ["\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"], "name:uzb_x_preferred": ["Hindenburg"], "name:vol_x_preferred": ["Hindenburg"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Stendal", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Hindenburg", "qs:la_lc": "*DE15009004240", "qs:level": "locality", "qs:loc": "Hindenburg", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": [], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 29, "wof:belongsto": [85682519, 102191581, 1377689227, 85633111, 102063905], "wof:breaches": [], "wof:concordances": {"gn:id": 2904468, "gp:id": 20163228, "qs_pg:id": 259518, "wd:id": "Q696076", "wk:page": "Hindenburg, Saxony-Anhalt"}, "wof:country": "DE", "wof:geomhash": "886e06c9c1d063c6ac6228fc5f0b10a9", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063905, "localadmin_id": 1377689227, "locality_id": 101907967, "region_id": 85682519}], "wof:id": 101907967, "wof:lastmodified": 1690871597, "wof:name": "Hindenburg", "wof:parent_id": 1377689227, "wof:placetype": "locality", "wof:population": 425, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.922668, 52.751868, 11.936113, 52.759197], "geometry": {"coordinates": [[[11.928788, 52.75915], [11.92867, 52.756455], [11.934592, 52.756359], [11.934632, 52.757258], [11.936113, 52.757234], [11.936033, 52.755437], [11.934553, 52.755461], [11.934394, 52.751868], [11.929952, 52.75194], [11.929992, 52.752838], [11.928511, 52.752862], [11.928551, 52.75376], [11.92559, 52.753808], [11.925629, 52.754706], [11.922668, 52.754754], [11.922708, 52.755652], [11.924188, 52.755628], [11.924307, 52.758323], [11.925787, 52.758299], [11.925827, 52.759197], [11.928788, 52.75915]]], "type": "Polygon"}}
+{
+  "id": 101907967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":378500.280116,
+    "geom:bbox":"11.922668,52.751868,11.936113,52.759197",
+    "geom:latitude":52.755329,
+    "geom:longitude":11.929517,
+    "gn:population":425,
+    "iso:country":"DE",
+    "lbl:latitude":52.754156,
+    "lbl:longitude":11.93186,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.754156,
+    "mps:longitude":11.93186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:ceb_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:eng_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:epo_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0646\u062f\u0646\u0628\u0648\u0631\u06af"
+    ],
+    "name:gle_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30f3\u30c7\u30f3\u30d6\u30eb\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:nob_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:ron_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0438\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Hindenburg"
+    ],
+    "name:vol_x_preferred":[
+        "Hindenburg"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Stendal",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Hindenburg",
+    "qs:la_lc":"*DE15009004240",
+    "qs:level":"locality",
+    "qs:loc":"Hindenburg",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689227,
+        85633111,
+        102063905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2904468,
+        "gp:id":20163228,
+        "qs_pg:id":259518,
+        "wd:id":"Q696076",
+        "wk:page":"Hindenburg, Saxony-Anhalt"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"886e06c9c1d063c6ac6228fc5f0b10a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063905,
+            "localadmin_id":1377689227,
+            "locality_id":101907967,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101907967,
+    "wof:lastmodified":1690871597,
+    "wof:name":"Hindenburg",
+    "wof:parent_id":1377689227,
+    "wof:placetype":"locality",
+    "wof:population":425,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.922668,
+    52.751868,
+    11.936113,
+    52.759197
+],
+  "geometry": {"coordinates":[[[11.928788,52.75915],[11.92867,52.756455],[11.934592,52.756359],[11.934632,52.757258],[11.936113,52.757234],[11.936033,52.755437],[11.934553,52.755461],[11.934394,52.751868],[11.929952,52.75194],[11.929992,52.752838],[11.928511,52.752862],[11.928551,52.75376],[11.92559,52.753808],[11.925629,52.754706],[11.922668,52.754754],[11.922708,52.755652],[11.924188,52.755628],[11.924307,52.758323],[11.925787,52.758299],[11.925827,52.759197],[11.928788,52.75915]]],"type":"Polygon"}
+}

@@ -1,1 +1,105 @@
-{"id": 1393562297, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "7.91568,47.73324,7.91568,47.73324", "geom:latitude": 47.73324, "geom:longitude": 7.91568, "gn:admin1_code": "1", "gn:admin2_code": "83.0", "gn:admin3_code": "8336.0", "gn:admin4_code": "8336106.0", "gn:asciiname": "Hag", "gn:country_code": "DE", "gn:dem": 686, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2912688, "gn:latitude": 47.73324, "gn:longitude": 7.91568, "gn:modification_date": "2013-02-16", "gn:name": "H\u00e4g", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "7.91068,47.72824,7.92068,47.73824", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ara_x_preferred": ["\u0639\u062c\u0648\u0632 \u0634\u0645\u0637\u0627\u0621"], "name:bre_x_preferred": ["Gwrac'h"], "name:deu_x_preferred": ["Hexe"], "name:fra_x_preferred": ["Hag"], "name:gla_x_preferred": ["Baobh"], "name:jpn_x_preferred": ["\u30cf\u30c3\u30b0"], "name:por_x_preferred": ["Hag"], "name:spa_x_preferred": ["Hag"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377689755, 404227543, 1377753485, 102063211, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 2912688}, "wof:country": "DE", "wof:geomhash": "0aca47f68e7893f9ab0412781bfac8cc", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063211, "localadmin_id": 1377689755, "locality_id": 1377753485, "macrocounty_id": 404227543, "neighbourhood_id": 1393562297, "region_id": 85682567}], "wof:id": 1393562297, "wof:lastmodified": 1566715724, "wof:name": "Hag", "wof:parent_id": 1377753485, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1343675027], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.91568, 47.73324, 7.91568, 47.73324], "geometry": {"coordinates": [7.91568, 47.73324], "type": "Point"}}
+{
+  "id": 1393562297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.91568,47.73324,7.91568,47.73324",
+    "geom:latitude":47.73324,
+    "geom:longitude":7.91568,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"83.0",
+    "gn:admin3_code":"8336.0",
+    "gn:admin4_code":"8336106.0",
+    "gn:asciiname":"Hag",
+    "gn:country_code":"DE",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2912688,
+    "gn:latitude":47.73324,
+    "gn:longitude":7.91568,
+    "gn:modification_date":"2013-02-16",
+    "gn:name":"H\u00e4g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"7.91068,47.72824,7.92068,47.73824",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0639\u062c\u0648\u0632 \u0634\u0645\u0637\u0627\u0621"
+    ],
+    "name:bre_x_preferred":[
+        "Gwrac'h"
+    ],
+    "name:deu_x_preferred":[
+        "Hexe"
+    ],
+    "name:fra_x_preferred":[
+        "Hag"
+    ],
+    "name:gla_x_preferred":[
+        "Baobh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30c3\u30b0"
+    ],
+    "name:por_x_preferred":[
+        "Hag"
+    ],
+    "name:spa_x_preferred":[
+        "Hag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689755,
+        404227543,
+        1377753485,
+        102063211,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2912688
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"0aca47f68e7893f9ab0412781bfac8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063211,
+            "localadmin_id":1377689755,
+            "locality_id":1377753485,
+            "macrocounty_id":404227543,
+            "neighbourhood_id":1393562297,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1393562297,
+    "wof:lastmodified":1566715724,
+    "wof:name":"Hag",
+    "wof:parent_id":1377753485,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343675027
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.91568,
+    47.73324,
+    7.91568,
+    47.73324
+],
+  "geometry": {"coordinates":[7.91568,47.73324],"type":"Point"}
+}

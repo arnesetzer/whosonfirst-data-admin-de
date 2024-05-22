@@ -1,1 +1,149 @@
-{"id": 101907953, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 7.7e-05, "geom:area_square_m": 577722.903545, "geom:bbox": "11.630449,52.784951,11.650051,52.793914", "geom:latitude": 52.788813, "geom:longitude": 11.639328, "gn:population": 442, "iso:country": "DE", "lbl:latitude": 52.789543, "lbl:longitude": 11.637546, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.789543, "mps:longitude": 11.637546, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0420\u043e\u0441\u0441\u0430\u0443"], "name:cat_x_preferred": ["Rossau"], "name:ceb_x_preferred": ["Rossau"], "name:che_x_preferred": ["\u0420\u043e\u0441\u0441\u0430\u0443"], "name:deu_x_preferred": ["Rossau"], "name:eng_x_preferred": ["Rossau"], "name:epo_x_preferred": ["Rossau"], "name:fas_x_preferred": ["\u0631\u0648\u0633\u0627\u0648"], "name:gle_x_preferred": ["Rossau"], "name:kaz_x_preferred": ["\u0420\u043e\u0441\u0441\u0430\u0443"], "name:kir_x_preferred": ["\u0420\u043e\u0441\u0441\u0430\u0443"], "name:nld_x_preferred": ["Rossau"], "name:nob_x_preferred": ["Rossau"], "name:ron_x_preferred": ["Rossau"], "name:rus_x_preferred": ["\u0420\u043e\u0441\u0441\u0430\u0443"], "name:tat_x_preferred": ["\u0420\u043e\u0441\u0441\u0430\u0443"], "name:und_x_variant": ["Gro\u00df Rossau"], "name:uzb_x_preferred": ["Rossau"], "name:vol_x_preferred": ["Rossau"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Stendal", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Rossau", "qs:la_lc": "*DE15009004440", "qs:level": "locality", "qs:loc": "Rossau", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 29, "wof:belongsto": [85682519, 102191581, 1377689195, 85633111, 102063905], "wof:breaches": [], "wof:concordances": {"gn:id": 2844854, "gp:id": 689683, "qs_pg:id": 369121, "wd:id": "Q653013", "wk:page": "Rossau, Saxony-Anhalt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "de494198be247916b56f0ddce5abf2b7", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063905, "localadmin_id": 1377689195, "locality_id": 101907953, "region_id": 85682519}], "wof:id": 101907953, "wof:lastmodified": 1690871540, "wof:name": "Rossau", "wof:parent_id": 1377689195, "wof:placetype": "locality", "wof:population": 442, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.630449, 52.784951, 11.650051, 52.793914], "geometry": {"coordinates": [[[11.650051, 52.793873], [11.649983, 52.792077], [11.648501, 52.792097], [11.648467, 52.791199], [11.645504, 52.791239], [11.64547, 52.790341], [11.639542, 52.790422], [11.639441, 52.787727], [11.640923, 52.787707], [11.640889, 52.786808], [11.645335, 52.786747], [11.645267, 52.784951], [11.630449, 52.785153], [11.63055, 52.787848], [11.634995, 52.787788], [11.635163, 52.79228], [11.638127, 52.792239], [11.638161, 52.793138], [11.639643, 52.793117], [11.639609, 52.792219], [11.645537, 52.792138], [11.645571, 52.793036], [11.647053, 52.793016], [11.647087, 52.793914], [11.650051, 52.793873]]], "type": "Polygon"}}
+{
+  "id": 101907953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":577722.903545,
+    "geom:bbox":"11.630449,52.784951,11.650051,52.793914",
+    "geom:latitude":52.788813,
+    "geom:longitude":11.639328,
+    "gn:population":442,
+    "iso:country":"DE",
+    "lbl:latitude":52.789543,
+    "lbl:longitude":11.637546,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.789543,
+    "mps:longitude":11.637546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u0430\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Rossau"
+    ],
+    "name:ceb_x_preferred":[
+        "Rossau"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u0430\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "Rossau"
+    ],
+    "name:eng_x_preferred":[
+        "Rossau"
+    ],
+    "name:epo_x_preferred":[
+        "Rossau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0633\u0627\u0648"
+    ],
+    "name:gle_x_preferred":[
+        "Rossau"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u0430\u0443"
+    ],
+    "name:kir_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u0430\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Rossau"
+    ],
+    "name:nob_x_preferred":[
+        "Rossau"
+    ],
+    "name:ron_x_preferred":[
+        "Rossau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u0430\u0443"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Gro\u00df Rossau"
+    ],
+    "name:uzb_x_preferred":[
+        "Rossau"
+    ],
+    "name:vol_x_preferred":[
+        "Rossau"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Stendal",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Rossau",
+    "qs:la_lc":"*DE15009004440",
+    "qs:level":"locality",
+    "qs:loc":"Rossau",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689195,
+        85633111,
+        102063905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2844854,
+        "gp:id":689683,
+        "qs_pg:id":369121,
+        "wd:id":"Q653013",
+        "wk:page":"Rossau, Saxony-Anhalt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"de494198be247916b56f0ddce5abf2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063905,
+            "localadmin_id":1377689195,
+            "locality_id":101907953,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101907953,
+    "wof:lastmodified":1690871540,
+    "wof:name":"Rossau",
+    "wof:parent_id":1377689195,
+    "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.630449,
+    52.784951,
+    11.650051,
+    52.793914
+],
+  "geometry": {"coordinates":[[[11.650051,52.793873],[11.649983,52.792077],[11.648501,52.792097],[11.648467,52.791199],[11.645504,52.791239],[11.64547,52.790341],[11.639542,52.790422],[11.639441,52.787727],[11.640923,52.787707],[11.640889,52.786808],[11.645335,52.786747],[11.645267,52.784951],[11.630449,52.785153],[11.63055,52.787848],[11.634995,52.787788],[11.635163,52.79228],[11.638127,52.792239],[11.638161,52.793138],[11.639643,52.793117],[11.639609,52.792219],[11.645537,52.792138],[11.645571,52.793036],[11.647053,52.793016],[11.647087,52.793914],[11.650051,52.793873]]],"type":"Polygon"}
+}

@@ -1,1 +1,448 @@
-{"id": 101764271, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08426013", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Buchau, Stadt", "eurostat:nuts_2021_id": "08426013", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE14", "eurostat:nuts_2021_level_3": "DE146", "eurostat:nuts_2021_level_lau": "08426013", "eurostat:population": 4336, "eurostat:population_year": 2020, "geom:area": 0.00287, "geom:area_square_m": 23720258.64029, "geom:bbox": "9.568082,48.033206,9.648452,48.091933", "geom:latitude": 48.060026, "geom:longitude": 9.607698, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 3995, "iso:country": "DE", "lbl:latitude": 48.062854, "lbl:longitude": 9.611901, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 48.062854, "mps:longitude": 9.611901, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Buchau"], "name:als_x_preferred": ["Bad Buchau"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0628\u0648\u062e\u0627\u0648"], "name:arg_x_preferred": ["Bad Buchau"], "name:ast_x_preferred": ["Bad Buchau"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0628\u0648\u0634\u0627"], "name:bar_x_preferred": ["Bad Buchau"], "name:bel_x_preferred": ["\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"], "name:bre_x_preferred": ["Bad Buchau"], "name:cat_x_preferred": ["Bad Buchau"], "name:ceb_x_preferred": ["Bad Buchau"], "name:ces_x_preferred": ["Bad Buchau"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"], "name:cos_x_preferred": ["Bad Buchau"], "name:cym_x_preferred": ["Bad Buchau"], "name:dan_x_preferred": ["Bad Buchau"], "name:deu_x_preferred": ["Bad Buchau"], "name:deu_x_variant": ["Buchau"], "name:ell_x_preferred": ["\u039c\u03c0\u03b1\u03bd\u03c4 \u039c\u03c0\u03bf\u03c5\u03c7\u03ac\u03bf\u03c5"], "name:eng_x_preferred": ["Bad Buchau"], "name:epo_x_preferred": ["Bad Buchau"], "name:est_x_preferred": ["Bad Buchau"], "name:eus_x_preferred": ["Bad Buchau"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0628\u0648\u0634\u0627"], "name:fin_x_preferred": ["Bad Buchau"], "name:fra_x_preferred": ["Bad Buchau"], "name:frp_x_preferred": ["Bad Buchau"], "name:fur_x_preferred": ["Bad Buchau"], "name:gla_x_preferred": ["Bad Buchau"], "name:gle_x_preferred": ["Bad Buchau"], "name:glg_x_preferred": ["Bad Buchau"], "name:gsw_x_preferred": ["Buacha"], "name:hbs_x_preferred": ["Bad Buchau"], "name:heb_x_preferred": ["\u05d1\u05d5\u05db\u05d0\u05d5"], "name:hrv_x_preferred": ["Bad Buchau"], "name:hun_x_preferred": ["Bad Buchau"], "name:hye_x_preferred": ["\u0532\u0561\u0564 \u0532\u0578\u0582\u056d\u0561\u0578\u0582"], "name:ido_x_preferred": ["Bad Buchau"], "name:ile_x_preferred": ["Bad Buchau"], "name:ina_x_preferred": ["Bad Buchau"], "name:ind_x_preferred": ["Bad Buchau"], "name:isl_x_preferred": ["Bad Buchau"], "name:ita_x_preferred": ["Bad Buchau"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30d6\u30fc\u30cf\u30a6"], "name:kat_x_preferred": ["\u10d1\u10d0\u10d3-\u10d1\u10e3\u10ee\u10d0\u10e3"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"], "name:kon_x_preferred": ["Bad Buchau"], "name:kur_x_preferred": ["Bad Buchau"], "name:lat_x_preferred": ["Bad Buchau"], "name:lav_x_preferred": ["B\u0101dbuhava"], "name:lij_x_preferred": ["Bad Buchau"], "name:lim_x_preferred": ["Bad Buchau"], "name:lld_x_preferred": ["Bad Buchau"], "name:lmo_x_preferred": ["Bad Buchau"], "name:ltz_x_preferred": ["Bad Buchau"], "name:min_x_preferred": ["Bad Buchau"], "name:mlg_x_preferred": ["Bad Buchau"], "name:msa_x_preferred": ["Bad Buchau"], "name:nap_x_preferred": ["Bad Buchau"], "name:nds_x_preferred": ["Bad Buchau"], "name:nld_x_preferred": ["Bad Buchau"], "name:nno_x_preferred": ["Bad Buchau"], "name:nob_x_preferred": ["Bad Buchau"], "name:nrm_x_preferred": ["Bad Buchau"], "name:oci_x_preferred": ["Bad Buchau"], "name:pcd_x_preferred": ["Bad Buchau"], "name:pms_x_preferred": ["Bad Buchau"], "name:pol_x_preferred": ["Bad Buchau"], "name:por_x_preferred": ["Bad Buchau"], "name:roh_x_preferred": ["Bad Buchau"], "name:ron_x_preferred": ["Bad Buchau"], "name:rup_x_preferred": ["Bad Buchau"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"], "name:scn_x_preferred": ["Bad Buchau"], "name:sco_x_preferred": ["Bad Buchau"], "name:slk_x_preferred": ["Bad Buchau"], "name:slv_x_preferred": ["Bad Buchau"], "name:spa_x_preferred": ["Bad Buchau"], "name:srd_x_preferred": ["Bad Buchau"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0411\u0443\u0445\u0430\u0443"], "name:swa_x_preferred": ["Bad Buchau"], "name:swe_x_preferred": ["Bad Buchau"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"], "name:tum_x_preferred": ["Bad Buchau"], "name:tur_x_preferred": ["Bad Buchau"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"], "name:und_x_variant": ["Buchau am Federsee"], "name:uzb_x_preferred": ["Bad Buchau"], "name:vec_x_preferred": ["Bad Buchau"], "name:vie_x_preferred": ["Bad Buchau"], "name:vls_x_preferred": ["Bad Buchau"], "name:vol_x_preferred": ["Bad Buchau"], "name:war_x_preferred": ["Bad Buchau"], "name:wln_x_preferred": ["Bad Buchau"], "name:wol_x_preferred": ["Bad Buchau"], "name:zho_x_preferred": ["\u5df4\u7279\u5e03\u8c6a"], "name:zho_x_variant": ["\u5df4\u5fb7\u5e03\u8c6a"], "name:zul_x_preferred": ["Bad Buchau"], "nav:latitude": 48.062854, "nav:longitude": 9.611901, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Biberach", "qs:a2r": "T\u00fcbingen", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Buchau", "qs:la_lc": "*DE08402601013", "qs:level": "locality", "qs:loc": "Bad Buchau", "qs:loc_alt": "Bad Buchau", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558176, "qs_pg:gn_pop": 3995, "qs_pg:name": "Gemeinde Bad Buchau", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 45, "qs_pg:photos_1k": 9, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 5, "qs_pg:photos_all": 305, "qs_pg:photos_sr": 2, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1313036, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623739, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 23.76, "wd:latitude": 48.066111, "wd:longitude": 9.61, "wd:population": 3991, "wd:wordcount": 810, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377690301, 404227573, 102063269], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08426013", "eurostat:nuts_2021_id": "08426013", "fct:id": "0739f180-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2953534, "gp:id": 636404, "qs_pg:id": 554220, "wd:id": "Q496489", "wk:page": "Bad Buchau"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "0bf7166a9a226de08320e158ec8b9b44", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063269, "localadmin_id": 1377690301, "locality_id": 101764271, "macrocounty_id": 404227573, "region_id": 85682567}], "wof:id": 101764271, "wof:lang": ["ger"], "wof:lastmodified": 1690871520, "wof:name": "Bad Buchau", "wof:parent_id": 1377690301, "wof:placetype": "locality", "wof:population": 4336, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125340161, 1125383749], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.568082, 48.033206, 9.648452, 48.091933], "geometry": {"coordinates": [[[[9.640584, 48.082926], [9.633128, 48.078894], [9.627702, 48.078474], [9.630059, 48.068064], [9.636794, 48.068334], [9.636973, 48.066932], [9.636835, 48.064117], [9.637414, 48.059375], [9.638834, 48.058694], [9.64227, 48.057103], [9.645718, 48.052186], [9.640233, 48.049028], [9.636135, 48.046668], [9.635044, 48.04604], [9.628862, 48.042479], [9.630146, 48.041141], [9.62821, 48.039166], [9.617794, 48.036233], [9.618089, 48.033206], [9.613288, 48.033392], [9.609192, 48.038258], [9.608701, 48.037274], [9.599538, 48.037703], [9.598286, 48.036534], [9.595934, 48.036154], [9.592385, 48.036942], [9.588952, 48.03829], [9.588988, 48.037671], [9.590064, 48.037023], [9.587648, 48.035333], [9.588641, 48.034585], [9.587638, 48.033964], [9.586823, 48.035098], [9.584858, 48.035481], [9.582923, 48.036564], [9.582785, 48.035963], [9.583218, 48.034426], [9.581708, 48.034056], [9.580354, 48.033974], [9.580321, 48.033445], [9.578483, 48.033267], [9.57827, 48.034605], [9.575719, 48.034835], [9.575297, 48.037321], [9.574166, 48.038346], [9.573391, 48.039625], [9.571317, 48.04225], [9.570289, 48.043473], [9.569394, 48.044005], [9.56892, 48.044288], [9.568716, 48.044412], [9.571398, 48.047959], [9.578782, 48.054575], [9.575776, 48.058999], [9.57263, 48.058703], [9.568082, 48.065892], [9.569454, 48.066407], [9.571411, 48.067188], [9.574252, 48.065792], [9.575153, 48.066473], [9.576818, 48.067122], [9.577773, 48.067272], [9.579461, 48.067732], [9.581056, 48.06818], [9.580318, 48.069696], [9.58045, 48.070833], [9.582904, 48.073748], [9.585075, 48.073987], [9.587632, 48.074269], [9.590588, 48.074594], [9.590533, 48.07828], [9.592328, 48.080614], [9.596287, 48.079819], [9.604078, 48.088828], [9.605986, 48.089446], [9.600601, 48.083037], [9.620458, 48.084502], [9.625351, 48.089998], [9.626666, 48.090114], [9.631747, 48.091867], [9.632882, 48.091933], [9.642158, 48.091919], [9.642639, 48.09124], [9.648452, 48.091869], [9.646576, 48.08941], [9.643037, 48.087683], [9.640584, 48.082926]]]], "type": "MultiPolygon"}}
+{
+  "id": 101764271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08426013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Buchau, Stadt",
+    "eurostat:nuts_2021_id":"08426013",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE14",
+    "eurostat:nuts_2021_level_3":"DE146",
+    "eurostat:nuts_2021_level_lau":"08426013",
+    "eurostat:population":4336,
+    "eurostat:population_year":2020,
+    "geom:area":0.00287,
+    "geom:area_square_m":23720258.64029,
+    "geom:bbox":"9.568082,48.033206,9.648452,48.091933",
+    "geom:latitude":48.060026,
+    "geom:longitude":9.607698,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":3995,
+    "iso:country":"DE",
+    "lbl:latitude":48.062854,
+    "lbl:longitude":9.611901,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":48.062854,
+    "mps:longitude":9.611901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:als_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0648\u062e\u0627\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0648\u0634\u0627"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:deu_x_variant":[
+        "Buchau"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4 \u039c\u03c0\u03bf\u03c5\u03c7\u03ac\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:est_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0648\u0634\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:gsw_x_preferred":[
+        "Buacha"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05db\u05d0\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0564 \u0532\u0578\u0582\u056d\u0561\u0578\u0582"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30d6\u30fc\u30cf\u30a6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d3-\u10d1\u10e3\u10ee\u10d0\u10e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:lat_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:lav_x_preferred":[
+        "B\u0101dbuhava"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:lmo_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:min_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:por_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:rup_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0411\u0443\u0445\u0430\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0443\u0445\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Buchau am Federsee"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:war_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Buchau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u5e03\u8c6a"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u5e03\u8c6a"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Buchau"
+    ],
+    "nav:latitude":48.062854,
+    "nav:longitude":9.611901,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Biberach",
+    "qs:a2r":"T\u00fcbingen",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Buchau",
+    "qs:la_lc":"*DE08402601013",
+    "qs:level":"locality",
+    "qs:loc":"Bad Buchau",
+    "qs:loc_alt":"Bad Buchau",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558176,
+    "qs_pg:gn_pop":3995,
+    "qs_pg:name":"Gemeinde Bad Buchau",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":45,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":305,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1313036,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623739,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":23.76,
+    "wd:latitude":48.066111,
+    "wd:longitude":9.61,
+    "wd:population":3991,
+    "wd:wordcount":810,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377690301,
+        404227573,
+        102063269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08426013",
+        "eurostat:nuts_2021_id":"08426013",
+        "fct:id":"0739f180-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2953534,
+        "gp:id":636404,
+        "qs_pg:id":554220,
+        "wd:id":"Q496489",
+        "wk:page":"Bad Buchau"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"0bf7166a9a226de08320e158ec8b9b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063269,
+            "localadmin_id":1377690301,
+            "locality_id":101764271,
+            "macrocounty_id":404227573,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101764271,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871520,
+    "wof:name":"Bad Buchau",
+    "wof:parent_id":1377690301,
+    "wof:placetype":"locality",
+    "wof:population":4336,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125340161,
+        1125383749
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.568082,
+    48.033206,
+    9.648452,
+    48.091933
+],
+  "geometry": {"coordinates":[[[[9.640584,48.082926],[9.633128,48.078894],[9.627702,48.078474],[9.630059,48.068064],[9.636794,48.068334],[9.636973,48.066932],[9.636835,48.064117],[9.637414,48.059375],[9.638834,48.058694],[9.64227,48.057103],[9.645718,48.052186],[9.640233,48.049028],[9.636135,48.046668],[9.635044,48.04604],[9.628862,48.042479],[9.630146,48.041141],[9.62821,48.039166],[9.617794,48.036233],[9.618089,48.033206],[9.613288,48.033392],[9.609192,48.038258],[9.608701,48.037274],[9.599538,48.037703],[9.598286,48.036534],[9.595934,48.036154],[9.592385,48.036942],[9.588952,48.03829],[9.588988,48.037671],[9.590064,48.037023],[9.587648,48.035333],[9.588641,48.034585],[9.587638,48.033964],[9.586823,48.035098],[9.584858,48.035481],[9.582923,48.036564],[9.582785,48.035963],[9.583218,48.034426],[9.581708,48.034056],[9.580354,48.033974],[9.580321,48.033445],[9.578483,48.033267],[9.57827,48.034605],[9.575719,48.034835],[9.575297,48.037321],[9.574166,48.038346],[9.573391,48.039625],[9.571317,48.04225],[9.570289,48.043473],[9.569394,48.044005],[9.56892,48.044288],[9.568716,48.044412],[9.571398,48.047959],[9.578782,48.054575],[9.575776,48.058999],[9.57263,48.058703],[9.568082,48.065892],[9.569454,48.066407],[9.571411,48.067188],[9.574252,48.065792],[9.575153,48.066473],[9.576818,48.067122],[9.577773,48.067272],[9.579461,48.067732],[9.581056,48.06818],[9.580318,48.069696],[9.58045,48.070833],[9.582904,48.073748],[9.585075,48.073987],[9.587632,48.074269],[9.590588,48.074594],[9.590533,48.07828],[9.592328,48.080614],[9.596287,48.079819],[9.604078,48.088828],[9.605986,48.089446],[9.600601,48.083037],[9.620458,48.084502],[9.625351,48.089998],[9.626666,48.090114],[9.631747,48.091867],[9.632882,48.091933],[9.642158,48.091919],[9.642639,48.09124],[9.648452,48.091869],[9.646576,48.08941],[9.643037,48.087683],[9.640584,48.082926]]]],"type":"MultiPolygon"}
+}

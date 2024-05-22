@@ -1,1 +1,238 @@
-{"id": 101906753, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07332005", "eurostat:level_code": "lau", "eurostat:name_local": "Bobenheim am Berg", "eurostat:nuts_2021_id": "07332005", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3C", "eurostat:nuts_2021_level_lau": "07332005", "eurostat:population": 839, "eurostat:population_year": 2020, "geom:area": 0.000765, "geom:area_square_m": 6141646.307257, "geom:bbox": "8.019127,49.461011,8.166854,49.53128", "geom:latitude": 49.508714, "geom:longitude": 8.116613, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 828, "iso:country": "DE", "lbl:latitude": 49.522918, "lbl:longitude": 8.144969, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 49.522918, "mps:longitude": 8.144969, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Bobenheim am Berg"], "name:ceb_x_preferred": ["Bobenheim am Berg"], "name:che_x_preferred": ["\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:deu_x_preferred": ["Bobenheim am Berg"], "name:deu_x_variant": ["Bobenheim"], "name:eng_x_preferred": ["Bobenheim am Berg"], "name:epo_x_preferred": ["Bobenheim am Berg"], "name:eus_x_preferred": ["Bobenheim am Berg"], "name:fas_x_preferred": ["\u0628\u0648\u0628\u0646\u0647\u0627\u06cc\u0645 \u0627\u0645 \u0628\u0631\u06af"], "name:fra_x_preferred": ["Bobenheim am Berg"], "name:hbs_x_preferred": ["Bobenheim am Berg"], "name:hun_x_preferred": ["Bobenheim am Berg"], "name:ita_x_preferred": ["Bobenheim am Berg"], "name:jpn_x_preferred": ["\u30dc\u30fc\u30d9\u30f3\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30d9\u30eb\u30af"], "name:kaz_x_preferred": ["\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:kir_x_preferred": ["\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:kur_x_preferred": ["Bobenheim am Berg"], "name:lld_x_preferred": ["Bobenheim am Berg"], "name:msa_x_preferred": ["Bobenheim am Berg"], "name:nan_x_preferred": ["Bobenheim am Berg"], "name:nld_x_preferred": ["Bobenheim am Berg"], "name:nob_x_preferred": ["Bobenheim am Berg"], "name:pol_x_preferred": ["Bobenheim am Berg"], "name:por_x_preferred": ["Bobenheim am Berg"], "name:ron_x_preferred": ["Bobenheim am Berg"], "name:rus_x_preferred": ["\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:spa_x_preferred": ["Bobenheim am Berg"], "name:srp_x_preferred": ["\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0458\u043c \u0430\u043c \u0411\u0435\u0440\u0433"], "name:swe_x_preferred": ["Bobenheim am Berg"], "name:tat_x_preferred": ["\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:ukr_x_preferred": ["\u0411\u043e\u0431\u0435\u043d\u0433\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"], "name:uzb_x_preferred": ["Bobenheim am Berg"], "name:vie_x_preferred": ["Bobenheim am Berg"], "name:vol_x_preferred": ["Bobenheim am Berg"], "name:war_x_preferred": ["Bobenheim am Berg"], "name:zho_x_preferred": ["\u5c71\u9e93\u535a\u672c\u6d77\u59c6"], "nav:latitude": 49.522918, "nav:longitude": 8.144969, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Bad D\u00fcrkheim", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Bobenheim am Berg", "qs:la_lc": "*DE07033202005", "qs:level": "locality", "qs:loc": "Bobenheim am Berg", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6554890, "qs_pg:gn_pop": 828, "qs_pg:name": "Bobenheim am Berg", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 635651, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 343, "wof:belongsto": [85682491, 102191581, 1377686269, 85633111, 102063485], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07332005", "eurostat:nuts_2021_id": "07332005", "fct:id": "0738a56e-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2947466, "gp:id": 639646, "qs_pg:id": 65479, "wd:id": "Q565224", "wk:page": "Bayelsa State"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "2e809c7fd979c9423f2cc1dd27acf054", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063485, "localadmin_id": 1377686269, "locality_id": 101906753, "region_id": 85682491}], "wof:id": 101906753, "wof:lang": ["ger"], "wof:lastmodified": 1690871672, "wof:name": "Bobenheim am Berg", "wof:parent_id": 1377686269, "wof:placetype": "locality", "wof:population": 839, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125340867], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.019127, 49.461011, 8.166854, 49.53128], "geometry": {"coordinates": [[[[8.166854, 49.529085], [8.166425, 49.526826], [8.163722, 49.526122], [8.164109, 49.524996], [8.154816, 49.521644], [8.155174, 49.520815], [8.149682, 49.520611], [8.144104, 49.518639], [8.140645, 49.517416], [8.139696, 49.516801], [8.126943, 49.508533], [8.12171, 49.506488], [8.11946, 49.505585], [8.117915, 49.50414], [8.113647, 49.503248], [8.109318, 49.49916], [8.106291, 49.498424], [8.100272, 49.496295], [8.100734, 49.495486], [8.093704, 49.490872], [8.093145, 49.49401], [8.093747, 49.495413], [8.089978, 49.496495], [8.088776, 49.495974], [8.088016, 49.493262], [8.084187, 49.494107], [8.085049, 49.49542], [8.086425, 49.49714], [8.088146, 49.498534], [8.090716, 49.500518], [8.092761, 49.502015], [8.094436, 49.502884], [8.096266, 49.50359], [8.097808, 49.504194], [8.09881, 49.50477], [8.09927, 49.505536], [8.099257, 49.506346], [8.099087, 49.506972], [8.102843, 49.507322], [8.1042, 49.508089], [8.108228, 49.509362], [8.11189, 49.509098], [8.119479, 49.510761], [8.125659, 49.516877], [8.131607, 49.521271], [8.1343, 49.522304], [8.135712, 49.524072], [8.139708, 49.527171], [8.14202, 49.528205], [8.144283, 49.528324], [8.148205, 49.530679], [8.150074, 49.530923], [8.152543, 49.53128], [8.155496, 49.531015], [8.159229, 49.531187], [8.166854, 49.529085]]], [[[8.040007, 49.472639], [8.041688, 49.47192], [8.037705, 49.470033], [8.035352, 49.467272], [8.029538, 49.46701], [8.029684, 49.465249], [8.024855, 49.462479], [8.024393, 49.461011], [8.02372, 49.461194], [8.023356, 49.461564], [8.023033, 49.461935], [8.022512, 49.462139], [8.021878, 49.462098], [8.021224, 49.462201], [8.020547, 49.462474], [8.020125, 49.462888], [8.01972, 49.463248], [8.019127, 49.463496], [8.021318, 49.463319], [8.031535, 49.472472], [8.035318, 49.472466], [8.037859, 49.472058], [8.040007, 49.472639]]]], "type": "MultiPolygon"}}
+{
+  "id": 101906753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07332005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bobenheim am Berg",
+    "eurostat:nuts_2021_id":"07332005",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3C",
+    "eurostat:nuts_2021_level_lau":"07332005",
+    "eurostat:population":839,
+    "eurostat:population_year":2020,
+    "geom:area":0.000765,
+    "geom:area_square_m":6141646.307257,
+    "geom:bbox":"8.019127,49.461011,8.166854,49.53128",
+    "geom:latitude":49.508714,
+    "geom:longitude":8.116613,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":828,
+    "iso:country":"DE",
+    "lbl:latitude":49.522918,
+    "lbl:longitude":8.144969,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":49.522918,
+    "mps:longitude":8.144969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:ceb_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:deu_x_variant":[
+        "Bobenheim"
+    ],
+    "name:eng_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:epo_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:eus_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0628\u0646\u0647\u0627\u06cc\u0645 \u0627\u0645 \u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:hbs_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:hun_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:ita_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30fc\u30d9\u30f3\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30d9\u30eb\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:kur_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:lld_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:msa_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:nan_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:nld_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:nob_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:pol_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:por_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:ron_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0458\u043c \u0430\u043c \u0411\u0435\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u043d\u0433\u0430\u0439\u043c-\u0430\u043c-\u0411\u0435\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:vie_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:vol_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:war_x_preferred":[
+        "Bobenheim am Berg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u9e93\u535a\u672c\u6d77\u59c6"
+    ],
+    "nav:latitude":49.522918,
+    "nav:longitude":8.144969,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Bad D\u00fcrkheim",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Bobenheim am Berg",
+    "qs:la_lc":"*DE07033202005",
+    "qs:level":"locality",
+    "qs:loc":"Bobenheim am Berg",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6554890,
+    "qs_pg:gn_pop":828,
+    "qs_pg:name":"Bobenheim am Berg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":635651,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":343,
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686269,
+        85633111,
+        102063485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07332005",
+        "eurostat:nuts_2021_id":"07332005",
+        "fct:id":"0738a56e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2947466,
+        "gp:id":639646,
+        "qs_pg:id":65479,
+        "wd:id":"Q565224",
+        "wk:page":"Bayelsa State"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"2e809c7fd979c9423f2cc1dd27acf054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063485,
+            "localadmin_id":1377686269,
+            "locality_id":101906753,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101906753,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871672,
+    "wof:name":"Bobenheim am Berg",
+    "wof:parent_id":1377686269,
+    "wof:placetype":"locality",
+    "wof:population":839,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125340867
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.019127,
+    49.461011,
+    8.166854,
+    49.53128
+],
+  "geometry": {"coordinates":[[[[8.166854,49.529085],[8.166425,49.526826],[8.163722,49.526122],[8.164109,49.524996],[8.154816,49.521644],[8.155174,49.520815],[8.149682,49.520611],[8.144104,49.518639],[8.140645,49.517416],[8.139696,49.516801],[8.126943,49.508533],[8.12171,49.506488],[8.11946,49.505585],[8.117915,49.50414],[8.113647,49.503248],[8.109318,49.49916],[8.106291,49.498424],[8.100272,49.496295],[8.100734,49.495486],[8.093704,49.490872],[8.093145,49.49401],[8.093747,49.495413],[8.089978,49.496495],[8.088776,49.495974],[8.088016,49.493262],[8.084187,49.494107],[8.085049,49.49542],[8.086425,49.49714],[8.088146,49.498534],[8.090716,49.500518],[8.092761,49.502015],[8.094436,49.502884],[8.096266,49.50359],[8.097808,49.504194],[8.09881,49.50477],[8.09927,49.505536],[8.099257,49.506346],[8.099087,49.506972],[8.102843,49.507322],[8.1042,49.508089],[8.108228,49.509362],[8.11189,49.509098],[8.119479,49.510761],[8.125659,49.516877],[8.131607,49.521271],[8.1343,49.522304],[8.135712,49.524072],[8.139708,49.527171],[8.14202,49.528205],[8.144283,49.528324],[8.148205,49.530679],[8.150074,49.530923],[8.152543,49.53128],[8.155496,49.531015],[8.159229,49.531187],[8.166854,49.529085]]],[[[8.040007,49.472639],[8.041688,49.47192],[8.037705,49.470033],[8.035352,49.467272],[8.029538,49.46701],[8.029684,49.465249],[8.024855,49.462479],[8.024393,49.461011],[8.02372,49.461194],[8.023356,49.461564],[8.023033,49.461935],[8.022512,49.462139],[8.021878,49.462098],[8.021224,49.462201],[8.020547,49.462474],[8.020125,49.462888],[8.01972,49.463248],[8.019127,49.463496],[8.021318,49.463319],[8.031535,49.472472],[8.035318,49.472466],[8.037859,49.472058],[8.040007,49.472639]]]],"type":"MultiPolygon"}
+}

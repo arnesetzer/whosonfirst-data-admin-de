@@ -1,1 +1,362 @@
-{"id": 1125887777, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07232058", "eurostat:level_code": "lau", "eurostat:name_local": "H\u00fcttingen an der Kyll", "eurostat:nuts_2021_id": "07232058", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB2", "eurostat:nuts_2021_level_3": "DEB23", "eurostat:nuts_2021_level_lau": "07232058", "eurostat:population": 337, "eurostat:population_year": 2020, "geom:area": 0.00037, "geom:area_square_m": 2946862.19421, "geom:bbox": "6.568432,49.954443,6.605823,49.978607", "geom:latitude": 49.966133, "geom:longitude": 6.588131, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 325, "iso:country": "DE", "lbl:latitude": 49.9667, "lbl:longitude": 6.58333, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:afr_x_preferred": ["H\u00fcttingen an der Kyll"], "name:arg_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ast_x_preferred": ["H\u00fcttingen an der Kyll"], "name:bar_x_preferred": ["H\u00fcttingen an der Kyll"], "name:bre_x_preferred": ["H\u00fcttingen an der Kyll"], "name:cat_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ceb_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ces_x_preferred": ["H\u00fcttingen an der Kyll"], "name:cos_x_preferred": ["H\u00fcttingen an der Kyll"], "name:cym_x_preferred": ["H\u00fcttingen an der Kyll"], "name:dan_x_preferred": ["H\u00fcttingen an der Kyll"], "name:deu_x_preferred": ["H\u00fcttingen an der Kyll"], "name:eng_x_preferred": ["H\u00fcttingen an der Kyll"], "name:epo_x_preferred": ["H\u00fcttingen an der Kyll"], "name:est_x_preferred": ["H\u00fcttingen an der Kyll"], "name:eus_x_preferred": ["H\u00fcttingen an der Kyll"], "name:fas_x_preferred": ["\u0647\u0648\u062a\u06cc\u0646\u06af\u0646 \u0627\u0646 \u062f\u0631 \u06a9\u06cc\u0644"], "name:fin_x_preferred": ["H\u00fcttingen an der Kyll"], "name:fra_x_preferred": ["H\u00fcttingen an der Kyll"], "name:frp_x_preferred": ["H\u00fcttingen an der Kyll"], "name:fur_x_preferred": ["H\u00fcttingen an der Kyll"], "name:gla_x_preferred": ["H\u00fcttingen an der Kyll"], "name:gle_x_preferred": ["H\u00fcttingen an der Kyll"], "name:glg_x_preferred": ["H\u00fcttingen an der Kyll"], "name:gsw_x_preferred": ["H\u00fcttingen an der Kyll"], "name:hrv_x_preferred": ["H\u00fcttingen an der Kyll"], "name:hun_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ido_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ile_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ina_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ind_x_preferred": ["H\u00fcttingen an der Kyll"], "name:isl_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ita_x_preferred": ["H\u00fcttingen an der Kyll"], "name:jpn_x_preferred": ["\u30d2\u30e5\u30c3\u30c6\u30a3\u30f3\u30b2\u30f3\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30ad\u30eb"], "name:kaz_x_preferred": ["\u0425\u044e\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u041a\u0438\u043b\u043b\u0435"], "name:kir_x_preferred": ["\u0425\u04af\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u041a\u0438\u043b\u043b\u0435"], "name:kon_x_preferred": ["H\u00fcttingen an der Kyll"], "name:kur_x_preferred": ["H\u00fcttingen an der Kyll"], "name:lij_x_preferred": ["H\u00fcttingen an der Kyll"], "name:lim_x_preferred": ["H\u00fcttingen an der Kyll"], "name:lld_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ltz_x_preferred": ["H\u00fcttingen an der Kyll"], "name:min_x_preferred": ["H\u00fcttingen an der Kyll"], "name:mlg_x_preferred": ["H\u00fcttingen an der Kyll"], "name:msa_x_preferred": ["H\u00fcttingen an der Kyll"], "name:nan_x_preferred": ["H\u00fcttingen an der Kyll"], "name:nap_x_preferred": ["H\u00fcttingen an der Kyll"], "name:nds_x_preferred": ["H\u00fcttingen an der Kyll"], "name:nld_x_preferred": ["H\u00fcttingen an der Kyll"], "name:nno_x_preferred": ["H\u00fcttingen an der Kyll"], "name:nob_x_preferred": ["H\u00fcttingen an der Kyll"], "name:nrm_x_preferred": ["H\u00fcttingen an der Kyll"], "name:oci_x_preferred": ["H\u00fcttingen an der Kyll"], "name:pcd_x_preferred": ["H\u00fcttingen an der Kyll"], "name:pms_x_preferred": ["H\u00fcttingen an der Kyll"], "name:pol_x_preferred": ["H\u00fcttingen an der Kyll"], "name:por_x_preferred": ["H\u00fcttingen an der Kyll"], "name:roh_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ron_x_preferred": ["H\u00fcttingen an der Kyll"], "name:rus_x_preferred": ["\u0425\u044e\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u041a\u0438\u043b\u043b\u0435"], "name:scn_x_preferred": ["H\u00fcttingen an der Kyll"], "name:sco_x_preferred": ["H\u00fcttingen an der Kyll"], "name:slk_x_preferred": ["H\u00fcttingen an der Kyll"], "name:slv_x_preferred": ["H\u00fcttingen an der Kyll"], "name:spa_x_preferred": ["H\u00fcttingen an der Kyll"], "name:srd_x_preferred": ["H\u00fcttingen an der Kyll"], "name:srp_x_preferred": ["\u0425\u0438\u0442\u0438\u043d\u0433\u0435\u043d \u0430\u043d \u0434\u0435\u0440 \u041a\u0438\u043b"], "name:swa_x_preferred": ["H\u00fcttingen an der Kyll"], "name:swe_x_preferred": ["H\u00fcttingen an der Kyll"], "name:ukr_x_preferred": ["\u0413\u044e\u0442\u0442\u0456\u043d\u0433\u0435\u043d-\u0430\u043d-\u0434\u0435\u0440-\u041a\u0438\u043b\u044c"], "name:uzb_x_preferred": ["H\u00fcttingen an der Kyll"], "name:vec_x_preferred": ["H\u00fcttingen an der Kyll"], "name:vie_x_preferred": ["H\u00fcttingen an der Kyll"], "name:vls_x_preferred": ["H\u00fcttingen an der Kyll"], "name:vol_x_preferred": ["H\u00fcttingen an der Kyll"], "name:war_x_preferred": ["H\u00fcttingen an der Kyll"], "name:wln_x_preferred": ["H\u00fcttingen an der Kyll"], "name:wol_x_preferred": ["H\u00fcttingen an der Kyll"], "name:zho_x_preferred": ["\u57fa\u5c14\u6cb3\u7554\u8bb8\u5ef7\u6839"], "name:zul_x_preferred": ["H\u00fcttingen an der Kyll"], "nav:latitude": 49.9667, "nav:longitude": 6.58333, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6554445, "qs_pg:gn_pop": 325, "qs_pg:name": "H\u00fcttingen an der Kyll", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos": 1075, "qs_pg:photos_1k": 218, "qs_pg:photos_9k": 5, "qs_pg:photos_9r": 7, "qs_pg:photos_all": 1075, "qs_pg:photos_sr": 11, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 1115960, "qs_pg:qs_pg_placetype": "locality", "qs_pg:qs_pg_placetype_gp": "Town", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 663154, "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "Town", "wof:belongsto": [85682491, 102191581, 1377685961, 85633111, 102063613], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07232058", "eurostat:nuts_2021_id": "07232058", "gn:id": 6554445, "gp:id": 663154, "qs_pg:id": 1115960, "wd:id": "Q567706"}, "wof:country": "DE", "wof:created": 1497295172, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "b917c9b954c7a4b7d44e71d4e6b0ff9d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063613, "localadmin_id": 1377685961, "locality_id": 1125887777, "region_id": 85682491}], "wof:id": 1125887777, "wof:lastmodified": 1690874228, "wof:name": "H\u00fcttingen an der Kyll", "wof:parent_id": 1377685961, "wof:placetype": "locality", "wof:population": 337, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125313109], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.568432, 49.954443, 6.605823, 49.978607], "geometry": {"coordinates": [[[[6.602753, 49.973124], [6.603951, 49.970924], [6.599349, 49.969003], [6.599537, 49.968769], [6.600161, 49.966527], [6.597456, 49.965345], [6.595151, 49.964243], [6.595268, 49.963224], [6.596839, 49.962189], [6.596082, 49.960726], [6.596504, 49.959696], [6.599204, 49.959701], [6.599288, 49.958681], [6.602706, 49.958558], [6.602753, 49.957994], [6.605286, 49.958072], [6.605823, 49.956982], [6.604346, 49.956607], [6.602922, 49.956423], [6.601708, 49.956418], [6.600089, 49.95657], [6.598756, 49.954443], [6.591113, 49.9557], [6.588408, 49.955979], [6.586772, 49.954815], [6.585246, 49.956331], [6.58339, 49.95892], [6.58287, 49.959552], [6.581766, 49.96013], [6.581973, 49.960655], [6.582759, 49.962651], [6.580147, 49.964507], [6.581023, 49.96506], [6.577523, 49.96764], [6.575976, 49.969508], [6.576358, 49.972244], [6.577271, 49.973607], [6.576529, 49.974465], [6.574231, 49.973639], [6.572578, 49.972895], [6.571037, 49.972575], [6.56978, 49.972761], [6.568898, 49.973055], [6.569105, 49.974533], [6.568432, 49.976078], [6.56967, 49.976481], [6.570797, 49.9767], [6.571973, 49.976848], [6.57329, 49.976966], [6.574391, 49.977004], [6.57521, 49.977239], [6.575941, 49.977688], [6.576837, 49.97834], [6.57753, 49.978572], [6.57803, 49.978607], [6.57861, 49.978519], [6.579249, 49.978225], [6.579733, 49.977782], [6.580136, 49.97731], [6.580338, 49.976884], [6.580683, 49.976437], [6.581092, 49.975883], [6.58174, 49.975473], [6.582261, 49.975094], [6.582691, 49.974794], [6.582932, 49.974577], [6.58304, 49.974292], [6.583075, 49.973861], [6.58291, 49.973324], [6.584167, 49.972826], [6.583703, 49.971846], [6.584198, 49.970755], [6.585627, 49.969858], [6.587921, 49.969658], [6.592332, 49.971386], [6.593909, 49.972089], [6.597236, 49.973698], [6.598631, 49.973557], [6.598765, 49.972358], [6.602753, 49.973124]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125887777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07232058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00fcttingen an der Kyll",
+    "eurostat:nuts_2021_id":"07232058",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB2",
+    "eurostat:nuts_2021_level_3":"DEB23",
+    "eurostat:nuts_2021_level_lau":"07232058",
+    "eurostat:population":337,
+    "eurostat:population_year":2020,
+    "geom:area":0.00037,
+    "geom:area_square_m":2946862.19421,
+    "geom:bbox":"6.568432,49.954443,6.605823,49.978607",
+    "geom:latitude":49.966133,
+    "geom:longitude":6.588131,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":325,
+    "iso:country":"DE",
+    "lbl:latitude":49.9667,
+    "lbl:longitude":6.58333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:arg_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ast_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:bar_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:bre_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:cat_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ces_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:cos_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:cym_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:dan_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:deu_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:epo_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:est_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:eus_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u062a\u06cc\u0646\u06af\u0646 \u0627\u0646 \u062f\u0631 \u06a9\u06cc\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:fra_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:frp_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:fur_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:gla_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:gle_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:glg_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:gsw_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:hrv_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ido_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ile_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ina_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ind_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:isl_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30e5\u30c3\u30c6\u30a3\u30f3\u30b2\u30f3\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30ad\u30eb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u044e\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u041a\u0438\u043b\u043b\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u04af\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u041a\u0438\u043b\u043b\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:kur_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:lij_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:lim_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:lld_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ltz_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:min_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:mlg_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:msa_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:nap_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:nds_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:nno_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:nrm_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:oci_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:pcd_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:pms_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:por_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:roh_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ron_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u044e\u0442\u0442\u0438\u043d\u0433\u0435\u043d-\u043d\u0430-\u041a\u0438\u043b\u043b\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:sco_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:slk_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:slv_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:spa_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:srd_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0438\u0442\u0438\u043d\u0433\u0435\u043d \u0430\u043d \u0434\u0435\u0440 \u041a\u0438\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u044e\u0442\u0442\u0456\u043d\u0433\u0435\u043d-\u0430\u043d-\u0434\u0435\u0440-\u041a\u0438\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:vec_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:vie_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:vls_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:vol_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:war_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:wln_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:wol_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5c14\u6cb3\u7554\u8bb8\u5ef7\u6839"
+    ],
+    "name:zul_x_preferred":[
+        "H\u00fcttingen an der Kyll"
+    ],
+    "nav:latitude":49.9667,
+    "nav:longitude":6.58333,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6554445,
+    "qs_pg:gn_pop":325,
+    "qs_pg:name":"H\u00fcttingen an der Kyll",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":1075,
+    "qs_pg:photos_1k":218,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1075,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1115960,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":663154,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377685961,
+        85633111,
+        102063613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07232058",
+        "eurostat:nuts_2021_id":"07232058",
+        "gn:id":6554445,
+        "gp:id":663154,
+        "qs_pg:id":1115960,
+        "wd:id":"Q567706"
+    },
+    "wof:country":"DE",
+    "wof:created":1497295172,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"b917c9b954c7a4b7d44e71d4e6b0ff9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063613,
+            "localadmin_id":1377685961,
+            "locality_id":1125887777,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":1125887777,
+    "wof:lastmodified":1690874228,
+    "wof:name":"H\u00fcttingen an der Kyll",
+    "wof:parent_id":1377685961,
+    "wof:placetype":"locality",
+    "wof:population":337,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125313109
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.568432,
+    49.954443,
+    6.605823,
+    49.978607
+],
+  "geometry": {"coordinates":[[[[6.602753,49.973124],[6.603951,49.970924],[6.599349,49.969003],[6.599537,49.968769],[6.600161,49.966527],[6.597456,49.965345],[6.595151,49.964243],[6.595268,49.963224],[6.596839,49.962189],[6.596082,49.960726],[6.596504,49.959696],[6.599204,49.959701],[6.599288,49.958681],[6.602706,49.958558],[6.602753,49.957994],[6.605286,49.958072],[6.605823,49.956982],[6.604346,49.956607],[6.602922,49.956423],[6.601708,49.956418],[6.600089,49.95657],[6.598756,49.954443],[6.591113,49.9557],[6.588408,49.955979],[6.586772,49.954815],[6.585246,49.956331],[6.58339,49.95892],[6.58287,49.959552],[6.581766,49.96013],[6.581973,49.960655],[6.582759,49.962651],[6.580147,49.964507],[6.581023,49.96506],[6.577523,49.96764],[6.575976,49.969508],[6.576358,49.972244],[6.577271,49.973607],[6.576529,49.974465],[6.574231,49.973639],[6.572578,49.972895],[6.571037,49.972575],[6.56978,49.972761],[6.568898,49.973055],[6.569105,49.974533],[6.568432,49.976078],[6.56967,49.976481],[6.570797,49.9767],[6.571973,49.976848],[6.57329,49.976966],[6.574391,49.977004],[6.57521,49.977239],[6.575941,49.977688],[6.576837,49.97834],[6.57753,49.978572],[6.57803,49.978607],[6.57861,49.978519],[6.579249,49.978225],[6.579733,49.977782],[6.580136,49.97731],[6.580338,49.976884],[6.580683,49.976437],[6.581092,49.975883],[6.58174,49.975473],[6.582261,49.975094],[6.582691,49.974794],[6.582932,49.974577],[6.58304,49.974292],[6.583075,49.973861],[6.58291,49.973324],[6.584167,49.972826],[6.583703,49.971846],[6.584198,49.970755],[6.585627,49.969858],[6.587921,49.969658],[6.592332,49.971386],[6.593909,49.972089],[6.597236,49.973698],[6.598631,49.973557],[6.598765,49.972358],[6.602753,49.973124]]]],"type":"MultiPolygon"}
+}

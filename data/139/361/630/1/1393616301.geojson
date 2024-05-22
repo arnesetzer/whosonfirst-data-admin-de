@@ -1,1 +1,156 @@
-{"id": 1393616301, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "13.32577,48.83797,13.32577,48.83797", "geom:latitude": 48.83797, "geom:longitude": 13.32577, "gn:admin1_code": "2", "gn:admin2_code": "92.0", "gn:admin3_code": "9272.0", "gn:admin4_code": "9272147.0", "gn:asciiname": "Rammelsberg", "gn:country_code": "DE", "gn:dem": 550, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2850651, "gn:latitude": 48.83797, "gn:longitude": 13.32577, "gn:modification_date": "2013-02-19", "gn:name": "Rammelsberg", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "13.32077,48.83297,13.33077,48.84297", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ces_x_preferred": ["Rammelsberg"], "name:dan_x_preferred": ["Rammelsberg"], "name:deu_x_preferred": ["Rammelsberg"], "name:ell_x_preferred": ["\u03a1\u03ac\u03bc\u03b5\u03bb\u03c3\u03bc\u03c0\u03b5\u03c1\u03b3\u03ba"], "name:fas_x_preferred": ["\u0631\u0627\u0645\u0644\u0633\u0628\u0631\u06af"], "name:fin_x_preferred": ["Rammelsberg"], "name:fra_x_preferred": ["Rammelsberg"], "name:heb_x_preferred": ["\u05de\u05db\u05e8\u05d5\u05ea \u05e8\u05de\u05dc\u05e1\u05d1\u05e8\u05d2"], "name:hrv_x_preferred": ["Rammelsberg"], "name:hun_x_preferred": ["Rammelsbergi b\u00e1nya"], "name:hye_x_preferred": ["\u054c\u0561\u0574\u0574\u0565\u056c\u057d\u0562\u0565\u0580\u0563"], "name:jpn_x_preferred": ["\u30e9\u30f3\u30e1\u30eb\u30b9\u30d9\u30eb\u30af\u9271\u5c71"], "name:kat_x_preferred": ["\u10e0\u10d0\u10db\u10d4\u10da\u10e1\u10d1\u10d4\u10e0\u10d2\u10d8\u10e1 \u10db\u10d0\u10e6\u10d0\u10e0\u10dd\u10d4\u10d1\u10d8"], "name:lit_x_preferred": ["Ramelsbergo kasyklos"], "name:mkd_x_preferred": ["\u0420\u0430\u043c\u0435\u043b\u0441\u0431\u0435\u0440\u0433"], "name:nld_x_preferred": ["Rammelsbergmijnen"], "name:nor_x_preferred": ["Rammelsberggruvene"], "name:pol_x_preferred": ["Kopalnia Rammelsberg"], "name:rus_x_preferred": ["\u0420\u0430\u043c\u043c\u0435\u043b\u044c\u0441\u0431\u0435\u0440\u0433"], "name:slk_x_preferred": ["Rammelsberg"], "name:slv_x_preferred": ["Rammelsberg"], "name:swe_x_preferred": ["Rammelsberg"], "name:tur_x_preferred": ["Rammelsberg"], "name:ukr_x_preferred": ["\u0420\u0430\u043c\u043c\u0435\u043b\u044c\u0441\u0431\u0435\u0440\u0433"], "name:zho_x_preferred": ["\u62c9\u9ed8\u5c14\u65af\u8d1d\u683c\u77ff"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377684105, 404227559, 101783081, 102063363, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2850651}, "wof:country": "DE", "wof:geomhash": "b07fef4237125f09eb225a100d38ca98", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063363, "localadmin_id": 1377684105, "locality_id": 101783081, "macrocounty_id": 404227559, "neighbourhood_id": 1393616301, "region_id": 85682571}], "wof:id": 1393616301, "wof:lastmodified": 1566714778, "wof:name": "Rammelsberg", "wof:parent_id": 101783081, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1259987899], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.32577, 48.83797, 13.32577, 48.83797], "geometry": {"coordinates": [13.32577, 48.83797], "type": "Point"}}
+{
+  "id": 1393616301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.32577,48.83797,13.32577,48.83797",
+    "geom:latitude":48.83797,
+    "geom:longitude":13.32577,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"92.0",
+    "gn:admin3_code":"9272.0",
+    "gn:admin4_code":"9272147.0",
+    "gn:asciiname":"Rammelsberg",
+    "gn:country_code":"DE",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2850651,
+    "gn:latitude":48.83797,
+    "gn:longitude":13.32577,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Rammelsberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"13.32077,48.83297,13.33077,48.84297",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ces_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:dan_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:deu_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03bc\u03b5\u03bb\u03c3\u03bc\u03c0\u03b5\u03c1\u03b3\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0645\u0644\u0633\u0628\u0631\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:fra_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05db\u05e8\u05d5\u05ea \u05e8\u05de\u05dc\u05e1\u05d1\u05e8\u05d2"
+    ],
+    "name:hrv_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:hun_x_preferred":[
+        "Rammelsbergi b\u00e1nya"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0574\u0574\u0565\u056c\u057d\u0562\u0565\u0580\u0563"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30e1\u30eb\u30b9\u30d9\u30eb\u30af\u9271\u5c71"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10db\u10d4\u10da\u10e1\u10d1\u10d4\u10e0\u10d2\u10d8\u10e1 \u10db\u10d0\u10e6\u10d0\u10e0\u10dd\u10d4\u10d1\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Ramelsbergo kasyklos"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043c\u0435\u043b\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Rammelsbergmijnen"
+    ],
+    "name:nor_x_preferred":[
+        "Rammelsberggruvene"
+    ],
+    "name:pol_x_preferred":[
+        "Kopalnia Rammelsberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u043c\u0435\u043b\u044c\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:slv_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:swe_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:tur_x_preferred":[
+        "Rammelsberg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043c\u043c\u0435\u043b\u044c\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u9ed8\u5c14\u65af\u8d1d\u683c\u77ff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377684105,
+        404227559,
+        101783081,
+        102063363,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2850651
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"b07fef4237125f09eb225a100d38ca98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063363,
+            "localadmin_id":1377684105,
+            "locality_id":101783081,
+            "macrocounty_id":404227559,
+            "neighbourhood_id":1393616301,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393616301,
+    "wof:lastmodified":1566714778,
+    "wof:name":"Rammelsberg",
+    "wof:parent_id":101783081,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259987899
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.32577,
+    48.83797,
+    13.32577,
+    48.83797
+],
+  "geometry": {"coordinates":[13.32577,48.83797],"type":"Point"}
+}

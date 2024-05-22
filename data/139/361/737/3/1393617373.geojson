@@ -1,1 +1,99 @@
-{"id": 1393617373, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "9.92409,48.03343,9.92409,48.03343", "geom:latitude": 48.03343, "geom:longitude": 9.92409, "gn:admin1_code": "1", "gn:admin2_code": "84.0", "gn:admin3_code": "8426.0", "gn:admin4_code": "8426113.0", "gn:asciiname": "Rottum", "gn:country_code": "DE", "gn:dem": 624, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2843640, "gn:latitude": 48.03343, "gn:longitude": 9.92409, "gn:modification_date": "2013-02-16", "gn:name": "Rottum", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "9.91909,48.02843,9.92909,48.03843", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Rottum"], "name:deu_x_preferred": ["Rottum"], "name:fra_x_preferred": ["Rottum"], "name:fry_x_preferred": ["Rottum"], "name:nld_x_preferred": ["Rottum"], "name:swe_x_preferred": ["Rottum"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377690347, 404227573, 1327043329, 102063269, 85682567], "wof:breaches": [], "wof:concordances": {"gn:id": 2843640}, "wof:country": "DE", "wof:geomhash": "c6a5c1772053cb06ab8203f69b062e4d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063269, "localadmin_id": 1377690347, "locality_id": 1327043329, "macrocounty_id": 404227573, "neighbourhood_id": 1393617373, "region_id": 85682567}], "wof:id": 1393617373, "wof:lastmodified": 1566714572, "wof:name": "Rottum", "wof:parent_id": 1327043329, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1259988901], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.92409, 48.03343, 9.92409, 48.03343], "geometry": {"coordinates": [9.92409, 48.03343], "type": "Point"}}
+{
+  "id": 1393617373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92409,48.03343,9.92409,48.03343",
+    "geom:latitude":48.03343,
+    "geom:longitude":9.92409,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"84.0",
+    "gn:admin3_code":"8426.0",
+    "gn:admin4_code":"8426113.0",
+    "gn:asciiname":"Rottum",
+    "gn:country_code":"DE",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2843640,
+    "gn:latitude":48.03343,
+    "gn:longitude":9.92409,
+    "gn:modification_date":"2013-02-16",
+    "gn:name":"Rottum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"9.91909,48.02843,9.92909,48.03843",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Rottum"
+    ],
+    "name:deu_x_preferred":[
+        "Rottum"
+    ],
+    "name:fra_x_preferred":[
+        "Rottum"
+    ],
+    "name:fry_x_preferred":[
+        "Rottum"
+    ],
+    "name:nld_x_preferred":[
+        "Rottum"
+    ],
+    "name:swe_x_preferred":[
+        "Rottum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377690347,
+        404227573,
+        1327043329,
+        102063269,
+        85682567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2843640
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"c6a5c1772053cb06ab8203f69b062e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063269,
+            "localadmin_id":1377690347,
+            "locality_id":1327043329,
+            "macrocounty_id":404227573,
+            "neighbourhood_id":1393617373,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":1393617373,
+    "wof:lastmodified":1566714572,
+    "wof:name":"Rottum",
+    "wof:parent_id":1327043329,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259988901
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92409,
+    48.03343,
+    9.92409,
+    48.03343
+],
+  "geometry": {"coordinates":[9.92409,48.03343],"type":"Point"}
+}

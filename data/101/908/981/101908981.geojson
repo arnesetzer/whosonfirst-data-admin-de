@@ -1,1 +1,149 @@
-{"id": 101908981, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 6.6e-05, "geom:area_square_m": 508162.584568, "geom:bbox": "11.558023,51.236213,11.579559,51.243479", "geom:latitude": 51.239438, "geom:longitude": 11.567684, "gn:population": 557, "iso:country": "DE", "lbl:latitude": 51.239772, "lbl:longitude": 11.567684, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.239772, "mps:longitude": 11.567684, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"], "name:ceb_x_preferred": ["Altenroda"], "name:che_x_preferred": ["\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"], "name:dan_x_preferred": ["Altenroda"], "name:deu_x_preferred": ["Altenroda"], "name:eng_x_preferred": ["Altenroda"], "name:epo_x_preferred": ["Altenroda"], "name:fas_x_preferred": ["\u0627\u0644\u062a\u0646\u0631\u0648\u062f\u0627"], "name:fra_x_preferred": ["Altenroda"], "name:gle_x_preferred": ["Altenroda"], "name:ita_x_preferred": ["Altenroda"], "name:kaz_x_preferred": ["\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"], "name:kir_x_preferred": ["\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"], "name:nld_x_preferred": ["Altenroda"], "name:ron_x_preferred": ["Altenroda"], "name:rus_x_preferred": ["\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"], "name:tat_x_preferred": ["\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"], "name:uzb_x_preferred": ["Altenroda"], "name:vol_x_preferred": ["Altenroda"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Burgenlandkreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Altenroda", "qs:la_lc": "*DE15008401010", "qs:level": "locality", "qs:loc": "Altenroda", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377688485, 85633111, 102063747], "wof:breaches": [], "wof:concordances": {"gn:id": 2957497, "gp:id": 634561, "qs_pg:id": 344762, "wd:id": "Q437529", "wk:page": "Altenroda"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "09b26f7e6f1835533b88d8c56807b7ba", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063747, "localadmin_id": 1377688485, "locality_id": 101908981, "region_id": 85682519}], "wof:id": 101908981, "wof:lastmodified": 1690871898, "wof:name": "Altenroda", "wof:parent_id": 1377688485, "wof:placetype": "locality", "wof:population": 557, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.558023, 51.236213, 11.579559, 51.243479], "geometry": {"coordinates": [[[11.568228, 51.243441], [11.568167, 51.241644], [11.569598, 51.241624], [11.569537, 51.239827], [11.579559, 51.239692], [11.579528, 51.238793], [11.578096, 51.238812], [11.578065, 51.237914], [11.573771, 51.237972], [11.57374, 51.237073], [11.570877, 51.237112], [11.570846, 51.236213], [11.567983, 51.236252], [11.568044, 51.238049], [11.558023, 51.238184], [11.558114, 51.24088], [11.563841, 51.240803], [11.563872, 51.241701], [11.565303, 51.241682], [11.565364, 51.243479], [11.568228, 51.243441]]], "type": "Polygon"}}
+{
+  "id": 101908981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":508162.584568,
+    "geom:bbox":"11.558023,51.236213,11.579559,51.243479",
+    "geom:latitude":51.239438,
+    "geom:longitude":11.567684,
+    "gn:population":557,
+    "iso:country":"DE",
+    "lbl:latitude":51.239772,
+    "lbl:longitude":11.567684,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.239772,
+    "mps:longitude":11.567684,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Altenroda"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Altenroda"
+    ],
+    "name:deu_x_preferred":[
+        "Altenroda"
+    ],
+    "name:eng_x_preferred":[
+        "Altenroda"
+    ],
+    "name:epo_x_preferred":[
+        "Altenroda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a\u0646\u0631\u0648\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Altenroda"
+    ],
+    "name:gle_x_preferred":[
+        "Altenroda"
+    ],
+    "name:ita_x_preferred":[
+        "Altenroda"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Altenroda"
+    ],
+    "name:ron_x_preferred":[
+        "Altenroda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0435\u043d\u0440\u043e\u0434\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Altenroda"
+    ],
+    "name:vol_x_preferred":[
+        "Altenroda"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Burgenlandkreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Altenroda",
+    "qs:la_lc":"*DE15008401010",
+    "qs:level":"locality",
+    "qs:loc":"Altenroda",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688485,
+        85633111,
+        102063747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2957497,
+        "gp:id":634561,
+        "qs_pg:id":344762,
+        "wd:id":"Q437529",
+        "wk:page":"Altenroda"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"09b26f7e6f1835533b88d8c56807b7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063747,
+            "localadmin_id":1377688485,
+            "locality_id":101908981,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101908981,
+    "wof:lastmodified":1690871898,
+    "wof:name":"Altenroda",
+    "wof:parent_id":1377688485,
+    "wof:placetype":"locality",
+    "wof:population":557,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.558023,
+    51.236213,
+    11.579559,
+    51.243479
+],
+  "geometry": {"coordinates":[[[11.568228,51.243441],[11.568167,51.241644],[11.569598,51.241624],[11.569537,51.239827],[11.579559,51.239692],[11.579528,51.238793],[11.578096,51.238812],[11.578065,51.237914],[11.573771,51.237972],[11.57374,51.237073],[11.570877,51.237112],[11.570846,51.236213],[11.567983,51.236252],[11.568044,51.238049],[11.558023,51.238184],[11.558114,51.24088],[11.563841,51.240803],[11.563872,51.241701],[11.565303,51.241682],[11.565364,51.243479],[11.568228,51.243441]]],"type":"Polygon"}
+}

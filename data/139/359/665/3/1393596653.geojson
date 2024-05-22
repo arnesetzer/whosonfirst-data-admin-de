@@ -1,1 +1,117 @@
-{"id": 1393596653, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "12.15264,47.8918,12.15264,47.8918", "geom:latitude": 47.8918, "geom:longitude": 12.15264, "gn:admin1_code": "2", "gn:admin2_code": "91.0", "gn:admin3_code": "9187.0", "gn:admin4_code": "9187163.0", "gn:asciiname": "Obernburg", "gn:country_code": "DE", "gn:dem": 509, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2859677, "gn:latitude": 47.8918, "gn:longitude": 12.15264, "gn:modification_date": "2013-02-19", "gn:name": "Obernburg", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "12.14764,47.8868,12.15764,47.8968", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:epo_x_preferred": ["Obernburg"], "name:hye_x_preferred": ["\u0544\u0561\u0575\u0576\u056b \u0555\u0562\u0565\u0580\u0576\u0562\u0578\u0582\u0580\u0563"], "name:jpn_x_preferred": ["\u30aa\u30fc\u30d9\u30eb\u30f3\u30d6\u30eb\u30af\u30fb\u30a2\u30e0\u30fb\u30de\u30a4\u30f3"], "name:kaz_x_preferred": ["\u041e\u0431\u0435\u0440\u043d\u0431\u0443\u0440\u0433-\u043d\u0430-\u041c\u0430\u0439\u043d\u0435"], "name:kir_x_preferred": ["\u041e\u0431\u0435\u0440\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u041c\u0430\u0439\u043d"], "name:msa_x_preferred": ["Obernburg"], "name:por_x_preferred": ["Obernburg"], "name:rus_x_preferred": ["\u041e\u0431\u0435\u0440\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u041c\u0430\u0439\u043d"], "name:swe_x_preferred": ["Obernburg"], "name:ukr_x_preferred": ["\u041e\u0431\u0435\u0440\u043d\u0431\u0443\u0440\u0433"], "name:war_x_preferred": ["Obernburg"], "name:zho_x_preferred": ["\u7f8e\u56e0\u6cb3\u7554\u5965\u4f2f\u6069\u5821"], "src:geom": "geonames", "wof:belongsto": [102191581, 85633111, 1377694155, 404227567, 101853735, 102063245, 85682571], "wof:breaches": [], "wof:concordances": {"gn:id": 2859677}, "wof:country": "DE", "wof:geomhash": "79cf036bb44a2a12d735bb3a3416cfe4", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063245, "localadmin_id": 1377694155, "locality_id": 101853735, "macrocounty_id": 404227567, "neighbourhood_id": 1393596653, "region_id": 85682571}], "wof:id": 1393596653, "wof:lastmodified": 1566715081, "wof:name": "Obernburg", "wof:parent_id": 101853735, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1309806157], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.15264, 47.8918, 12.15264, 47.8918], "geometry": {"coordinates": [12.15264, 47.8918], "type": "Point"}}
+{
+  "id": 1393596653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.15264,47.8918,12.15264,47.8918",
+    "geom:latitude":47.8918,
+    "geom:longitude":12.15264,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9187.0",
+    "gn:admin4_code":"9187163.0",
+    "gn:asciiname":"Obernburg",
+    "gn:country_code":"DE",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2859677,
+    "gn:latitude":47.8918,
+    "gn:longitude":12.15264,
+    "gn:modification_date":"2013-02-19",
+    "gn:name":"Obernburg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"12.14764,47.8868,12.15764,47.8968",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:epo_x_preferred":[
+        "Obernburg"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0575\u0576\u056b \u0555\u0562\u0565\u0580\u0576\u0562\u0578\u0582\u0580\u0563"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30d9\u30eb\u30f3\u30d6\u30eb\u30af\u30fb\u30a2\u30e0\u30fb\u30de\u30a4\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0431\u0443\u0440\u0433-\u043d\u0430-\u041c\u0430\u0439\u043d\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u041c\u0430\u0439\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Obernburg"
+    ],
+    "name:por_x_preferred":[
+        "Obernburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u041c\u0430\u0439\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Obernburg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:war_x_preferred":[
+        "Obernburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u56e0\u6cb3\u7554\u5965\u4f2f\u6069\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377694155,
+        404227567,
+        101853735,
+        102063245,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2859677
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"79cf036bb44a2a12d735bb3a3416cfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063245,
+            "localadmin_id":1377694155,
+            "locality_id":101853735,
+            "macrocounty_id":404227567,
+            "neighbourhood_id":1393596653,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1393596653,
+    "wof:lastmodified":1566715081,
+    "wof:name":"Obernburg",
+    "wof:parent_id":101853735,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309806157
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.15264,
+    47.8918,
+    12.15264,
+    47.8918
+],
+  "geometry": {"coordinates":[12.15264,47.8918],"type":"Point"}
+}

@@ -1,1 +1,216 @@
-{"id": 1126018823, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07333075", "eurostat:level_code": "lau", "eurostat:name_local": "Steinbach am Donnersberg", "eurostat:nuts_2021_id": "07333075", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3D", "eurostat:nuts_2021_level_lau": "07333075", "eurostat:population": 733, "eurostat:population_year": 2020, "geom:area": 0.000515, "geom:area_square_m": 4124852.702908, "geom:bbox": "7.929209,49.588339,7.976759,49.60914", "geom:latitude": 49.599789, "geom:longitude": 7.953606, "gn:country": "DE", "gn:fcode": "PPLA4", "gn:population": 828, "iso:country": "DE", "lbl:latitude": 49.6, "lbl:longitude": 7.95, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:cat_x_preferred": ["Steinbach am Donnersberg"], "name:ceb_x_preferred": ["Steinbach am Donnersberg"], "name:che_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445"], "name:deu_x_preferred": ["Steinbach am Donnersberg"], "name:eng_x_preferred": ["Steinbach am Donnersberg"], "name:epo_x_preferred": ["Steinbach am Donnersberg"], "name:eus_x_preferred": ["Steinbach am Donnersberg"], "name:fas_x_preferred": ["\u0634\u062a\u0627\u06cc\u0646\u0628\u0627\u062e \u0627\u0645 \u062f\u0648\u0646\u0631\u0633\u0628\u0631\u06af"], "name:fra_x_preferred": ["Steinbach au Mont-Tonnerre"], "name:hun_x_preferred": ["Steinbach am Donnersberg"], "name:ita_x_preferred": ["Steinbach am Donnersberg"], "name:jpn_x_preferred": ["\u30b7\u30e5\u30bf\u30a4\u30f3\u30d0\u30c3\u30cf\u30fb\u30a2\u30e0\u30fb\u30c9\u30ca\u30fc\u30b9\u30d9\u30eb\u30af"], "name:kur_x_preferred": ["Steinbach am Donnersberg"], "name:lld_x_preferred": ["Steinbach am Donnersberg"], "name:msa_x_preferred": ["Steinbach am Donnersberg"], "name:nan_x_preferred": ["Steinbach am Donnersberg"], "name:nld_x_preferred": ["Steinbach am Donnersberg"], "name:nob_x_preferred": ["Steinbach am Donnersberg"], "name:pol_x_preferred": ["Steinbach am Donnersberg"], "name:por_x_preferred": ["Steinbach am Donnersberg"], "name:ron_x_preferred": ["Steinbach am Donnersberg"], "name:rus_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445"], "name:spa_x_preferred": ["Steinbach am Donnersberg"], "name:srp_x_preferred": ["\u0428\u0442\u0430\u0458\u043d\u0431\u0430\u0445 \u0430\u043c \u0414\u043e\u043d\u0435\u0440\u0441\u0431\u0435\u0440\u0433"], "name:swe_x_preferred": ["Steinbach am Donnersberg"], "name:tat_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445"], "name:ukr_x_preferred": ["\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0414\u043e\u043d\u043d\u0435\u0440\u0441\u0431\u0435\u0440\u0433"], "name:uzb_x_preferred": ["Steinbach am Donnersberg"], "name:vie_x_preferred": ["Steinbach am Donnersberg"], "name:vol_x_preferred": ["Steinbach am Donnersberg"], "name:war_x_preferred": ["Steinbach am Donnersberg"], "name:zho_x_preferred": ["\u591a\u5185\u5c14\u65af\u8d1d\u683c\u5c71\u9e93\u65bd\u6cf0\u56e0\u5df4\u8d6b"], "nav:latitude": 49.6, "nav:longitude": 7.95, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLA4", "qs_pg:gn_id": 2828738, "qs_pg:gn_pop": 828, "qs_pg:name": "Steinbach am Donnersberg", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 2, "qs_pg:photos_all": 27, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 941760, "qs_pg:qs_pg_placetype": "locality", "qs_pg:qs_pg_placetype_gp": "Town", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 696694, "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "Town", "wof:belongsto": [85682491, 102191581, 1377686355, 85633111, 102063511], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07333075", "eurostat:nuts_2021_id": "07333075", "gn:id": 2828738, "gp:id": 696694, "qs_pg:id": 941760, "wd:id": "Q645592"}, "wof:country": "DE", "wof:created": 1497300705, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "1a35dddf6940a2ad257c630decafa297", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063511, "localadmin_id": 1377686355, "locality_id": 1126018823, "region_id": 85682491}], "wof:id": 1126018823, "wof:lastmodified": 1690874315, "wof:name": "Steinbach am Donnersberg", "wof:parent_id": 1377686355, "wof:placetype": "locality", "wof:population": 733, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125343235], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.929209, 49.588339, 7.976759, 49.60914], "geometry": {"coordinates": [[[[7.951217, 49.607157], [7.954642, 49.607099], [7.959122, 49.607506], [7.964798, 49.608353], [7.967043, 49.609106], [7.973854, 49.608925], [7.976759, 49.607963], [7.973781, 49.60246], [7.971046, 49.60257], [7.970293, 49.601896], [7.96954, 49.601204], [7.971506, 49.600699], [7.974033, 49.59873], [7.972602, 49.598554], [7.971185, 49.598387], [7.968477, 49.596436], [7.964648, 49.595261], [7.960046, 49.595086], [7.958539, 49.595034], [7.958827, 49.594051], [7.956598, 49.594559], [7.954947, 49.59435], [7.954011, 49.594239], [7.953449, 49.593354], [7.949331, 49.592685], [7.945083, 49.591319], [7.938278, 49.588339], [7.933856, 49.589742], [7.933584, 49.591172], [7.93207, 49.592816], [7.931628, 49.592779], [7.930675, 49.592739], [7.929209, 49.595019], [7.932214, 49.596321], [7.936871, 49.5974], [7.935413, 49.597693], [7.935503, 49.598212], [7.938193, 49.598024], [7.940021, 49.598525], [7.941052, 49.601949], [7.942588, 49.601984], [7.942745, 49.602963], [7.94291, 49.60399], [7.943524, 49.605705], [7.945449, 49.60661], [7.947313, 49.607123], [7.948535, 49.60914], [7.951217, 49.607157]]]], "type": "MultiPolygon"}}
+{
+  "id": 1126018823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07333075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steinbach am Donnersberg",
+    "eurostat:nuts_2021_id":"07333075",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3D",
+    "eurostat:nuts_2021_level_lau":"07333075",
+    "eurostat:population":733,
+    "eurostat:population_year":2020,
+    "geom:area":0.000515,
+    "geom:area_square_m":4124852.702908,
+    "geom:bbox":"7.929209,49.588339,7.976759,49.60914",
+    "geom:latitude":49.599789,
+    "geom:longitude":7.953606,
+    "gn:country":"DE",
+    "gn:fcode":"PPLA4",
+    "gn:population":828,
+    "iso:country":"DE",
+    "lbl:latitude":49.6,
+    "lbl:longitude":7.95,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:ceb_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445"
+    ],
+    "name:deu_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:eng_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:epo_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:eus_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u062a\u0627\u06cc\u0646\u0628\u0627\u062e \u0627\u0645 \u062f\u0648\u0646\u0631\u0633\u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Steinbach au Mont-Tonnerre"
+    ],
+    "name:hun_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:ita_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30bf\u30a4\u30f3\u30d0\u30c3\u30cf\u30fb\u30a2\u30e0\u30fb\u30c9\u30ca\u30fc\u30b9\u30d9\u30eb\u30af"
+    ],
+    "name:kur_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:lld_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:msa_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:nan_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:nld_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:nob_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:pol_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:por_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:ron_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0430\u0458\u043d\u0431\u0430\u0445 \u0430\u043c \u0414\u043e\u043d\u0435\u0440\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445-\u0430\u043c-\u0414\u043e\u043d\u043d\u0435\u0440\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:vie_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:vol_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:war_x_preferred":[
+        "Steinbach am Donnersberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u5185\u5c14\u65af\u8d1d\u683c\u5c71\u9e93\u65bd\u6cf0\u56e0\u5df4\u8d6b"
+    ],
+    "nav:latitude":49.6,
+    "nav:longitude":7.95,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLA4",
+    "qs_pg:gn_id":2828738,
+    "qs_pg:gn_pop":828,
+    "qs_pg:name":"Steinbach am Donnersberg",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":941760,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":696694,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686355,
+        85633111,
+        102063511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07333075",
+        "eurostat:nuts_2021_id":"07333075",
+        "gn:id":2828738,
+        "gp:id":696694,
+        "qs_pg:id":941760,
+        "wd:id":"Q645592"
+    },
+    "wof:country":"DE",
+    "wof:created":1497300705,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"1a35dddf6940a2ad257c630decafa297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063511,
+            "localadmin_id":1377686355,
+            "locality_id":1126018823,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":1126018823,
+    "wof:lastmodified":1690874315,
+    "wof:name":"Steinbach am Donnersberg",
+    "wof:parent_id":1377686355,
+    "wof:placetype":"locality",
+    "wof:population":733,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125343235
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.929209,
+    49.588339,
+    7.976759,
+    49.60914
+],
+  "geometry": {"coordinates":[[[[7.951217,49.607157],[7.954642,49.607099],[7.959122,49.607506],[7.964798,49.608353],[7.967043,49.609106],[7.973854,49.608925],[7.976759,49.607963],[7.973781,49.60246],[7.971046,49.60257],[7.970293,49.601896],[7.96954,49.601204],[7.971506,49.600699],[7.974033,49.59873],[7.972602,49.598554],[7.971185,49.598387],[7.968477,49.596436],[7.964648,49.595261],[7.960046,49.595086],[7.958539,49.595034],[7.958827,49.594051],[7.956598,49.594559],[7.954947,49.59435],[7.954011,49.594239],[7.953449,49.593354],[7.949331,49.592685],[7.945083,49.591319],[7.938278,49.588339],[7.933856,49.589742],[7.933584,49.591172],[7.93207,49.592816],[7.931628,49.592779],[7.930675,49.592739],[7.929209,49.595019],[7.932214,49.596321],[7.936871,49.5974],[7.935413,49.597693],[7.935503,49.598212],[7.938193,49.598024],[7.940021,49.598525],[7.941052,49.601949],[7.942588,49.601984],[7.942745,49.602963],[7.94291,49.60399],[7.943524,49.605705],[7.945449,49.60661],[7.947313,49.607123],[7.948535,49.60914],[7.951217,49.607157]]]],"type":"MultiPolygon"}
+}

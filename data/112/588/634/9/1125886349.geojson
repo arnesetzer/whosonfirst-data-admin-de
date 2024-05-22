@@ -1,1 +1,210 @@
-{"id": 1125886349, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01059001", "eurostat:level_code": "lau", "eurostat:name_local": "Alt Bennebek", "eurostat:nuts_2021_id": "01059001", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF0C", "eurostat:nuts_2021_level_lau": "01059001", "eurostat:population": 329, "eurostat:population_year": 2020, "geom:area": 0.001951, "geom:area_square_m": 14049145.693911, "geom:bbox": "9.359507,54.362355,9.491116,54.39085", "geom:latitude": 54.376546, "geom:longitude": 9.442325, "gn:country": "DE", "gn:fcode": "PPLA4", "gn:population": 346, "iso:country": "DE", "lbl:latitude": 54.38333, "lbl:longitude": 9.43333, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:cat_x_preferred": ["Alt Bennebek"], "name:ceb_x_preferred": ["Alt Bennebek"], "name:che_x_preferred": ["\u0410\u043b\u044c\u0442-\u0411\u0435\u043d\u043d\u0435\u0431\u0435\u043a"], "name:dan_x_preferred": ["Gammel Benneb\u00e6k"], "name:deu_x_preferred": ["Alt Bennebek"], "name:eng_x_preferred": ["Alt Bennebek"], "name:epo_x_preferred": ["Alt Bennebek"], "name:eus_x_preferred": ["Alt Bennebek"], "name:fas_x_preferred": ["\u0627\u0644\u062a \u0628\u0646\u0628\u06a9"], "name:fra_x_preferred": ["Alt Bennebek"], "name:hun_x_preferred": ["Alt Bennebek"], "name:ita_x_preferred": ["Alt Bennebek"], "name:lld_x_preferred": ["Alt Bennebek"], "name:mkd_x_preferred": ["\u0410\u043b\u0442 \u0411\u0435\u043d\u0435\u0431\u0435\u043a"], "name:msa_x_preferred": ["Alt Bennebek"], "name:nan_x_preferred": ["Alt Bennebek"], "name:nld_x_preferred": ["Alt Bennebek"], "name:nob_x_preferred": ["Alt Bennebek"], "name:pol_x_preferred": ["Alt Bennebek"], "name:por_x_preferred": ["Alt Bennebek"], "name:ron_x_preferred": ["Alt Bennebek"], "name:rus_x_preferred": ["\u0410\u043b\u044c\u0442-\u0411\u0435\u043d\u043d\u0435\u0431\u0435\u043a"], "name:sco_x_preferred": ["Alt Bennebek"], "name:spa_x_preferred": ["Alt Bennebek"], "name:srp_x_preferred": ["\u0410\u043b\u0442 \u0411\u0435\u043d\u0435\u0431\u0435\u043a"], "name:swe_x_preferred": ["Alt Bennebek"], "name:tat_x_preferred": ["\u0410\u043b\u044c\u0442-\u0411\u0435\u043d\u043d\u0435\u0431\u0435\u043a"], "name:tur_x_preferred": ["Alt Bennebek"], "name:ukr_x_preferred": ["\u0410\u043b\u044c\u0442-\u0411\u0435\u043d\u043d\u0435\u0431\u0435\u043a"], "name:uzb_x_preferred": ["Alt Bennebek"], "name:vie_x_preferred": ["Alt Bennebek"], "name:vol_x_preferred": ["Alt Bennebek"], "name:war_x_preferred": ["Alt Bennebek"], "name:zho_x_preferred": ["\u65e7\u8d1d\u5185\u8d1d\u514b"], "nav:latitude": 54.38333, "nav:longitude": 9.43333, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLA4", "qs_pg:gn_id": 2958066, "qs_pg:gn_pop": 346, "qs_pg:name": "Alt Bennebek", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 580006, "qs_pg:qs_pg_placetype": "locality", "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682517, 102191581, 1377684465, 85633111, 102064159], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01059001", "eurostat:nuts_2021_id": "01059001", "gn:id": 2958066, "qs_pg:id": 580006, "wd:id": "Q433069"}, "wof:country": "DE", "wof:created": 1497295100, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "c510d2b26b8cf4e9dcf563864782e4b3", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064159, "localadmin_id": 1377684465, "locality_id": 1125886349, "region_id": 85682517}], "wof:id": 1125886349, "wof:lastmodified": 1690874224, "wof:name": "Alt Bennebek", "wof:parent_id": 1377684465, "wof:placetype": "locality", "wof:population": 329, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125356183], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.359507, 54.362355, 9.491116, 54.39085], "geometry": {"coordinates": [[[[9.485671, 54.383209], [9.491116, 54.375387], [9.489625, 54.363577], [9.488577, 54.363703], [9.486279, 54.363981], [9.481563, 54.363799], [9.478141, 54.364157], [9.478399, 54.362355], [9.478137, 54.362388], [9.477042, 54.362532], [9.474267, 54.362842], [9.472445, 54.363159], [9.470833, 54.363712], [9.468595, 54.364699], [9.466559, 54.364961], [9.464657, 54.364783], [9.463116, 54.364914], [9.46164, 54.365522], [9.457309, 54.365962], [9.454952, 54.366131], [9.452821, 54.366499], [9.451708, 54.366759], [9.450749, 54.366985], [9.44931, 54.367323], [9.44726, 54.36753], [9.445097, 54.367637], [9.443842, 54.367699], [9.439108, 54.368234], [9.433312, 54.368805], [9.432589, 54.368799], [9.430883, 54.368784], [9.428202, 54.368375], [9.426339, 54.367839], [9.425737, 54.367914], [9.422589, 54.368381], [9.421453, 54.368282], [9.418523, 54.368014], [9.416568, 54.368087], [9.415704, 54.368205], [9.414284, 54.3684], [9.412729, 54.369105], [9.411089, 54.369468], [9.410282, 54.369173], [9.409875, 54.368649], [9.406588, 54.368064], [9.404181, 54.368449], [9.401523, 54.368298], [9.401625, 54.37093], [9.40061, 54.372124], [9.398538, 54.371971], [9.396281, 54.37302], [9.381045, 54.371054], [9.380515, 54.372522], [9.377055, 54.372852], [9.37459, 54.371973], [9.375862, 54.370487], [9.372546, 54.369101], [9.366028, 54.368432], [9.363422, 54.368095], [9.361384, 54.367241], [9.359507, 54.367862], [9.364458, 54.370223], [9.376, 54.374026], [9.378527, 54.374417], [9.379967, 54.374636], [9.383526, 54.37561], [9.387118, 54.376881], [9.389625, 54.377887], [9.391003, 54.378487], [9.394278, 54.379737], [9.395207, 54.380095], [9.39707, 54.380632], [9.401768, 54.381589], [9.405655, 54.382368], [9.406632, 54.382045], [9.408663, 54.382628], [9.409618, 54.383211], [9.411472, 54.383487], [9.412369, 54.383908], [9.413745, 54.384243], [9.415836, 54.38489], [9.416477, 54.384473], [9.41715, 54.38403], [9.423387, 54.38622], [9.426799, 54.3888], [9.433139, 54.389976], [9.436955, 54.389963], [9.441773, 54.38986], [9.448497, 54.390464], [9.452827, 54.39085], [9.459905, 54.390828], [9.46717, 54.389424], [9.466607, 54.384688], [9.469982, 54.383162], [9.472526, 54.385464], [9.475509, 54.384877], [9.474479, 54.383567], [9.481807, 54.382028], [9.485671, 54.383209]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125886349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01059001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alt Bennebek",
+    "eurostat:nuts_2021_id":"01059001",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF0C",
+    "eurostat:nuts_2021_level_lau":"01059001",
+    "eurostat:population":329,
+    "eurostat:population_year":2020,
+    "geom:area":0.001951,
+    "geom:area_square_m":14049145.693911,
+    "geom:bbox":"9.359507,54.362355,9.491116,54.39085",
+    "geom:latitude":54.376546,
+    "geom:longitude":9.442325,
+    "gn:country":"DE",
+    "gn:fcode":"PPLA4",
+    "gn:population":346,
+    "iso:country":"DE",
+    "lbl:latitude":54.38333,
+    "lbl:longitude":9.43333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:ceb_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0411\u0435\u043d\u043d\u0435\u0431\u0435\u043a"
+    ],
+    "name:dan_x_preferred":[
+        "Gammel Benneb\u00e6k"
+    ],
+    "name:deu_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:eng_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:epo_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:eus_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a \u0628\u0646\u0628\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:hun_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:ita_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:lld_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0442 \u0411\u0435\u043d\u0435\u0431\u0435\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:nan_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:nld_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:nob_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:pol_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:por_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:ron_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0411\u0435\u043d\u043d\u0435\u0431\u0435\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:spa_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0442 \u0411\u0435\u043d\u0435\u0431\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0411\u0435\u043d\u043d\u0435\u0431\u0435\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0411\u0435\u043d\u043d\u0435\u0431\u0435\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:vie_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:vol_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:war_x_preferred":[
+        "Alt Bennebek"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e7\u8d1d\u5185\u8d1d\u514b"
+    ],
+    "nav:latitude":54.38333,
+    "nav:longitude":9.43333,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLA4",
+    "qs_pg:gn_id":2958066,
+    "qs_pg:gn_pop":346,
+    "qs_pg:name":"Alt Bennebek",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":580006,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377684465,
+        85633111,
+        102064159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01059001",
+        "eurostat:nuts_2021_id":"01059001",
+        "gn:id":2958066,
+        "qs_pg:id":580006,
+        "wd:id":"Q433069"
+    },
+    "wof:country":"DE",
+    "wof:created":1497295100,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"c510d2b26b8cf4e9dcf563864782e4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064159,
+            "localadmin_id":1377684465,
+            "locality_id":1125886349,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":1125886349,
+    "wof:lastmodified":1690874224,
+    "wof:name":"Alt Bennebek",
+    "wof:parent_id":1377684465,
+    "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125356183
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.359507,
+    54.362355,
+    9.491116,
+    54.39085
+],
+  "geometry": {"coordinates":[[[[9.485671,54.383209],[9.491116,54.375387],[9.489625,54.363577],[9.488577,54.363703],[9.486279,54.363981],[9.481563,54.363799],[9.478141,54.364157],[9.478399,54.362355],[9.478137,54.362388],[9.477042,54.362532],[9.474267,54.362842],[9.472445,54.363159],[9.470833,54.363712],[9.468595,54.364699],[9.466559,54.364961],[9.464657,54.364783],[9.463116,54.364914],[9.46164,54.365522],[9.457309,54.365962],[9.454952,54.366131],[9.452821,54.366499],[9.451708,54.366759],[9.450749,54.366985],[9.44931,54.367323],[9.44726,54.36753],[9.445097,54.367637],[9.443842,54.367699],[9.439108,54.368234],[9.433312,54.368805],[9.432589,54.368799],[9.430883,54.368784],[9.428202,54.368375],[9.426339,54.367839],[9.425737,54.367914],[9.422589,54.368381],[9.421453,54.368282],[9.418523,54.368014],[9.416568,54.368087],[9.415704,54.368205],[9.414284,54.3684],[9.412729,54.369105],[9.411089,54.369468],[9.410282,54.369173],[9.409875,54.368649],[9.406588,54.368064],[9.404181,54.368449],[9.401523,54.368298],[9.401625,54.37093],[9.40061,54.372124],[9.398538,54.371971],[9.396281,54.37302],[9.381045,54.371054],[9.380515,54.372522],[9.377055,54.372852],[9.37459,54.371973],[9.375862,54.370487],[9.372546,54.369101],[9.366028,54.368432],[9.363422,54.368095],[9.361384,54.367241],[9.359507,54.367862],[9.364458,54.370223],[9.376,54.374026],[9.378527,54.374417],[9.379967,54.374636],[9.383526,54.37561],[9.387118,54.376881],[9.389625,54.377887],[9.391003,54.378487],[9.394278,54.379737],[9.395207,54.380095],[9.39707,54.380632],[9.401768,54.381589],[9.405655,54.382368],[9.406632,54.382045],[9.408663,54.382628],[9.409618,54.383211],[9.411472,54.383487],[9.412369,54.383908],[9.413745,54.384243],[9.415836,54.38489],[9.416477,54.384473],[9.41715,54.38403],[9.423387,54.38622],[9.426799,54.3888],[9.433139,54.389976],[9.436955,54.389963],[9.441773,54.38986],[9.448497,54.390464],[9.452827,54.39085],[9.459905,54.390828],[9.46717,54.389424],[9.466607,54.384688],[9.469982,54.383162],[9.472526,54.385464],[9.475509,54.384877],[9.474479,54.383567],[9.481807,54.382028],[9.485671,54.383209]]]],"type":"MultiPolygon"}
+}

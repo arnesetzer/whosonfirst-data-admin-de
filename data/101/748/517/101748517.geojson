@@ -1,1 +1,456 @@
-{"id": 101748517, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08136065", "eurostat:level_code": "lau", "eurostat:name_local": "Schw\u00e4bisch Gm\u00fcnd, Stadt", "eurostat:nuts_2021_id": "08136065", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE11", "eurostat:nuts_2021_level_3": "DE11D", "eurostat:nuts_2021_level_lau": "08136065", "eurostat:population": 61137, "eurostat:population_year": 2020, "geom:area": 0.013887, "geom:area_square_m": 113137470.74521, "geom:bbox": "9.714113,48.714652,9.943552,48.844464", "geom:latitude": 48.785185, "geom:longitude": 9.822541, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 60167, "iso:country": "DE", "lbl:latitude": 48.799643, "lbl:longitude": 9.812401, "lbl:max_zoom": 14.0, "lbl:min_zoom": 9.5, "mps:latitude": 48.799643, "mps:longitude": 9.812401, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 8.0, "name:afr_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:als_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ara_x_preferred": ["\u0634\u0641\u0627\u064a\u0628\u064a\u0634 \u063a\u0645\u0648\u0646\u062f"], "name:arg_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ast_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:azb_x_preferred": ["\u0634\u0648\u0628\u06cc\u0634 \u0642\u0645\u0648\u0646\u062f"], "name:bar_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:bel_x_preferred": ["\u0428\u0432\u0435\u0431\u0456\u0448-\u0413\u043c\u044e\u043d\u0434"], "name:bre_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:bul_x_preferred": ["\u0428\u0432\u0435\u0431\u0438\u0448 \u0413\u043c\u044e\u043d\u0434"], "name:cat_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ceb_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ces_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:che_x_preferred": ["\u0428\u0432\u0435\u0431\u0438\u0448-\u0413\u043c\u0443\u044c\u043d\u0434"], "name:cos_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:csb_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:cym_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:dan_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:deu_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ell_x_preferred": ["\u03a3\u03b2\u03ad\u03bc\u03c0\u03b9\u03c2 \u0393\u03ba\u03bc\u03c5\u03bd\u03c4"], "name:eng_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:epo_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:est_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:eus_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:fas_x_preferred": ["\u0634\u0648\u0628\u06cc\u0634 \u06af\u0645\u0648\u0646\u062f"], "name:fas_x_variant": ["\u0634\u0648\u0627\u0628\u06cc\u0634 \u06af\u0645\u0648\u0646\u062f"], "name:fin_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:fra_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:frp_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:fur_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:gla_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:gle_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:glg_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:gsw_x_preferred": ["Gmend"], "name:heb_x_preferred": ["\u05e9\u05d5\u05d5\u05d0\u05d1\u05d9\u05e9 \u05d2\u05de\u05d5\u05e0\u05d3"], "name:hrv_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:hun_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:hye_x_preferred": ["\u0547\u057e\u0565\u0562\u056b\u0577 \u0533\u0575\u0578\u0582\u0574\u0578\u0582\u0576\u0564"], "name:ido_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ile_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ina_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ind_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:isl_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ita_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:jpn_x_preferred": ["\u30b7\u30e5\u30f4\u30a7\u30fc\u30d3\u30c3\u30b7\u30e5\u30fb\u30b0\u30df\u30e5\u30f3\u30c8"], "name:kat_x_preferred": ["\u10e8\u10d5\u10d4\u10d1\u10d8\u10e8-\u10d2\u10db\u10d8\u10e3\u10dc\u10d3\u10d8"], "name:kon_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:kor_x_preferred": ["\uc288\ubc14\ube44\uc288\uadf8\ubb8c\ud2b8"], "name:ksh_x_preferred": ["Schw\u00e4hbesch Jem\u00f6nd"], "name:kur_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:lat_x_preferred": ["Gamundia"], "name:lij_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:lim_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:lit_x_preferred": ["\u0160vabijos Gmiundas"], "name:lld_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:lmo_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ltz_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:mdf_x_preferred": ["\u0428\u0432\u044d\u0431\u0438\u0448-\u0413\u043c\u044e\u043d\u0434"], "name:min_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:mlg_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:msa_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:nap_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:nds_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:nld_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:nno_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:nob_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:nor_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:nrm_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:oci_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:pcd_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:pms_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:pol_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:por_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:roh_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ron_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:rus_x_preferred": ["\u0428\u0432\u0435\u0431\u0438\u0448-\u0413\u043c\u044e\u043d\u0434"], "name:scn_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:sco_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:slk_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:slv_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:spa_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:srd_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:srp_x_preferred": ["\u0428\u0432\u0435\u0431\u0438\u0448 \u0413\u043c\u0438\u043d\u0434"], "name:swa_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:swe_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:szl_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:tat_x_preferred": ["\u0428\u0432\u04d9\u0431\u0438\u0448-\u0413\u043c\u04af\u043d\u0434"], "name:tgk_x_preferred": ["\u0428\u0432\u0435\u0431\u0438\u0448-\u0413\u043c\u04ef\u043d\u0434"], "name:tha_x_preferred": ["\u0e0a\u0e40\u0e27\u0e1a\u0e34\u0e0a\u0e01\u0e21\u0e36\u0e19\u0e14\u0e4c"], "name:tha_x_variant": ["\u0e0a\u0e40\u0e27\u0e1a\u0e34\u0e0a\u0e01\u0e21\u0e36\u0e19\u0e17\u0e4c"], "name:tur_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:ukr_x_preferred": ["\u0428\u0432\u0435\u0431\u0456\u0448-\u0413\u043c\u044e\u043d\u0434"], "name:und_x_variant": ["Gm\u00fcnd"], "name:vec_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:vie_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:vie_x_variant": ["Schwabisch Gmund"], "name:vls_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:vol_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:war_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:wln_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:wol_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "name:zho_x_preferred": ["\u65bd\u74e6\u672c\u683c\u660e\u5fb7"], "name:zul_x_preferred": ["Schw\u00e4bisch Gm\u00fcnd"], "nav:latitude": 48.799643, "nav:longitude": 9.812401, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Ostalbkreis", "qs:a2r": "Stuttgart", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Mutlangen", "qs:la_lc": "*DE08103608044", "qs:level": "locality", "qs:loc": "Schw\u00e4bisch Gm\u00fcnd", "qs:loc_alt": "Schwaebisch Gmuend", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "urban core", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558031, "qs_pg:gn_pop": 60167, "qs_pg:name": "Gemeinde Schw\u00e4bisch Gm\u00fcnd", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 122, "qs_pg:photos_1k": 25, "qs_pg:photos_9k": 11, "qs_pg:photos_9r": 10, "qs_pg:photos_all": 2505, "qs_pg:photos_sr": 3, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1081340, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12624232, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 113.75, "wd:latitude": 48.8, "wd:longitude": 9.8, "wd:population": 54587, "wd:wordcount": 1447, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377688097, 404227549, 102063369], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08136065", "eurostat:nuts_2021_id": "08136065", "gn:id": 2835482, "gp:id": 693471, "qs_pg:id": 456074, "wd:id": "Q4037", "wk:page": "Schw\u00e4bisch Gm\u00fcnd"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "0da4ebd7ab973ca7b2ec37ad9a5758ea", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063369, "localadmin_id": 1377688097, "locality_id": 101748517, "macrocounty_id": 404227549, "region_id": 85682567}], "wof:id": 101748517, "wof:lastmodified": 1690872650, "wof:name": "Schw\u00e4bisch Gm\u00fcnd", "wof:parent_id": 1377688097, "wof:placetype": "locality", "wof:population": 61137, "wof:population_rank": 8, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125280895, 1125284849], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.714113, 48.714652, 9.943552, 48.844464], "geometry": {"coordinates": [[[[9.844934, 48.842097], [9.847293, 48.837848], [9.849033, 48.837165], [9.851349, 48.838159], [9.853128, 48.836551], [9.8567, 48.8364], [9.858347, 48.834431], [9.85739, 48.831584], [9.860221, 48.829729], [9.861454, 48.832345], [9.862595, 48.82637], [9.864953, 48.824126], [9.8676, 48.823818], [9.870897, 48.819511], [9.878652, 48.820148], [9.883758, 48.817695], [9.886612, 48.818573], [9.885722, 48.820061], [9.888094, 48.820937], [9.891257, 48.820235], [9.891754, 48.820832], [9.892289, 48.821264], [9.892937, 48.821291], [9.893621, 48.82139], [9.89405, 48.821654], [9.894907, 48.820532], [9.895765, 48.818863], [9.896784, 48.816243], [9.894806, 48.815947], [9.893463, 48.818512], [9.890642, 48.817579], [9.891841, 48.815418], [9.895423, 48.815329], [9.892245, 48.813292], [9.892104, 48.812044], [9.890783, 48.810735], [9.892051, 48.81058], [9.893425, 48.807395], [9.898718, 48.805546], [9.898763, 48.80407], [9.894607, 48.803247], [9.893865, 48.802676], [9.900101, 48.799328], [9.90112, 48.790664], [9.905811, 48.786651], [9.906398, 48.784271], [9.908097, 48.784397], [9.909468, 48.781382], [9.911842, 48.781944], [9.912447, 48.780319], [9.910379, 48.779202], [9.902986, 48.777265], [9.907725, 48.769187], [9.912808, 48.766264], [9.916764, 48.766492], [9.923113, 48.763359], [9.925734, 48.763778], [9.927793, 48.765686], [9.935063, 48.764023], [9.941537, 48.764191], [9.943552, 48.758032], [9.936683, 48.758096], [9.931093, 48.756835], [9.918732, 48.758912], [9.914111, 48.760803], [9.907939, 48.760528], [9.907765, 48.759151], [9.91221, 48.756072], [9.910503, 48.753275], [9.909502, 48.753953], [9.908173, 48.753604], [9.90518, 48.751421], [9.904064, 48.750381], [9.904419, 48.749213], [9.904621, 48.747101], [9.904247, 48.746532], [9.903598, 48.746295], [9.901952, 48.746349], [9.898668, 48.745756], [9.897043, 48.745181], [9.892946, 48.744439], [9.890406, 48.744209], [9.887077, 48.745063], [9.888837, 48.745648], [9.889969, 48.746482], [9.890529, 48.747393], [9.892293, 48.748806], [9.892595, 48.749635], [9.891538, 48.75043], [9.889281, 48.75147], [9.887644, 48.751838], [9.88445, 48.751677], [9.882553, 48.751154], [9.882536, 48.746099], [9.882969, 48.745184], [9.882783, 48.742638], [9.88254, 48.741441], [9.883643, 48.740251], [9.882883, 48.739104], [9.882845, 48.737764], [9.884313, 48.737853], [9.885746, 48.737376], [9.887078, 48.738498], [9.887348, 48.740811], [9.888904, 48.740388], [9.888963, 48.738877], [9.889048, 48.73537], [9.891243, 48.732693], [9.892498, 48.732413], [9.892919, 48.733485], [9.896639, 48.732786], [9.897344, 48.731872], [9.8952, 48.730458], [9.893265, 48.729737], [9.892765, 48.728394], [9.893681, 48.727967], [9.895964, 48.72807], [9.896194, 48.727037], [9.895588, 48.725469], [9.896137, 48.725067], [9.897064, 48.724892], [9.898458, 48.72534], [9.899844, 48.725393], [9.902923, 48.727073], [9.903519, 48.728308], [9.905219, 48.730512], [9.906518, 48.729835], [9.906587, 48.729764], [9.907741, 48.725435], [9.90677, 48.723667], [9.904878, 48.719466], [9.902895, 48.716002], [9.901171, 48.716991], [9.899972, 48.718298], [9.898258, 48.717371], [9.897114, 48.718651], [9.896224, 48.718071], [9.893716, 48.718633], [9.89412, 48.720038], [9.892569, 48.7202], [9.891144, 48.720022], [9.89042, 48.719244], [9.887266, 48.719281], [9.888459, 48.717372], [9.889683, 48.716236], [9.888172, 48.716426], [9.887263, 48.716286], [9.886033, 48.714652], [9.883674, 48.715286], [9.879979, 48.716246], [9.88038, 48.717813], [9.878528, 48.721319], [9.877331, 48.720314], [9.877526, 48.718885], [9.875147, 48.718926], [9.872917, 48.717924], [9.87184, 48.71825], [9.872155, 48.719537], [9.869533, 48.721149], [9.868564, 48.72162], [9.867892, 48.722183], [9.866769, 48.722219], [9.865516, 48.722369], [9.864627, 48.722839], [9.863463, 48.72376], [9.861899, 48.724885], [9.860216, 48.725738], [9.857887, 48.726103], [9.854698, 48.725706], [9.852587, 48.724939], [9.850066, 48.726435], [9.850526, 48.727124], [9.850981, 48.728055], [9.852509, 48.730811], [9.851052, 48.733069], [9.851953, 48.734477], [9.852482, 48.735661], [9.853242, 48.737038], [9.854371, 48.737794], [9.856293, 48.737649], [9.857448, 48.739073], [9.859288, 48.738703], [9.862461, 48.740863], [9.861221, 48.742188], [9.859848, 48.74232], [9.860335, 48.744118], [9.859884, 48.745818], [9.858325, 48.7475], [9.857006, 48.74879], [9.852545, 48.750868], [9.850693, 48.751746], [9.850545, 48.752689], [9.853777, 48.752033], [9.855935, 48.752514], [9.85813, 48.753003], [9.85824, 48.753957], [9.856295, 48.754649], [9.854252, 48.75458], [9.852976, 48.755258], [9.852423, 48.75359], [9.850944, 48.754371], [9.850362, 48.755206], [9.851873, 48.76732], [9.855352, 48.769678], [9.854279, 48.770554], [9.84492, 48.768376], [9.841383, 48.76939], [9.834321, 48.774438], [9.828221, 48.777305], [9.827511, 48.776558], [9.820955, 48.779926], [9.820152, 48.779586], [9.817778, 48.782927], [9.821512, 48.783579], [9.821219, 48.785016], [9.814711, 48.786163], [9.814126, 48.786187], [9.812001, 48.786273], [9.811536, 48.785523], [9.811424, 48.78474], [9.811383, 48.783804], [9.811574, 48.782834], [9.811624, 48.782133], [9.816114, 48.780272], [9.812134, 48.778836], [9.812348, 48.778118], [9.812661, 48.777148], [9.813138, 48.776171], [9.813679, 48.775419], [9.814287, 48.774739], [9.811518, 48.771367], [9.811114, 48.769152], [9.80919, 48.768646], [9.810532, 48.765156], [9.807564, 48.763411], [9.80469, 48.761711], [9.80637, 48.760309], [9.802614, 48.759467], [9.797407, 48.755532], [9.802481, 48.756427], [9.804173, 48.75507], [9.806431, 48.75504], [9.802627, 48.750996], [9.806447, 48.749176], [9.804913, 48.748051], [9.805741, 48.74722], [9.81232, 48.746416], [9.809001, 48.745523], [9.809148, 48.743788], [9.803916, 48.742604], [9.802222, 48.739874], [9.799684, 48.739162], [9.799945, 48.738521], [9.799879, 48.73814], [9.799563, 48.737567], [9.799391, 48.737018], [9.799278, 48.736109], [9.79945, 48.735425], [9.79946, 48.734735], [9.799108, 48.734233], [9.79879, 48.733826], [9.798762, 48.733302], [9.798265, 48.7328], [9.797515, 48.732414], [9.796836, 48.732124], [9.796409, 48.731836], [9.796198, 48.731502], [9.796346, 48.731169], [9.796422, 48.730884], [9.796248, 48.730503], [9.795891, 48.730358], [9.79575, 48.730095], [9.795756, 48.729714], [9.795763, 48.729238], [9.795516, 48.72888], [9.794766, 48.728542], [9.794231, 48.728229], [9.793124, 48.727675], [9.792513, 48.729449], [9.793274, 48.729746], [9.793794, 48.731058], [9.791972, 48.731773], [9.794163, 48.733459], [9.790964, 48.739366], [9.788571, 48.741203], [9.78759, 48.740423], [9.789404, 48.737269], [9.787453, 48.738624], [9.785347, 48.740391], [9.784506, 48.737481], [9.782106, 48.737987], [9.781401, 48.739637], [9.78047, 48.740081], [9.779902, 48.741696], [9.780793, 48.743095], [9.781289, 48.745392], [9.777693, 48.746718], [9.775752, 48.747344], [9.772752, 48.747954], [9.770915, 48.747977], [9.770637, 48.747517], [9.771721, 48.746868], [9.773984, 48.746487], [9.774975, 48.745684], [9.774255, 48.744744], [9.771082, 48.744102], [9.769996, 48.744905], [9.769461, 48.746115], [9.769366, 48.746061], [9.766932, 48.746072], [9.763641, 48.74605], [9.76208, 48.747712], [9.762935, 48.748698], [9.762959, 48.749823], [9.763499, 48.75095], [9.764156, 48.752484], [9.764272, 48.752925], [9.763774, 48.753488], [9.762234, 48.753685], [9.760573, 48.753791], [9.756312, 48.753169], [9.752784, 48.751697], [9.750746, 48.754256], [9.749688, 48.754896], [9.749062, 48.755827], [9.750518, 48.756691], [9.748894, 48.758749], [9.749908, 48.76006], [9.751991, 48.760802], [9.752105, 48.762269], [9.750328, 48.765459], [9.747015, 48.768566], [9.747418, 48.769747], [9.743818, 48.772888], [9.741668, 48.77291], [9.742879, 48.773772], [9.743235, 48.774548], [9.741836, 48.774377], [9.74041, 48.774205], [9.737562, 48.776218], [9.734354, 48.773363], [9.733347, 48.76993], [9.733207, 48.768499], [9.730545, 48.76902], [9.729575, 48.768447], [9.727182, 48.769186], [9.722601, 48.770629], [9.719769, 48.770735], [9.716248, 48.772293], [9.714113, 48.772215], [9.714452, 48.773081], [9.714889, 48.773839], [9.71546, 48.774742], [9.715747, 48.775491], [9.715871, 48.776256], [9.715981, 48.777021], [9.721974, 48.780922], [9.723802, 48.787446], [9.728513, 48.78908], [9.728824, 48.789941], [9.729021, 48.790486], [9.726481, 48.791872], [9.72917, 48.793104], [9.726652, 48.793959], [9.725369, 48.795048], [9.722854, 48.796487], [9.72932, 48.799077], [9.731241, 48.801591], [9.730968, 48.80247], [9.726007, 48.802796], [9.724246, 48.804825], [9.723282, 48.804656], [9.722742, 48.805219], [9.722318, 48.806178], [9.722025, 48.806653], [9.721651, 48.806992], [9.720779, 48.807921], [9.720519, 48.808846], [9.720369, 48.809672], [9.720437, 48.810536], [9.720724, 48.81133], [9.721203, 48.812062], [9.721735, 48.81283], [9.72223, 48.8134], [9.72256, 48.814023], [9.722645, 48.814671], [9.722636, 48.815228], [9.722969, 48.815716], [9.723769, 48.81592], [9.724708, 48.815953], [9.725702, 48.815951], [9.726712, 48.81585], [9.727488, 48.815883], [9.728288, 48.816059], [9.728679, 48.816314], [9.729216, 48.816794], [9.73004, 48.817205], [9.730746, 48.817344], [9.731032, 48.817391], [9.731602, 48.817494], [9.732101, 48.81783], [9.732406, 48.818318], [9.732863, 48.818717], [9.733498, 48.819063], [9.734258, 48.819203], [9.735198, 48.81921], [9.736317, 48.81902], [9.737245, 48.818945], [9.738237, 48.81906], [9.739254, 48.819381], [9.740142, 48.820035], [9.741195, 48.820663], [9.741995, 48.820857], [9.74299, 48.82081], [9.743874, 48.820906], [9.744769, 48.821137], [9.745707, 48.821251], [9.746768, 48.821366], [9.747921, 48.821689], [9.748773, 48.822063], [9.749869, 48.822547], [9.750681, 48.822868], [9.751401, 48.823007], [9.752339, 48.823104], [9.752838, 48.823413], [9.753534, 48.824236], [9.754011, 48.825093], [9.754682, 48.825736], [9.75479, 48.827599], [9.75498, 48.827672], [9.755359, 48.827801], [9.756763, 48.827765], [9.757873, 48.829067], [9.758682, 48.828749], [9.76179, 48.827708], [9.763166, 48.827655], [9.763615, 48.827712], [9.764118, 48.827769], [9.76492, 48.8279], [9.765775, 48.828095], [9.766957, 48.828309], [9.768505, 48.828643], [9.769633, 48.82883], [9.770789, 48.828955], [9.772013, 48.829053], [9.773265, 48.829178], [9.774082, 48.82921], [9.774831, 48.829224], [9.775567, 48.829193], [9.776303, 48.829108], [9.77704, 48.829068], [9.777721, 48.829081], [9.778334, 48.82904], [9.778881, 48.8289], [9.779485, 48.828589], [9.780157, 48.828287], [9.780773, 48.828102], [9.781619, 48.827964], [9.782358, 48.827735], [9.78054, 48.823604], [9.782654, 48.823449], [9.784153, 48.82334], [9.786479, 48.820483], [9.787052, 48.819779], [9.785918, 48.819124], [9.78768, 48.817935], [9.788861, 48.817137], [9.790756, 48.81795], [9.791067, 48.816279], [9.792749, 48.817621], [9.79368, 48.817499], [9.798071, 48.816926], [9.800292, 48.814746], [9.801759, 48.813306], [9.805667, 48.815238], [9.806867, 48.813788], [9.808023, 48.812392], [9.811931, 48.814287], [9.810709, 48.815952], [9.811841, 48.816832], [9.807597, 48.820295], [9.808772, 48.823837], [9.811255, 48.823537], [9.807833, 48.825702], [9.808189, 48.827458], [9.806586, 48.829058], [9.809549, 48.83047], [9.809089, 48.832203], [9.807878, 48.832088], [9.807597, 48.83267], [9.808889, 48.832858], [9.808441, 48.834645], [9.807891, 48.834021], [9.807309, 48.834701], [9.806849, 48.836398], [9.803594, 48.836351], [9.80407, 48.839223], [9.807484, 48.839649], [9.80528, 48.843251], [9.806276, 48.843149], [9.807125, 48.842875], [9.807757, 48.84252], [9.80839, 48.842029], [9.808942, 48.841592], [9.809656, 48.841209], [9.810548, 48.840747], [9.811506, 48.840447], [9.812516, 48.840283], [9.813525, 48.840235], [9.814613, 48.840386], [9.816081, 48.840646], [9.817046, 48.840823], [9.818663, 48.841157], [9.818459, 48.8421], [9.817173, 48.843441], [9.819128, 48.842985], [9.82251, 48.843753], [9.82371, 48.843697], [9.82716, 48.844464], [9.827746, 48.843469], [9.824784, 48.84284], [9.825876, 48.84174], [9.827862, 48.842022], [9.828097, 48.840755], [9.831558, 48.84074], [9.832442, 48.838884], [9.833464, 48.840887], [9.839049, 48.840992], [9.841131, 48.839196], [9.840772, 48.841551], [9.844934, 48.842097]]], [[[9.778565, 48.728251], [9.773817, 48.728508], [9.775312, 48.725793], [9.773452, 48.725673], [9.765936, 48.728303], [9.766871, 48.72938], [9.76794, 48.73061], [9.777659, 48.733461], [9.780991, 48.728734], [9.778565, 48.728251]]]], "type": "MultiPolygon"}}
+{
+  "id": 101748517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08136065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schw\u00e4bisch Gm\u00fcnd, Stadt",
+    "eurostat:nuts_2021_id":"08136065",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE11",
+    "eurostat:nuts_2021_level_3":"DE11D",
+    "eurostat:nuts_2021_level_lau":"08136065",
+    "eurostat:population":61137,
+    "eurostat:population_year":2020,
+    "geom:area":0.013887,
+    "geom:area_square_m":113137470.74521,
+    "geom:bbox":"9.714113,48.714652,9.943552,48.844464",
+    "geom:latitude":48.785185,
+    "geom:longitude":9.822541,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":60167,
+    "iso:country":"DE",
+    "lbl:latitude":48.799643,
+    "lbl:longitude":9.812401,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
+    "mps:latitude":48.799643,
+    "mps:longitude":9.812401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":8.0,
+    "name:afr_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:als_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ara_x_preferred":[
+        "\u0634\u0641\u0627\u064a\u0628\u064a\u0634 \u063a\u0645\u0648\u0646\u062f"
+    ],
+    "name:arg_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ast_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0628\u06cc\u0634 \u0642\u0645\u0648\u0646\u062f"
+    ],
+    "name:bar_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0432\u0435\u0431\u0456\u0448-\u0413\u043c\u044e\u043d\u0434"
+    ],
+    "name:bre_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0432\u0435\u0431\u0438\u0448 \u0413\u043c\u044e\u043d\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ceb_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ces_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0432\u0435\u0431\u0438\u0448-\u0413\u043c\u0443\u044c\u043d\u0434"
+    ],
+    "name:cos_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:csb_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:cym_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:dan_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:deu_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b2\u03ad\u03bc\u03c0\u03b9\u03c2 \u0393\u03ba\u03bc\u03c5\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:epo_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:est_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:eus_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0628\u06cc\u0634 \u06af\u0645\u0648\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0648\u0627\u0628\u06cc\u0634 \u06af\u0645\u0648\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:fra_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:frp_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:fur_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:gla_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:gle_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:glg_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:gsw_x_preferred":[
+        "Gmend"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05d5\u05d0\u05d1\u05d9\u05e9 \u05d2\u05de\u05d5\u05e0\u05d3"
+    ],
+    "name:hrv_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:hun_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u057e\u0565\u0562\u056b\u0577 \u0533\u0575\u0578\u0582\u0574\u0578\u0582\u0576\u0564"
+    ],
+    "name:ido_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ile_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ina_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ind_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:isl_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ita_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30f4\u30a7\u30fc\u30d3\u30c3\u30b7\u30e5\u30fb\u30b0\u30df\u30e5\u30f3\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d5\u10d4\u10d1\u10d8\u10e8-\u10d2\u10db\u10d8\u10e3\u10dc\u10d3\u10d8"
+    ],
+    "name:kon_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ubc14\ube44\uc288\uadf8\ubb8c\ud2b8"
+    ],
+    "name:ksh_x_preferred":[
+        "Schw\u00e4hbesch Jem\u00f6nd"
+    ],
+    "name:kur_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:lat_x_preferred":[
+        "Gamundia"
+    ],
+    "name:lij_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:lim_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160vabijos Gmiundas"
+    ],
+    "name:lld_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:lmo_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ltz_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0428\u0432\u044d\u0431\u0438\u0448-\u0413\u043c\u044e\u043d\u0434"
+    ],
+    "name:min_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:mlg_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:msa_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:nap_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:nds_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:nld_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:nno_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:nob_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:nor_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:nrm_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:oci_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:pcd_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:pms_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:pol_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:por_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:roh_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ron_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0432\u0435\u0431\u0438\u0448-\u0413\u043c\u044e\u043d\u0434"
+    ],
+    "name:scn_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:sco_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:slk_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:slv_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:spa_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:srd_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0432\u0435\u0431\u0438\u0448 \u0413\u043c\u0438\u043d\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:swe_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:szl_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0432\u04d9\u0431\u0438\u0448-\u0413\u043c\u04af\u043d\u0434"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0428\u0432\u0435\u0431\u0438\u0448-\u0413\u043c\u04ef\u043d\u0434"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e40\u0e27\u0e1a\u0e34\u0e0a\u0e01\u0e21\u0e36\u0e19\u0e14\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0a\u0e40\u0e27\u0e1a\u0e34\u0e0a\u0e01\u0e21\u0e36\u0e19\u0e17\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0432\u0435\u0431\u0456\u0448-\u0413\u043c\u044e\u043d\u0434"
+    ],
+    "name:und_x_variant":[
+        "Gm\u00fcnd"
+    ],
+    "name:vec_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:vie_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:vie_x_variant":[
+        "Schwabisch Gmund"
+    ],
+    "name:vls_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:vol_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:war_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:wln_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:wol_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u74e6\u672c\u683c\u660e\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Schw\u00e4bisch Gm\u00fcnd"
+    ],
+    "nav:latitude":48.799643,
+    "nav:longitude":9.812401,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Ostalbkreis",
+    "qs:a2r":"Stuttgart",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Mutlangen",
+    "qs:la_lc":"*DE08103608044",
+    "qs:level":"locality",
+    "qs:loc":"Schw\u00e4bisch Gm\u00fcnd",
+    "qs:loc_alt":"Schwaebisch Gmuend",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"urban core",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558031,
+    "qs_pg:gn_pop":60167,
+    "qs_pg:name":"Gemeinde Schw\u00e4bisch Gm\u00fcnd",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":122,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2505,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1081340,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12624232,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":113.75,
+    "wd:latitude":48.8,
+    "wd:longitude":9.8,
+    "wd:population":54587,
+    "wd:wordcount":1447,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377688097,
+        404227549,
+        102063369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08136065",
+        "eurostat:nuts_2021_id":"08136065",
+        "gn:id":2835482,
+        "gp:id":693471,
+        "qs_pg:id":456074,
+        "wd:id":"Q4037",
+        "wk:page":"Schw\u00e4bisch Gm\u00fcnd"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"0da4ebd7ab973ca7b2ec37ad9a5758ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063369,
+            "localadmin_id":1377688097,
+            "locality_id":101748517,
+            "macrocounty_id":404227549,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101748517,
+    "wof:lastmodified":1690872650,
+    "wof:name":"Schw\u00e4bisch Gm\u00fcnd",
+    "wof:parent_id":1377688097,
+    "wof:placetype":"locality",
+    "wof:population":61137,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125280895,
+        1125284849
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.714113,
+    48.714652,
+    9.943552,
+    48.844464
+],
+  "geometry": {"coordinates":[[[[9.844934,48.842097],[9.847293,48.837848],[9.849033,48.837165],[9.851349,48.838159],[9.853128,48.836551],[9.8567,48.8364],[9.858347,48.834431],[9.85739,48.831584],[9.860221,48.829729],[9.861454,48.832345],[9.862595,48.82637],[9.864953,48.824126],[9.8676,48.823818],[9.870897,48.819511],[9.878652,48.820148],[9.883758,48.817695],[9.886612,48.818573],[9.885722,48.820061],[9.888094,48.820937],[9.891257,48.820235],[9.891754,48.820832],[9.892289,48.821264],[9.892937,48.821291],[9.893621,48.82139],[9.89405,48.821654],[9.894907,48.820532],[9.895765,48.818863],[9.896784,48.816243],[9.894806,48.815947],[9.893463,48.818512],[9.890642,48.817579],[9.891841,48.815418],[9.895423,48.815329],[9.892245,48.813292],[9.892104,48.812044],[9.890783,48.810735],[9.892051,48.81058],[9.893425,48.807395],[9.898718,48.805546],[9.898763,48.80407],[9.894607,48.803247],[9.893865,48.802676],[9.900101,48.799328],[9.90112,48.790664],[9.905811,48.786651],[9.906398,48.784271],[9.908097,48.784397],[9.909468,48.781382],[9.911842,48.781944],[9.912447,48.780319],[9.910379,48.779202],[9.902986,48.777265],[9.907725,48.769187],[9.912808,48.766264],[9.916764,48.766492],[9.923113,48.763359],[9.925734,48.763778],[9.927793,48.765686],[9.935063,48.764023],[9.941537,48.764191],[9.943552,48.758032],[9.936683,48.758096],[9.931093,48.756835],[9.918732,48.758912],[9.914111,48.760803],[9.907939,48.760528],[9.907765,48.759151],[9.91221,48.756072],[9.910503,48.753275],[9.909502,48.753953],[9.908173,48.753604],[9.90518,48.751421],[9.904064,48.750381],[9.904419,48.749213],[9.904621,48.747101],[9.904247,48.746532],[9.903598,48.746295],[9.901952,48.746349],[9.898668,48.745756],[9.897043,48.745181],[9.892946,48.744439],[9.890406,48.744209],[9.887077,48.745063],[9.888837,48.745648],[9.889969,48.746482],[9.890529,48.747393],[9.892293,48.748806],[9.892595,48.749635],[9.891538,48.75043],[9.889281,48.75147],[9.887644,48.751838],[9.88445,48.751677],[9.882553,48.751154],[9.882536,48.746099],[9.882969,48.745184],[9.882783,48.742638],[9.88254,48.741441],[9.883643,48.740251],[9.882883,48.739104],[9.882845,48.737764],[9.884313,48.737853],[9.885746,48.737376],[9.887078,48.738498],[9.887348,48.740811],[9.888904,48.740388],[9.888963,48.738877],[9.889048,48.73537],[9.891243,48.732693],[9.892498,48.732413],[9.892919,48.733485],[9.896639,48.732786],[9.897344,48.731872],[9.8952,48.730458],[9.893265,48.729737],[9.892765,48.728394],[9.893681,48.727967],[9.895964,48.72807],[9.896194,48.727037],[9.895588,48.725469],[9.896137,48.725067],[9.897064,48.724892],[9.898458,48.72534],[9.899844,48.725393],[9.902923,48.727073],[9.903519,48.728308],[9.905219,48.730512],[9.906518,48.729835],[9.906587,48.729764],[9.907741,48.725435],[9.90677,48.723667],[9.904878,48.719466],[9.902895,48.716002],[9.901171,48.716991],[9.899972,48.718298],[9.898258,48.717371],[9.897114,48.718651],[9.896224,48.718071],[9.893716,48.718633],[9.89412,48.720038],[9.892569,48.7202],[9.891144,48.720022],[9.89042,48.719244],[9.887266,48.719281],[9.888459,48.717372],[9.889683,48.716236],[9.888172,48.716426],[9.887263,48.716286],[9.886033,48.714652],[9.883674,48.715286],[9.879979,48.716246],[9.88038,48.717813],[9.878528,48.721319],[9.877331,48.720314],[9.877526,48.718885],[9.875147,48.718926],[9.872917,48.717924],[9.87184,48.71825],[9.872155,48.719537],[9.869533,48.721149],[9.868564,48.72162],[9.867892,48.722183],[9.866769,48.722219],[9.865516,48.722369],[9.864627,48.722839],[9.863463,48.72376],[9.861899,48.724885],[9.860216,48.725738],[9.857887,48.726103],[9.854698,48.725706],[9.852587,48.724939],[9.850066,48.726435],[9.850526,48.727124],[9.850981,48.728055],[9.852509,48.730811],[9.851052,48.733069],[9.851953,48.734477],[9.852482,48.735661],[9.853242,48.737038],[9.854371,48.737794],[9.856293,48.737649],[9.857448,48.739073],[9.859288,48.738703],[9.862461,48.740863],[9.861221,48.742188],[9.859848,48.74232],[9.860335,48.744118],[9.859884,48.745818],[9.858325,48.7475],[9.857006,48.74879],[9.852545,48.750868],[9.850693,48.751746],[9.850545,48.752689],[9.853777,48.752033],[9.855935,48.752514],[9.85813,48.753003],[9.85824,48.753957],[9.856295,48.754649],[9.854252,48.75458],[9.852976,48.755258],[9.852423,48.75359],[9.850944,48.754371],[9.850362,48.755206],[9.851873,48.76732],[9.855352,48.769678],[9.854279,48.770554],[9.84492,48.768376],[9.841383,48.76939],[9.834321,48.774438],[9.828221,48.777305],[9.827511,48.776558],[9.820955,48.779926],[9.820152,48.779586],[9.817778,48.782927],[9.821512,48.783579],[9.821219,48.785016],[9.814711,48.786163],[9.814126,48.786187],[9.812001,48.786273],[9.811536,48.785523],[9.811424,48.78474],[9.811383,48.783804],[9.811574,48.782834],[9.811624,48.782133],[9.816114,48.780272],[9.812134,48.778836],[9.812348,48.778118],[9.812661,48.777148],[9.813138,48.776171],[9.813679,48.775419],[9.814287,48.774739],[9.811518,48.771367],[9.811114,48.769152],[9.80919,48.768646],[9.810532,48.765156],[9.807564,48.763411],[9.80469,48.761711],[9.80637,48.760309],[9.802614,48.759467],[9.797407,48.755532],[9.802481,48.756427],[9.804173,48.75507],[9.806431,48.75504],[9.802627,48.750996],[9.806447,48.749176],[9.804913,48.748051],[9.805741,48.74722],[9.81232,48.746416],[9.809001,48.745523],[9.809148,48.743788],[9.803916,48.742604],[9.802222,48.739874],[9.799684,48.739162],[9.799945,48.738521],[9.799879,48.73814],[9.799563,48.737567],[9.799391,48.737018],[9.799278,48.736109],[9.79945,48.735425],[9.79946,48.734735],[9.799108,48.734233],[9.79879,48.733826],[9.798762,48.733302],[9.798265,48.7328],[9.797515,48.732414],[9.796836,48.732124],[9.796409,48.731836],[9.796198,48.731502],[9.796346,48.731169],[9.796422,48.730884],[9.796248,48.730503],[9.795891,48.730358],[9.79575,48.730095],[9.795756,48.729714],[9.795763,48.729238],[9.795516,48.72888],[9.794766,48.728542],[9.794231,48.728229],[9.793124,48.727675],[9.792513,48.729449],[9.793274,48.729746],[9.793794,48.731058],[9.791972,48.731773],[9.794163,48.733459],[9.790964,48.739366],[9.788571,48.741203],[9.78759,48.740423],[9.789404,48.737269],[9.787453,48.738624],[9.785347,48.740391],[9.784506,48.737481],[9.782106,48.737987],[9.781401,48.739637],[9.78047,48.740081],[9.779902,48.741696],[9.780793,48.743095],[9.781289,48.745392],[9.777693,48.746718],[9.775752,48.747344],[9.772752,48.747954],[9.770915,48.747977],[9.770637,48.747517],[9.771721,48.746868],[9.773984,48.746487],[9.774975,48.745684],[9.774255,48.744744],[9.771082,48.744102],[9.769996,48.744905],[9.769461,48.746115],[9.769366,48.746061],[9.766932,48.746072],[9.763641,48.74605],[9.76208,48.747712],[9.762935,48.748698],[9.762959,48.749823],[9.763499,48.75095],[9.764156,48.752484],[9.764272,48.752925],[9.763774,48.753488],[9.762234,48.753685],[9.760573,48.753791],[9.756312,48.753169],[9.752784,48.751697],[9.750746,48.754256],[9.749688,48.754896],[9.749062,48.755827],[9.750518,48.756691],[9.748894,48.758749],[9.749908,48.76006],[9.751991,48.760802],[9.752105,48.762269],[9.750328,48.765459],[9.747015,48.768566],[9.747418,48.769747],[9.743818,48.772888],[9.741668,48.77291],[9.742879,48.773772],[9.743235,48.774548],[9.741836,48.774377],[9.74041,48.774205],[9.737562,48.776218],[9.734354,48.773363],[9.733347,48.76993],[9.733207,48.768499],[9.730545,48.76902],[9.729575,48.768447],[9.727182,48.769186],[9.722601,48.770629],[9.719769,48.770735],[9.716248,48.772293],[9.714113,48.772215],[9.714452,48.773081],[9.714889,48.773839],[9.71546,48.774742],[9.715747,48.775491],[9.715871,48.776256],[9.715981,48.777021],[9.721974,48.780922],[9.723802,48.787446],[9.728513,48.78908],[9.728824,48.789941],[9.729021,48.790486],[9.726481,48.791872],[9.72917,48.793104],[9.726652,48.793959],[9.725369,48.795048],[9.722854,48.796487],[9.72932,48.799077],[9.731241,48.801591],[9.730968,48.80247],[9.726007,48.802796],[9.724246,48.804825],[9.723282,48.804656],[9.722742,48.805219],[9.722318,48.806178],[9.722025,48.806653],[9.721651,48.806992],[9.720779,48.807921],[9.720519,48.808846],[9.720369,48.809672],[9.720437,48.810536],[9.720724,48.81133],[9.721203,48.812062],[9.721735,48.81283],[9.72223,48.8134],[9.72256,48.814023],[9.722645,48.814671],[9.722636,48.815228],[9.722969,48.815716],[9.723769,48.81592],[9.724708,48.815953],[9.725702,48.815951],[9.726712,48.81585],[9.727488,48.815883],[9.728288,48.816059],[9.728679,48.816314],[9.729216,48.816794],[9.73004,48.817205],[9.730746,48.817344],[9.731032,48.817391],[9.731602,48.817494],[9.732101,48.81783],[9.732406,48.818318],[9.732863,48.818717],[9.733498,48.819063],[9.734258,48.819203],[9.735198,48.81921],[9.736317,48.81902],[9.737245,48.818945],[9.738237,48.81906],[9.739254,48.819381],[9.740142,48.820035],[9.741195,48.820663],[9.741995,48.820857],[9.74299,48.82081],[9.743874,48.820906],[9.744769,48.821137],[9.745707,48.821251],[9.746768,48.821366],[9.747921,48.821689],[9.748773,48.822063],[9.749869,48.822547],[9.750681,48.822868],[9.751401,48.823007],[9.752339,48.823104],[9.752838,48.823413],[9.753534,48.824236],[9.754011,48.825093],[9.754682,48.825736],[9.75479,48.827599],[9.75498,48.827672],[9.755359,48.827801],[9.756763,48.827765],[9.757873,48.829067],[9.758682,48.828749],[9.76179,48.827708],[9.763166,48.827655],[9.763615,48.827712],[9.764118,48.827769],[9.76492,48.8279],[9.765775,48.828095],[9.766957,48.828309],[9.768505,48.828643],[9.769633,48.82883],[9.770789,48.828955],[9.772013,48.829053],[9.773265,48.829178],[9.774082,48.82921],[9.774831,48.829224],[9.775567,48.829193],[9.776303,48.829108],[9.77704,48.829068],[9.777721,48.829081],[9.778334,48.82904],[9.778881,48.8289],[9.779485,48.828589],[9.780157,48.828287],[9.780773,48.828102],[9.781619,48.827964],[9.782358,48.827735],[9.78054,48.823604],[9.782654,48.823449],[9.784153,48.82334],[9.786479,48.820483],[9.787052,48.819779],[9.785918,48.819124],[9.78768,48.817935],[9.788861,48.817137],[9.790756,48.81795],[9.791067,48.816279],[9.792749,48.817621],[9.79368,48.817499],[9.798071,48.816926],[9.800292,48.814746],[9.801759,48.813306],[9.805667,48.815238],[9.806867,48.813788],[9.808023,48.812392],[9.811931,48.814287],[9.810709,48.815952],[9.811841,48.816832],[9.807597,48.820295],[9.808772,48.823837],[9.811255,48.823537],[9.807833,48.825702],[9.808189,48.827458],[9.806586,48.829058],[9.809549,48.83047],[9.809089,48.832203],[9.807878,48.832088],[9.807597,48.83267],[9.808889,48.832858],[9.808441,48.834645],[9.807891,48.834021],[9.807309,48.834701],[9.806849,48.836398],[9.803594,48.836351],[9.80407,48.839223],[9.807484,48.839649],[9.80528,48.843251],[9.806276,48.843149],[9.807125,48.842875],[9.807757,48.84252],[9.80839,48.842029],[9.808942,48.841592],[9.809656,48.841209],[9.810548,48.840747],[9.811506,48.840447],[9.812516,48.840283],[9.813525,48.840235],[9.814613,48.840386],[9.816081,48.840646],[9.817046,48.840823],[9.818663,48.841157],[9.818459,48.8421],[9.817173,48.843441],[9.819128,48.842985],[9.82251,48.843753],[9.82371,48.843697],[9.82716,48.844464],[9.827746,48.843469],[9.824784,48.84284],[9.825876,48.84174],[9.827862,48.842022],[9.828097,48.840755],[9.831558,48.84074],[9.832442,48.838884],[9.833464,48.840887],[9.839049,48.840992],[9.841131,48.839196],[9.840772,48.841551],[9.844934,48.842097]]],[[[9.778565,48.728251],[9.773817,48.728508],[9.775312,48.725793],[9.773452,48.725673],[9.765936,48.728303],[9.766871,48.72938],[9.76794,48.73061],[9.777659,48.733461],[9.780991,48.728734],[9.778565,48.728251]]]],"type":"MultiPolygon"}
+}

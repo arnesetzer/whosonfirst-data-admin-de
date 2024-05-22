@@ -1,1 +1,90 @@
-{"id": 102550027, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "11.4644,50.1361,11.4644,50.1361", "geom:latitude": 50.1361, "geom:longitude": 11.4644, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 13.0, "name:deu_x_preferred": ["Flugplatz Kulmbach"], "name:eng_x_preferred": ["Kulmbach Airport"], "name:eng_x_variant": ["EDQK", "Kulmbach airfield"], "name:msa_x_preferred": ["Lapangan Terbang Kulmbach"], "oa:elevation_ft": "1660", "oa:type": "small_airport", "src:geom": "wikidata", "src:geom_alt": [], "woe:hierarchy": {"country_id": 23424829, "county_id": 12596862, "localadmin_id": 12635350, "planet_id": 1, "state_id": 2345482}, "wof:belongsto": [102191581, 404227583, 1377688435, 85633111, 101826017, 102063599, 85682571], "wof:breaches": [], "wof:concordances": {"gp:id": 56051951, "icao:code": "EDQK", "oa:id": "28627", "wd:id": "Q1415157"}, "wof:country": "DE", "wof:geomhash": "b37f76c291e3ce4a3071b9469316de09", "wof:hierarchy": [{"campus_id": 102550027, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063599, "localadmin_id": 1377688435, "locality_id": 101826017, "macrocounty_id": 404227583, "neighbourhood_id": -1, "region_id": 85682571}], "wof:id": 102550027, "wof:lastmodified": 1690870967, "wof:name": "Flugplatz Kulmbach", "wof:parent_id": 101826017, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [11.4644, 50.1361, 11.4644, 50.1361], "geometry": {"coordinates": [11.4644, 50.1361], "type": "Point"}}
+{
+  "id": 102550027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4644,50.1361,11.4644,50.1361",
+    "geom:latitude":50.1361,
+    "geom:longitude":11.4644,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flugplatz Kulmbach"
+    ],
+    "name:eng_x_preferred":[
+        "Kulmbach Airport"
+    ],
+    "name:eng_x_variant":[
+        "EDQK",
+        "Kulmbach airfield"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Kulmbach"
+    ],
+    "oa:elevation_ft":"1660",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596862,
+        "localadmin_id":12635350,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        102191581,
+        404227583,
+        1377688435,
+        85633111,
+        101826017,
+        102063599,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051951,
+        "icao:code":"EDQK",
+        "oa:id":"28627",
+        "wd:id":"Q1415157"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"b37f76c291e3ce4a3071b9469316de09",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550027,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063599,
+            "localadmin_id":1377688435,
+            "locality_id":101826017,
+            "macrocounty_id":404227583,
+            "neighbourhood_id":-1,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102550027,
+    "wof:lastmodified":1690870967,
+    "wof:name":"Flugplatz Kulmbach",
+    "wof:parent_id":101826017,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.4644,
+    50.1361,
+    11.4644,
+    50.1361
+],
+  "geometry": {"coordinates":[11.4644,50.1361],"type":"Point"}
+}

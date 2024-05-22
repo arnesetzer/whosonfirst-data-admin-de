@@ -1,1 +1,142 @@
-{"id": 101909809, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 6.6e-05, "geom:area_square_m": 498081.513679, "geom:bbox": "12.231574,52.269149,12.24187,52.280066", "geom:latitude": 52.274558, "geom:longitude": 12.236552, "gn:population": 362, "iso:country": "DE", "lbl:latitude": 52.274351, "lbl:longitude": 12.236045, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.274351, "mps:longitude": 12.236045, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u041f\u0430\u043f\u043b\u0438\u0446"], "name:ceb_x_preferred": ["Paplitz"], "name:che_x_preferred": ["\u041f\u0430\u043f\u043b\u0438\u0446"], "name:deu_x_preferred": ["Paplitz"], "name:eng_x_preferred": ["Paplitz"], "name:epo_x_preferred": ["Paplitz"], "name:fas_x_preferred": ["\u067e\u0627\u067e\u0644\u06cc\u062a\u0633"], "name:fra_x_preferred": ["Paplitz"], "name:gle_x_preferred": ["Paplitz"], "name:kaz_x_preferred": ["\u041f\u0430\u043f\u043b\u0438\u0446"], "name:kir_x_preferred": ["\u041f\u0430\u043f\u043b\u0438\u0446"], "name:nld_x_preferred": ["Paplitz"], "name:ron_x_preferred": ["Paplitz"], "name:rus_x_preferred": ["\u041f\u0430\u043f\u043b\u0438\u0446"], "name:tat_x_preferred": ["\u041f\u0430\u043f\u043b\u0438\u0446"], "name:uzb_x_preferred": ["Paplitz"], "name:vol_x_preferred": ["Paplitz"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Jerichower Land", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Paplitz", "qs:la_lc": "*DE15008603155", "qs:level": "locality", "qs:loc": "Paplitz", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wof:belongsto": [85682519, 102191581, 1377688675, 85633111, 102063939], "wof:breaches": [], "wof:concordances": {"gn:id": 2855480, "gp:id": 684210, "qs_pg:id": 172945, "wd:id": "Q698698", "wk:page": "Paplitz (Genthin)"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "68662c22f2580133ba945ee1c713f5bc", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063939, "localadmin_id": 1377688675, "locality_id": 101909809, "region_id": 85682519}], "wof:id": 101909809, "wof:lastmodified": 1690871433, "wof:name": "Paplitz", "wof:parent_id": 1377688675, "wof:placetype": "locality", "wof:population": 362, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.231574, 52.269149, 12.24187, 52.280066], "geometry": {"coordinates": [[[12.239212, 52.279057], [12.238986, 52.274566], [12.240451, 52.274539], [12.240406, 52.27364], [12.24187, 52.273613], [12.241734, 52.270918], [12.24027, 52.270946], [12.24018, 52.269149], [12.238715, 52.269177], [12.238806, 52.270973], [12.234413, 52.271056], [12.234368, 52.270158], [12.232903, 52.270185], [12.233038, 52.27288], [12.231574, 52.272908], [12.231664, 52.274704], [12.233129, 52.274677], [12.233399, 52.280066], [12.236328, 52.280011], [12.236283, 52.279112], [12.239212, 52.279057]]], "type": "Polygon"}}
+{
+  "id": 101909809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":498081.513679,
+    "geom:bbox":"12.231574,52.269149,12.24187,52.280066",
+    "geom:latitude":52.274558,
+    "geom:longitude":12.236552,
+    "gn:population":362,
+    "iso:country":"DE",
+    "lbl:latitude":52.274351,
+    "lbl:longitude":12.236045,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.274351,
+    "mps:longitude":12.236045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u041f\u0430\u043f\u043b\u0438\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Paplitz"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u043f\u043b\u0438\u0446"
+    ],
+    "name:deu_x_preferred":[
+        "Paplitz"
+    ],
+    "name:eng_x_preferred":[
+        "Paplitz"
+    ],
+    "name:epo_x_preferred":[
+        "Paplitz"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u067e\u0644\u06cc\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Paplitz"
+    ],
+    "name:gle_x_preferred":[
+        "Paplitz"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u043f\u043b\u0438\u0446"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0430\u043f\u043b\u0438\u0446"
+    ],
+    "name:nld_x_preferred":[
+        "Paplitz"
+    ],
+    "name:ron_x_preferred":[
+        "Paplitz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043f\u043b\u0438\u0446"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u043f\u043b\u0438\u0446"
+    ],
+    "name:uzb_x_preferred":[
+        "Paplitz"
+    ],
+    "name:vol_x_preferred":[
+        "Paplitz"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Jerichower Land",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Paplitz",
+    "qs:la_lc":"*DE15008603155",
+    "qs:level":"locality",
+    "qs:loc":"Paplitz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688675,
+        85633111,
+        102063939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2855480,
+        "gp:id":684210,
+        "qs_pg:id":172945,
+        "wd:id":"Q698698",
+        "wk:page":"Paplitz (Genthin)"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"68662c22f2580133ba945ee1c713f5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063939,
+            "localadmin_id":1377688675,
+            "locality_id":101909809,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909809,
+    "wof:lastmodified":1690871433,
+    "wof:name":"Paplitz",
+    "wof:parent_id":1377688675,
+    "wof:placetype":"locality",
+    "wof:population":362,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.231574,
+    52.269149,
+    12.24187,
+    52.280066
+],
+  "geometry": {"coordinates":[[[12.239212,52.279057],[12.238986,52.274566],[12.240451,52.274539],[12.240406,52.27364],[12.24187,52.273613],[12.241734,52.270918],[12.24027,52.270946],[12.24018,52.269149],[12.238715,52.269177],[12.238806,52.270973],[12.234413,52.271056],[12.234368,52.270158],[12.232903,52.270185],[12.233038,52.27288],[12.231574,52.272908],[12.231664,52.274704],[12.233129,52.274677],[12.233399,52.280066],[12.236328,52.280011],[12.236283,52.279112],[12.239212,52.279057]]],"type":"Polygon"}
+}

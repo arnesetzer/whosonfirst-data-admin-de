@@ -1,1 +1,369 @@
-{"id": 101908537, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_13074031", "eurostat:level_code": "lau", "eurostat:name_local": "Hohen Viecheln", "eurostat:nuts_2021_id": "13074031", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE8", "eurostat:nuts_2021_level_2": "DE80", "eurostat:nuts_2021_level_3": "DE80M", "eurostat:nuts_2021_level_lau": "13074031", "eurostat:population": 638, "eurostat:population_year": 2020, "geom:area": 0.00253, "geom:area_square_m": 18481204.886175, "geom:bbox": "11.46707,53.751424,11.54756,53.840553", "geom:latitude": 53.791994, "geom:longitude": 11.514322, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 656, "iso:country": "DE", "lbl:latitude": 53.784381, "lbl:longitude": 11.510503, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 53.784381, "mps:longitude": 11.510503, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Hohen Viecheln"], "name:arg_x_preferred": ["Hohen Viecheln"], "name:ast_x_preferred": ["Hohen Viecheln"], "name:bar_x_preferred": ["Hohen Viecheln"], "name:bre_x_preferred": ["Hohen Viecheln"], "name:cat_x_preferred": ["Hohen Viecheln"], "name:ceb_x_preferred": ["Hohen Viecheln"], "name:ces_x_preferred": ["Hohen Viecheln"], "name:che_x_preferred": ["\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"], "name:cos_x_preferred": ["Hohen Viecheln"], "name:cym_x_preferred": ["Hohen Viecheln"], "name:dan_x_preferred": ["Hohen Viecheln"], "name:deu_x_preferred": ["Hohen Viecheln"], "name:eng_x_preferred": ["Hohen Viecheln"], "name:epo_x_preferred": ["Hohen Viecheln"], "name:est_x_preferred": ["Hohen Viecheln"], "name:eus_x_preferred": ["Hohen Viecheln"], "name:fas_x_preferred": ["\u0647\u0648\u0647\u0646 \u0641\u06cc\u0634\u0644\u0646"], "name:fin_x_preferred": ["Hohen Viecheln"], "name:fra_x_preferred": ["Hohen Viecheln"], "name:frp_x_preferred": ["Hohen Viecheln"], "name:fur_x_preferred": ["Hohen Viecheln"], "name:gla_x_preferred": ["Hohen Viecheln"], "name:gle_x_preferred": ["Hohen Viecheln"], "name:glg_x_preferred": ["Hohen Viecheln"], "name:gsw_x_preferred": ["Hohen Viecheln"], "name:hbs_x_preferred": ["Hohen Viecheln"], "name:hrv_x_preferred": ["Hohen Viecheln"], "name:hun_x_preferred": ["Hohen Viecheln"], "name:ido_x_preferred": ["Hohen Viecheln"], "name:ile_x_preferred": ["Hohen Viecheln"], "name:ina_x_preferred": ["Hohen Viecheln"], "name:ind_x_preferred": ["Hohen Viecheln"], "name:isl_x_preferred": ["Hohen Viecheln"], "name:ita_x_preferred": ["Hohen Viecheln"], "name:kaz_x_preferred": ["\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"], "name:kir_x_preferred": ["\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"], "name:kon_x_preferred": ["Hohen Viecheln"], "name:kur_x_preferred": ["Hohen Viecheln"], "name:lij_x_preferred": ["Hohen Viecheln"], "name:lim_x_preferred": ["Hohen Viecheln"], "name:ltz_x_preferred": ["Hohen Viecheln"], "name:min_x_preferred": ["Hohen Viecheln"], "name:mkd_x_preferred": ["\u0425\u043e\u0435\u043d \u0424\u0438\u0445\u0435\u043b\u043d"], "name:mlg_x_preferred": ["Hohen Viecheln"], "name:msa_x_preferred": ["Hohen Viecheln"], "name:nap_x_preferred": ["Hohen Viecheln"], "name:nds_x_preferred": ["Hohen Viecheln"], "name:nld_x_preferred": ["Hohen Viecheln"], "name:nno_x_preferred": ["Hohen Viecheln"], "name:nob_x_preferred": ["Hohen Viecheln"], "name:nrm_x_preferred": ["Hohen Viecheln"], "name:oci_x_preferred": ["Hohen Viecheln"], "name:pcd_x_preferred": ["Hohen Viecheln"], "name:pms_x_preferred": ["Hohen Viecheln"], "name:pol_x_preferred": ["Hohen Viecheln"], "name:por_x_preferred": ["Hohen Viecheln"], "name:roh_x_preferred": ["Hohen Viecheln"], "name:ron_x_preferred": ["Hohen Viecheln"], "name:rus_x_preferred": ["\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"], "name:scn_x_preferred": ["Hohen Viecheln"], "name:sco_x_preferred": ["Hohen Viecheln"], "name:slk_x_preferred": ["Hohen Viecheln"], "name:slv_x_preferred": ["Hohen Viecheln"], "name:spa_x_preferred": ["Hohen Viecheln"], "name:srd_x_preferred": ["Hohen Viecheln"], "name:srp_x_preferred": ["\u0425\u043e\u0435\u043d \u0424\u0438\u0445\u0435\u043b\u043d"], "name:swa_x_preferred": ["Hohen Viecheln"], "name:swe_x_preferred": ["Hohen Viecheln"], "name:tat_x_preferred": ["\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"], "name:ukr_x_preferred": ["\u0413\u043e\u0435\u043d-\u0424\u0456\u0445\u0435\u043b\u044c\u043d"], "name:uzb_x_preferred": ["Hohen Viecheln"], "name:vec_x_preferred": ["Hohen Viecheln"], "name:vie_x_preferred": ["Hohen Viecheln"], "name:vls_x_preferred": ["Hohen Viecheln"], "name:vol_x_preferred": ["Hohen Viecheln"], "name:war_x_preferred": ["Hohen Viecheln"], "name:wln_x_preferred": ["Hohen Viecheln"], "name:wol_x_preferred": ["Hohen Viecheln"], "name:zho_x_preferred": ["\u970d\u4ea8\u83f2\u6b47\u5c14\u6069"], "name:zul_x_preferred": ["Hohen Viecheln"], "nav:latitude": 53.784381, "nav:longitude": 11.510503, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "Nordwestmecklenburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Hohen Viecheln", "qs:la_lc": "*DE13005828047", "qs:level": "locality", "qs:loc": "Hohen Viecheln", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6548188, "qs_pg:gn_pop": 656, "qs_pg:name": "Hohen Viecheln", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 630806, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 34, "wof:belongsto": [85682487, 102191581, 1377693587, 85633111, 1377675589], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_13074031", "eurostat:nuts_2021_id": "13074031", "gn:id": 2901386, "gp:id": 677812, "qs_pg:id": 578584, "wd:id": "Q640095", "wk:page": "Hohen Viecheln"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "95c971f3fadffd7609aeabe1399c223a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675589, "localadmin_id": 1377693587, "locality_id": 101908537, "region_id": 85682487}], "wof:id": 101908537, "wof:lastmodified": 1690871843, "wof:name": "Hohen Viecheln", "wof:parent_id": 1377693587, "wof:placetype": "locality", "wof:population": 638, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125301447], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.46707, 53.751424, 11.54756, 53.840553], "geometry": {"coordinates": [[[[11.544196, 53.816288], [11.537461, 53.816686], [11.536431, 53.815268], [11.533545, 53.81147], [11.531805, 53.809159], [11.534368, 53.809048], [11.53569, 53.806575], [11.536077, 53.799213], [11.540767, 53.794808], [11.542782, 53.793407], [11.542711, 53.791719], [11.54166, 53.790892], [11.54196, 53.788212], [11.539669, 53.788231], [11.536766, 53.788013], [11.539339, 53.786455], [11.539321, 53.785727], [11.539769, 53.785418], [11.538897, 53.784491], [11.538178, 53.784245], [11.537746, 53.783935], [11.537739, 53.783656], [11.537931, 53.783439], [11.538107, 53.783159], [11.538555, 53.782886], [11.539034, 53.782594], [11.539128, 53.78209], [11.539119, 53.781704], [11.538757, 53.781177], [11.538705, 53.78089], [11.538608, 53.780621], [11.53845, 53.780362], [11.537998, 53.779871], [11.537447, 53.77904], [11.536981, 53.77855], [11.536681, 53.778049], [11.536382, 53.777603], [11.536191, 53.777218], [11.53551, 53.776667], [11.535229, 53.776337], [11.534716, 53.775829], [11.534294, 53.775302], [11.534165, 53.774953], [11.534052, 53.774675], [11.533676, 53.774175], [11.533474, 53.773961], [11.533, 53.773794], [11.532349, 53.773854], [11.531966, 53.773695], [11.532052, 53.77347], [11.531966, 53.773066], [11.531729, 53.772673], [11.531743, 53.771972], [11.53153, 53.7713], [11.531244, 53.770745], [11.531049, 53.770199], [11.53075, 53.769752], [11.53027, 53.769307], [11.529792, 53.768978], [11.529496, 53.768648], [11.528788, 53.768223], [11.527604, 53.768161], [11.525055, 53.768775], [11.522803, 53.769746], [11.521299, 53.770944], [11.522222, 53.772132], [11.522453, 53.773585], [11.524174, 53.77579], [11.524582, 53.775724], [11.525635, 53.776021], [11.525654, 53.77682], [11.526692, 53.777737], [11.525774, 53.778068], [11.52417, 53.776913], [11.523418, 53.777216], [11.523047, 53.776923], [11.521954, 53.776231], [11.521453, 53.775552], [11.520376, 53.77424], [11.519047, 53.773191], [11.517347, 53.771848], [11.514704, 53.770405], [11.512379, 53.769544], [11.510483, 53.769514], [11.50893, 53.769922], [11.507671, 53.770552], [11.506619, 53.770336], [11.505961, 53.770063], [11.50523, 53.769961], [11.503969, 53.769864], [11.503046, 53.769925], [11.502293, 53.770156], [11.501361, 53.769885], [11.499947, 53.769725], [11.498657, 53.770365], [11.497674, 53.771145], [11.497031, 53.771537], [11.496383, 53.771713], [11.495146, 53.771336], [11.494486, 53.771], [11.493754, 53.770153], [11.493082, 53.769295], [11.491906, 53.768281], [11.490507, 53.767438], [11.489419, 53.766935], [11.489046, 53.766551], [11.488822, 53.765996], [11.489024, 53.765563], [11.489223, 53.764969], [11.48899, 53.764072], [11.489762, 53.763338], [11.490325, 53.762777], [11.491045, 53.762402], [11.491721, 53.762145], [11.49176, 53.761831], [11.491464, 53.761519], [11.490885, 53.761379], [11.490156, 53.76134], [11.489874, 53.761576], [11.489296, 53.7615], [11.488921, 53.761027], [11.488837, 53.76065], [11.488823, 53.760048], [11.489101, 53.759615], [11.489472, 53.759252], [11.489965, 53.759572], [11.490772, 53.759736], [11.491661, 53.759513], [11.492231, 53.75923], [11.492648, 53.758885], [11.492835, 53.758453], [11.492827, 53.758084], [11.491869, 53.757966], [11.490504, 53.757941], [11.490212, 53.757764], [11.490435, 53.757591], [11.491213, 53.757127], [11.491826, 53.756754], [11.492256, 53.756337], [11.492731, 53.755884], [11.492902, 53.755415], [11.493084, 53.75474], [11.492935, 53.754175], [11.493689, 53.753452], [11.491834, 53.753097], [11.478014, 53.751424], [11.475314, 53.757561], [11.476039, 53.758112], [11.475841, 53.758752], [11.476869, 53.7593], [11.47674, 53.759598], [11.476298, 53.759521], [11.475592, 53.759209], [11.46707, 53.765772], [11.468287, 53.765942], [11.46879, 53.766028], [11.470035, 53.766108], [11.471492, 53.766178], [11.472498, 53.766377], [11.473561, 53.766476], [11.474774, 53.766467], [11.476352, 53.767164], [11.477523, 53.768008], [11.478398, 53.768478], [11.479859, 53.769365], [11.480967, 53.770084], [11.482212, 53.770802], [11.483382, 53.771556], [11.48449, 53.772275], [11.485349, 53.772699], [11.486771, 53.773227], [11.488815, 53.774415], [11.489522, 53.774796], [11.490854, 53.775369], [11.491267, 53.7755], [11.489794, 53.777122], [11.488254, 53.777045], [11.488639, 53.777957], [11.487477, 53.778923], [11.487546, 53.782637], [11.487702, 53.784703], [11.489739, 53.785314], [11.492705, 53.786028], [11.491894, 53.787041], [11.49143, 53.787988], [11.491141, 53.788637], [11.491606, 53.78972], [11.493402, 53.789967], [11.493899, 53.790466], [11.493931, 53.791858], [11.493718, 53.793172], [11.495599, 53.793803], [11.496314, 53.796547], [11.494317, 53.800804], [11.501873, 53.802028], [11.50287, 53.803125], [11.505115, 53.807024], [11.504386, 53.808961], [11.505477, 53.809554], [11.511458, 53.811536], [11.511248, 53.815536], [11.512221, 53.821485], [11.514399, 53.822696], [11.516451, 53.822489], [11.518463, 53.821921], [11.519752, 53.822081], [11.520696, 53.822587], [11.521547, 53.823246], [11.522101, 53.823583], [11.528776, 53.825509], [11.531427, 53.826511], [11.535127, 53.828214], [11.538274, 53.829607], [11.539744, 53.830772], [11.540396, 53.831351], [11.539955, 53.831947], [11.538533, 53.832813], [11.538006, 53.83367], [11.537942, 53.834794], [11.538162, 53.836391], [11.538431, 53.83939], [11.538448, 53.840091], [11.538991, 53.840553], [11.540446, 53.840433], [11.54023, 53.839015], [11.540358, 53.83799], [11.540706, 53.837313], [11.541658, 53.83647], [11.543165, 53.835963], [11.543964, 53.835076], [11.544104, 53.834581], [11.543872, 53.833783], [11.544219, 53.833061], [11.544511, 53.832574], [11.546215, 53.831445], [11.547028, 53.830504], [11.547206, 53.829074], [11.54756, 53.828002], [11.546798, 53.827254], [11.545875, 53.826776], [11.545488, 53.826465], [11.545472, 53.825801], [11.545439, 53.824417], [11.54512, 53.823171], [11.544854, 53.822194], [11.544472, 53.821443], [11.543999, 53.820737], [11.544056, 53.819937], [11.544646, 53.819213], [11.54516, 53.818499], [11.54484, 53.817837], [11.544452, 53.817481], [11.543838, 53.81718], [11.543749, 53.816642], [11.544196, 53.816288]]]], "type": "MultiPolygon"}}
+{
+  "id": 101908537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_13074031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hohen Viecheln",
+    "eurostat:nuts_2021_id":"13074031",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE8",
+    "eurostat:nuts_2021_level_2":"DE80",
+    "eurostat:nuts_2021_level_3":"DE80M",
+    "eurostat:nuts_2021_level_lau":"13074031",
+    "eurostat:population":638,
+    "eurostat:population_year":2020,
+    "geom:area":0.00253,
+    "geom:area_square_m":18481204.886175,
+    "geom:bbox":"11.46707,53.751424,11.54756,53.840553",
+    "geom:latitude":53.791994,
+    "geom:longitude":11.514322,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":656,
+    "iso:country":"DE",
+    "lbl:latitude":53.784381,
+    "lbl:longitude":11.510503,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":53.784381,
+    "mps:longitude":11.510503,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:arg_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ast_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:bar_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:bre_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:cat_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ceb_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ces_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:cym_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:dan_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:deu_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:eng_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:epo_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:est_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:eus_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0647\u0646 \u0641\u06cc\u0634\u0644\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:fra_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:frp_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:fur_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:gla_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:gle_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:glg_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:gsw_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:hbs_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:hrv_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:hun_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ido_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ile_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ina_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ind_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:isl_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ita_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:kur_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:lij_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:lim_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ltz_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:min_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u0435\u043d \u0424\u0438\u0445\u0435\u043b\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:msa_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:nap_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:nds_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:nld_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:nno_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:nob_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:nrm_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:oci_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:pcd_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:pms_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:pol_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:por_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:roh_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:ron_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:sco_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:slk_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:slv_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:spa_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:srd_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0435\u043d \u0424\u0438\u0445\u0435\u043b\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:swe_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u044d\u043d-\u0424\u0438\u0445\u0435\u043b\u044c\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0435\u043d-\u0424\u0456\u0445\u0435\u043b\u044c\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:vec_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:vie_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:vls_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:vol_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:war_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:wln_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:wol_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u4ea8\u83f2\u6b47\u5c14\u6069"
+    ],
+    "name:zul_x_preferred":[
+        "Hohen Viecheln"
+    ],
+    "nav:latitude":53.784381,
+    "nav:longitude":11.510503,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"Nordwestmecklenburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Hohen Viecheln",
+    "qs:la_lc":"*DE13005828047",
+    "qs:level":"locality",
+    "qs:loc":"Hohen Viecheln",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6548188,
+    "qs_pg:gn_pop":656,
+    "qs_pg:name":"Hohen Viecheln",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":630806,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377693587,
+        85633111,
+        1377675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_13074031",
+        "eurostat:nuts_2021_id":"13074031",
+        "gn:id":2901386,
+        "gp:id":677812,
+        "qs_pg:id":578584,
+        "wd:id":"Q640095",
+        "wk:page":"Hohen Viecheln"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"95c971f3fadffd7609aeabe1399c223a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675589,
+            "localadmin_id":1377693587,
+            "locality_id":101908537,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101908537,
+    "wof:lastmodified":1690871843,
+    "wof:name":"Hohen Viecheln",
+    "wof:parent_id":1377693587,
+    "wof:placetype":"locality",
+    "wof:population":638,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125301447
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46707,
+    53.751424,
+    11.54756,
+    53.840553
+],
+  "geometry": {"coordinates":[[[[11.544196,53.816288],[11.537461,53.816686],[11.536431,53.815268],[11.533545,53.81147],[11.531805,53.809159],[11.534368,53.809048],[11.53569,53.806575],[11.536077,53.799213],[11.540767,53.794808],[11.542782,53.793407],[11.542711,53.791719],[11.54166,53.790892],[11.54196,53.788212],[11.539669,53.788231],[11.536766,53.788013],[11.539339,53.786455],[11.539321,53.785727],[11.539769,53.785418],[11.538897,53.784491],[11.538178,53.784245],[11.537746,53.783935],[11.537739,53.783656],[11.537931,53.783439],[11.538107,53.783159],[11.538555,53.782886],[11.539034,53.782594],[11.539128,53.78209],[11.539119,53.781704],[11.538757,53.781177],[11.538705,53.78089],[11.538608,53.780621],[11.53845,53.780362],[11.537998,53.779871],[11.537447,53.77904],[11.536981,53.77855],[11.536681,53.778049],[11.536382,53.777603],[11.536191,53.777218],[11.53551,53.776667],[11.535229,53.776337],[11.534716,53.775829],[11.534294,53.775302],[11.534165,53.774953],[11.534052,53.774675],[11.533676,53.774175],[11.533474,53.773961],[11.533,53.773794],[11.532349,53.773854],[11.531966,53.773695],[11.532052,53.77347],[11.531966,53.773066],[11.531729,53.772673],[11.531743,53.771972],[11.53153,53.7713],[11.531244,53.770745],[11.531049,53.770199],[11.53075,53.769752],[11.53027,53.769307],[11.529792,53.768978],[11.529496,53.768648],[11.528788,53.768223],[11.527604,53.768161],[11.525055,53.768775],[11.522803,53.769746],[11.521299,53.770944],[11.522222,53.772132],[11.522453,53.773585],[11.524174,53.77579],[11.524582,53.775724],[11.525635,53.776021],[11.525654,53.77682],[11.526692,53.777737],[11.525774,53.778068],[11.52417,53.776913],[11.523418,53.777216],[11.523047,53.776923],[11.521954,53.776231],[11.521453,53.775552],[11.520376,53.77424],[11.519047,53.773191],[11.517347,53.771848],[11.514704,53.770405],[11.512379,53.769544],[11.510483,53.769514],[11.50893,53.769922],[11.507671,53.770552],[11.506619,53.770336],[11.505961,53.770063],[11.50523,53.769961],[11.503969,53.769864],[11.503046,53.769925],[11.502293,53.770156],[11.501361,53.769885],[11.499947,53.769725],[11.498657,53.770365],[11.497674,53.771145],[11.497031,53.771537],[11.496383,53.771713],[11.495146,53.771336],[11.494486,53.771],[11.493754,53.770153],[11.493082,53.769295],[11.491906,53.768281],[11.490507,53.767438],[11.489419,53.766935],[11.489046,53.766551],[11.488822,53.765996],[11.489024,53.765563],[11.489223,53.764969],[11.48899,53.764072],[11.489762,53.763338],[11.490325,53.762777],[11.491045,53.762402],[11.491721,53.762145],[11.49176,53.761831],[11.491464,53.761519],[11.490885,53.761379],[11.490156,53.76134],[11.489874,53.761576],[11.489296,53.7615],[11.488921,53.761027],[11.488837,53.76065],[11.488823,53.760048],[11.489101,53.759615],[11.489472,53.759252],[11.489965,53.759572],[11.490772,53.759736],[11.491661,53.759513],[11.492231,53.75923],[11.492648,53.758885],[11.492835,53.758453],[11.492827,53.758084],[11.491869,53.757966],[11.490504,53.757941],[11.490212,53.757764],[11.490435,53.757591],[11.491213,53.757127],[11.491826,53.756754],[11.492256,53.756337],[11.492731,53.755884],[11.492902,53.755415],[11.493084,53.75474],[11.492935,53.754175],[11.493689,53.753452],[11.491834,53.753097],[11.478014,53.751424],[11.475314,53.757561],[11.476039,53.758112],[11.475841,53.758752],[11.476869,53.7593],[11.47674,53.759598],[11.476298,53.759521],[11.475592,53.759209],[11.46707,53.765772],[11.468287,53.765942],[11.46879,53.766028],[11.470035,53.766108],[11.471492,53.766178],[11.472498,53.766377],[11.473561,53.766476],[11.474774,53.766467],[11.476352,53.767164],[11.477523,53.768008],[11.478398,53.768478],[11.479859,53.769365],[11.480967,53.770084],[11.482212,53.770802],[11.483382,53.771556],[11.48449,53.772275],[11.485349,53.772699],[11.486771,53.773227],[11.488815,53.774415],[11.489522,53.774796],[11.490854,53.775369],[11.491267,53.7755],[11.489794,53.777122],[11.488254,53.777045],[11.488639,53.777957],[11.487477,53.778923],[11.487546,53.782637],[11.487702,53.784703],[11.489739,53.785314],[11.492705,53.786028],[11.491894,53.787041],[11.49143,53.787988],[11.491141,53.788637],[11.491606,53.78972],[11.493402,53.789967],[11.493899,53.790466],[11.493931,53.791858],[11.493718,53.793172],[11.495599,53.793803],[11.496314,53.796547],[11.494317,53.800804],[11.501873,53.802028],[11.50287,53.803125],[11.505115,53.807024],[11.504386,53.808961],[11.505477,53.809554],[11.511458,53.811536],[11.511248,53.815536],[11.512221,53.821485],[11.514399,53.822696],[11.516451,53.822489],[11.518463,53.821921],[11.519752,53.822081],[11.520696,53.822587],[11.521547,53.823246],[11.522101,53.823583],[11.528776,53.825509],[11.531427,53.826511],[11.535127,53.828214],[11.538274,53.829607],[11.539744,53.830772],[11.540396,53.831351],[11.539955,53.831947],[11.538533,53.832813],[11.538006,53.83367],[11.537942,53.834794],[11.538162,53.836391],[11.538431,53.83939],[11.538448,53.840091],[11.538991,53.840553],[11.540446,53.840433],[11.54023,53.839015],[11.540358,53.83799],[11.540706,53.837313],[11.541658,53.83647],[11.543165,53.835963],[11.543964,53.835076],[11.544104,53.834581],[11.543872,53.833783],[11.544219,53.833061],[11.544511,53.832574],[11.546215,53.831445],[11.547028,53.830504],[11.547206,53.829074],[11.54756,53.828002],[11.546798,53.827254],[11.545875,53.826776],[11.545488,53.826465],[11.545472,53.825801],[11.545439,53.824417],[11.54512,53.823171],[11.544854,53.822194],[11.544472,53.821443],[11.543999,53.820737],[11.544056,53.819937],[11.544646,53.819213],[11.54516,53.818499],[11.54484,53.817837],[11.544452,53.817481],[11.543838,53.81718],[11.543749,53.816642],[11.544196,53.816288]]]],"type":"MultiPolygon"}
+}

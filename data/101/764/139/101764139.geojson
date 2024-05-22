@@ -1,1 +1,428 @@
-{"id": 101764139, "type": "Feature", "properties": {"de-bkg:ade": 6, "de-bkg:ags": 8326003, "de-bkg:ags_0": 8326003, "de-bkg:bem": "--", "de-bkg:bez": "Stadt", "de-bkg:bsg": 1, "de-bkg:debkg_id": "DEBKGDL20000DX9G", "de-bkg:fk_s3": "R", "de-bkg:gen": "Bad D\u00fcrrheim", "de-bkg:gf": 4, "de-bkg:ibz": 61, "de-bkg:nbd": "ja", "de-bkg:nuts": "DE136", "de-bkg:rs": 83260003003, "de-bkg:rs_0": 83260003003, "de-bkg:sdv_rs": 83260003003, "de-bkg:sn_g": 3, "de-bkg:sn_k": 26, "de-bkg:sn_l": 8, "de-bkg:sn_r": 3, "de-bkg:sn_v1": 0, "de-bkg:sn_v2": 3, "de-bkg:wdk": "2009/01/01", "edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08326003", "eurostat:level_code": "lau", "eurostat:name_local": "Bad D\u00fcrrheim, Stadt", "eurostat:nuts_2021_id": "08326003", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE136", "eurostat:nuts_2021_level_lau": "08326003", "eurostat:population": 13292, "eurostat:population_year": 2020, "geom:area": 0.007497, "geom:area_square_m": 62037510.219396, "geom:bbox": "8.506339,47.944916,8.663061,48.050237", "geom:latitude": 47.996856, "geom:longitude": 8.586614, "gn:population": 12829, "iso:country": "DE", "lbl:latitude": 47.981042, "lbl:longitude": 8.605039, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 47.981042, "mps:longitude": 8.605039, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad D\u00fcrrheim"], "name:als_x_preferred": ["Bad D\u00fcrrheim"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u062f\u0648\u0631\u0647\u0627\u064a\u0645"], "name:arg_x_preferred": ["Bad D\u00fcrrheim"], "name:ast_x_preferred": ["Bad D\u00fcrrheim"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u062f\u0648\u0631\u0647\u0627\u06cc\u0645"], "name:bar_x_preferred": ["Bad D\u00fcrrheim"], "name:bre_x_preferred": ["Bad D\u00fcrrheim"], "name:cat_x_preferred": ["Bad D\u00fcrrheim"], "name:ceb_x_preferred": ["Bad D\u00fcrrheim"], "name:ces_x_preferred": ["Bad D\u00fcrrheim"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0414\u0443\u044c\u0440\u0445\u0430\u0439\u043c"], "name:cos_x_preferred": ["Bad D\u00fcrrheim"], "name:cym_x_preferred": ["Bad D\u00fcrrheim"], "name:dan_x_preferred": ["Bad D\u00fcrrheim"], "name:deu_x_colloquial": ["Bad Duerrheim", "Bad Durrheim", "Duerrheim", "Durrheim"], "name:deu_x_preferred": ["Bad D\u00fcrrheim"], "name:deu_x_variant": ["D\u00fcrrheim"], "name:eng_x_preferred": ["Bad D\u00fcrrheim"], "name:epo_x_preferred": ["Bad D\u00fcrrheim"], "name:est_x_preferred": ["Bad D\u00fcrrheim"], "name:eus_x_preferred": ["Bad D\u00fcrrheim"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u062f\u0648\u0631\u0647\u0627\u06cc\u0645"], "name:fin_x_preferred": ["Bad D\u00fcrrheim"], "name:fra_x_preferred": ["Bad D\u00fcrrheim"], "name:frp_x_preferred": ["Bad D\u00fcrrheim"], "name:fur_x_preferred": ["Bad D\u00fcrrheim"], "name:gla_x_preferred": ["Bad D\u00fcrrheim"], "name:gle_x_preferred": ["Bad D\u00fcrrheim"], "name:glg_x_preferred": ["Bad D\u00fcrrheim"], "name:gsw_x_preferred": ["Diir\u00e4"], "name:hrv_x_preferred": ["Bad D\u00fcrrheim"], "name:hun_x_preferred": ["Bad D\u00fcrrheim"], "name:ido_x_preferred": ["Bad D\u00fcrrheim"], "name:ile_x_preferred": ["Bad D\u00fcrrheim"], "name:ina_x_preferred": ["Bad D\u00fcrrheim"], "name:ind_x_preferred": ["Bad D\u00fcrrheim"], "name:isl_x_preferred": ["Bad D\u00fcrrheim"], "name:ita_x_preferred": ["Bad D\u00fcrrheim"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30c7\u30e5\u30eb\u30cf\u30a4\u30e0"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0414\u044e\u0440\u0445\u0430\u0439\u043c"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0414\u044e\u0440\u0445\u0430\u0439\u043c"], "name:kon_x_preferred": ["Bad D\u00fcrrheim"], "name:kur_x_preferred": ["Bad D\u00fcrrheim"], "name:lat_x_preferred": ["Bad D\u00fcrrheim"], "name:lij_x_preferred": ["Bad D\u00fcrrheim"], "name:lim_x_preferred": ["Bad D\u00fcrrheim"], "name:lld_x_preferred": ["Bad D\u00fcrrheim"], "name:lmo_x_preferred": ["Bad D\u00fcrrheim"], "name:ltz_x_preferred": ["Bad D\u00fcrrheim"], "name:min_x_preferred": ["Bad D\u00fcrrheim"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0414\u0438\u0440\u0445\u0430\u0458\u043c"], "name:mlg_x_preferred": ["Bad D\u00fcrrheim"], "name:msa_x_preferred": ["Bad D\u00fcrrheim"], "name:nap_x_preferred": ["Bad D\u00fcrrheim"], "name:nds_x_preferred": ["Bad D\u00fcrrheim"], "name:nld_x_preferred": ["Bad D\u00fcrrheim"], "name:nno_x_preferred": ["Bad D\u00fcrrheim"], "name:nob_x_preferred": ["Bad D\u00fcrrheim"], "name:nrm_x_preferred": ["Bad D\u00fcrrheim"], "name:oci_x_preferred": ["Bad D\u00fcrrheim"], "name:pcd_x_preferred": ["Bad D\u00fcrrheim"], "name:pms_x_preferred": ["Bad D\u00fcrrheim"], "name:pol_x_preferred": ["Bad D\u00fcrrheim"], "name:por_x_preferred": ["Bad D\u00fcrrheim"], "name:roh_x_preferred": ["Bad D\u00fcrrheim"], "name:ron_x_preferred": ["Bad D\u00fcrrheim"], "name:rup_x_preferred": ["Bad D\u00fcrrheim"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0414\u044e\u0440\u0445\u0430\u0439\u043c"], "name:scn_x_preferred": ["Bad D\u00fcrrheim"], "name:sco_x_preferred": ["Bad D\u00fcrrheim"], "name:slk_x_preferred": ["Bad D\u00fcrrheim"], "name:slv_x_preferred": ["Bad D\u00fcrrheim"], "name:spa_x_preferred": ["Bad D\u00fcrrheim"], "name:srd_x_preferred": ["Bad D\u00fcrrheim"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0414\u0438\u0440\u0445\u0430\u0458\u043c"], "name:swa_x_preferred": ["Bad D\u00fcrrheim"], "name:swe_x_preferred": ["Bad D\u00fcrrheim"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0414\u044e\u0440\u0445\u0430\u0439\u043c"], "name:tum_x_preferred": ["Bad D\u00fcrrheim"], "name:tur_x_preferred": ["Bad D\u00fcrrheim"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0414\u044e\u0440\u0440\u0433\u0430\u0439\u043c"], "name:uzb_x_preferred": ["Bad D\u00fcrrheim"], "name:vec_x_preferred": ["Bad D\u00fcrrheim"], "name:vie_x_preferred": ["Bad D\u00fcrrheim"], "name:vls_x_preferred": ["Bad D\u00fcrrheim"], "name:vol_x_preferred": ["Bad D\u00fcrrheim"], "name:war_x_preferred": ["Bad D\u00fcrrheim"], "name:wln_x_preferred": ["Bad D\u00fcrrheim"], "name:wol_x_preferred": ["Bad D\u00fcrrheim"], "name:zho_x_preferred": ["\u5df4\u7279\u8fea\u5c14\u6d77\u59c6"], "name:zho_x_variant": ["\u5df4\u5fb7\u8fea\u8d56\u59c6"], "name:zul_x_preferred": ["Bad D\u00fcrrheim"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Schwarzwald-Baar-Kreis", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad D\u00fcrrheim", "qs:la_lc": "*DE08302600003", "qs:level": "locality", "qs:loc": "Bad D\u00fcrrheim", "qs:loc_alt": "Bad Duerrheim", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "de-bkg", "src:geom_alt": ["de", "quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 62.05, "wd:latitude": 48.016667, "wd:longitude": 8.533333, "wd:population": 6622, "wd:wordcount": 86, "wof:belongsto": [85682567, 102191581, 85633111, 1377689521, 404227543, 102063253], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08326003", "eurostat:nuts_2021_id": "08326003", "fct:id": "0736c410-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2953520, "gp:id": 636413, "qs_pg:id": 1343557, "wd:id": "Q82770", "wk:page": "Bad D\u00fcrrheim"}, "wof:coterminous": [1377689521], "wof:country": "DE", "wof:geom_alt": ["de-bkg", "quattroshapes_pg"], "wof:geomhash": "8bbd541de96b956e108acc14205c6076", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063253, "localadmin_id": 1377689521, "locality_id": 101764139, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101764139, "wof:lang": ["ger"], "wof:lastmodified": 1690871514, "wof:name": "Bad D\u00fcrrheim", "wof:parent_id": 1377689521, "wof:placetype": "locality", "wof:population": 13292, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.506339, 47.944916, 8.663061, 48.050237], "geometry": {"coordinates": [[[[8.583633, 48.04061], [8.583436, 48.037405], [8.584576, 48.034979], [8.581909, 48.02978], [8.583662, 48.024677], [8.582303, 48.02343], [8.578326, 48.023342], [8.576892, 48.018533], [8.581128, 48.014022], [8.581979, 48.011097], [8.583796, 48.011245], [8.585782, 48.009104], [8.587719, 48.009929], [8.588446, 48.008818], [8.590602, 48.009188], [8.591093, 48.008621], [8.591797, 48.009479], [8.59538, 48.009343], [8.604413, 48.010345], [8.614898, 48.011929], [8.624518, 48.014782], [8.630197, 48.014879], [8.634418, 48.012047], [8.6392, 48.011391], [8.639778, 48.006725], [8.641504, 48.004651], [8.648515, 48.002414], [8.651755, 48.001389], [8.654372, 48.000552], [8.657982, 47.999678], [8.660791, 47.999446], [8.663061, 47.999628], [8.66011, 47.997933], [8.654943, 47.995742], [8.653211, 47.993336], [8.652693, 47.992616], [8.652059, 47.991735], [8.651513, 47.989989], [8.652068, 47.989121], [8.653494, 47.985729], [8.655758, 47.984283], [8.657658, 47.982157], [8.658161, 47.977311], [8.659053, 47.975644], [8.662905, 47.971079], [8.657228, 47.971082], [8.654063, 47.973384], [8.648232, 47.974257], [8.649154, 47.972519], [8.646641, 47.969905], [8.647055, 47.96958], [8.647442, 47.969254], [8.649241, 47.967701], [8.649642, 47.967376], [8.650042, 47.967059], [8.650481, 47.96676], [8.651098, 47.966375], [8.648561, 47.966197], [8.647392, 47.967383], [8.644239, 47.968992], [8.641512, 47.971023], [8.639201, 47.971928], [8.635742, 47.972058], [8.636256, 47.969091], [8.640119, 47.965335], [8.643488, 47.964394], [8.645451, 47.963465], [8.647085, 47.962001], [8.644871, 47.960354], [8.642556, 47.959991], [8.640429, 47.960665], [8.639066, 47.961667], [8.637827, 47.96116], [8.637855, 47.958625], [8.636445, 47.955571], [8.635967, 47.950141], [8.633447, 47.94919], [8.630731, 47.946689], [8.628774, 47.946755], [8.629028, 47.949591], [8.623179, 47.949248], [8.621671, 47.949133], [8.620442, 47.950146], [8.614713, 47.951557], [8.610353, 47.951842], [8.607476, 47.951828], [8.603779, 47.951548], [8.602904, 47.950643], [8.597874, 47.948838], [8.595432, 47.947618], [8.594588, 47.945895], [8.591368, 47.945407], [8.588483, 47.944916], [8.58507, 47.948723], [8.579959, 47.95138], [8.576742, 47.95306], [8.57637, 47.95353], [8.576312, 47.9541], [8.576254, 47.954693], [8.576088, 47.955309], [8.575676, 47.955896], [8.575163, 47.956339], [8.574371, 47.956658], [8.573191, 47.956947], [8.572155, 47.957167], [8.571369, 47.957343], [8.570725, 47.957522], [8.570152, 47.957866], [8.568009, 47.959044], [8.568062, 47.959497], [8.571147, 47.961165], [8.565872, 47.966997], [8.567744, 47.9698], [8.566689, 47.972461], [8.567839, 47.974558], [8.570621, 47.980461], [8.575939, 47.995894], [8.574798, 47.996971], [8.569907, 47.997352], [8.570728, 47.999659], [8.56077, 48.006569], [8.5553, 48.008432], [8.551833, 48.008937], [8.546341, 48.008522], [8.544255, 48.007085], [8.543899, 48.005279], [8.542271, 48.00244], [8.536271, 48.00108], [8.533476, 48.000787], [8.533347, 47.999582], [8.530685, 47.999812], [8.528644, 48.000054], [8.528071, 47.998639], [8.527664, 47.997843], [8.525735, 47.994416], [8.523945, 47.995205], [8.525341, 47.996628], [8.525837, 47.998723], [8.524736, 47.998948], [8.521372, 47.998644], [8.517444, 48.005056], [8.514319, 48.004784], [8.512359, 48.003894], [8.511256, 48.005331], [8.5112, 48.010032], [8.510207, 48.011075], [8.508595, 48.011496], [8.507444, 48.012779], [8.508393, 48.013857], [8.510911, 48.01455], [8.513239, 48.015968], [8.512043, 48.016729], [8.512675, 48.018008], [8.510892, 48.018021], [8.509761, 48.017479], [8.508024, 48.018346], [8.507254, 48.020805], [8.50736, 48.022506], [8.507079, 48.025145], [8.507723, 48.029501], [8.50781, 48.03042], [8.508009, 48.031648], [8.508415, 48.034539], [8.506339, 48.035158], [8.508032, 48.038039], [8.509208, 48.038013], [8.510249, 48.035425], [8.519553, 48.035536], [8.523194, 48.036071], [8.525993, 48.036188], [8.525665, 48.037665], [8.530594, 48.039139], [8.533356, 48.041167], [8.534379, 48.04275], [8.538068, 48.043041], [8.541707, 48.041577], [8.542888, 48.042902], [8.54479, 48.044635], [8.548714, 48.046014], [8.552253, 48.048194], [8.557801, 48.050237], [8.558922, 48.049778], [8.558965, 48.048349], [8.56591, 48.046692], [8.5668, 48.045889], [8.572591, 48.045577], [8.576441, 48.044854], [8.575863, 48.040779], [8.580802, 48.041342], [8.583633, 48.04061]]]], "type": "MultiPolygon"}}
+{
+  "id": 101764139,
+  "type": "Feature",
+  "properties": {
+    "de-bkg:ade":6,
+    "de-bkg:ags":8326003,
+    "de-bkg:ags_0":8326003,
+    "de-bkg:bem":"--",
+    "de-bkg:bez":"Stadt",
+    "de-bkg:bsg":1,
+    "de-bkg:debkg_id":"DEBKGDL20000DX9G",
+    "de-bkg:fk_s3":"R",
+    "de-bkg:gen":"Bad D\u00fcrrheim",
+    "de-bkg:gf":4,
+    "de-bkg:ibz":61,
+    "de-bkg:nbd":"ja",
+    "de-bkg:nuts":"DE136",
+    "de-bkg:rs":83260003003,
+    "de-bkg:rs_0":83260003003,
+    "de-bkg:sdv_rs":83260003003,
+    "de-bkg:sn_g":3,
+    "de-bkg:sn_k":26,
+    "de-bkg:sn_l":8,
+    "de-bkg:sn_r":3,
+    "de-bkg:sn_v1":0,
+    "de-bkg:sn_v2":3,
+    "de-bkg:wdk":"2009/01/01",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08326003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad D\u00fcrrheim, Stadt",
+    "eurostat:nuts_2021_id":"08326003",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE136",
+    "eurostat:nuts_2021_level_lau":"08326003",
+    "eurostat:population":13292,
+    "eurostat:population_year":2020,
+    "geom:area":0.007497,
+    "geom:area_square_m":62037510.219396,
+    "geom:bbox":"8.506339,47.944916,8.663061,48.050237",
+    "geom:latitude":47.996856,
+    "geom:longitude":8.586614,
+    "gn:population":12829,
+    "iso:country":"DE",
+    "lbl:latitude":47.981042,
+    "lbl:longitude":8.605039,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":47.981042,
+    "mps:longitude":8.605039,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:als_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u062f\u0648\u0631\u0647\u0627\u064a\u0645"
+    ],
+    "name:arg_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ast_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u062f\u0648\u0631\u0647\u0627\u06cc\u0645"
+    ],
+    "name:bar_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:bre_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:cat_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ces_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0414\u0443\u044c\u0440\u0445\u0430\u0439\u043c"
+    ],
+    "name:cos_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:cym_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:dan_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:deu_x_colloquial":[
+        "Bad Duerrheim",
+        "Bad Durrheim",
+        "Duerrheim",
+        "Durrheim"
+    ],
+    "name:deu_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:deu_x_variant":[
+        "D\u00fcrrheim"
+    ],
+    "name:eng_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:epo_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:est_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:eus_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u062f\u0648\u0631\u0647\u0627\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:fra_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:frp_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:fur_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:gla_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:gle_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:glg_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:gsw_x_preferred":[
+        "Diir\u00e4"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:hun_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ido_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ile_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ina_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ind_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:isl_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ita_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30c7\u30e5\u30eb\u30cf\u30a4\u30e0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0414\u044e\u0440\u0445\u0430\u0439\u043c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0414\u044e\u0440\u0445\u0430\u0439\u043c"
+    ],
+    "name:kon_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:kur_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:lat_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:lij_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:lim_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:lld_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:lmo_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:min_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0414\u0438\u0440\u0445\u0430\u0458\u043c"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:msa_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:nap_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:nds_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:nld_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:nno_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:nob_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:oci_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:pms_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:pol_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:por_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:roh_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ron_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:rup_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0414\u044e\u0440\u0445\u0430\u0439\u043c"
+    ],
+    "name:scn_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:sco_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:slk_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:slv_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:spa_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:srd_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0414\u0438\u0440\u0445\u0430\u0458\u043c"
+    ],
+    "name:swa_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:swe_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0414\u044e\u0440\u0445\u0430\u0439\u043c"
+    ],
+    "name:tum_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:tur_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0414\u044e\u0440\u0440\u0433\u0430\u0439\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:vec_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:vie_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:vls_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:vol_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:war_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:wln_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:wol_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u8fea\u5c14\u6d77\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u8fea\u8d56\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Bad D\u00fcrrheim"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Schwarzwald-Baar-Kreis",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad D\u00fcrrheim",
+    "qs:la_lc":"*DE08302600003",
+    "qs:level":"locality",
+    "qs:loc":"Bad D\u00fcrrheim",
+    "qs:loc_alt":"Bad Duerrheim",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "de",
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":62.05,
+    "wd:latitude":48.016667,
+    "wd:longitude":8.533333,
+    "wd:population":6622,
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689521,
+        404227543,
+        102063253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08326003",
+        "eurostat:nuts_2021_id":"08326003",
+        "fct:id":"0736c410-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2953520,
+        "gp:id":636413,
+        "qs_pg:id":1343557,
+        "wd:id":"Q82770",
+        "wk:page":"Bad D\u00fcrrheim"
+    },
+    "wof:coterminous":[
+        1377689521
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "de-bkg",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"8bbd541de96b956e108acc14205c6076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063253,
+            "localadmin_id":1377689521,
+            "locality_id":101764139,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101764139,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871514,
+    "wof:name":"Bad D\u00fcrrheim",
+    "wof:parent_id":1377689521,
+    "wof:placetype":"locality",
+    "wof:population":13292,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.506339,
+    47.944916,
+    8.663061,
+    48.050237
+],
+  "geometry": {"coordinates":[[[[8.583633,48.04061],[8.583436,48.037405],[8.584576,48.034979],[8.581909,48.02978],[8.583662,48.024677],[8.582303,48.02343],[8.578326,48.023342],[8.576892,48.018533],[8.581128,48.014022],[8.581979,48.011097],[8.583796,48.011245],[8.585782,48.009104],[8.587719,48.009929],[8.588446,48.008818],[8.590602,48.009188],[8.591093,48.008621],[8.591797,48.009479],[8.59538,48.009343],[8.604413,48.010345],[8.614898,48.011929],[8.624518,48.014782],[8.630197,48.014879],[8.634418,48.012047],[8.6392,48.011391],[8.639778,48.006725],[8.641504,48.004651],[8.648515,48.002414],[8.651755,48.001389],[8.654372,48.000552],[8.657982,47.999678],[8.660791,47.999446],[8.663061,47.999628],[8.66011,47.997933],[8.654943,47.995742],[8.653211,47.993336],[8.652693,47.992616],[8.652059,47.991735],[8.651513,47.989989],[8.652068,47.989121],[8.653494,47.985729],[8.655758,47.984283],[8.657658,47.982157],[8.658161,47.977311],[8.659053,47.975644],[8.662905,47.971079],[8.657228,47.971082],[8.654063,47.973384],[8.648232,47.974257],[8.649154,47.972519],[8.646641,47.969905],[8.647055,47.96958],[8.647442,47.969254],[8.649241,47.967701],[8.649642,47.967376],[8.650042,47.967059],[8.650481,47.96676],[8.651098,47.966375],[8.648561,47.966197],[8.647392,47.967383],[8.644239,47.968992],[8.641512,47.971023],[8.639201,47.971928],[8.635742,47.972058],[8.636256,47.969091],[8.640119,47.965335],[8.643488,47.964394],[8.645451,47.963465],[8.647085,47.962001],[8.644871,47.960354],[8.642556,47.959991],[8.640429,47.960665],[8.639066,47.961667],[8.637827,47.96116],[8.637855,47.958625],[8.636445,47.955571],[8.635967,47.950141],[8.633447,47.94919],[8.630731,47.946689],[8.628774,47.946755],[8.629028,47.949591],[8.623179,47.949248],[8.621671,47.949133],[8.620442,47.950146],[8.614713,47.951557],[8.610353,47.951842],[8.607476,47.951828],[8.603779,47.951548],[8.602904,47.950643],[8.597874,47.948838],[8.595432,47.947618],[8.594588,47.945895],[8.591368,47.945407],[8.588483,47.944916],[8.58507,47.948723],[8.579959,47.95138],[8.576742,47.95306],[8.57637,47.95353],[8.576312,47.9541],[8.576254,47.954693],[8.576088,47.955309],[8.575676,47.955896],[8.575163,47.956339],[8.574371,47.956658],[8.573191,47.956947],[8.572155,47.957167],[8.571369,47.957343],[8.570725,47.957522],[8.570152,47.957866],[8.568009,47.959044],[8.568062,47.959497],[8.571147,47.961165],[8.565872,47.966997],[8.567744,47.9698],[8.566689,47.972461],[8.567839,47.974558],[8.570621,47.980461],[8.575939,47.995894],[8.574798,47.996971],[8.569907,47.997352],[8.570728,47.999659],[8.56077,48.006569],[8.5553,48.008432],[8.551833,48.008937],[8.546341,48.008522],[8.544255,48.007085],[8.543899,48.005279],[8.542271,48.00244],[8.536271,48.00108],[8.533476,48.000787],[8.533347,47.999582],[8.530685,47.999812],[8.528644,48.000054],[8.528071,47.998639],[8.527664,47.997843],[8.525735,47.994416],[8.523945,47.995205],[8.525341,47.996628],[8.525837,47.998723],[8.524736,47.998948],[8.521372,47.998644],[8.517444,48.005056],[8.514319,48.004784],[8.512359,48.003894],[8.511256,48.005331],[8.5112,48.010032],[8.510207,48.011075],[8.508595,48.011496],[8.507444,48.012779],[8.508393,48.013857],[8.510911,48.01455],[8.513239,48.015968],[8.512043,48.016729],[8.512675,48.018008],[8.510892,48.018021],[8.509761,48.017479],[8.508024,48.018346],[8.507254,48.020805],[8.50736,48.022506],[8.507079,48.025145],[8.507723,48.029501],[8.50781,48.03042],[8.508009,48.031648],[8.508415,48.034539],[8.506339,48.035158],[8.508032,48.038039],[8.509208,48.038013],[8.510249,48.035425],[8.519553,48.035536],[8.523194,48.036071],[8.525993,48.036188],[8.525665,48.037665],[8.530594,48.039139],[8.533356,48.041167],[8.534379,48.04275],[8.538068,48.043041],[8.541707,48.041577],[8.542888,48.042902],[8.54479,48.044635],[8.548714,48.046014],[8.552253,48.048194],[8.557801,48.050237],[8.558922,48.049778],[8.558965,48.048349],[8.56591,48.046692],[8.5668,48.045889],[8.572591,48.045577],[8.576441,48.044854],[8.575863,48.040779],[8.580802,48.041342],[8.583633,48.04061]]]],"type":"MultiPolygon"}
+}

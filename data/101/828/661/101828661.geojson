@@ -1,1 +1,433 @@
-{"id": 101828661, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08315076", "eurostat:level_code": "lau", "eurostat:name_local": "Neuenburg am Rhein, Stadt", "eurostat:nuts_2021_id": "08315076", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE132", "eurostat:nuts_2021_level_lau": "08315076", "eurostat:population": 12273, "eurostat:population_year": 2020, "geom:area": 0.005281, "geom:area_square_m": 43839218.45736, "geom:bbox": "7.529675,47.743574,7.61794,47.901824", "geom:latitude": 47.831232, "geom:longitude": 7.570454, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 11948, "iso:country": "DE", "lbl:latitude": 47.814487, "lbl:longitude": 7.562957, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 47.814487, "mps:longitude": 7.562957, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Neuenburg am Rhein"], "name:als_x_preferred": ["Neuenburg am Rhein"], "name:ara_x_preferred": ["\u0646\u0648\u064a\u0646\u0628\u0648\u0631\u063a \u0622\u0645 \u0631\u0627\u064a\u0646"], "name:arg_x_preferred": ["Neuenburg am Rhein"], "name:arz_x_preferred": ["\u0646\u0648\u064a\u0646\u0628\u0648\u0631\u062c \u0622\u0645 \u0631\u0627\u064a\u0646"], "name:ast_x_preferred": ["Neuenburg am Rhein"], "name:azb_x_preferred": ["\u0646\u0648\u06cc\u0646\u0628\u0648\u0631\u0642 \u0622\u0645 \u0631\u0627\u06cc\u0646"], "name:bar_x_preferred": ["Neuenburg am Rhein"], "name:bel_x_preferred": ["\u041d\u043e\u0435\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:bre_x_preferred": ["Neuenburg am Rhein"], "name:bul_x_preferred": ["\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433 \u0430\u043c \u0420\u0435\u0439\u043d"], "name:cat_x_preferred": ["Neuenburg am Rhein"], "name:ceb_x_preferred": ["Neuenburg am Rhein"], "name:ces_x_preferred": ["Neuenburg am Rhein"], "name:che_x_preferred": ["\u0420\u0435\u0439\u043d-\u0442\u04c0\u0435\u0440\u0430-\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433"], "name:cos_x_preferred": ["Neuenburg am Rhein"], "name:cym_x_preferred": ["Neuenburg am Rhein"], "name:dan_x_preferred": ["Neuenburg am Rhein"], "name:deu_x_preferred": ["Neuenburg am Rhein"], "name:eng_x_preferred": ["Neuenburg am Rhein"], "name:epo_x_preferred": ["Neuenburg am Rhein"], "name:est_x_preferred": ["Neuenburg am Rhein"], "name:eus_x_preferred": ["Neuenburg am Rhein"], "name:fas_x_preferred": ["\u0646\u0648\u06cc\u0646\u0628\u0648\u0631\u06af \u0622\u0645 \u0631\u0627\u06cc\u0646"], "name:fin_x_preferred": ["Neuenburg am Rhein"], "name:fra_x_preferred": ["Neuenburg am Rhein"], "name:frp_x_preferred": ["Neuenburg am Rhein"], "name:fur_x_preferred": ["Neuenburg am Rhein"], "name:gla_x_preferred": ["Neuenburg am Rhein"], "name:gle_x_preferred": ["Neuenburg am Rhein"], "name:glg_x_preferred": ["Neuenburg am Rhein"], "name:gsw_x_preferred": ["N\u00f6ieburg am Rhi"], "name:hbs_x_preferred": ["Neuenburg am Rhein"], "name:hrv_x_preferred": ["Neuenburg am Rhein"], "name:hun_x_preferred": ["Neuenburg am Rhein"], "name:hye_x_preferred": ["\u054c\u0565\u0575\u0576\u056b \u0546\u0578\u0575\u0565\u0576\u0562\u0578\u0582\u0580\u0563"], "name:ido_x_preferred": ["Neuenburg am Rhein"], "name:ile_x_preferred": ["Neuenburg am Rhein"], "name:ina_x_preferred": ["Neuenburg am Rhein"], "name:ind_x_preferred": ["Neuenburg am Rhein"], "name:isl_x_preferred": ["Neuenburg am Rhein"], "name:ita_x_preferred": ["Neuenburg am Rhein"], "name:jpn_x_preferred": ["\u30ce\u30a4\u30a8\u30f3\u30d6\u30eb\u30af\u30fb\u30a2\u30e0\u30fb\u30e9\u30a4\u30f3"], "name:kon_x_preferred": ["Neuenburg am Rhein"], "name:kur_x_preferred": ["Neuenburg am Rhein"], "name:lat_x_preferred": ["Neuenburg am Rhein"], "name:lij_x_preferred": ["Neuenburg am Rhein"], "name:lim_x_preferred": ["Neuenburg am Rhein"], "name:lld_x_preferred": ["Neuenburg am Rhein"], "name:lmo_x_preferred": ["Neuenburg am Rhein"], "name:ltz_x_preferred": ["Neuenburg am Rhein"], "name:min_x_preferred": ["Neuenburg am Rhein"], "name:mlg_x_preferred": ["Neuenburg am Rhein"], "name:msa_x_preferred": ["Neuenburg am Rhein"], "name:nap_x_preferred": ["Neuenburg am Rhein"], "name:nds_x_preferred": ["Neuenburg am Rhein"], "name:nld_x_preferred": ["Neuenburg am Rhein"], "name:nno_x_preferred": ["Neuenburg am Rhein"], "name:nob_x_preferred": ["Neuenburg am Rhein"], "name:nrm_x_preferred": ["Neuenburg am Rhein"], "name:oci_x_preferred": ["Neuenburg am Rhein"], "name:pcd_x_preferred": ["Neuenburg am Rhein"], "name:pms_x_preferred": ["Neuenburg am Rhein"], "name:pol_x_preferred": ["Neuenburg am Rhein"], "name:por_x_preferred": ["Neuenburg am Rhein"], "name:roh_x_preferred": ["Neuenburg am Rhein"], "name:ron_x_preferred": ["Neuenburg am Rhein"], "name:rus_x_preferred": ["\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:rus_x_variant": ["\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"], "name:scn_x_preferred": ["Neuenburg am Rhein"], "name:sco_x_preferred": ["Neuenburg am Rhein"], "name:slk_x_preferred": ["Neuenburg am Rhein"], "name:slv_x_preferred": ["Neuenburg am Rhein"], "name:spa_x_preferred": ["Neuenburg del Rin"], "name:srd_x_preferred": ["Neuenburg am Rhein"], "name:srp_x_preferred": ["\u041d\u043e\u0458\u0435\u043d\u0431\u0443\u0440\u0433 \u0430\u043c \u0420\u0430\u0458\u043d"], "name:swa_x_preferred": ["Neuenburg am Rhein"], "name:swe_x_preferred": ["Neuenburg am Rhein"], "name:tat_x_preferred": ["\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0435\u0439\u043d\u0435"], "name:tum_x_preferred": ["Neuenburg am Rhein"], "name:tur_x_preferred": ["Neuenburg am Rhein"], "name:ukr_x_preferred": ["\u041d\u043e\u0454\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:und_x_variant": ["Neuenburg"], "name:uzb_x_preferred": ["Neuenburg am Rhein"], "name:vec_x_preferred": ["Neuenburg am Rhein"], "name:vie_x_preferred": ["Neuenburg am Rhein"], "name:vls_x_preferred": ["Neuenburg am Rhein"], "name:vol_x_preferred": ["Neuenburg am Rhein"], "name:war_x_preferred": ["Neuenburg am Rhein"], "name:wln_x_preferred": ["Neuenburg am Rhein"], "name:wol_x_preferred": ["Neuenburg am Rhein"], "name:zho_x_preferred": ["\u83b1\u8335\u6cb3\u7554\u8bfa\u4f0a\u6069\u5821"], "name:zho_x_variant": ["\u83b1\u8335\u6cb3\u7554\u8bfa\u4f0a\u6069\u5e03\u5c14\u683c"], "name:zul_x_preferred": ["Neuenburg am Rhein"], "nav:latitude": 47.814487, "nav:longitude": 7.562957, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Breisgau-Hochschwarzwald", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "M\u00fcllheim", "qs:la_lc": "*DE08301512074", "qs:level": "locality", "qs:loc": "Neuenburg am Rhein", "qs:loc_alt": "Neuenburg am Rhein", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-multi-in-poly-resolved", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558091, "qs_pg:gn_pop": 11948, "qs_pg:name": "Neuenburg am Rhein, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 2, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 3, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 635, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 6, "qs_pg:qs_id": 638113, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623343, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 44.12, "wd:latitude": 47.814722, "wd:longitude": 7.561944, "wd:population": 4333, "wd:wordcount": 61, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689125, 404227543, 102063241], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08315076", "eurostat:nuts_2021_id": "08315076", "gn:id": 2865813, "gp:id": 678117, "qs_pg:id": 1038973, "wd:id": "Q509783", "wk:page": "Neuenburg am Rhein"}, "wof:coterminous": [1377689125], "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "28b8b97aa548f79392f4655ab3f0a827", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063241, "localadmin_id": 1377689125, "locality_id": 101828661, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101828661, "wof:lastmodified": 1690872280, "wof:name": "Neuenburg am Rhein", "wof:parent_id": 1377689125, "wof:placetype": "locality", "wof:population": 12273, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125381229, 1125336673], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.529675, 47.743574, 7.61794, 47.901824], "geometry": {"coordinates": [[[[7.612924, 47.89118], [7.611185, 47.886151], [7.617819, 47.884527], [7.617595, 47.884018], [7.617394, 47.883563], [7.61725, 47.88328], [7.61706, 47.88287], [7.616871, 47.882434], [7.616794, 47.882153], [7.616679, 47.881601], [7.616631, 47.881051], [7.616636, 47.880503], [7.616695, 47.879955], [7.616795, 47.879391], [7.616921, 47.878828], [7.617074, 47.878265], [7.617483, 47.876274], [7.617914, 47.87312], [7.61794, 47.872669], [7.61768, 47.872281], [7.61355, 47.87336], [7.608627, 47.866106], [7.612271, 47.864368], [7.608622, 47.857723], [7.605976, 47.858418], [7.602976, 47.853499], [7.59927, 47.854264], [7.596908, 47.850325], [7.595457, 47.846365], [7.594902, 47.844668], [7.595551, 47.844083], [7.593614, 47.840667], [7.591134, 47.837633], [7.588066, 47.838235], [7.585858, 47.833076], [7.584751, 47.833271], [7.579716, 47.825338], [7.573964, 47.820957], [7.574875, 47.820685], [7.574011, 47.819267], [7.571681, 47.815526], [7.573448, 47.815016], [7.577442, 47.813864], [7.576417, 47.812226], [7.579172, 47.81033], [7.576504, 47.805321], [7.572415, 47.806507], [7.568622, 47.80045], [7.563656, 47.802017], [7.558498, 47.800538], [7.554468, 47.795563], [7.554157, 47.789582], [7.555878, 47.78622], [7.561581, 47.785016], [7.560793, 47.783906], [7.565166, 47.783295], [7.564531, 47.782091], [7.568617, 47.78158], [7.566835, 47.778097], [7.57355, 47.775561], [7.570552, 47.770759], [7.572418, 47.770341], [7.569741, 47.76642], [7.57054, 47.766216], [7.568625, 47.762963], [7.567651, 47.763198], [7.566664, 47.763423], [7.565867, 47.76359], [7.565421, 47.763677], [7.562189, 47.755424], [7.558436, 47.751698], [7.555996, 47.751911], [7.553383, 47.747631], [7.553442, 47.744395], [7.551075, 47.744052], [7.545991, 47.743574], [7.539846, 47.754351], [7.533385, 47.766039], [7.530711, 47.771772], [7.530174, 47.773671], [7.529938, 47.775254], [7.529675, 47.77808], [7.529846, 47.781258], [7.530212, 47.783141], [7.532145, 47.787783], [7.541075, 47.803457], [7.545368, 47.811551], [7.546447, 47.814126], [7.546876, 47.815217], [7.547625, 47.818022], [7.548885, 47.821267], [7.54995, 47.823323], [7.551184, 47.825384], [7.552515, 47.827248], [7.554302, 47.829295], [7.557795, 47.833302], [7.559095, 47.834993], [7.560031, 47.83636], [7.560995, 47.837986], [7.562164, 47.840444], [7.562921, 47.842692], [7.56332, 47.844559], [7.563567, 47.846822], [7.563616, 47.849565], [7.563303, 47.851984], [7.562856, 47.8538], [7.562122, 47.855436], [7.56126, 47.857098], [7.560043, 47.859007], [7.557608, 47.862854], [7.556584, 47.865083], [7.555963, 47.866951], [7.555599, 47.868797], [7.555442, 47.870707], [7.555469, 47.872392], [7.555539, 47.874079], [7.555775, 47.875597], [7.55631, 47.877527], [7.556984, 47.87903], [7.557918, 47.880455], [7.558898, 47.881823], [7.560463, 47.883351], [7.56245, 47.884918], [7.564501, 47.886144], [7.566735, 47.887118], [7.569021, 47.88795], [7.572588, 47.889388], [7.574891, 47.890649], [7.576516, 47.891892], [7.578421, 47.893428], [7.579778, 47.894892], [7.580789, 47.896461], [7.581627, 47.898012], [7.582475, 47.898161], [7.591727, 47.89982], [7.597428, 47.901824], [7.597748, 47.89774], [7.600849, 47.897094], [7.601014, 47.894724], [7.608221, 47.893394], [7.609465, 47.894074], [7.612924, 47.89118]]], [[[7.581028, 47.772964], [7.583364, 47.773629], [7.586133, 47.771923], [7.584938, 47.770002], [7.58385, 47.769685], [7.582549, 47.766619], [7.58075, 47.766598], [7.582392, 47.772686], [7.581028, 47.772964]]]], "type": "MultiPolygon"}}
+{
+  "id": 101828661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08315076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neuenburg am Rhein, Stadt",
+    "eurostat:nuts_2021_id":"08315076",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE132",
+    "eurostat:nuts_2021_level_lau":"08315076",
+    "eurostat:population":12273,
+    "eurostat:population_year":2020,
+    "geom:area":0.005281,
+    "geom:area_square_m":43839218.45736,
+    "geom:bbox":"7.529675,47.743574,7.61794,47.901824",
+    "geom:latitude":47.831232,
+    "geom:longitude":7.570454,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":11948,
+    "iso:country":"DE",
+    "lbl:latitude":47.814487,
+    "lbl:longitude":7.562957,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":47.814487,
+    "mps:longitude":7.562957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:als_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0646\u0628\u0648\u0631\u063a \u0622\u0645 \u0631\u0627\u064a\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:arz_x_preferred":[
+        "\u0646\u0648\u064a\u0646\u0628\u0648\u0631\u062c \u0622\u0645 \u0631\u0627\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u06cc\u0646\u0628\u0648\u0631\u0642 \u0622\u0645 \u0631\u0627\u06cc\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0435\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433 \u0430\u043c \u0420\u0435\u0439\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ceb_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ces_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0435\u0439\u043d-\u0442\u04c0\u0435\u0440\u0430-\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:cos_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:cym_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:dan_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:deu_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:eng_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:epo_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:est_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:eus_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u0646\u0628\u0648\u0631\u06af \u0622\u0645 \u0631\u0627\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:fra_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:frp_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:fur_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:gla_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:gle_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:glg_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:gsw_x_preferred":[
+        "N\u00f6ieburg am Rhi"
+    ],
+    "name:hbs_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:hrv_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:hun_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0565\u0575\u0576\u056b \u0546\u0578\u0575\u0565\u0576\u0562\u0578\u0582\u0580\u0563"
+    ],
+    "name:ido_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ile_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ina_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ind_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:isl_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ita_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30a4\u30a8\u30f3\u30d6\u30eb\u30af\u30fb\u30a2\u30e0\u30fb\u30e9\u30a4\u30f3"
+    ],
+    "name:kon_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:kur_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:lat_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:lij_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:lim_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:lld_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:lmo_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ltz_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:min_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:mlg_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:msa_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:nap_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:nds_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:nld_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:nno_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:nob_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:nrm_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:oci_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:pcd_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:pms_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:pol_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:por_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:roh_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ron_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:sco_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:slk_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:slv_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:spa_x_preferred":[
+        "Neuenburg del Rin"
+    ],
+    "name:srd_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0458\u0435\u043d\u0431\u0443\u0440\u0433 \u0430\u043c \u0420\u0430\u0458\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:swe_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439\u0435\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:tum_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:tur_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0454\u043d\u0431\u0443\u0440\u0433-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:und_x_variant":[
+        "Neuenburg"
+    ],
+    "name:uzb_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:vec_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:vie_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:vls_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:vol_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:war_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:wln_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:wol_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u8335\u6cb3\u7554\u8bfa\u4f0a\u6069\u5821"
+    ],
+    "name:zho_x_variant":[
+        "\u83b1\u8335\u6cb3\u7554\u8bfa\u4f0a\u6069\u5e03\u5c14\u683c"
+    ],
+    "name:zul_x_preferred":[
+        "Neuenburg am Rhein"
+    ],
+    "nav:latitude":47.814487,
+    "nav:longitude":7.562957,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Breisgau-Hochschwarzwald",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"M\u00fcllheim",
+    "qs:la_lc":"*DE08301512074",
+    "qs:level":"locality",
+    "qs:loc":"Neuenburg am Rhein",
+    "qs:loc_alt":"Neuenburg am Rhein",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558091,
+    "qs_pg:gn_pop":11948,
+    "qs_pg:name":"Neuenburg am Rhein, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":635,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":638113,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623343,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":44.12,
+    "wd:latitude":47.814722,
+    "wd:longitude":7.561944,
+    "wd:population":4333,
+    "wd:wordcount":61,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689125,
+        404227543,
+        102063241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08315076",
+        "eurostat:nuts_2021_id":"08315076",
+        "gn:id":2865813,
+        "gp:id":678117,
+        "qs_pg:id":1038973,
+        "wd:id":"Q509783",
+        "wk:page":"Neuenburg am Rhein"
+    },
+    "wof:coterminous":[
+        1377689125
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"28b8b97aa548f79392f4655ab3f0a827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063241,
+            "localadmin_id":1377689125,
+            "locality_id":101828661,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101828661,
+    "wof:lastmodified":1690872280,
+    "wof:name":"Neuenburg am Rhein",
+    "wof:parent_id":1377689125,
+    "wof:placetype":"locality",
+    "wof:population":12273,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125381229,
+        1125336673
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.529675,
+    47.743574,
+    7.61794,
+    47.901824
+],
+  "geometry": {"coordinates":[[[[7.612924,47.89118],[7.611185,47.886151],[7.617819,47.884527],[7.617595,47.884018],[7.617394,47.883563],[7.61725,47.88328],[7.61706,47.88287],[7.616871,47.882434],[7.616794,47.882153],[7.616679,47.881601],[7.616631,47.881051],[7.616636,47.880503],[7.616695,47.879955],[7.616795,47.879391],[7.616921,47.878828],[7.617074,47.878265],[7.617483,47.876274],[7.617914,47.87312],[7.61794,47.872669],[7.61768,47.872281],[7.61355,47.87336],[7.608627,47.866106],[7.612271,47.864368],[7.608622,47.857723],[7.605976,47.858418],[7.602976,47.853499],[7.59927,47.854264],[7.596908,47.850325],[7.595457,47.846365],[7.594902,47.844668],[7.595551,47.844083],[7.593614,47.840667],[7.591134,47.837633],[7.588066,47.838235],[7.585858,47.833076],[7.584751,47.833271],[7.579716,47.825338],[7.573964,47.820957],[7.574875,47.820685],[7.574011,47.819267],[7.571681,47.815526],[7.573448,47.815016],[7.577442,47.813864],[7.576417,47.812226],[7.579172,47.81033],[7.576504,47.805321],[7.572415,47.806507],[7.568622,47.80045],[7.563656,47.802017],[7.558498,47.800538],[7.554468,47.795563],[7.554157,47.789582],[7.555878,47.78622],[7.561581,47.785016],[7.560793,47.783906],[7.565166,47.783295],[7.564531,47.782091],[7.568617,47.78158],[7.566835,47.778097],[7.57355,47.775561],[7.570552,47.770759],[7.572418,47.770341],[7.569741,47.76642],[7.57054,47.766216],[7.568625,47.762963],[7.567651,47.763198],[7.566664,47.763423],[7.565867,47.76359],[7.565421,47.763677],[7.562189,47.755424],[7.558436,47.751698],[7.555996,47.751911],[7.553383,47.747631],[7.553442,47.744395],[7.551075,47.744052],[7.545991,47.743574],[7.539846,47.754351],[7.533385,47.766039],[7.530711,47.771772],[7.530174,47.773671],[7.529938,47.775254],[7.529675,47.77808],[7.529846,47.781258],[7.530212,47.783141],[7.532145,47.787783],[7.541075,47.803457],[7.545368,47.811551],[7.546447,47.814126],[7.546876,47.815217],[7.547625,47.818022],[7.548885,47.821267],[7.54995,47.823323],[7.551184,47.825384],[7.552515,47.827248],[7.554302,47.829295],[7.557795,47.833302],[7.559095,47.834993],[7.560031,47.83636],[7.560995,47.837986],[7.562164,47.840444],[7.562921,47.842692],[7.56332,47.844559],[7.563567,47.846822],[7.563616,47.849565],[7.563303,47.851984],[7.562856,47.8538],[7.562122,47.855436],[7.56126,47.857098],[7.560043,47.859007],[7.557608,47.862854],[7.556584,47.865083],[7.555963,47.866951],[7.555599,47.868797],[7.555442,47.870707],[7.555469,47.872392],[7.555539,47.874079],[7.555775,47.875597],[7.55631,47.877527],[7.556984,47.87903],[7.557918,47.880455],[7.558898,47.881823],[7.560463,47.883351],[7.56245,47.884918],[7.564501,47.886144],[7.566735,47.887118],[7.569021,47.88795],[7.572588,47.889388],[7.574891,47.890649],[7.576516,47.891892],[7.578421,47.893428],[7.579778,47.894892],[7.580789,47.896461],[7.581627,47.898012],[7.582475,47.898161],[7.591727,47.89982],[7.597428,47.901824],[7.597748,47.89774],[7.600849,47.897094],[7.601014,47.894724],[7.608221,47.893394],[7.609465,47.894074],[7.612924,47.89118]]],[[[7.581028,47.772964],[7.583364,47.773629],[7.586133,47.771923],[7.584938,47.770002],[7.58385,47.769685],[7.582549,47.766619],[7.58075,47.766598],[7.582392,47.772686],[7.581028,47.772964]]]],"type":"MultiPolygon"}
+}

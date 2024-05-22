@@ -1,1 +1,152 @@
-{"id": 101909181, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 6.4e-05, "geom:area_square_m": 488182.578931, "geom:bbox": "11.413492,51.702009,11.425177,51.711012", "geom:latitude": 51.706989, "geom:longitude": 11.420608, "gn:population": 778, "iso:country": "DE", "lbl:latitude": 51.706728, "lbl:longitude": 11.421081, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.706728, "mps:longitude": 11.421081, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"], "name:ceb_x_preferred": ["Welbsleben"], "name:che_x_preferred": ["\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"], "name:deu_x_preferred": ["Welbsleben"], "name:eng_x_preferred": ["Welbsleben"], "name:epo_x_preferred": ["Welbsleben"], "name:fas_x_preferred": ["\u0648\u0644\u0628\u0633\u0644\u0628\u0646"], "name:fra_x_preferred": ["Welbsleben"], "name:gle_x_preferred": ["Welbsleben"], "name:ita_x_preferred": ["Welbsleben"], "name:kaz_x_preferred": ["\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"], "name:kir_x_preferred": ["\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"], "name:mkd_x_preferred": ["\u0412\u0435\u043b\u0431\u0441\u043b\u0435\u0431\u0435\u043d"], "name:nld_x_preferred": ["Welbsleben"], "name:ron_x_preferred": ["Welbsleben"], "name:rus_x_preferred": ["\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"], "name:tat_x_preferred": ["\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"], "name:uzb_x_preferred": ["Welbsleben"], "name:vie_x_preferred": ["Welbsleben"], "name:vol_x_preferred": ["Welbsleben"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Mansfeld-S\u00fcdharz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Welbsleben", "qs:la_lc": "*DE15008709450", "qs:level": "locality", "qs:loc": "Welbsleben", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 27, "wof:belongsto": [85682519, 102191581, 1377688731, 85633111, 102063819], "wof:breaches": [], "wof:concordances": {"gn:id": 2811584, "gp:id": 705076, "qs_pg:id": 81538, "wd:id": "Q259239", "wk:page": "Welbsleben"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "a61af129c85a83e93f9cec520fd11210", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063819, "localadmin_id": 1377688731, "locality_id": 101909181, "region_id": 85682519}], "wof:id": 101909181, "wof:lastmodified": 1690871399, "wof:name": "Welbsleben", "wof:parent_id": 1377688731, "wof:placetype": "locality", "wof:population": 778, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.413492, 51.702009, 11.425177, 51.711012], "geometry": {"coordinates": [[[11.425177, 51.710942], [11.424951, 51.703753], [11.420612, 51.703806], [11.420555, 51.702009], [11.417663, 51.702044], [11.417803, 51.706537], [11.414911, 51.706571], [11.414939, 51.70747], [11.413492, 51.707487], [11.41352, 51.708386], [11.414967, 51.708369], [11.414995, 51.709267], [11.419334, 51.709215], [11.41939, 51.711012], [11.425177, 51.710942]]], "type": "Polygon"}}
+{
+  "id": 101909181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":488182.578931,
+    "geom:bbox":"11.413492,51.702009,11.425177,51.711012",
+    "geom:latitude":51.706989,
+    "geom:longitude":11.420608,
+    "gn:population":778,
+    "iso:country":"DE",
+    "lbl:latitude":51.706728,
+    "lbl:longitude":11.421081,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.706728,
+    "mps:longitude":11.421081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:eng_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:epo_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0628\u0633\u0644\u0628\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:gle_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:ita_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0431\u0441\u043b\u0435\u0431\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:ron_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u0431\u0441\u043b\u0435\u0431\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:vie_x_preferred":[
+        "Welbsleben"
+    ],
+    "name:vol_x_preferred":[
+        "Welbsleben"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Mansfeld-S\u00fcdharz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Welbsleben",
+    "qs:la_lc":"*DE15008709450",
+    "qs:level":"locality",
+    "qs:loc":"Welbsleben",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688731,
+        85633111,
+        102063819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2811584,
+        "gp:id":705076,
+        "qs_pg:id":81538,
+        "wd:id":"Q259239",
+        "wk:page":"Welbsleben"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"a61af129c85a83e93f9cec520fd11210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063819,
+            "localadmin_id":1377688731,
+            "locality_id":101909181,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909181,
+    "wof:lastmodified":1690871399,
+    "wof:name":"Welbsleben",
+    "wof:parent_id":1377688731,
+    "wof:placetype":"locality",
+    "wof:population":778,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.413492,
+    51.702009,
+    11.425177,
+    51.711012
+],
+  "geometry": {"coordinates":[[[11.425177,51.710942],[11.424951,51.703753],[11.420612,51.703806],[11.420555,51.702009],[11.417663,51.702044],[11.417803,51.706537],[11.414911,51.706571],[11.414939,51.70747],[11.413492,51.707487],[11.41352,51.708386],[11.414967,51.708369],[11.414995,51.709267],[11.419334,51.709215],[11.41939,51.711012],[11.425177,51.710942]]],"type":"Polygon"}
+}

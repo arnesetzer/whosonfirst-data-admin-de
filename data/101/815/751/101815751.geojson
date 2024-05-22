@@ -1,1 +1,225 @@
-{"id": 101815751, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07336011", "eurostat:level_code": "lau", "eurostat:name_local": "Br\u00fccken (Pfalz)", "eurostat:nuts_2021_id": "07336011", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3G", "eurostat:nuts_2021_level_lau": "07336011", "eurostat:population": 2075, "eurostat:population_year": 2020, "geom:area": 0.001002, "geom:area_square_m": 8060892.726972, "geom:bbox": "7.328279,49.414393,7.390518,49.442139", "geom:latitude": 49.428374, "geom:longitude": 7.362099, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 2227, "iso:country": "DE", "lbl:latitude": 49.431717, "lbl:longitude": 7.360642, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 49.431717, "mps:longitude": 7.360642, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Br\u00fccken"], "name:ceb_x_preferred": ["Br\u00fccken"], "name:che_x_preferred": ["\u0411\u0440\u0443\u044c\u043a\u043a\u0435\u043d"], "name:cym_x_preferred": ["Br\u00fccken"], "name:deu_x_preferred": ["Br\u00fccken (Pfalz)"], "name:deu_x_variant": ["Br\u00fccken"], "name:eng_x_preferred": ["Br\u00fccken"], "name:epo_x_preferred": ["Br\u00fccken"], "name:eus_x_preferred": ["Br\u00fccken"], "name:fas_x_preferred": ["\u0628\u0631\u0648\u06a9\u0646"], "name:fra_x_preferred": ["Br\u00fccken"], "name:hun_x_preferred": ["Br\u00fccken"], "name:ita_x_preferred": ["Br\u00fccken"], "name:jpn_x_preferred": ["\u30d6\u30ea\u30e5\u30c3\u30b1\u30f3"], "name:kaz_x_preferred": ["\u0411\u0440\u044e\u043a\u043a\u0435\u043d"], "name:kir_x_preferred": ["\u0411\u0440\u04af\u043a\u043a\u0435\u043d"], "name:kur_x_preferred": ["Br\u00fccken"], "name:lld_x_preferred": ["Br\u00fccken"], "name:msa_x_preferred": ["Br\u00fccken"], "name:nan_x_preferred": ["Br\u00fccken"], "name:nld_x_preferred": ["Br\u00fccken"], "name:nob_x_preferred": ["Br\u00fccken"], "name:pol_x_preferred": ["Br\u00fccken"], "name:por_x_preferred": ["Br\u00fccken"], "name:ron_x_preferred": ["Br\u00fccken"], "name:rus_x_preferred": ["\u0411\u0440\u044e\u043a\u043a\u0435\u043d"], "name:spa_x_preferred": ["Br\u00fccken"], "name:srp_x_preferred": ["\u0411\u0440\u0438\u043a\u0435\u043d"], "name:swe_x_preferred": ["Br\u00fccken"], "name:tat_x_preferred": ["\u0411\u0440\u044e\u043a\u043a\u0435\u043d"], "name:ukr_x_preferred": ["\u0411\u0440\u044e\u043a\u043a\u0435\u043d"], "name:uzb_x_preferred": ["Br\u00fccken"], "name:vie_x_preferred": ["Br\u00fccken"], "name:war_x_preferred": ["Br\u00fccken"], "nav:latitude": 49.431717, "nav:longitude": 7.360642, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Kusel", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Br\u00fccken (Pfalz)", "qs:la_lc": "*DE07033605011", "qs:level": "locality", "qs:loc": "Br\u00fccken (Pfalz)", "qs:loc_alt": "Bruecken (Pfalz)", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558919, "qs_pg:gn_pop": 2227, "qs_pg:name": "Br\u00fccken (Pfalz)", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 638942, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682491, 102191581, 1377686491, 85633111, 102063499], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07336011", "eurostat:nuts_2021_id": "07336011", "gn:id": 2943488, "gp:id": 641614, "qs_pg:id": 142800, "wd:id": "Q677054", "wk:page": "Br\u00fccken, Kusel"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes"], "wof:geomhash": "9f5ded9ffb825bb6b5ef820a564953c2", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063499, "localadmin_id": 1377686491, "locality_id": 101815751, "region_id": 85682491}], "wof:id": 101815751, "wof:lastmodified": 1690873249, "wof:name": "Br\u00fccken (Pfalz)", "wof:parent_id": 1377686491, "wof:placetype": "locality", "wof:population": 2075, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125316051], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.328279, 49.414393, 7.390518, 49.442139], "geometry": {"coordinates": [[[[7.356751, 49.442139], [7.357576, 49.440721], [7.36042, 49.441566], [7.365823, 49.439808], [7.376327, 49.43838], [7.381234, 49.439992], [7.385445, 49.43785], [7.389372, 49.434986], [7.390518, 49.432469], [7.389476, 49.430442], [7.389803, 49.430091], [7.390398, 49.429423], [7.38775, 49.427834], [7.387234, 49.426224], [7.384665, 49.424175], [7.384121, 49.422421], [7.382317, 49.421447], [7.380562, 49.42156], [7.378813, 49.42094], [7.376977, 49.42057], [7.375907, 49.421315], [7.373258, 49.420662], [7.371498, 49.420208], [7.369955, 49.419236], [7.369142, 49.419952], [7.367752, 49.418865], [7.363424, 49.41824], [7.361072, 49.417067], [7.359871, 49.417708], [7.354005, 49.416653], [7.35114, 49.415727], [7.350441, 49.414393], [7.344173, 49.414433], [7.342497, 49.414973], [7.337664, 49.415157], [7.328279, 49.416877], [7.332906, 49.419547], [7.33821, 49.42011], [7.338515, 49.422171], [7.341715, 49.423477], [7.348557, 49.430889], [7.342887, 49.43417], [7.343596, 49.435577], [7.341523, 49.436644], [7.34105, 49.438792], [7.34557, 49.440395], [7.356749, 49.440266], [7.355526, 49.441871], [7.356751, 49.442139]]]], "type": "MultiPolygon"}}
+{
+  "id": 101815751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07336011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Br\u00fccken (Pfalz)",
+    "eurostat:nuts_2021_id":"07336011",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3G",
+    "eurostat:nuts_2021_level_lau":"07336011",
+    "eurostat:population":2075,
+    "eurostat:population_year":2020,
+    "geom:area":0.001002,
+    "geom:area_square_m":8060892.726972,
+    "geom:bbox":"7.328279,49.414393,7.390518,49.442139",
+    "geom:latitude":49.428374,
+    "geom:longitude":7.362099,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":2227,
+    "iso:country":"DE",
+    "lbl:latitude":49.431717,
+    "lbl:longitude":7.360642,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":49.431717,
+    "mps:longitude":7.360642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:ceb_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u0443\u044c\u043a\u043a\u0435\u043d"
+    ],
+    "name:cym_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:deu_x_preferred":[
+        "Br\u00fccken (Pfalz)"
+    ],
+    "name:deu_x_variant":[
+        "Br\u00fccken"
+    ],
+    "name:eng_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:epo_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:eus_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u06a9\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:hun_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:ita_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30e5\u30c3\u30b1\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u044e\u043a\u043a\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0440\u04af\u043a\u043a\u0435\u043d"
+    ],
+    "name:kur_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:lld_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:msa_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:nan_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:nld_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:nob_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:pol_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:por_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:ron_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044e\u043a\u043a\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0438\u043a\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u044e\u043a\u043a\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u044e\u043a\u043a\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:vie_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "name:war_x_preferred":[
+        "Br\u00fccken"
+    ],
+    "nav:latitude":49.431717,
+    "nav:longitude":7.360642,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Kusel",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Br\u00fccken (Pfalz)",
+    "qs:la_lc":"*DE07033605011",
+    "qs:level":"locality",
+    "qs:loc":"Br\u00fccken (Pfalz)",
+    "qs:loc_alt":"Bruecken (Pfalz)",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558919,
+    "qs_pg:gn_pop":2227,
+    "qs_pg:name":"Br\u00fccken (Pfalz)",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":638942,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686491,
+        85633111,
+        102063499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07336011",
+        "eurostat:nuts_2021_id":"07336011",
+        "gn:id":2943488,
+        "gp:id":641614,
+        "qs_pg:id":142800,
+        "wd:id":"Q677054",
+        "wk:page":"Br\u00fccken, Kusel"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"9f5ded9ffb825bb6b5ef820a564953c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063499,
+            "localadmin_id":1377686491,
+            "locality_id":101815751,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101815751,
+    "wof:lastmodified":1690873249,
+    "wof:name":"Br\u00fccken (Pfalz)",
+    "wof:parent_id":1377686491,
+    "wof:placetype":"locality",
+    "wof:population":2075,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125316051
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.328279,
+    49.414393,
+    7.390518,
+    49.442139
+],
+  "geometry": {"coordinates":[[[[7.356751,49.442139],[7.357576,49.440721],[7.36042,49.441566],[7.365823,49.439808],[7.376327,49.43838],[7.381234,49.439992],[7.385445,49.43785],[7.389372,49.434986],[7.390518,49.432469],[7.389476,49.430442],[7.389803,49.430091],[7.390398,49.429423],[7.38775,49.427834],[7.387234,49.426224],[7.384665,49.424175],[7.384121,49.422421],[7.382317,49.421447],[7.380562,49.42156],[7.378813,49.42094],[7.376977,49.42057],[7.375907,49.421315],[7.373258,49.420662],[7.371498,49.420208],[7.369955,49.419236],[7.369142,49.419952],[7.367752,49.418865],[7.363424,49.41824],[7.361072,49.417067],[7.359871,49.417708],[7.354005,49.416653],[7.35114,49.415727],[7.350441,49.414393],[7.344173,49.414433],[7.342497,49.414973],[7.337664,49.415157],[7.328279,49.416877],[7.332906,49.419547],[7.33821,49.42011],[7.338515,49.422171],[7.341715,49.423477],[7.348557,49.430889],[7.342887,49.43417],[7.343596,49.435577],[7.341523,49.436644],[7.34105,49.438792],[7.34557,49.440395],[7.356749,49.440266],[7.355526,49.441871],[7.356751,49.442139]]]],"type":"MultiPolygon"}
+}

@@ -1,1 +1,363 @@
-{"id": 101765143, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08335026", "eurostat:level_code": "lau", "eurostat:name_local": "Gailingen am Hochrhein", "eurostat:nuts_2021_id": "08335026", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE138", "eurostat:nuts_2021_level_lau": "08335026", "eurostat:population": 2915, "eurostat:population_year": 2020, "geom:area": 0.001575, "geom:area_square_m": 13112053.75697, "geom:bbox": "8.726361,47.674855,8.810078,47.716151", "geom:latitude": 47.695905, "geom:longitude": 8.766926, "gn:population": 2772, "iso:country": "DE", "lbl:latitude": 47.695459, "lbl:longitude": 8.757202, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 47.695459, "mps:longitude": 8.757202, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Gailingen am Hochrhein"], "name:arg_x_preferred": ["Gailingen am Hochrhein"], "name:ast_x_preferred": ["Gailingen am Hochrhein"], "name:bar_x_preferred": ["Gailingen am Hochrhein"], "name:bre_x_preferred": ["Gailingen am Hochrhein"], "name:cat_x_preferred": ["Gailingen"], "name:ceb_x_preferred": ["Gailingen"], "name:ces_x_preferred": ["Gailingen am Hochrhein"], "name:che_x_preferred": ["\u0413\u0430\u0439\u043b\u0438\u043d\u0433\u0435\u043d"], "name:cos_x_preferred": ["Gailingen am Hochrhein"], "name:cym_x_preferred": ["Gailingen am Hochrhein"], "name:dan_x_preferred": ["Gailingen am Hochrhein"], "name:deu_x_preferred": ["Gailingen am Hochrhein"], "name:deu_x_variant": ["Gailingen"], "name:eng_x_preferred": ["Gailingen am Hochrhein"], "name:epo_x_preferred": ["Gailingen am Hochrhein"], "name:est_x_preferred": ["Gailingen am Hochrhein"], "name:eus_x_preferred": ["Gailingen"], "name:fas_x_preferred": ["\u06af\u0627\u06cc\u0644\u06cc\u0646\u06af\u0646"], "name:fin_x_preferred": ["Gailingen am Hochrhein"], "name:fra_x_preferred": ["Gailingen am Hochrhein"], "name:frp_x_preferred": ["Gailingen am Hochrhein"], "name:fur_x_preferred": ["Gailingen am Hochrhein"], "name:gla_x_preferred": ["Gailingen am Hochrhein"], "name:gle_x_preferred": ["Gailingen am Hochrhein"], "name:glg_x_preferred": ["Gailingen am Hochrhein"], "name:gsw_x_preferred": ["Gailinge am Hochrhi"], "name:heb_x_preferred": ["\u05d2\u05d9\u05d9\u05dc\u05d9\u05e0\u05d2\u05df"], "name:hrv_x_preferred": ["Gailingen am Hochrhein"], "name:hun_x_preferred": ["Gailingen am Hochrhein"], "name:ido_x_preferred": ["Gailingen am Hochrhein"], "name:ile_x_preferred": ["Gailingen am Hochrhein"], "name:ina_x_preferred": ["Gailingen am Hochrhein"], "name:ind_x_preferred": ["Gailingen am Hochrhein"], "name:isl_x_preferred": ["Gailingen am Hochrhein"], "name:ita_x_preferred": ["Gailingen am Hochrhein"], "name:kon_x_preferred": ["Gailingen am Hochrhein"], "name:kur_x_preferred": ["Gailingen am Hochrhein"], "name:lat_x_preferred": ["Gailingen"], "name:lij_x_preferred": ["Gailingen am Hochrhein"], "name:lim_x_preferred": ["Gailingen am Hochrhein"], "name:lld_x_preferred": ["Gailingen am Hochrhein"], "name:lmo_x_preferred": ["Gailingen am Hochrhein"], "name:ltz_x_preferred": ["Gailingen am Hochrhein"], "name:min_x_preferred": ["Gailingen am Hochrhein"], "name:mlg_x_preferred": ["Gailingen am Hochrhein"], "name:msa_x_preferred": ["Gailingen"], "name:nan_x_preferred": ["Gailingen"], "name:nap_x_preferred": ["Gailingen am Hochrhein"], "name:nds_x_preferred": ["Gailingen am Hochrhein"], "name:nld_x_preferred": ["Gailingen am Hochrhein"], "name:nno_x_preferred": ["Gailingen am Hochrhein"], "name:nob_x_preferred": ["Gailingen am Hochrhein"], "name:nrm_x_preferred": ["Gailingen am Hochrhein"], "name:oci_x_preferred": ["Gailingen"], "name:pcd_x_preferred": ["Gailingen am Hochrhein"], "name:pms_x_preferred": ["Gailingen am Hochrhein"], "name:pol_x_preferred": ["Gailingen am Hochrhein"], "name:por_x_preferred": ["Gailingen"], "name:roh_x_preferred": ["Gailingen am Hochrhein"], "name:ron_x_preferred": ["Gailingen am Hochrhein"], "name:rus_x_preferred": ["\u0413\u0430\u0439\u043b\u0438\u043d\u0433\u0435\u043d"], "name:scn_x_preferred": ["Gailingen am Hochrhein"], "name:sco_x_preferred": ["Gailingen am Hochrhein"], "name:slk_x_preferred": ["Gailingen am Hochrhein"], "name:slv_x_preferred": ["Gailingen am Hochrhein"], "name:spa_x_preferred": ["Gailingen"], "name:srd_x_preferred": ["Gailingen am Hochrhein"], "name:srp_x_preferred": ["\u0413\u0430\u0458\u043b\u0438\u043d\u0433\u0435\u043d \u0430\u043c \u0425\u043e\u0445\u0440\u0430\u0458\u043d"], "name:swa_x_preferred": ["Gailingen am Hochrhein"], "name:swe_x_preferred": ["Gailingen am Hochrhein"], "name:tat_x_preferred": ["\u0413\u0430\u0439\u043b\u0438\u043d\u0433\u0435\u043d"], "name:ukr_x_preferred": ["\u0413\u0430\u0439\u043b\u0456\u043d\u0433\u0435\u043d"], "name:uzb_x_preferred": ["Gailingen am Hochrhein"], "name:vec_x_preferred": ["Gailingen am Hochrhein"], "name:vie_x_preferred": ["Gailingen am Hochrhein"], "name:vls_x_preferred": ["Gailingen am Hochrhein"], "name:vol_x_preferred": ["Gailingen am Hochrhein"], "name:war_x_preferred": ["Gailingen"], "name:wln_x_preferred": ["Gailingen am Hochrhein"], "name:wol_x_preferred": ["Gailingen am Hochrhein"], "name:zho_x_preferred": ["\u76d6\u6797\u6839"], "name:zul_x_preferred": ["Gailingen am Hochrhein"], "nav:latitude": 47.695459, "nav:longitude": 8.757202, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Thurgau", "qs:a1r": "0", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Gailingen am Hochrhein", "qs:la_lc": "*DE08303502026", "qs:level": "locality", "qs:loc": "Gailingen am Hochrhein", "qs:loc_alt": "Gailingen am Hochrhein", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682567, 102191581, 85633111, 1377689693, 404227543, 102063219], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08335026", "eurostat:nuts_2021_id": "08335026", "fct:id": "073f5d82-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 6555862, "gp:id": 651346, "qs_pg:id": 1225705, "wd:id": "Q62026"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "e9e5c80c2903e2ddd5c6ffdaa4d0d522", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063219, "localadmin_id": 1377689693, "locality_id": 101765143, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101765143, "wof:lang": ["ger"], "wof:lastmodified": 1690871768, "wof:name": "Gailingen am Hochrhein", "wof:parent_id": 1377689693, "wof:placetype": "locality", "wof:population": 2915, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.726361, 47.674855, 8.810078, 47.716151], "geometry": {"coordinates": [[[[8.76935, 47.706876], [8.770051, 47.70675], [8.771421, 47.706867], [8.772171, 47.706593], [8.772864, 47.706414], [8.773359, 47.706374], [8.773877, 47.706157], [8.774748, 47.705945], [8.775629, 47.705923], [8.777158, 47.706042], [8.778094, 47.705974], [8.779403, 47.705816], [8.78054, 47.705549], [8.781783, 47.705271], [8.782616, 47.705129], [8.784063, 47.705045], [8.785037, 47.704906], [8.786313, 47.7047], [8.787336, 47.704657], [8.788303, 47.70472], [8.789161, 47.704864], [8.789913, 47.70503], [8.790837, 47.705306], [8.791354, 47.705112], [8.792066, 47.704909], [8.792448, 47.704571], [8.793037, 47.704342], [8.793602, 47.704303], [8.793957, 47.704226], [8.794246, 47.704016], [8.794556, 47.703712], [8.795162, 47.703507], [8.795725, 47.703516], [8.795858, 47.703256], [8.796254, 47.703013], [8.796717, 47.702866], [8.79765, 47.702868], [8.797757, 47.702323], [8.797928, 47.701945], [8.798189, 47.701545], [8.798421, 47.700942], [8.798496, 47.70047], [8.798608, 47.699623], [8.798596, 47.698933], [8.798208, 47.697916], [8.797724, 47.697147], [8.798645, 47.696995], [8.800715, 47.696742], [8.802679, 47.696464], [8.803791, 47.69641], [8.804953, 47.696416], [8.806324, 47.696497], [8.806988, 47.696138], [8.807656, 47.695661], [8.808289, 47.695172], [8.808907, 47.69461], [8.80935, 47.694011], [8.810078, 47.69332], [8.809076, 47.692746], [8.80809, 47.692219], [8.806993, 47.691869], [8.806139, 47.691606], [8.805524, 47.691549], [8.80473, 47.691596], [8.803844, 47.691773], [8.802989, 47.692033], [8.800076, 47.691726], [8.799804, 47.691436], [8.799816, 47.691104], [8.798784, 47.690386], [8.798032, 47.689726], [8.796515, 47.687779], [8.796037, 47.685794], [8.795201, 47.684163], [8.794376, 47.682298], [8.793324, 47.679918], [8.793426, 47.679272], [8.79502, 47.676654], [8.795468, 47.675996], [8.795947, 47.675302], [8.794608, 47.675054], [8.793609, 47.674919], [8.792573, 47.674855], [8.79155, 47.674899], [8.790215, 47.675105], [8.789639, 47.67524], [8.788859, 47.675452], [8.788106, 47.675674], [8.78734, 47.675905], [8.786599, 47.676154], [8.78567, 47.676463], [8.784929, 47.67673], [8.784214, 47.677006], [8.783485, 47.6773], [8.780501, 47.678547], [8.778958, 47.679269], [8.77808, 47.679642], [8.777541, 47.679849], [8.776436, 47.680236], [8.774992, 47.680788], [8.774239, 47.681028], [8.773686, 47.681226], [8.773361, 47.681401], [8.773061, 47.681594], [8.772637, 47.681911], [8.772143, 47.682343], [8.771082, 47.683387], [8.770697, 47.683731], [8.769942, 47.684403], [8.769069, 47.685], [8.768431, 47.685349], [8.767578, 47.685758], [8.7667, 47.686131], [8.763237, 47.687411], [8.758625, 47.689013], [8.757306, 47.689423], [8.755949, 47.689779], [8.755377, 47.689904], [8.754567, 47.690081], [8.752521, 47.690464], [8.750151, 47.69072], [8.748841, 47.69087], [8.748227, 47.690932], [8.747813, 47.690961], [8.747201, 47.69096], [8.745952, 47.690877], [8.745327, 47.690867], [8.7443, 47.690922], [8.743659, 47.690975], [8.742857, 47.69107], [8.742041, 47.691183], [8.741238, 47.691295], [8.740421, 47.691426], [8.739818, 47.691533], [8.738826, 47.691733], [8.737268, 47.692121], [8.736476, 47.692288], [8.735873, 47.692404], [8.73507, 47.692535], [8.734253, 47.692657], [8.733224, 47.692757], [8.732399, 47.692752], [8.727981, 47.692681], [8.727638, 47.693358], [8.727286, 47.694081], [8.726718, 47.695249], [8.726361, 47.696672], [8.727762, 47.700148], [8.728685, 47.702436], [8.72878, 47.702752], [8.730689, 47.706729], [8.731149, 47.707663], [8.730784, 47.708342], [8.731584, 47.709611], [8.731919, 47.71146], [8.73276, 47.712516], [8.734966, 47.715284], [8.736294, 47.716151], [8.737332, 47.71579], [8.737054, 47.714617], [8.739126, 47.713671], [8.740949, 47.712208], [8.741574, 47.711104], [8.74428, 47.710671], [8.745229, 47.709068], [8.762514, 47.706091], [8.76935, 47.706876]]]], "type": "MultiPolygon"}}
+{
+  "id": 101765143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08335026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gailingen am Hochrhein",
+    "eurostat:nuts_2021_id":"08335026",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE138",
+    "eurostat:nuts_2021_level_lau":"08335026",
+    "eurostat:population":2915,
+    "eurostat:population_year":2020,
+    "geom:area":0.001575,
+    "geom:area_square_m":13112053.75697,
+    "geom:bbox":"8.726361,47.674855,8.810078,47.716151",
+    "geom:latitude":47.695905,
+    "geom:longitude":8.766926,
+    "gn:population":2772,
+    "iso:country":"DE",
+    "lbl:latitude":47.695459,
+    "lbl:longitude":8.757202,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":47.695459,
+    "mps:longitude":8.757202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:arg_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:ast_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:bar_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:bre_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:cat_x_preferred":[
+        "Gailingen"
+    ],
+    "name:ceb_x_preferred":[
+        "Gailingen"
+    ],
+    "name:ces_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u0439\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:cym_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:dan_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:deu_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:deu_x_variant":[
+        "Gailingen"
+    ],
+    "name:eng_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:epo_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:est_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:eus_x_preferred":[
+        "Gailingen"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u06cc\u0644\u06cc\u0646\u06af\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:fra_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:frp_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:fur_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:gla_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:gle_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:glg_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:gsw_x_preferred":[
+        "Gailinge am Hochrhi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05d9\u05dc\u05d9\u05e0\u05d2\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:hun_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:ido_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:ile_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:ina_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:ind_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:isl_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:ita_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:kon_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:kur_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:lat_x_preferred":[
+        "Gailingen"
+    ],
+    "name:lij_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:lim_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:lld_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:lmo_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:ltz_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:min_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:mlg_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:msa_x_preferred":[
+        "Gailingen"
+    ],
+    "name:nan_x_preferred":[
+        "Gailingen"
+    ],
+    "name:nap_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:nds_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:nld_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:nno_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:nob_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:nrm_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:oci_x_preferred":[
+        "Gailingen"
+    ],
+    "name:pcd_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:pms_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:pol_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:por_x_preferred":[
+        "Gailingen"
+    ],
+    "name:roh_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:ron_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0439\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:sco_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:slk_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:slv_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:spa_x_preferred":[
+        "Gailingen"
+    ],
+    "name:srd_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u0458\u043b\u0438\u043d\u0433\u0435\u043d \u0430\u043c \u0425\u043e\u0445\u0440\u0430\u0458\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:swe_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0430\u0439\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0439\u043b\u0456\u043d\u0433\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:vec_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:vie_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:vls_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:vol_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:war_x_preferred":[
+        "Gailingen"
+    ],
+    "name:wln_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:wol_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "name:zho_x_preferred":[
+        "\u76d6\u6797\u6839"
+    ],
+    "name:zul_x_preferred":[
+        "Gailingen am Hochrhein"
+    ],
+    "nav:latitude":47.695459,
+    "nav:longitude":8.757202,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Thurgau",
+    "qs:a1r":"0",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Gailingen am Hochrhein",
+    "qs:la_lc":"*DE08303502026",
+    "qs:level":"locality",
+    "qs:loc":"Gailingen am Hochrhein",
+    "qs:loc_alt":"Gailingen am Hochrhein",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689693,
+        404227543,
+        102063219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08335026",
+        "eurostat:nuts_2021_id":"08335026",
+        "fct:id":"073f5d82-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6555862,
+        "gp:id":651346,
+        "qs_pg:id":1225705,
+        "wd:id":"Q62026"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"e9e5c80c2903e2ddd5c6ffdaa4d0d522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063219,
+            "localadmin_id":1377689693,
+            "locality_id":101765143,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101765143,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871768,
+    "wof:name":"Gailingen am Hochrhein",
+    "wof:parent_id":1377689693,
+    "wof:placetype":"locality",
+    "wof:population":2915,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.726361,
+    47.674855,
+    8.810078,
+    47.716151
+],
+  "geometry": {"coordinates":[[[[8.76935,47.706876],[8.770051,47.70675],[8.771421,47.706867],[8.772171,47.706593],[8.772864,47.706414],[8.773359,47.706374],[8.773877,47.706157],[8.774748,47.705945],[8.775629,47.705923],[8.777158,47.706042],[8.778094,47.705974],[8.779403,47.705816],[8.78054,47.705549],[8.781783,47.705271],[8.782616,47.705129],[8.784063,47.705045],[8.785037,47.704906],[8.786313,47.7047],[8.787336,47.704657],[8.788303,47.70472],[8.789161,47.704864],[8.789913,47.70503],[8.790837,47.705306],[8.791354,47.705112],[8.792066,47.704909],[8.792448,47.704571],[8.793037,47.704342],[8.793602,47.704303],[8.793957,47.704226],[8.794246,47.704016],[8.794556,47.703712],[8.795162,47.703507],[8.795725,47.703516],[8.795858,47.703256],[8.796254,47.703013],[8.796717,47.702866],[8.79765,47.702868],[8.797757,47.702323],[8.797928,47.701945],[8.798189,47.701545],[8.798421,47.700942],[8.798496,47.70047],[8.798608,47.699623],[8.798596,47.698933],[8.798208,47.697916],[8.797724,47.697147],[8.798645,47.696995],[8.800715,47.696742],[8.802679,47.696464],[8.803791,47.69641],[8.804953,47.696416],[8.806324,47.696497],[8.806988,47.696138],[8.807656,47.695661],[8.808289,47.695172],[8.808907,47.69461],[8.80935,47.694011],[8.810078,47.69332],[8.809076,47.692746],[8.80809,47.692219],[8.806993,47.691869],[8.806139,47.691606],[8.805524,47.691549],[8.80473,47.691596],[8.803844,47.691773],[8.802989,47.692033],[8.800076,47.691726],[8.799804,47.691436],[8.799816,47.691104],[8.798784,47.690386],[8.798032,47.689726],[8.796515,47.687779],[8.796037,47.685794],[8.795201,47.684163],[8.794376,47.682298],[8.793324,47.679918],[8.793426,47.679272],[8.79502,47.676654],[8.795468,47.675996],[8.795947,47.675302],[8.794608,47.675054],[8.793609,47.674919],[8.792573,47.674855],[8.79155,47.674899],[8.790215,47.675105],[8.789639,47.67524],[8.788859,47.675452],[8.788106,47.675674],[8.78734,47.675905],[8.786599,47.676154],[8.78567,47.676463],[8.784929,47.67673],[8.784214,47.677006],[8.783485,47.6773],[8.780501,47.678547],[8.778958,47.679269],[8.77808,47.679642],[8.777541,47.679849],[8.776436,47.680236],[8.774992,47.680788],[8.774239,47.681028],[8.773686,47.681226],[8.773361,47.681401],[8.773061,47.681594],[8.772637,47.681911],[8.772143,47.682343],[8.771082,47.683387],[8.770697,47.683731],[8.769942,47.684403],[8.769069,47.685],[8.768431,47.685349],[8.767578,47.685758],[8.7667,47.686131],[8.763237,47.687411],[8.758625,47.689013],[8.757306,47.689423],[8.755949,47.689779],[8.755377,47.689904],[8.754567,47.690081],[8.752521,47.690464],[8.750151,47.69072],[8.748841,47.69087],[8.748227,47.690932],[8.747813,47.690961],[8.747201,47.69096],[8.745952,47.690877],[8.745327,47.690867],[8.7443,47.690922],[8.743659,47.690975],[8.742857,47.69107],[8.742041,47.691183],[8.741238,47.691295],[8.740421,47.691426],[8.739818,47.691533],[8.738826,47.691733],[8.737268,47.692121],[8.736476,47.692288],[8.735873,47.692404],[8.73507,47.692535],[8.734253,47.692657],[8.733224,47.692757],[8.732399,47.692752],[8.727981,47.692681],[8.727638,47.693358],[8.727286,47.694081],[8.726718,47.695249],[8.726361,47.696672],[8.727762,47.700148],[8.728685,47.702436],[8.72878,47.702752],[8.730689,47.706729],[8.731149,47.707663],[8.730784,47.708342],[8.731584,47.709611],[8.731919,47.71146],[8.73276,47.712516],[8.734966,47.715284],[8.736294,47.716151],[8.737332,47.71579],[8.737054,47.714617],[8.739126,47.713671],[8.740949,47.712208],[8.741574,47.711104],[8.74428,47.710671],[8.745229,47.709068],[8.762514,47.706091],[8.76935,47.706876]]]],"type":"MultiPolygon"}
+}

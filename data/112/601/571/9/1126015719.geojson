@@ -1,1 +1,217 @@
-{"id": 1126015719, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07143232", "eurostat:level_code": "lau", "eurostat:name_local": "Hahn am See", "eurostat:nuts_2021_id": "07143232", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB1", "eurostat:nuts_2021_level_3": "DEB1B", "eurostat:nuts_2021_level_lau": "07143232", "eurostat:population": 393, "eurostat:population_year": 2020, "geom:area": 0.000472, "geom:area_square_m": 3706534.546815, "geom:bbox": "7.874875,50.515128,7.911749,50.541648", "geom:latitude": 50.528294, "geom:longitude": 7.890738, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 403, "iso:country": "DE", "lbl:latitude": 50.5333, "lbl:longitude": 7.88333, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:cat_x_preferred": ["Hahn am See"], "name:ceb_x_preferred": ["Hahn am See"], "name:che_x_preferred": ["\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"], "name:deu_x_preferred": ["Hahn am See"], "name:eng_x_preferred": ["Hahn am See"], "name:epo_x_preferred": ["Hahn am See"], "name:eus_x_preferred": ["Hahn am See"], "name:fas_x_preferred": ["\u0647\u0627\u0646 \u0627\u0645 \u0632\u0647"], "name:fra_x_preferred": ["Hahn am See"], "name:hun_x_preferred": ["Hahn am See"], "name:ita_x_preferred": ["Hahn am See"], "name:jpn_x_preferred": ["\u30cf\u30fc\u30f3\u30fb\u30a2\u30e0\u30fb\u30bc\u30fc"], "name:kaz_x_preferred": ["\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"], "name:kir_x_preferred": ["\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"], "name:lld_x_preferred": ["Hahn am See"], "name:msa_x_preferred": ["Hahn am See"], "name:nan_x_preferred": ["Hahn am See"], "name:nld_x_preferred": ["Hahn am See"], "name:nob_x_preferred": ["Hahn am See"], "name:pol_x_preferred": ["Hahn am See"], "name:por_x_preferred": ["Hahn am See"], "name:ron_x_preferred": ["Hahn am See"], "name:rus_x_preferred": ["\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"], "name:spa_x_preferred": ["Hahn am See"], "name:srp_x_preferred": ["\u0425\u0430\u043d \u0430\u043c \u0417\u0435"], "name:swe_x_preferred": ["Hahn am See"], "name:tat_x_preferred": ["\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"], "name:ukr_x_preferred": ["\u0413\u0430\u043d-\u0430\u043c-\u0417\u0435"], "name:ukr_x_variant": ["\u0413\u0430\u043d-\u0430\u043c-\u0417\u0435\u0435"], "name:vie_x_preferred": ["Hahn am See"], "name:vol_x_preferred": ["Hahn am See"], "name:war_x_preferred": ["Hahn am See"], "name:zho_x_preferred": ["\u6ee8\u6e56\u54c8\u6069"], "nav:latitude": 50.5333, "nav:longitude": 7.88333, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6554214, "qs_pg:gn_pop": 403, "qs_pg:name": "Hahn am See", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Rheinland-Pfalz", "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 1, "qs_pg:photos_all": 6, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 938233, "qs_pg:qs_pg_placetype": "locality", "qs_pg:qs_pg_placetype_gp": "Town", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 656497, "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Rheinland-Pfalz", "woe:placetype": "Town", "wof:belongsto": [85682491, 102191581, 1377685825, 85633111, 102063657], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07143232", "eurostat:nuts_2021_id": "07143232", "gn:id": 6554214, "gp:id": 656497, "qs_pg:id": 938233, "wd:id": "Q646345"}, "wof:country": "DE", "wof:created": 1497300534, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "711bd3f745b20505a56f832d9b72ddcb", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063657, "localadmin_id": 1377685825, "locality_id": 1126015719, "region_id": 85682491}], "wof:id": 1126015719, "wof:lastmodified": 1690874328, "wof:name": "Hahn am See", "wof:parent_id": 1377685825, "wof:placetype": "locality", "wof:population": 393, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.874875, 50.515128, 7.911749, 50.541648], "geometry": {"coordinates": [[[[7.910925, 50.516943], [7.908777, 50.517227], [7.907918, 50.515128], [7.905794, 50.515504], [7.907032, 50.517629], [7.904428, 50.51875], [7.901004, 50.520393], [7.897771, 50.520887], [7.89611, 50.518588], [7.891758, 50.518919], [7.887621, 50.519397], [7.885233, 50.520677], [7.884625, 50.520355], [7.882973, 50.52111], [7.881139, 50.521068], [7.878592, 50.522415], [7.877442, 50.524069], [7.876779, 50.525022], [7.874875, 50.527759], [7.876529, 50.527995], [7.875864, 50.529268], [7.876904, 50.529363], [7.877468, 50.531141], [7.881323, 50.533704], [7.881215, 50.534863], [7.879089, 50.535751], [7.878777, 50.536789], [7.878445, 50.539185], [7.87971, 50.539604], [7.880928, 50.540007], [7.880686, 50.54055], [7.879287, 50.540571], [7.878041, 50.540589], [7.877731, 50.541338], [7.879875, 50.541648], [7.887996, 50.540689], [7.890588, 50.537272], [7.896128, 50.533679], [7.90071, 50.529801], [7.901568, 50.529075], [7.903879, 50.525346], [7.902962, 50.525325], [7.905645, 50.523549], [7.905809, 50.522878], [7.908634, 50.521843], [7.909011, 50.520132], [7.911749, 50.519653], [7.910925, 50.516943]]], [[[7.892883, 50.539944], [7.894954, 50.540567], [7.895971, 50.541581], [7.900956, 50.539595], [7.901102, 50.537726], [7.899136, 50.537511], [7.896863, 50.539269], [7.892883, 50.539944]]]], "type": "MultiPolygon"}}
+{
+  "id": 1126015719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07143232",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hahn am See",
+    "eurostat:nuts_2021_id":"07143232",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB1",
+    "eurostat:nuts_2021_level_3":"DEB1B",
+    "eurostat:nuts_2021_level_lau":"07143232",
+    "eurostat:population":393,
+    "eurostat:population_year":2020,
+    "geom:area":0.000472,
+    "geom:area_square_m":3706534.546815,
+    "geom:bbox":"7.874875,50.515128,7.911749,50.541648",
+    "geom:latitude":50.528294,
+    "geom:longitude":7.890738,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":403,
+    "iso:country":"DE",
+    "lbl:latitude":50.5333,
+    "lbl:longitude":7.88333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:ceb_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:eng_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:epo_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:eus_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0646 \u0627\u0645 \u0632\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:hun_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:ita_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30f3\u30fb\u30a2\u30e0\u30fb\u30bc\u30fc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:lld_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:msa_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:nan_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:nld_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:nob_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:pol_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:por_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:ron_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043d \u0430\u043c \u0417\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u043d-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043d-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u043d-\u0430\u043c-\u0417\u0435\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:vol_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:war_x_preferred":[
+        "Hahn am See"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ee8\u6e56\u54c8\u6069"
+    ],
+    "nav:latitude":50.5333,
+    "nav:longitude":7.88333,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6554214,
+    "qs_pg:gn_pop":403,
+    "qs_pg:name":"Hahn am See",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":938233,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":656497,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377685825,
+        85633111,
+        102063657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07143232",
+        "eurostat:nuts_2021_id":"07143232",
+        "gn:id":6554214,
+        "gp:id":656497,
+        "qs_pg:id":938233,
+        "wd:id":"Q646345"
+    },
+    "wof:country":"DE",
+    "wof:created":1497300534,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"711bd3f745b20505a56f832d9b72ddcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063657,
+            "localadmin_id":1377685825,
+            "locality_id":1126015719,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":1126015719,
+    "wof:lastmodified":1690874328,
+    "wof:name":"Hahn am See",
+    "wof:parent_id":1377685825,
+    "wof:placetype":"locality",
+    "wof:population":393,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.874875,
+    50.515128,
+    7.911749,
+    50.541648
+],
+  "geometry": {"coordinates":[[[[7.910925,50.516943],[7.908777,50.517227],[7.907918,50.515128],[7.905794,50.515504],[7.907032,50.517629],[7.904428,50.51875],[7.901004,50.520393],[7.897771,50.520887],[7.89611,50.518588],[7.891758,50.518919],[7.887621,50.519397],[7.885233,50.520677],[7.884625,50.520355],[7.882973,50.52111],[7.881139,50.521068],[7.878592,50.522415],[7.877442,50.524069],[7.876779,50.525022],[7.874875,50.527759],[7.876529,50.527995],[7.875864,50.529268],[7.876904,50.529363],[7.877468,50.531141],[7.881323,50.533704],[7.881215,50.534863],[7.879089,50.535751],[7.878777,50.536789],[7.878445,50.539185],[7.87971,50.539604],[7.880928,50.540007],[7.880686,50.54055],[7.879287,50.540571],[7.878041,50.540589],[7.877731,50.541338],[7.879875,50.541648],[7.887996,50.540689],[7.890588,50.537272],[7.896128,50.533679],[7.90071,50.529801],[7.901568,50.529075],[7.903879,50.525346],[7.902962,50.525325],[7.905645,50.523549],[7.905809,50.522878],[7.908634,50.521843],[7.909011,50.520132],[7.911749,50.519653],[7.910925,50.516943]]],[[[7.892883,50.539944],[7.894954,50.540567],[7.895971,50.541581],[7.900956,50.539595],[7.901102,50.537726],[7.899136,50.537511],[7.896863,50.539269],[7.892883,50.539944]]]],"type":"MultiPolygon"}
+}

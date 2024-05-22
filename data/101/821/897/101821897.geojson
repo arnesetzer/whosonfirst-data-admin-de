@@ -1,1 +1,156 @@
-{"id": 101821897, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000168, "geom:area_square_m": 1305328.40114, "geom:bbox": "12.09818,51.078434,12.128717,51.096091", "geom:latitude": 51.087238, "geom:longitude": 12.111194, "gn:population": 1977, "iso:country": "DE", "lbl:latitude": 51.084547, "lbl:longitude": 12.105873, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 51.084547, "mps:longitude": 12.105873, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0422\u0430\u0439\u0441\u0441\u0435\u043d"], "name:ceb_x_preferred": ["Thei\u00dfen"], "name:che_x_preferred": ["\u0422\u0430\u0439\u0441\u0441\u0435\u043d"], "name:deu_x_preferred": ["Theissen"], "name:deu_x_variant": ["Thei\u00dfen"], "name:eng_x_preferred": ["Thei\u00dfen"], "name:epo_x_preferred": ["Thei\u00dfen"], "name:fas_x_preferred": ["\u062a\u0627\u06cc\u0633\u0646"], "name:fra_x_preferred": ["Theissen"], "name:fra_x_variant": ["Thei\u00dfen"], "name:gle_x_preferred": ["Thei\u00dfen"], "name:ita_x_preferred": ["Thei\u00dfen"], "name:kaz_x_preferred": ["\u0422\u0430\u0439\u0441\u0441\u0435\u043d"], "name:kir_x_preferred": ["\u0422\u0430\u0439\u0441\u0441\u0435\u043d"], "name:nld_x_preferred": ["Thei\u00dfen"], "name:ron_x_preferred": ["Thei\u00dfen"], "name:rus_x_preferred": ["\u0422\u0430\u0439\u0441\u0441\u0435\u043d"], "name:tat_x_preferred": ["\u0422\u0430\u0439\u0441\u0441\u0435\u043d"], "name:uzb_x_preferred": ["Thei\u00dfen"], "name:vie_x_preferred": ["Thei\u00dfen"], "name:vol_x_preferred": ["Thei\u00dfen"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Burgenlandkreis", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Nonnewitz", "qs:la_lc": "*DE15008410370", "qs:level": "locality", "qs:loc": "Thei\u00dfen", "qs:loc_alt": "Theissen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 49, "wof:belongsto": [85682519, 102191581, 1377688477, 85633111, 102063747], "wof:breaches": [], "wof:concordances": {"gn:id": 2822881, "gp:id": 699178, "qs_pg:id": 141667, "wd:id": "Q701856", "wk:page": "Thei\u00dfen"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "c9a46894cbed28be3a7f922bc75243fc", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063747, "localadmin_id": 1377688477, "locality_id": 101821897, "region_id": 85682519}], "wof:id": 101821897, "wof:lastmodified": 1690872364, "wof:name": "Thei\u00dfen", "wof:parent_id": 1377688477, "wof:placetype": "locality", "wof:population": 1977, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.09818, 51.078434, 12.128717, 51.096091], "geometry": {"coordinates": [[[12.128717, 51.096065], [12.128593, 51.093369], [12.127166, 51.093395], [12.127001, 51.089802], [12.125574, 51.089828], [12.125533, 51.088929], [12.122679, 51.088981], [12.122721, 51.08988], [12.119867, 51.089932], [12.119908, 51.09083], [12.114201, 51.090935], [12.11416, 51.090036], [12.108453, 51.09014], [12.10833, 51.087445], [12.109756, 51.087419], [12.109593, 51.083825], [12.112446, 51.083773], [12.112282, 51.080179], [12.109429, 51.080231], [12.109347, 51.078434], [12.103641, 51.078538], [12.103723, 51.080335], [12.10087, 51.080386], [12.10091, 51.081285], [12.102337, 51.081259], [12.10246, 51.083954], [12.09818, 51.084032], [12.098302, 51.086727], [12.099729, 51.086701], [12.099769, 51.0876], [12.102623, 51.087548], [12.102745, 51.090243], [12.104172, 51.090218], [12.104254, 51.092015], [12.107108, 51.091963], [12.107067, 51.091064], [12.111347, 51.090987], [12.111429, 51.092783], [12.112856, 51.092757], [12.112815, 51.091859], [12.118523, 51.091755], [12.118646, 51.09445], [12.124354, 51.094346], [12.124395, 51.095245], [12.127249, 51.095192], [12.12729, 51.096091], [12.128717, 51.096065]]], "type": "Polygon"}}
+{
+  "id": 101821897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:area_square_m":1305328.40114,
+    "geom:bbox":"12.09818,51.078434,12.128717,51.096091",
+    "geom:latitude":51.087238,
+    "geom:longitude":12.111194,
+    "gn:population":1977,
+    "iso:country":"DE",
+    "lbl:latitude":51.084547,
+    "lbl:longitude":12.105873,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":51.084547,
+    "mps:longitude":12.105873,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0422\u0430\u0439\u0441\u0441\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0439\u0441\u0441\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Theissen"
+    ],
+    "name:deu_x_variant":[
+        "Thei\u00dfen"
+    ],
+    "name:eng_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "name:epo_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06cc\u0633\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Theissen"
+    ],
+    "name:fra_x_variant":[
+        "Thei\u00dfen"
+    ],
+    "name:gle_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "name:ita_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u0439\u0441\u0441\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0439\u0441\u0441\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "name:ron_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0441\u0441\u0435\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0439\u0441\u0441\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "name:vie_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "name:vol_x_preferred":[
+        "Thei\u00dfen"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Burgenlandkreis",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Nonnewitz",
+    "qs:la_lc":"*DE15008410370",
+    "qs:level":"locality",
+    "qs:loc":"Thei\u00dfen",
+    "qs:loc_alt":"Theissen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688477,
+        85633111,
+        102063747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2822881,
+        "gp:id":699178,
+        "qs_pg:id":141667,
+        "wd:id":"Q701856",
+        "wk:page":"Thei\u00dfen"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"c9a46894cbed28be3a7f922bc75243fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063747,
+            "localadmin_id":1377688477,
+            "locality_id":101821897,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101821897,
+    "wof:lastmodified":1690872364,
+    "wof:name":"Thei\u00dfen",
+    "wof:parent_id":1377688477,
+    "wof:placetype":"locality",
+    "wof:population":1977,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.09818,
+    51.078434,
+    12.128717,
+    51.096091
+],
+  "geometry": {"coordinates":[[[12.128717,51.096065],[12.128593,51.093369],[12.127166,51.093395],[12.127001,51.089802],[12.125574,51.089828],[12.125533,51.088929],[12.122679,51.088981],[12.122721,51.08988],[12.119867,51.089932],[12.119908,51.09083],[12.114201,51.090935],[12.11416,51.090036],[12.108453,51.09014],[12.10833,51.087445],[12.109756,51.087419],[12.109593,51.083825],[12.112446,51.083773],[12.112282,51.080179],[12.109429,51.080231],[12.109347,51.078434],[12.103641,51.078538],[12.103723,51.080335],[12.10087,51.080386],[12.10091,51.081285],[12.102337,51.081259],[12.10246,51.083954],[12.09818,51.084032],[12.098302,51.086727],[12.099729,51.086701],[12.099769,51.0876],[12.102623,51.087548],[12.102745,51.090243],[12.104172,51.090218],[12.104254,51.092015],[12.107108,51.091963],[12.107067,51.091064],[12.111347,51.090987],[12.111429,51.092783],[12.112856,51.092757],[12.112815,51.091859],[12.118523,51.091755],[12.118646,51.09445],[12.124354,51.094346],[12.124395,51.095245],[12.127249,51.095192],[12.12729,51.096091],[12.128717,51.096065]]],"type":"Polygon"}
+}

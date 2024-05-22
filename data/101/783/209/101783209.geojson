@@ -1,1 +1,419 @@
-{"id": 101783209, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08136037", "eurostat:level_code": "lau", "eurostat:name_local": "Kirchheim am Ries", "eurostat:nuts_2021_id": "08136037", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE11", "eurostat:nuts_2021_level_3": "DE11D", "eurostat:nuts_2021_level_lau": "08136037", "eurostat:population": 1790, "eurostat:population_year": 2020, "geom:area": 0.002568, "geom:area_square_m": 20881848.333961, "geom:bbox": "10.359656,48.85159,10.453999,48.907739", "geom:latitude": 48.881057, "geom:longitude": 10.403651, "gn:country": "DE", "gn:fcode": "PPLA4", "gn:population": 2113, "iso:country": "DE", "lbl:latitude": 48.878634, "lbl:longitude": 10.401461, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 48.878634, "mps:longitude": 10.401461, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Kirchheim am Ries"], "name:als_x_preferred": ["Kirchheim am Ries"], "name:arg_x_preferred": ["Kirchheim am Ries"], "name:ast_x_preferred": ["Kirchheim am Ries"], "name:bar_x_preferred": ["Kirchheim am Ries"], "name:bre_x_preferred": ["Kirchheim am Ries"], "name:cat_x_preferred": ["Kirchheim am Ries"], "name:ceb_x_preferred": ["Kirchheim am Ries"], "name:ces_x_preferred": ["Kirchheim am Ries"], "name:che_x_preferred": ["\u0420\u0438\u0441-\u0442\u04c0\u0435\u0440\u0430-\u041a\u0438\u0440\u0445\u0433\u0430\u0439\u043c"], "name:cos_x_preferred": ["Kirchheim am Ries"], "name:cym_x_preferred": ["Kirchheim am Ries"], "name:dan_x_preferred": ["Kirchheim am Ries"], "name:deu_x_preferred": ["Kirchheim am Ries"], "name:deu_x_variant": ["Gemeinde Kirchheim am Ries", "Gemeinde Kirchheim"], "name:eng_x_preferred": ["Kirchheim am Ries"], "name:epo_x_preferred": ["Kirchheim am Ries"], "name:est_x_preferred": ["Kirchheim am Ries"], "name:eus_x_preferred": ["Kirchheim am Ries"], "name:fas_x_preferred": ["\u06a9\u06cc\u0631\u0634\u0627\u06cc\u0645 \u0627\u0645 \u0631\u06cc\u0633"], "name:fin_x_preferred": ["Kirchheim am Ries"], "name:fra_x_preferred": ["Kirchheim am Ries"], "name:frp_x_preferred": ["Kirchheim am Ries"], "name:fur_x_preferred": ["Kirchheim am Ries"], "name:gla_x_preferred": ["Kirchheim am Ries"], "name:gle_x_preferred": ["Kirchheim am Ries"], "name:glg_x_preferred": ["Kirchheim am Ries"], "name:gsw_x_preferred": ["Kirchheim am Ries"], "name:hbs_x_preferred": ["Kirchheim am Ries"], "name:hrv_x_preferred": ["Kirchheim am Ries"], "name:hun_x_preferred": ["Kirchheim am Ries"], "name:ido_x_preferred": ["Kirchheim am Ries"], "name:ile_x_preferred": ["Kirchheim am Ries"], "name:ina_x_preferred": ["Kirchheim am Ries"], "name:ind_x_preferred": ["Kirchheim am Ries"], "name:isl_x_preferred": ["Kirchheim am Ries"], "name:ita_x_preferred": ["Kirchheim am Ries"], "name:jpn_x_preferred": ["\u30ad\u30eb\u30d2\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30ea\u30fc\u30b9"], "name:kat_x_preferred": ["\u10d9\u10d8\u10e0\u10ee\u10f0\u10d0\u10d8\u10db-\u10d0\u10db-\u10e0\u10d8\u10e1\u10d8"], "name:kat_x_variant": ["\u10d9\u10d8\u10e0\u10ee\u10d0\u10d8\u10db-\u10d0\u10db-\u10e0\u10d8\u10d4\u10e1\u10d8"], "name:kon_x_preferred": ["Kirchheim am Ries"], "name:kur_x_preferred": ["Kirchheim am Ries"], "name:lat_x_preferred": ["Kirchheim am Ries"], "name:lij_x_preferred": ["Kirchheim am Ries"], "name:lim_x_preferred": ["Kirchheim am Ries"], "name:lld_x_preferred": ["Kirchheim am Ries"], "name:lmo_x_preferred": ["Kirchheim am Ries"], "name:ltz_x_preferred": ["Kirchheim am Ries"], "name:min_x_preferred": ["Kirchheim am Ries"], "name:mlg_x_preferred": ["Kirchheim am Ries"], "name:msa_x_preferred": ["Kirchheim am Ries"], "name:nan_x_preferred": ["Kirchheim am Ries"], "name:nap_x_preferred": ["Kirchheim am Ries"], "name:nds_x_preferred": ["Kirchheim am Ries"], "name:nld_x_preferred": ["Kirchheim am Ries"], "name:nno_x_preferred": ["Kirchheim am Ries"], "name:nob_x_preferred": ["Kirchheim am Ries"], "name:nrm_x_preferred": ["Kirchheim am Ries"], "name:oci_x_preferred": ["Kirchheim am Ries"], "name:pam_x_preferred": ["Kirchheim am Ries"], "name:pcd_x_preferred": ["Kirchheim am Ries"], "name:pms_x_preferred": ["Kirchheim am Ries"], "name:pol_x_preferred": ["Kirchheim am Ries"], "name:por_x_preferred": ["Kirchheim am Ries"], "name:roh_x_preferred": ["Kirchheim am Ries"], "name:ron_x_preferred": ["Kirchheim am Ries"], "name:rus_x_preferred": ["\u041a\u0438\u0440\u0445\u0445\u0430\u0439\u043c-\u043d\u0430-\u0420\u0438\u0441\u0435"], "name:rus_x_variant": ["\u041a\u0438\u0440\u0445\u0433\u0430\u0439\u043c-\u043d\u0430-\u0420\u0438\u0441\u0435"], "name:scn_x_preferred": ["Kirchheim am Ries"], "name:sco_x_preferred": ["Kirchheim am Ries"], "name:slk_x_preferred": ["Kirchheim am Ries"], "name:slv_x_preferred": ["Kirchheim am Ries"], "name:spa_x_preferred": ["Kirchheim am Ries"], "name:srd_x_preferred": ["Kirchheim am Ries"], "name:srp_x_preferred": ["\u041a\u0438\u0440\u0445\u0445\u0430\u0458\u043c \u0430\u043c \u0420\u0438\u0441"], "name:swa_x_preferred": ["Kirchheim am Ries"], "name:swe_x_preferred": ["Kirchheim am Ries"], "name:tat_x_preferred": ["\u041a\u0438\u0440\u0445\u0433\u0430\u0439\u043c-\u0430\u043c-\u0420\u0438\u0441\u0435"], "name:ukr_x_preferred": ["\u041a\u0456\u0440\u0445\u0433\u0430\u0439\u043c-\u0430\u043c-\u0420\u0456\u0441"], "name:und_x_variant": ["Kirchheim"], "name:uzb_x_preferred": ["Kirchheim am Ries"], "name:vec_x_preferred": ["Kirchheim am Ries"], "name:vie_x_preferred": ["Kirchheim am Ries"], "name:vls_x_preferred": ["Kirchheim am Ries"], "name:vol_x_preferred": ["Kirchheim am Ries"], "name:war_x_preferred": ["Kirchheim am Ries"], "name:wln_x_preferred": ["Kirchheim am Ries"], "name:wol_x_preferred": ["Kirchheim am Ries"], "name:zho_min_nan_x_preferred": ["Kirchheim am Ries"], "name:zho_x_preferred": ["\u91cc\u65af\u5730\u533a\u57fa\u5c14\u590f\u4f0a\u59c6"], "name:zul_x_preferred": ["Kirchheim am Ries"], "nav:latitude": 48.878634, "nav:longitude": 10.401461, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Ostalbkreis", "qs:a2r": "Stuttgart", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Kirchheim am Ries", "qs:la_lc": "*DE08103602037", "qs:level": "locality", "qs:loc": "Kirchheim am Ries", "qs:loc_alt": "Kirchheim am Ries", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLA4", "qs_pg:gn_id": 2890481, "qs_pg:gn_pop": 2113, "qs_pg:name": "Gemeinde Kirchheim am Ries", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 12, "qs_pg:photos_1k": 2, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 1, "qs_pg:photos_all": 12, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 688505, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12624219, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 38, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377685471, 404227549, 102063369], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08136037", "eurostat:nuts_2021_id": "08136037", "fct:id": "07162962-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2890481, "gp:id": 12624219, "qs_pg:id": 688505, "wd:id": "Q282312", "wk:page": "Kirchheim am Ries"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes"], "wof:geomhash": "e9fe153a16a17c4c06cc2f006e9d9da7", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063369, "localadmin_id": 1377685471, "locality_id": 101783209, "macrocounty_id": 404227549, "region_id": 85682567}], "wof:id": 101783209, "wof:lang": ["ger"], "wof:lastmodified": 1690872717, "wof:name": "Kirchheim am Ries", "wof:parent_id": 1377685471, "wof:placetype": "locality", "wof:population": 1790, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125368483, 1125282905], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.359656, 48.85159, 10.453999, 48.907739], "geometry": {"coordinates": [[[[10.447028, 48.87734], [10.438594, 48.883101], [10.43333, 48.883511], [10.432896, 48.884225], [10.426893, 48.883426], [10.425622, 48.884021], [10.425664, 48.88473], [10.424235, 48.884933], [10.423579, 48.883991], [10.4177, 48.884832], [10.418224, 48.880974], [10.421156, 48.881093], [10.421745, 48.879106], [10.425743, 48.877598], [10.423773, 48.873163], [10.421413, 48.873979], [10.419743, 48.86994], [10.418016, 48.867052], [10.417957, 48.86189], [10.414483, 48.860799], [10.414362, 48.859513], [10.413259, 48.858837], [10.408511, 48.861343], [10.404954, 48.861475], [10.403893, 48.860089], [10.397994, 48.85895], [10.399565, 48.856964], [10.398751, 48.855336], [10.397036, 48.854111], [10.393084, 48.854278], [10.394518, 48.852885], [10.392952, 48.852236], [10.390329, 48.85259], [10.388063, 48.851852], [10.386371, 48.852281], [10.385279, 48.85231], [10.384627, 48.85159], [10.379074, 48.854066], [10.378771, 48.855208], [10.382309, 48.857658], [10.379596, 48.857673], [10.374247, 48.865347], [10.377487, 48.867402], [10.372998, 48.868844], [10.37513, 48.872067], [10.372538, 48.872774], [10.36916, 48.871502], [10.367644, 48.872508], [10.369578, 48.873256], [10.365735, 48.877272], [10.362181, 48.880721], [10.359656, 48.881401], [10.359955, 48.881618], [10.360241, 48.881834], [10.360336, 48.881951], [10.360554, 48.882185], [10.360744, 48.882437], [10.361002, 48.882833], [10.361232, 48.883229], [10.36149, 48.883769], [10.361639, 48.884174], [10.361842, 48.884822], [10.361936, 48.885146], [10.362031, 48.885425], [10.362153, 48.885686], [10.36256, 48.886343], [10.362845, 48.886739], [10.363049, 48.886991], [10.363158, 48.887117], [10.363403, 48.887342], [10.363675, 48.887558], [10.363825, 48.887657], [10.363974, 48.887747], [10.364315, 48.887901], [10.364669, 48.888036], [10.365037, 48.888162], [10.365623, 48.888334], [10.367245, 48.888741], [10.367681, 48.888858], [10.370931, 48.887423], [10.37135, 48.888862], [10.386986, 48.89781], [10.39277, 48.897573], [10.391984, 48.89509], [10.396964, 48.894663], [10.396681, 48.893044], [10.400159, 48.892804], [10.399375, 48.895906], [10.404516, 48.896936], [10.406374, 48.902595], [10.414443, 48.906378], [10.424815, 48.907739], [10.424881, 48.907457], [10.425181, 48.906161], [10.423658, 48.906004], [10.42132, 48.905763], [10.421417, 48.904846], [10.423969, 48.904623], [10.424149, 48.902941], [10.429308, 48.90102], [10.437659, 48.899846], [10.438083, 48.898965], [10.440811, 48.898625], [10.441114, 48.896853], [10.442329, 48.895748], [10.445016, 48.895542], [10.444813, 48.894121], [10.450216, 48.893089], [10.450314, 48.890832], [10.449783, 48.889636], [10.452961, 48.88916], [10.452226, 48.887586], [10.453999, 48.88747], [10.452993, 48.884439], [10.450824, 48.88487], [10.450049, 48.882783], [10.448496, 48.880956], [10.445468, 48.881638], [10.444775, 48.880271], [10.448417, 48.87887], [10.447028, 48.87734]]]], "type": "MultiPolygon"}}
+{
+  "id": 101783209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08136037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchheim am Ries",
+    "eurostat:nuts_2021_id":"08136037",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE11",
+    "eurostat:nuts_2021_level_3":"DE11D",
+    "eurostat:nuts_2021_level_lau":"08136037",
+    "eurostat:population":1790,
+    "eurostat:population_year":2020,
+    "geom:area":0.002568,
+    "geom:area_square_m":20881848.333961,
+    "geom:bbox":"10.359656,48.85159,10.453999,48.907739",
+    "geom:latitude":48.881057,
+    "geom:longitude":10.403651,
+    "gn:country":"DE",
+    "gn:fcode":"PPLA4",
+    "gn:population":2113,
+    "iso:country":"DE",
+    "lbl:latitude":48.878634,
+    "lbl:longitude":10.401461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":48.878634,
+    "mps:longitude":10.401461,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:als_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:arg_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ast_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:bar_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:bre_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:cat_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ceb_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ces_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0438\u0441-\u0442\u04c0\u0435\u0440\u0430-\u041a\u0438\u0440\u0445\u0433\u0430\u0439\u043c"
+    ],
+    "name:cos_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:cym_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:dan_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:deu_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:deu_x_variant":[
+        "Gemeinde Kirchheim am Ries",
+        "Gemeinde Kirchheim"
+    ],
+    "name:eng_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:epo_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:est_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:eus_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0631\u0634\u0627\u06cc\u0645 \u0627\u0645 \u0631\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:fra_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:frp_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:fur_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:gla_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:gle_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:glg_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:gsw_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:hbs_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:hrv_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:hun_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ido_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ile_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ina_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ind_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:isl_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ita_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30eb\u30d2\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30ea\u30fc\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e0\u10ee\u10f0\u10d0\u10d8\u10db-\u10d0\u10db-\u10e0\u10d8\u10e1\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d8\u10e0\u10ee\u10d0\u10d8\u10db-\u10d0\u10db-\u10e0\u10d8\u10d4\u10e1\u10d8"
+    ],
+    "name:kon_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:kur_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:lat_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:lij_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:lim_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:lld_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:lmo_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ltz_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:min_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:mlg_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:msa_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:nan_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:nap_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:nds_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:nld_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:nno_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:nob_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:nrm_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:oci_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:pam_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:pcd_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:pms_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:pol_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:por_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:roh_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:ron_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0445\u0445\u0430\u0439\u043c-\u043d\u0430-\u0420\u0438\u0441\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0438\u0440\u0445\u0433\u0430\u0439\u043c-\u043d\u0430-\u0420\u0438\u0441\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:sco_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:slk_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:slv_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:spa_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:srd_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0440\u0445\u0445\u0430\u0458\u043c \u0430\u043c \u0420\u0438\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:swe_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0440\u0445\u0433\u0430\u0439\u043c-\u0430\u043c-\u0420\u0438\u0441\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u0445\u0433\u0430\u0439\u043c-\u0430\u043c-\u0420\u0456\u0441"
+    ],
+    "name:und_x_variant":[
+        "Kirchheim"
+    ],
+    "name:uzb_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:vec_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:vie_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:vls_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:vol_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:war_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:wln_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:wol_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u65af\u5730\u533a\u57fa\u5c14\u590f\u4f0a\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Kirchheim am Ries"
+    ],
+    "nav:latitude":48.878634,
+    "nav:longitude":10.401461,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Ostalbkreis",
+    "qs:a2r":"Stuttgart",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Kirchheim am Ries",
+    "qs:la_lc":"*DE08103602037",
+    "qs:level":"locality",
+    "qs:loc":"Kirchheim am Ries",
+    "qs:loc_alt":"Kirchheim am Ries",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLA4",
+    "qs_pg:gn_id":2890481,
+    "qs_pg:gn_pop":2113,
+    "qs_pg:name":"Gemeinde Kirchheim am Ries",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":688505,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12624219,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":38,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377685471,
+        404227549,
+        102063369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08136037",
+        "eurostat:nuts_2021_id":"08136037",
+        "fct:id":"07162962-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2890481,
+        "gp:id":12624219,
+        "qs_pg:id":688505,
+        "wd:id":"Q282312",
+        "wk:page":"Kirchheim am Ries"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e9fe153a16a17c4c06cc2f006e9d9da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063369,
+            "localadmin_id":1377685471,
+            "locality_id":101783209,
+            "macrocounty_id":404227549,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101783209,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690872717,
+    "wof:name":"Kirchheim am Ries",
+    "wof:parent_id":1377685471,
+    "wof:placetype":"locality",
+    "wof:population":1790,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125368483,
+        1125282905
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.359656,
+    48.85159,
+    10.453999,
+    48.907739
+],
+  "geometry": {"coordinates":[[[[10.447028,48.87734],[10.438594,48.883101],[10.43333,48.883511],[10.432896,48.884225],[10.426893,48.883426],[10.425622,48.884021],[10.425664,48.88473],[10.424235,48.884933],[10.423579,48.883991],[10.4177,48.884832],[10.418224,48.880974],[10.421156,48.881093],[10.421745,48.879106],[10.425743,48.877598],[10.423773,48.873163],[10.421413,48.873979],[10.419743,48.86994],[10.418016,48.867052],[10.417957,48.86189],[10.414483,48.860799],[10.414362,48.859513],[10.413259,48.858837],[10.408511,48.861343],[10.404954,48.861475],[10.403893,48.860089],[10.397994,48.85895],[10.399565,48.856964],[10.398751,48.855336],[10.397036,48.854111],[10.393084,48.854278],[10.394518,48.852885],[10.392952,48.852236],[10.390329,48.85259],[10.388063,48.851852],[10.386371,48.852281],[10.385279,48.85231],[10.384627,48.85159],[10.379074,48.854066],[10.378771,48.855208],[10.382309,48.857658],[10.379596,48.857673],[10.374247,48.865347],[10.377487,48.867402],[10.372998,48.868844],[10.37513,48.872067],[10.372538,48.872774],[10.36916,48.871502],[10.367644,48.872508],[10.369578,48.873256],[10.365735,48.877272],[10.362181,48.880721],[10.359656,48.881401],[10.359955,48.881618],[10.360241,48.881834],[10.360336,48.881951],[10.360554,48.882185],[10.360744,48.882437],[10.361002,48.882833],[10.361232,48.883229],[10.36149,48.883769],[10.361639,48.884174],[10.361842,48.884822],[10.361936,48.885146],[10.362031,48.885425],[10.362153,48.885686],[10.36256,48.886343],[10.362845,48.886739],[10.363049,48.886991],[10.363158,48.887117],[10.363403,48.887342],[10.363675,48.887558],[10.363825,48.887657],[10.363974,48.887747],[10.364315,48.887901],[10.364669,48.888036],[10.365037,48.888162],[10.365623,48.888334],[10.367245,48.888741],[10.367681,48.888858],[10.370931,48.887423],[10.37135,48.888862],[10.386986,48.89781],[10.39277,48.897573],[10.391984,48.89509],[10.396964,48.894663],[10.396681,48.893044],[10.400159,48.892804],[10.399375,48.895906],[10.404516,48.896936],[10.406374,48.902595],[10.414443,48.906378],[10.424815,48.907739],[10.424881,48.907457],[10.425181,48.906161],[10.423658,48.906004],[10.42132,48.905763],[10.421417,48.904846],[10.423969,48.904623],[10.424149,48.902941],[10.429308,48.90102],[10.437659,48.899846],[10.438083,48.898965],[10.440811,48.898625],[10.441114,48.896853],[10.442329,48.895748],[10.445016,48.895542],[10.444813,48.894121],[10.450216,48.893089],[10.450314,48.890832],[10.449783,48.889636],[10.452961,48.88916],[10.452226,48.887586],[10.453999,48.88747],[10.452993,48.884439],[10.450824,48.88487],[10.450049,48.882783],[10.448496,48.880956],[10.445468,48.881638],[10.444775,48.880271],[10.448417,48.87887],[10.447028,48.87734]]]],"type":"MultiPolygon"}
+}

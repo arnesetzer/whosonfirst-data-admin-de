@@ -1,1 +1,155 @@
-{"id": 101909305, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4.1e-05, "geom:area_square_m": 308830.112654, "geom:bbox": "10.651082,52.009817,10.664137,52.016156", "geom:latitude": 52.012969, "geom:longitude": 10.657709, "gn:population": 488, "iso:country": "DE", "lbl:latitude": 52.013889, "lbl:longitude": 10.65761, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.013889, "mps:longitude": 10.65761, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0420\u043e\u0434\u0435\u043d"], "name:ceb_x_preferred": ["Rhoden"], "name:che_x_preferred": ["\u0420\u043e\u0434\u0435\u043d"], "name:deu_x_preferred": ["Rhoden"], "name:eng_x_preferred": ["Rhoden"], "name:epo_x_preferred": ["Rhoden"], "name:fas_x_preferred": ["\u0631\u0647\u0648\u062f\u0646"], "name:fra_x_preferred": ["Rhoden"], "name:gle_x_preferred": ["Rhoden"], "name:heb_x_preferred": ["\u05e8\u05d4\u05d5\u05d3\u05df"], "name:ita_x_preferred": ["Rhoden"], "name:kaz_x_preferred": ["\u0420\u043e\u0434\u0435\u043d"], "name:kir_x_preferred": ["\u0420\u043e\u0434\u0435\u043d"], "name:mkd_x_preferred": ["\u0420\u043e\u0434\u0435\u043d"], "name:nld_x_preferred": ["Rhoden"], "name:ron_x_preferred": ["Rhoden"], "name:rus_x_preferred": ["\u0420\u043e\u0434\u0435\u043d"], "name:tat_x_preferred": ["\u0420\u043e\u0434\u0435\u043d"], "name:uzb_x_preferred": ["Rhoden"], "name:vie_x_preferred": ["Rhoden"], "name:vol_x_preferred": ["Rhoden"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Harz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Rhoden", "qs:la_lc": "*DE15008509250", "qs:level": "locality", "qs:loc": "Rhoden", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377688603, 85633111, 102063857], "wof:breaches": [], "wof:concordances": {"gn:id": 2847560, "gp:id": 688358, "qs_pg:id": 202737, "wd:id": "Q698844", "wk:page": "Rhoden"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "7057a3eb723d485c5718220e6ee8511f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063857, "localadmin_id": 1377688603, "locality_id": 101909305, "region_id": 85682519}], "wof:id": 101909305, "wof:lastmodified": 1690871416, "wof:name": "Rhoden", "wof:parent_id": 1377688603, "wof:placetype": "locality", "wof:population": 488, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.651082, 52.009817, 10.664137, 52.016156], "geometry": {"coordinates": [[[10.659847, 52.016132], [10.659794, 52.012537], [10.661251, 52.012529], [10.661237, 52.01163], [10.662694, 52.011622], [10.662681, 52.010723], [10.664137, 52.010715], [10.664124, 52.009817], [10.656842, 52.009857], [10.656868, 52.011655], [10.655412, 52.011663], [10.655425, 52.012561], [10.653969, 52.01257], [10.653982, 52.013468], [10.652525, 52.013476], [10.652538, 52.014375], [10.651082, 52.014383], [10.651095, 52.015282], [10.655464, 52.015258], [10.655478, 52.016156], [10.659847, 52.016132]]], "type": "Polygon"}}
+{
+  "id": 101909305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":308830.112654,
+    "geom:bbox":"10.651082,52.009817,10.664137,52.016156",
+    "geom:latitude":52.012969,
+    "geom:longitude":10.657709,
+    "gn:population":488,
+    "iso:country":"DE",
+    "lbl:latitude":52.013889,
+    "lbl:longitude":10.65761,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.013889,
+    "mps:longitude":10.65761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Rhoden"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Rhoden"
+    ],
+    "name:eng_x_preferred":[
+        "Rhoden"
+    ],
+    "name:epo_x_preferred":[
+        "Rhoden"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0647\u0648\u062f\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Rhoden"
+    ],
+    "name:gle_x_preferred":[
+        "Rhoden"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d4\u05d5\u05d3\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Rhoden"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Rhoden"
+    ],
+    "name:ron_x_preferred":[
+        "Rhoden"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u0434\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Rhoden"
+    ],
+    "name:vie_x_preferred":[
+        "Rhoden"
+    ],
+    "name:vol_x_preferred":[
+        "Rhoden"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Harz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Rhoden",
+    "qs:la_lc":"*DE15008509250",
+    "qs:level":"locality",
+    "qs:loc":"Rhoden",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688603,
+        85633111,
+        102063857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2847560,
+        "gp:id":688358,
+        "qs_pg:id":202737,
+        "wd:id":"Q698844",
+        "wk:page":"Rhoden"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"7057a3eb723d485c5718220e6ee8511f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063857,
+            "localadmin_id":1377688603,
+            "locality_id":101909305,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909305,
+    "wof:lastmodified":1690871416,
+    "wof:name":"Rhoden",
+    "wof:parent_id":1377688603,
+    "wof:placetype":"locality",
+    "wof:population":488,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.651082,
+    52.009817,
+    10.664137,
+    52.016156
+],
+  "geometry": {"coordinates":[[[10.659847,52.016132],[10.659794,52.012537],[10.661251,52.012529],[10.661237,52.01163],[10.662694,52.011622],[10.662681,52.010723],[10.664137,52.010715],[10.664124,52.009817],[10.656842,52.009857],[10.656868,52.011655],[10.655412,52.011663],[10.655425,52.012561],[10.653969,52.01257],[10.653982,52.013468],[10.652525,52.013476],[10.652538,52.014375],[10.651082,52.014383],[10.651095,52.015282],[10.655464,52.015258],[10.655478,52.016156],[10.659847,52.016132]]],"type":"Polygon"}
+}

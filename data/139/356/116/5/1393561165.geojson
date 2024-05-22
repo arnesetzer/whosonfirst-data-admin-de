@@ -1,1 +1,91 @@
-{"id": 1393561165, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "13.28959,51.34391,13.28959,51.34391", "geom:latitude": 51.34391, "geom:longitude": 13.28959, "gn:admin1_code": "13", "gn:admin2_code": "0.0", "gn:admin3_code": "14627.0", "gn:admin4_code": "14627360.0", "gn:asciiname": "Gohlis", "gn:country_code": "DE", "gn:dem": 95, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2919500, "gn:latitude": 51.34391, "gn:longitude": 13.28959, "gn:modification_date": "2018-07-04", "gn:name": "Gohlis", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "13.28459,51.33891,13.29459,51.34891", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Gohlis"], "name:deu_x_preferred": ["Gohlis"], "name:fas_x_preferred": ["\u06af\u0648\u0647\u0644\u06cc\u0633"], "name:pol_x_preferred": ["Gohlis"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377687443, 85633111, 101822073, 102064229, 85682523], "wof:breaches": [], "wof:concordances": {"gn:id": 2919500}, "wof:country": "DE", "wof:geomhash": "3a6ddaee251b3dd7689b176081c76420", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064229, "localadmin_id": 1377687443, "locality_id": 101822073, "neighbourhood_id": 1393561165, "region_id": 85682523}], "wof:id": 1393561165, "wof:lastmodified": 1566715805, "wof:name": "Gohlis", "wof:parent_id": 101822073, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1209594721], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.28959, 51.34391, 13.28959, 51.34391], "geometry": {"coordinates": [13.28959, 51.34391], "type": "Point"}}
+{
+  "id": 1393561165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28959,51.34391,13.28959,51.34391",
+    "geom:latitude":51.34391,
+    "geom:longitude":13.28959,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"14627.0",
+    "gn:admin4_code":"14627360.0",
+    "gn:asciiname":"Gohlis",
+    "gn:country_code":"DE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2919500,
+    "gn:latitude":51.34391,
+    "gn:longitude":13.28959,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Gohlis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"13.28459,51.33891,13.29459,51.34891",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Gohlis"
+    ],
+    "name:deu_x_preferred":[
+        "Gohlis"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0647\u0644\u06cc\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Gohlis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377687443,
+        85633111,
+        101822073,
+        102064229,
+        85682523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2919500
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"3a6ddaee251b3dd7689b176081c76420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064229,
+            "localadmin_id":1377687443,
+            "locality_id":101822073,
+            "neighbourhood_id":1393561165,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":1393561165,
+    "wof:lastmodified":1566715805,
+    "wof:name":"Gohlis",
+    "wof:parent_id":101822073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209594721
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28959,
+    51.34391,
+    13.28959,
+    51.34391
+],
+  "geometry": {"coordinates":[13.28959,51.34391],"type":"Point"}
+}

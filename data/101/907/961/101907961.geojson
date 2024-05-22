@@ -1,1 +1,146 @@
-{"id": 101907961, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.00011, "geom:area_square_m": 826722.917343, "geom:bbox": "12.060696,52.755828,12.080244,52.765708", "geom:latitude": 52.760793, "geom:longitude": 12.072026, "gn:population": 454, "iso:country": "DE", "lbl:latitude": 52.760352, "lbl:longitude": 12.071877, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.760352, "mps:longitude": 12.071877, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0412\u0443\u043b\u044c\u043a\u0430\u0443"], "name:ceb_x_preferred": ["Wulkau"], "name:che_x_preferred": ["\u0412\u0443\u043b\u044c\u043a\u0430\u0443"], "name:deu_x_preferred": ["Wulkau"], "name:eng_x_preferred": ["Wulkau"], "name:epo_x_preferred": ["Wulkau"], "name:fra_x_preferred": ["Wulkau"], "name:gle_x_preferred": ["Wulkau"], "name:ita_x_preferred": ["Wulkau"], "name:kaz_x_preferred": ["\u0412\u0443\u043b\u044c\u043a\u0430\u0443"], "name:kir_x_preferred": ["\u0412\u0443\u043b\u044c\u043a\u0430\u0443"], "name:nld_x_preferred": ["Wulkau"], "name:ron_x_preferred": ["Wulkau"], "name:rus_x_preferred": ["\u0412\u0443\u043b\u044c\u043a\u0430\u0443"], "name:tat_x_preferred": ["\u0412\u0443\u043b\u044c\u043a\u0430\u0443"], "name:uzb_x_preferred": ["Wulkau"], "name:vie_x_preferred": ["Wulkau"], "name:vol_x_preferred": ["Wulkau"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Stendal", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Wulkau", "qs:la_lc": "*DE15009003625", "qs:level": "locality", "qs:loc": "Wulkau", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 30, "wof:belongsto": [85682519, 102191581, 1377689237, 85633111, 102063905], "wof:breaches": [], "wof:concordances": {"gn:id": 2805866, "gp:id": 708155, "qs_pg:id": 380023, "wd:id": "Q615076", "wk:page": "Wulkau"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "11f8903e7e4868b9d4b6d8c9d7f385f9", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063905, "localadmin_id": 1377689237, "locality_id": 101907961, "region_id": 85682519}], "wof:id": 101907961, "wof:lastmodified": 1690871591, "wof:name": "Wulkau", "wof:parent_id": 1377689237, "wof:placetype": "locality", "wof:population": 454, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.060696, 52.755828, 12.080244, 52.765708], "geometry": {"coordinates": [[[12.080244, 52.765605], [12.080202, 52.764707], [12.078721, 52.764733], [12.078508, 52.760242], [12.079988, 52.760216], [12.07986, 52.757521], [12.075418, 52.757598], [12.075376, 52.7567], [12.073895, 52.756726], [12.073853, 52.755828], [12.070892, 52.755879], [12.070934, 52.756777], [12.067973, 52.756828], [12.0681, 52.759523], [12.063658, 52.759599], [12.063616, 52.758701], [12.062135, 52.758727], [12.062177, 52.759625], [12.060696, 52.75965], [12.060739, 52.760549], [12.062219, 52.760523], [12.062304, 52.76232], [12.063785, 52.762294], [12.063827, 52.763192], [12.06827, 52.763116], [12.068312, 52.764014], [12.074236, 52.763912], [12.074321, 52.765708], [12.080244, 52.765605]]], "type": "Polygon"}}
+{
+  "id": 101907961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":826722.917343,
+    "geom:bbox":"12.060696,52.755828,12.080244,52.765708",
+    "geom:latitude":52.760793,
+    "geom:longitude":12.072026,
+    "gn:population":454,
+    "iso:country":"DE",
+    "lbl:latitude":52.760352,
+    "lbl:longitude":12.071877,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.760352,
+    "mps:longitude":12.071877,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u043a\u0430\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Wulkau"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u043a\u0430\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "Wulkau"
+    ],
+    "name:eng_x_preferred":[
+        "Wulkau"
+    ],
+    "name:epo_x_preferred":[
+        "Wulkau"
+    ],
+    "name:fra_x_preferred":[
+        "Wulkau"
+    ],
+    "name:gle_x_preferred":[
+        "Wulkau"
+    ],
+    "name:ita_x_preferred":[
+        "Wulkau"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u043a\u0430\u0443"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u043a\u0430\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Wulkau"
+    ],
+    "name:ron_x_preferred":[
+        "Wulkau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u043a\u0430\u0443"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u043a\u0430\u0443"
+    ],
+    "name:uzb_x_preferred":[
+        "Wulkau"
+    ],
+    "name:vie_x_preferred":[
+        "Wulkau"
+    ],
+    "name:vol_x_preferred":[
+        "Wulkau"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Stendal",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Wulkau",
+    "qs:la_lc":"*DE15009003625",
+    "qs:level":"locality",
+    "qs:loc":"Wulkau",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689237,
+        85633111,
+        102063905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2805866,
+        "gp:id":708155,
+        "qs_pg:id":380023,
+        "wd:id":"Q615076",
+        "wk:page":"Wulkau"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"11f8903e7e4868b9d4b6d8c9d7f385f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063905,
+            "localadmin_id":1377689237,
+            "locality_id":101907961,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101907961,
+    "wof:lastmodified":1690871591,
+    "wof:name":"Wulkau",
+    "wof:parent_id":1377689237,
+    "wof:placetype":"locality",
+    "wof:population":454,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.060696,
+    52.755828,
+    12.080244,
+    52.765708
+],
+  "geometry": {"coordinates":[[[12.080244,52.765605],[12.080202,52.764707],[12.078721,52.764733],[12.078508,52.760242],[12.079988,52.760216],[12.07986,52.757521],[12.075418,52.757598],[12.075376,52.7567],[12.073895,52.756726],[12.073853,52.755828],[12.070892,52.755879],[12.070934,52.756777],[12.067973,52.756828],[12.0681,52.759523],[12.063658,52.759599],[12.063616,52.758701],[12.062135,52.758727],[12.062177,52.759625],[12.060696,52.75965],[12.060739,52.760549],[12.062219,52.760523],[12.062304,52.76232],[12.063785,52.762294],[12.063827,52.763192],[12.06827,52.763116],[12.068312,52.764014],[12.074236,52.763912],[12.074321,52.765708],[12.080244,52.765605]]],"type":"Polygon"}
+}

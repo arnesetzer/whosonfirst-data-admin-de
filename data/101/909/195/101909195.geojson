@@ -1,1 +1,162 @@
-{"id": 101909195, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 8.4e-05, "geom:area_square_m": 647594.886332, "geom:bbox": "11.468389,51.659098,11.488883,51.66891", "geom:latitude": 51.664698, "geom:longitude": 11.47698, "gn:population": 963, "iso:country": "DE", "lbl:latitude": 51.664084, "lbl:longitude": 11.473409, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.664084, "mps:longitude": 11.473409, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0412\u0430\u043b\u044c\u0431\u0435\u043a"], "name:ceb_x_preferred": ["Walbeck"], "name:che_x_preferred": ["\u0412\u0430\u043b\u044c\u0431\u0435\u043a"], "name:deu_x_preferred": ["Walbeck"], "name:deu_x_variant": ["Walbeck (Mansfelder Land)", "Walbeck (Hettstedt)"], "name:eng_x_preferred": ["Walbeck"], "name:epo_x_preferred": ["Walbeck"], "name:fas_x_preferred": ["\u0648\u0627\u0644\u0628\u06a9"], "name:fra_x_preferred": ["Walbeck"], "name:gle_x_preferred": ["Walbeck"], "name:ita_x_preferred": ["Walbeck"], "name:kaz_x_preferred": ["\u0412\u0430\u043b\u044c\u0431\u0435\u043a"], "name:kir_x_preferred": ["\u0412\u0430\u043b\u044c\u0431\u0435\u043a"], "name:mkd_x_preferred": ["\u0412\u0430\u043b\u0431\u0435\u043a"], "name:mkd_x_variant": ["\u0412\u0430\u043b\u0431\u0435\u043a (\u041c\u0430\u043d\u0441\u0444\u0435\u043b\u0434-\u0417\u0438\u0434\u0445\u0430\u0440\u0446)"], "name:nld_x_preferred": ["Walbeck"], "name:osx_x_preferred": ["Walbike [a. 959]"], "name:ron_x_preferred": ["Walbeck"], "name:rus_x_preferred": ["\u0412\u0430\u043b\u044c\u0431\u0435\u043a (\u041c\u0430\u043d\u0441\u0444\u0435\u043b\u044c\u0434)"], "name:rus_x_variant": ["\u0412\u0430\u043b\u044c\u0431\u0435\u043a"], "name:tat_x_preferred": ["\u0412\u0430\u043b\u044c\u0431\u0435\u043a"], "name:uzb_x_preferred": ["Walbeck"], "name:vie_x_preferred": ["Walbeck"], "name:vol_x_preferred": ["Walbeck"], "name:war_x_preferred": ["Walbeck"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Mansfeld-S\u00fcdharz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Walbeck", "qs:la_lc": "*DE15008704435", "qs:level": "locality", "qs:loc": "Walbeck", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": [], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wof:belongsto": [85682519, 102191581, 1377688755, 85633111, 102063819], "wof:breaches": [], "wof:concordances": {"gn:id": 2815255, "gp:id": 703416, "qs_pg:id": 185937, "wd:id": "Q688068", "wk:page": "Walbeck, Mansfeld-S\u00fcdharz"}, "wof:country": "DE", "wof:geomhash": "b16c11b8a64f492072cc4a91c3239d5d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063819, "localadmin_id": 1377688755, "locality_id": 101909195, "region_id": 85682519}], "wof:id": 101909195, "wof:lastmodified": 1690871355, "wof:name": "Walbeck", "wof:parent_id": 1377688755, "wof:placetype": "locality", "wof:population": 963, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.468389, 51.659098, 11.488883, 51.66891], "geometry": {"coordinates": [[[11.481687, 51.668891], [11.481657, 51.667993], [11.488883, 51.667901], [11.488795, 51.665206], [11.48446, 51.665261], [11.48443, 51.664362], [11.482985, 51.66438], [11.483015, 51.665279], [11.477234, 51.665352], [11.477176, 51.663555], [11.475731, 51.663573], [11.475672, 51.661776], [11.474227, 51.661794], [11.47414, 51.659098], [11.469805, 51.659153], [11.469834, 51.660051], [11.468389, 51.660069], [11.468477, 51.662765], [11.469922, 51.662747], [11.470009, 51.665443], [11.471454, 51.665424], [11.471512, 51.667222], [11.475848, 51.667167], [11.475877, 51.668066], [11.480212, 51.668011], [11.480242, 51.66891], [11.481687, 51.668891]]], "type": "Polygon"}}
+{
+  "id": 101909195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":647594.886332,
+    "geom:bbox":"11.468389,51.659098,11.488883,51.66891",
+    "geom:latitude":51.664698,
+    "geom:longitude":11.47698,
+    "gn:population":963,
+    "iso:country":"DE",
+    "lbl:latitude":51.664084,
+    "lbl:longitude":11.473409,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.664084,
+    "mps:longitude":11.473409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0431\u0435\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Walbeck"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0431\u0435\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Walbeck"
+    ],
+    "name:deu_x_variant":[
+        "Walbeck (Mansfelder Land)",
+        "Walbeck (Hettstedt)"
+    ],
+    "name:eng_x_preferred":[
+        "Walbeck"
+    ],
+    "name:epo_x_preferred":[
+        "Walbeck"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u0628\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Walbeck"
+    ],
+    "name:gle_x_preferred":[
+        "Walbeck"
+    ],
+    "name:ita_x_preferred":[
+        "Walbeck"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0431\u0435\u043a"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0431\u0435\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u043b\u0431\u0435\u043a"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0430\u043b\u0431\u0435\u043a (\u041c\u0430\u043d\u0441\u0444\u0435\u043b\u0434-\u0417\u0438\u0434\u0445\u0430\u0440\u0446)"
+    ],
+    "name:nld_x_preferred":[
+        "Walbeck"
+    ],
+    "name:osx_x_preferred":[
+        "Walbike [a. 959]"
+    ],
+    "name:ron_x_preferred":[
+        "Walbeck"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0431\u0435\u043a (\u041c\u0430\u043d\u0441\u0444\u0435\u043b\u044c\u0434)"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u043b\u044c\u0431\u0435\u043a"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0431\u0435\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Walbeck"
+    ],
+    "name:vie_x_preferred":[
+        "Walbeck"
+    ],
+    "name:vol_x_preferred":[
+        "Walbeck"
+    ],
+    "name:war_x_preferred":[
+        "Walbeck"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Mansfeld-S\u00fcdharz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Walbeck",
+    "qs:la_lc":"*DE15008704435",
+    "qs:level":"locality",
+    "qs:loc":"Walbeck",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688755,
+        85633111,
+        102063819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2815255,
+        "gp:id":703416,
+        "qs_pg:id":185937,
+        "wd:id":"Q688068",
+        "wk:page":"Walbeck, Mansfeld-S\u00fcdharz"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"b16c11b8a64f492072cc4a91c3239d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063819,
+            "localadmin_id":1377688755,
+            "locality_id":101909195,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909195,
+    "wof:lastmodified":1690871355,
+    "wof:name":"Walbeck",
+    "wof:parent_id":1377688755,
+    "wof:placetype":"locality",
+    "wof:population":963,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.468389,
+    51.659098,
+    11.488883,
+    51.66891
+],
+  "geometry": {"coordinates":[[[11.481687,51.668891],[11.481657,51.667993],[11.488883,51.667901],[11.488795,51.665206],[11.48446,51.665261],[11.48443,51.664362],[11.482985,51.66438],[11.483015,51.665279],[11.477234,51.665352],[11.477176,51.663555],[11.475731,51.663573],[11.475672,51.661776],[11.474227,51.661794],[11.47414,51.659098],[11.469805,51.659153],[11.469834,51.660051],[11.468389,51.660069],[11.468477,51.662765],[11.469922,51.662747],[11.470009,51.665443],[11.471454,51.665424],[11.471512,51.667222],[11.475848,51.667167],[11.475877,51.668066],[11.480212,51.668011],[11.480242,51.66891],[11.481687,51.668891]]],"type":"Polygon"}
+}

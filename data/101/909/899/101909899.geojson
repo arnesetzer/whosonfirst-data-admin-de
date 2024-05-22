@@ -1,1 +1,167 @@
-{"id": 101909899, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 4.6e-05, "geom:area_square_m": 348632.115102, "geom:bbox": "11.355613,52.571917,11.364573,52.579156", "geom:latitude": 52.576118, "geom:longitude": 11.35981, "gn:population": 411, "iso:country": "DE", "lbl:latitude": 52.576286, "lbl:longitude": 11.359447, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 52.576286, "mps:longitude": 11.359447, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u042d\u0448\u0442\u0435\u0434\u0442"], "name:cat_x_preferred": ["Estedt"], "name:ceb_x_preferred": ["Estedt"], "name:che_x_preferred": ["\u042d\u0448\u0442\u0435\u0434\u0442"], "name:deu_x_preferred": ["Estedt"], "name:eng_x_preferred": ["Estedt"], "name:epo_x_preferred": ["Estedt"], "name:fas_x_preferred": ["\u0627\u0634\u062a\u062f\u062a"], "name:fra_x_preferred": ["Estedt"], "name:gle_x_preferred": ["Estedt"], "name:hbs_x_preferred": ["Estedt"], "name:ita_x_preferred": ["Estedt"], "name:kaz_x_preferred": ["\u042d\u0448\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u042d\u0448\u0442\u0435\u0434\u0442"], "name:nld_x_preferred": ["Estedt"], "name:nob_x_preferred": ["Estedt"], "name:pol_x_preferred": ["Estedt"], "name:ron_x_preferred": ["Estedt"], "name:rus_x_preferred": ["\u042d\u0448\u0442\u0435\u0434\u0442"], "name:srp_x_preferred": ["\u0415\u0448\u0442\u0435\u0442"], "name:tat_x_preferred": ["\u042d\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["Estedt"], "name:vie_x_preferred": ["Estedt"], "name:vol_x_preferred": ["Estedt"], "name:war_x_preferred": ["Estedt"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Altmarkkreis Salzwedel", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Estedt", "qs:la_lc": "*DE15008106125", "qs:level": "locality", "qs:loc": "Estedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377688173, 85633111, 102063961], "wof:breaches": [], "wof:concordances": {"gn:id": 2928740, "gp:id": 669729, "qs_pg:id": 579199, "wd:id": "Q676096", "wk:page": "Stari Banovci"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "67ccd74fb8a2a27cea097364aa61d8d1", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063961, "localadmin_id": 1377688173, "locality_id": 101909899, "region_id": 85682519}], "wof:id": 101909899, "wof:lastmodified": 1690871441, "wof:name": "Estedt", "wof:parent_id": 1377688173, "wof:placetype": "locality", "wof:population": 411, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.355613, 52.571917, 11.364573, 52.579156], "geometry": {"coordinates": [[[11.364573, 52.578156], [11.364462, 52.574562], [11.362987, 52.574579], [11.36296, 52.573681], [11.36001, 52.573714], [11.359955, 52.571917], [11.35848, 52.571934], [11.358508, 52.572833], [11.357033, 52.572849], [11.357088, 52.574646], [11.355613, 52.574663], [11.355752, 52.579156], [11.361651, 52.579088], [11.361624, 52.57819], [11.364573, 52.578156]]], "type": "Polygon"}}
+{
+  "id": 101909899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":348632.115102,
+    "geom:bbox":"11.355613,52.571917,11.364573,52.579156",
+    "geom:latitude":52.576118,
+    "geom:longitude":11.35981,
+    "gn:population":411,
+    "iso:country":"DE",
+    "lbl:latitude":52.576286,
+    "lbl:longitude":11.359447,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":52.576286,
+    "mps:longitude":11.359447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u042d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Estedt"
+    ],
+    "name:ceb_x_preferred":[
+        "Estedt"
+    ],
+    "name:che_x_preferred":[
+        "\u042d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Estedt"
+    ],
+    "name:eng_x_preferred":[
+        "Estedt"
+    ],
+    "name:epo_x_preferred":[
+        "Estedt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u062f\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Estedt"
+    ],
+    "name:gle_x_preferred":[
+        "Estedt"
+    ],
+    "name:hbs_x_preferred":[
+        "Estedt"
+    ],
+    "name:ita_x_preferred":[
+        "Estedt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u042d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Estedt"
+    ],
+    "name:nob_x_preferred":[
+        "Estedt"
+    ],
+    "name:pol_x_preferred":[
+        "Estedt"
+    ],
+    "name:ron_x_preferred":[
+        "Estedt"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0448\u0442\u0435\u0442"
+    ],
+    "name:tat_x_preferred":[
+        "\u042d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Estedt"
+    ],
+    "name:vie_x_preferred":[
+        "Estedt"
+    ],
+    "name:vol_x_preferred":[
+        "Estedt"
+    ],
+    "name:war_x_preferred":[
+        "Estedt"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Altmarkkreis Salzwedel",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Estedt",
+    "qs:la_lc":"*DE15008106125",
+    "qs:level":"locality",
+    "qs:loc":"Estedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688173,
+        85633111,
+        102063961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2928740,
+        "gp:id":669729,
+        "qs_pg:id":579199,
+        "wd:id":"Q676096",
+        "wk:page":"Stari Banovci"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"67ccd74fb8a2a27cea097364aa61d8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063961,
+            "localadmin_id":1377688173,
+            "locality_id":101909899,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909899,
+    "wof:lastmodified":1690871441,
+    "wof:name":"Estedt",
+    "wof:parent_id":1377688173,
+    "wof:placetype":"locality",
+    "wof:population":411,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.355613,
+    52.571917,
+    11.364573,
+    52.579156
+],
+  "geometry": {"coordinates":[[[11.364573,52.578156],[11.364462,52.574562],[11.362987,52.574579],[11.36296,52.573681],[11.36001,52.573714],[11.359955,52.571917],[11.35848,52.571934],[11.358508,52.572833],[11.357033,52.572849],[11.357088,52.574646],[11.355613,52.574663],[11.355752,52.579156],[11.361651,52.579088],[11.361624,52.57819],[11.364573,52.578156]]],"type":"Polygon"}
+}

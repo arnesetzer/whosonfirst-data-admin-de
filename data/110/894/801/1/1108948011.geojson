@@ -1,1 +1,77 @@
-{"id": 1108948011, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.45176976355,51.1338349463,6.45176976355,51.1338349463", "geom:latitude": 51.133835, "geom:longitude": 6.45177, "iso:country": "DE", "lbl:bbox": "6.44676976355,51.1288349463,6.45676976355,51.1388349463", "lbl:latitude": 51.133835, "lbl:longitude": 6.45177, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 12.0, "mz:tier_metro": 30, "name:deu_x_preferred": ["Odenkirchen"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377689749, 404227561, 101907593, 102063757, 85682513], "wof:breaches": [], "wof:concordances": {"gn:id": 2858114, "gp:id": 20168735, "qs_pg:id": 353304}, "wof:country": "DE", "wof:created": 1491366728, "wof:geomhash": "9c6d87ccd530a710ee6e8af8b266609f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063757, "localadmin_id": 1377689749, "locality_id": 101907593, "macrocounty_id": 404227561, "neighbourhood_id": 1108948011, "region_id": 85682513}], "wof:id": 1108948011, "wof:lastmodified": 1566713018, "wof:name": "Odenkirchen", "wof:parent_id": 101907593, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.45176976355241, 51.13383494631776, 6.45176976355241, 51.13383494631776], "geometry": {"coordinates": [6.45176976355241, 51.13383494631776], "type": "Point"}}
+{
+  "id": 1108948011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.45176976355,51.1338349463,6.45176976355,51.1338349463",
+    "geom:latitude":51.133835,
+    "geom:longitude":6.45177,
+    "iso:country":"DE",
+    "lbl:bbox":"6.44676976355,51.1288349463,6.45676976355,51.1388349463",
+    "lbl:latitude":51.133835,
+    "lbl:longitude":6.45177,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Odenkirchen"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689749,
+        404227561,
+        101907593,
+        102063757,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2858114,
+        "gp:id":20168735,
+        "qs_pg:id":353304
+    },
+    "wof:country":"DE",
+    "wof:created":1491366728,
+    "wof:geomhash":"9c6d87ccd530a710ee6e8af8b266609f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063757,
+            "localadmin_id":1377689749,
+            "locality_id":101907593,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1108948011,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1108948011,
+    "wof:lastmodified":1566713018,
+    "wof:name":"Odenkirchen",
+    "wof:parent_id":101907593,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.45176976355241,
+    51.13383494631776,
+    6.45176976355241,
+    51.13383494631776
+],
+  "geometry": {"coordinates":[6.45176976355241,51.13383494631776],"type":"Point"}
+}

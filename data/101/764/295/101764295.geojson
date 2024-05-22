@@ -1,1 +1,233 @@
-{"id": 101764295, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08426066", "eurostat:level_code": "lau", "eurostat:name_local": "Kirchdorf an der Iller", "eurostat:nuts_2021_id": "08426066", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE14", "eurostat:nuts_2021_level_3": "DE146", "eurostat:nuts_2021_level_lau": "08426066", "eurostat:population": 3813, "eurostat:population_year": 2020, "geom:area": 0.002732, "geom:area_square_m": 22575867.098175, "geom:bbox": "10.040191,48.023092,10.143955,48.098917", "geom:latitude": 48.061372, "geom:longitude": 10.114733, "gn:population": 3396, "iso:country": "DE", "lbl:latitude": 48.07724, "lbl:longitude": 10.130479, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 48.07724, "mps:longitude": 10.130479, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:als_x_preferred": ["Kirchdorf an der Iller"], "name:cat_x_preferred": ["Kirchdorf an der Iller"], "name:ceb_x_preferred": ["Kirchdorf an der Iller"], "name:deu_x_preferred": ["Kirchdorf an der Iller"], "name:deu_x_variant": ["Kirchdorf", "Kirchdorf (Iller)", "Kirchdorf a.d. Iller", "Kirchdorf/Iller"], "name:eng_x_preferred": ["Kirchdorf an der Iller"], "name:epo_x_preferred": ["Kirchdorf an der Iller"], "name:eus_x_preferred": ["Kirchdorf an der Iller"], "name:fas_x_preferred": ["\u06a9\u06cc\u0631\u0634\u062f\u0648\u0631\u0641 \u0627\u0646 \u062f\u0631 \u0627\u06cc\u0644\u0631"], "name:fra_x_preferred": ["Kirchdorf an der Iller"], "name:gsw_x_preferred": ["Kirchdorf"], "name:hbs_x_preferred": ["Kirchdorf an der Iller"], "name:hun_x_preferred": ["Kirchdorf an der Iller"], "name:hye_x_preferred": ["\u053b\u056c\u0565\u0580\u056b \u053f\u056b\u0580\u056d\u0564\u0578\u0580\u0586"], "name:ita_x_preferred": ["Kirchdorf an der Iller"], "name:kat_x_preferred": ["\u10d9\u10d8\u10e0\u10ee\u10d3\u10dd\u10e0\u10e4-\u10d0\u10dc-\u10d3\u10d4\u10e0-\u10d8\u10da\u10d4\u10e0\u10d8"], "name:kur_x_preferred": ["Kirchdorf an der Iller"], "name:lat_x_preferred": ["Kirchdorf an der Iller"], "name:lld_x_preferred": ["Kirchdorf an der Iller"], "name:lmo_x_preferred": ["Kirchdorf an der Iller"], "name:msa_x_preferred": ["Kirchdorf an der Iller"], "name:nan_x_preferred": ["Kirchdorf an der Iller"], "name:nld_x_preferred": ["Kirchdorf an der Iller"], "name:nob_x_preferred": ["Kirchdorf an der Iller"], "name:pol_x_preferred": ["Kirchdorf an der Iller"], "name:por_x_preferred": ["Kirchdorf an der Iller"], "name:ron_x_preferred": ["Kirchdorf an der Iller"], "name:rus_x_preferred": ["\u041a\u0438\u0440\u0445\u0434\u043e\u0440\u0444-\u043d\u0430-\u0418\u043b\u043b\u0435\u0440\u0435"], "name:srp_x_preferred": ["\u041a\u0438\u0440\u0445\u0434\u043e\u0440\u0444 \u0430\u043d \u0434\u0435\u0440 \u0418\u043b\u0435\u0440"], "name:swe_x_preferred": ["Kirchdorf an der Iller"], "name:ukr_x_preferred": ["\u041a\u0456\u0440\u0445\u0434\u043e\u0440\u0444-\u0430\u043d-\u0434\u0435\u0440-\u0406\u043b\u043b\u0435\u0440"], "name:uzb_x_preferred": ["Kirchdorf an der Iller"], "name:vie_x_preferred": ["Kirchdorf an der Iller"], "name:vol_x_preferred": ["Kirchdorf an der Iller"], "name:war_x_preferred": ["Kirchdorf an der Iller"], "name:zho_min_nan_x_preferred": ["Kirchdorf an der Iller"], "name:zho_x_preferred": ["\u4f0a\u83b1\u5c14\u6cb3\u7554\u57fa\u5c14\u5e0c\u591a\u592b"], "nav:latitude": 48.07724, "nav:longitude": 10.130479, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Biberach", "qs:a2r": "T\u00fcbingen", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Fellheim", "qs:la_lc": "*DE09707861139", "qs:level": "locality", "qs:loc": "Kirchdorf an der Iller", "qs:loc_alt": "Kirchdorf an der Iller", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 30, "wof:belongsto": [85682567, 102191581, 85633111, 1377690329, 404227573, 102063269], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08426066", "eurostat:nuts_2021_id": "08426066", "fct:id": "0747a924-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 6556018, "gp:id": 665886, "qs_pg:id": 918330, "wd:id": "Q522302", "wk:page": "Kirchdorf an der Iller"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "924bcddf25c33fc363898dae529d86cf", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063269, "localadmin_id": 1377690329, "locality_id": 101764295, "macrocounty_id": 404227573, "region_id": 85682567}], "wof:id": 101764295, "wof:lang": ["ger"], "wof:lastmodified": 1690871499, "wof:name": "Kirchdorf an der Iller", "wof:parent_id": 1377690329, "wof:placetype": "locality", "wof:population": 3813, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.040191, 48.023092, 10.143955, 48.098917], "geometry": {"coordinates": [[[[10.140641, 48.064902], [10.14074, 48.064201], [10.141269, 48.063313], [10.141899, 48.062457], [10.143261, 48.060461], [10.143952, 48.059538], [10.143902, 48.059007], [10.142961, 48.05744], [10.142603, 48.056827], [10.142527, 48.056288], [10.142737, 48.055012], [10.141291, 48.054618], [10.139729, 48.053789], [10.139156, 48.051513], [10.140971, 48.050853], [10.141267, 48.050747], [10.141227, 48.05063], [10.140717, 48.048857], [10.141228, 48.046809], [10.141256, 48.046701], [10.139576, 48.045429], [10.138021, 48.045405], [10.136847, 48.044727], [10.13587, 48.042648], [10.134975, 48.040406], [10.133974, 48.038003], [10.130044, 48.034826], [10.128176, 48.033777], [10.127656, 48.033433], [10.127243, 48.032983], [10.127111, 48.032712], [10.127157, 48.032047], [10.12743, 48.031365], [10.130005, 48.029206], [10.133431, 48.026334], [10.128993, 48.023092], [10.124067, 48.025951], [10.118377, 48.02355], [10.115054, 48.025318], [10.114128, 48.023787], [10.110422, 48.023117], [10.105393, 48.023549], [10.106294, 48.02659], [10.10663, 48.028111], [10.106898, 48.029159], [10.103164, 48.032469], [10.105402, 48.035369], [10.099897, 48.037448], [10.10447, 48.042796], [10.096943, 48.047344], [10.096925, 48.049546], [10.102002, 48.04984], [10.100981, 48.061945], [10.100989, 48.067346], [10.093911, 48.066701], [10.092851, 48.070791], [10.090876, 48.074443], [10.096958, 48.075259], [10.095838, 48.077781], [10.102133, 48.078945], [10.10107, 48.080973], [10.104606, 48.081651], [10.101832, 48.089569], [10.111453, 48.091204], [10.110894, 48.092389], [10.115547, 48.094106], [10.117236, 48.091591], [10.118577, 48.092594], [10.122221, 48.094224], [10.12646, 48.092431], [10.135273, 48.096194], [10.134439, 48.098259], [10.140392, 48.098917], [10.140552, 48.095474], [10.139644, 48.094788], [10.137572, 48.09372], [10.13801, 48.092664], [10.138681, 48.09074], [10.137746, 48.086539], [10.136034, 48.084428], [10.134023, 48.081951], [10.134082, 48.079479], [10.135415, 48.076975], [10.136009, 48.076528], [10.136965, 48.075956], [10.138673, 48.075395], [10.140239, 48.07524], [10.141129, 48.075151], [10.141733, 48.075117], [10.14235, 48.075084], [10.14321, 48.074907], [10.143507, 48.07462], [10.143737, 48.074414], [10.143955, 48.073911], [10.143906, 48.073309], [10.143503, 48.071528], [10.142817, 48.069916], [10.141614, 48.067449], [10.141032, 48.066342], [10.140641, 48.064902]]], [[[10.043196, 48.062382], [10.040191, 48.062514], [10.042195, 48.063259], [10.041107, 48.064954], [10.045653, 48.066384], [10.041623, 48.070017], [10.046192, 48.071959], [10.046135, 48.073064], [10.047835, 48.073471], [10.047486, 48.074383], [10.048303, 48.074995], [10.049862, 48.075363], [10.054433, 48.075382], [10.06048, 48.07457], [10.060564, 48.07262], [10.063999, 48.072463], [10.062449, 48.071854], [10.060278, 48.071639], [10.059751, 48.070276], [10.058812, 48.069098], [10.059041, 48.067387], [10.057209, 48.066871], [10.057652, 48.065345], [10.05545, 48.064114], [10.058624, 48.06009], [10.054568, 48.059391], [10.05297, 48.061092], [10.052293, 48.060343], [10.048986, 48.060972], [10.048944, 48.06178], [10.049044, 48.062447], [10.049318, 48.063471], [10.049489, 48.064185], [10.049519, 48.06478], [10.049478, 48.065398], [10.043196, 48.062382]]]], "type": "MultiPolygon"}}
+{
+  "id": 101764295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08426066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchdorf an der Iller",
+    "eurostat:nuts_2021_id":"08426066",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE14",
+    "eurostat:nuts_2021_level_3":"DE146",
+    "eurostat:nuts_2021_level_lau":"08426066",
+    "eurostat:population":3813,
+    "eurostat:population_year":2020,
+    "geom:area":0.002732,
+    "geom:area_square_m":22575867.098175,
+    "geom:bbox":"10.040191,48.023092,10.143955,48.098917",
+    "geom:latitude":48.061372,
+    "geom:longitude":10.114733,
+    "gn:population":3396,
+    "iso:country":"DE",
+    "lbl:latitude":48.07724,
+    "lbl:longitude":10.130479,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":48.07724,
+    "mps:longitude":10.130479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:als_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:cat_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:ceb_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:deu_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:deu_x_variant":[
+        "Kirchdorf",
+        "Kirchdorf (Iller)",
+        "Kirchdorf a.d. Iller",
+        "Kirchdorf/Iller"
+    ],
+    "name:eng_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:epo_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:eus_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0631\u0634\u062f\u0648\u0631\u0641 \u0627\u0646 \u062f\u0631 \u0627\u06cc\u0644\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:gsw_x_preferred":[
+        "Kirchdorf"
+    ],
+    "name:hbs_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:hun_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u056c\u0565\u0580\u056b \u053f\u056b\u0580\u056d\u0564\u0578\u0580\u0586"
+    ],
+    "name:ita_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e0\u10ee\u10d3\u10dd\u10e0\u10e4-\u10d0\u10dc-\u10d3\u10d4\u10e0-\u10d8\u10da\u10d4\u10e0\u10d8"
+    ],
+    "name:kur_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:lat_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:lld_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:lmo_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:msa_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:nan_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:nld_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:nob_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:pol_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:por_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:ron_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0445\u0434\u043e\u0440\u0444-\u043d\u0430-\u0418\u043b\u043b\u0435\u0440\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0440\u0445\u0434\u043e\u0440\u0444 \u0430\u043d \u0434\u0435\u0440 \u0418\u043b\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u0445\u0434\u043e\u0440\u0444-\u0430\u043d-\u0434\u0435\u0440-\u0406\u043b\u043b\u0435\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:vie_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:vol_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:war_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Kirchdorf an der Iller"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u83b1\u5c14\u6cb3\u7554\u57fa\u5c14\u5e0c\u591a\u592b"
+    ],
+    "nav:latitude":48.07724,
+    "nav:longitude":10.130479,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Biberach",
+    "qs:a2r":"T\u00fcbingen",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Fellheim",
+    "qs:la_lc":"*DE09707861139",
+    "qs:level":"locality",
+    "qs:loc":"Kirchdorf an der Iller",
+    "qs:loc_alt":"Kirchdorf an der Iller",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377690329,
+        404227573,
+        102063269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08426066",
+        "eurostat:nuts_2021_id":"08426066",
+        "fct:id":"0747a924-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6556018,
+        "gp:id":665886,
+        "qs_pg:id":918330,
+        "wd:id":"Q522302",
+        "wk:page":"Kirchdorf an der Iller"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"924bcddf25c33fc363898dae529d86cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063269,
+            "localadmin_id":1377690329,
+            "locality_id":101764295,
+            "macrocounty_id":404227573,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101764295,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871499,
+    "wof:name":"Kirchdorf an der Iller",
+    "wof:parent_id":1377690329,
+    "wof:placetype":"locality",
+    "wof:population":3813,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.040191,
+    48.023092,
+    10.143955,
+    48.098917
+],
+  "geometry": {"coordinates":[[[[10.140641,48.064902],[10.14074,48.064201],[10.141269,48.063313],[10.141899,48.062457],[10.143261,48.060461],[10.143952,48.059538],[10.143902,48.059007],[10.142961,48.05744],[10.142603,48.056827],[10.142527,48.056288],[10.142737,48.055012],[10.141291,48.054618],[10.139729,48.053789],[10.139156,48.051513],[10.140971,48.050853],[10.141267,48.050747],[10.141227,48.05063],[10.140717,48.048857],[10.141228,48.046809],[10.141256,48.046701],[10.139576,48.045429],[10.138021,48.045405],[10.136847,48.044727],[10.13587,48.042648],[10.134975,48.040406],[10.133974,48.038003],[10.130044,48.034826],[10.128176,48.033777],[10.127656,48.033433],[10.127243,48.032983],[10.127111,48.032712],[10.127157,48.032047],[10.12743,48.031365],[10.130005,48.029206],[10.133431,48.026334],[10.128993,48.023092],[10.124067,48.025951],[10.118377,48.02355],[10.115054,48.025318],[10.114128,48.023787],[10.110422,48.023117],[10.105393,48.023549],[10.106294,48.02659],[10.10663,48.028111],[10.106898,48.029159],[10.103164,48.032469],[10.105402,48.035369],[10.099897,48.037448],[10.10447,48.042796],[10.096943,48.047344],[10.096925,48.049546],[10.102002,48.04984],[10.100981,48.061945],[10.100989,48.067346],[10.093911,48.066701],[10.092851,48.070791],[10.090876,48.074443],[10.096958,48.075259],[10.095838,48.077781],[10.102133,48.078945],[10.10107,48.080973],[10.104606,48.081651],[10.101832,48.089569],[10.111453,48.091204],[10.110894,48.092389],[10.115547,48.094106],[10.117236,48.091591],[10.118577,48.092594],[10.122221,48.094224],[10.12646,48.092431],[10.135273,48.096194],[10.134439,48.098259],[10.140392,48.098917],[10.140552,48.095474],[10.139644,48.094788],[10.137572,48.09372],[10.13801,48.092664],[10.138681,48.09074],[10.137746,48.086539],[10.136034,48.084428],[10.134023,48.081951],[10.134082,48.079479],[10.135415,48.076975],[10.136009,48.076528],[10.136965,48.075956],[10.138673,48.075395],[10.140239,48.07524],[10.141129,48.075151],[10.141733,48.075117],[10.14235,48.075084],[10.14321,48.074907],[10.143507,48.07462],[10.143737,48.074414],[10.143955,48.073911],[10.143906,48.073309],[10.143503,48.071528],[10.142817,48.069916],[10.141614,48.067449],[10.141032,48.066342],[10.140641,48.064902]]],[[[10.043196,48.062382],[10.040191,48.062514],[10.042195,48.063259],[10.041107,48.064954],[10.045653,48.066384],[10.041623,48.070017],[10.046192,48.071959],[10.046135,48.073064],[10.047835,48.073471],[10.047486,48.074383],[10.048303,48.074995],[10.049862,48.075363],[10.054433,48.075382],[10.06048,48.07457],[10.060564,48.07262],[10.063999,48.072463],[10.062449,48.071854],[10.060278,48.071639],[10.059751,48.070276],[10.058812,48.069098],[10.059041,48.067387],[10.057209,48.066871],[10.057652,48.065345],[10.05545,48.064114],[10.058624,48.06009],[10.054568,48.059391],[10.05297,48.061092],[10.052293,48.060343],[10.048986,48.060972],[10.048944,48.06178],[10.049044,48.062447],[10.049318,48.063471],[10.049489,48.064185],[10.049519,48.06478],[10.049478,48.065398],[10.043196,48.062382]]]],"type":"MultiPolygon"}
+}

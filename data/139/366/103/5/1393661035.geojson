@@ -1,1 +1,88 @@
-{"id": 1393661035, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "7.06875,50.02572,7.06875,50.02572", "geom:latitude": 50.02572, "geom:longitude": 7.06875, "gn:admin1_code": "8", "gn:admin2_code": "0.0", "gn:admin3_code": "7231.0", "gn:admin4_code": "7231005.0", "gn:asciiname": "Springiersbach", "gn:country_code": "DE", "gn:dem": 171, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2830017, "gn:latitude": 50.02572, "gn:longitude": 7.06875, "gn:modification_date": "2015-09-05", "gn:name": "Springiersbach", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "7.06375,50.02072,7.07375,50.03072", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:deu_x_preferred": ["Kloster Springiersbach"], "name:epo_x_preferred": ["Klostro Springiersbach"], "name:rus_x_preferred": ["\u0410\u0431\u0431\u0430\u0442\u0441\u0442\u0432\u043e \u0428\u043f\u0440\u0438\u043d\u0433\u0435\u0440\u0441\u0431\u0430\u0445"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377685909, 85633111, 101907029, 102063581, 85682491], "wof:breaches": [], "wof:concordances": {"gn:id": 2830017}, "wof:country": "DE", "wof:geomhash": "2a0e9ff91786773aa0a13aa773b82a45", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063581, "localadmin_id": 1377685909, "locality_id": 101907029, "neighbourhood_id": 1393661035, "region_id": 85682491}], "wof:id": 1393661035, "wof:lastmodified": 1566715138, "wof:name": "Springiersbach", "wof:parent_id": 101907029, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1360275829], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.06875, 50.02572, 7.06875, 50.02572], "geometry": {"coordinates": [7.06875, 50.02572], "type": "Point"}}
+{
+  "id": 1393661035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.06875,50.02572,7.06875,50.02572",
+    "geom:latitude":50.02572,
+    "geom:longitude":7.06875,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"7231.0",
+    "gn:admin4_code":"7231005.0",
+    "gn:asciiname":"Springiersbach",
+    "gn:country_code":"DE",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2830017,
+    "gn:latitude":50.02572,
+    "gn:longitude":7.06875,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Springiersbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"7.06375,50.02072,7.07375,50.03072",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Kloster Springiersbach"
+    ],
+    "name:epo_x_preferred":[
+        "Klostro Springiersbach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0431\u0430\u0442\u0441\u0442\u0432\u043e \u0428\u043f\u0440\u0438\u043d\u0433\u0435\u0440\u0441\u0431\u0430\u0445"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377685909,
+        85633111,
+        101907029,
+        102063581,
+        85682491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2830017
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"2a0e9ff91786773aa0a13aa773b82a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063581,
+            "localadmin_id":1377685909,
+            "locality_id":101907029,
+            "neighbourhood_id":1393661035,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":1393661035,
+    "wof:lastmodified":1566715138,
+    "wof:name":"Springiersbach",
+    "wof:parent_id":101907029,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360275829
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.06875,
+    50.02572,
+    7.06875,
+    50.02572
+],
+  "geometry": {"coordinates":[7.06875,50.02572],"type":"Point"}
+}

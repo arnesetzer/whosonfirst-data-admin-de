@@ -1,1 +1,412 @@
-{"id": 101764133, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08326052", "eurostat:level_code": "lau", "eurostat:name_local": "St. Georgen im Schwarzwald, Stadt", "eurostat:nuts_2021_id": "08326052", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE136", "eurostat:nuts_2021_level_lau": "08326052", "eurostat:population": 12945, "eurostat:population_year": 2020, "geom:area": 0.007217, "geom:area_square_m": 59569747.185031, "geom:bbox": "8.272701,48.072997,8.402556,48.172914", "geom:latitude": 48.12266, "geom:longitude": 8.329286, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 13208, "iso:country": "DE", "lbl:latitude": 48.126166, "lbl:longitude": 8.335076, "lbl:max_zoom": 15.0, "lbl:min_zoom": 10.5, "mps:latitude": 48.126166, "mps:longitude": 8.335076, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 10.0, "name:afr_x_preferred": ["St. Georgen im Schwarzwald"], "name:als_x_preferred": ["St. Georgen im Schwarzwald"], "name:ara_x_preferred": ["\u0632\u0627\u0646\u0643\u062a \u063a\u064a\u0648\u0631\u063a\u0646"], "name:arg_x_preferred": ["St. Georgen im Schwarzwald"], "name:ast_x_preferred": ["St. Georgen im Schwarzwald"], "name:bar_x_preferred": ["St. Georgen im Schwarzwald"], "name:bre_x_preferred": ["St. Georgen im Schwarzwald"], "name:cat_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:ceb_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:ces_x_preferred": ["St. Georgen im Schwarzwald"], "name:cos_x_preferred": ["St. Georgen im Schwarzwald"], "name:cym_x_preferred": ["St. Georgen im Schwarzwald"], "name:dan_x_preferred": ["St. Georgen im Schwarzwald"], "name:deu_x_preferred": ["St. Georgen im Schwarzwald"], "name:eng_x_preferred": ["St. Georgen im Schwarzwald"], "name:epo_x_preferred": ["St. Georgen im Schwarzwald"], "name:est_x_preferred": ["St. Georgen im Schwarzwald"], "name:eus_x_preferred": ["St. Georgen im Schwarzwald"], "name:fas_x_preferred": ["\u0632\u0646\u06a9\u062a \u06af\u0626\u0648\u0631\u06af\u0646"], "name:fin_x_preferred": ["St. Georgen im Schwarzwald"], "name:fra_x_preferred": ["St. Georgen im Schwarzwald"], "name:frp_x_preferred": ["St. Georgen im Schwarzwald"], "name:fur_x_preferred": ["St. Georgen im Schwarzwald"], "name:gla_x_preferred": ["St. Georgen im Schwarzwald"], "name:gle_x_preferred": ["St. Georgen im Schwarzwald"], "name:glg_x_preferred": ["St. Georgen im Schwarzwald"], "name:gsw_x_preferred": ["Sanderge"], "name:hbs_x_preferred": ["St. Georgen im Schwarzwald"], "name:hrv_x_preferred": ["St. Georgen im Schwarzwald"], "name:hun_x_preferred": ["St. Georgen im Schwarzwald"], "name:ido_x_preferred": ["St. Georgen im Schwarzwald"], "name:ile_x_preferred": ["St. Georgen im Schwarzwald"], "name:ina_x_preferred": ["St. Georgen im Schwarzwald"], "name:ind_x_preferred": ["St. Georgen im Schwarzwald"], "name:isl_x_preferred": ["St. Georgen im Schwarzwald"], "name:ita_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:ita_x_variant": ["St. Georgen im Schwarzwald"], "name:jpn_x_preferred": ["\u30b5\u30f3\u30af\u30c8\u30fb\u30b2\u30aa\u30eb\u30b2\u30f3\u30fb\u30a4\u30e0\u30fb\u30b7\u30e5\u30f4\u30a1\u30eb\u30c4\u30f4\u30a1\u30eb\u30c8"], "name:kon_x_preferred": ["St. Georgen im Schwarzwald"], "name:kur_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:lat_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:lij_x_preferred": ["St. Georgen im Schwarzwald"], "name:lim_x_preferred": ["St. Georgen im Schwarzwald"], "name:lld_x_preferred": ["St. Georgen im Schwarzwald"], "name:lmo_x_preferred": ["St. Georgen im Schwarzwald"], "name:ltz_x_preferred": ["St. Georgen im Schwarzwald"], "name:min_x_preferred": ["St. Georgen im Schwarzwald"], "name:mlg_x_preferred": ["St. Georgen im Schwarzwald"], "name:msa_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:nap_x_preferred": ["St. Georgen im Schwarzwald"], "name:nds_x_preferred": ["St. Georgen im Schwarzwald"], "name:nld_x_preferred": ["St. Georgen im Schwarzwald"], "name:nno_x_preferred": ["St. Georgen im Schwarzwald"], "name:nob_x_preferred": ["St. Georgen im Schwarzwald"], "name:nrm_x_preferred": ["St. Georgen im Schwarzwald"], "name:oci_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:pcd_x_preferred": ["St. Georgen im Schwarzwald"], "name:pms_x_preferred": ["St. Georgen im Schwarzwald"], "name:pol_x_preferred": ["St. Georgen im Schwarzwald"], "name:por_x_preferred": ["St. Georgen"], "name:roh_x_preferred": ["St. Georgen im Schwarzwald"], "name:ron_x_preferred": ["St. Georgen im Schwarzwald"], "name:rus_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0413\u0435\u043e\u0440\u0433\u0435\u043d-\u0438\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"], "name:scn_x_preferred": ["St. Georgen im Schwarzwald"], "name:sco_x_preferred": ["St. Georgen im Schwarzwald"], "name:slk_x_preferred": ["St. Georgen im Schwarzwald"], "name:slv_x_preferred": ["St. Georgen im Schwarzwald"], "name:spa_x_preferred": ["St. Georgen"], "name:spa_x_variant": ["Sankt Georgen im Schwarzwald"], "name:srd_x_preferred": ["St. Georgen im Schwarzwald"], "name:srp_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u0413\u0435\u043e\u0440\u0433\u0435\u043d \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"], "name:swa_x_preferred": ["St. Georgen im Schwarzwald"], "name:swe_x_preferred": ["St. Georgen im Schwarzwald"], "name:tuk_x_preferred": ["Keramatly Georgen"], "name:tur_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:ukr_x_preferred": ["\u0417\u0430\u043d\u043a\u0442-\u0413\u0435\u043e\u0440\u0433\u0435\u043d-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"], "name:und_x_variant": ["Sankt Georgen"], "name:uzb_x_preferred": ["St. Georgen im Schwarzwald"], "name:vec_x_preferred": ["St. Georgen im Schwarzwald"], "name:vie_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:vls_x_preferred": ["St. Georgen im Schwarzwald"], "name:vol_x_preferred": ["St. Georgen im Schwarzwald"], "name:war_x_preferred": ["Sankt Georgen im Schwarzwald"], "name:wln_x_preferred": ["St. Georgen im Schwarzwald"], "name:wol_x_preferred": ["St. Georgen im Schwarzwald"], "name:zho_x_preferred": ["\u9ed1\u6797\u5c71\u533a\u5723\u683c\u5965\u5c14\u6839"], "name:zho_x_variant": ["\u5723\u683c\u5965\u5c14\u6839\u4f0a\u59c6\u65af\u5e0c\u74e6\u5c14\u8328\u74e6\u5c14\u5fb7"], "name:zul_x_preferred": ["St. Georgen im Schwarzwald"], "nav:latitude": 48.126166, "nav:longitude": 8.335076, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Schwarzwald-Baar-Kreis", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "St. Georgen im Schwarzwald", "qs:la_lc": "*DE08302600052", "qs:level": "locality", "qs:loc": "St. Georgen im Schwarzwald", "qs:loc_alt": "St. Georgen im Schwarzwald", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558128, "qs_pg:gn_pop": 13208, "qs_pg:name": "St. Georgen im Schwarzwald, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 8, "qs_pg:photos_1k": 2, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 13, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 6, "qs_pg:qs_id": 638150, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623468, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 48.124722, "wd:longitude": 8.330833, "wd:wordcount": 80, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689545, 404227543, 102063253], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08326052", "eurostat:nuts_2021_id": "08326052", "gn:id": 2841619, "gp:id": 696022, "qs_pg:id": 1038527, "wd:id": "Q83036", "wk:page": "Sankt Georgen im Schwarzwald"}, "wof:coterminous": [1377689545], "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "6dbc6580785040b80827e2958ee21f0d", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063253, "localadmin_id": 1377689545, "locality_id": 101764133, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101764133, "wof:lastmodified": 1690871489, "wof:name": "St. Georgen im Schwarzwald", "wof:parent_id": 1377689545, "wof:placetype": "locality", "wof:population": 12945, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125338367, 1125296691], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.272701, 48.072997, 8.402556, 48.172914], "geometry": {"coordinates": [[[[8.340679, 48.162409], [8.340146, 48.15372], [8.342282, 48.152224], [8.349639, 48.149635], [8.353786, 48.149464], [8.356757, 48.15097], [8.369069, 48.147837], [8.373961, 48.148148], [8.377521, 48.145689], [8.382889, 48.146162], [8.386276, 48.140525], [8.390872, 48.137691], [8.395026, 48.134164], [8.39815, 48.127713], [8.393013, 48.120951], [8.394129, 48.119974], [8.395059, 48.118957], [8.397982, 48.115614], [8.401187, 48.114138], [8.402556, 48.111322], [8.401757, 48.109283], [8.401726, 48.104337], [8.400216, 48.101646], [8.399249, 48.101349], [8.397483, 48.104651], [8.395407, 48.104207], [8.391279, 48.102167], [8.391181, 48.102255], [8.389781, 48.10328], [8.388822, 48.104053], [8.387735, 48.104644], [8.386799, 48.104878], [8.382203, 48.105598], [8.376618, 48.106201], [8.373175, 48.106656], [8.372323, 48.106774], [8.368298, 48.107335], [8.364339, 48.108202], [8.358837, 48.109687], [8.356077, 48.110451], [8.354686, 48.110649], [8.353426, 48.110579], [8.352984, 48.110552], [8.351164, 48.110103], [8.349501, 48.10945], [8.348074, 48.10891], [8.346304, 48.108551], [8.345528, 48.108473], [8.344579, 48.108382], [8.34427, 48.108376], [8.343446, 48.103279], [8.341091, 48.100957], [8.338914, 48.101931], [8.335242, 48.10238], [8.331089, 48.101552], [8.32894, 48.100673], [8.32622, 48.096599], [8.326252, 48.09526], [8.329859, 48.097184], [8.333218, 48.097421], [8.335311, 48.096851], [8.340828, 48.098686], [8.342697, 48.09893], [8.345598, 48.095227], [8.346533, 48.091954], [8.336799, 48.090468], [8.337711, 48.088651], [8.335928, 48.083112], [8.336528, 48.078924], [8.34049, 48.079452], [8.340394, 48.076752], [8.335519, 48.075928], [8.333755, 48.072997], [8.332287, 48.073742], [8.333193, 48.075118], [8.330494, 48.076971], [8.327306, 48.075936], [8.318932, 48.076247], [8.315791, 48.076868], [8.308109, 48.075797], [8.305029, 48.076554], [8.302689, 48.077865], [8.301413, 48.079701], [8.29847, 48.080676], [8.286679, 48.081446], [8.282384, 48.080856], [8.280446, 48.083659], [8.281908, 48.087258], [8.280204, 48.089032], [8.277524, 48.090713], [8.279244, 48.092457], [8.280077, 48.09483], [8.277052, 48.095515], [8.274655, 48.099244], [8.272787, 48.099889], [8.272701, 48.102675], [8.275901, 48.110313], [8.281898, 48.111927], [8.28197, 48.119564], [8.28774, 48.120876], [8.291661, 48.120011], [8.291563, 48.123984], [8.291701, 48.129005], [8.293863, 48.132619], [8.296643, 48.135031], [8.297778, 48.13759], [8.296369, 48.138749], [8.288663, 48.140096], [8.284671, 48.142804], [8.286609, 48.145442], [8.286053, 48.147049], [8.288023, 48.14896], [8.287075, 48.151207], [8.285164, 48.153354], [8.283893, 48.156197], [8.281687, 48.157727], [8.278565, 48.158113], [8.281363, 48.162523], [8.283477, 48.163941], [8.286042, 48.167591], [8.293768, 48.166784], [8.297692, 48.165927], [8.299324, 48.166122], [8.300473, 48.166567], [8.301982, 48.167704], [8.304505, 48.170524], [8.306643, 48.172914], [8.309363, 48.171629], [8.318166, 48.166654], [8.319041, 48.166045], [8.319009, 48.164746], [8.319292, 48.162383], [8.320145, 48.162247], [8.321158, 48.163661], [8.323619, 48.162362], [8.324474, 48.162677], [8.325879, 48.162091], [8.327404, 48.160273], [8.330518, 48.158605], [8.330658, 48.15998], [8.330245, 48.161747], [8.33085, 48.162191], [8.333426, 48.162421], [8.336361, 48.162154], [8.340679, 48.162409]]]], "type": "MultiPolygon"}}
+{
+  "id": 101764133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08326052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Georgen im Schwarzwald, Stadt",
+    "eurostat:nuts_2021_id":"08326052",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE136",
+    "eurostat:nuts_2021_level_lau":"08326052",
+    "eurostat:population":12945,
+    "eurostat:population_year":2020,
+    "geom:area":0.007217,
+    "geom:area_square_m":59569747.185031,
+    "geom:bbox":"8.272701,48.072997,8.402556,48.172914",
+    "geom:latitude":48.12266,
+    "geom:longitude":8.329286,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":13208,
+    "iso:country":"DE",
+    "lbl:latitude":48.126166,
+    "lbl:longitude":8.335076,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
+    "mps:latitude":48.126166,
+    "mps:longitude":8.335076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:als_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0646\u0643\u062a \u063a\u064a\u0648\u0631\u063a\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:ast_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:bar_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:bre_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:cat_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:ceb_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:ces_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:cos_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:cym_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:dan_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:deu_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:eng_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:epo_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:est_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:eus_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0646\u06a9\u062a \u06af\u0626\u0648\u0631\u06af\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:fra_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:frp_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:fur_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:gla_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:gle_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:glg_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:gsw_x_preferred":[
+        "Sanderge"
+    ],
+    "name:hbs_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:hrv_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:hun_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:ido_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:ile_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:ina_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:ind_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:isl_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:ita_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:ita_x_variant":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30af\u30c8\u30fb\u30b2\u30aa\u30eb\u30b2\u30f3\u30fb\u30a4\u30e0\u30fb\u30b7\u30e5\u30f4\u30a1\u30eb\u30c4\u30f4\u30a1\u30eb\u30c8"
+    ],
+    "name:kon_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:kur_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:lat_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:lij_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:lim_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:lld_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:lmo_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:ltz_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:min_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:mlg_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:msa_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:nap_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:nds_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:nld_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:nno_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:nob_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:nrm_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:oci_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:pcd_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:pms_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:pol_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:por_x_preferred":[
+        "St. Georgen"
+    ],
+    "name:roh_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:ron_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0413\u0435\u043e\u0440\u0433\u0435\u043d-\u0438\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:scn_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:sco_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:slk_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:slv_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:spa_x_preferred":[
+        "St. Georgen"
+    ],
+    "name:spa_x_variant":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:srd_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0413\u0435\u043e\u0440\u0433\u0435\u043d \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:swe_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:tuk_x_preferred":[
+        "Keramatly Georgen"
+    ],
+    "name:tur_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0442-\u0413\u0435\u043e\u0440\u0433\u0435\u043d-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:und_x_variant":[
+        "Sankt Georgen"
+    ],
+    "name:uzb_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:vec_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:vie_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:vls_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:vol_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:war_x_preferred":[
+        "Sankt Georgen im Schwarzwald"
+    ],
+    "name:wln_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:wol_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6797\u5c71\u533a\u5723\u683c\u5965\u5c14\u6839"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u683c\u5965\u5c14\u6839\u4f0a\u59c6\u65af\u5e0c\u74e6\u5c14\u8328\u74e6\u5c14\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "St. Georgen im Schwarzwald"
+    ],
+    "nav:latitude":48.126166,
+    "nav:longitude":8.335076,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Schwarzwald-Baar-Kreis",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"St. Georgen im Schwarzwald",
+    "qs:la_lc":"*DE08302600052",
+    "qs:level":"locality",
+    "qs:loc":"St. Georgen im Schwarzwald",
+    "qs:loc_alt":"St. Georgen im Schwarzwald",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558128,
+    "qs_pg:gn_pop":13208,
+    "qs_pg:name":"St. Georgen im Schwarzwald, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":638150,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623468,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":48.124722,
+    "wd:longitude":8.330833,
+    "wd:wordcount":80,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689545,
+        404227543,
+        102063253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08326052",
+        "eurostat:nuts_2021_id":"08326052",
+        "gn:id":2841619,
+        "gp:id":696022,
+        "qs_pg:id":1038527,
+        "wd:id":"Q83036",
+        "wk:page":"Sankt Georgen im Schwarzwald"
+    },
+    "wof:coterminous":[
+        1377689545
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"6dbc6580785040b80827e2958ee21f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063253,
+            "localadmin_id":1377689545,
+            "locality_id":101764133,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101764133,
+    "wof:lastmodified":1690871489,
+    "wof:name":"St. Georgen im Schwarzwald",
+    "wof:parent_id":1377689545,
+    "wof:placetype":"locality",
+    "wof:population":12945,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125338367,
+        1125296691
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.272701,
+    48.072997,
+    8.402556,
+    48.172914
+],
+  "geometry": {"coordinates":[[[[8.340679,48.162409],[8.340146,48.15372],[8.342282,48.152224],[8.349639,48.149635],[8.353786,48.149464],[8.356757,48.15097],[8.369069,48.147837],[8.373961,48.148148],[8.377521,48.145689],[8.382889,48.146162],[8.386276,48.140525],[8.390872,48.137691],[8.395026,48.134164],[8.39815,48.127713],[8.393013,48.120951],[8.394129,48.119974],[8.395059,48.118957],[8.397982,48.115614],[8.401187,48.114138],[8.402556,48.111322],[8.401757,48.109283],[8.401726,48.104337],[8.400216,48.101646],[8.399249,48.101349],[8.397483,48.104651],[8.395407,48.104207],[8.391279,48.102167],[8.391181,48.102255],[8.389781,48.10328],[8.388822,48.104053],[8.387735,48.104644],[8.386799,48.104878],[8.382203,48.105598],[8.376618,48.106201],[8.373175,48.106656],[8.372323,48.106774],[8.368298,48.107335],[8.364339,48.108202],[8.358837,48.109687],[8.356077,48.110451],[8.354686,48.110649],[8.353426,48.110579],[8.352984,48.110552],[8.351164,48.110103],[8.349501,48.10945],[8.348074,48.10891],[8.346304,48.108551],[8.345528,48.108473],[8.344579,48.108382],[8.34427,48.108376],[8.343446,48.103279],[8.341091,48.100957],[8.338914,48.101931],[8.335242,48.10238],[8.331089,48.101552],[8.32894,48.100673],[8.32622,48.096599],[8.326252,48.09526],[8.329859,48.097184],[8.333218,48.097421],[8.335311,48.096851],[8.340828,48.098686],[8.342697,48.09893],[8.345598,48.095227],[8.346533,48.091954],[8.336799,48.090468],[8.337711,48.088651],[8.335928,48.083112],[8.336528,48.078924],[8.34049,48.079452],[8.340394,48.076752],[8.335519,48.075928],[8.333755,48.072997],[8.332287,48.073742],[8.333193,48.075118],[8.330494,48.076971],[8.327306,48.075936],[8.318932,48.076247],[8.315791,48.076868],[8.308109,48.075797],[8.305029,48.076554],[8.302689,48.077865],[8.301413,48.079701],[8.29847,48.080676],[8.286679,48.081446],[8.282384,48.080856],[8.280446,48.083659],[8.281908,48.087258],[8.280204,48.089032],[8.277524,48.090713],[8.279244,48.092457],[8.280077,48.09483],[8.277052,48.095515],[8.274655,48.099244],[8.272787,48.099889],[8.272701,48.102675],[8.275901,48.110313],[8.281898,48.111927],[8.28197,48.119564],[8.28774,48.120876],[8.291661,48.120011],[8.291563,48.123984],[8.291701,48.129005],[8.293863,48.132619],[8.296643,48.135031],[8.297778,48.13759],[8.296369,48.138749],[8.288663,48.140096],[8.284671,48.142804],[8.286609,48.145442],[8.286053,48.147049],[8.288023,48.14896],[8.287075,48.151207],[8.285164,48.153354],[8.283893,48.156197],[8.281687,48.157727],[8.278565,48.158113],[8.281363,48.162523],[8.283477,48.163941],[8.286042,48.167591],[8.293768,48.166784],[8.297692,48.165927],[8.299324,48.166122],[8.300473,48.166567],[8.301982,48.167704],[8.304505,48.170524],[8.306643,48.172914],[8.309363,48.171629],[8.318166,48.166654],[8.319041,48.166045],[8.319009,48.164746],[8.319292,48.162383],[8.320145,48.162247],[8.321158,48.163661],[8.323619,48.162362],[8.324474,48.162677],[8.325879,48.162091],[8.327404,48.160273],[8.330518,48.158605],[8.330658,48.15998],[8.330245,48.161747],[8.33085,48.162191],[8.333426,48.162421],[8.336361,48.162154],[8.340679,48.162409]]]],"type":"MultiPolygon"}
+}

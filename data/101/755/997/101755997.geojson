@@ -1,1 +1,425 @@
-{"id": 101755997, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_05158026", "eurostat:level_code": "lau", "eurostat:name_local": "Monheim am Rhein, Stadt", "eurostat:nuts_2021_id": "05158026", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEA", "eurostat:nuts_2021_level_2": "DEA1", "eurostat:nuts_2021_level_3": "DEA1C", "eurostat:nuts_2021_level_lau": "05158026", "eurostat:population": 40948, "eurostat:population_year": 2020, "geom:area": 0.002833, "geom:area_square_m": 21999618.3246, "geom:bbox": "6.853252,51.064886,6.928012,51.131325", "geom:latitude": 51.095811, "geom:longitude": 6.891096, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 43065, "iso:country": "DE", "lbl:latitude": 51.094252, "lbl:longitude": 6.893574, "lbl:max_zoom": 14.0, "lbl:min_zoom": 10.0, "mps:latitude": 51.094252, "mps:longitude": 6.893574, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 9.0, "name:afr_x_preferred": ["Monheim am Rhein"], "name:ara_x_preferred": ["\u0645\u0648\u0646\u0647\u0627\u064a\u0645 \u0622\u0645 \u0631\u0627\u064a\u0646"], "name:ara_x_variant": ["\u0645\u0648\u0646\u0647\u0627\u064a\u0645 \u0623\u0645 \u0631\u0627\u064a\u0646"], "name:arg_x_preferred": ["Monheim am Rhein"], "name:ast_x_preferred": ["Monheim am Rhein"], "name:azb_x_preferred": ["\u0645\u0646\u0647\u0627\u06cc\u0645 \u0622\u0645 \u0631\u0627\u06cc\u0646"], "name:bar_x_preferred": ["Monheim am Rhein"], "name:bel_x_preferred": ["\u041c\u043e\u043d\u0433\u0430\u0439\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:bre_x_preferred": ["Monheim am Rhein"], "name:cat_x_preferred": ["Monheim am Rhein"], "name:ceb_x_preferred": ["Monheim am Rhein"], "name:ces_x_preferred": ["Monheim am Rhein"], "name:cos_x_preferred": ["Monheim am Rhein"], "name:cym_x_preferred": ["Monheim am Rhein"], "name:dan_x_preferred": ["Monheim am Rhein"], "name:deu_x_colloquial": ["Monheim"], "name:deu_x_preferred": ["Monheim am Rhein"], "name:deu_x_variant": ["Monheim"], "name:eng_x_preferred": ["Monheim am Rhein"], "name:epo_x_preferred": ["Monheim am Rhein"], "name:est_x_preferred": ["Monheim am Rhein"], "name:eus_x_preferred": ["Monheim am Rhein"], "name:fas_x_preferred": ["\u0645\u0646\u0647\u0627\u06cc\u0645 \u0622\u0645 \u0631\u0627\u06cc\u0646"], "name:fin_x_preferred": ["Monheim am Rhein"], "name:fra_x_preferred": ["Monheim am Rhein"], "name:frp_x_preferred": ["Monheim am Rhein"], "name:fur_x_preferred": ["Monheim am Rhein"], "name:gla_x_preferred": ["Monheim am Rhein"], "name:gle_x_preferred": ["Monheim am Rhein"], "name:glg_x_preferred": ["Monheim am Rhein"], "name:gsw_x_preferred": ["Monheim am Rhein"], "name:hbs_x_preferred": ["Monheim am Rhein"], "name:hrv_x_preferred": ["Monheim am Rhein"], "name:hun_x_preferred": ["Monheim am Rhein"], "name:ido_x_preferred": ["Monheim am Rhein"], "name:ile_x_preferred": ["Monheim am Rhein"], "name:ina_x_preferred": ["Monheim am Rhein"], "name:ind_x_preferred": ["Monheim am Rhein"], "name:isl_x_preferred": ["Monheim am Rhein"], "name:ita_x_preferred": ["Monheim am Rhein"], "name:jpn_x_preferred": ["\u30e2\u30f3\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30e9\u30a4\u30f3"], "name:kaz_x_preferred": ["\u041c\u043e\u043d\u0445\u0430\u0439\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"], "name:kon_x_preferred": ["Monheim am Rhein"], "name:kor_x_preferred": ["\ubaac\ud558\uc784\uc554\ub77c\uc778"], "name:kur_x_preferred": ["Monheim am Rhein"], "name:lat_x_preferred": ["Monhemium ad Rhenum"], "name:lij_x_preferred": ["Monheim am Rhein"], "name:lim_x_preferred": ["Monnem"], "name:lim_x_variant": ["Monheim am Rhein"], "name:lit_x_preferred": ["Monheimas prie Reino"], "name:lld_x_preferred": ["Monheim am Rhein"], "name:ltz_x_preferred": ["Monheim am Rhein"], "name:min_x_preferred": ["Monheim am Rhein"], "name:mlg_x_preferred": ["Monheim am Rhein"], "name:msa_x_preferred": ["Monheim am Rhein"], "name:nap_x_preferred": ["Monheim am Rhein"], "name:nds_x_preferred": ["Monheim am Rhein"], "name:nld_x_preferred": ["Monheim am Rhein"], "name:nno_x_preferred": ["Monheim am Rhein"], "name:nob_x_preferred": ["Monheim am Rhein"], "name:nrm_x_preferred": ["Monheim am Rhein"], "name:oci_x_preferred": ["Monheim am Rhein"], "name:pcd_x_preferred": ["Monheim am Rhein"], "name:pms_x_preferred": ["Monheim am Rhein"], "name:pol_x_preferred": ["Monheim am Rhein"], "name:por_x_preferred": ["Monheim am Rhein"], "name:roh_x_preferred": ["Monheim am Rhein"], "name:ron_x_preferred": ["Monheim am Rhein"], "name:rus_x_preferred": ["\u041c\u043e\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:rus_x_variant": ["\u041c\u043e\u043d\u0445\u0430\u0439\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"], "name:scn_x_preferred": ["Monheim am Rhein"], "name:sco_x_preferred": ["Monheim am Rhein"], "name:slk_x_preferred": ["Monheim am Rhein"], "name:slv_x_preferred": ["Monheim am Rhein"], "name:spa_x_preferred": ["Monheim am Rhein"], "name:srd_x_preferred": ["Monheim am Rhein"], "name:srp_x_preferred": ["\u041c\u043e\u043d\u0445\u0430\u0458\u043c \u043d\u0430 \u0420\u0430\u0458\u043d\u0438"], "name:swa_x_preferred": ["Monheim am Rhein"], "name:swe_x_preferred": ["Monheim am Rhein"], "name:tat_x_preferred": ["\u041c\u043e\u043d\u04bb\u0430\u0439\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:ukr_x_preferred": ["\u041c\u043e\u043d\u0433\u0430\u0439\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"], "name:und_x_variant": ["Stadt Monheim am Rhein"], "name:uzb_x_preferred": ["Monheim am Rhein"], "name:vec_x_preferred": ["Monheim am Rhein"], "name:vie_x_preferred": ["Monheim am Rhein"], "name:vls_x_preferred": ["Monheim am Rhein"], "name:vol_x_preferred": ["Monheim am Rhein"], "name:war_x_preferred": ["Monheim am Rhein"], "name:wln_x_preferred": ["Monheim am Rhein"], "name:wol_x_preferred": ["Monheim am Rhein"], "name:zho_x_preferred": ["\u83b1\u8335\u6cb3\u7554\u6797\u8328\u8499\u6d77\u59c6"], "name:zul_x_preferred": ["Monheim am Rhein"], "nav:latitude": 51.094252, "nav:longitude": 6.893574, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Nordrhein-Westfalen", "qs:a1r": "0", "qs:a2": "Mettmann", "qs:a2r": "D\u00fcsseldorf", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Duisburg", "qs:la_lc": "*DE05101200000", "qs:level": "locality", "qs:loc": "Monheim am Rhein", "qs:loc_alt": "Monheim am Rhein", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "suburbs point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558486, "qs_pg:gn_pop": 43065, "qs_pg:name": "Gemeinde Monheim am Rhein", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Nordrhein-Westfalen", "qs_pg:photos": 50, "qs_pg:photos_1k": 10, "qs_pg:photos_9k": 3, "qs_pg:photos_9r": 5, "qs_pg:photos_all": 642, "qs_pg:photos_sr": 2, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 891740, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12624474, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 602, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Nordrhein-Westfalen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682513, 102191581, 85633111, 1377689677, 404227561, 102063761], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_05158026", "eurostat:nuts_2021_id": "05158026", "gn:id": 2869791, "gp:id": 675964, "qs_pg:id": 142116, "wd:id": "Q7062", "wk:page": "Monheim am Rhein"}, "wof:concordances_alt": {"qs_pg:id": 638515}, "wof:coterminous": [1377689677], "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "30ece43679712e1a6b8d81be7f5d7733", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063761, "localadmin_id": 1377689677, "locality_id": 101755997, "macrocounty_id": 404227561, "region_id": 85682513}], "wof:id": 101755997, "wof:lastmodified": 1690871645, "wof:name": "Monheim am Rhein", "wof:parent_id": 1377689677, "wof:placetype": "locality", "wof:population": 40948, "wof:population_rank": 7, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125396655, 1125366359], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.853252, 51.064886, 6.928012, 51.131325], "geometry": {"coordinates": [[[[6.907547, 51.127217], [6.907851, 51.125695], [6.908726, 51.121443], [6.909689, 51.118996], [6.908347, 51.118207], [6.907446, 51.115621], [6.906911, 51.114678], [6.905011, 51.114538], [6.905518, 51.112695], [6.903729, 51.111336], [6.905464, 51.110462], [6.905732, 51.109355], [6.908253, 51.108917], [6.909196, 51.106351], [6.910402, 51.106553], [6.914194, 51.105096], [6.918479, 51.103997], [6.919893, 51.104212], [6.919478, 51.105325], [6.920984, 51.105641], [6.921621, 51.104445], [6.923731, 51.099357], [6.922771, 51.098823], [6.922485, 51.097715], [6.92318, 51.096115], [6.924276, 51.093789], [6.92524, 51.09408], [6.925346, 51.093083], [6.9235, 51.09254], [6.928012, 51.083751], [6.927133, 51.082905], [6.926333, 51.08197], [6.923447, 51.080819], [6.921757, 51.081785], [6.920739, 51.081078], [6.919261, 51.08151], [6.918277, 51.080363], [6.91679, 51.078696], [6.913967, 51.075826], [6.907318, 51.070297], [6.904511, 51.067968], [6.902483, 51.068851], [6.900452, 51.067203], [6.898045, 51.064886], [6.893597, 51.06673], [6.891037, 51.067538], [6.887613, 51.068375], [6.884792, 51.069032], [6.882207, 51.069581], [6.877739, 51.070414], [6.873592, 51.071201], [6.870886, 51.071546], [6.868774, 51.071852], [6.866121, 51.072266], [6.862785, 51.073011], [6.859863, 51.074078], [6.85771, 51.075316], [6.856775, 51.075971], [6.856059, 51.076481], [6.854155, 51.078511], [6.853481, 51.080896], [6.853252, 51.082159], [6.853487, 51.084256], [6.853886, 51.085367], [6.85451, 51.086342], [6.855398, 51.087234], [6.856508, 51.088224], [6.857498, 51.088912], [6.858773, 51.08961], [6.860369, 51.090407], [6.861832, 51.091084], [6.864048, 51.091837], [6.875856, 51.096149], [6.878603, 51.097607], [6.880613, 51.099214], [6.882146, 51.101092], [6.8831, 51.102838], [6.883558, 51.105112], [6.88337, 51.106936], [6.882458, 51.10931], [6.881023, 51.111382], [6.879989, 51.112409], [6.877632, 51.114652], [6.874754, 51.116593], [6.870998, 51.118708], [6.859482, 51.124189], [6.856049, 51.126189], [6.859481, 51.128188], [6.858315, 51.129725], [6.856948, 51.13034], [6.85737, 51.131325], [6.861985, 51.129868], [6.861917, 51.129183], [6.86505, 51.129048], [6.867755, 51.129332], [6.86904, 51.129172], [6.871864, 51.130798], [6.873258, 51.129692], [6.872904, 51.128745], [6.874588, 51.128542], [6.876749, 51.128239], [6.878556, 51.128381], [6.882473, 51.127701], [6.884166, 51.126981], [6.88431, 51.128044], [6.888527, 51.128747], [6.892579, 51.130629], [6.893481, 51.129522], [6.893973, 51.128907], [6.896091, 51.129657], [6.896726, 51.128896], [6.897938, 51.127444], [6.899, 51.124477], [6.902142, 51.125663], [6.906837, 51.127511], [6.907547, 51.127217]]]], "type": "MultiPolygon"}}
+{
+  "id": 101755997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_05158026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monheim am Rhein, Stadt",
+    "eurostat:nuts_2021_id":"05158026",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEA",
+    "eurostat:nuts_2021_level_2":"DEA1",
+    "eurostat:nuts_2021_level_3":"DEA1C",
+    "eurostat:nuts_2021_level_lau":"05158026",
+    "eurostat:population":40948,
+    "eurostat:population_year":2020,
+    "geom:area":0.002833,
+    "geom:area_square_m":21999618.3246,
+    "geom:bbox":"6.853252,51.064886,6.928012,51.131325",
+    "geom:latitude":51.095811,
+    "geom:longitude":6.891096,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":43065,
+    "iso:country":"DE",
+    "lbl:latitude":51.094252,
+    "lbl:longitude":6.893574,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
+    "mps:latitude":51.094252,
+    "mps:longitude":6.893574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u0647\u0627\u064a\u0645 \u0622\u0645 \u0631\u0627\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0646\u0647\u0627\u064a\u0645 \u0623\u0645 \u0631\u0627\u064a\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ast_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0647\u0627\u06cc\u0645 \u0622\u0645 \u0631\u0627\u06cc\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0430\u0439\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:cat_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ceb_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ces_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:cos_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:cym_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:dan_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:deu_x_colloquial":[
+        "Monheim"
+    ],
+    "name:deu_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:deu_x_variant":[
+        "Monheim"
+    ],
+    "name:eng_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:epo_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:est_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:eus_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0647\u0627\u06cc\u0645 \u0622\u0645 \u0631\u0627\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:fra_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:frp_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:fur_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:gla_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:gle_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:glg_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:gsw_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:hbs_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:hrv_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:hun_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ido_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ile_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ina_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ind_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:isl_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ita_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30cf\u30a4\u30e0\u30fb\u30a2\u30e0\u30fb\u30e9\u30a4\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u043d\u0445\u0430\u0439\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaac\ud558\uc784\uc554\ub77c\uc778"
+    ],
+    "name:kur_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:lat_x_preferred":[
+        "Monhemium ad Rhenum"
+    ],
+    "name:lij_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:lim_x_preferred":[
+        "Monnem"
+    ],
+    "name:lim_x_variant":[
+        "Monheim am Rhein"
+    ],
+    "name:lit_x_preferred":[
+        "Monheimas prie Reino"
+    ],
+    "name:lld_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ltz_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:min_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:mlg_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:msa_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:nap_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:nds_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:nld_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:nno_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:nob_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:nrm_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:oci_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:pcd_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:pms_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:pol_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:por_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:roh_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:ron_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0445\u0430\u0439\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u043d\u0445\u0430\u0439\u043c-\u043d\u0430-\u0420\u0435\u0439\u043d\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:sco_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:slk_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:slv_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:spa_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:srd_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043d\u0445\u0430\u0458\u043c \u043d\u0430 \u0420\u0430\u0458\u043d\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:swe_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u043d\u04bb\u0430\u0439\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0430\u0439\u043c-\u0430\u043c-\u0420\u0430\u0439\u043d"
+    ],
+    "name:und_x_variant":[
+        "Stadt Monheim am Rhein"
+    ],
+    "name:uzb_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:vec_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:vie_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:vls_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:vol_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:war_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:wln_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:wol_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u8335\u6cb3\u7554\u6797\u8328\u8499\u6d77\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Monheim am Rhein"
+    ],
+    "nav:latitude":51.094252,
+    "nav:longitude":6.893574,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Nordrhein-Westfalen",
+    "qs:a1r":"0",
+    "qs:a2":"Mettmann",
+    "qs:a2r":"D\u00fcsseldorf",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Duisburg",
+    "qs:la_lc":"*DE05101200000",
+    "qs:level":"locality",
+    "qs:loc":"Monheim am Rhein",
+    "qs:loc_alt":"Monheim am Rhein",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558486,
+    "qs_pg:gn_pop":43065,
+    "qs_pg:name":"Gemeinde Monheim am Rhein",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Nordrhein-Westfalen",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":642,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891740,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12624474,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":602,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Nordrhein-Westfalen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682513,
+        102191581,
+        85633111,
+        1377689677,
+        404227561,
+        102063761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_05158026",
+        "eurostat:nuts_2021_id":"05158026",
+        "gn:id":2869791,
+        "gp:id":675964,
+        "qs_pg:id":142116,
+        "wd:id":"Q7062",
+        "wk:page":"Monheim am Rhein"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":638515
+    },
+    "wof:coterminous":[
+        1377689677
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"30ece43679712e1a6b8d81be7f5d7733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063761,
+            "localadmin_id":1377689677,
+            "locality_id":101755997,
+            "macrocounty_id":404227561,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":101755997,
+    "wof:lastmodified":1690871645,
+    "wof:name":"Monheim am Rhein",
+    "wof:parent_id":1377689677,
+    "wof:placetype":"locality",
+    "wof:population":40948,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125396655,
+        1125366359
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.853252,
+    51.064886,
+    6.928012,
+    51.131325
+],
+  "geometry": {"coordinates":[[[[6.907547,51.127217],[6.907851,51.125695],[6.908726,51.121443],[6.909689,51.118996],[6.908347,51.118207],[6.907446,51.115621],[6.906911,51.114678],[6.905011,51.114538],[6.905518,51.112695],[6.903729,51.111336],[6.905464,51.110462],[6.905732,51.109355],[6.908253,51.108917],[6.909196,51.106351],[6.910402,51.106553],[6.914194,51.105096],[6.918479,51.103997],[6.919893,51.104212],[6.919478,51.105325],[6.920984,51.105641],[6.921621,51.104445],[6.923731,51.099357],[6.922771,51.098823],[6.922485,51.097715],[6.92318,51.096115],[6.924276,51.093789],[6.92524,51.09408],[6.925346,51.093083],[6.9235,51.09254],[6.928012,51.083751],[6.927133,51.082905],[6.926333,51.08197],[6.923447,51.080819],[6.921757,51.081785],[6.920739,51.081078],[6.919261,51.08151],[6.918277,51.080363],[6.91679,51.078696],[6.913967,51.075826],[6.907318,51.070297],[6.904511,51.067968],[6.902483,51.068851],[6.900452,51.067203],[6.898045,51.064886],[6.893597,51.06673],[6.891037,51.067538],[6.887613,51.068375],[6.884792,51.069032],[6.882207,51.069581],[6.877739,51.070414],[6.873592,51.071201],[6.870886,51.071546],[6.868774,51.071852],[6.866121,51.072266],[6.862785,51.073011],[6.859863,51.074078],[6.85771,51.075316],[6.856775,51.075971],[6.856059,51.076481],[6.854155,51.078511],[6.853481,51.080896],[6.853252,51.082159],[6.853487,51.084256],[6.853886,51.085367],[6.85451,51.086342],[6.855398,51.087234],[6.856508,51.088224],[6.857498,51.088912],[6.858773,51.08961],[6.860369,51.090407],[6.861832,51.091084],[6.864048,51.091837],[6.875856,51.096149],[6.878603,51.097607],[6.880613,51.099214],[6.882146,51.101092],[6.8831,51.102838],[6.883558,51.105112],[6.88337,51.106936],[6.882458,51.10931],[6.881023,51.111382],[6.879989,51.112409],[6.877632,51.114652],[6.874754,51.116593],[6.870998,51.118708],[6.859482,51.124189],[6.856049,51.126189],[6.859481,51.128188],[6.858315,51.129725],[6.856948,51.13034],[6.85737,51.131325],[6.861985,51.129868],[6.861917,51.129183],[6.86505,51.129048],[6.867755,51.129332],[6.86904,51.129172],[6.871864,51.130798],[6.873258,51.129692],[6.872904,51.128745],[6.874588,51.128542],[6.876749,51.128239],[6.878556,51.128381],[6.882473,51.127701],[6.884166,51.126981],[6.88431,51.128044],[6.888527,51.128747],[6.892579,51.130629],[6.893481,51.129522],[6.893973,51.128907],[6.896091,51.129657],[6.896726,51.128896],[6.897938,51.127444],[6.899,51.124477],[6.902142,51.125663],[6.906837,51.127511],[6.907547,51.127217]]]],"type":"MultiPolygon"}
+}

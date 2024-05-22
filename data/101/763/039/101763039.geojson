@@ -1,1 +1,441 @@
-{"id": 101763039, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08237040", "eurostat:level_code": "lau", "eurostat:name_local": "Horb am Neckar, Stadt", "eurostat:nuts_2021_id": "08237040", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE12", "eurostat:nuts_2021_level_3": "DE12C", "eurostat:nuts_2021_level_lau": "08237040", "eurostat:population": 25082, "eurostat:population_year": 2020, "geom:area": 0.014519, "geom:area_square_m": 119094754.856394, "geom:bbox": "8.545303,48.394607,8.777963,48.510243", "geom:latitude": 48.443576, "geom:longitude": 8.660919, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 25721, "iso:country": "DE", "lbl:latitude": 48.453804, "lbl:longitude": 8.693657, "lbl:max_zoom": 14.0, "lbl:min_zoom": 10.0, "mps:latitude": 48.453804, "mps:longitude": 8.693657, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 9.0, "name:afr_x_preferred": ["Horb am Neckar"], "name:als_x_preferred": ["Horb am Neckar"], "name:ara_x_preferred": ["\u0647\u0648\u0631\u0628 \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"], "name:ara_x_variant": ["\u0647\u0648\u0631\u0628 \u0623\u0645 \u0646\u064a\u0643\u0627\u0631"], "name:arg_x_preferred": ["Horb am Neckar"], "name:arz_x_preferred": ["\u0647\u0648\u0631\u0628 \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"], "name:ast_x_preferred": ["Horb am Neckar"], "name:azb_x_preferred": ["\u0647\u0631\u0628 \u0627\u0645 \u0646\u06a9\u0627"], "name:bar_x_preferred": ["Horb am Neckar"], "name:bel_x_preferred": ["\u0413\u043e\u0440\u0431-\u043d\u0430-\u041d\u0435\u043a\u0430\u0440\u044b"], "name:bre_x_preferred": ["Horb am Neckar"], "name:cat_x_preferred": ["Horb am Neckar"], "name:ceb_x_preferred": ["Horb am Neckar"], "name:ces_x_preferred": ["Horb am Neckar"], "name:che_x_preferred": ["\u041d\u0435\u043a\u043a\u0430\u0440-\u0442\u04c0\u0435\u0440\u0430-\u0425\u043e\u0440\u0431"], "name:cos_x_preferred": ["Horb am Neckar"], "name:cym_x_preferred": ["Horb am Neckar"], "name:dan_x_preferred": ["Horb am Neckar"], "name:deu_x_preferred": ["Horb am Neckar"], "name:deu_x_variant": ["Horb (Neckar)", "Horb/Neckar"], "name:ell_x_preferred": ["\u03a7\u03bf\u03c1\u03bc\u03c0 \u03b1\u03bc \u039d\u03ad\u03ba\u03b1\u03c1"], "name:eng_x_preferred": ["Horb am Neckar"], "name:epo_x_preferred": ["Horb am Neckar"], "name:est_x_preferred": ["Horb am Neckar"], "name:eus_x_preferred": ["Horb am Neckar"], "name:fas_x_preferred": ["\u0647\u0631\u0628 \u0627\u0645 \u0646\u06a9\u0627"], "name:fin_x_preferred": ["Horb am Neckar"], "name:fra_x_preferred": ["Horb am Neckar"], "name:frp_x_preferred": ["Horb am Neckar"], "name:fur_x_preferred": ["Horb am Neckar"], "name:gla_x_preferred": ["Horb am Neckar"], "name:gle_x_preferred": ["Horb am Neckar"], "name:glg_x_preferred": ["Horb am Neckar"], "name:gsw_x_preferred": ["Horb"], "name:hbs_x_preferred": ["Horb am Neckar"], "name:heb_x_preferred": ["\u05d4\u05d5\u05e8\u05d1 \u05d0\u05dd \u05e0\u05e7\u05d0\u05e8"], "name:hrv_x_preferred": ["Horb am Neckar"], "name:hun_x_preferred": ["Horb am Neckar"], "name:hye_x_preferred": ["\u0546\u0565\u0584\u0561\u0580\u056b \u0540\u0578\u0580\u0562"], "name:ido_x_preferred": ["Horb am Neckar"], "name:ile_x_preferred": ["Horb am Neckar"], "name:ina_x_preferred": ["Horb am Neckar"], "name:ind_x_preferred": ["Horb am Neckar"], "name:isl_x_preferred": ["Horb am Neckar"], "name:ita_x_preferred": ["Horb am Neckar"], "name:jpn_x_preferred": ["\u30db\u30eb\u30d7\u30fb\u30a2\u30e0\u30fb\u30cd\u30c3\u30ab\u30fc"], "name:kaz_x_preferred": ["\u0425\u043e\u0440\u0431-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"], "name:kon_x_preferred": ["Horb am Neckar"], "name:kur_x_preferred": ["Horb am Neckar"], "name:lat_x_preferred": ["Horb am Neckar"], "name:lij_x_preferred": ["Horb am Neckar"], "name:lim_x_preferred": ["Horb am Neckar"], "name:lld_x_preferred": ["Horb am Neckar"], "name:lmo_x_preferred": ["Horb am Neckar"], "name:ltz_x_preferred": ["Horb am Neckar"], "name:min_x_preferred": ["Horb am Neckar"], "name:mkd_x_preferred": ["\u0425\u043e\u0440\u0431 \u043d\u0430 \u041d\u0435\u043a\u0430\u0440"], "name:mlg_x_preferred": ["Horb am Neckar"], "name:msa_x_preferred": ["Horb am Neckar"], "name:nap_x_preferred": ["Horb am Neckar"], "name:nds_x_preferred": ["Horb am Neckar"], "name:nld_x_preferred": ["Horb am Neckar"], "name:nno_x_preferred": ["Horb am Neckar"], "name:nob_x_preferred": ["Horb am Neckar"], "name:nrm_x_preferred": ["Horb am Neckar"], "name:oci_x_preferred": ["Horb am Neckar"], "name:pcd_x_preferred": ["Horb am Neckar"], "name:pms_x_preferred": ["Horb am Neckar"], "name:pol_x_preferred": ["Horb am Neckar"], "name:por_x_preferred": ["Horb am Neckar"], "name:roh_x_preferred": ["Horb am Neckar"], "name:ron_x_preferred": ["Horb am Neckar"], "name:rus_x_preferred": ["\u0425\u043e\u0440\u0431-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"], "name:rus_x_variant": ["\u0425\u043e\u0440\u0431-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"], "name:scn_x_preferred": ["Horb am Neckar"], "name:sco_x_preferred": ["Horb am Neckar"], "name:slk_x_preferred": ["Horb am Neckar"], "name:slv_x_preferred": ["Horb am Neckar"], "name:spa_x_preferred": ["Horb am Neckar"], "name:srd_x_preferred": ["Horb am Neckar"], "name:srp_x_preferred": ["\u0425\u043e\u0440\u0431 \u0430\u043c \u041d\u0435\u043a\u0430\u0440"], "name:swa_x_preferred": ["Horb am Neckar"], "name:swe_x_preferred": ["Horb am Neckar"], "name:tat_x_preferred": ["\u0425\u043e\u0440\u0431-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"], "name:tum_x_preferred": ["Horb am Neckar"], "name:tur_x_preferred": ["Horb am Neckar"], "name:ukr_x_preferred": ["\u0413\u043e\u0440\u0431-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"], "name:uzb_x_preferred": ["Horb am Neckar"], "name:vec_x_preferred": ["Horb am Neckar"], "name:vie_x_preferred": ["Horb am Neckar"], "name:vls_x_preferred": ["Horb am Neckar"], "name:vol_x_preferred": ["Horb am Neckar"], "name:war_x_preferred": ["Horb am Neckar"], "name:wln_x_preferred": ["Horb am Neckar"], "name:wol_x_preferred": ["Horb am Neckar"], "name:zho_x_preferred": ["\u5185\u5361\u6cb3\u7554\u970d\u5c14\u5e03"], "name:zul_x_preferred": ["Horb am Neckar"], "nav:latitude": 48.453804, "nav:longitude": 8.693657, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Freudenstadt", "qs:a2r": "Karlsruhe", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Horb am Neckar", "qs:la_lc": "*DE08203703040", "qs:level": "locality", "qs:loc": "Horb am Neckar", "qs:loc_alt": "Horb am Neckar", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558086, "qs_pg:gn_pop": 25721, "qs_pg:name": "Horb am Neckar, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 40, "qs_pg:photos_1k": 8, "qs_pg:photos_9k": 4, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 913, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 7, "qs_pg:qs_id": 638108, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623305, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 48.445, "wd:longitude": 8.691111, "wd:wordcount": 586, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689089, 404227555, 102063313], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08237040", "eurostat:nuts_2021_id": "08237040", "fct:id": "07459c38-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2899101, "gp:id": 662216, "qs_pg:id": 142378, "wd:id": "Q82690", "wk:page": "Horb am Neckar"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "59c38704798b6f271fef39240d868989", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063313, "localadmin_id": 1377689089, "locality_id": 101763039, "macrocounty_id": 404227555, "region_id": 85682567}], "wof:id": 101763039, "wof:lang": ["ger"], "wof:lastmodified": 1690871468, "wof:name": "Horb am Neckar", "wof:parent_id": 1377689089, "wof:placetype": "locality", "wof:population": 25082, "wof:population_rank": 7, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125342939, 1125283751], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.545303, 48.394607, 8.777963, 48.510243], "geometry": {"coordinates": [[[[8.69331, 48.484143], [8.689437, 48.483881], [8.691691, 48.476714], [8.706863, 48.475387], [8.707668, 48.473709], [8.712357, 48.475332], [8.721375, 48.47358], [8.722092, 48.470623], [8.725452, 48.469346], [8.723491, 48.468955], [8.726234, 48.466049], [8.718524, 48.462732], [8.720969, 48.460217], [8.723705, 48.46009], [8.723679, 48.459157], [8.724809, 48.457605], [8.726403, 48.45803], [8.725975, 48.458594], [8.727912, 48.458943], [8.732476, 48.456498], [8.735304, 48.45908], [8.734754, 48.460456], [8.736727, 48.461039], [8.737198, 48.460337], [8.738506, 48.460273], [8.742185, 48.461384], [8.742481, 48.460291], [8.744533, 48.461142], [8.745452, 48.458144], [8.752196, 48.459384], [8.752877, 48.457731], [8.756756, 48.457405], [8.755603, 48.455211], [8.754999, 48.454338], [8.754772, 48.453858], [8.757973, 48.452348], [8.756344, 48.451484], [8.755938, 48.450031], [8.757883, 48.449262], [8.756842, 48.44797], [8.757839, 48.446351], [8.759149, 48.446003], [8.761696, 48.445845], [8.764026, 48.445468], [8.765209, 48.444402], [8.769317, 48.443115], [8.771504, 48.442967], [8.77355, 48.44246], [8.773319, 48.441728], [8.769076, 48.440538], [8.770027, 48.43851], [8.769618, 48.438334], [8.769303, 48.438115], [8.769316, 48.437758], [8.77005, 48.436223], [8.770141, 48.435677], [8.770055, 48.435057], [8.76983, 48.434497], [8.769432, 48.433915], [8.768792, 48.433275], [8.767983, 48.432471], [8.766794, 48.431319], [8.765705, 48.430403], [8.765041, 48.429691], [8.764604, 48.429055], [8.764456, 48.428647], [8.764291, 48.427961], [8.764437, 48.427271], [8.764601, 48.42686], [8.764858, 48.426091], [8.764937, 48.425768], [8.768712, 48.425611], [8.770554, 48.426252], [8.771181, 48.425722], [8.769849, 48.424793], [8.770373, 48.422589], [8.77147, 48.42176], [8.774334, 48.422147], [8.776477, 48.421542], [8.777963, 48.420792], [8.776714, 48.419801], [8.774233, 48.419258], [8.770862, 48.419089], [8.769605, 48.417936], [8.767252, 48.416874], [8.76828, 48.41644], [8.774055, 48.416279], [8.773923, 48.415653], [8.770086, 48.415029], [8.768775, 48.414289], [8.7671, 48.413905], [8.765408, 48.413745], [8.765614, 48.412796], [8.765381, 48.412088], [8.766708, 48.410948], [8.766523, 48.409991], [8.761204, 48.412552], [8.755181, 48.413608], [8.750639, 48.411045], [8.748686, 48.40899], [8.744449, 48.407727], [8.740617, 48.4095], [8.737982, 48.415529], [8.733394, 48.415064], [8.731871, 48.41491], [8.733196, 48.411504], [8.725151, 48.410215], [8.720644, 48.411195], [8.721437, 48.410182], [8.715074, 48.4124], [8.713329, 48.41284], [8.7122, 48.413825], [8.712242, 48.415592], [8.704741, 48.41458], [8.703501, 48.414848], [8.703585, 48.416621], [8.695555, 48.416382], [8.69557, 48.413045], [8.689932, 48.410219], [8.690936, 48.407196], [8.687721, 48.405722], [8.680922, 48.404774], [8.683237, 48.402428], [8.682148, 48.399029], [8.678391, 48.40055], [8.676134, 48.399865], [8.675736, 48.400852], [8.672331, 48.399352], [8.670522, 48.398972], [8.668672, 48.39823], [8.6665, 48.398878], [8.663948, 48.397073], [8.663404, 48.397172], [8.662788, 48.397026], [8.662216, 48.396792], [8.66158, 48.396467], [8.660504, 48.395981], [8.659745, 48.39569], [8.659146, 48.395464], [8.657382, 48.394976], [8.655812, 48.394716], [8.654668, 48.394607], [8.6535, 48.394776], [8.652723, 48.394972], [8.651678, 48.395217], [8.651071, 48.395206], [8.649998, 48.395212], [8.649316, 48.395296], [8.648623, 48.395689], [8.648286, 48.396088], [8.647536, 48.39643], [8.645564, 48.397503], [8.644791, 48.397949], [8.644087, 48.39835], [8.643216, 48.398866], [8.642494, 48.399394], [8.641936, 48.399861], [8.641294, 48.400399], [8.640843, 48.400895], [8.6405, 48.401384], [8.640256, 48.401776], [8.640101, 48.402295], [8.63833, 48.401986], [8.630322, 48.40159], [8.626221, 48.401089], [8.624882, 48.399384], [8.620846, 48.398605], [8.616837, 48.396792], [8.615751, 48.397304], [8.61299, 48.396393], [8.609563, 48.396483], [8.607803, 48.396062], [8.606043, 48.396175], [8.602108, 48.398033], [8.599864, 48.399496], [8.598783, 48.40124], [8.598336, 48.405433], [8.597769, 48.406475], [8.596741, 48.408656], [8.595937, 48.40947], [8.595964, 48.410984], [8.594225, 48.410426], [8.594216, 48.409247], [8.592188, 48.407575], [8.584767, 48.404236], [8.576892, 48.403883], [8.575445, 48.40393], [8.574076, 48.404392], [8.573162, 48.405644], [8.572039, 48.410741], [8.572618, 48.411579], [8.570949, 48.412108], [8.579175, 48.420049], [8.572193, 48.42304], [8.570743, 48.426243], [8.572312, 48.427218], [8.575109, 48.428955], [8.574986, 48.431189], [8.574093, 48.431078], [8.573458, 48.431067], [8.572809, 48.431073], [8.572173, 48.431089], [8.571754, 48.431109], [8.570723, 48.431199], [8.570328, 48.431273], [8.567472, 48.431667], [8.565391, 48.432201], [8.564224, 48.432752], [8.561767, 48.43269], [8.561019, 48.433242], [8.555898, 48.432171], [8.55517, 48.434524], [8.552431, 48.434386], [8.547934, 48.437338], [8.546589, 48.44021], [8.545303, 48.445008], [8.554803, 48.445779], [8.560327, 48.450013], [8.561771, 48.449049], [8.56538, 48.449427], [8.566228, 48.452257], [8.571094, 48.453655], [8.570653, 48.455257], [8.571912, 48.455677], [8.573128, 48.454504], [8.575494, 48.455594], [8.575657, 48.456937], [8.578441, 48.457336], [8.578029, 48.458534], [8.586089, 48.459547], [8.591735, 48.461812], [8.600247, 48.468273], [8.599702, 48.469073], [8.611377, 48.471459], [8.613165, 48.472793], [8.615006, 48.478015], [8.621795, 48.479848], [8.621209, 48.481016], [8.62339, 48.482331], [8.624467, 48.483545], [8.628128, 48.487205], [8.627327, 48.487992], [8.631606, 48.490376], [8.631016, 48.490951], [8.633173, 48.491176], [8.639103, 48.496421], [8.633457, 48.501785], [8.634708, 48.501285], [8.636199, 48.500527], [8.639555, 48.504083], [8.644466, 48.503445], [8.648146, 48.504191], [8.651522, 48.504391], [8.656632, 48.505295], [8.657358, 48.506836], [8.661163, 48.508608], [8.66316, 48.509145], [8.665965, 48.509776], [8.667177, 48.509958], [8.669183, 48.510243], [8.674005, 48.510161], [8.673962, 48.508793], [8.674456, 48.507164], [8.676246, 48.503794], [8.67913, 48.500136], [8.682553, 48.497629], [8.688002, 48.493734], [8.689825, 48.492378], [8.692491, 48.493106], [8.693235, 48.492011], [8.691791, 48.491556], [8.692997, 48.489687], [8.694029, 48.487743], [8.69331, 48.484143]]]], "type": "MultiPolygon"}}
+{
+  "id": 101763039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08237040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horb am Neckar, Stadt",
+    "eurostat:nuts_2021_id":"08237040",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE12",
+    "eurostat:nuts_2021_level_3":"DE12C",
+    "eurostat:nuts_2021_level_lau":"08237040",
+    "eurostat:population":25082,
+    "eurostat:population_year":2020,
+    "geom:area":0.014519,
+    "geom:area_square_m":119094754.856394,
+    "geom:bbox":"8.545303,48.394607,8.777963,48.510243",
+    "geom:latitude":48.443576,
+    "geom:longitude":8.660919,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":25721,
+    "iso:country":"DE",
+    "lbl:latitude":48.453804,
+    "lbl:longitude":8.693657,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
+    "mps:latitude":48.453804,
+    "mps:longitude":8.693657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:als_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0631\u0628 \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0647\u0648\u0631\u0628 \u0623\u0645 \u0646\u064a\u0643\u0627\u0631"
+    ],
+    "name:arg_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0631\u0628 \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0631\u0628 \u0627\u0645 \u0646\u06a9\u0627"
+    ],
+    "name:bar_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0431-\u043d\u0430-\u041d\u0435\u043a\u0430\u0440\u044b"
+    ],
+    "name:bre_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:cat_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ceb_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ces_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0435\u043a\u043a\u0430\u0440-\u0442\u04c0\u0435\u0440\u0430-\u0425\u043e\u0440\u0431"
+    ],
+    "name:cos_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:cym_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:dan_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:deu_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:deu_x_variant":[
+        "Horb (Neckar)",
+        "Horb/Neckar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c1\u03bc\u03c0 \u03b1\u03bc \u039d\u03ad\u03ba\u03b1\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:epo_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:est_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:eus_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0628 \u0627\u0645 \u0646\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:fra_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:frp_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:fur_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:gla_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:gle_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:glg_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:gsw_x_preferred":[
+        "Horb"
+    ],
+    "name:hbs_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05e8\u05d1 \u05d0\u05dd \u05e0\u05e7\u05d0\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:hun_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0584\u0561\u0580\u056b \u0540\u0578\u0580\u0562"
+    ],
+    "name:ido_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ile_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ina_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ind_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:isl_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ita_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30eb\u30d7\u30fb\u30a2\u30e0\u30fb\u30cd\u30c3\u30ab\u30fc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u043e\u0440\u0431-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:kur_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:lat_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:lij_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:lim_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:lld_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:lmo_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ltz_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:min_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u0440\u0431 \u043d\u0430 \u041d\u0435\u043a\u0430\u0440"
+    ],
+    "name:mlg_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:msa_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:nap_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:nds_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:nld_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:nno_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:nob_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:nrm_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:oci_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:pcd_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:pms_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:pol_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:por_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:roh_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ron_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u0431-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u043e\u0440\u0431-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:sco_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:slk_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:slv_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:spa_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:srd_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0431 \u0430\u043c \u041d\u0435\u043a\u0430\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:swe_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0440\u0431-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"
+    ],
+    "name:tum_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:tur_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0431-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:vec_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:vie_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:vls_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:vol_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:war_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:wln_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:wol_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u5361\u6cb3\u7554\u970d\u5c14\u5e03"
+    ],
+    "name:zul_x_preferred":[
+        "Horb am Neckar"
+    ],
+    "nav:latitude":48.453804,
+    "nav:longitude":8.693657,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Freudenstadt",
+    "qs:a2r":"Karlsruhe",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Horb am Neckar",
+    "qs:la_lc":"*DE08203703040",
+    "qs:level":"locality",
+    "qs:loc":"Horb am Neckar",
+    "qs:loc_alt":"Horb am Neckar",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558086,
+    "qs_pg:gn_pop":25721,
+    "qs_pg:name":"Horb am Neckar, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":913,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":638108,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623305,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":48.445,
+    "wd:longitude":8.691111,
+    "wd:wordcount":586,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689089,
+        404227555,
+        102063313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08237040",
+        "eurostat:nuts_2021_id":"08237040",
+        "fct:id":"07459c38-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2899101,
+        "gp:id":662216,
+        "qs_pg:id":142378,
+        "wd:id":"Q82690",
+        "wk:page":"Horb am Neckar"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"59c38704798b6f271fef39240d868989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063313,
+            "localadmin_id":1377689089,
+            "locality_id":101763039,
+            "macrocounty_id":404227555,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101763039,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871468,
+    "wof:name":"Horb am Neckar",
+    "wof:parent_id":1377689089,
+    "wof:placetype":"locality",
+    "wof:population":25082,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125342939,
+        1125283751
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.545303,
+    48.394607,
+    8.777963,
+    48.510243
+],
+  "geometry": {"coordinates":[[[[8.69331,48.484143],[8.689437,48.483881],[8.691691,48.476714],[8.706863,48.475387],[8.707668,48.473709],[8.712357,48.475332],[8.721375,48.47358],[8.722092,48.470623],[8.725452,48.469346],[8.723491,48.468955],[8.726234,48.466049],[8.718524,48.462732],[8.720969,48.460217],[8.723705,48.46009],[8.723679,48.459157],[8.724809,48.457605],[8.726403,48.45803],[8.725975,48.458594],[8.727912,48.458943],[8.732476,48.456498],[8.735304,48.45908],[8.734754,48.460456],[8.736727,48.461039],[8.737198,48.460337],[8.738506,48.460273],[8.742185,48.461384],[8.742481,48.460291],[8.744533,48.461142],[8.745452,48.458144],[8.752196,48.459384],[8.752877,48.457731],[8.756756,48.457405],[8.755603,48.455211],[8.754999,48.454338],[8.754772,48.453858],[8.757973,48.452348],[8.756344,48.451484],[8.755938,48.450031],[8.757883,48.449262],[8.756842,48.44797],[8.757839,48.446351],[8.759149,48.446003],[8.761696,48.445845],[8.764026,48.445468],[8.765209,48.444402],[8.769317,48.443115],[8.771504,48.442967],[8.77355,48.44246],[8.773319,48.441728],[8.769076,48.440538],[8.770027,48.43851],[8.769618,48.438334],[8.769303,48.438115],[8.769316,48.437758],[8.77005,48.436223],[8.770141,48.435677],[8.770055,48.435057],[8.76983,48.434497],[8.769432,48.433915],[8.768792,48.433275],[8.767983,48.432471],[8.766794,48.431319],[8.765705,48.430403],[8.765041,48.429691],[8.764604,48.429055],[8.764456,48.428647],[8.764291,48.427961],[8.764437,48.427271],[8.764601,48.42686],[8.764858,48.426091],[8.764937,48.425768],[8.768712,48.425611],[8.770554,48.426252],[8.771181,48.425722],[8.769849,48.424793],[8.770373,48.422589],[8.77147,48.42176],[8.774334,48.422147],[8.776477,48.421542],[8.777963,48.420792],[8.776714,48.419801],[8.774233,48.419258],[8.770862,48.419089],[8.769605,48.417936],[8.767252,48.416874],[8.76828,48.41644],[8.774055,48.416279],[8.773923,48.415653],[8.770086,48.415029],[8.768775,48.414289],[8.7671,48.413905],[8.765408,48.413745],[8.765614,48.412796],[8.765381,48.412088],[8.766708,48.410948],[8.766523,48.409991],[8.761204,48.412552],[8.755181,48.413608],[8.750639,48.411045],[8.748686,48.40899],[8.744449,48.407727],[8.740617,48.4095],[8.737982,48.415529],[8.733394,48.415064],[8.731871,48.41491],[8.733196,48.411504],[8.725151,48.410215],[8.720644,48.411195],[8.721437,48.410182],[8.715074,48.4124],[8.713329,48.41284],[8.7122,48.413825],[8.712242,48.415592],[8.704741,48.41458],[8.703501,48.414848],[8.703585,48.416621],[8.695555,48.416382],[8.69557,48.413045],[8.689932,48.410219],[8.690936,48.407196],[8.687721,48.405722],[8.680922,48.404774],[8.683237,48.402428],[8.682148,48.399029],[8.678391,48.40055],[8.676134,48.399865],[8.675736,48.400852],[8.672331,48.399352],[8.670522,48.398972],[8.668672,48.39823],[8.6665,48.398878],[8.663948,48.397073],[8.663404,48.397172],[8.662788,48.397026],[8.662216,48.396792],[8.66158,48.396467],[8.660504,48.395981],[8.659745,48.39569],[8.659146,48.395464],[8.657382,48.394976],[8.655812,48.394716],[8.654668,48.394607],[8.6535,48.394776],[8.652723,48.394972],[8.651678,48.395217],[8.651071,48.395206],[8.649998,48.395212],[8.649316,48.395296],[8.648623,48.395689],[8.648286,48.396088],[8.647536,48.39643],[8.645564,48.397503],[8.644791,48.397949],[8.644087,48.39835],[8.643216,48.398866],[8.642494,48.399394],[8.641936,48.399861],[8.641294,48.400399],[8.640843,48.400895],[8.6405,48.401384],[8.640256,48.401776],[8.640101,48.402295],[8.63833,48.401986],[8.630322,48.40159],[8.626221,48.401089],[8.624882,48.399384],[8.620846,48.398605],[8.616837,48.396792],[8.615751,48.397304],[8.61299,48.396393],[8.609563,48.396483],[8.607803,48.396062],[8.606043,48.396175],[8.602108,48.398033],[8.599864,48.399496],[8.598783,48.40124],[8.598336,48.405433],[8.597769,48.406475],[8.596741,48.408656],[8.595937,48.40947],[8.595964,48.410984],[8.594225,48.410426],[8.594216,48.409247],[8.592188,48.407575],[8.584767,48.404236],[8.576892,48.403883],[8.575445,48.40393],[8.574076,48.404392],[8.573162,48.405644],[8.572039,48.410741],[8.572618,48.411579],[8.570949,48.412108],[8.579175,48.420049],[8.572193,48.42304],[8.570743,48.426243],[8.572312,48.427218],[8.575109,48.428955],[8.574986,48.431189],[8.574093,48.431078],[8.573458,48.431067],[8.572809,48.431073],[8.572173,48.431089],[8.571754,48.431109],[8.570723,48.431199],[8.570328,48.431273],[8.567472,48.431667],[8.565391,48.432201],[8.564224,48.432752],[8.561767,48.43269],[8.561019,48.433242],[8.555898,48.432171],[8.55517,48.434524],[8.552431,48.434386],[8.547934,48.437338],[8.546589,48.44021],[8.545303,48.445008],[8.554803,48.445779],[8.560327,48.450013],[8.561771,48.449049],[8.56538,48.449427],[8.566228,48.452257],[8.571094,48.453655],[8.570653,48.455257],[8.571912,48.455677],[8.573128,48.454504],[8.575494,48.455594],[8.575657,48.456937],[8.578441,48.457336],[8.578029,48.458534],[8.586089,48.459547],[8.591735,48.461812],[8.600247,48.468273],[8.599702,48.469073],[8.611377,48.471459],[8.613165,48.472793],[8.615006,48.478015],[8.621795,48.479848],[8.621209,48.481016],[8.62339,48.482331],[8.624467,48.483545],[8.628128,48.487205],[8.627327,48.487992],[8.631606,48.490376],[8.631016,48.490951],[8.633173,48.491176],[8.639103,48.496421],[8.633457,48.501785],[8.634708,48.501285],[8.636199,48.500527],[8.639555,48.504083],[8.644466,48.503445],[8.648146,48.504191],[8.651522,48.504391],[8.656632,48.505295],[8.657358,48.506836],[8.661163,48.508608],[8.66316,48.509145],[8.665965,48.509776],[8.667177,48.509958],[8.669183,48.510243],[8.674005,48.510161],[8.673962,48.508793],[8.674456,48.507164],[8.676246,48.503794],[8.67913,48.500136],[8.682553,48.497629],[8.688002,48.493734],[8.689825,48.492378],[8.692491,48.493106],[8.693235,48.492011],[8.691791,48.491556],[8.692997,48.489687],[8.694029,48.487743],[8.69331,48.484143]]]],"type":"MultiPolygon"}
+}

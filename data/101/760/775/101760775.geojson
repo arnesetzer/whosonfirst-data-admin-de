@@ -1,1 +1,238 @@
-{"id": 101760775, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_07334023", "eurostat:level_code": "lau", "eurostat:name_local": "Ottersheim bei Landau", "eurostat:nuts_2021_id": "07334023", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEB", "eurostat:nuts_2021_level_2": "DEB3", "eurostat:nuts_2021_level_3": "DEB3E", "eurostat:nuts_2021_level_lau": "07334023", "eurostat:population": 1825, "eurostat:population_year": 2020, "geom:area": 0.000971, "geom:area_square_m": 7848480.476873, "geom:bbox": "8.215129,49.169942,8.243886,49.213022", "geom:latitude": 49.191895, "geom:longitude": 8.22881, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 1814, "iso:country": "DE", "lbl:latitude": 49.191682, "lbl:longitude": 8.232408, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 49.191682, "mps:longitude": 8.232408, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Ottersheim bei Landau"], "name:ceb_x_preferred": ["Ottersheim bei Landau"], "name:che_x_preferred": ["\u041e\u0442\u0442\u0435\u0440\u0441\u0445\u0430\u0439\u043c-\u041b\u0430\u043d\u0434\u0430\u0443"], "name:deu_x_preferred": ["Ottersheim bei Landau"], "name:deu_x_variant": ["Ottersheim"], "name:eng_x_preferred": ["Ottersheim bei Landau"], "name:epo_x_preferred": ["Ottersheim apud Landau"], "name:epo_x_variant": ["Ottersheim bei Landau"], "name:eus_x_preferred": ["Ottersheim bei Landau"], "name:fas_x_preferred": ["\u0627\u0648\u062a\u0631\u0633\u0647\u0627\u06cc\u0645 \u0628\u0627\u06cc \u0644\u0627\u0646\u062f\u0627\u0648"], "name:fra_x_preferred": ["Ottersheim bei Landau"], "name:hbs_x_preferred": ["Ottersheim bei Landau"], "name:hun_x_preferred": ["Ottersheim bei Landau"], "name:ita_x_preferred": ["Ottersheim bei Landau"], "name:jpn_x_preferred": ["\u30aa\u30c3\u30bf\u30fc\u30b9\u30cf\u30a4\u30e0\u30fb\u30d0\u30a4\u30fb\u30e9\u30f3\u30c0\u30a6"], "name:kur_x_preferred": ["Ottersheim bei Landau"], "name:lld_x_preferred": ["Ottersheim bei Landau"], "name:msa_x_preferred": ["Ottersheim bei Landau"], "name:nan_x_preferred": ["Ottersheim bei Landau"], "name:nld_x_preferred": ["Ottersheim bei Landau"], "name:nob_x_preferred": ["Ottersheim bei Landau"], "name:pol_x_preferred": ["Ottersheim bei Landau"], "name:por_x_preferred": ["Ottersheim bei Landau"], "name:ron_x_preferred": ["Ottersheim bei Landau"], "name:rus_x_preferred": ["\u041e\u0442\u0442\u0435\u0440\u0441\u0445\u0430\u0439\u043c-\u041b\u0430\u043d\u0434\u0430\u0443"], "name:spa_x_preferred": ["Ottersheim bei Landau"], "name:srp_x_preferred": ["\u041e\u0442\u0435\u0440\u0441\u0445\u0430\u0458\u043c \u0431\u0430\u0458 \u041b\u0430\u043d\u0434\u0430\u0443"], "name:swe_x_preferred": ["Ottersheim bei Landau"], "name:tat_x_preferred": ["\u041e\u0442\u0442\u0435\u0440\u0441\u0445\u0430\u0439\u043c-\u041b\u0430\u043d\u0434\u0430\u0443"], "name:ukr_x_preferred": ["\u041e\u0442\u0442\u0435\u0440\u0441\u0433\u0430\u0439\u043c-\u0431\u0430\u0439-\u041b\u0430\u043d\u0434\u0430\u0443"], "name:uzb_x_preferred": ["Ottersheim bei Landau"], "name:vie_x_preferred": ["Ottersheim bei Landau"], "name:vol_x_preferred": ["Ottersheim bei Landau"], "name:war_x_preferred": ["Ottersheim bei Landau"], "name:zho_x_preferred": ["\u5170\u9053\u9644\u8fd1\u5965\u7279\u5c14\u65af\u6d77\u59c6"], "nav:latitude": 49.191682, "nav:longitude": 8.232408, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Rheinland-Pfalz", "qs:a1r": "0", "qs:a2": "Germersheim", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Ottersheim bei Landau", "qs:la_lc": "*DE07033401023", "qs:level": "locality", "qs:loc": "Ottersheim bei Landau", "qs:loc_alt": "Ottersheim bei Landau", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558918, "qs_pg:gn_pop": 1814, "qs_pg:name": "Ottersheim bei Landau", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 638941, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 45, "wof:belongsto": [85682491, 102191581, 1377686379, 85633111, 102063405], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_07334023", "eurostat:nuts_2021_id": "07334023", "fct:id": "0751c60c-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2855999, "gp:id": 683941, "qs_pg:id": 577448, "wd:id": "Q653365", "wk:page": "Ottersheim bei Landau"}, "wof:concordances_alt": {"qs_pg:id": 638941}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "5579cd99453cb4495e56e55f8898e070", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063405, "localadmin_id": 1377686379, "locality_id": 101760775, "region_id": 85682491}], "wof:id": 101760775, "wof:lang": ["ger"], "wof:lastmodified": 1690872836, "wof:name": "Ottersheim bei Landau", "wof:parent_id": 1377686379, "wof:placetype": "locality", "wof:population": 1825, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125316043], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.215129, 49.169942, 8.243886, 49.213022], "geometry": {"coordinates": [[[[8.237645, 49.1716], [8.234326, 49.171847], [8.229543, 49.169942], [8.228454, 49.172368], [8.223279, 49.171813], [8.22094, 49.171054], [8.220392, 49.171628], [8.216342, 49.171069], [8.216597, 49.173865], [8.216684, 49.17496], [8.216486, 49.178154], [8.215556, 49.190824], [8.215129, 49.19608], [8.218005, 49.196516], [8.217214, 49.200172], [8.216753, 49.201494], [8.218547, 49.201612], [8.21799, 49.203203], [8.21664, 49.207063], [8.215969, 49.209056], [8.215875, 49.209306], [8.217249, 49.209289], [8.21728, 49.209793], [8.218476, 49.210061], [8.220106, 49.210733], [8.221521, 49.21131], [8.22266, 49.21164], [8.224328, 49.211808], [8.225851, 49.211839], [8.226795, 49.211624], [8.229119, 49.2107], [8.229534, 49.2115], [8.231191, 49.211317], [8.231412, 49.211295], [8.234289, 49.210291], [8.237385, 49.210471], [8.237846, 49.212928], [8.243886, 49.213022], [8.243216, 49.211794], [8.242834, 49.211732], [8.241989, 49.21158], [8.241125, 49.209799], [8.241828, 49.20858], [8.241447, 49.207916], [8.241933, 49.207799], [8.242367, 49.207619], [8.242592, 49.207525], [8.241608, 49.204184], [8.241639, 49.204113], [8.242042, 49.203122], [8.241375, 49.20067], [8.241624, 49.197399], [8.241725, 49.191444], [8.243549, 49.188556], [8.240767, 49.188158], [8.240792, 49.178547], [8.237379, 49.178442], [8.237645, 49.1716]]]], "type": "MultiPolygon"}}
+{
+  "id": 101760775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_07334023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ottersheim bei Landau",
+    "eurostat:nuts_2021_id":"07334023",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEB",
+    "eurostat:nuts_2021_level_2":"DEB3",
+    "eurostat:nuts_2021_level_3":"DEB3E",
+    "eurostat:nuts_2021_level_lau":"07334023",
+    "eurostat:population":1825,
+    "eurostat:population_year":2020,
+    "geom:area":0.000971,
+    "geom:area_square_m":7848480.476873,
+    "geom:bbox":"8.215129,49.169942,8.243886,49.213022",
+    "geom:latitude":49.191895,
+    "geom:longitude":8.22881,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":1814,
+    "iso:country":"DE",
+    "lbl:latitude":49.191682,
+    "lbl:longitude":8.232408,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":49.191682,
+    "mps:longitude":8.232408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:ceb_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0442\u0442\u0435\u0440\u0441\u0445\u0430\u0439\u043c-\u041b\u0430\u043d\u0434\u0430\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:deu_x_variant":[
+        "Ottersheim"
+    ],
+    "name:eng_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:epo_x_preferred":[
+        "Ottersheim apud Landau"
+    ],
+    "name:epo_x_variant":[
+        "Ottersheim bei Landau"
+    ],
+    "name:eus_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0631\u0633\u0647\u0627\u06cc\u0645 \u0628\u0627\u06cc \u0644\u0627\u0646\u062f\u0627\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:hbs_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:hun_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:ita_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c3\u30bf\u30fc\u30b9\u30cf\u30a4\u30e0\u30fb\u30d0\u30a4\u30fb\u30e9\u30f3\u30c0\u30a6"
+    ],
+    "name:kur_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:lld_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:msa_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:nan_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:nld_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:nob_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:pol_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:por_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:ron_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0442\u0435\u0440\u0441\u0445\u0430\u0439\u043c-\u041b\u0430\u043d\u0434\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0442\u0435\u0440\u0441\u0445\u0430\u0458\u043c \u0431\u0430\u0458 \u041b\u0430\u043d\u0434\u0430\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0442\u0442\u0435\u0440\u0441\u0445\u0430\u0439\u043c-\u041b\u0430\u043d\u0434\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0442\u0442\u0435\u0440\u0441\u0433\u0430\u0439\u043c-\u0431\u0430\u0439-\u041b\u0430\u043d\u0434\u0430\u0443"
+    ],
+    "name:uzb_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:vie_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:vol_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:war_x_preferred":[
+        "Ottersheim bei Landau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5170\u9053\u9644\u8fd1\u5965\u7279\u5c14\u65af\u6d77\u59c6"
+    ],
+    "nav:latitude":49.191682,
+    "nav:longitude":8.232408,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Rheinland-Pfalz",
+    "qs:a1r":"0",
+    "qs:a2":"Germersheim",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Ottersheim bei Landau",
+    "qs:la_lc":"*DE07033401023",
+    "qs:level":"locality",
+    "qs:loc":"Ottersheim bei Landau",
+    "qs:loc_alt":"Ottersheim bei Landau",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558918,
+    "qs_pg:gn_pop":1814,
+    "qs_pg:name":"Ottersheim bei Landau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":638941,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686379,
+        85633111,
+        102063405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_07334023",
+        "eurostat:nuts_2021_id":"07334023",
+        "fct:id":"0751c60c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2855999,
+        "gp:id":683941,
+        "qs_pg:id":577448,
+        "wd:id":"Q653365",
+        "wk:page":"Ottersheim bei Landau"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":638941
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"5579cd99453cb4495e56e55f8898e070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063405,
+            "localadmin_id":1377686379,
+            "locality_id":101760775,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":101760775,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690872836,
+    "wof:name":"Ottersheim bei Landau",
+    "wof:parent_id":1377686379,
+    "wof:placetype":"locality",
+    "wof:population":1825,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125316043
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.215129,
+    49.169942,
+    8.243886,
+    49.213022
+],
+  "geometry": {"coordinates":[[[[8.237645,49.1716],[8.234326,49.171847],[8.229543,49.169942],[8.228454,49.172368],[8.223279,49.171813],[8.22094,49.171054],[8.220392,49.171628],[8.216342,49.171069],[8.216597,49.173865],[8.216684,49.17496],[8.216486,49.178154],[8.215556,49.190824],[8.215129,49.19608],[8.218005,49.196516],[8.217214,49.200172],[8.216753,49.201494],[8.218547,49.201612],[8.21799,49.203203],[8.21664,49.207063],[8.215969,49.209056],[8.215875,49.209306],[8.217249,49.209289],[8.21728,49.209793],[8.218476,49.210061],[8.220106,49.210733],[8.221521,49.21131],[8.22266,49.21164],[8.224328,49.211808],[8.225851,49.211839],[8.226795,49.211624],[8.229119,49.2107],[8.229534,49.2115],[8.231191,49.211317],[8.231412,49.211295],[8.234289,49.210291],[8.237385,49.210471],[8.237846,49.212928],[8.243886,49.213022],[8.243216,49.211794],[8.242834,49.211732],[8.241989,49.21158],[8.241125,49.209799],[8.241828,49.20858],[8.241447,49.207916],[8.241933,49.207799],[8.242367,49.207619],[8.242592,49.207525],[8.241608,49.204184],[8.241639,49.204113],[8.242042,49.203122],[8.241375,49.20067],[8.241624,49.197399],[8.241725,49.191444],[8.243549,49.188556],[8.240767,49.188158],[8.240792,49.178547],[8.237379,49.178442],[8.237645,49.1716]]]],"type":"MultiPolygon"}
+}

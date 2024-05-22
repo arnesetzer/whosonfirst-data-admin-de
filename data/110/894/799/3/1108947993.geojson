@@ -1,1 +1,112 @@
-{"id": 1108947993, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.34116256068,51.2051968599,6.34116256068,51.2051968599", "geom:latitude": 51.205197, "geom:longitude": 6.341163, "iso:country": "DE", "lbl:bbox": "6.33616256068,51.2001968599,6.34616256068,51.2101968599", "lbl:latitude": 51.205197, "lbl:longitude": 6.341163, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 12.0, "mz:tier_metro": 30, "name:ceb_x_preferred": ["Hardt"], "name:deu_x_preferred": ["Hardt"], "name:epo_x_preferred": ["Hardt"], "name:fra_x_preferred": ["Hardt"], "name:hun_x_preferred": ["Hardt"], "name:ita_x_preferred": ["Hardt"], "name:nld_x_preferred": ["Hardt"], "name:pol_x_preferred": ["Hardt"], "name:por_x_preferred": ["Hardt"], "name:ron_x_preferred": ["Hardt"], "name:rus_x_preferred": ["\u0425\u0430\u0440\u0434\u0442"], "name:srp_x_preferred": ["\u0425\u0430\u0440\u0434\u0442"], "name:swe_x_preferred": ["Hardt"], "name:vol_x_preferred": ["Hardt"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377689749, 404227561, 101907593, 102063757, 85682513], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491366718, "wof:geomhash": "322ef5148201db9d6414061617286aee", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063757, "localadmin_id": 1377689749, "locality_id": 101907593, "macrocounty_id": 404227561, "neighbourhood_id": 1108947993, "region_id": 85682513}], "wof:id": 1108947993, "wof:lastmodified": 1566712951, "wof:name": "Hardt", "wof:parent_id": 101907593, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.3411625606838, 51.20519685989366, 6.3411625606838, 51.20519685989366], "geometry": {"coordinates": [6.3411625606838, 51.20519685989366], "type": "Point"}}
+{
+  "id": 1108947993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.34116256068,51.2051968599,6.34116256068,51.2051968599",
+    "geom:latitude":51.205197,
+    "geom:longitude":6.341163,
+    "iso:country":"DE",
+    "lbl:bbox":"6.33616256068,51.2001968599,6.34616256068,51.2101968599",
+    "lbl:latitude":51.205197,
+    "lbl:longitude":6.341163,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Hardt"
+    ],
+    "name:deu_x_preferred":[
+        "Hardt"
+    ],
+    "name:epo_x_preferred":[
+        "Hardt"
+    ],
+    "name:fra_x_preferred":[
+        "Hardt"
+    ],
+    "name:hun_x_preferred":[
+        "Hardt"
+    ],
+    "name:ita_x_preferred":[
+        "Hardt"
+    ],
+    "name:nld_x_preferred":[
+        "Hardt"
+    ],
+    "name:pol_x_preferred":[
+        "Hardt"
+    ],
+    "name:por_x_preferred":[
+        "Hardt"
+    ],
+    "name:ron_x_preferred":[
+        "Hardt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0434\u0442"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0440\u0434\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Hardt"
+    ],
+    "name:vol_x_preferred":[
+        "Hardt"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689749,
+        404227561,
+        101907593,
+        102063757,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491366718,
+    "wof:geomhash":"322ef5148201db9d6414061617286aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063757,
+            "localadmin_id":1377689749,
+            "locality_id":101907593,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1108947993,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1108947993,
+    "wof:lastmodified":1566712951,
+    "wof:name":"Hardt",
+    "wof:parent_id":101907593,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3411625606838,
+    51.20519685989366,
+    6.3411625606838,
+    51.20519685989366
+],
+  "geometry": {"coordinates":[6.3411625606838,51.20519685989366],"type":"Point"}
+}

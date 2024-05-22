@@ -1,1 +1,74 @@
-{"id": 1108947949, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.7284022117,51.1257733347,6.7284022117,51.1257733347", "geom:latitude": 51.125773, "geom:longitude": 6.728402, "iso:country": "DE", "lbl:bbox": "6.7234022117,51.1207733347,6.7334022117,51.1307733347", "lbl:latitude": 51.125773, "lbl:longitude": 6.728402, "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:is_funky": 0, "mz:is_hard_boundary": 0, "mz:is_landuse_aoi": 0, "mz:is_official": 0, "mz:max_zoom": 18.0, "mz:min_zoom": 14.0, "mz:tier_metro": 30, "name:ger_x_variant": ["Neuenbaum", "Rosellerheide-Neuenbaum"], "src:lbl_centroid": "mz", "wof:belongsto": [102191581, 85633111, 1377689765, 404227561, 101748665, 102063757, 85682513], "wof:breaches": [], "wof:concordances": {}, "wof:country": "DE", "wof:created": 1491366685, "wof:geomhash": "ba4d9012ffccaa2199c6e7236dff938a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063757, "localadmin_id": 1377689765, "locality_id": 101748665, "macrocounty_id": 404227561, "neighbourhood_id": 1108947949, "region_id": 85682513}], "wof:id": 1108947949, "wof:lastmodified": 1566712991, "wof:name": "Rosellerheide", "wof:parent_id": 101748665, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.7284022116995, 51.12577333471319, 6.7284022116995, 51.12577333471319], "geometry": {"coordinates": [6.7284022116995, 51.12577333471319], "type": "Point"}}
+{
+  "id": 1108947949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7284022117,51.1257733347,6.7284022117,51.1257733347",
+    "geom:latitude":51.125773,
+    "geom:longitude":6.728402,
+    "iso:country":"DE",
+    "lbl:bbox":"6.7234022117,51.1207733347,6.7334022117,51.1307733347",
+    "lbl:latitude":51.125773,
+    "lbl:longitude":6.728402,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:ger_x_variant":[
+        "Neuenbaum",
+        "Rosellerheide-Neuenbaum"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        1377689765,
+        404227561,
+        101748665,
+        102063757,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DE",
+    "wof:created":1491366685,
+    "wof:geomhash":"ba4d9012ffccaa2199c6e7236dff938a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063757,
+            "localadmin_id":1377689765,
+            "locality_id":101748665,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":1108947949,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":1108947949,
+    "wof:lastmodified":1566712991,
+    "wof:name":"Rosellerheide",
+    "wof:parent_id":101748665,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7284022116995,
+    51.12577333471319,
+    6.7284022116995,
+    51.12577333471319
+],
+  "geometry": {"coordinates":[6.7284022116995,51.12577333471319],"type":"Point"}
+}

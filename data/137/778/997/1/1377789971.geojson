@@ -1,1 +1,115 @@
-{"id": 1377789971, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "13.63026,51.1618,13.63026,51.1618", "geom:latitude": 51.1618, "geom:longitude": 13.63026, "gn:admin1_code": "13.0", "gn:admin2_code": "0.0", "gn:admin3_code": "14627.0", "gn:admin4_code": "14627150.0", "gn:asciiname": "Auer", "gn:country_code": "DE", "gn:dem": 174, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2954617, "gn:latitude": 51.1618, "gn:longitude": 13.63026, "gn:modification_date": "2015-09-05", "gn:name": "Auer", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "13.62526,51.1568,13.63526,51.1668", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Auer"], "name:ces_x_preferred": ["Auer"], "name:deu_x_preferred": ["Auer"], "name:fin_x_preferred": ["Auer"], "name:fra_x_preferred": ["Auer"], "name:hun_x_preferred": ["Auer"], "name:ita_x_preferred": ["Auer"], "name:pol_x_preferred": ["Auer"], "name:ron_x_preferred": ["Auer"], "name:slk_x_preferred": ["Auer"], "name:swe_x_preferred": ["Auer"], "name:ukr_x_preferred": ["\u0410\u0443\u0435\u0440"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377687341, 85633111, 101822099, 102064229, 85682523], "wof:breaches": [], "wof:concordances": {"gn:id": 2954617}, "wof:country": "DE", "wof:geomhash": "1f0562d483b0c3ad82990369c0ebc402", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064229, "localadmin_id": 1377687341, "locality_id": 101822099, "neighbourhood_id": 1377789971, "region_id": 85682523}], "wof:id": 1377789971, "wof:lastmodified": 1566717604, "wof:name": "Auer", "wof:parent_id": 101822099, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1243440209], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.63026, 51.1618, 13.63026, 51.1618], "geometry": {"coordinates": [13.63026, 51.1618], "type": "Point"}}
+{
+  "id": 1377789971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63026,51.1618,13.63026,51.1618",
+    "geom:latitude":51.1618,
+    "geom:longitude":13.63026,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"14627.0",
+    "gn:admin4_code":"14627150.0",
+    "gn:asciiname":"Auer",
+    "gn:country_code":"DE",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2954617,
+    "gn:latitude":51.1618,
+    "gn:longitude":13.63026,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Auer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"13.62526,51.1568,13.63526,51.1668",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Auer"
+    ],
+    "name:ces_x_preferred":[
+        "Auer"
+    ],
+    "name:deu_x_preferred":[
+        "Auer"
+    ],
+    "name:fin_x_preferred":[
+        "Auer"
+    ],
+    "name:fra_x_preferred":[
+        "Auer"
+    ],
+    "name:hun_x_preferred":[
+        "Auer"
+    ],
+    "name:ita_x_preferred":[
+        "Auer"
+    ],
+    "name:pol_x_preferred":[
+        "Auer"
+    ],
+    "name:ron_x_preferred":[
+        "Auer"
+    ],
+    "name:slk_x_preferred":[
+        "Auer"
+    ],
+    "name:swe_x_preferred":[
+        "Auer"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0443\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377687341,
+        85633111,
+        101822099,
+        102064229,
+        85682523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2954617
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"1f0562d483b0c3ad82990369c0ebc402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064229,
+            "localadmin_id":1377687341,
+            "locality_id":101822099,
+            "neighbourhood_id":1377789971,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":1377789971,
+    "wof:lastmodified":1566717604,
+    "wof:name":"Auer",
+    "wof:parent_id":101822099,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243440209
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63026,
+    51.1618,
+    13.63026,
+    51.1618
+],
+  "geometry": {"coordinates":[13.63026,51.1618],"type":"Point"}
+}

@@ -1,1 +1,152 @@
-{"id": 101909315, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.6e-05, "geom:area_square_m": 428381.391858, "geom:bbox": "10.750632,51.950813,10.763678,51.959856", "geom:latitude": 51.955047, "geom:longitude": 10.757244, "gn:population": 746, "iso:country": "DE", "lbl:latitude": 51.954864, "lbl:longitude": 10.758232, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.954864, "mps:longitude": 10.758232, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0411\u0435\u0440\u0441\u0435\u043b\u044c"], "name:ceb_x_preferred": ["Ber\u00dfel"], "name:che_x_preferred": ["\u0411\u0435\u0440\u0441\u0435\u043b\u044c"], "name:deu_x_preferred": ["Ber\u00dfel"], "name:eng_x_preferred": ["Ber\u00dfel"], "name:epo_x_preferred": ["Ber\u00dfel"], "name:fas_x_preferred": ["\u0628\u0631\u0633\u0644"], "name:fra_x_preferred": ["Ber\u00dfel"], "name:gle_x_preferred": ["Ber\u00dfel"], "name:ita_x_preferred": ["Ber\u00dfel"], "name:kaz_x_preferred": ["\u0411\u0435\u0440\u0441\u0435\u043b\u044c"], "name:kir_x_preferred": ["\u0411\u0435\u0440\u0441\u0435\u043b\u044c"], "name:mkd_x_preferred": ["\u0411\u0435\u0440\u0441\u0435\u043b"], "name:nld_x_preferred": ["Ber\u00dfel"], "name:ron_x_preferred": ["Ber\u00dfel"], "name:rus_x_preferred": ["\u0411\u0435\u0440\u0441\u0435\u043b\u044c"], "name:tat_x_preferred": ["\u0411\u0435\u0440\u0441\u0435\u043b\u044c"], "name:uzb_x_preferred": ["Ber\u00dfel"], "name:vie_x_preferred": ["Ber\u00dfel"], "name:vol_x_preferred": ["Ber\u00dfel"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Harz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Ber\u00dfel", "qs:la_lc": "*DE15008509050", "qs:level": "locality", "qs:loc": "Ber\u00dfel", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 28, "wof:belongsto": [85682519, 102191581, 1377688603, 85633111, 102063857], "wof:breaches": [], "wof:concordances": {"gn:id": 2949902, "gp:id": 638408, "qs_pg:id": 1130333, "wd:id": "Q698192", "wk:page": "Ber\u00dfel"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "68903030d9249c3c517ba1c9e2018aac", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063857, "localadmin_id": 1377688603, "locality_id": 101909315, "region_id": 85682519}], "wof:id": 101909315, "wof:lastmodified": 1690871396, "wof:name": "Ber\u00dfel", "wof:parent_id": 1377688603, "wof:placetype": "locality", "wof:population": 746, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.750632, 51.950813, 10.763678, 51.959856], "geometry": {"coordinates": [[[10.755026, 51.958939], [10.755011, 51.95804], [10.75792, 51.958022], [10.757905, 51.957123], [10.760814, 51.957104], [10.760784, 51.955307], [10.762238, 51.955297], [10.762223, 51.954399], [10.763678, 51.954389], [10.763662, 51.953491], [10.762208, 51.9535], [10.762177, 51.951703], [10.760723, 51.951712], [10.760708, 51.950813], [10.756345, 51.950841], [10.75639, 51.953537], [10.754935, 51.953547], [10.75495, 51.954445], [10.753496, 51.954455], [10.753511, 51.955353], [10.752056, 51.955363], [10.752086, 51.95716], [10.750632, 51.957169], [10.750647, 51.958068], [10.752102, 51.958059], [10.752132, 51.959856], [10.753586, 51.959847], [10.753571, 51.958948], [10.755026, 51.958939]]], "type": "Polygon"}}
+{
+  "id": 101909315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":428381.391858,
+    "geom:bbox":"10.750632,51.950813,10.763678,51.959856",
+    "geom:latitude":51.955047,
+    "geom:longitude":10.757244,
+    "gn:population":746,
+    "iso:country":"DE",
+    "lbl:latitude":51.954864,
+    "lbl:longitude":10.758232,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.954864,
+    "mps:longitude":10.758232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0435\u043b\u044c"
+    ],
+    "name:ceb_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0435\u043b\u044c"
+    ],
+    "name:deu_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:eng_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:epo_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0633\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:gle_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:ita_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0435\u043b\u044c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0435\u043b\u044c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0435\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:ron_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0435\u043b\u044c"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0435\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:vie_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "name:vol_x_preferred":[
+        "Ber\u00dfel"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Harz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Ber\u00dfel",
+    "qs:la_lc":"*DE15008509050",
+    "qs:level":"locality",
+    "qs:loc":"Ber\u00dfel",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688603,
+        85633111,
+        102063857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2949902,
+        "gp:id":638408,
+        "qs_pg:id":1130333,
+        "wd:id":"Q698192",
+        "wk:page":"Ber\u00dfel"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"68903030d9249c3c517ba1c9e2018aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063857,
+            "localadmin_id":1377688603,
+            "locality_id":101909315,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909315,
+    "wof:lastmodified":1690871396,
+    "wof:name":"Ber\u00dfel",
+    "wof:parent_id":1377688603,
+    "wof:placetype":"locality",
+    "wof:population":746,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.750632,
+    51.950813,
+    10.763678,
+    51.959856
+],
+  "geometry": {"coordinates":[[[10.755026,51.958939],[10.755011,51.95804],[10.75792,51.958022],[10.757905,51.957123],[10.760814,51.957104],[10.760784,51.955307],[10.762238,51.955297],[10.762223,51.954399],[10.763678,51.954389],[10.763662,51.953491],[10.762208,51.9535],[10.762177,51.951703],[10.760723,51.951712],[10.760708,51.950813],[10.756345,51.950841],[10.75639,51.953537],[10.754935,51.953547],[10.75495,51.954445],[10.753496,51.954455],[10.753511,51.955353],[10.752056,51.955363],[10.752086,51.95716],[10.750632,51.957169],[10.750647,51.958068],[10.752102,51.958059],[10.752132,51.959856],[10.753586,51.959847],[10.753571,51.958948],[10.755026,51.958939]]],"type":"Polygon"}
+}

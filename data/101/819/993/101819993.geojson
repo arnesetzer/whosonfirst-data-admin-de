@@ -1,1 +1,407 @@
-{"id": 101819993, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_03360005", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Bodenteich, Flecken", "eurostat:nuts_2021_id": "03360005", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE9", "eurostat:nuts_2021_level_2": "DE93", "eurostat:nuts_2021_level_3": "DE93A", "eurostat:nuts_2021_level_lau": "03360005", "eurostat:population": 3741, "eurostat:population_year": 2020, "geom:area": 0.006682, "geom:area_square_m": 49907235.408871, "geom:bbox": "10.601301,52.802267,10.771729,52.886638", "geom:latitude": 52.843666, "geom:longitude": 10.695306, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 3894, "iso:country": "DE", "lbl:latitude": 52.83567, "lbl:longitude": 10.676454, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 52.83567, "mps:longitude": 10.676454, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Bodenteich"], "name:arg_x_preferred": ["Bad Bodenteich"], "name:ast_x_preferred": ["Bad Bodenteich"], "name:bar_x_preferred": ["Bad Bodenteich"], "name:bre_x_preferred": ["Bad Bodenteich"], "name:cat_x_preferred": ["Bad Bodenteich"], "name:ceb_x_preferred": ["Bad Bodenteich"], "name:ces_x_preferred": ["Bad Bodenteich"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"], "name:cos_x_preferred": ["Bad Bodenteich"], "name:cym_x_preferred": ["Bad Bodenteich"], "name:dan_x_preferred": ["Bad Bodenteich"], "name:deu_x_preferred": ["Bad Bodenteich"], "name:deu_x_variant": ["Bodenteich [< a. 1998]"], "name:eng_x_preferred": ["Bad Bodenteich"], "name:epo_x_preferred": ["Bad Bodenteich"], "name:est_x_preferred": ["Bad Bodenteich"], "name:eus_x_preferred": ["Bad Bodenteich"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0628\u0648\u062f\u0646\u062a\u0627\u06cc\u0634"], "name:fin_x_preferred": ["Bad Bodenteich"], "name:fra_x_preferred": ["Bad Bodenteich"], "name:frp_x_preferred": ["Bad Bodenteich"], "name:fur_x_preferred": ["Bad Bodenteich"], "name:gla_x_preferred": ["Bad Bodenteich"], "name:gle_x_preferred": ["Bad Bodenteich"], "name:glg_x_preferred": ["Bad Bodenteich"], "name:gsw_x_preferred": ["Bad Bodenteich"], "name:hbs_x_preferred": ["Bad Bodenteich"], "name:hrv_x_preferred": ["Bad Bodenteich"], "name:hun_x_preferred": ["Bad Bodenteich"], "name:ido_x_preferred": ["Bad Bodenteich"], "name:ile_x_preferred": ["Bad Bodenteich"], "name:ina_x_preferred": ["Bad Bodenteich"], "name:ind_x_preferred": ["Bad Bodenteich"], "name:isl_x_preferred": ["Bad Bodenteich"], "name:ita_x_preferred": ["Bad Bodenteich"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"], "name:kon_x_preferred": ["Bad Bodenteich"], "name:lat_x_preferred": ["Bodenteich"], "name:lij_x_preferred": ["Bad Bodenteich"], "name:lim_x_preferred": ["Bad Bodenteich"], "name:lld_x_preferred": ["Bad Bodenteich"], "name:ltz_x_preferred": ["Bad Bodenteich"], "name:min_x_preferred": ["Bad Bodenteich"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0458\u0445"], "name:mlg_x_preferred": ["Bad Bodenteich"], "name:msa_x_preferred": ["Bad Bodenteich"], "name:nan_x_preferred": ["Bad Bodenteich"], "name:nap_x_preferred": ["Bad Bodenteich"], "name:nds_x_historical": ["Bodendick", "Bodendieck"], "name:nds_x_preferred": ["Bonndiek"], "name:nds_x_variant": ["Bodendick", "Bodendieck", "Bad Bodenteich"], "name:nld_x_preferred": ["Bad Bodenteich"], "name:nno_x_preferred": ["Bad Bodenteich"], "name:nob_x_preferred": ["Bad Bodenteich"], "name:nrm_x_preferred": ["Bad Bodenteich"], "name:oci_x_preferred": ["Bad Bodenteich"], "name:pcd_x_preferred": ["Bad Bodenteich"], "name:pms_x_preferred": ["Bad Bodenteich"], "name:pol_x_preferred": ["Bad Bodenteich"], "name:por_x_preferred": ["Bad Bodenteich"], "name:roh_x_preferred": ["Bad Bodenteich"], "name:ron_x_preferred": ["Bad Bodenteich"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"], "name:scn_x_preferred": ["Bad Bodenteich"], "name:sco_x_preferred": ["Bad Bodenteich"], "name:slk_x_preferred": ["Bad Bodenteich"], "name:slv_x_preferred": ["Bad Bodenteich"], "name:spa_x_preferred": ["Bad Bodenteich"], "name:srd_x_preferred": ["Bad Bodenteich"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0458\u0445"], "name:swa_x_preferred": ["Bad Bodenteich"], "name:swe_x_preferred": ["Bad Bodenteich"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"], "name:uzb_x_preferred": ["Bad Bodenteich"], "name:vec_x_preferred": ["Bad Bodenteich"], "name:vie_x_preferred": ["Bad Bodenteich"], "name:vls_x_preferred": ["Bad Bodenteich"], "name:vol_x_preferred": ["Bad Bodenteich"], "name:war_x_preferred": ["Bad Bodenteich"], "name:wln_x_preferred": ["Bad Bodenteich"], "name:wol_x_preferred": ["Bad Bodenteich"], "name:zho_min_nan_x_preferred": ["Bad Bodenteich"], "name:zho_x_preferred": ["\u5df4\u7279\u535a\u767b\u6cf0\u5e0c"], "name:zho_x_variant": ["\u5df4\u5fb7\u535a\u767b\u6cf0\u5e0c"], "name:zul_x_preferred": ["Bad Bodenteich"], "nav:latitude": 52.83567, "nav:longitude": 10.676454, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "Uelzen", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Bodenteich", "qs:la_lc": "*DE03036002005", "qs:level": "locality", "qs:loc": "Bad Bodenteich", "qs:loc_alt": "Bad Bodenteich", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6559086, "qs_pg:gn_pop": 3894, "qs_pg:name": "Gemeinde Bad Bodenteich", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Niedersachsen", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 197, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 283806, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12629778, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 52, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Niedersachsen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682555, 102191581, 1377688011, 85633111, 102063981], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_03360005", "eurostat:nuts_2021_id": "03360005", "gn:id": 2947100, "gp:id": 656276, "qs_pg:id": 1152239, "wd:id": "Q631355", "wk:page": "Capizzi"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "8a439dbafaf21b7a006981abea882659", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063981, "localadmin_id": 1377688011, "locality_id": 101819993, "region_id": 85682555}], "wof:id": 101819993, "wof:lastmodified": 1690872404, "wof:name": "Bad Bodenteich", "wof:parent_id": 1377688011, "wof:placetype": "locality", "wof:population": 3741, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125350151, 1125285967], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.601301, 52.802267, 10.771729, 52.886638], "geometry": {"coordinates": [[[[10.720988, 52.883087], [10.719916, 52.88212], [10.720196, 52.880522], [10.720543, 52.878596], [10.7204, 52.878431], [10.719534, 52.877605], [10.71928, 52.877228], [10.719219, 52.87695], [10.719251, 52.876892], [10.719366, 52.87668], [10.719692, 52.876328], [10.72043, 52.875347], [10.72059, 52.874627], [10.720542, 52.874097], [10.720421, 52.873675], [10.720167, 52.873298], [10.719764, 52.872849], [10.719138, 52.872445], [10.718109, 52.871701], [10.717646, 52.871252], [10.717272, 52.87083], [10.717063, 52.870507], [10.716897, 52.870076], [10.716895, 52.869581], [10.716997, 52.869231], [10.716965, 52.868727], [10.716709, 52.868125], [10.716633, 52.867703], [10.716749, 52.867199], [10.721801, 52.864685], [10.723697, 52.86324], [10.723261, 52.856138], [10.730029, 52.855145], [10.732169, 52.852498], [10.740941, 52.849787], [10.744518, 52.849142], [10.75126, 52.849447], [10.756367, 52.849309], [10.755406, 52.847016], [10.758379, 52.842069], [10.76302, 52.842958], [10.766692, 52.842192], [10.764697, 52.840479], [10.766179, 52.839103], [10.771729, 52.833946], [10.769559, 52.832428], [10.768735, 52.832094], [10.765938, 52.83096], [10.763986, 52.830208], [10.765495, 52.829673], [10.766143, 52.828962], [10.766967, 52.827701], [10.767069, 52.827314], [10.767054, 52.826972], [10.766901, 52.826586], [10.766655, 52.826193], [10.764971, 52.824064], [10.764434, 52.823643], [10.75865, 52.820457], [10.75726, 52.820161], [10.756946, 52.819775], [10.756855, 52.819388], [10.756996, 52.818102], [10.75733, 52.81678], [10.759389, 52.810413], [10.760637, 52.806307], [10.752662, 52.805361], [10.750506, 52.805116], [10.750583, 52.804143], [10.750625, 52.8036], [10.74947, 52.803188], [10.748024, 52.802673], [10.74706, 52.802267], [10.746144, 52.804542], [10.745121, 52.807378], [10.744945, 52.808002], [10.732153, 52.807464], [10.730742, 52.807773], [10.728417, 52.808284], [10.725067, 52.809119], [10.718328, 52.8105], [10.718623, 52.811753], [10.719019, 52.812388], [10.71673, 52.813365], [10.715323, 52.813924], [10.712869, 52.814851], [10.707699, 52.817015], [10.705076, 52.816921], [10.697199, 52.817198], [10.696186, 52.823098], [10.692134, 52.823158], [10.692121, 52.820092], [10.689166, 52.823199], [10.683399, 52.821131], [10.684079, 52.824079], [10.682157, 52.822365], [10.678776, 52.823026], [10.672413, 52.820311], [10.672164, 52.821255], [10.676463, 52.823874], [10.676075, 52.826923], [10.671299, 52.824116], [10.670963, 52.825537], [10.669167, 52.825431], [10.66864, 52.827392], [10.666247, 52.826694], [10.666538, 52.825079], [10.65684, 52.825711], [10.655879, 52.831826], [10.654622, 52.831637], [10.653929, 52.835825], [10.64578, 52.836161], [10.635055, 52.834528], [10.629874, 52.834968], [10.623301, 52.835844], [10.621102, 52.836516], [10.618483, 52.837317], [10.602171, 52.842302], [10.601301, 52.843552], [10.602668, 52.845787], [10.60817, 52.845996], [10.61719, 52.854929], [10.62151, 52.853715], [10.623713, 52.854593], [10.62667, 52.856412], [10.624601, 52.862894], [10.630939, 52.86617], [10.633063, 52.866548], [10.638683, 52.866257], [10.6426, 52.867643], [10.654745, 52.867034], [10.657185, 52.867341], [10.658129, 52.8681], [10.658879, 52.869074], [10.663581, 52.870443], [10.663692, 52.869768], [10.663784, 52.868956], [10.663895, 52.868361], [10.664046, 52.868132], [10.664272, 52.86804], [10.665292, 52.867821], [10.66567, 52.867821], [10.666389, 52.867889], [10.668242, 52.868115], [10.668847, 52.86816], [10.669565, 52.868079], [10.670245, 52.867826], [10.67071, 52.86802], [10.673157, 52.86904], [10.675175, 52.869647], [10.678105, 52.870137], [10.685549, 52.871519], [10.687617, 52.872591], [10.691934, 52.875206], [10.69498, 52.877051], [10.696049, 52.880128], [10.695385, 52.881842], [10.69265, 52.882166], [10.692655, 52.883327], [10.695823, 52.883148], [10.695642, 52.885162], [10.700227, 52.886638], [10.703951, 52.88514], [10.704908, 52.885863], [10.709277, 52.886036], [10.711535, 52.886229], [10.71543, 52.88628], [10.720988, 52.883087]]]], "type": "MultiPolygon"}}
+{
+  "id": 101819993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_03360005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Bodenteich, Flecken",
+    "eurostat:nuts_2021_id":"03360005",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE9",
+    "eurostat:nuts_2021_level_2":"DE93",
+    "eurostat:nuts_2021_level_3":"DE93A",
+    "eurostat:nuts_2021_level_lau":"03360005",
+    "eurostat:population":3741,
+    "eurostat:population_year":2020,
+    "geom:area":0.006682,
+    "geom:area_square_m":49907235.408871,
+    "geom:bbox":"10.601301,52.802267,10.771729,52.886638",
+    "geom:latitude":52.843666,
+    "geom:longitude":10.695306,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":3894,
+    "iso:country":"DE",
+    "lbl:latitude":52.83567,
+    "lbl:longitude":10.676454,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":52.83567,
+    "mps:longitude":10.676454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:deu_x_variant":[
+        "Bodenteich [< a. 1998]"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:est_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0648\u062f\u0646\u062a\u0627\u06cc\u0634"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:lat_x_preferred":[
+        "Bodenteich"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:min_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0458\u0445"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:nan_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:nds_x_historical":[
+        "Bodendick",
+        "Bodendieck"
+    ],
+    "name:nds_x_preferred":[
+        "Bonndiek"
+    ],
+    "name:nds_x_variant":[
+        "Bodendick",
+        "Bodendieck",
+        "Bad Bodenteich"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:por_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0458\u0445"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u043e\u0434\u0435\u043d\u0442\u0430\u0439\u0445"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:war_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u535a\u767b\u6cf0\u5e0c"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u535a\u767b\u6cf0\u5e0c"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Bodenteich"
+    ],
+    "nav:latitude":52.83567,
+    "nav:longitude":10.676454,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Uelzen",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Bodenteich",
+    "qs:la_lc":"*DE03036002005",
+    "qs:level":"locality",
+    "qs:loc":"Bad Bodenteich",
+    "qs:loc_alt":"Bad Bodenteich",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6559086,
+    "qs_pg:gn_pop":3894,
+    "qs_pg:name":"Gemeinde Bad Bodenteich",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Niedersachsen",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":197,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":283806,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12629778,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":52,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Niedersachsen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377688011,
+        85633111,
+        102063981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_03360005",
+        "eurostat:nuts_2021_id":"03360005",
+        "gn:id":2947100,
+        "gp:id":656276,
+        "qs_pg:id":1152239,
+        "wd:id":"Q631355",
+        "wk:page":"Capizzi"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"8a439dbafaf21b7a006981abea882659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063981,
+            "localadmin_id":1377688011,
+            "locality_id":101819993,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101819993,
+    "wof:lastmodified":1690872404,
+    "wof:name":"Bad Bodenteich",
+    "wof:parent_id":1377688011,
+    "wof:placetype":"locality",
+    "wof:population":3741,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125350151,
+        1125285967
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.601301,
+    52.802267,
+    10.771729,
+    52.886638
+],
+  "geometry": {"coordinates":[[[[10.720988,52.883087],[10.719916,52.88212],[10.720196,52.880522],[10.720543,52.878596],[10.7204,52.878431],[10.719534,52.877605],[10.71928,52.877228],[10.719219,52.87695],[10.719251,52.876892],[10.719366,52.87668],[10.719692,52.876328],[10.72043,52.875347],[10.72059,52.874627],[10.720542,52.874097],[10.720421,52.873675],[10.720167,52.873298],[10.719764,52.872849],[10.719138,52.872445],[10.718109,52.871701],[10.717646,52.871252],[10.717272,52.87083],[10.717063,52.870507],[10.716897,52.870076],[10.716895,52.869581],[10.716997,52.869231],[10.716965,52.868727],[10.716709,52.868125],[10.716633,52.867703],[10.716749,52.867199],[10.721801,52.864685],[10.723697,52.86324],[10.723261,52.856138],[10.730029,52.855145],[10.732169,52.852498],[10.740941,52.849787],[10.744518,52.849142],[10.75126,52.849447],[10.756367,52.849309],[10.755406,52.847016],[10.758379,52.842069],[10.76302,52.842958],[10.766692,52.842192],[10.764697,52.840479],[10.766179,52.839103],[10.771729,52.833946],[10.769559,52.832428],[10.768735,52.832094],[10.765938,52.83096],[10.763986,52.830208],[10.765495,52.829673],[10.766143,52.828962],[10.766967,52.827701],[10.767069,52.827314],[10.767054,52.826972],[10.766901,52.826586],[10.766655,52.826193],[10.764971,52.824064],[10.764434,52.823643],[10.75865,52.820457],[10.75726,52.820161],[10.756946,52.819775],[10.756855,52.819388],[10.756996,52.818102],[10.75733,52.81678],[10.759389,52.810413],[10.760637,52.806307],[10.752662,52.805361],[10.750506,52.805116],[10.750583,52.804143],[10.750625,52.8036],[10.74947,52.803188],[10.748024,52.802673],[10.74706,52.802267],[10.746144,52.804542],[10.745121,52.807378],[10.744945,52.808002],[10.732153,52.807464],[10.730742,52.807773],[10.728417,52.808284],[10.725067,52.809119],[10.718328,52.8105],[10.718623,52.811753],[10.719019,52.812388],[10.71673,52.813365],[10.715323,52.813924],[10.712869,52.814851],[10.707699,52.817015],[10.705076,52.816921],[10.697199,52.817198],[10.696186,52.823098],[10.692134,52.823158],[10.692121,52.820092],[10.689166,52.823199],[10.683399,52.821131],[10.684079,52.824079],[10.682157,52.822365],[10.678776,52.823026],[10.672413,52.820311],[10.672164,52.821255],[10.676463,52.823874],[10.676075,52.826923],[10.671299,52.824116],[10.670963,52.825537],[10.669167,52.825431],[10.66864,52.827392],[10.666247,52.826694],[10.666538,52.825079],[10.65684,52.825711],[10.655879,52.831826],[10.654622,52.831637],[10.653929,52.835825],[10.64578,52.836161],[10.635055,52.834528],[10.629874,52.834968],[10.623301,52.835844],[10.621102,52.836516],[10.618483,52.837317],[10.602171,52.842302],[10.601301,52.843552],[10.602668,52.845787],[10.60817,52.845996],[10.61719,52.854929],[10.62151,52.853715],[10.623713,52.854593],[10.62667,52.856412],[10.624601,52.862894],[10.630939,52.86617],[10.633063,52.866548],[10.638683,52.866257],[10.6426,52.867643],[10.654745,52.867034],[10.657185,52.867341],[10.658129,52.8681],[10.658879,52.869074],[10.663581,52.870443],[10.663692,52.869768],[10.663784,52.868956],[10.663895,52.868361],[10.664046,52.868132],[10.664272,52.86804],[10.665292,52.867821],[10.66567,52.867821],[10.666389,52.867889],[10.668242,52.868115],[10.668847,52.86816],[10.669565,52.868079],[10.670245,52.867826],[10.67071,52.86802],[10.673157,52.86904],[10.675175,52.869647],[10.678105,52.870137],[10.685549,52.871519],[10.687617,52.872591],[10.691934,52.875206],[10.69498,52.877051],[10.696049,52.880128],[10.695385,52.881842],[10.69265,52.882166],[10.692655,52.883327],[10.695823,52.883148],[10.695642,52.885162],[10.700227,52.886638],[10.703951,52.88514],[10.704908,52.885863],[10.709277,52.886036],[10.711535,52.886229],[10.71543,52.88628],[10.720988,52.883087]]]],"type":"MultiPolygon"}
+}

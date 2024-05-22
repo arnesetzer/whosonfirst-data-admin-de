@@ -1,1 +1,142 @@
-{"id": 101910441, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.3e-05, "geom:area_square_m": 259079.137312, "geom:bbox": "11.474666,50.95778,11.487531,50.963136", "geom:latitude": 50.960283, "geom:longitude": 11.480626, "gn:population": 251, "iso:country": "DE", "lbl:latitude": 50.959604, "lbl:longitude": 11.479651, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 50.959604, "mps:longitude": 11.479651, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:ast_x_preferred": ["Hohlstedt"], "name:bak_x_preferred": ["\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:ceb_x_preferred": ["Hohlstedt"], "name:che_x_preferred": ["\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:deu_x_preferred": ["Hohlstedt"], "name:eng_x_preferred": ["Hohlstedt"], "name:fas_x_preferred": ["\u0647\u0648\u0644\u0634\u062a\u062a"], "name:fra_x_preferred": ["Hohlstedt"], "name:kaz_x_preferred": ["\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:mkd_x_preferred": ["\u0425\u043e\u043b\u0448\u0442\u0435\u0442"], "name:nld_x_preferred": ["Hohlstedt"], "name:ron_x_preferred": ["Hohlstedt"], "name:rus_x_preferred": ["\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:tat_x_preferred": ["\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["Hohlstedt"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Th\u00fcringen", "qs:a1r": "0", "qs:a2": "Weimarer Land", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Hohlstedt", "qs:la_lc": "*DE16007108033", "qs:level": "locality", "qs:loc": "Hohlstedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:latitude": 50.9598, "wd:longitude": 11.4782, "wd:wordcount": 24, "wof:belongsto": [85682541, 102191581, 1377690487, 85633111, 102063719], "wof:breaches": [], "wof:concordances": {"gn:id": 2900925, "gp:id": 20160883, "qs_pg:id": 53845, "wd:id": "Q1356127", "wk:page": "Hohlstedt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "d35ae8d71b6532e5307d9a2026a6b164", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063719, "localadmin_id": 1377690487, "locality_id": 101910441, "region_id": 85682541}], "wof:id": 101910441, "wof:lastmodified": 1690873921, "wof:name": "Hohlstedt", "wof:parent_id": 1377690487, "wof:placetype": "locality", "wof:population": 251, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.474666, 50.95778, 11.487531, 50.963136], "geometry": {"coordinates": [[[11.486137, 50.963117], [11.486108, 50.962219], [11.487531, 50.9622], [11.487503, 50.961302], [11.48608, 50.96132], [11.486051, 50.960421], [11.483205, 50.960458], [11.483176, 50.959559], [11.481753, 50.959577], [11.481696, 50.95778], [11.476004, 50.957853], [11.476089, 50.960549], [11.474666, 50.960567], [11.474695, 50.961466], [11.48181, 50.961375], [11.481839, 50.962273], [11.484685, 50.962237], [11.484714, 50.963136], [11.486137, 50.963117]]], "type": "Polygon"}}
+{
+  "id": 101910441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":259079.137312,
+    "geom:bbox":"11.474666,50.95778,11.487531,50.963136",
+    "geom:latitude":50.960283,
+    "geom:longitude":11.480626,
+    "gn:population":251,
+    "iso:country":"DE",
+    "lbl:latitude":50.959604,
+    "lbl:longitude":11.479651,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":50.959604,
+    "mps:longitude":11.479651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Hohlstedt"
+    ],
+    "name:bak_x_preferred":[
+        "\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Hohlstedt"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Hohlstedt"
+    ],
+    "name:eng_x_preferred":[
+        "Hohlstedt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0644\u0634\u062a\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Hohlstedt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u043b\u0448\u0442\u0435\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Hohlstedt"
+    ],
+    "name:ron_x_preferred":[
+        "Hohlstedt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u043b\u044c\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Hohlstedt"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Th\u00fcringen",
+    "qs:a1r":"0",
+    "qs:a2":"Weimarer Land",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Hohlstedt",
+    "qs:la_lc":"*DE16007108033",
+    "qs:level":"locality",
+    "qs:loc":"Hohlstedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":50.9598,
+    "wd:longitude":11.4782,
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377690487,
+        85633111,
+        102063719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2900925,
+        "gp:id":20160883,
+        "qs_pg:id":53845,
+        "wd:id":"Q1356127",
+        "wk:page":"Hohlstedt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"d35ae8d71b6532e5307d9a2026a6b164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063719,
+            "localadmin_id":1377690487,
+            "locality_id":101910441,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":101910441,
+    "wof:lastmodified":1690873921,
+    "wof:name":"Hohlstedt",
+    "wof:parent_id":1377690487,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.474666,
+    50.95778,
+    11.487531,
+    50.963136
+],
+  "geometry": {"coordinates":[[[11.486137,50.963117],[11.486108,50.962219],[11.487531,50.9622],[11.487503,50.961302],[11.48608,50.96132],[11.486051,50.960421],[11.483205,50.960458],[11.483176,50.959559],[11.481753,50.959577],[11.481696,50.95778],[11.476004,50.957853],[11.476089,50.960549],[11.474666,50.960567],[11.474695,50.961466],[11.48181,50.961375],[11.481839,50.962273],[11.484685,50.962237],[11.484714,50.963136],[11.486137,50.963117]]],"type":"Polygon"}
+}

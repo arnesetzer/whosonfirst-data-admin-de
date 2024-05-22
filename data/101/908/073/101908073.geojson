@@ -1,1 +1,224 @@
-{"id": 101908073, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_13076070", "eurostat:level_code": "lau", "eurostat:name_local": "Kirch Jesar", "eurostat:nuts_2021_id": "13076070", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE8", "eurostat:nuts_2021_level_2": "DE80", "eurostat:nuts_2021_level_3": "DE80O", "eurostat:nuts_2021_level_lau": "13076070", "eurostat:population": 623, "eurostat:population_year": 2020, "geom:area": 0.002572, "geom:area_square_m": 18942456.3781, "geom:bbox": "11.244304,53.417196,11.326559,53.473362", "geom:latitude": 53.446451, "geom:longitude": 11.280563, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 659, "iso:country": "DE", "lbl:latitude": 53.435203, "lbl:longitude": 11.275755, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 53.435203, "mps:longitude": 11.275755, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Kirch Jesar"], "name:ceb_x_preferred": ["Kirch Jesar"], "name:che_x_preferred": ["\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"], "name:deu_x_preferred": ["Kirch Jesar"], "name:eng_x_preferred": ["Kirch Jesar"], "name:epo_x_preferred": ["Kirch Jesar"], "name:fas_x_preferred": ["\u06a9\u06cc\u0631\u0634 \u06cc\u0632\u0627\u0631"], "name:fra_x_preferred": ["Kirch Jesar"], "name:hbs_x_preferred": ["Kirch Jesar"], "name:hun_x_preferred": ["Kirch Jesar"], "name:ita_x_preferred": ["Kirch Jesar"], "name:kaz_x_preferred": ["\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"], "name:kir_x_preferred": ["\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"], "name:kur_x_preferred": ["Kirch Jesar"], "name:lld_x_preferred": ["Kirch Jesar"], "name:mkd_x_preferred": ["\u041a\u0438\u0440\u0445 \u0408\u0435\u0437\u0430\u0440"], "name:msa_x_preferred": ["Kirch Jesar"], "name:nld_x_preferred": ["Kirch Jesar"], "name:nob_x_preferred": ["Kirch Jesar"], "name:pol_x_preferred": ["Kirch Jesar"], "name:por_x_preferred": ["Kirch Jesar"], "name:ron_x_preferred": ["Kirch Jesar"], "name:rus_x_preferred": ["\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"], "name:spa_x_preferred": ["Kirch Jesar"], "name:srp_x_preferred": ["\u041a\u0438\u0440\u0445 \u0408\u0435\u0437\u0430\u0440"], "name:swe_x_preferred": ["Kirch Jesar"], "name:tat_x_preferred": ["\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"], "name:ukr_x_preferred": ["\u041a\u0456\u0440\u0445-\u0404\u0437\u0430\u0440"], "name:uzb_x_preferred": ["Kirch Jesar"], "name:vie_x_preferred": ["Kirch Jesar"], "name:vol_x_preferred": ["Kirch Jesar"], "name:war_x_preferred": ["Kirch Jesar"], "name:zho_x_preferred": ["\u57fa\u5c14\u5e0c\u8036\u8428\u5c14"], "nav:latitude": 53.435203, "nav:longitude": 11.275755, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Mecklenburg-Vorpommern", "qs:a1r": "0", "qs:a2": "Ludwigslust", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Kirch Jesar", "qs:la_lc": "*DE13005414052", "qs:level": "locality", "qs:loc": "Kirch Jesar", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6547945, "qs_pg:gn_pop": 659, "qs_pg:name": "Kirch Jesar", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 630613, "qs_pg:qs_pg_placetype": "localadmin", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 42, "wof:belongsto": [85682487, 102191581, 1377685279, 85633111, 1377675569], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_13076070", "eurostat:nuts_2021_id": "13076070", "gn:id": 2890439, "gp:id": 665822, "qs_pg:id": 578313, "wd:id": "Q674341"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "f602f0d5e160e1692c37f79b54cb7d2a", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 1377675569, "localadmin_id": 1377685279, "locality_id": 101908073, "region_id": 85682487}], "wof:id": 101908073, "wof:lastmodified": 1690871859, "wof:name": "Kirch Jesar", "wof:parent_id": 1377685279, "wof:placetype": "locality", "wof:population": 623, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125298919], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.244304, 53.417196, 11.326559, 53.473362], "geometry": {"coordinates": [[[[11.326559, 53.443808], [11.320466, 53.438348], [11.292037, 53.43263], [11.287999, 53.434884], [11.284796, 53.43335], [11.283184, 53.432399], [11.280605, 53.430375], [11.277378, 53.429155], [11.274859, 53.425414], [11.256716, 53.421249], [11.257055, 53.419116], [11.248305, 53.417196], [11.248297, 53.419075], [11.245282, 53.419664], [11.245101, 53.420687], [11.244877, 53.421616], [11.245035, 53.422696], [11.24532, 53.423558], [11.245074, 53.425485], [11.244304, 53.427012], [11.245056, 53.429124], [11.244943, 53.429457], [11.24792, 53.430407], [11.246103, 53.432422], [11.24528, 53.433569], [11.245468, 53.434017], [11.245243, 53.434917], [11.245822, 53.437978], [11.246638, 53.440862], [11.247182, 53.442404], [11.247838, 53.443494], [11.248528, 53.444227], [11.249578, 53.445124], [11.250108, 53.445834], [11.251046, 53.447769], [11.252145, 53.450396], [11.253335, 53.453947], [11.253347, 53.45463], [11.254724, 53.456797], [11.258817, 53.460124], [11.256161, 53.461569], [11.267292, 53.465131], [11.280354, 53.472993], [11.281716, 53.473362], [11.283305, 53.472103], [11.289482, 53.470491], [11.293818, 53.468746], [11.298795, 53.466611], [11.30213, 53.465304], [11.300739, 53.464172], [11.305005, 53.46276], [11.306217, 53.463175], [11.312642, 53.461245], [11.313637, 53.462928], [11.315846, 53.46205], [11.318316, 53.461986], [11.319139, 53.461291], [11.319809, 53.460858], [11.318304, 53.457999], [11.318848, 53.457277], [11.318988, 53.455946], [11.318719, 53.454429], [11.317589, 53.453583], [11.316781, 53.453013], [11.317754, 53.45271], [11.317826, 53.450912], [11.316906, 53.450873], [11.317658, 53.448397], [11.317854, 53.446778], [11.317795, 53.446023], [11.319067, 53.444001], [11.320734, 53.443802], [11.322523, 53.444473], [11.323383, 53.443775], [11.326559, 53.443808]]]], "type": "MultiPolygon"}}
+{
+  "id": 101908073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_13076070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirch Jesar",
+    "eurostat:nuts_2021_id":"13076070",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE8",
+    "eurostat:nuts_2021_level_2":"DE80",
+    "eurostat:nuts_2021_level_3":"DE80O",
+    "eurostat:nuts_2021_level_lau":"13076070",
+    "eurostat:population":623,
+    "eurostat:population_year":2020,
+    "geom:area":0.002572,
+    "geom:area_square_m":18942456.3781,
+    "geom:bbox":"11.244304,53.417196,11.326559,53.473362",
+    "geom:latitude":53.446451,
+    "geom:longitude":11.280563,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":659,
+    "iso:country":"DE",
+    "lbl:latitude":53.435203,
+    "lbl:longitude":11.275755,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":53.435203,
+    "mps:longitude":11.275755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:ceb_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:eng_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:epo_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0631\u0634 \u06cc\u0632\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:hbs_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:hun_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:ita_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"
+    ],
+    "name:kur_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:lld_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0438\u0440\u0445 \u0408\u0435\u0437\u0430\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:nld_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:nob_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:pol_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:por_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:ron_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0440\u0445 \u0408\u0435\u0437\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0440\u0445-\u0415\u0437\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u0445-\u0404\u0437\u0430\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:vie_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:vol_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:war_x_preferred":[
+        "Kirch Jesar"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5c14\u5e0c\u8036\u8428\u5c14"
+    ],
+    "nav:latitude":53.435203,
+    "nav:longitude":11.275755,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Mecklenburg-Vorpommern",
+    "qs:a1r":"0",
+    "qs:a2":"Ludwigslust",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Kirch Jesar",
+    "qs:la_lc":"*DE13005414052",
+    "qs:level":"locality",
+    "qs:loc":"Kirch Jesar",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6547945,
+    "qs_pg:gn_pop":659,
+    "qs_pg:name":"Kirch Jesar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":630613,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        1377685279,
+        85633111,
+        1377675569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_13076070",
+        "eurostat:nuts_2021_id":"13076070",
+        "gn:id":2890439,
+        "gp:id":665822,
+        "qs_pg:id":578313,
+        "wd:id":"Q674341"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"f602f0d5e160e1692c37f79b54cb7d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":1377675569,
+            "localadmin_id":1377685279,
+            "locality_id":101908073,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":101908073,
+    "wof:lastmodified":1690871859,
+    "wof:name":"Kirch Jesar",
+    "wof:parent_id":1377685279,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125298919
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.244304,
+    53.417196,
+    11.326559,
+    53.473362
+],
+  "geometry": {"coordinates":[[[[11.326559,53.443808],[11.320466,53.438348],[11.292037,53.43263],[11.287999,53.434884],[11.284796,53.43335],[11.283184,53.432399],[11.280605,53.430375],[11.277378,53.429155],[11.274859,53.425414],[11.256716,53.421249],[11.257055,53.419116],[11.248305,53.417196],[11.248297,53.419075],[11.245282,53.419664],[11.245101,53.420687],[11.244877,53.421616],[11.245035,53.422696],[11.24532,53.423558],[11.245074,53.425485],[11.244304,53.427012],[11.245056,53.429124],[11.244943,53.429457],[11.24792,53.430407],[11.246103,53.432422],[11.24528,53.433569],[11.245468,53.434017],[11.245243,53.434917],[11.245822,53.437978],[11.246638,53.440862],[11.247182,53.442404],[11.247838,53.443494],[11.248528,53.444227],[11.249578,53.445124],[11.250108,53.445834],[11.251046,53.447769],[11.252145,53.450396],[11.253335,53.453947],[11.253347,53.45463],[11.254724,53.456797],[11.258817,53.460124],[11.256161,53.461569],[11.267292,53.465131],[11.280354,53.472993],[11.281716,53.473362],[11.283305,53.472103],[11.289482,53.470491],[11.293818,53.468746],[11.298795,53.466611],[11.30213,53.465304],[11.300739,53.464172],[11.305005,53.46276],[11.306217,53.463175],[11.312642,53.461245],[11.313637,53.462928],[11.315846,53.46205],[11.318316,53.461986],[11.319139,53.461291],[11.319809,53.460858],[11.318304,53.457999],[11.318848,53.457277],[11.318988,53.455946],[11.318719,53.454429],[11.317589,53.453583],[11.316781,53.453013],[11.317754,53.45271],[11.317826,53.450912],[11.316906,53.450873],[11.317658,53.448397],[11.317854,53.446778],[11.317795,53.446023],[11.319067,53.444001],[11.320734,53.443802],[11.322523,53.444473],[11.323383,53.443775],[11.326559,53.443808]]]],"type":"MultiPolygon"}
+}

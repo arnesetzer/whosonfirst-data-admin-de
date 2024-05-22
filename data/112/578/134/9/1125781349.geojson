@@ -1,1 +1,204 @@
-{"id": 1125781349, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01061095", "eurostat:level_code": "lau", "eurostat:name_local": "Sankt Margarethen", "eurostat:nuts_2021_id": "01061095", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF0E", "eurostat:nuts_2021_level_lau": "01061095", "eurostat:population": 816, "eurostat:population_year": 2020, "geom:area": 0.001491, "geom:area_square_m": 10863851.238439, "geom:bbox": "9.229736,53.876295,9.307305,53.911108", "geom:latitude": 53.893231, "geom:longitude": 9.264807, "gn:country": "DE", "gn:fcode": "PPLA4", "gn:population": 1072, "iso:country": "DE", "lbl:latitude": 53.9, "lbl:longitude": 9.25, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:cat_x_preferred": ["Sankt Margarethen"], "name:ceb_x_preferred": ["Sankt Margarethen"], "name:che_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"], "name:dan_x_preferred": ["Sankt Margarethen"], "name:deu_x_preferred": ["Sankt Margarethen"], "name:eng_x_preferred": ["Sankt Margarethen"], "name:epo_x_preferred": ["Sankt Margarethen"], "name:eus_x_preferred": ["Sankt Margarethen"], "name:fas_x_preferred": ["\u0632\u0627\u0646\u06a9\u062a \u0645\u0627\u0631\u06af\u0627\u0631\u062a\u0646"], "name:fra_x_preferred": ["Sankt Margarethen"], "name:hun_x_preferred": ["Sankt Margarethen"], "name:ita_x_preferred": ["Sankt Margarethen"], "name:mkd_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"], "name:msa_x_preferred": ["Sankt Margarethen"], "name:nan_x_preferred": ["Sankt Margarethen"], "name:nld_x_preferred": ["Sankt Margarethen"], "name:nob_x_preferred": ["Sankt Margarethen"], "name:pol_x_preferred": ["Sankt Margarethen"], "name:por_x_preferred": ["Sankt Margarethen"], "name:ron_x_preferred": ["Sankt Margarethen"], "name:rus_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"], "name:spa_x_preferred": ["Sankt Margarethen"], "name:srp_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"], "name:swe_x_preferred": ["Sankt Margarethen"], "name:tat_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"], "name:tur_x_preferred": ["Sankt Margarethen"], "name:ukr_x_preferred": ["\u0417\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"], "name:uzb_x_preferred": ["Sankt Margarethen"], "name:vie_x_preferred": ["Sankt Margarethen"], "name:vol_x_preferred": ["Sankt Margarethen"], "name:war_x_preferred": ["Sankt Margarethen"], "name:zho_x_preferred": ["\u5723\u9a6c\u5c14\u52a0\u96f7\u6ed5"], "nav:latitude": 53.9, "nav:longitude": 9.25, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPLA4", "qs_pg:gn_id": 2841523, "qs_pg:gn_pop": 1072, "qs_pg:name": "Sankt Margarethen", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 577119, "qs_pg:qs_pg_placetype": "locality", "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "wof:belongsto": [85682517, 102191581, 1377684697, 85633111, 102064101], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01061095", "eurostat:nuts_2021_id": "01061095", "gn:id": 2841523, "qs_pg:id": 577119, "wd:id": "Q425787"}, "wof:country": "DE", "wof:created": 1497290494, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "fe75d488b6a813838461f74a84961029", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064101, "localadmin_id": 1377684697, "locality_id": 1125781349, "region_id": 85682517}], "wof:id": 1125781349, "wof:lastmodified": 1690874453, "wof:name": "Sankt Margarethen", "wof:parent_id": 1377684697, "wof:placetype": "locality", "wof:population": 816, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125278981], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.229736, 53.876295, 9.307305, 53.911108], "geometry": {"coordinates": [[[[9.293403, 53.907409], [9.296339, 53.904253], [9.296793, 53.903823], [9.298062, 53.902624], [9.299077, 53.9014], [9.301971, 53.897942], [9.305369, 53.894435], [9.307305, 53.89316], [9.29443, 53.892874], [9.29154, 53.890169], [9.290007, 53.887863], [9.289017, 53.887898], [9.288437, 53.886896], [9.286389, 53.886732], [9.286169, 53.885876], [9.284181, 53.88574], [9.282347, 53.882272], [9.279947, 53.879464], [9.278312, 53.879735], [9.276924, 53.877727], [9.277907, 53.877377], [9.274483, 53.876436], [9.273827, 53.876501], [9.273278, 53.87655], [9.272043, 53.876664], [9.270752, 53.876615], [9.26863, 53.876387], [9.267477, 53.876295], [9.266912, 53.876321], [9.266142, 53.876551], [9.263734, 53.877489], [9.260873, 53.878637], [9.261083, 53.879021], [9.261234, 53.879355], [9.260794, 53.879786], [9.260217, 53.879773], [9.259741, 53.87953], [9.259386, 53.879054], [9.24088, 53.883827], [9.24021, 53.883991], [9.239471, 53.884172], [9.233129, 53.885752], [9.231267, 53.886187], [9.231434, 53.888088], [9.230848, 53.893563], [9.230152, 53.893448], [9.229736, 53.895169], [9.231453, 53.89524], [9.234058, 53.899264], [9.233826, 53.900969], [9.25175, 53.903513], [9.24728, 53.909209], [9.261102, 53.911108], [9.264573, 53.908393], [9.267012, 53.900718], [9.279534, 53.90121], [9.285212, 53.901086], [9.285511, 53.901268], [9.286221, 53.901994], [9.286634, 53.902447], [9.287381, 53.903461], [9.287907, 53.904247], [9.288243, 53.905284], [9.288346, 53.905959], [9.288132, 53.907098], [9.293403, 53.907409]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125781349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01061095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Margarethen",
+    "eurostat:nuts_2021_id":"01061095",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF0E",
+    "eurostat:nuts_2021_level_lau":"01061095",
+    "eurostat:population":816,
+    "eurostat:population_year":2020,
+    "geom:area":0.001491,
+    "geom:area_square_m":10863851.238439,
+    "geom:bbox":"9.229736,53.876295,9.307305,53.911108",
+    "geom:latitude":53.893231,
+    "geom:longitude":9.264807,
+    "gn:country":"DE",
+    "gn:fcode":"PPLA4",
+    "gn:population":1072,
+    "iso:country":"DE",
+    "lbl:latitude":53.9,
+    "lbl:longitude":9.25,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:ceb_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:deu_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:eng_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:epo_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:eus_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0646\u06a9\u062a \u0645\u0627\u0631\u06af\u0627\u0631\u062a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:hun_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:ita_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:nan_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:nld_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:nob_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:pol_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:por_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:ron_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0433\u0430\u0440\u0435\u0442\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:vie_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:vol_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:war_x_preferred":[
+        "Sankt Margarethen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u9a6c\u5c14\u52a0\u96f7\u6ed5"
+    ],
+    "nav:latitude":53.9,
+    "nav:longitude":9.25,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPLA4",
+    "qs_pg:gn_id":2841523,
+    "qs_pg:gn_pop":1072,
+    "qs_pg:name":"Sankt Margarethen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":577119,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377684697,
+        85633111,
+        102064101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01061095",
+        "eurostat:nuts_2021_id":"01061095",
+        "gn:id":2841523,
+        "qs_pg:id":577119,
+        "wd:id":"Q425787"
+    },
+    "wof:country":"DE",
+    "wof:created":1497290494,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"fe75d488b6a813838461f74a84961029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064101,
+            "localadmin_id":1377684697,
+            "locality_id":1125781349,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":1125781349,
+    "wof:lastmodified":1690874453,
+    "wof:name":"Sankt Margarethen",
+    "wof:parent_id":1377684697,
+    "wof:placetype":"locality",
+    "wof:population":816,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125278981
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.229736,
+    53.876295,
+    9.307305,
+    53.911108
+],
+  "geometry": {"coordinates":[[[[9.293403,53.907409],[9.296339,53.904253],[9.296793,53.903823],[9.298062,53.902624],[9.299077,53.9014],[9.301971,53.897942],[9.305369,53.894435],[9.307305,53.89316],[9.29443,53.892874],[9.29154,53.890169],[9.290007,53.887863],[9.289017,53.887898],[9.288437,53.886896],[9.286389,53.886732],[9.286169,53.885876],[9.284181,53.88574],[9.282347,53.882272],[9.279947,53.879464],[9.278312,53.879735],[9.276924,53.877727],[9.277907,53.877377],[9.274483,53.876436],[9.273827,53.876501],[9.273278,53.87655],[9.272043,53.876664],[9.270752,53.876615],[9.26863,53.876387],[9.267477,53.876295],[9.266912,53.876321],[9.266142,53.876551],[9.263734,53.877489],[9.260873,53.878637],[9.261083,53.879021],[9.261234,53.879355],[9.260794,53.879786],[9.260217,53.879773],[9.259741,53.87953],[9.259386,53.879054],[9.24088,53.883827],[9.24021,53.883991],[9.239471,53.884172],[9.233129,53.885752],[9.231267,53.886187],[9.231434,53.888088],[9.230848,53.893563],[9.230152,53.893448],[9.229736,53.895169],[9.231453,53.89524],[9.234058,53.899264],[9.233826,53.900969],[9.25175,53.903513],[9.24728,53.909209],[9.261102,53.911108],[9.264573,53.908393],[9.267012,53.900718],[9.279534,53.90121],[9.285212,53.901086],[9.285511,53.901268],[9.286221,53.901994],[9.286634,53.902447],[9.287381,53.903461],[9.287907,53.904247],[9.288243,53.905284],[9.288346,53.905959],[9.288132,53.907098],[9.293403,53.907409]]]],"type":"MultiPolygon"}
+}

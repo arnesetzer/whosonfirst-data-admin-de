@@ -1,1 +1,434 @@
-{"id": 101765263, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08336079", "eurostat:level_code": "lau", "eurostat:name_local": "Sch\u00f6nau im Schwarzwald, Stadt", "eurostat:nuts_2021_id": "08336079", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE139", "eurostat:nuts_2021_level_lau": "08336079", "eurostat:population": 2415, "eurostat:population_year": 2020, "geom:area": 0.001744, "geom:area_square_m": 14484951.920796, "geom:bbox": "7.866186,47.762749,8.004597,47.823061", "geom:latitude": 47.788122, "geom:longitude": 7.933256, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 2412, "iso:country": "DE", "lbl:latitude": 47.786779, "lbl:longitude": 7.893828, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 47.786779, "mps:longitude": 7.893828, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:als_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ara_x_preferred": ["\u0634\u0648\u0646\u0627\u0648 \u0625\u0645 \u0634\u0641\u0627\u0631\u062a\u0633\u0641\u0627\u0644\u062f"], "name:arg_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ast_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:azb_x_preferred": ["\u0634\u0648\u0646\u0627 \u0627\u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0632\u0648\u0627\u0644\u062f"], "name:bar_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:bel_x_preferred": ["\u0428\u043e\u043d\u0430\u0443-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"], "name:bre_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:cat_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ceb_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ces_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:che_x_preferred": ["\u0428\u043e\u044c\u043d\u0430\u0443"], "name:cos_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:cym_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:dan_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:deu_x_colloquial": ["Schoenau", "Schoenau im Schwarzwald", "Schonau", "Schonau im Schwarzwald"], "name:deu_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:deu_x_variant": ["Sch\u00f6nau"], "name:ell_x_preferred": ["\u03a3\u03bf\u03bd\u03ac\u03bf\u03c5 \u03b9\u03bc \u03a3\u03b2\u03b1\u03c1\u03c4\u03c3\u03bf\u03c5\u03ac\u03bb\u03bd\u03c4"], "name:ell_x_variant": ["\u03a3\u03ad\u03bd\u03b1\u03bf\u03c5 \u03b9\u03bc \u03a3\u03b2\u03ac\u03c1\u03c4\u03c3\u03b2\u03b1\u03bb\u03bd\u03c4"], "name:eng_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:epo_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:est_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:eus_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:fas_x_preferred": ["\u0634\u0648\u0646\u0627 \u0627\u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0632\u0648\u0627\u0644\u062f"], "name:fin_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:fra_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:frp_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:fur_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:gla_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:gle_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:glg_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:gsw_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:heb_x_preferred": ["\u05e9\u05e0\u05d0\u05d5 \u05d0\u05d9\u05dd \u05e9\u05d5\u05d5\u05e8\u05e6\u05d5\u05d5\u05d0\u05dc\u05d3"], "name:hrv_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:hun_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ido_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ile_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ina_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ind_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:isl_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ita_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:jpn_x_preferred": ["\u30b7\u30a7\u30fc\u30ca\u30a6\u30fb\u30a4\u30e0\u30fb\u30b7\u30e5\u30f4\u30a1\u30eb\u30c4\u30f4\u30a1\u30eb\u30c8"], "name:kon_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:kur_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:lat_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:lij_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:lim_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:lld_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:lmo_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ltz_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:min_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:mlg_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:msa_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:nap_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:nds_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:nld_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:nno_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:nob_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:nrm_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:oci_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:pcd_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:pms_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:pol_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:por_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:roh_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:ron_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:rus_x_preferred": ["\u0428\u0451\u043d\u0430\u0443"], "name:rus_x_variant": ["\u0428\u0451\u043d\u0430\u0443-\u0438\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"], "name:scn_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:sco_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:slk_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:slv_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:spa_x_preferred": ["Sch\u00f6nau en la Selva Negra"], "name:spa_x_variant": ["Sch\u00f6nau im Schwarzwald"], "name:srd_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:srp_x_preferred": ["\u0428\u0435\u043d\u0430\u0443 \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"], "name:swa_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:swe_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:tat_x_preferred": ["\u0428\u0451\u043d\u0430\u0443"], "name:ukr_x_preferred": ["\u0428\u0435\u043d\u0430\u0443-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"], "name:uzb_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:vec_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:vie_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:vls_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:vol_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:war_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:wln_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:wol_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "name:zho_x_preferred": ["\u9ed1\u6797\u5c71\u533a\u820d\u7459"], "name:zho_x_variant": ["\u65bd\u74e6\u5c14\u8328\u74e6\u5c14\u5fb7\u5730\u533a\u820d\u7459"], "name:zul_x_preferred": ["Sch\u00f6nau im Schwarzwald"], "nav:latitude": 47.786779, "nav:longitude": 7.893828, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "L\u00f6rrach", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Wembach", "qs:la_lc": "*DE08303606094", "qs:level": "locality", "qs:loc": "Sch\u00f6nau im Schwarzwald", "qs:loc_alt": "Schoenau im Schwarzwald", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558143, "qs_pg:gn_pop": 2412, "qs_pg:name": "Gemeinde Sch\u00f6nau im Schwarzwald", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 29, "qs_pg:photos_1k": 6, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 2, "qs_pg:photos_all": 72, "qs_pg:photos_sr": 2, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1211550, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623576, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 14.7, "wd:elevation": 540.0, "wd:latitude": 47.786667, "wd:longitude": 7.894167, "wd:population": 2138, "wd:wordcount": 71, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377685787, 404227543, 102063211], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08336079", "eurostat:nuts_2021_id": "08336079", "fct:id": "07570612-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2837074, "gp:id": 692818, "qs_pg:id": 1038478, "wd:id": "Q61731", "wk:page": "Sch\u00f6nau im Schwarzwald"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "203a477ac052141e8efb52654d69694e", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063211, "localadmin_id": 1377685787, "locality_id": 101765263, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101765263, "wof:lang": ["ger"], "wof:lastmodified": 1690871782, "wof:name": "Sch\u00f6nau im Schwarzwald", "wof:parent_id": 1377685787, "wof:placetype": "locality", "wof:population": 2415, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125316559, 1125342973], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.866186, 47.762749, 8.004597, 47.823061], "geometry": {"coordinates": [[[[7.944498, 47.776262], [7.938576, 47.776249], [7.932452, 47.77651], [7.930801, 47.775158], [7.927988, 47.77591], [7.926276, 47.773684], [7.923035, 47.774696], [7.920954, 47.772632], [7.918056, 47.772438], [7.915459, 47.773644], [7.915336, 47.775754], [7.912901, 47.7746], [7.909376, 47.77671], [7.906732, 47.776494], [7.905993, 47.774961], [7.905373, 47.773674], [7.90191, 47.773636], [7.900709, 47.772556], [7.899301, 47.773175], [7.893062, 47.775917], [7.89286, 47.775192], [7.892613, 47.774809], [7.892262, 47.774387], [7.891696, 47.773995], [7.891311, 47.773699], [7.890407, 47.773389], [7.889862, 47.774283], [7.889224, 47.77533], [7.887267, 47.774996], [7.884442, 47.776354], [7.88225, 47.777537], [7.878012, 47.777705], [7.871932, 47.779915], [7.871802, 47.777322], [7.871151, 47.777279], [7.870642, 47.777312], [7.870135, 47.777569], [7.86939, 47.778037], [7.868416, 47.778787], [7.867953, 47.779216], [7.867766, 47.779464], [7.867632, 47.779739], [7.867423, 47.780157], [7.867289, 47.780414], [7.867202, 47.780538], [7.866951, 47.780739], [7.866186, 47.780837], [7.867496, 47.785232], [7.867884, 47.786535], [7.876107, 47.786229], [7.878383, 47.787093], [7.879777, 47.786722], [7.882097, 47.78676], [7.880952, 47.788477], [7.882928, 47.789702], [7.881019, 47.791743], [7.883117, 47.790678], [7.885634, 47.791035], [7.88844, 47.792982], [7.887734, 47.795483], [7.886234, 47.796607], [7.887186, 47.798545], [7.891036, 47.799447], [7.897234, 47.797572], [7.898997, 47.798066], [7.900905, 47.79908], [7.899052, 47.800122], [7.900697, 47.800496], [7.903826, 47.800903], [7.906826, 47.800578], [7.907571, 47.800498], [7.907691, 47.798207], [7.910024, 47.798506], [7.910404, 47.796096], [7.905393, 47.792901], [7.906369, 47.791697], [7.907217, 47.78941], [7.908805, 47.788387], [7.90619, 47.786742], [7.904702, 47.784944], [7.902791, 47.784242], [7.903349, 47.783518], [7.906144, 47.783144], [7.906431, 47.782251], [7.906109, 47.78076], [7.908476, 47.780906], [7.911225, 47.779322], [7.913676, 47.777909], [7.917558, 47.778856], [7.921244, 47.779253], [7.924749, 47.77974], [7.92588, 47.780386], [7.932824, 47.781263], [7.937213, 47.778987], [7.942571, 47.777757], [7.944246, 47.777002], [7.944498, 47.776262]]], [[[7.944498, 47.776262], [7.945242, 47.777098], [7.946379, 47.778736], [7.947303, 47.780069], [7.945488, 47.78035], [7.941616, 47.78195], [7.940014, 47.783782], [7.940588, 47.785334], [7.938744, 47.787961], [7.938741, 47.790596], [7.934335, 47.79167], [7.930897, 47.793388], [7.929255, 47.793394], [7.927048, 47.797344], [7.931271, 47.799296], [7.935129, 47.79695], [7.943493, 47.79729], [7.948071, 47.793395], [7.947776, 47.794467], [7.950109, 47.795799], [7.95223, 47.794518], [7.953454, 47.792523], [7.955668, 47.791244], [7.950407, 47.790024], [7.948676, 47.790208], [7.944805, 47.788939], [7.947332, 47.787029], [7.947985, 47.784716], [7.953211, 47.787131], [7.953371, 47.789203], [7.956696, 47.789937], [7.961063, 47.788303], [7.961303, 47.787172], [7.961715, 47.785225], [7.959698, 47.784737], [7.959811, 47.78385], [7.963691, 47.783104], [7.963371, 47.780725], [7.963101, 47.778729], [7.960506, 47.778726], [7.957805, 47.778722], [7.956526, 47.779996], [7.954458, 47.779993], [7.944498, 47.776262]]], [[[7.999651, 47.820839], [7.999894, 47.820269], [8.000715, 47.817743], [8.001092, 47.816366], [8.001262, 47.814842], [8.00111, 47.813094], [7.997803, 47.806166], [7.998551, 47.800859], [7.998585, 47.797011], [8.000998, 47.796536], [8.002594, 47.796393], [8.004597, 47.794505], [8.002525, 47.791409], [7.998933, 47.790392], [7.994355, 47.790143], [7.992246, 47.788323], [7.98963, 47.787544], [7.98055, 47.78597], [7.976999, 47.785355], [7.975648, 47.786987], [7.978738, 47.791294], [7.982857, 47.792945], [7.983013, 47.795394], [7.983623, 47.796002], [7.984512, 47.796886], [7.984809, 47.797351], [7.985059, 47.797689], [7.985391, 47.797976], [7.985803, 47.798264], [7.986379, 47.798484], [7.986999, 47.798903], [7.987362, 47.7991], [7.987739, 47.799316], [7.988817, 47.800159], [7.989502, 47.800867], [7.989757, 47.801098], [7.990026, 47.801311], [7.990324, 47.801489], [7.990692, 47.801614], [7.991285, 47.801762], [7.991666, 47.801879], [7.992301, 47.802253], [7.992625, 47.802441], [7.993233, 47.802832], [7.993529, 47.803046], [7.993785, 47.803259], [7.994156, 47.803582], [7.994303, 47.803837], [7.994329, 47.804125], [7.994261, 47.804412], [7.994101, 47.804669], [7.993736, 47.80502], [7.993484, 47.805257], [7.993298, 47.805496], [7.993332, 47.805761], [7.99368, 47.806395], [7.993968, 47.806761], [7.994195, 47.807036], [7.994398, 47.807245], [7.995336, 47.808213], [7.995879, 47.808828], [7.996368, 47.809451], [7.997172, 47.810458], [7.99756, 47.810962], [7.997834, 47.811346], [7.998069, 47.811729], [7.998276, 47.812111], [7.99843, 47.812511], [7.998509, 47.812791], [7.998575, 47.813062], [7.998621, 47.813477], [7.998627, 47.813891], [7.998605, 47.814322], [7.998537, 47.814887], [7.998441, 47.81546], [7.998224, 47.816579], [7.998157, 47.816848], [7.998056, 47.817268], [7.997855, 47.817812], [7.997291, 47.819454], [7.996968, 47.820561], [7.996416, 47.82223], [7.996174, 47.823061], [7.999651, 47.820839]]], [[[7.966498, 47.801262], [7.96103, 47.803526], [7.962708, 47.807774], [7.965133, 47.80917], [7.967079, 47.806617], [7.96772, 47.804266], [7.971639, 47.803314], [7.974561, 47.801503], [7.973631, 47.799593], [7.972946, 47.797841], [7.971292, 47.796526], [7.969338, 47.793756], [7.970075, 47.790554], [7.966899, 47.788214], [7.963595, 47.789861], [7.960181, 47.791564], [7.958628, 47.792338], [7.961573, 47.792946], [7.960517, 47.795583], [7.961365, 47.797509], [7.966498, 47.801262]]], [[[7.955215, 47.772425], [7.954218, 47.772731], [7.950174, 47.772762], [7.949746, 47.775899], [7.952258, 47.776345], [7.956135, 47.774628], [7.959969, 47.775302], [7.960626, 47.773141], [7.957105, 47.771845], [7.955215, 47.772425]]], [[[7.942508, 47.774498], [7.944498, 47.776262], [7.946704, 47.775136], [7.948227, 47.774317], [7.94882, 47.771336], [7.950511, 47.770881], [7.953194, 47.771106], [7.95158, 47.77034], [7.949248, 47.770294], [7.947476, 47.771017], [7.946914, 47.772353], [7.942508, 47.774498]]], [[[7.977029, 47.762749], [7.976692, 47.764144], [7.974299, 47.765042], [7.972468, 47.765359], [7.972384, 47.765977], [7.975235, 47.766565], [7.979107, 47.766466], [7.978194, 47.763711], [7.977029, 47.762749]]], [[[7.962949, 47.764778], [7.960581, 47.766225], [7.961539, 47.767047], [7.966952, 47.764215], [7.965757, 47.764106], [7.962949, 47.764778]]]], "type": "MultiPolygon"}}
+{
+  "id": 101765263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08336079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sch\u00f6nau im Schwarzwald, Stadt",
+    "eurostat:nuts_2021_id":"08336079",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE139",
+    "eurostat:nuts_2021_level_lau":"08336079",
+    "eurostat:population":2415,
+    "eurostat:population_year":2020,
+    "geom:area":0.001744,
+    "geom:area_square_m":14484951.920796,
+    "geom:bbox":"7.866186,47.762749,8.004597,47.823061",
+    "geom:latitude":47.788122,
+    "geom:longitude":7.933256,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":2412,
+    "iso:country":"DE",
+    "lbl:latitude":47.786779,
+    "lbl:longitude":7.893828,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":47.786779,
+    "mps:longitude":7.893828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:als_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0646\u0627\u0648 \u0625\u0645 \u0634\u0641\u0627\u0631\u062a\u0633\u0641\u0627\u0644\u062f"
+    ],
+    "name:arg_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ast_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0646\u0627 \u0627\u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0632\u0648\u0627\u0644\u062f"
+    ],
+    "name:bar_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u043e\u043d\u0430\u0443-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:bre_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:cat_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ceb_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ces_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u043e\u044c\u043d\u0430\u0443"
+    ],
+    "name:cos_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:cym_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:dan_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:deu_x_colloquial":[
+        "Schoenau",
+        "Schoenau im Schwarzwald",
+        "Schonau",
+        "Schonau im Schwarzwald"
+    ],
+    "name:deu_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:deu_x_variant":[
+        "Sch\u00f6nau"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bd\u03ac\u03bf\u03c5 \u03b9\u03bc \u03a3\u03b2\u03b1\u03c1\u03c4\u03c3\u03bf\u03c5\u03ac\u03bb\u03bd\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ad\u03bd\u03b1\u03bf\u03c5 \u03b9\u03bc \u03a3\u03b2\u03ac\u03c1\u03c4\u03c3\u03b2\u03b1\u03bb\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:epo_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:est_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:eus_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0646\u0627 \u0627\u06cc\u0645 \u0634\u0648\u0627\u0631\u062a\u0632\u0648\u0627\u0644\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:fra_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:frp_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:fur_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:gla_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:gle_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:glg_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:gsw_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e0\u05d0\u05d5 \u05d0\u05d9\u05dd \u05e9\u05d5\u05d5\u05e8\u05e6\u05d5\u05d5\u05d0\u05dc\u05d3"
+    ],
+    "name:hrv_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:hun_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ido_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ile_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ina_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ind_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:isl_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ita_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30fc\u30ca\u30a6\u30fb\u30a4\u30e0\u30fb\u30b7\u30e5\u30f4\u30a1\u30eb\u30c4\u30f4\u30a1\u30eb\u30c8"
+    ],
+    "name:kon_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:kur_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:lat_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:lij_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:lim_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:lld_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:lmo_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ltz_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:min_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:mlg_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:msa_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:nap_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:nds_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:nld_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:nno_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:nob_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:nrm_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:oci_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:pcd_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:pms_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:pol_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:por_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:roh_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:ron_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0451\u043d\u0430\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0451\u043d\u0430\u0443-\u0438\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:scn_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:sco_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:slk_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:slv_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:spa_x_preferred":[
+        "Sch\u00f6nau en la Selva Negra"
+    ],
+    "name:spa_x_variant":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:srd_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435\u043d\u0430\u0443 \u0438\u043c \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:swe_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0451\u043d\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u0430\u0443-\u0456\u043c-\u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:vec_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:vie_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:vls_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:vol_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:war_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:wln_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:wol_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6797\u5c71\u533a\u820d\u7459"
+    ],
+    "name:zho_x_variant":[
+        "\u65bd\u74e6\u5c14\u8328\u74e6\u5c14\u5fb7\u5730\u533a\u820d\u7459"
+    ],
+    "name:zul_x_preferred":[
+        "Sch\u00f6nau im Schwarzwald"
+    ],
+    "nav:latitude":47.786779,
+    "nav:longitude":7.893828,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"L\u00f6rrach",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Wembach",
+    "qs:la_lc":"*DE08303606094",
+    "qs:level":"locality",
+    "qs:loc":"Sch\u00f6nau im Schwarzwald",
+    "qs:loc_alt":"Schoenau im Schwarzwald",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558143,
+    "qs_pg:gn_pop":2412,
+    "qs_pg:name":"Gemeinde Sch\u00f6nau im Schwarzwald",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":72,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1211550,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623576,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":14.7,
+    "wd:elevation":540.0,
+    "wd:latitude":47.786667,
+    "wd:longitude":7.894167,
+    "wd:population":2138,
+    "wd:wordcount":71,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377685787,
+        404227543,
+        102063211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08336079",
+        "eurostat:nuts_2021_id":"08336079",
+        "fct:id":"07570612-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2837074,
+        "gp:id":692818,
+        "qs_pg:id":1038478,
+        "wd:id":"Q61731",
+        "wk:page":"Sch\u00f6nau im Schwarzwald"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"203a477ac052141e8efb52654d69694e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063211,
+            "localadmin_id":1377685787,
+            "locality_id":101765263,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101765263,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690871782,
+    "wof:name":"Sch\u00f6nau im Schwarzwald",
+    "wof:parent_id":1377685787,
+    "wof:placetype":"locality",
+    "wof:population":2415,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125316559,
+        1125342973
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.866186,
+    47.762749,
+    8.004597,
+    47.823061
+],
+  "geometry": {"coordinates":[[[[7.944498,47.776262],[7.938576,47.776249],[7.932452,47.77651],[7.930801,47.775158],[7.927988,47.77591],[7.926276,47.773684],[7.923035,47.774696],[7.920954,47.772632],[7.918056,47.772438],[7.915459,47.773644],[7.915336,47.775754],[7.912901,47.7746],[7.909376,47.77671],[7.906732,47.776494],[7.905993,47.774961],[7.905373,47.773674],[7.90191,47.773636],[7.900709,47.772556],[7.899301,47.773175],[7.893062,47.775917],[7.89286,47.775192],[7.892613,47.774809],[7.892262,47.774387],[7.891696,47.773995],[7.891311,47.773699],[7.890407,47.773389],[7.889862,47.774283],[7.889224,47.77533],[7.887267,47.774996],[7.884442,47.776354],[7.88225,47.777537],[7.878012,47.777705],[7.871932,47.779915],[7.871802,47.777322],[7.871151,47.777279],[7.870642,47.777312],[7.870135,47.777569],[7.86939,47.778037],[7.868416,47.778787],[7.867953,47.779216],[7.867766,47.779464],[7.867632,47.779739],[7.867423,47.780157],[7.867289,47.780414],[7.867202,47.780538],[7.866951,47.780739],[7.866186,47.780837],[7.867496,47.785232],[7.867884,47.786535],[7.876107,47.786229],[7.878383,47.787093],[7.879777,47.786722],[7.882097,47.78676],[7.880952,47.788477],[7.882928,47.789702],[7.881019,47.791743],[7.883117,47.790678],[7.885634,47.791035],[7.88844,47.792982],[7.887734,47.795483],[7.886234,47.796607],[7.887186,47.798545],[7.891036,47.799447],[7.897234,47.797572],[7.898997,47.798066],[7.900905,47.79908],[7.899052,47.800122],[7.900697,47.800496],[7.903826,47.800903],[7.906826,47.800578],[7.907571,47.800498],[7.907691,47.798207],[7.910024,47.798506],[7.910404,47.796096],[7.905393,47.792901],[7.906369,47.791697],[7.907217,47.78941],[7.908805,47.788387],[7.90619,47.786742],[7.904702,47.784944],[7.902791,47.784242],[7.903349,47.783518],[7.906144,47.783144],[7.906431,47.782251],[7.906109,47.78076],[7.908476,47.780906],[7.911225,47.779322],[7.913676,47.777909],[7.917558,47.778856],[7.921244,47.779253],[7.924749,47.77974],[7.92588,47.780386],[7.932824,47.781263],[7.937213,47.778987],[7.942571,47.777757],[7.944246,47.777002],[7.944498,47.776262]]],[[[7.944498,47.776262],[7.945242,47.777098],[7.946379,47.778736],[7.947303,47.780069],[7.945488,47.78035],[7.941616,47.78195],[7.940014,47.783782],[7.940588,47.785334],[7.938744,47.787961],[7.938741,47.790596],[7.934335,47.79167],[7.930897,47.793388],[7.929255,47.793394],[7.927048,47.797344],[7.931271,47.799296],[7.935129,47.79695],[7.943493,47.79729],[7.948071,47.793395],[7.947776,47.794467],[7.950109,47.795799],[7.95223,47.794518],[7.953454,47.792523],[7.955668,47.791244],[7.950407,47.790024],[7.948676,47.790208],[7.944805,47.788939],[7.947332,47.787029],[7.947985,47.784716],[7.953211,47.787131],[7.953371,47.789203],[7.956696,47.789937],[7.961063,47.788303],[7.961303,47.787172],[7.961715,47.785225],[7.959698,47.784737],[7.959811,47.78385],[7.963691,47.783104],[7.963371,47.780725],[7.963101,47.778729],[7.960506,47.778726],[7.957805,47.778722],[7.956526,47.779996],[7.954458,47.779993],[7.944498,47.776262]]],[[[7.999651,47.820839],[7.999894,47.820269],[8.000715,47.817743],[8.001092,47.816366],[8.001262,47.814842],[8.00111,47.813094],[7.997803,47.806166],[7.998551,47.800859],[7.998585,47.797011],[8.000998,47.796536],[8.002594,47.796393],[8.004597,47.794505],[8.002525,47.791409],[7.998933,47.790392],[7.994355,47.790143],[7.992246,47.788323],[7.98963,47.787544],[7.98055,47.78597],[7.976999,47.785355],[7.975648,47.786987],[7.978738,47.791294],[7.982857,47.792945],[7.983013,47.795394],[7.983623,47.796002],[7.984512,47.796886],[7.984809,47.797351],[7.985059,47.797689],[7.985391,47.797976],[7.985803,47.798264],[7.986379,47.798484],[7.986999,47.798903],[7.987362,47.7991],[7.987739,47.799316],[7.988817,47.800159],[7.989502,47.800867],[7.989757,47.801098],[7.990026,47.801311],[7.990324,47.801489],[7.990692,47.801614],[7.991285,47.801762],[7.991666,47.801879],[7.992301,47.802253],[7.992625,47.802441],[7.993233,47.802832],[7.993529,47.803046],[7.993785,47.803259],[7.994156,47.803582],[7.994303,47.803837],[7.994329,47.804125],[7.994261,47.804412],[7.994101,47.804669],[7.993736,47.80502],[7.993484,47.805257],[7.993298,47.805496],[7.993332,47.805761],[7.99368,47.806395],[7.993968,47.806761],[7.994195,47.807036],[7.994398,47.807245],[7.995336,47.808213],[7.995879,47.808828],[7.996368,47.809451],[7.997172,47.810458],[7.99756,47.810962],[7.997834,47.811346],[7.998069,47.811729],[7.998276,47.812111],[7.99843,47.812511],[7.998509,47.812791],[7.998575,47.813062],[7.998621,47.813477],[7.998627,47.813891],[7.998605,47.814322],[7.998537,47.814887],[7.998441,47.81546],[7.998224,47.816579],[7.998157,47.816848],[7.998056,47.817268],[7.997855,47.817812],[7.997291,47.819454],[7.996968,47.820561],[7.996416,47.82223],[7.996174,47.823061],[7.999651,47.820839]]],[[[7.966498,47.801262],[7.96103,47.803526],[7.962708,47.807774],[7.965133,47.80917],[7.967079,47.806617],[7.96772,47.804266],[7.971639,47.803314],[7.974561,47.801503],[7.973631,47.799593],[7.972946,47.797841],[7.971292,47.796526],[7.969338,47.793756],[7.970075,47.790554],[7.966899,47.788214],[7.963595,47.789861],[7.960181,47.791564],[7.958628,47.792338],[7.961573,47.792946],[7.960517,47.795583],[7.961365,47.797509],[7.966498,47.801262]]],[[[7.955215,47.772425],[7.954218,47.772731],[7.950174,47.772762],[7.949746,47.775899],[7.952258,47.776345],[7.956135,47.774628],[7.959969,47.775302],[7.960626,47.773141],[7.957105,47.771845],[7.955215,47.772425]]],[[[7.942508,47.774498],[7.944498,47.776262],[7.946704,47.775136],[7.948227,47.774317],[7.94882,47.771336],[7.950511,47.770881],[7.953194,47.771106],[7.95158,47.77034],[7.949248,47.770294],[7.947476,47.771017],[7.946914,47.772353],[7.942508,47.774498]]],[[[7.977029,47.762749],[7.976692,47.764144],[7.974299,47.765042],[7.972468,47.765359],[7.972384,47.765977],[7.975235,47.766565],[7.979107,47.766466],[7.978194,47.763711],[7.977029,47.762749]]],[[[7.962949,47.764778],[7.960581,47.766225],[7.961539,47.767047],[7.966952,47.764215],[7.965757,47.764106],[7.962949,47.764778]]]],"type":"MultiPolygon"}
+}

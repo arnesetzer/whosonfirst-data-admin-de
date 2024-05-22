@@ -1,1 +1,79 @@
-{"id": 1393637567, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "6.87018,49.36068,6.87018,49.36068", "geom:latitude": 49.36068, "geom:longitude": 6.87018, "gn:admin1_code": "9", "gn:admin2_code": "0.0", "gn:admin3_code": "10044.0", "gn:admin4_code": "10044116.0", "gn:asciiname": "Labach", "gn:country_code": "DE", "gn:dem": 232, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2882081, "gn:latitude": 49.36068, "gn:longitude": 6.87018, "gn:modification_date": "2015-09-05", "gn:name": "Labach", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "6.86518,49.35568,6.87518,49.36568", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "src:geom": "geonames", "wof:belongsto": [102191581, 1377693933, 85633111, 101759641, 102063459, 85682479], "wof:breaches": [], "wof:concordances": {"gn:id": 2882081}, "wof:country": "DE", "wof:geomhash": "5843a92a3027cb9244cf47ccadd6111f", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063459, "localadmin_id": 1377693933, "locality_id": 101759641, "neighbourhood_id": 1393637567, "region_id": 85682479}], "wof:id": 1393637567, "wof:lastmodified": 1566714149, "wof:name": "Labach", "wof:parent_id": 101759641, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1243063353], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [6.87018, 49.36068, 6.87018, 49.36068], "geometry": {"coordinates": [6.87018, 49.36068], "type": "Point"}}
+{
+  "id": 1393637567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.87018,49.36068,6.87018,49.36068",
+    "geom:latitude":49.36068,
+    "geom:longitude":6.87018,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"10044.0",
+    "gn:admin4_code":"10044116.0",
+    "gn:asciiname":"Labach",
+    "gn:country_code":"DE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2882081,
+    "gn:latitude":49.36068,
+    "gn:longitude":6.87018,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Labach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"6.86518,49.35568,6.87518,49.36568",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377693933,
+        85633111,
+        101759641,
+        102063459,
+        85682479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2882081
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"5843a92a3027cb9244cf47ccadd6111f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063459,
+            "localadmin_id":1377693933,
+            "locality_id":101759641,
+            "neighbourhood_id":1393637567,
+            "region_id":85682479
+        }
+    ],
+    "wof:id":1393637567,
+    "wof:lastmodified":1566714149,
+    "wof:name":"Labach",
+    "wof:parent_id":101759641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243063353
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.87018,
+    49.36068,
+    6.87018,
+    49.36068
+],
+  "geometry": {"coordinates":[6.87018,49.36068],"type":"Point"}
+}

@@ -1,1 +1,108 @@
-{"id": 102549475, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "10.183847,52.919372,10.183847,52.919372", "geom:latitude": 52.919372, "geom:longitude": 10.183847, "iso:country": "DE", "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 13.0, "name:ceb_x_preferred": ["Fa\u00dfberg Air Base"], "name:deu_x_preferred": ["Heeresflugplatz Fa\u00dfberg"], "name:deu_x_variant": ["Fliegerhorst Fa\u00dfberg"], "name:eng_x_preferred": ["Fa\u00dfberg Air Base"], "name:eng_x_variant": ["ETHS"], "name:fas_x_preferred": ["\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0641\u0627\u0633\u0628\u0631\u06af"], "name:jpn_x_preferred": ["\u30d5\u30a1\u30b9\u30d9\u30eb\u30af\u9678\u8ecd\u98db\u884c\u5834"], "name:msa_x_preferred": ["Lapangan Terbang Fassberg Army"], "name:por_x_preferred": ["Base a\u00e9rea de Fa\u00dfberg"], "name:tgk_x_preferred": ["\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0424\u0430\u0441\u0441\u0431\u0435\u0440\u0433"], "name:zho_x_preferred": ["\u6cd5\u65af\u8d1d\u683c\u7a7a\u519b\u57fa\u5730"], "oa:elevation_ft": "245", "oa:type": "medium_airport", "src:geom": "wikidata", "src:geom_alt": [], "woe:hierarchy": {"country_id": 23424829, "county_id": 12596807, "localadmin_id": 12629604, "planet_id": 1, "state_id": 2345486}, "wof:belongsto": [102191581, 1377687119, 85633111, 101807887, 102063959, 85682555], "wof:breaches": [], "wof:concordances": {"gp:id": 12513091, "icao:code": "ETHS", "oa:id": "2729", "wd:id": "Q830708"}, "wof:country": "DE", "wof:geomhash": "a417d77e137d76937b3e88746bf457c3", "wof:hierarchy": [{"campus_id": 102549475, "continent_id": 102191581, "country_id": 85633111, "county_id": 102063959, "localadmin_id": 1377687119, "locality_id": 101807887, "neighbourhood_id": -1, "region_id": 85682555}], "wof:id": 102549475, "wof:lastmodified": 1690871093, "wof:name": "Fassberg Airport", "wof:parent_id": 101807887, "wof:placetype": "campus", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": ["airport"], "wof:lang_x_official": ["deu"]}, "bbox": [10.183847, 52.919372, 10.183847, 52.919372], "geometry": {"coordinates": [10.183847, 52.919372], "type": "Point"}}
+{
+  "id": 102549475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.183847,52.919372,10.183847,52.919372",
+    "geom:latitude":52.919372,
+    "geom:longitude":10.183847,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Fa\u00dfberg Air Base"
+    ],
+    "name:deu_x_preferred":[
+        "Heeresflugplatz Fa\u00dfberg"
+    ],
+    "name:deu_x_variant":[
+        "Fliegerhorst Fa\u00dfberg"
+    ],
+    "name:eng_x_preferred":[
+        "Fa\u00dfberg Air Base"
+    ],
+    "name:eng_x_variant":[
+        "ETHS"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0641\u0627\u0633\u0628\u0631\u06af"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30b9\u30d9\u30eb\u30af\u9678\u8ecd\u98db\u884c\u5834"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Fassberg Army"
+    ],
+    "name:por_x_preferred":[
+        "Base a\u00e9rea de Fa\u00dfberg"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0424\u0430\u0441\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u65af\u8d1d\u683c\u7a7a\u519b\u57fa\u5730"
+    ],
+    "oa:elevation_ft":"245",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596807,
+        "localadmin_id":12629604,
+        "planet_id":1,
+        "state_id":2345486
+    },
+    "wof:belongsto":[
+        102191581,
+        1377687119,
+        85633111,
+        101807887,
+        102063959,
+        85682555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513091,
+        "icao:code":"ETHS",
+        "oa:id":"2729",
+        "wd:id":"Q830708"
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"a417d77e137d76937b3e88746bf457c3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549475,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063959,
+            "localadmin_id":1377687119,
+            "locality_id":101807887,
+            "neighbourhood_id":-1,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":102549475,
+    "wof:lastmodified":1690871093,
+    "wof:name":"Fassberg Airport",
+    "wof:parent_id":101807887,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.183847,
+    52.919372,
+    10.183847,
+    52.919372
+],
+  "geometry": {"coordinates":[10.183847,52.919372],"type":"Point"}
+}

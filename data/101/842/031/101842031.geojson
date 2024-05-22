@@ -1,1 +1,410 @@
-{"id": 101842031, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08337097", "eurostat:level_code": "lau", "eurostat:name_local": "St. Blasien, Stadt", "eurostat:nuts_2021_id": "08337097", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE13A", "eurostat:nuts_2021_level_lau": "08337097", "eurostat:population": 3984, "eurostat:population_year": 2020, "geom:area": 0.006545, "geom:area_square_m": 54376061.039335, "geom:bbox": "8.023436,47.669671,8.157897,47.858487", "geom:latitude": 47.786195, "geom:longitude": 8.097232, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 3897, "iso:country": "DE", "lbl:latitude": 47.761617, "lbl:longitude": 8.126446, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 47.761617, "mps:longitude": 8.126446, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["St. Blasien"], "name:als_x_preferred": ["St. Blasien"], "name:ara_x_preferred": ["\u0632\u0627\u0646\u0643\u062a \u0628\u0644\u0627\u0632\u064a\u0646"], "name:arg_x_preferred": ["St. Blasien"], "name:ast_x_preferred": ["St. Blasien"], "name:azb_x_preferred": ["\u0633\u0646\u062a \u0628\u0644\u0627\u0632\u06cc\u0646"], "name:bar_x_preferred": ["St. Blasien"], "name:bre_x_preferred": ["St. Blasien"], "name:cat_x_preferred": ["St. Blasien"], "name:ceb_x_preferred": ["Sankt Blasien"], "name:ces_x_preferred": ["St. Blasien"], "name:che_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0411\u043b\u0430\u0437\u0438\u0435\u043d"], "name:cos_x_preferred": ["St. Blasien"], "name:cym_x_preferred": ["St. Blasien"], "name:dan_x_preferred": ["St. Blasien"], "name:deu_x_preferred": ["St. Blasien"], "name:deu_x_variant": ["Sankt Blasien"], "name:eng_x_preferred": ["Saint Blasien"], "name:eng_x_variant": ["St. Blasien"], "name:epo_x_preferred": ["St. Blasien"], "name:est_x_preferred": ["St. Blasien"], "name:eus_x_preferred": ["St. Blasien"], "name:fas_x_preferred": ["\u0633\u0646\u062a \u0628\u0644\u0627\u0632\u06cc\u0646"], "name:fin_x_preferred": ["St. Blasien"], "name:fra_x_preferred": ["St. Blasien"], "name:frp_x_preferred": ["St. Blasien"], "name:fur_x_preferred": ["St. Blasien"], "name:gla_x_preferred": ["St. Blasien"], "name:gle_x_preferred": ["St. Blasien"], "name:glg_x_preferred": ["St. Blasien"], "name:gsw_x_preferred": ["St. Bl\u00e4si"], "name:hbs_x_preferred": ["St. Blasien"], "name:hrv_x_preferred": ["St. Blasien"], "name:hun_x_preferred": ["St. Blasien"], "name:ido_x_preferred": ["St. Blasien"], "name:ile_x_preferred": ["St. Blasien"], "name:ina_x_preferred": ["St. Blasien"], "name:ind_x_preferred": ["St. Blasien"], "name:isl_x_preferred": ["St. Blasien"], "name:ita_x_preferred": ["St. Blasien"], "name:jpn_x_preferred": ["\u30b6\u30f3\u30af\u30c8\u30fb\u30d6\u30e9\u30b8\u30fc\u30f3"], "name:kon_x_preferred": ["St. Blasien"], "name:kur_x_preferred": ["St. Blasien"], "name:lat_x_preferred": ["Sankt Blasien"], "name:lij_x_preferred": ["St. Blasien"], "name:lim_x_preferred": ["St. Blasien"], "name:lld_x_preferred": ["St. Blasien"], "name:lmo_x_preferred": ["St. Blasien"], "name:ltz_x_preferred": ["St. Blasien"], "name:min_x_preferred": ["St. Blasien"], "name:mlg_x_preferred": ["St. Blasien"], "name:msa_x_preferred": ["St. Blasien"], "name:nap_x_preferred": ["St. Blasien"], "name:nds_x_preferred": ["St. Blasien"], "name:nld_x_preferred": ["St. Blasien"], "name:nno_x_preferred": ["St. Blasien"], "name:nob_x_preferred": ["St. Blasien"], "name:nrm_x_preferred": ["St. Blasien"], "name:oci_x_preferred": ["St. Blasien"], "name:pcd_x_preferred": ["St. Blasien"], "name:pms_x_preferred": ["St. Blasien"], "name:pol_x_preferred": ["St. Blasien"], "name:por_x_preferred": ["St. Blasien"], "name:roh_x_preferred": ["St. Blasien"], "name:ron_x_preferred": ["St. Blasien"], "name:rus_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0411\u043b\u0430\u0437\u0438\u0435\u043d"], "name:scn_x_preferred": ["St. Blasien"], "name:sco_x_preferred": ["St. Blasien"], "name:slk_x_preferred": ["St. Blasien"], "name:slv_x_preferred": ["St. Blasien"], "name:spa_x_preferred": ["St. Blasien"], "name:spa_x_variant": ["San Blasien", "Sankt Blasien"], "name:srd_x_preferred": ["St. Blasien"], "name:srp_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u0411\u043b\u0430\u0441\u0438\u043d"], "name:swa_x_preferred": ["St. Blasien"], "name:swe_x_preferred": ["Sankt Blasien"], "name:tat_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0411\u043b\u0430\u0437\u0438\u0435\u043d"], "name:tur_x_preferred": ["St. Blasien"], "name:ukr_x_preferred": ["\u0417\u0430\u043d\u043a\u0442-\u0411\u043b\u0430\u0437\u0456\u043d"], "name:vec_x_preferred": ["St. Blasien"], "name:vie_x_preferred": ["St. Blasien"], "name:vls_x_preferred": ["St. Blasien"], "name:vol_x_preferred": ["St. Blasien"], "name:war_x_preferred": ["Sankt Blasien"], "name:wln_x_preferred": ["St. Blasien"], "name:wol_x_preferred": ["St. Blasien"], "name:zho_x_preferred": ["\u5723\u5e03\u62c9\u8f9b"], "name:zul_x_preferred": ["St. Blasien"], "nav:latitude": 47.761617, "nav:longitude": 8.126446, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Waldshut", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "St. Blasien", "qs:la_lc": "*DE08303706097", "qs:level": "locality", "qs:loc": "St. Blasien", "qs:loc_alt": "St. Blasien", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-near-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558150, "qs_pg:gn_pop": 3897, "qs_pg:name": "St. Blasien, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 20, "qs_pg:photos_1k": 4, "qs_pg:photos_9k": 3, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 715, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 638172, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623601, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 47.761944, "wd:longitude": 8.128333, "wd:wordcount": 87, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689857, 404227543, 102063207], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08337097", "eurostat:nuts_2021_id": "08337097", "gn:id": 2841643, "gp:id": 696001, "qs_pg:id": 906760, "wd:id": "Q145008", "wk:page": "Sankt Blasien"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "5f5696bb1ed1248a707b0c762f382fa5", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063207, "localadmin_id": 1377689857, "locality_id": 101842031, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101842031, "wof:lastmodified": 1690872146, "wof:name": "St. Blasien", "wof:parent_id": 1377689857, "wof:placetype": "locality", "wof:population": 3984, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125342977, 1125310439], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.023436, 47.669671, 8.157897, 47.858487], "geometry": {"coordinates": [[[[8.07939, 47.848102], [8.080402, 47.844618], [8.079829, 47.843499], [8.080633, 47.84099], [8.082723, 47.839499], [8.085047, 47.83866], [8.086153, 47.838181], [8.086757, 47.836198], [8.086189, 47.833613], [8.085418, 47.831061], [8.087657, 47.827189], [8.08883, 47.824077], [8.08969, 47.821776], [8.094096, 47.818196], [8.093526, 47.814829], [8.09711, 47.811122], [8.096962, 47.809483], [8.099686, 47.806719], [8.098913, 47.805308], [8.102713, 47.805392], [8.106929, 47.805988], [8.11703, 47.804105], [8.120576, 47.80197], [8.124566, 47.801985], [8.122884, 47.794506], [8.122418, 47.79362], [8.114794, 47.793455], [8.116132, 47.791982], [8.117455, 47.790276], [8.119378, 47.789419], [8.120644, 47.78834], [8.123452, 47.790712], [8.12989, 47.792246], [8.134482, 47.788211], [8.134861, 47.785386], [8.136946, 47.785714], [8.14336, 47.786226], [8.145921, 47.786506], [8.147866, 47.783203], [8.151024, 47.77793], [8.153294, 47.773951], [8.154447, 47.772708], [8.156692, 47.770634], [8.157897, 47.769977], [8.156891, 47.768121], [8.154373, 47.767221], [8.152834, 47.763664], [8.150584, 47.763031], [8.148647, 47.762809], [8.14758, 47.761132], [8.153573, 47.757071], [8.152839, 47.754825], [8.153272, 47.753535], [8.153833, 47.751862], [8.153779, 47.750666], [8.153684, 47.748532], [8.154263, 47.747555], [8.150994, 47.746208], [8.146019, 47.733926], [8.146302, 47.72852], [8.148168, 47.729351], [8.147738, 47.728578], [8.143147, 47.723965], [8.140547, 47.723144], [8.138912, 47.720555], [8.133704, 47.719121], [8.131102, 47.714739], [8.136193, 47.71218], [8.133675, 47.710228], [8.135607, 47.707977], [8.134408, 47.704076], [8.131758, 47.704612], [8.12923, 47.702615], [8.13177, 47.696277], [8.130063, 47.696042], [8.129958, 47.692399], [8.126968, 47.689205], [8.12834, 47.685], [8.12751, 47.682869], [8.129489, 47.682966], [8.12924, 47.68234], [8.129204, 47.682249], [8.128658, 47.680853], [8.125572, 47.680237], [8.124988, 47.677698], [8.117875, 47.674459], [8.117258, 47.670399], [8.116959, 47.670249], [8.116015, 47.669671], [8.112326, 47.669716], [8.112753, 47.669968], [8.113348, 47.670323], [8.11412, 47.67087], [8.114588, 47.671393], [8.114779, 47.672116], [8.114822, 47.673439], [8.114857, 47.674105], [8.115138, 47.674893], [8.115445, 47.67543], [8.11617, 47.675869], [8.116788, 47.676296], [8.117317, 47.676649], [8.11469, 47.679514], [8.117908, 47.684592], [8.117279, 47.688534], [8.117541, 47.691121], [8.11616, 47.694084], [8.117314, 47.695845], [8.117098, 47.697567], [8.118379, 47.697532], [8.118106, 47.69989], [8.116003, 47.699844], [8.116031, 47.701499], [8.11471, 47.707638], [8.108541, 47.710434], [8.106244, 47.710276], [8.103265, 47.711262], [8.1036, 47.713158], [8.103193, 47.714147], [8.104717, 47.71623], [8.107335, 47.718023], [8.109992, 47.716814], [8.113505, 47.71663], [8.114822, 47.71861], [8.115968, 47.722205], [8.120768, 47.723263], [8.123408, 47.725163], [8.125152, 47.724087], [8.12805, 47.723961], [8.129817, 47.722111], [8.134028, 47.722661], [8.134257, 47.724285], [8.135558, 47.726066], [8.140308, 47.730422], [8.142778, 47.72892], [8.142895, 47.729255], [8.143296, 47.730361], [8.143329, 47.730784], [8.143218, 47.731168], [8.142849, 47.731637], [8.14244, 47.732114], [8.142091, 47.732439], [8.142047, 47.732806], [8.14201, 47.733588], [8.142295, 47.735158], [8.142917, 47.736646], [8.143554, 47.737838], [8.143868, 47.738519], [8.144038, 47.739152], [8.143958, 47.739699], [8.143775, 47.740477], [8.143665, 47.741095], [8.143676, 47.741159], [8.143762, 47.741592], [8.143809, 47.74171], [8.144593, 47.743174], [8.14511, 47.744067], [8.145422, 47.745368], [8.145978, 47.746576], [8.143772, 47.747823], [8.140961, 47.746674], [8.139112, 47.747704], [8.138826, 47.749793], [8.128629, 47.751981], [8.124291, 47.75124], [8.11972, 47.752587], [8.111995, 47.747986], [8.106747, 47.748725], [8.104222, 47.746349], [8.099898, 47.752216], [8.103096, 47.752538], [8.101451, 47.755118], [8.084763, 47.76349], [8.080777, 47.764552], [8.076722, 47.76484], [8.072932, 47.768703], [8.079233, 47.769131], [8.081518, 47.773416], [8.08552, 47.778334], [8.085827, 47.778708], [8.085209, 47.778539], [8.084617, 47.778526], [8.084182, 47.778649], [8.083808, 47.778885], [8.083657, 47.779282], [8.083643, 47.77957], [8.083593, 47.779924], [8.083385, 47.780142], [8.082981, 47.78031], [8.082476, 47.780543], [8.082167, 47.780803], [8.081951, 47.781176], [8.081867, 47.781841], [8.081387, 47.783273], [8.081134, 47.783733], [8.080829, 47.783904], [8.080429, 47.784006], [8.0798, 47.784059], [8.079539, 47.784009], [8.079282, 47.78387], [8.079057, 47.783754], [8.078699, 47.783679], [8.078303, 47.783637], [8.078174, 47.783623], [8.077012, 47.783729], [8.076327, 47.783822], [8.075843, 47.783901], [8.075319, 47.78424], [8.074928, 47.7846], [8.075113, 47.785719], [8.079603, 47.785855], [8.083788, 47.783692], [8.086019, 47.783285], [8.088089, 47.783651], [8.091205, 47.782137], [8.094173, 47.782275], [8.09687, 47.783602], [8.096432, 47.784105], [8.095727, 47.784898], [8.09493, 47.785915], [8.094431, 47.786569], [8.094055, 47.786894], [8.09355, 47.787143], [8.093089, 47.787286], [8.092414, 47.787442], [8.091636, 47.787803], [8.090418, 47.788441], [8.089813, 47.788814], [8.089283, 47.789009], [8.088734, 47.789042], [8.088148, 47.789011], [8.087608, 47.789152], [8.087209, 47.789404], [8.086758, 47.789898], [8.086012, 47.790412], [8.085114, 47.790778], [8.084123, 47.791125], [8.083391, 47.791343], [8.083102, 47.791525], [8.082876, 47.791781], [8.082483, 47.792456], [8.081134, 47.793751], [8.079132, 47.795858], [8.072339, 47.799595], [8.072053, 47.801063], [8.068707, 47.804801], [8.060512, 47.808854], [8.055145, 47.812654], [8.053919, 47.815363], [8.052942, 47.818189], [8.051819, 47.819528], [8.048502, 47.81803], [8.046605, 47.818076], [8.040354, 47.822321], [8.03886, 47.824985], [8.038107, 47.828574], [8.041821, 47.830699], [8.036741, 47.831879], [8.029857, 47.836283], [8.027827, 47.836282], [8.024838, 47.839973], [8.023436, 47.84343], [8.025514, 47.845141], [8.027236, 47.845711], [8.028056, 47.850405], [8.033433, 47.851411], [8.0348, 47.852429], [8.042335, 47.852663], [8.042861, 47.852724], [8.043286, 47.852863], [8.043704, 47.853163], [8.043872, 47.854138], [8.043171, 47.855162], [8.051622, 47.856629], [8.053081, 47.857198], [8.055584, 47.858238], [8.05753, 47.858487], [8.058589, 47.857314], [8.062223, 47.857073], [8.064182, 47.857457], [8.067157, 47.857352], [8.06716, 47.856705], [8.067761, 47.855424], [8.070362, 47.855444], [8.071571, 47.854995], [8.070919, 47.854467], [8.071262, 47.853237], [8.074596, 47.854057], [8.07685, 47.851148], [8.075286, 47.85061], [8.077041, 47.848338], [8.07939, 47.848102]]]], "type": "MultiPolygon"}}
+{
+  "id": 101842031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08337097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Blasien, Stadt",
+    "eurostat:nuts_2021_id":"08337097",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE13A",
+    "eurostat:nuts_2021_level_lau":"08337097",
+    "eurostat:population":3984,
+    "eurostat:population_year":2020,
+    "geom:area":0.006545,
+    "geom:area_square_m":54376061.039335,
+    "geom:bbox":"8.023436,47.669671,8.157897,47.858487",
+    "geom:latitude":47.786195,
+    "geom:longitude":8.097232,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":3897,
+    "iso:country":"DE",
+    "lbl:latitude":47.761617,
+    "lbl:longitude":8.126446,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":47.761617,
+    "mps:longitude":8.126446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:als_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0646\u0643\u062a \u0628\u0644\u0627\u0632\u064a\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ast_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0646\u062a \u0628\u0644\u0627\u0632\u06cc\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:bre_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:cat_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ceb_x_preferred":[
+        "Sankt Blasien"
+    ],
+    "name:ces_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u043b\u0430\u0437\u0438\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:cym_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:dan_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:deu_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:deu_x_variant":[
+        "Sankt Blasien"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Blasien"
+    ],
+    "name:eng_x_variant":[
+        "St. Blasien"
+    ],
+    "name:epo_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:est_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:eus_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u0628\u0644\u0627\u0632\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:fra_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:frp_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:fur_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:gla_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:gle_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:glg_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:gsw_x_preferred":[
+        "St. Bl\u00e4si"
+    ],
+    "name:hbs_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:hrv_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:hun_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ido_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ile_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ina_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ind_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:isl_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ita_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30f3\u30af\u30c8\u30fb\u30d6\u30e9\u30b8\u30fc\u30f3"
+    ],
+    "name:kon_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:kur_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:lat_x_preferred":[
+        "Sankt Blasien"
+    ],
+    "name:lij_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:lim_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:lld_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:lmo_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ltz_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:min_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:mlg_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:msa_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:nap_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:nds_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:nld_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:nno_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:nob_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:nrm_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:oci_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:pcd_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:pms_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:pol_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:por_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:roh_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ron_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u043b\u0430\u0437\u0438\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:sco_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:slk_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:slv_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:spa_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:spa_x_variant":[
+        "San Blasien",
+        "Sankt Blasien"
+    ],
+    "name:srd_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0411\u043b\u0430\u0441\u0438\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:swe_x_preferred":[
+        "Sankt Blasien"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u043b\u0430\u0437\u0438\u0435\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0442-\u0411\u043b\u0430\u0437\u0456\u043d"
+    ],
+    "name:vec_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:vie_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:vls_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:vol_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:war_x_preferred":[
+        "Sankt Blasien"
+    ],
+    "name:wln_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:wol_x_preferred":[
+        "St. Blasien"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5e03\u62c9\u8f9b"
+    ],
+    "name:zul_x_preferred":[
+        "St. Blasien"
+    ],
+    "nav:latitude":47.761617,
+    "nav:longitude":8.126446,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Waldshut",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"St. Blasien",
+    "qs:la_lc":"*DE08303706097",
+    "qs:level":"locality",
+    "qs:loc":"St. Blasien",
+    "qs:loc_alt":"St. Blasien",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558150,
+    "qs_pg:gn_pop":3897,
+    "qs_pg:name":"St. Blasien, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":715,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":638172,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623601,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":47.761944,
+    "wd:longitude":8.128333,
+    "wd:wordcount":87,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689857,
+        404227543,
+        102063207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08337097",
+        "eurostat:nuts_2021_id":"08337097",
+        "gn:id":2841643,
+        "gp:id":696001,
+        "qs_pg:id":906760,
+        "wd:id":"Q145008",
+        "wk:page":"Sankt Blasien"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"5f5696bb1ed1248a707b0c762f382fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063207,
+            "localadmin_id":1377689857,
+            "locality_id":101842031,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101842031,
+    "wof:lastmodified":1690872146,
+    "wof:name":"St. Blasien",
+    "wof:parent_id":1377689857,
+    "wof:placetype":"locality",
+    "wof:population":3984,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125342977,
+        1125310439
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.023436,
+    47.669671,
+    8.157897,
+    47.858487
+],
+  "geometry": {"coordinates":[[[[8.07939,47.848102],[8.080402,47.844618],[8.079829,47.843499],[8.080633,47.84099],[8.082723,47.839499],[8.085047,47.83866],[8.086153,47.838181],[8.086757,47.836198],[8.086189,47.833613],[8.085418,47.831061],[8.087657,47.827189],[8.08883,47.824077],[8.08969,47.821776],[8.094096,47.818196],[8.093526,47.814829],[8.09711,47.811122],[8.096962,47.809483],[8.099686,47.806719],[8.098913,47.805308],[8.102713,47.805392],[8.106929,47.805988],[8.11703,47.804105],[8.120576,47.80197],[8.124566,47.801985],[8.122884,47.794506],[8.122418,47.79362],[8.114794,47.793455],[8.116132,47.791982],[8.117455,47.790276],[8.119378,47.789419],[8.120644,47.78834],[8.123452,47.790712],[8.12989,47.792246],[8.134482,47.788211],[8.134861,47.785386],[8.136946,47.785714],[8.14336,47.786226],[8.145921,47.786506],[8.147866,47.783203],[8.151024,47.77793],[8.153294,47.773951],[8.154447,47.772708],[8.156692,47.770634],[8.157897,47.769977],[8.156891,47.768121],[8.154373,47.767221],[8.152834,47.763664],[8.150584,47.763031],[8.148647,47.762809],[8.14758,47.761132],[8.153573,47.757071],[8.152839,47.754825],[8.153272,47.753535],[8.153833,47.751862],[8.153779,47.750666],[8.153684,47.748532],[8.154263,47.747555],[8.150994,47.746208],[8.146019,47.733926],[8.146302,47.72852],[8.148168,47.729351],[8.147738,47.728578],[8.143147,47.723965],[8.140547,47.723144],[8.138912,47.720555],[8.133704,47.719121],[8.131102,47.714739],[8.136193,47.71218],[8.133675,47.710228],[8.135607,47.707977],[8.134408,47.704076],[8.131758,47.704612],[8.12923,47.702615],[8.13177,47.696277],[8.130063,47.696042],[8.129958,47.692399],[8.126968,47.689205],[8.12834,47.685],[8.12751,47.682869],[8.129489,47.682966],[8.12924,47.68234],[8.129204,47.682249],[8.128658,47.680853],[8.125572,47.680237],[8.124988,47.677698],[8.117875,47.674459],[8.117258,47.670399],[8.116959,47.670249],[8.116015,47.669671],[8.112326,47.669716],[8.112753,47.669968],[8.113348,47.670323],[8.11412,47.67087],[8.114588,47.671393],[8.114779,47.672116],[8.114822,47.673439],[8.114857,47.674105],[8.115138,47.674893],[8.115445,47.67543],[8.11617,47.675869],[8.116788,47.676296],[8.117317,47.676649],[8.11469,47.679514],[8.117908,47.684592],[8.117279,47.688534],[8.117541,47.691121],[8.11616,47.694084],[8.117314,47.695845],[8.117098,47.697567],[8.118379,47.697532],[8.118106,47.69989],[8.116003,47.699844],[8.116031,47.701499],[8.11471,47.707638],[8.108541,47.710434],[8.106244,47.710276],[8.103265,47.711262],[8.1036,47.713158],[8.103193,47.714147],[8.104717,47.71623],[8.107335,47.718023],[8.109992,47.716814],[8.113505,47.71663],[8.114822,47.71861],[8.115968,47.722205],[8.120768,47.723263],[8.123408,47.725163],[8.125152,47.724087],[8.12805,47.723961],[8.129817,47.722111],[8.134028,47.722661],[8.134257,47.724285],[8.135558,47.726066],[8.140308,47.730422],[8.142778,47.72892],[8.142895,47.729255],[8.143296,47.730361],[8.143329,47.730784],[8.143218,47.731168],[8.142849,47.731637],[8.14244,47.732114],[8.142091,47.732439],[8.142047,47.732806],[8.14201,47.733588],[8.142295,47.735158],[8.142917,47.736646],[8.143554,47.737838],[8.143868,47.738519],[8.144038,47.739152],[8.143958,47.739699],[8.143775,47.740477],[8.143665,47.741095],[8.143676,47.741159],[8.143762,47.741592],[8.143809,47.74171],[8.144593,47.743174],[8.14511,47.744067],[8.145422,47.745368],[8.145978,47.746576],[8.143772,47.747823],[8.140961,47.746674],[8.139112,47.747704],[8.138826,47.749793],[8.128629,47.751981],[8.124291,47.75124],[8.11972,47.752587],[8.111995,47.747986],[8.106747,47.748725],[8.104222,47.746349],[8.099898,47.752216],[8.103096,47.752538],[8.101451,47.755118],[8.084763,47.76349],[8.080777,47.764552],[8.076722,47.76484],[8.072932,47.768703],[8.079233,47.769131],[8.081518,47.773416],[8.08552,47.778334],[8.085827,47.778708],[8.085209,47.778539],[8.084617,47.778526],[8.084182,47.778649],[8.083808,47.778885],[8.083657,47.779282],[8.083643,47.77957],[8.083593,47.779924],[8.083385,47.780142],[8.082981,47.78031],[8.082476,47.780543],[8.082167,47.780803],[8.081951,47.781176],[8.081867,47.781841],[8.081387,47.783273],[8.081134,47.783733],[8.080829,47.783904],[8.080429,47.784006],[8.0798,47.784059],[8.079539,47.784009],[8.079282,47.78387],[8.079057,47.783754],[8.078699,47.783679],[8.078303,47.783637],[8.078174,47.783623],[8.077012,47.783729],[8.076327,47.783822],[8.075843,47.783901],[8.075319,47.78424],[8.074928,47.7846],[8.075113,47.785719],[8.079603,47.785855],[8.083788,47.783692],[8.086019,47.783285],[8.088089,47.783651],[8.091205,47.782137],[8.094173,47.782275],[8.09687,47.783602],[8.096432,47.784105],[8.095727,47.784898],[8.09493,47.785915],[8.094431,47.786569],[8.094055,47.786894],[8.09355,47.787143],[8.093089,47.787286],[8.092414,47.787442],[8.091636,47.787803],[8.090418,47.788441],[8.089813,47.788814],[8.089283,47.789009],[8.088734,47.789042],[8.088148,47.789011],[8.087608,47.789152],[8.087209,47.789404],[8.086758,47.789898],[8.086012,47.790412],[8.085114,47.790778],[8.084123,47.791125],[8.083391,47.791343],[8.083102,47.791525],[8.082876,47.791781],[8.082483,47.792456],[8.081134,47.793751],[8.079132,47.795858],[8.072339,47.799595],[8.072053,47.801063],[8.068707,47.804801],[8.060512,47.808854],[8.055145,47.812654],[8.053919,47.815363],[8.052942,47.818189],[8.051819,47.819528],[8.048502,47.81803],[8.046605,47.818076],[8.040354,47.822321],[8.03886,47.824985],[8.038107,47.828574],[8.041821,47.830699],[8.036741,47.831879],[8.029857,47.836283],[8.027827,47.836282],[8.024838,47.839973],[8.023436,47.84343],[8.025514,47.845141],[8.027236,47.845711],[8.028056,47.850405],[8.033433,47.851411],[8.0348,47.852429],[8.042335,47.852663],[8.042861,47.852724],[8.043286,47.852863],[8.043704,47.853163],[8.043872,47.854138],[8.043171,47.855162],[8.051622,47.856629],[8.053081,47.857198],[8.055584,47.858238],[8.05753,47.858487],[8.058589,47.857314],[8.062223,47.857073],[8.064182,47.857457],[8.067157,47.857352],[8.06716,47.856705],[8.067761,47.855424],[8.070362,47.855444],[8.071571,47.854995],[8.070919,47.854467],[8.071262,47.853237],[8.074596,47.854057],[8.07685,47.851148],[8.075286,47.85061],[8.077041,47.848338],[8.07939,47.848102]]]],"type":"MultiPolygon"}
+}

@@ -1,1 +1,149 @@
-{"id": 101841353, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.000145, "geom:area_square_m": 1130089.915139, "geom:bbox": "14.550807,51.007896,14.573413,51.035189", "geom:latitude": 51.022885, "geom:longitude": 14.562582, "gn:population": 1512, "iso:country": "DE", "lbl:latitude": 51.025475, "lbl:longitude": 14.560527, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 51.025475, "mps:longitude": 14.560527, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:ceb_x_preferred": ["Friedersdorf"], "name:ces_x_preferred": ["Friedersdorf"], "name:che_x_preferred": ["\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:deu_x_preferred": ["Friedersdorf"], "name:eng_x_preferred": ["Friedersdorf"], "name:epo_x_preferred": ["Friedersdorf"], "name:est_x_preferred": ["Friedersdorfi vald"], "name:fas_x_preferred": ["\u0641\u0631\u06cc\u062f\u0631\u0633\u062f\u0648\u0631\u0641"], "name:fra_x_preferred": ["Friedersdorf"], "name:gle_x_preferred": ["Friedersdorf"], "name:hsb_x_preferred": ["Friedersdorf"], "name:kaz_x_preferred": ["\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:kir_x_preferred": ["\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:nld_x_preferred": ["Friedersdorf"], "name:ron_x_preferred": ["Friedersdorf"], "name:rus_x_preferred": ["\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:tat_x_preferred": ["\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"], "name:uzb_x_preferred": ["Friedersdorf"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen", "qs:a1r": "0", "qs:a2": "G\u00f6rlitz", "qs:a2r": "Dresden", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Eibau", "qs:la_lc": "*DE14208600090", "qs:level": "locality", "qs:loc_alt": "Friedersdorf", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "ambiguous localadmin", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 24, "wof:belongsto": [85682523, 102191581, 1377687161, 85633111, 102064233], "wof:breaches": [], "wof:concordances": {"gn:id": 2924722, "gp:id": 650690, "qs_pg:id": 351409, "wd:id": "Q702829", "wk:page": "Friedersdorf, Saxony"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "76e74da05aa160524a78bb6e5a249ee4", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064233, "localadmin_id": 1377687161, "locality_id": 101841353, "region_id": 85682523}], "wof:id": 101841353, "wof:lastmodified": 1690873008, "wof:name": "", "wof:parent_id": 1377687161, "wof:placetype": "locality", "wof:population": 1512, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [14.550807, 51.007896, 14.573413, 51.035189], "geometry": {"coordinates": [[[14.573413, 51.018214], [14.569397, 51.011474], [14.566089, 51.0104], [14.562917, 51.010525], [14.562799, 51.009332], [14.558374, 51.007896], [14.558473, 51.008899], [14.559895, 51.008843], [14.559983, 51.00974], [14.561406, 51.009684], [14.561583, 51.011478], [14.56585, 51.01131], [14.565939, 51.012207], [14.567361, 51.012151], [14.567715, 51.015738], [14.566293, 51.015794], [14.566381, 51.016691], [14.564958, 51.016747], [14.565312, 51.020335], [14.563889, 51.020391], [14.563978, 51.021288], [14.562555, 51.021344], [14.562643, 51.022241], [14.559798, 51.022353], [14.559886, 51.02325], [14.558463, 51.023306], [14.558551, 51.024203], [14.557128, 51.024259], [14.557305, 51.026052], [14.555882, 51.026108], [14.55597, 51.027005], [14.554547, 51.027061], [14.5549, 51.030649], [14.553477, 51.030705], [14.553654, 51.032498], [14.550807, 51.03261], [14.550896, 51.033507], [14.552319, 51.033451], [14.552407, 51.034348], [14.55383, 51.034292], [14.553919, 51.035189], [14.558189, 51.035021], [14.557923, 51.032331], [14.559347, 51.032275], [14.558993, 51.028687], [14.561839, 51.028575], [14.561751, 51.027678], [14.563174, 51.027622], [14.562909, 51.024931], [14.567178, 51.024763], [14.566824, 51.021176], [14.569669, 51.021063], [14.569492, 51.01927], [14.572338, 51.019157], [14.572249, 51.01826], [14.573413, 51.018214]]], "type": "Polygon"}}
+{
+  "id": 101841353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1130089.915139,
+    "geom:bbox":"14.550807,51.007896,14.573413,51.035189",
+    "geom:latitude":51.022885,
+    "geom:longitude":14.562582,
+    "gn:population":1512,
+    "iso:country":"DE",
+    "lbl:latitude":51.025475,
+    "lbl:longitude":14.560527,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":51.025475,
+    "mps:longitude":14.560527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:ces_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:deu_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:eng_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:epo_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:est_x_preferred":[
+        "Friedersdorfi vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u06cc\u062f\u0631\u0633\u062f\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:gle_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:hsb_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:kir_x_preferred":[
+        "\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:ron_x_preferred":[
+        "Friedersdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u0440\u0438\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:uzb_x_preferred":[
+        "Friedersdorf"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen",
+    "qs:a1r":"0",
+    "qs:a2":"G\u00f6rlitz",
+    "qs:a2r":"Dresden",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Eibau",
+    "qs:la_lc":"*DE14208600090",
+    "qs:level":"locality",
+    "qs:loc_alt":"Friedersdorf",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"ambiguous localadmin",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        85682523,
+        102191581,
+        1377687161,
+        85633111,
+        102064233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2924722,
+        "gp:id":650690,
+        "qs_pg:id":351409,
+        "wd:id":"Q702829",
+        "wk:page":"Friedersdorf, Saxony"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"76e74da05aa160524a78bb6e5a249ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064233,
+            "localadmin_id":1377687161,
+            "locality_id":101841353,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":101841353,
+    "wof:lastmodified":1690873008,
+    "wof:name":"",
+    "wof:parent_id":1377687161,
+    "wof:placetype":"locality",
+    "wof:population":1512,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.550807,
+    51.007896,
+    14.573413,
+    51.035189
+],
+  "geometry": {"coordinates":[[[14.573413,51.018214],[14.569397,51.011474],[14.566089,51.0104],[14.562917,51.010525],[14.562799,51.009332],[14.558374,51.007896],[14.558473,51.008899],[14.559895,51.008843],[14.559983,51.00974],[14.561406,51.009684],[14.561583,51.011478],[14.56585,51.01131],[14.565939,51.012207],[14.567361,51.012151],[14.567715,51.015738],[14.566293,51.015794],[14.566381,51.016691],[14.564958,51.016747],[14.565312,51.020335],[14.563889,51.020391],[14.563978,51.021288],[14.562555,51.021344],[14.562643,51.022241],[14.559798,51.022353],[14.559886,51.02325],[14.558463,51.023306],[14.558551,51.024203],[14.557128,51.024259],[14.557305,51.026052],[14.555882,51.026108],[14.55597,51.027005],[14.554547,51.027061],[14.5549,51.030649],[14.553477,51.030705],[14.553654,51.032498],[14.550807,51.03261],[14.550896,51.033507],[14.552319,51.033451],[14.552407,51.034348],[14.55383,51.034292],[14.553919,51.035189],[14.558189,51.035021],[14.557923,51.032331],[14.559347,51.032275],[14.558993,51.028687],[14.561839,51.028575],[14.561751,51.027678],[14.563174,51.027622],[14.562909,51.024931],[14.567178,51.024763],[14.566824,51.021176],[14.569669,51.021063],[14.569492,51.01927],[14.572338,51.019157],[14.572249,51.01826],[14.573413,51.018214]]],"type":"Polygon"}
+}

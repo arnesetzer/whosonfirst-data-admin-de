@@ -1,1 +1,401 @@
-{"id": 101763043, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08237027", "eurostat:level_code": "lau", "eurostat:name_local": "Eutingen im G\u00e4u", "eurostat:nuts_2021_id": "08237027", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE12", "eurostat:nuts_2021_level_3": "DE12C", "eurostat:nuts_2021_level_lau": "08237027", "eurostat:population": 5795, "eurostat:population_year": 2020, "geom:area": 0.003993, "geom:area_square_m": 32734710.500259, "geom:bbox": "8.689437,48.437803,8.828929,48.506706", "geom:latitude": 48.473167, "geom:longitude": 8.761685, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 5424, "iso:country": "DE", "lbl:latitude": 48.478733, "lbl:longitude": 8.748698, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 48.478733, "mps:longitude": 8.748698, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Eutingen im G\u00e4u"], "name:als_x_preferred": ["Eutingen im G\u00e4u"], "name:arg_x_preferred": ["Eutingen im G\u00e4u"], "name:ast_x_preferred": ["Eutingen im G\u00e4u"], "name:bar_x_preferred": ["Eutingen im G\u00e4u"], "name:bre_x_preferred": ["Eutingen im G\u00e4u"], "name:cat_x_preferred": ["Eutingen im G\u00e4u"], "name:ceb_x_preferred": ["Eutingen im G\u00e4u"], "name:ces_x_preferred": ["Eutingen im G\u00e4u"], "name:che_x_preferred": ["\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"], "name:cos_x_preferred": ["Eutingen im G\u00e4u"], "name:cym_x_preferred": ["Eutingen im G\u00e4u"], "name:dan_x_preferred": ["Eutingen im G\u00e4u"], "name:deu_x_preferred": ["Eutingen im G\u00e4u"], "name:eng_x_preferred": ["Eutingen im G\u00e4u"], "name:epo_x_preferred": ["Eutingen im G\u00e4u"], "name:est_x_preferred": ["Eutingen im G\u00e4u"], "name:eus_x_preferred": ["Eutingen im G\u00e4u"], "name:fas_x_preferred": ["\u0627\u0648\u06cc\u062a\u06cc\u0646\u06af\u0646 \u0627\u06cc\u0645 \u06af\u0648"], "name:fin_x_preferred": ["Eutingen im G\u00e4u"], "name:fra_x_preferred": ["Eutingen im G\u00e4u"], "name:frp_x_preferred": ["Eutingen im G\u00e4u"], "name:fur_x_preferred": ["Eutingen im G\u00e4u"], "name:gla_x_preferred": ["Eutingen im G\u00e4u"], "name:gle_x_preferred": ["Eutingen im G\u00e4u"], "name:glg_x_preferred": ["Eutingen im G\u00e4u"], "name:gsw_x_preferred": ["Eutingen im G\u00e4u"], "name:hrv_x_preferred": ["Eutingen im G\u00e4u"], "name:hun_x_preferred": ["Eutingen im G\u00e4u"], "name:hye_x_preferred": ["\u0555\u0575\u057f\u056b\u0576\u0563\u0565\u0576 \u056b\u0574 \u0533\u0578\u0575"], "name:ido_x_preferred": ["Eutingen im G\u00e4u"], "name:ile_x_preferred": ["Eutingen im G\u00e4u"], "name:ina_x_preferred": ["Eutingen im G\u00e4u"], "name:ind_x_preferred": ["Eutingen im G\u00e4u"], "name:isl_x_preferred": ["Eutingen im G\u00e4u"], "name:ita_x_preferred": ["Eutingen im G\u00e4u"], "name:jpn_x_preferred": ["\u30aa\u30a4\u30c6\u30a3\u30f3\u30b2\u30f3\u30fb\u30a4\u30e0\u30fb\u30b2\u30a6"], "name:kaz_x_preferred": ["\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"], "name:kir_x_preferred": ["\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"], "name:kon_x_preferred": ["Eutingen im G\u00e4u"], "name:kur_x_preferred": ["Eutingen im G\u00e4u"], "name:lat_x_preferred": ["Eutingen im G\u00e4u"], "name:lij_x_preferred": ["Eutingen im G\u00e4u"], "name:lim_x_preferred": ["Eutingen im G\u00e4u"], "name:lld_x_preferred": ["Eutingen im G\u00e4u"], "name:lmo_x_preferred": ["Eutingen im G\u00e4u"], "name:ltz_x_preferred": ["Eutingen im G\u00e4u"], "name:min_x_preferred": ["Eutingen im G\u00e4u"], "name:mlg_x_preferred": ["Eutingen im G\u00e4u"], "name:msa_x_preferred": ["Eutingen im G\u00e4u"], "name:nan_x_preferred": ["Eutingen im G\u00e4u"], "name:nap_x_preferred": ["Eutingen im G\u00e4u"], "name:nds_x_preferred": ["Eutingen im G\u00e4u"], "name:nld_x_preferred": ["Eutingen im G\u00e4u"], "name:nno_x_preferred": ["Eutingen im G\u00e4u"], "name:nob_x_preferred": ["Eutingen im G\u00e4u"], "name:nrm_x_preferred": ["Eutingen im G\u00e4u"], "name:oci_x_preferred": ["Eutingen im G\u00e4u"], "name:pcd_x_preferred": ["Eutingen im G\u00e4u"], "name:pms_x_preferred": ["Eutingen im G\u00e4u"], "name:pol_x_preferred": ["Eutingen im G\u00e4u"], "name:por_x_preferred": ["Eutingen"], "name:roh_x_preferred": ["Eutingen im G\u00e4u"], "name:ron_x_preferred": ["Eutingen im G\u00e4u"], "name:rus_x_preferred": ["\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"], "name:scn_x_preferred": ["Eutingen im G\u00e4u"], "name:sco_x_preferred": ["Eutingen im G\u00e4u"], "name:slk_x_preferred": ["Eutingen im G\u00e4u"], "name:slv_x_preferred": ["Eutingen im G\u00e4u"], "name:spa_x_preferred": ["Eutingen im G\u00e4u"], "name:srd_x_preferred": ["Eutingen im G\u00e4u"], "name:srp_x_preferred": ["\u041e\u0458\u0442\u0438\u043d\u0433\u0435\u043d \u0438\u043c \u0413\u043e\u0458"], "name:swa_x_preferred": ["Eutingen im G\u00e4u"], "name:swe_x_preferred": ["Eutingen im G\u00e4u"], "name:tat_x_preferred": ["\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"], "name:ukr_x_preferred": ["\u041e\u0439\u0442\u0456\u043d\u0433\u0435\u043d-\u0456\u043c-\u0413\u043e\u0439"], "name:uzb_x_preferred": ["Eutingen im G\u00e4u"], "name:vec_x_preferred": ["Eutingen im G\u00e4u"], "name:vie_x_preferred": ["Eutingen im G\u00e4u"], "name:vls_x_preferred": ["Eutingen im G\u00e4u"], "name:vol_x_preferred": ["Eutingen im G\u00e4u"], "name:war_x_preferred": ["Eutingen im G\u00e4u"], "name:wln_x_preferred": ["Eutingen im G\u00e4u"], "name:wol_x_preferred": ["Eutingen im G\u00e4u"], "name:zho_x_preferred": ["\u5965\u4f0a\u5ef7\u6839\u4f0a\u59c6\u6208\u4f0a"], "name:zul_x_preferred": ["Eutingen im G\u00e4u"], "nav:latitude": 48.478733, "nav:longitude": 8.748698, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Freudenstadt", "qs:a2r": "Karlsruhe", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Eutingen im G\u00e4u", "qs:la_lc": "*DE08203703027", "qs:level": "locality", "qs:loc": "Eutingen im G\u00e4u", "qs:loc_alt": "Eutingen im Gaeu", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555720, "qs_pg:gn_pop": 5424, "qs_pg:name": "Eutingen im G\u00e4u", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 45, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 5, "qs_pg:qs_id": 903939, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623301, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 31, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377689089, 404227555, 102063313], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08237027", "eurostat:nuts_2021_id": "08237027", "gn:id": 2928380, "gp:id": 649066, "qs_pg:id": 1330175, "wd:id": "Q81702", "wk:page": "Eutingen im G\u00e4u"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "ca0e2617ea15f1e460f1f7ceb388b0f3", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063313, "localadmin_id": 1377689089, "locality_id": 101763043, "macrocounty_id": 404227555, "region_id": 85682567}], "wof:id": 101763043, "wof:lastmodified": 1690871477, "wof:name": "Eutingen im G\u00e4u", "wof:parent_id": 1377689089, "wof:placetype": "locality", "wof:population": 5795, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125357333, 1125290293], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [8.689437, 48.437803, 8.828929, 48.506706], "geometry": {"coordinates": [[[[8.755711, 48.50414], [8.759581, 48.50376], [8.76143, 48.503924], [8.763894, 48.503522], [8.765341, 48.503545], [8.76858, 48.501914], [8.769551, 48.498574], [8.77056, 48.498725], [8.769853, 48.496906], [8.770208, 48.496259], [8.770895, 48.495007], [8.772307, 48.495254], [8.773148, 48.491381], [8.776701, 48.486535], [8.778276, 48.487162], [8.778886, 48.485975], [8.779313, 48.48537], [8.782713, 48.486395], [8.785003, 48.487464], [8.788418, 48.486546], [8.788648, 48.485776], [8.790554, 48.48621], [8.79108, 48.485481], [8.792233, 48.485769], [8.792831, 48.484537], [8.795296, 48.484844], [8.795646, 48.481792], [8.798527, 48.481818], [8.800874, 48.478122], [8.803494, 48.479421], [8.803393, 48.478421], [8.806903, 48.479015], [8.807635, 48.477011], [8.806688, 48.476628], [8.808956, 48.473303], [8.811359, 48.473759], [8.813047, 48.473838], [8.813519, 48.472317], [8.814193, 48.470816], [8.814554, 48.4686], [8.816021, 48.468793], [8.815984, 48.469881], [8.818286, 48.470186], [8.818935, 48.468622], [8.821335, 48.469225], [8.824047, 48.465075], [8.828929, 48.462693], [8.825874, 48.461874], [8.825226, 48.463042], [8.817825, 48.462363], [8.818247, 48.460715], [8.810638, 48.459007], [8.809632, 48.458784], [8.81018, 48.455834], [8.808275, 48.4554], [8.807641, 48.456532], [8.804672, 48.455983], [8.805238, 48.454481], [8.793112, 48.451704], [8.792502, 48.452135], [8.790186, 48.451866], [8.788655, 48.449261], [8.789909, 48.448192], [8.787521, 48.446887], [8.785961, 48.447429], [8.784792, 48.447609], [8.783005, 48.44768], [8.780095, 48.447374], [8.778371, 48.44559], [8.777854, 48.444605], [8.780673, 48.444029], [8.782355, 48.44079], [8.780426, 48.441048], [8.77911, 48.439642], [8.776788, 48.438032], [8.775336, 48.437803], [8.772475, 48.439206], [8.771933, 48.438883], [8.771452, 48.438704], [8.770928, 48.438624], [8.770027, 48.43851], [8.769076, 48.440538], [8.773319, 48.441728], [8.77355, 48.44246], [8.771504, 48.442967], [8.769317, 48.443115], [8.765209, 48.444402], [8.764026, 48.445468], [8.761696, 48.445845], [8.759149, 48.446003], [8.757839, 48.446351], [8.756842, 48.44797], [8.757883, 48.449262], [8.755938, 48.450031], [8.756344, 48.451484], [8.757973, 48.452348], [8.754772, 48.453858], [8.754999, 48.454338], [8.755603, 48.455211], [8.756756, 48.457405], [8.752877, 48.457731], [8.752196, 48.459384], [8.745452, 48.458144], [8.744533, 48.461142], [8.742481, 48.460291], [8.742185, 48.461384], [8.738506, 48.460273], [8.737198, 48.460337], [8.736727, 48.461039], [8.734754, 48.460456], [8.735304, 48.45908], [8.732476, 48.456498], [8.727912, 48.458943], [8.725975, 48.458594], [8.726403, 48.45803], [8.724809, 48.457605], [8.723679, 48.459157], [8.723705, 48.46009], [8.720969, 48.460217], [8.718524, 48.462732], [8.726234, 48.466049], [8.723491, 48.468955], [8.725452, 48.469346], [8.722092, 48.470623], [8.721375, 48.47358], [8.712357, 48.475332], [8.707668, 48.473709], [8.706863, 48.475387], [8.691691, 48.476714], [8.689437, 48.483881], [8.69331, 48.484143], [8.702236, 48.483874], [8.70228, 48.485233], [8.703139, 48.485427], [8.703199, 48.48675], [8.705722, 48.486575], [8.709603, 48.486269], [8.713061, 48.48566], [8.716478, 48.484717], [8.716071, 48.488092], [8.722745, 48.487992], [8.734116, 48.487104], [8.733285, 48.490626], [8.734675, 48.49072], [8.733649, 48.49252], [8.736858, 48.492859], [8.736903, 48.494605], [8.741513, 48.49511], [8.740257, 48.496907], [8.739701, 48.49769], [8.740819, 48.499353], [8.738938, 48.500852], [8.738724, 48.503394], [8.739501, 48.50436], [8.74372, 48.505246], [8.745973, 48.505434], [8.747796, 48.505562], [8.748402, 48.50639], [8.752425, 48.506706], [8.755711, 48.50414]]]], "type": "MultiPolygon"}}
+{
+  "id": 101763043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08237027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eutingen im G\u00e4u",
+    "eurostat:nuts_2021_id":"08237027",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE12",
+    "eurostat:nuts_2021_level_3":"DE12C",
+    "eurostat:nuts_2021_level_lau":"08237027",
+    "eurostat:population":5795,
+    "eurostat:population_year":2020,
+    "geom:area":0.003993,
+    "geom:area_square_m":32734710.500259,
+    "geom:bbox":"8.689437,48.437803,8.828929,48.506706",
+    "geom:latitude":48.473167,
+    "geom:longitude":8.761685,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":5424,
+    "iso:country":"DE",
+    "lbl:latitude":48.478733,
+    "lbl:longitude":8.748698,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":48.478733,
+    "mps:longitude":8.748698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:als_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:arg_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:ast_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:bar_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:bre_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:cat_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:ceb_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:ces_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"
+    ],
+    "name:cos_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:cym_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:dan_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:deu_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:eng_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:epo_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:est_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:eus_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u062a\u06cc\u0646\u06af\u0646 \u0627\u06cc\u0645 \u06af\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:fra_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:frp_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:fur_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:gla_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:gle_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:glg_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:gsw_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:hrv_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:hun_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0575\u057f\u056b\u0576\u0563\u0565\u0576 \u056b\u0574 \u0533\u0578\u0575"
+    ],
+    "name:ido_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:ile_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:ina_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:ind_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:isl_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:ita_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30a4\u30c6\u30a3\u30f3\u30b2\u30f3\u30fb\u30a4\u30e0\u30fb\u30b2\u30a6"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"
+    ],
+    "name:kir_x_preferred":[
+        "\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"
+    ],
+    "name:kon_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:kur_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:lat_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:lij_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:lim_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:lld_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:lmo_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:ltz_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:min_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:mlg_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:msa_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:nan_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:nap_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:nds_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:nld_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:nno_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:nob_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:nrm_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:oci_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:pcd_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:pms_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:pol_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:por_x_preferred":[
+        "Eutingen"
+    ],
+    "name:roh_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:ron_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"
+    ],
+    "name:scn_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:sco_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:slk_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:slv_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:spa_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:srd_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0458\u0442\u0438\u043d\u0433\u0435\u043d \u0438\u043c \u0413\u043e\u0458"
+    ],
+    "name:swa_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:swe_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0439\u0442\u0438\u043d\u0433\u0435\u043d-\u0438\u043c-\u0413\u043e\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0439\u0442\u0456\u043d\u0433\u0435\u043d-\u0456\u043c-\u0413\u043e\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:vec_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:vie_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:vls_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:vol_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:war_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:wln_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:wol_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u4f0a\u5ef7\u6839\u4f0a\u59c6\u6208\u4f0a"
+    ],
+    "name:zul_x_preferred":[
+        "Eutingen im G\u00e4u"
+    ],
+    "nav:latitude":48.478733,
+    "nav:longitude":8.748698,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Freudenstadt",
+    "qs:a2r":"Karlsruhe",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Eutingen im G\u00e4u",
+    "qs:la_lc":"*DE08203703027",
+    "qs:level":"locality",
+    "qs:loc":"Eutingen im G\u00e4u",
+    "qs:loc_alt":"Eutingen im Gaeu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555720,
+    "qs_pg:gn_pop":5424,
+    "qs_pg:name":"Eutingen im G\u00e4u",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":903939,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623301,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":31,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377689089,
+        404227555,
+        102063313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08237027",
+        "eurostat:nuts_2021_id":"08237027",
+        "gn:id":2928380,
+        "gp:id":649066,
+        "qs_pg:id":1330175,
+        "wd:id":"Q81702",
+        "wk:page":"Eutingen im G\u00e4u"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"ca0e2617ea15f1e460f1f7ceb388b0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063313,
+            "localadmin_id":1377689089,
+            "locality_id":101763043,
+            "macrocounty_id":404227555,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101763043,
+    "wof:lastmodified":1690871477,
+    "wof:name":"Eutingen im G\u00e4u",
+    "wof:parent_id":1377689089,
+    "wof:placetype":"locality",
+    "wof:population":5795,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125357333,
+        1125290293
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.689437,
+    48.437803,
+    8.828929,
+    48.506706
+],
+  "geometry": {"coordinates":[[[[8.755711,48.50414],[8.759581,48.50376],[8.76143,48.503924],[8.763894,48.503522],[8.765341,48.503545],[8.76858,48.501914],[8.769551,48.498574],[8.77056,48.498725],[8.769853,48.496906],[8.770208,48.496259],[8.770895,48.495007],[8.772307,48.495254],[8.773148,48.491381],[8.776701,48.486535],[8.778276,48.487162],[8.778886,48.485975],[8.779313,48.48537],[8.782713,48.486395],[8.785003,48.487464],[8.788418,48.486546],[8.788648,48.485776],[8.790554,48.48621],[8.79108,48.485481],[8.792233,48.485769],[8.792831,48.484537],[8.795296,48.484844],[8.795646,48.481792],[8.798527,48.481818],[8.800874,48.478122],[8.803494,48.479421],[8.803393,48.478421],[8.806903,48.479015],[8.807635,48.477011],[8.806688,48.476628],[8.808956,48.473303],[8.811359,48.473759],[8.813047,48.473838],[8.813519,48.472317],[8.814193,48.470816],[8.814554,48.4686],[8.816021,48.468793],[8.815984,48.469881],[8.818286,48.470186],[8.818935,48.468622],[8.821335,48.469225],[8.824047,48.465075],[8.828929,48.462693],[8.825874,48.461874],[8.825226,48.463042],[8.817825,48.462363],[8.818247,48.460715],[8.810638,48.459007],[8.809632,48.458784],[8.81018,48.455834],[8.808275,48.4554],[8.807641,48.456532],[8.804672,48.455983],[8.805238,48.454481],[8.793112,48.451704],[8.792502,48.452135],[8.790186,48.451866],[8.788655,48.449261],[8.789909,48.448192],[8.787521,48.446887],[8.785961,48.447429],[8.784792,48.447609],[8.783005,48.44768],[8.780095,48.447374],[8.778371,48.44559],[8.777854,48.444605],[8.780673,48.444029],[8.782355,48.44079],[8.780426,48.441048],[8.77911,48.439642],[8.776788,48.438032],[8.775336,48.437803],[8.772475,48.439206],[8.771933,48.438883],[8.771452,48.438704],[8.770928,48.438624],[8.770027,48.43851],[8.769076,48.440538],[8.773319,48.441728],[8.77355,48.44246],[8.771504,48.442967],[8.769317,48.443115],[8.765209,48.444402],[8.764026,48.445468],[8.761696,48.445845],[8.759149,48.446003],[8.757839,48.446351],[8.756842,48.44797],[8.757883,48.449262],[8.755938,48.450031],[8.756344,48.451484],[8.757973,48.452348],[8.754772,48.453858],[8.754999,48.454338],[8.755603,48.455211],[8.756756,48.457405],[8.752877,48.457731],[8.752196,48.459384],[8.745452,48.458144],[8.744533,48.461142],[8.742481,48.460291],[8.742185,48.461384],[8.738506,48.460273],[8.737198,48.460337],[8.736727,48.461039],[8.734754,48.460456],[8.735304,48.45908],[8.732476,48.456498],[8.727912,48.458943],[8.725975,48.458594],[8.726403,48.45803],[8.724809,48.457605],[8.723679,48.459157],[8.723705,48.46009],[8.720969,48.460217],[8.718524,48.462732],[8.726234,48.466049],[8.723491,48.468955],[8.725452,48.469346],[8.722092,48.470623],[8.721375,48.47358],[8.712357,48.475332],[8.707668,48.473709],[8.706863,48.475387],[8.691691,48.476714],[8.689437,48.483881],[8.69331,48.484143],[8.702236,48.483874],[8.70228,48.485233],[8.703139,48.485427],[8.703199,48.48675],[8.705722,48.486575],[8.709603,48.486269],[8.713061,48.48566],[8.716478,48.484717],[8.716071,48.488092],[8.722745,48.487992],[8.734116,48.487104],[8.733285,48.490626],[8.734675,48.49072],[8.733649,48.49252],[8.736858,48.492859],[8.736903,48.494605],[8.741513,48.49511],[8.740257,48.496907],[8.739701,48.49769],[8.740819,48.499353],[8.738938,48.500852],[8.738724,48.503394],[8.739501,48.50436],[8.74372,48.505246],[8.745973,48.505434],[8.747796,48.505562],[8.748402,48.50639],[8.752425,48.506706],[8.755711,48.50414]]]],"type":"MultiPolygon"}
+}

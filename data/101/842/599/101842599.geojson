@@ -1,1 +1,417 @@
-{"id": 101842599, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08336006", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Bellingen", "eurostat:nuts_2021_id": "08336006", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE13", "eurostat:nuts_2021_level_3": "DE139", "eurostat:nuts_2021_level_lau": "08336006", "eurostat:population": 4600, "eurostat:population_year": 2020, "geom:area": 0.002038, "geom:area_square_m": 16955094.459373, "geom:bbox": "7.513769,47.699349,7.620518,47.74473", "geom:latitude": 47.721025, "geom:longitude": 7.564442, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 3865, "iso:country": "DE", "lbl:latitude": 47.733987, "lbl:longitude": 7.551965, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.5, "mps:latitude": 47.733987, "mps:longitude": 7.551965, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Bellingen"], "name:als_x_preferred": ["Bad Bellingen"], "name:arg_x_preferred": ["Bad Bellingen"], "name:ast_x_preferred": ["Bad Bellingen"], "name:bar_x_preferred": ["Bad Bellingen"], "name:bre_x_preferred": ["Bad Bellingen"], "name:cat_x_preferred": ["Bad Bellingen"], "name:ceb_x_preferred": ["Bad Bellingen"], "name:ces_x_preferred": ["Bad Bellingen"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"], "name:cos_x_preferred": ["Bad Bellingen"], "name:cym_x_preferred": ["Bad Bellingen"], "name:dan_x_preferred": ["Bad Bellingen"], "name:deu_x_preferred": ["Bad Bellingen"], "name:eng_x_preferred": ["Bellingen"], "name:eng_x_variant": ["Bad Bellingen"], "name:epo_x_preferred": ["Bad Bellingen"], "name:est_x_preferred": ["Bad Bellingen"], "name:eus_x_preferred": ["Bad Bellingen"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0628\u0644\u06cc\u0646\u06af\u0646"], "name:fin_x_preferred": ["Bad Bellingen"], "name:fra_x_preferred": ["Bad Bellingen"], "name:frp_x_preferred": ["Bad Bellingen"], "name:fry_x_preferred": ["Bad Bellingen"], "name:fur_x_preferred": ["Bad Bellingen"], "name:gla_x_preferred": ["Bad Bellingen"], "name:gle_x_preferred": ["Bad Bellingen"], "name:glg_x_preferred": ["Bad Bellingen"], "name:gsw_x_preferred": ["Bad Bellige"], "name:hbs_x_preferred": ["Bad Bellingen"], "name:heb_x_preferred": ["\u05d1\u05d0\u05d3 \u05d1\u05dc\u05d9\u05e0\u05d2\u05df"], "name:hrv_x_preferred": ["Bad Bellingen"], "name:hun_x_preferred": ["Bad Bellingen"], "name:ido_x_preferred": ["Bad Bellingen"], "name:ile_x_preferred": ["Bad Bellingen"], "name:ina_x_preferred": ["Bad Bellingen"], "name:ind_x_preferred": ["Bad Bellingen"], "name:isl_x_preferred": ["Bad Bellingen"], "name:ita_x_preferred": ["Bad Bellingen"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"], "name:kon_x_preferred": ["Bad Bellingen"], "name:kur_x_preferred": ["Bad Bellingen"], "name:lat_x_preferred": ["Bad Bellingen"], "name:lij_x_preferred": ["Bad Bellingen"], "name:lim_x_preferred": ["Bad Bellingen"], "name:lld_x_preferred": ["Bad Bellingen"], "name:lmo_x_preferred": ["Bad Bellingen"], "name:ltz_x_preferred": ["Bad Bellingen"], "name:min_x_preferred": ["Bad Bellingen"], "name:mlg_x_preferred": ["Bad Bellingen"], "name:msa_x_preferred": ["Bad Bellingen"], "name:nan_x_preferred": ["Bad Bellingen"], "name:nap_x_preferred": ["Bad Bellingen"], "name:nds_x_preferred": ["Bad Bellingen"], "name:nld_x_preferred": ["Bad Bellingen"], "name:nno_x_preferred": ["Bad Bellingen"], "name:nob_x_preferred": ["Bad Bellingen"], "name:nrm_x_preferred": ["Bad Bellingen"], "name:oci_x_preferred": ["Bad Bellingen"], "name:pcd_x_preferred": ["Bad Bellingen"], "name:pms_x_preferred": ["Bad Bellingen"], "name:pol_x_preferred": ["Bad Bellingen"], "name:por_x_preferred": ["Bad Bellingen"], "name:roh_x_preferred": ["Bad Bellingen"], "name:ron_x_preferred": ["Bad Bellingen"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"], "name:scn_x_preferred": ["Bad Bellingen"], "name:sco_x_preferred": ["Bad Bellingen"], "name:slk_x_preferred": ["Bad Bellingen"], "name:slv_x_preferred": ["Bad Bellingen"], "name:spa_x_preferred": ["Bad Bellingen"], "name:srd_x_preferred": ["Bad Bellingen"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0411\u0435\u043b\u0438\u043d\u0433\u0435\u043d"], "name:swa_x_preferred": ["Bad Bellingen"], "name:swe_x_preferred": ["Bad Bellingen"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0456\u043d\u0433\u0435\u043d"], "name:uzb_x_preferred": ["Bad Bellingen"], "name:vec_x_preferred": ["Bad Bellingen"], "name:vie_x_preferred": ["Bad Bellingen"], "name:vls_x_preferred": ["Bad Bellingen"], "name:vol_x_preferred": ["Bad Bellingen"], "name:war_x_preferred": ["Bad Bellingen"], "name:wln_x_preferred": ["Bad Bellingen"], "name:wol_x_preferred": ["Bad Bellingen"], "name:zho_min_nan_x_preferred": ["Bad Bellingen"], "name:zho_x_preferred": ["\u5df4\u7279\u8d1d\u6797\u6839"], "name:zho_x_variant": ["\u5df4\u5fb7\u8d1d\u6797\u6839"], "name:zul_x_preferred": ["Bad Bellingen"], "nav:latitude": 47.733987, "nav:longitude": 7.551965, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "L\u00f6rrach", "qs:a2r": "Freiburg", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Bad Bellingen", "qs:la_lc": "*DE08303605006", "qs:level": "locality", "qs:loc": "Bad Bellingen", "qs:loc_alt": "Bad Bellingen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-near-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6555874, "qs_pg:gn_pop": 3865, "qs_pg:name": "Bad Bellingen", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 8, "qs_pg:photos_1k": 2, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 116, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 4, "qs_pg:qs_id": 636379, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623554, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 127, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377685779, 404227543, 102063211], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08336006", "eurostat:nuts_2021_id": "08336006", "fct:id": "0736bf56-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2953553, "gp:id": 636388, "qs_pg:id": 279331, "wd:id": "Q61630", "wk:page": "Bad Bellingen"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "06fd9a73835263c44a60cf300df18005", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063211, "localadmin_id": 1377685779, "locality_id": 101842599, "macrocounty_id": 404227543, "region_id": 85682567}], "wof:id": 101842599, "wof:lang": ["ger"], "wof:lastmodified": 1690872154, "wof:name": "Bad Bellingen", "wof:parent_id": 1377685779, "wof:placetype": "locality", "wof:population": 4600, "wof:population_rank": 4, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125341413, 1125411595], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [7.513769, 47.699349, 7.620518, 47.74473], "geometry": {"coordinates": [[[[7.620518, 47.724559], [7.612576, 47.722703], [7.607017, 47.722492], [7.603667, 47.721657], [7.598792, 47.719323], [7.594633, 47.716164], [7.59042, 47.715287], [7.589533, 47.713599], [7.586277, 47.713449], [7.584795, 47.711908], [7.582895, 47.712252], [7.576665, 47.708767], [7.573682, 47.709181], [7.572312, 47.706204], [7.569436, 47.707754], [7.56667, 47.707181], [7.556606, 47.705025], [7.557133, 47.703555], [7.552887, 47.703269], [7.54951, 47.702018], [7.542482, 47.702357], [7.53981, 47.700252], [7.537557, 47.700281], [7.536412, 47.700327], [7.53616, 47.699349], [7.533185, 47.700048], [7.52924, 47.700474], [7.527606, 47.700448], [7.5162, 47.701842], [7.513769, 47.702824], [7.534961, 47.714726], [7.538147, 47.716729], [7.540385, 47.718534], [7.543704, 47.72233], [7.545655, 47.725378], [7.547603, 47.729819], [7.548529, 47.735079], [7.548108, 47.739475], [7.545991, 47.743574], [7.551075, 47.744052], [7.553442, 47.744395], [7.564516, 47.74473], [7.568304, 47.743366], [7.570578, 47.738282], [7.572847, 47.736886], [7.573749, 47.731766], [7.574123, 47.732882], [7.586151, 47.735993], [7.586019, 47.735306], [7.596615, 47.731937], [7.605873, 47.730907], [7.607842, 47.728234], [7.610126, 47.728384], [7.613279, 47.726417], [7.620518, 47.724559]]]], "type": "MultiPolygon"}}
+{
+  "id": 101842599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08336006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Bellingen",
+    "eurostat:nuts_2021_id":"08336006",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE13",
+    "eurostat:nuts_2021_level_3":"DE139",
+    "eurostat:nuts_2021_level_lau":"08336006",
+    "eurostat:population":4600,
+    "eurostat:population_year":2020,
+    "geom:area":0.002038,
+    "geom:area_square_m":16955094.459373,
+    "geom:bbox":"7.513769,47.699349,7.620518,47.74473",
+    "geom:latitude":47.721025,
+    "geom:longitude":7.564442,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":3865,
+    "iso:country":"DE",
+    "lbl:latitude":47.733987,
+    "lbl:longitude":7.551965,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":47.733987,
+    "mps:longitude":7.551965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:als_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:eng_x_preferred":[
+        "Bellingen"
+    ],
+    "name:eng_x_variant":[
+        "Bad Bellingen"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:est_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0644\u06cc\u0646\u06af\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:fry_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Bellige"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d3 \u05d1\u05dc\u05d9\u05e0\u05d2\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:lat_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:lmo_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:min_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:nan_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:por_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0411\u0435\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u043b\u043b\u0456\u043d\u0433\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:war_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u8d1d\u6797\u6839"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u8d1d\u6797\u6839"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Bellingen"
+    ],
+    "nav:latitude":47.733987,
+    "nav:longitude":7.551965,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"L\u00f6rrach",
+    "qs:a2r":"Freiburg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Bad Bellingen",
+    "qs:la_lc":"*DE08303605006",
+    "qs:level":"locality",
+    "qs:loc":"Bad Bellingen",
+    "qs:loc_alt":"Bad Bellingen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6555874,
+    "qs_pg:gn_pop":3865,
+    "qs_pg:name":"Bad Bellingen",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":116,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":636379,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623554,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":127,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377685779,
+        404227543,
+        102063211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08336006",
+        "eurostat:nuts_2021_id":"08336006",
+        "fct:id":"0736bf56-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2953553,
+        "gp:id":636388,
+        "qs_pg:id":279331,
+        "wd:id":"Q61630",
+        "wk:page":"Bad Bellingen"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"06fd9a73835263c44a60cf300df18005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063211,
+            "localadmin_id":1377685779,
+            "locality_id":101842599,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101842599,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690872154,
+    "wof:name":"Bad Bellingen",
+    "wof:parent_id":1377685779,
+    "wof:placetype":"locality",
+    "wof:population":4600,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125341413,
+        1125411595
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.513769,
+    47.699349,
+    7.620518,
+    47.74473
+],
+  "geometry": {"coordinates":[[[[7.620518,47.724559],[7.612576,47.722703],[7.607017,47.722492],[7.603667,47.721657],[7.598792,47.719323],[7.594633,47.716164],[7.59042,47.715287],[7.589533,47.713599],[7.586277,47.713449],[7.584795,47.711908],[7.582895,47.712252],[7.576665,47.708767],[7.573682,47.709181],[7.572312,47.706204],[7.569436,47.707754],[7.56667,47.707181],[7.556606,47.705025],[7.557133,47.703555],[7.552887,47.703269],[7.54951,47.702018],[7.542482,47.702357],[7.53981,47.700252],[7.537557,47.700281],[7.536412,47.700327],[7.53616,47.699349],[7.533185,47.700048],[7.52924,47.700474],[7.527606,47.700448],[7.5162,47.701842],[7.513769,47.702824],[7.534961,47.714726],[7.538147,47.716729],[7.540385,47.718534],[7.543704,47.72233],[7.545655,47.725378],[7.547603,47.729819],[7.548529,47.735079],[7.548108,47.739475],[7.545991,47.743574],[7.551075,47.744052],[7.553442,47.744395],[7.564516,47.74473],[7.568304,47.743366],[7.570578,47.738282],[7.572847,47.736886],[7.573749,47.731766],[7.574123,47.732882],[7.586151,47.735993],[7.586019,47.735306],[7.596615,47.731937],[7.605873,47.730907],[7.607842,47.728234],[7.610126,47.728384],[7.613279,47.726417],[7.620518,47.724559]]]],"type":"MultiPolygon"}
+}

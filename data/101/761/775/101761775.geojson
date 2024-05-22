@@ -1,1 +1,401 @@
-{"id": 101761775, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08117012", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Boll", "eurostat:nuts_2021_id": "08117012", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE11", "eurostat:nuts_2021_level_3": "DE114", "eurostat:nuts_2021_level_lau": "08117012", "eurostat:population": 5151, "eurostat:population_year": 2020, "geom:area": 0.001328, "geom:area_square_m": 10854903.209525, "geom:bbox": "9.578019,48.619007,9.632783,48.66001", "geom:latitude": 48.63718, "geom:longitude": 9.607135, "gn:admin1_code": "1.0", "gn:admin2_code": "81.0", "gn:admin3_code": "8117.0", "gn:admin4_code": "8117012.0", "gn:asciiname": "Bad Boll", "gn:country_code": "DE", "gn:dem": 411, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2953539, "gn:latitude": 48.63974, "gn:longitude": 9.60003, "gn:modification_date": "2013-02-15", "gn:name": "Bad Boll", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:latitude": 48.640299, "lbl:longitude": 9.612029, "lbl:max_zoom": 18.0, "lbl:min_zoom": 13.5, "mps:latitude": 48.640299, "mps:longitude": 9.612029, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 12.0, "name:afr_x_preferred": ["Bad Boll"], "name:als_x_preferred": ["Bad Boll"], "name:arg_x_preferred": ["Bad Boll"], "name:ast_x_preferred": ["Bad Boll"], "name:bar_x_preferred": ["Bad Boll"], "name:bre_x_preferred": ["Bad Boll"], "name:cat_x_preferred": ["Bad Boll"], "name:ceb_x_preferred": ["Bad Boll"], "name:ces_x_preferred": ["Bad Boll"], "name:che_x_preferred": ["\u0411\u043e\u043b\u043b\u044c"], "name:cos_x_preferred": ["Bad Boll"], "name:cym_x_preferred": ["Bad Boll"], "name:dan_x_preferred": ["Bad Boll"], "name:deu_x_preferred": ["Bad Boll"], "name:eng_x_preferred": ["Bad Boll"], "name:epo_x_preferred": ["Bad Boll"], "name:est_x_preferred": ["Bad Boll"], "name:eus_x_preferred": ["Bad Boll"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0628\u0648\u0644"], "name:fin_x_preferred": ["Bad Boll"], "name:fra_x_preferred": ["Bad Boll"], "name:frp_x_preferred": ["Bad Boll"], "name:fur_x_preferred": ["Bad Boll"], "name:gla_x_preferred": ["Bad Boll"], "name:gle_x_preferred": ["Bad Boll"], "name:glg_x_preferred": ["Bad Boll"], "name:gsw_x_preferred": ["Bad Boll"], "name:hbs_x_preferred": ["Bad Boll"], "name:heb_x_preferred": ["\u05d1\u05d0\u05d3 \u05d1\u05d5\u05dc"], "name:hrv_x_preferred": ["Bad Boll"], "name:hun_x_preferred": ["Bad Boll"], "name:ido_x_preferred": ["Bad Boll"], "name:ile_x_preferred": ["Bad Boll"], "name:ina_x_preferred": ["Bad Boll"], "name:ind_x_preferred": ["Bad Boll"], "name:isl_x_preferred": ["Bad Boll"], "name:ita_x_preferred": ["Bad Boll"], "name:jpn_x_preferred": ["\u30d0\u30fc\u30c8\u30fb\u30dc\u30eb"], "name:kaz_x_preferred": ["\u0411\u043e\u043b\u043b\u044c"], "name:kir_x_preferred": ["\u0411\u043e\u043b\u043b\u044c"], "name:kon_x_preferred": ["Bad Boll"], "name:kur_x_preferred": ["Bad Boll"], "name:lat_x_preferred": ["Bad Boll"], "name:lij_x_preferred": ["Bad Boll"], "name:lim_x_preferred": ["Bad Boll"], "name:lld_x_preferred": ["Bad Boll"], "name:lmo_x_preferred": ["Bad Boll"], "name:ltz_x_preferred": ["Bad Boll"], "name:min_x_preferred": ["Bad Boll"], "name:mlg_x_preferred": ["Bad Boll"], "name:msa_x_preferred": ["Boll"], "name:nan_x_preferred": ["Bad Boll"], "name:nap_x_preferred": ["Bad Boll"], "name:nds_x_preferred": ["Bad Boll"], "name:nld_x_preferred": ["Bad Boll"], "name:nno_x_preferred": ["Bad Boll"], "name:nob_x_preferred": ["Bad Boll"], "name:nrm_x_preferred": ["Bad Boll"], "name:oci_x_preferred": ["Bad Boll"], "name:pcd_x_preferred": ["Bad Boll"], "name:pms_x_preferred": ["Bad Boll"], "name:pol_x_preferred": ["Bad Boll"], "name:por_x_preferred": ["Boll"], "name:roh_x_preferred": ["Bad Boll"], "name:ron_x_preferred": ["Bad Boll"], "name:rus_x_preferred": ["\u0411\u043e\u043b\u043b\u044c"], "name:scn_x_preferred": ["Bad Boll"], "name:sco_x_preferred": ["Bad Boll"], "name:slk_x_preferred": ["Bad Boll"], "name:slv_x_preferred": ["Bad Boll"], "name:spa_x_preferred": ["Bad Boll"], "name:srd_x_preferred": ["Bad Boll"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0411\u043e\u043b"], "name:swa_x_preferred": ["Bad Boll"], "name:swe_x_preferred": ["Bad Boll"], "name:tat_x_preferred": ["\u0411\u043e\u043b\u043b\u044c"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0411\u043e\u043b\u043b\u044c"], "name:uzb_x_preferred": ["Bad Boll"], "name:vec_x_preferred": ["Bad Boll"], "name:vie_x_preferred": ["Bad Boll"], "name:vls_x_preferred": ["Bad Boll"], "name:vol_x_preferred": ["Bad Boll"], "name:war_x_preferred": ["Bad Boll"], "name:wln_x_preferred": ["Bad Boll"], "name:wol_x_preferred": ["Bad Boll"], "name:zho_min_nan_x_preferred": ["Bad Boll"], "name:zho_x_preferred": ["\u5df4\u7279\u535a\u5c14"], "name:zho_x_variant": ["\u5df4\u5fb7\u535a\u5c14"], "name:zul_x_preferred": ["Bad Boll"], "nav:latitude": 48.640299, "nav:longitude": 9.612029, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "G\u00f6ppingen", "qs:a2r": "Stuttgart", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Boll", "qs:la_lc": "*DE08101709012", "qs:level": "locality", "qs:loc": "Bad Boll", "qs:loc_alt": "Bad Boll", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 204, "wof:belongsto": [85682567, 102191581, 85633111, 1377687227, 404227549, 102063325], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08117012", "eurostat:nuts_2021_id": "08117012", "gn:id": 2946696, "gp:id": 640044, "qs_pg:id": 1157122, "wd:id": "Q81572", "wk:page": "Bad Boll"}, "wof:concordances_alt": {"qs_pg:id": 1285936}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "b9769ce8fa2e2da820703109abc3c334", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063325, "localadmin_id": 1377687227, "locality_id": 101761775, "macrocounty_id": 404227549, "region_id": 85682567}], "wof:id": 101761775, "wof:lastmodified": 1690872970, "wof:name": "Bad Boll", "wof:parent_id": 1377687227, "wof:placetype": "locality", "wof:population": 5151, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1193279261], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.578019, 48.619007, 9.632783, 48.66001], "geometry": {"coordinates": [[[[9.627294, 48.655319], [9.627341, 48.654674], [9.62662, 48.654067], [9.625291, 48.65227], [9.624642, 48.651947], [9.623633, 48.651956], [9.62309, 48.651317], [9.622828, 48.65048], [9.622573, 48.649242], [9.621847, 48.648969], [9.62134, 48.647695], [9.621822, 48.647515], [9.622241, 48.64665], [9.623185, 48.64604], [9.624273, 48.644985], [9.623226, 48.642265], [9.625723, 48.635441], [9.622758, 48.632836], [9.630064, 48.624063], [9.632783, 48.622978], [9.61983, 48.619872], [9.617161, 48.6212], [9.612806, 48.619007], [9.610387, 48.620058], [9.603592, 48.619274], [9.598077, 48.621883], [9.595545, 48.619443], [9.582228, 48.62722], [9.580819, 48.628567], [9.578019, 48.630279], [9.579303, 48.63056], [9.582754, 48.630984], [9.58224, 48.633812], [9.586621, 48.635332], [9.586818, 48.637825], [9.589337, 48.63808], [9.589771, 48.640149], [9.588256, 48.640565], [9.588977, 48.642308], [9.589788, 48.6431], [9.589812, 48.643743], [9.5903, 48.644508], [9.590397, 48.64508], [9.590425, 48.645532], [9.590276, 48.645816], [9.59009, 48.646172], [9.590514, 48.646532], [9.591045, 48.646917], [9.591539, 48.647421], [9.591672, 48.647993], [9.591627, 48.648445], [9.598022, 48.650543], [9.598582, 48.652526], [9.599739, 48.652374], [9.601656, 48.653675], [9.602846, 48.653901], [9.601819, 48.65588], [9.613416, 48.659328], [9.615455, 48.659191], [9.615577, 48.65617], [9.616869, 48.659067], [9.620028, 48.66001], [9.620818, 48.65896], [9.621597, 48.658621], [9.621756, 48.658171], [9.621892, 48.657533], [9.624431, 48.656656], [9.626508, 48.656138], [9.626496, 48.655369], [9.627294, 48.655319]]]], "type": "MultiPolygon"}}
+{
+  "id": 101761775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08117012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Boll",
+    "eurostat:nuts_2021_id":"08117012",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE11",
+    "eurostat:nuts_2021_level_3":"DE114",
+    "eurostat:nuts_2021_level_lau":"08117012",
+    "eurostat:population":5151,
+    "eurostat:population_year":2020,
+    "geom:area":0.001328,
+    "geom:area_square_m":10854903.209525,
+    "geom:bbox":"9.578019,48.619007,9.632783,48.66001",
+    "geom:latitude":48.63718,
+    "geom:longitude":9.607135,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8117.0",
+    "gn:admin4_code":"8117012.0",
+    "gn:asciiname":"Bad Boll",
+    "gn:country_code":"DE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2953539,
+    "gn:latitude":48.63974,
+    "gn:longitude":9.60003,
+    "gn:modification_date":"2013-02-15",
+    "gn:name":"Bad Boll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:latitude":48.640299,
+    "lbl:longitude":9.612029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":48.640299,
+    "mps:longitude":9.612029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:als_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u043b\u043b\u044c"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:est_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0648\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d3 \u05d1\u05d5\u05dc"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c8\u30fb\u30dc\u30eb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u043b\u043b\u044c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u043b\u043b\u044c"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:lat_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:lmo_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:min_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:msa_x_preferred":[
+        "Boll"
+    ],
+    "name:nan_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:nds_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:por_x_preferred":[
+        "Boll"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u043b\u044c"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0411\u043e\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u043b\u043b\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u043e\u043b\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:war_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bad Boll"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u535a\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u535a\u5c14"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Boll"
+    ],
+    "nav:latitude":48.640299,
+    "nav:longitude":9.612029,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"G\u00f6ppingen",
+    "qs:a2r":"Stuttgart",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Boll",
+    "qs:la_lc":"*DE08101709012",
+    "qs:level":"locality",
+    "qs:loc":"Bad Boll",
+    "qs:loc_alt":"Bad Boll",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":204,
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377687227,
+        404227549,
+        102063325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08117012",
+        "eurostat:nuts_2021_id":"08117012",
+        "gn:id":2946696,
+        "gp:id":640044,
+        "qs_pg:id":1157122,
+        "wd:id":"Q81572",
+        "wk:page":"Bad Boll"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1285936
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"b9769ce8fa2e2da820703109abc3c334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063325,
+            "localadmin_id":1377687227,
+            "locality_id":101761775,
+            "macrocounty_id":404227549,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101761775,
+    "wof:lastmodified":1690872970,
+    "wof:name":"Bad Boll",
+    "wof:parent_id":1377687227,
+    "wof:placetype":"locality",
+    "wof:population":5151,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193279261
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.578019,
+    48.619007,
+    9.632783,
+    48.66001
+],
+  "geometry": {"coordinates":[[[[9.627294,48.655319],[9.627341,48.654674],[9.62662,48.654067],[9.625291,48.65227],[9.624642,48.651947],[9.623633,48.651956],[9.62309,48.651317],[9.622828,48.65048],[9.622573,48.649242],[9.621847,48.648969],[9.62134,48.647695],[9.621822,48.647515],[9.622241,48.64665],[9.623185,48.64604],[9.624273,48.644985],[9.623226,48.642265],[9.625723,48.635441],[9.622758,48.632836],[9.630064,48.624063],[9.632783,48.622978],[9.61983,48.619872],[9.617161,48.6212],[9.612806,48.619007],[9.610387,48.620058],[9.603592,48.619274],[9.598077,48.621883],[9.595545,48.619443],[9.582228,48.62722],[9.580819,48.628567],[9.578019,48.630279],[9.579303,48.63056],[9.582754,48.630984],[9.58224,48.633812],[9.586621,48.635332],[9.586818,48.637825],[9.589337,48.63808],[9.589771,48.640149],[9.588256,48.640565],[9.588977,48.642308],[9.589788,48.6431],[9.589812,48.643743],[9.5903,48.644508],[9.590397,48.64508],[9.590425,48.645532],[9.590276,48.645816],[9.59009,48.646172],[9.590514,48.646532],[9.591045,48.646917],[9.591539,48.647421],[9.591672,48.647993],[9.591627,48.648445],[9.598022,48.650543],[9.598582,48.652526],[9.599739,48.652374],[9.601656,48.653675],[9.602846,48.653901],[9.601819,48.65588],[9.613416,48.659328],[9.615455,48.659191],[9.615577,48.65617],[9.616869,48.659067],[9.620028,48.66001],[9.620818,48.65896],[9.621597,48.658621],[9.621756,48.658171],[9.621892,48.657533],[9.624431,48.656656],[9.626508,48.656138],[9.626496,48.655369],[9.627294,48.655319]]]],"type":"MultiPolygon"}
+}

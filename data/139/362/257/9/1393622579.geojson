@@ -1,1 +1,112 @@
-{"id": 1393622579, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "13.95847,52.98146,13.95847,52.98146", "geom:latitude": 52.98146, "geom:longitude": 13.95847, "gn:admin1_code": "11", "gn:admin2_code": "0.0", "gn:admin3_code": "12073.0", "gn:admin4_code": "12073008.0", "gn:asciiname": "Schmargendorf", "gn:country_code": "DE", "gn:dem": 58, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2838010, "gn:latitude": 52.98146, "gn:longitude": 13.95847, "gn:modification_date": "2015-09-04", "gn:name": "Schmargendorf", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "13.95347,52.97646,13.96347,52.98646", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "name:ceb_x_preferred": ["Schmargendorf"], "name:deu_x_preferred": ["Berlin-Schmargendorf"], "name:fas_x_preferred": ["\u0634\u0645\u0627\u0631\u06af\u0646\u062f\u0648\u0631\u0641"], "name:fra_x_preferred": ["Berlin-Schmargendorf"], "name:ita_x_preferred": ["Schmargendorf"], "name:nor_x_preferred": ["Schmargendorf"], "name:pol_x_preferred": ["Schmargendorf"], "name:rus_x_preferred": ["\u0428\u043c\u0430\u0440\u0433\u0435\u043d\u0434\u043e\u0440\u0444"], "name:swe_x_preferred": ["Schmargendorf"], "name:tur_x_preferred": ["Schmargendorf"], "name:zho_x_preferred": ["\u65bd\u99ac\u6839\u591a\u592b"], "src:geom": "geonames", "wof:belongsto": [102191581, 1377684235, 85633111, 101818549, 102064021, 85682553], "wof:breaches": [], "wof:concordances": {"gn:id": 2838010}, "wof:country": "DE", "wof:geomhash": "7d049cbc4a7899c265b5e5af1df6d11b", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064021, "localadmin_id": 1377684235, "locality_id": 101818549, "neighbourhood_id": 1393622579, "region_id": 85682553}], "wof:id": 1393622579, "wof:lastmodified": 1566713694, "wof:name": "Schmargendorf", "wof:parent_id": 101818549, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1344234731], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.95847, 52.98146, 13.95847, 52.98146], "geometry": {"coordinates": [13.95847, 52.98146], "type": "Point"}}
+{
+  "id": 1393622579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95847,52.98146,13.95847,52.98146",
+    "geom:latitude":52.98146,
+    "geom:longitude":13.95847,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"12073.0",
+    "gn:admin4_code":"12073008.0",
+    "gn:asciiname":"Schmargendorf",
+    "gn:country_code":"DE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2838010,
+    "gn:latitude":52.98146,
+    "gn:longitude":13.95847,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"Schmargendorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"13.95347,52.97646,13.96347,52.98646",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Schmargendorf"
+    ],
+    "name:deu_x_preferred":[
+        "Berlin-Schmargendorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u0627\u0631\u06af\u0646\u062f\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Berlin-Schmargendorf"
+    ],
+    "name:ita_x_preferred":[
+        "Schmargendorf"
+    ],
+    "name:nor_x_preferred":[
+        "Schmargendorf"
+    ],
+    "name:pol_x_preferred":[
+        "Schmargendorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043c\u0430\u0440\u0433\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:swe_x_preferred":[
+        "Schmargendorf"
+    ],
+    "name:tur_x_preferred":[
+        "Schmargendorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u99ac\u6839\u591a\u592b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377684235,
+        85633111,
+        101818549,
+        102064021,
+        85682553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2838010
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"7d049cbc4a7899c265b5e5af1df6d11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064021,
+            "localadmin_id":1377684235,
+            "locality_id":101818549,
+            "neighbourhood_id":1393622579,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":1393622579,
+    "wof:lastmodified":1566713694,
+    "wof:name":"Schmargendorf",
+    "wof:parent_id":101818549,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344234731
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95847,
+    52.98146,
+    13.95847,
+    52.98146
+],
+  "geometry": {"coordinates":[13.95847,52.98146],"type":"Point"}
+}

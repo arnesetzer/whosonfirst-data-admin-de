@@ -1,1 +1,359 @@
-{"id": 1125882291, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_16069047", "eurostat:level_code": "lau", "eurostat:name_local": "St.Bernhard", "eurostat:nuts_2021_id": "16069047", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEG", "eurostat:nuts_2021_level_2": "DEG0", "eurostat:nuts_2021_level_3": "DEG0E", "eurostat:nuts_2021_level_lau": "16069047", "eurostat:population": 256, "eurostat:population_year": 2020, "geom:area": 0.000926, "geom:area_square_m": 7285957.182062, "geom:bbox": "10.568722,50.442326,10.622246,50.473018", "geom:latitude": 50.456986, "geom:longitude": 10.59531, "gn:country": "DE", "gn:fcode": "PPL", "gn:population": 296, "iso:country": "DE", "lbl:latitude": 50.45924, "lbl:longitude": 10.59617, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:afr_x_preferred": ["St. Bernhard"], "name:arg_x_preferred": ["St. Bernhard"], "name:ast_x_preferred": ["St. Bernhard"], "name:bak_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"], "name:bar_x_preferred": ["St. Bernhard"], "name:bre_x_preferred": ["St. Bernhard"], "name:cat_x_preferred": ["St. Bernhard"], "name:ceb_x_preferred": ["Sankt Bernhard"], "name:ces_x_preferred": ["St. Bernhard"], "name:che_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"], "name:cos_x_preferred": ["St. Bernhard"], "name:cym_x_preferred": ["St. Bernhard"], "name:dan_x_preferred": ["St. Bernhard"], "name:deu_x_preferred": ["St. Bernhard"], "name:eng_x_preferred": ["St. Bernhard"], "name:epo_x_preferred": ["St. Bernhard"], "name:est_x_preferred": ["St. Bernhard"], "name:eus_x_preferred": ["St. Bernhard"], "name:fas_x_preferred": ["\u0632\u0627\u0646\u06a9\u062a \u0628\u0631\u0646\u0647\u0627\u0631\u062f"], "name:fin_x_preferred": ["St. Bernhard"], "name:fra_x_preferred": ["St. Bernhard"], "name:frp_x_preferred": ["St. Bernhard"], "name:fur_x_preferred": ["St. Bernhard"], "name:gla_x_preferred": ["St. Bernhard"], "name:gle_x_preferred": ["St. Bernhard"], "name:glg_x_preferred": ["St. Bernhard"], "name:gsw_x_preferred": ["St. Bernhard"], "name:hrv_x_preferred": ["St. Bernhard"], "name:hun_x_preferred": ["St. Bernhard"], "name:ido_x_preferred": ["St. Bernhard"], "name:ile_x_preferred": ["St. Bernhard"], "name:ina_x_preferred": ["St. Bernhard"], "name:ind_x_preferred": ["St. Bernhard"], "name:isl_x_preferred": ["St. Bernhard"], "name:ita_x_preferred": ["St. Bernhard"], "name:kaz_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"], "name:kir_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"], "name:kon_x_preferred": ["St. Bernhard"], "name:lij_x_preferred": ["St. Bernhard"], "name:lim_x_preferred": ["St. Bernhard"], "name:ltz_x_preferred": ["St. Bernhard"], "name:min_x_preferred": ["St. Bernhard"], "name:mkd_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"], "name:mlg_x_preferred": ["St. Bernhard"], "name:msa_x_preferred": ["St. Bernhard"], "name:nan_x_preferred": ["Sankt Bernhard"], "name:nap_x_preferred": ["St. Bernhard"], "name:nds_x_preferred": ["St. Bernhard"], "name:nld_x_preferred": ["St. Bernhard"], "name:nno_x_preferred": ["St. Bernhard"], "name:nob_x_preferred": ["St. Bernhard"], "name:nrm_x_preferred": ["St. Bernhard"], "name:oci_x_preferred": ["St. Bernhard"], "name:pcd_x_preferred": ["St. Bernhard"], "name:pms_x_preferred": ["St. Bernhard"], "name:pol_x_preferred": ["St. Bernhard"], "name:por_x_preferred": ["St. Bernhard"], "name:roh_x_preferred": ["St. Bernhard"], "name:ron_x_preferred": ["St. Bernhard"], "name:rus_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"], "name:scn_x_preferred": ["St. Bernhard"], "name:sco_x_preferred": ["St. Bernhard"], "name:slk_x_preferred": ["St. Bernhard"], "name:slv_x_preferred": ["St. Bernhard"], "name:spa_x_preferred": ["St. Bernhard"], "name:srd_x_preferred": ["St. Bernhard"], "name:srp_x_preferred": ["\u0421\u0430\u043d\u043a\u0442 \u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"], "name:swa_x_preferred": ["St. Bernhard"], "name:swe_x_preferred": ["St. Bernhard"], "name:tat_x_preferred": ["\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"], "name:ukr_x_preferred": ["\u0417\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0433\u0430\u0440\u0434"], "name:uzb_x_preferred": ["St. Bernhard"], "name:vec_x_preferred": ["St. Bernhard"], "name:vie_x_preferred": ["St. Bernhard"], "name:vls_x_preferred": ["St. Bernhard"], "name:vol_x_preferred": ["St. Bernhard"], "name:war_x_preferred": ["St. Bernhard"], "name:wln_x_preferred": ["St. Bernhard"], "name:wol_x_preferred": ["St. Bernhard"], "name:zho_x_preferred": ["\u5723\u8d1d\u6069\u54c8\u5fb7"], "name:zul_x_preferred": ["St. Bernhard"], "nav:latitude": 50.45924, "nav:longitude": 10.59617, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "PPL", "qs_pg:gn_id": 2841645, "qs_pg:gn_pop": 296, "qs_pg:name": "St. Bernhard", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Th\u00fcringen", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 2, "qs_pg:qs_id": 373038, "qs_pg:qs_pg_placetype": "locality", "qs_pg:qs_pg_placetype_gp": "Town", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 695999, "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Th\u00fcringen", "woe:placetype": "Town", "wof:belongsto": [85682541, 102191581, 1377690343, 85633111, 102063647], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_16069047", "eurostat:nuts_2021_id": "16069047", "gn:id": 2841645, "gp:id": 695999, "qs_pg:id": 373038, "wd:id": "Q637699"}, "wof:country": "DE", "wof:created": 1497294875, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "81af5bd6e092617e655327fbf7f188b5", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063647, "localadmin_id": 1377690343, "locality_id": 1125882291, "region_id": 85682541}], "wof:id": 1125882291, "wof:lastmodified": 1690874219, "wof:name": "St. Bernhard", "wof:parent_id": 1377690343, "wof:placetype": "locality", "wof:population": 256, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.568722, 50.442326, 10.622246, 50.473018], "geometry": {"coordinates": [[[[10.572651, 50.473018], [10.579066, 50.467039], [10.580096, 50.467353], [10.580901, 50.465922], [10.581, 50.465931], [10.585765, 50.46618], [10.591176, 50.465078], [10.60192, 50.466508], [10.614412, 50.467217], [10.615283, 50.466046], [10.617004, 50.466332], [10.621623, 50.464717], [10.619549, 50.463837], [10.622246, 50.460352], [10.618311, 50.459403], [10.617759, 50.458504], [10.617151, 50.457505], [10.617088, 50.455004], [10.6149, 50.453342], [10.612161, 50.451284], [10.613946, 50.449699], [10.616237, 50.447114], [10.615361, 50.446287], [10.616429, 50.445], [10.615188, 50.444389], [10.611228, 50.444186], [10.610241, 50.444133], [10.610072, 50.444124], [10.607795, 50.446529], [10.605511, 50.44573], [10.604175, 50.446928], [10.602622, 50.445499], [10.601354, 50.445725], [10.595704, 50.445846], [10.595295, 50.445676], [10.58744, 50.442326], [10.58502, 50.444001], [10.58395, 50.44501], [10.583952, 50.446296], [10.582387, 50.446554], [10.582166, 50.445563], [10.579256, 50.447156], [10.581006, 50.449926], [10.582242, 50.450733], [10.577519, 50.451871], [10.578145, 50.453148], [10.574075, 50.454869], [10.573962, 50.454932], [10.572196, 50.456065], [10.571124, 50.457208], [10.574213, 50.457949], [10.573275, 50.459321], [10.573679, 50.459978], [10.571978, 50.460036], [10.572517, 50.460921], [10.574307, 50.460977], [10.572994, 50.462601], [10.571893, 50.462893], [10.571946, 50.463895], [10.570597, 50.464179], [10.568722, 50.467009], [10.569106, 50.46862], [10.571688, 50.47004], [10.570875, 50.470521], [10.569399, 50.47075], [10.570326, 50.471397], [10.572651, 50.473018]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125882291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_16069047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St.Bernhard",
+    "eurostat:nuts_2021_id":"16069047",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEG",
+    "eurostat:nuts_2021_level_2":"DEG0",
+    "eurostat:nuts_2021_level_3":"DEG0E",
+    "eurostat:nuts_2021_level_lau":"16069047",
+    "eurostat:population":256,
+    "eurostat:population_year":2020,
+    "geom:area":0.000926,
+    "geom:area_square_m":7285957.182062,
+    "geom:bbox":"10.568722,50.442326,10.622246,50.473018",
+    "geom:latitude":50.456986,
+    "geom:longitude":10.59531,
+    "gn:country":"DE",
+    "gn:fcode":"PPL",
+    "gn:population":296,
+    "iso:country":"DE",
+    "lbl:latitude":50.45924,
+    "lbl:longitude":10.59617,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:arg_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:ast_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"
+    ],
+    "name:bar_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:bre_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:cat_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:ceb_x_preferred":[
+        "Sankt Bernhard"
+    ],
+    "name:ces_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"
+    ],
+    "name:cos_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:cym_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:dan_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:deu_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:eng_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:epo_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:est_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:eus_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0646\u06a9\u062a \u0628\u0631\u0646\u0647\u0627\u0631\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:fra_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:frp_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:fur_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:gla_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:gle_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:glg_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:gsw_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:hrv_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:hun_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:ido_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:ile_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:ina_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:ind_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:isl_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:ita_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"
+    ],
+    "name:kon_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:lij_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:lim_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:ltz_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:min_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"
+    ],
+    "name:mlg_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:msa_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:nan_x_preferred":[
+        "Sankt Bernhard"
+    ],
+    "name:nap_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:nds_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:nld_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:nno_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:nob_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:nrm_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:oci_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:pcd_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:pms_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:pol_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:por_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:roh_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:ron_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"
+    ],
+    "name:scn_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:sco_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:slk_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:slv_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:spa_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:srd_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:swe_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0442-\u0411\u0435\u0440\u043d\u0433\u0430\u0440\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:vec_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:vie_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:vls_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:vol_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:war_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:wln_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:wol_x_preferred":[
+        "St. Bernhard"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u8d1d\u6069\u54c8\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "St. Bernhard"
+    ],
+    "nav:latitude":50.45924,
+    "nav:longitude":10.59617,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2841645,
+    "qs_pg:gn_pop":296,
+    "qs_pg:name":"St. Bernhard",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Th\u00fcringen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":373038,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":695999,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Th\u00fcringen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682541,
+        102191581,
+        1377690343,
+        85633111,
+        102063647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_16069047",
+        "eurostat:nuts_2021_id":"16069047",
+        "gn:id":2841645,
+        "gp:id":695999,
+        "qs_pg:id":373038,
+        "wd:id":"Q637699"
+    },
+    "wof:country":"DE",
+    "wof:created":1497294875,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"81af5bd6e092617e655327fbf7f188b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063647,
+            "localadmin_id":1377690343,
+            "locality_id":1125882291,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":1125882291,
+    "wof:lastmodified":1690874219,
+    "wof:name":"St. Bernhard",
+    "wof:parent_id":1377690343,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.568722,
+    50.442326,
+    10.622246,
+    50.473018
+],
+  "geometry": {"coordinates":[[[[10.572651,50.473018],[10.579066,50.467039],[10.580096,50.467353],[10.580901,50.465922],[10.581,50.465931],[10.585765,50.46618],[10.591176,50.465078],[10.60192,50.466508],[10.614412,50.467217],[10.615283,50.466046],[10.617004,50.466332],[10.621623,50.464717],[10.619549,50.463837],[10.622246,50.460352],[10.618311,50.459403],[10.617759,50.458504],[10.617151,50.457505],[10.617088,50.455004],[10.6149,50.453342],[10.612161,50.451284],[10.613946,50.449699],[10.616237,50.447114],[10.615361,50.446287],[10.616429,50.445],[10.615188,50.444389],[10.611228,50.444186],[10.610241,50.444133],[10.610072,50.444124],[10.607795,50.446529],[10.605511,50.44573],[10.604175,50.446928],[10.602622,50.445499],[10.601354,50.445725],[10.595704,50.445846],[10.595295,50.445676],[10.58744,50.442326],[10.58502,50.444001],[10.58395,50.44501],[10.583952,50.446296],[10.582387,50.446554],[10.582166,50.445563],[10.579256,50.447156],[10.581006,50.449926],[10.582242,50.450733],[10.577519,50.451871],[10.578145,50.453148],[10.574075,50.454869],[10.573962,50.454932],[10.572196,50.456065],[10.571124,50.457208],[10.574213,50.457949],[10.573275,50.459321],[10.573679,50.459978],[10.571978,50.460036],[10.572517,50.460921],[10.574307,50.460977],[10.572994,50.462601],[10.571893,50.462893],[10.571946,50.463895],[10.570597,50.464179],[10.568722,50.467009],[10.569106,50.46862],[10.571688,50.47004],[10.570875,50.470521],[10.569399,50.47075],[10.570326,50.471397],[10.572651,50.473018]]]],"type":"MultiPolygon"}
+}

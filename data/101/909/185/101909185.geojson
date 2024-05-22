@@ -1,1 +1,155 @@
-{"id": 101909185, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 3.9e-05, "geom:area_square_m": 298888.020596, "geom:bbox": "11.493869,51.685725,11.502663,51.692089", "geom:latitude": 51.689025, "geom:longitude": 11.498448, "gn:population": 597, "iso:country": "DE", "lbl:latitude": 51.688903, "lbl:longitude": 11.498531, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.688903, "mps:longitude": 11.498531, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"], "name:ceb_x_preferred": ["Arnstedt"], "name:che_x_preferred": ["\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"], "name:dan_x_preferred": ["Arnstedt"], "name:deu_x_preferred": ["Arnstedt"], "name:eng_x_preferred": ["Arnstedt"], "name:epo_x_preferred": ["Arnstedt"], "name:fas_x_preferred": ["\u0622\u0631\u0646\u0634\u062a\u062a"], "name:fra_x_preferred": ["Arnstedt"], "name:ita_x_preferred": ["Arnstedt"], "name:kaz_x_preferred": ["\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"], "name:kir_x_preferred": ["\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"], "name:mkd_x_preferred": ["\u0410\u0440\u043d\u0448\u0442\u0435\u0442"], "name:nld_x_preferred": ["Arnstedt"], "name:ron_x_preferred": ["Arnstedt"], "name:rus_x_preferred": ["\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"], "name:tat_x_preferred": ["\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"], "name:uzb_x_preferred": ["Arnstedt"], "name:vie_x_preferred": ["Arnstedt"], "name:vol_x_preferred": ["Arnstedt"], "name:war_x_preferred": ["Arnstedt"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Mansfeld-S\u00fcdharz", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Arnstedt", "qs:la_lc": "*DE15008709030", "qs:level": "locality", "qs:loc": "Arnstedt", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 27, "wof:belongsto": [85682519, 102191581, 1377688731, 85633111, 102063819], "wof:breaches": [], "wof:concordances": {"gn:id": 2955437, "gp:id": 635517, "qs_pg:id": 345178, "wd:id": "Q666734", "wk:page": "Arnstedt"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "d8075ac715e95d537bb90717e683bf67", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063819, "localadmin_id": 1377688731, "locality_id": 101909185, "region_id": 85682519}], "wof:id": 101909185, "wof:lastmodified": 1690871457, "wof:name": "Arnstedt", "wof:parent_id": 1377688731, "wof:placetype": "locality", "wof:population": 597, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [11.493869, 51.685725, 11.502663, 51.692089], "geometry": {"coordinates": [[[11.496909, 51.692071], [11.496879, 51.691172], [11.502663, 51.691098], [11.502514, 51.686606], [11.501068, 51.686624], [11.501039, 51.685725], [11.499593, 51.685744], [11.499623, 51.686642], [11.496731, 51.686679], [11.496761, 51.687578], [11.493869, 51.687615], [11.493988, 51.691209], [11.495433, 51.691191], [11.495463, 51.692089], [11.496909, 51.692071]]], "type": "Polygon"}}
+{
+  "id": 101909185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":298888.020596,
+    "geom:bbox":"11.493869,51.685725,11.502663,51.692089",
+    "geom:latitude":51.689025,
+    "geom:longitude":11.498448,
+    "gn:population":597,
+    "iso:country":"DE",
+    "lbl:latitude":51.688903,
+    "lbl:longitude":11.498531,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.688903,
+    "mps:longitude":11.498531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:dan_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:deu_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:eng_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:epo_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0646\u0634\u062a\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:ita_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u043d\u0448\u0442\u0435\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:ron_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0440\u043d\u0448\u0442\u0435\u0434\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:vie_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:vol_x_preferred":[
+        "Arnstedt"
+    ],
+    "name:war_x_preferred":[
+        "Arnstedt"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Mansfeld-S\u00fcdharz",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Arnstedt",
+    "qs:la_lc":"*DE15008709030",
+    "qs:level":"locality",
+    "qs:loc":"Arnstedt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377688731,
+        85633111,
+        102063819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2955437,
+        "gp:id":635517,
+        "qs_pg:id":345178,
+        "wd:id":"Q666734",
+        "wk:page":"Arnstedt"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"d8075ac715e95d537bb90717e683bf67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063819,
+            "localadmin_id":1377688731,
+            "locality_id":101909185,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909185,
+    "wof:lastmodified":1690871457,
+    "wof:name":"Arnstedt",
+    "wof:parent_id":1377688731,
+    "wof:placetype":"locality",
+    "wof:population":597,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.493869,
+    51.685725,
+    11.502663,
+    51.692089
+],
+  "geometry": {"coordinates":[[[11.496909,51.692071],[11.496879,51.691172],[11.502663,51.691098],[11.502514,51.686606],[11.501068,51.686624],[11.501039,51.685725],[11.499593,51.685744],[11.499623,51.686642],[11.496731,51.686679],[11.496761,51.687578],[11.493869,51.687615],[11.493988,51.691209],[11.495433,51.691191],[11.495463,51.692089],[11.496909,51.692071]]],"type":"Polygon"}
+}

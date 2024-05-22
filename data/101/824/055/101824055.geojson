@@ -1,1 +1,280 @@
-{"id": 101824055, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_14628370", "eurostat:level_code": "lau", "eurostat:name_local": "Stadt Wehlen, Stadt", "eurostat:nuts_2021_id": "14628370", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DED", "eurostat:nuts_2021_level_2": "DED2", "eurostat:nuts_2021_level_3": "DED2F", "eurostat:nuts_2021_level_lau": "14628370", "eurostat:population": 1571, "eurostat:population_year": 2020, "geom:area": 0.001408, "geom:area_square_m": 10965769.970732, "geom:bbox": "13.974578,50.943979,14.053738,50.978536", "geom:latitude": 50.961071, "geom:longitude": 14.008159, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 1703, "iso:country": "DE", "lbl:latitude": 50.957398, "lbl:longitude": 14.029689, "lbl:max_zoom": 16.0, "lbl:min_zoom": 12.0, "mps:latitude": 50.957398, "mps:longitude": 14.029689, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:ara_x_preferred": ["\u0634\u062a\u0627\u062a \u0641\u064a\u0647\u0644\u0646"], "name:azb_x_preferred": ["\u0627\u0634\u062a\u0627\u062a \u0648\u0644\u0647\u0646"], "name:bak_x_preferred": ["\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"], "name:bul_x_preferred": ["\u0429\u0430\u0442 \u0412\u0435\u043b\u0435\u043d"], "name:cat_x_preferred": ["Stadt Wehlen"], "name:ceb_x_preferred": ["Stadt Wehlen"], "name:ces_x_preferred": ["Stadt Wehlen"], "name:che_x_preferred": ["\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"], "name:dan_x_preferred": ["Stadt Wehlen"], "name:deu_x_preferred": ["Stadt Wehlen"], "name:eng_x_preferred": ["Stadt Wehlen"], "name:epo_x_preferred": ["Stadt Wehlen"], "name:fas_x_preferred": ["\u0627\u0634\u062a\u0627\u062a \u0648\u0644\u0647\u0646"], "name:fra_x_preferred": ["Stadt Wehlen"], "name:gle_x_preferred": ["Stadt Wehlen"], "name:hbs_x_preferred": ["Stadt Wehlen"], "name:hsb_x_preferred": ["Stadt Wehlen"], "name:hun_x_preferred": ["Stadt Wehlen"], "name:ita_x_preferred": ["Stadt Wehlen"], "name:jpn_x_preferred": ["\u30b7\u30e5\u30bf\u30c3\u30c8\u30fb\u30f4\u30a7\u30fc\u30ec\u30f3"], "name:kur_x_preferred": ["Stadt Wehlen"], "name:lav_x_preferred": ["\u0160tatv\u0113lene"], "name:lld_x_preferred": ["Stadt Wehlen"], "name:mkd_x_preferred": ["\u0428\u0442\u0430\u0442 \u0412\u0435\u043b\u0435\u043d"], "name:msa_x_preferred": ["Stadt Wehlen"], "name:nld_x_preferred": ["Stadt Wehlen"], "name:nob_x_preferred": ["Stadt Wehlen"], "name:nor_x_preferred": ["Stadt Wehlen"], "name:oci_x_preferred": ["Stadt Wehlen"], "name:pol_x_preferred": ["Stadt Wehlen"], "name:por_x_preferred": ["Stadt Wehlen"], "name:ron_x_preferred": ["Stadt Wehlen"], "name:rus_x_preferred": ["\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"], "name:spa_x_preferred": ["Stadt Wehlen"], "name:srp_x_preferred": ["\u0428\u0442\u0430\u0442 \u0412\u0435\u043b\u0435\u043d"], "name:swe_x_preferred": ["Stadt Wehlen"], "name:tat_x_preferred": ["\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"], "name:tum_x_preferred": ["Stadt Wehlen"], "name:ukr_x_preferred": ["\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"], "name:uzb_x_preferred": ["Stadt Wehlen"], "name:vie_x_preferred": ["Stadt Wehlen"], "name:vol_x_preferred": ["Stadt Wehlen"], "name:war_x_preferred": ["Stadt Wehlen"], "name:zho_x_preferred": ["\u65bd\u5854\u7279\u97e6\u4f26"], "nav:latitude": 50.957398, "nav:longitude": 14.029689, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen", "qs:a1r": "0", "qs:a2": "S\u00e4chsische Schweiz-Osterzgebirge", "qs:a2r": "Dresden", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Stadt Wehlen", "qs:la_lc": "*DE14208715380", "qs:level": "locality", "qs:loc": "Stadt Wehlen", "qs:loc_alt": "Stadt Wehlen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6548702, "qs_pg:gn_pop": 1703, "qs_pg:name": "Stadt Wehlen, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Sachsen", "qs_pg:photos": 3, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 2, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 423, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 3, "qs_pg:qs_id": 631189, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12625830, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:latitude": 50.956944, "wd:longitude": 14.032222, "wd:wordcount": 171, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Sachsen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682523, 102191581, 1377687641, 85633111, 102064217], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_14628370", "eurostat:nuts_2021_id": "14628370", "fct:id": "0759057a-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2829734, "gp:id": 696209, "loc:id": "n91089188", "qs_pg:id": 1074715, "wd:id": "Q8240", "wk:page": "Stadt Wehlen"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "9618b32bd02cf43497a75500ede5add5", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064217, "localadmin_id": 1377687641, "locality_id": 101824055, "region_id": 85682523}], "wof:id": 101824055, "wof:lang": ["ger"], "wof:lastmodified": 1690873147, "wof:name": "Stadt Wehlen", "wof:parent_id": 1377687641, "wof:placetype": "locality", "wof:population": 1571, "wof:population_rank": 3, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125321193, 1125311585], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [13.974578, 50.943979, 14.053738, 50.978536], "geometry": {"coordinates": [[[[14.053738, 50.960072], [14.053673, 50.956984], [14.052065, 50.957033], [14.050827, 50.957071], [14.050742, 50.956338], [14.051064, 50.955325], [14.049705, 50.953412], [14.046966, 50.954324], [14.044922, 50.955017], [14.042609, 50.954201], [14.033818, 50.952228], [14.024418, 50.95056], [14.02053, 50.948372], [14.01475, 50.943979], [14.013776, 50.944666], [14.011737, 50.94562], [14.010617, 50.945131], [14.009366, 50.9448], [14.008082, 50.944613], [14.006461, 50.944662], [14.004932, 50.944816], [14.003328, 50.945099], [14.001696, 50.945571], [14.000552, 50.946092], [13.997382, 50.947935], [13.996316, 50.948543], [13.995028, 50.94924], [13.993857, 50.949788], [13.992449, 50.950398], [13.99334, 50.951623], [13.993848, 50.95232], [13.990718, 50.952981], [13.988389, 50.953483], [13.985868, 50.954487], [13.984407, 50.95572], [13.980795, 50.958152], [13.974578, 50.9614], [13.979046, 50.966203], [13.979776, 50.969847], [13.981471, 50.973426], [13.981699, 50.975896], [13.98511, 50.976101], [13.991662, 50.972544], [13.990875, 50.974027], [13.988658, 50.975661], [13.986807, 50.976653], [13.98511, 50.977055], [13.98326, 50.977111], [13.98218, 50.978314], [13.98408, 50.978536], [13.984931, 50.978466], [13.985611, 50.978401], [13.986816, 50.978292], [13.988778, 50.97763], [13.991736, 50.975983], [14.014976, 50.975401], [14.019882, 50.974054], [14.021517, 50.97341], [14.02323, 50.971548], [14.022519, 50.970633], [14.022266, 50.970316], [14.022384, 50.96924], [14.022616, 50.969089], [14.024322, 50.968083], [14.022785, 50.966625], [14.02177, 50.965656], [14.022887, 50.964217], [14.023758, 50.963092], [14.02, 50.962251], [14.018505, 50.961917], [14.018886, 50.961483], [14.019082, 50.961242], [14.019371, 50.960918], [14.021542, 50.961339], [14.025264, 50.962073], [14.028183, 50.961264], [14.029026, 50.962115], [14.030802, 50.961883], [14.030857, 50.962192], [14.030115, 50.963214], [14.032509, 50.962997], [14.033106, 50.961853], [14.035135, 50.960585], [14.037002, 50.958888], [14.040057, 50.95948], [14.039872, 50.960603], [14.039082, 50.961654], [14.037627, 50.962401], [14.036719, 50.962842], [14.036527, 50.964254], [14.039153, 50.964084], [14.039497, 50.962983], [14.039611, 50.96261], [14.040638, 50.962583], [14.042003, 50.962547], [14.043111, 50.960432], [14.047892, 50.961214], [14.048527, 50.961312], [14.048473, 50.96098], [14.048311, 50.959976], [14.053738, 50.960072]]]], "type": "MultiPolygon"}}
+{
+  "id": 101824055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_14628370",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stadt Wehlen, Stadt",
+    "eurostat:nuts_2021_id":"14628370",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DED",
+    "eurostat:nuts_2021_level_2":"DED2",
+    "eurostat:nuts_2021_level_3":"DED2F",
+    "eurostat:nuts_2021_level_lau":"14628370",
+    "eurostat:population":1571,
+    "eurostat:population_year":2020,
+    "geom:area":0.001408,
+    "geom:area_square_m":10965769.970732,
+    "geom:bbox":"13.974578,50.943979,14.053738,50.978536",
+    "geom:latitude":50.961071,
+    "geom:longitude":14.008159,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":1703,
+    "iso:country":"DE",
+    "lbl:latitude":50.957398,
+    "lbl:longitude":14.029689,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":50.957398,
+    "mps:longitude":14.029689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0634\u062a\u0627\u062a \u0641\u064a\u0647\u0644\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0634\u062a\u0627\u062a \u0648\u0644\u0647\u0646"
+    ],
+    "name:bak_x_preferred":[
+        "\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0429\u0430\u0442 \u0412\u0435\u043b\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:ceb_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:ces_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:deu_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:eng_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:epo_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u0627\u062a \u0648\u0644\u0647\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:gle_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:hbs_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:hsb_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:hun_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:ita_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30bf\u30c3\u30c8\u30fb\u30f4\u30a7\u30fc\u30ec\u30f3"
+    ],
+    "name:kur_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160tatv\u0113lene"
+    ],
+    "name:lld_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0442\u0430\u0442 \u0412\u0435\u043b\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:nld_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:nob_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:nor_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:oci_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:pol_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:por_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:ron_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0430\u0442 \u0412\u0435\u043b\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"
+    ],
+    "name:tum_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0430\u0434\u0442-\u0412\u0435\u043b\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:vie_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:vol_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:war_x_preferred":[
+        "Stadt Wehlen"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u5854\u7279\u97e6\u4f26"
+    ],
+    "nav:latitude":50.957398,
+    "nav:longitude":14.029689,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen",
+    "qs:a1r":"0",
+    "qs:a2":"S\u00e4chsische Schweiz-Osterzgebirge",
+    "qs:a2r":"Dresden",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Stadt Wehlen",
+    "qs:la_lc":"*DE14208715380",
+    "qs:level":"locality",
+    "qs:loc":"Stadt Wehlen",
+    "qs:loc_alt":"Stadt Wehlen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6548702,
+    "qs_pg:gn_pop":1703,
+    "qs_pg:name":"Stadt Wehlen, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Sachsen",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":423,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":631189,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12625830,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:latitude":50.956944,
+    "wd:longitude":14.032222,
+    "wd:wordcount":171,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Sachsen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682523,
+        102191581,
+        1377687641,
+        85633111,
+        102064217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_14628370",
+        "eurostat:nuts_2021_id":"14628370",
+        "fct:id":"0759057a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2829734,
+        "gp:id":696209,
+        "loc:id":"n91089188",
+        "qs_pg:id":1074715,
+        "wd:id":"Q8240",
+        "wk:page":"Stadt Wehlen"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"9618b32bd02cf43497a75500ede5add5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064217,
+            "localadmin_id":1377687641,
+            "locality_id":101824055,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":101824055,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873147,
+    "wof:name":"Stadt Wehlen",
+    "wof:parent_id":1377687641,
+    "wof:placetype":"locality",
+    "wof:population":1571,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125321193,
+        1125311585
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.974578,
+    50.943979,
+    14.053738,
+    50.978536
+],
+  "geometry": {"coordinates":[[[[14.053738,50.960072],[14.053673,50.956984],[14.052065,50.957033],[14.050827,50.957071],[14.050742,50.956338],[14.051064,50.955325],[14.049705,50.953412],[14.046966,50.954324],[14.044922,50.955017],[14.042609,50.954201],[14.033818,50.952228],[14.024418,50.95056],[14.02053,50.948372],[14.01475,50.943979],[14.013776,50.944666],[14.011737,50.94562],[14.010617,50.945131],[14.009366,50.9448],[14.008082,50.944613],[14.006461,50.944662],[14.004932,50.944816],[14.003328,50.945099],[14.001696,50.945571],[14.000552,50.946092],[13.997382,50.947935],[13.996316,50.948543],[13.995028,50.94924],[13.993857,50.949788],[13.992449,50.950398],[13.99334,50.951623],[13.993848,50.95232],[13.990718,50.952981],[13.988389,50.953483],[13.985868,50.954487],[13.984407,50.95572],[13.980795,50.958152],[13.974578,50.9614],[13.979046,50.966203],[13.979776,50.969847],[13.981471,50.973426],[13.981699,50.975896],[13.98511,50.976101],[13.991662,50.972544],[13.990875,50.974027],[13.988658,50.975661],[13.986807,50.976653],[13.98511,50.977055],[13.98326,50.977111],[13.98218,50.978314],[13.98408,50.978536],[13.984931,50.978466],[13.985611,50.978401],[13.986816,50.978292],[13.988778,50.97763],[13.991736,50.975983],[14.014976,50.975401],[14.019882,50.974054],[14.021517,50.97341],[14.02323,50.971548],[14.022519,50.970633],[14.022266,50.970316],[14.022384,50.96924],[14.022616,50.969089],[14.024322,50.968083],[14.022785,50.966625],[14.02177,50.965656],[14.022887,50.964217],[14.023758,50.963092],[14.02,50.962251],[14.018505,50.961917],[14.018886,50.961483],[14.019082,50.961242],[14.019371,50.960918],[14.021542,50.961339],[14.025264,50.962073],[14.028183,50.961264],[14.029026,50.962115],[14.030802,50.961883],[14.030857,50.962192],[14.030115,50.963214],[14.032509,50.962997],[14.033106,50.961853],[14.035135,50.960585],[14.037002,50.958888],[14.040057,50.95948],[14.039872,50.960603],[14.039082,50.961654],[14.037627,50.962401],[14.036719,50.962842],[14.036527,50.964254],[14.039153,50.964084],[14.039497,50.962983],[14.039611,50.96261],[14.040638,50.962583],[14.042003,50.962547],[14.043111,50.960432],[14.047892,50.961214],[14.048527,50.961312],[14.048473,50.96098],[14.048311,50.959976],[14.053738,50.960072]]]],"type":"MultiPolygon"}
+}

@@ -1,1 +1,411 @@
-{"id": 101818439, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_03360002", "eurostat:level_code": "lau", "eurostat:name_local": "Bad Bevensen, Stadt", "eurostat:nuts_2021_id": "03360002", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE9", "eurostat:nuts_2021_level_2": "DE93", "eurostat:nuts_2021_level_3": "DE93A", "eurostat:nuts_2021_level_lau": "03360002", "eurostat:population": 9248, "eurostat:population_year": 2020, "geom:area": 0.006454, "geom:area_square_m": 47944591.129046, "geom:bbox": "10.493782,53.035545,10.6619,53.109182", "geom:latitude": 53.073136, "geom:longitude": 10.589459, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 8620, "iso:country": "DE", "lbl:latitude": 53.078828, "lbl:longitude": 10.577117, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 53.078828, "mps:longitude": 10.577117, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Bad Bevensen"], "name:ara_x_preferred": ["\u0628\u0627\u062f \u0628\u064a\u0641\u064a\u0646\u0633\u0646"], "name:arg_x_preferred": ["Bad Bevensen"], "name:ast_x_preferred": ["Bad Bevensen"], "name:azb_x_preferred": ["\u0628\u0627\u062f \u0628\u0648\u0646\u0633\u0646"], "name:bar_x_preferred": ["Bad Bevensen"], "name:bre_x_preferred": ["Bad Bevensen"], "name:cat_x_preferred": ["Bad Bevensen"], "name:ceb_x_preferred": ["Bad Bevensen"], "name:ces_x_preferred": ["Bad Bevensen"], "name:che_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"], "name:cos_x_preferred": ["Bad Bevensen"], "name:cym_x_preferred": ["Bad Bevensen"], "name:dan_x_preferred": ["Bad Bevensen"], "name:deu_x_preferred": ["Bad Bevensen"], "name:ell_x_preferred": ["\u039c\u03c0\u03b1\u03c4 \u039c\u03c0\u03ad\u03b2\u03b5\u03bd\u03c3\u03b5\u03bd"], "name:eng_x_preferred": ["Bad Bevensen"], "name:epo_x_preferred": ["Bad Bevensen"], "name:est_x_preferred": ["Bad Bevensen"], "name:eus_x_preferred": ["Bad Bevensen"], "name:fas_x_preferred": ["\u0628\u0627\u062f \u0628\u0648\u0646\u0633\u0646"], "name:fin_x_preferred": ["Bad Bevensen"], "name:fra_x_preferred": ["Bad Bevensen"], "name:frp_x_preferred": ["Bad Bevensen"], "name:fur_x_preferred": ["Bad Bevensen"], "name:gla_x_preferred": ["Bad Bevensen"], "name:gle_x_preferred": ["Bad Bevensen"], "name:glg_x_preferred": ["Bad Bevensen"], "name:gsw_x_preferred": ["Bad Bevensen"], "name:hbs_x_preferred": ["Bad Bevensen"], "name:hrv_x_preferred": ["Bad Bevensen"], "name:hun_x_preferred": ["Bad Bevensen"], "name:ido_x_preferred": ["Bad Bevensen"], "name:ile_x_preferred": ["Bad Bevensen"], "name:ina_x_preferred": ["Bad Bevensen"], "name:ind_x_preferred": ["Bad Bevensen"], "name:isl_x_preferred": ["Bad Bevensen"], "name:ita_x_preferred": ["Bad Bevensen"], "name:kaz_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"], "name:kir_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"], "name:kon_x_preferred": ["Bad Bevensen"], "name:kur_x_preferred": ["Bad Bevensen"], "name:lat_x_preferred": ["Bad Bevensen"], "name:lij_x_preferred": ["Bad Bevensen"], "name:lim_x_preferred": ["Bad Bevensen"], "name:lld_x_preferred": ["Bad Bevensen"], "name:ltz_x_preferred": ["Bad Bevensen"], "name:min_x_preferred": ["Bad Bevensen"], "name:mkd_x_preferred": ["\u0411\u0430\u0434 \u0411\u0435\u0432\u0435\u043d\u0441\u0435\u043d"], "name:mlg_x_preferred": ["Bad Bevensen"], "name:msa_x_preferred": ["Bad Bevensen"], "name:nap_x_preferred": ["Bad Bevensen"], "name:nds_x_preferred": ["B\u00e4msen"], "name:nld_x_preferred": ["Bad Bevensen"], "name:nno_x_preferred": ["Bad Bevensen"], "name:nob_x_preferred": ["Bad Bevensen"], "name:nrm_x_preferred": ["Bad Bevensen"], "name:oci_x_preferred": ["Bad Bevensen"], "name:pcd_x_preferred": ["Bad Bevensen"], "name:pms_x_preferred": ["Bad Bevensen"], "name:pol_x_preferred": ["Bad Bevensen"], "name:por_x_preferred": ["Bad Bevensen"], "name:roh_x_preferred": ["Bad Bevensen"], "name:ron_x_preferred": ["Bad Bevensen"], "name:rus_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"], "name:scn_x_preferred": ["Bad Bevensen"], "name:sco_x_preferred": ["Bad Bevensen"], "name:slk_x_preferred": ["Bad Bevensen"], "name:slv_x_preferred": ["Bad Bevensen"], "name:spa_x_preferred": ["Bad Bevensen"], "name:srd_x_preferred": ["Bad Bevensen"], "name:srp_x_preferred": ["\u0411\u0430\u0434 \u0411\u0435\u0432\u0435\u043d\u0441\u0435\u043d"], "name:swa_x_preferred": ["Bad Bevensen"], "name:swe_x_preferred": ["Bad Bevensen"], "name:tat_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"], "name:tum_x_preferred": ["Bad Bevensen"], "name:tur_x_preferred": ["Bad Bevensen"], "name:ukr_x_preferred": ["\u0411\u0430\u0434-\u0411\u0435\u0444\u0435\u043d\u0437\u0435\u043d"], "name:und_x_variant": ["Bevensen"], "name:uzb_x_preferred": ["Bad Bevensen"], "name:vec_x_preferred": ["Bad Bevensen"], "name:vie_x_preferred": ["Bad Bevensen"], "name:vls_x_preferred": ["Bad Bevensen"], "name:vol_x_preferred": ["Bad Bevensen"], "name:war_x_preferred": ["Bad Bevensen"], "name:wln_x_preferred": ["Bad Bevensen"], "name:wol_x_preferred": ["Bad Bevensen"], "name:zho_x_preferred": ["\u5df4\u7279\u8d1d\u6587\u68ee"], "name:zho_x_variant": ["\u5df4\u5fb7\u8d1d\u82ac\u68ee"], "name:zul_x_preferred": ["Bad Bevensen"], "nav:latitude": 53.078828, "nav:longitude": 10.577117, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "Uelzen", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Jelmstorf", "qs:la_lc": "*DE03036001012", "qs:level": "locality", "qs:loc": "Bad Bevensen", "qs:loc_alt": "Bad Bevensen", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557454, "qs_pg:gn_pop": 8620, "qs_pg:name": "Gemeinde Bad Bevensen", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Niedersachsen", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 1, "qs_pg:photos_9r": 4, "qs_pg:photos_all": 204, "qs_pg:photos_sr": 1, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1312034, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12629775, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 155, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Niedersachsen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682555, 102191581, 1377688001, 85633111, 102063981], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_03360002", "eurostat:nuts_2021_id": "03360002", "gn:id": 2949511, "gp:id": 638644, "qs_pg:id": 847736, "wd:id": "Q558569", "wk:page": "Bad Bevensen"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "2c27a4147057a562a08a2b931f12f268", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063981, "localadmin_id": 1377688001, "locality_id": 101818439, "region_id": 85682555}], "wof:id": 101818439, "wof:lastmodified": 1690871938, "wof:name": "Bad Bevensen", "wof:parent_id": 1377688001, "wof:placetype": "locality", "wof:population": 9248, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125338133, 1125284455], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.493782, 53.035545, 10.6619, 53.109182], "geometry": {"coordinates": [[[[10.615841, 53.098508], [10.62818, 53.091948], [10.629605, 53.091755], [10.649106, 53.089102], [10.648597, 53.088635], [10.647834, 53.088187], [10.649635, 53.088192], [10.649714, 53.087834], [10.651316, 53.087662], [10.658186, 53.086397], [10.660863, 53.086165], [10.6619, 53.08448], [10.660696, 53.083062], [10.659929, 53.080637], [10.659168, 53.079839], [10.65803, 53.07984], [10.657454, 53.077814], [10.658449, 53.077727], [10.657919, 53.075302], [10.655929, 53.075476], [10.655919, 53.075204], [10.655836, 53.072995], [10.657455, 53.073001], [10.657253, 53.0707], [10.655255, 53.07048], [10.655488, 53.071309], [10.654494, 53.071539], [10.654029, 53.071055], [10.652496, 53.069458], [10.6522, 53.069016], [10.651925, 53.068603], [10.652351, 53.068488], [10.653297, 53.06823], [10.653913, 53.068115], [10.654908, 53.068114], [10.655306, 53.068166], [10.655761, 53.068227], [10.656709, 53.068283], [10.657562, 53.068281], [10.65832, 53.068252], [10.658936, 53.068137], [10.659014, 53.068113], [10.659599, 53.067936], [10.660214, 53.067622], [10.660733, 53.067164], [10.661348, 53.066992], [10.660275, 53.060169], [10.655231, 53.060223], [10.655293, 53.056383], [10.654463, 53.05629], [10.653777, 53.056213], [10.653776, 53.055808], [10.653774, 53.0553], [10.649227, 53.055648], [10.648886, 53.056254], [10.648615, 53.056733], [10.64459, 53.057166], [10.644601, 53.057018], [10.644771, 53.054711], [10.644435, 53.053313], [10.643138, 53.053514], [10.642942, 53.053544], [10.641642, 53.053745], [10.641122, 53.054325], [10.640131, 53.05543], [10.637669, 53.055833], [10.634974, 53.05752], [10.632663, 53.057955], [10.632179, 53.05738], [10.63434, 53.056671], [10.63651, 53.05501], [10.636148, 53.054036], [10.636042, 53.050427], [10.636962, 53.044232], [10.636046, 53.04289], [10.631797, 53.04067], [10.62748, 53.040799], [10.622015, 53.038504], [10.618352, 53.037652], [10.612708, 53.037229], [10.611168, 53.036878], [10.603231, 53.035545], [10.603354, 53.037235], [10.582554, 53.039705], [10.579793, 53.038844], [10.579125, 53.040409], [10.578918, 53.041479], [10.579038, 53.042234], [10.579248, 53.042683], [10.579562, 53.043375], [10.579787, 53.044112], [10.580146, 53.044615], [10.578745, 53.04512], [10.57627, 53.045993], [10.573181, 53.045033], [10.573544, 53.04826], [10.575636, 53.049994], [10.57067, 53.051318], [10.57151, 53.05205], [10.570567, 53.054666], [10.571397, 53.055379], [10.575307, 53.056543], [10.574278, 53.058759], [10.577174, 53.059432], [10.579788, 53.061183], [10.579552, 53.062469], [10.575334, 53.06569], [10.568277, 53.066764], [10.568261, 53.065928], [10.56341, 53.065598], [10.559695, 53.066121], [10.556023, 53.06543], [10.555394, 53.063956], [10.548961, 53.062323], [10.549111, 53.063411], [10.541978, 53.063], [10.54302, 53.061148], [10.541871, 53.061067], [10.540187, 53.062722], [10.536292, 53.062939], [10.535193, 53.069564], [10.531417, 53.070222], [10.511432, 53.066674], [10.510417, 53.067699], [10.50394, 53.067664], [10.493851, 53.066917], [10.493782, 53.068619], [10.497857, 53.071673], [10.503402, 53.072928], [10.50194, 53.074487], [10.498701, 53.075107], [10.499343, 53.077345], [10.497597, 53.077219], [10.497714, 53.081719], [10.499576, 53.08359], [10.502222, 53.084637], [10.503684, 53.084351], [10.50421, 53.084141], [10.506196, 53.087026], [10.510646, 53.086559], [10.51208, 53.089992], [10.518336, 53.090055], [10.517903, 53.088886], [10.527409, 53.088474], [10.531378, 53.088866], [10.533433, 53.089817], [10.542272, 53.089761], [10.544232, 53.093958], [10.548682, 53.093921], [10.551801, 53.092598], [10.555106, 53.095976], [10.556433, 53.094879], [10.559782, 53.097206], [10.557185, 53.098681], [10.559209, 53.103031], [10.567796, 53.103569], [10.567748, 53.104501], [10.567116, 53.105144], [10.571038, 53.104518], [10.571434, 53.105232], [10.573255, 53.107958], [10.5776, 53.108383], [10.58579, 53.109182], [10.591971, 53.107442], [10.588057, 53.098412], [10.588782, 53.097668], [10.589979, 53.097475], [10.592622, 53.097714], [10.59496, 53.097926], [10.599211, 53.097923], [10.609748, 53.097651], [10.615841, 53.098508]]]], "type": "MultiPolygon"}}
+{
+  "id": 101818439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_03360002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Bevensen, Stadt",
+    "eurostat:nuts_2021_id":"03360002",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE9",
+    "eurostat:nuts_2021_level_2":"DE93",
+    "eurostat:nuts_2021_level_3":"DE93A",
+    "eurostat:nuts_2021_level_lau":"03360002",
+    "eurostat:population":9248,
+    "eurostat:population_year":2020,
+    "geom:area":0.006454,
+    "geom:area_square_m":47944591.129046,
+    "geom:bbox":"10.493782,53.035545,10.6619,53.109182",
+    "geom:latitude":53.073136,
+    "geom:longitude":10.589459,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":8620,
+    "iso:country":"DE",
+    "lbl:latitude":53.078828,
+    "lbl:longitude":10.577117,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":53.078828,
+    "mps:longitude":10.577117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u064a\u0641\u064a\u0646\u0633\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ast_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0648\u0646\u0633\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:bre_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:cat_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ceb_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ces_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:cym_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:dan_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:deu_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4 \u039c\u03c0\u03ad\u03b2\u03b5\u03bd\u03c3\u03b5\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:epo_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:est_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:eus_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u0628\u0648\u0646\u0633\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:fra_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:frp_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:fur_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:gla_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:gle_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:glg_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:gsw_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:hbs_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:hrv_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:hun_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ido_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ile_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ina_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ind_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:isl_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ita_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:kur_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:lat_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:lij_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:lim_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:lld_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ltz_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:min_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0434 \u0411\u0435\u0432\u0435\u043d\u0441\u0435\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:msa_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:nap_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:nds_x_preferred":[
+        "B\u00e4msen"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:nno_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:nob_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:nrm_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:oci_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:pcd_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:pms_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:pol_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:por_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:roh_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ron_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:sco_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:slk_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:slv_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:srd_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434 \u0411\u0435\u0432\u0435\u043d\u0441\u0435\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:swe_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u0432\u0435\u043d\u0437\u0435\u043d"
+    ],
+    "name:tum_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:tur_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434-\u0411\u0435\u0444\u0435\u043d\u0437\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Bevensen"
+    ],
+    "name:uzb_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:vec_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:vie_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:vls_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:vol_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:war_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:wln_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:wol_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u8d1d\u6587\u68ee"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5fb7\u8d1d\u82ac\u68ee"
+    ],
+    "name:zul_x_preferred":[
+        "Bad Bevensen"
+    ],
+    "nav:latitude":53.078828,
+    "nav:longitude":10.577117,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Uelzen",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Jelmstorf",
+    "qs:la_lc":"*DE03036001012",
+    "qs:level":"locality",
+    "qs:loc":"Bad Bevensen",
+    "qs:loc_alt":"Bad Bevensen",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557454,
+    "qs_pg:gn_pop":8620,
+    "qs_pg:name":"Gemeinde Bad Bevensen",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Niedersachsen",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":204,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1312034,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12629775,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":155,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Niedersachsen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377688001,
+        85633111,
+        102063981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_03360002",
+        "eurostat:nuts_2021_id":"03360002",
+        "gn:id":2949511,
+        "gp:id":638644,
+        "qs_pg:id":847736,
+        "wd:id":"Q558569",
+        "wk:page":"Bad Bevensen"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"2c27a4147057a562a08a2b931f12f268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063981,
+            "localadmin_id":1377688001,
+            "locality_id":101818439,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101818439,
+    "wof:lastmodified":1690871938,
+    "wof:name":"Bad Bevensen",
+    "wof:parent_id":1377688001,
+    "wof:placetype":"locality",
+    "wof:population":9248,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125338133,
+        1125284455
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.493782,
+    53.035545,
+    10.6619,
+    53.109182
+],
+  "geometry": {"coordinates":[[[[10.615841,53.098508],[10.62818,53.091948],[10.629605,53.091755],[10.649106,53.089102],[10.648597,53.088635],[10.647834,53.088187],[10.649635,53.088192],[10.649714,53.087834],[10.651316,53.087662],[10.658186,53.086397],[10.660863,53.086165],[10.6619,53.08448],[10.660696,53.083062],[10.659929,53.080637],[10.659168,53.079839],[10.65803,53.07984],[10.657454,53.077814],[10.658449,53.077727],[10.657919,53.075302],[10.655929,53.075476],[10.655919,53.075204],[10.655836,53.072995],[10.657455,53.073001],[10.657253,53.0707],[10.655255,53.07048],[10.655488,53.071309],[10.654494,53.071539],[10.654029,53.071055],[10.652496,53.069458],[10.6522,53.069016],[10.651925,53.068603],[10.652351,53.068488],[10.653297,53.06823],[10.653913,53.068115],[10.654908,53.068114],[10.655306,53.068166],[10.655761,53.068227],[10.656709,53.068283],[10.657562,53.068281],[10.65832,53.068252],[10.658936,53.068137],[10.659014,53.068113],[10.659599,53.067936],[10.660214,53.067622],[10.660733,53.067164],[10.661348,53.066992],[10.660275,53.060169],[10.655231,53.060223],[10.655293,53.056383],[10.654463,53.05629],[10.653777,53.056213],[10.653776,53.055808],[10.653774,53.0553],[10.649227,53.055648],[10.648886,53.056254],[10.648615,53.056733],[10.64459,53.057166],[10.644601,53.057018],[10.644771,53.054711],[10.644435,53.053313],[10.643138,53.053514],[10.642942,53.053544],[10.641642,53.053745],[10.641122,53.054325],[10.640131,53.05543],[10.637669,53.055833],[10.634974,53.05752],[10.632663,53.057955],[10.632179,53.05738],[10.63434,53.056671],[10.63651,53.05501],[10.636148,53.054036],[10.636042,53.050427],[10.636962,53.044232],[10.636046,53.04289],[10.631797,53.04067],[10.62748,53.040799],[10.622015,53.038504],[10.618352,53.037652],[10.612708,53.037229],[10.611168,53.036878],[10.603231,53.035545],[10.603354,53.037235],[10.582554,53.039705],[10.579793,53.038844],[10.579125,53.040409],[10.578918,53.041479],[10.579038,53.042234],[10.579248,53.042683],[10.579562,53.043375],[10.579787,53.044112],[10.580146,53.044615],[10.578745,53.04512],[10.57627,53.045993],[10.573181,53.045033],[10.573544,53.04826],[10.575636,53.049994],[10.57067,53.051318],[10.57151,53.05205],[10.570567,53.054666],[10.571397,53.055379],[10.575307,53.056543],[10.574278,53.058759],[10.577174,53.059432],[10.579788,53.061183],[10.579552,53.062469],[10.575334,53.06569],[10.568277,53.066764],[10.568261,53.065928],[10.56341,53.065598],[10.559695,53.066121],[10.556023,53.06543],[10.555394,53.063956],[10.548961,53.062323],[10.549111,53.063411],[10.541978,53.063],[10.54302,53.061148],[10.541871,53.061067],[10.540187,53.062722],[10.536292,53.062939],[10.535193,53.069564],[10.531417,53.070222],[10.511432,53.066674],[10.510417,53.067699],[10.50394,53.067664],[10.493851,53.066917],[10.493782,53.068619],[10.497857,53.071673],[10.503402,53.072928],[10.50194,53.074487],[10.498701,53.075107],[10.499343,53.077345],[10.497597,53.077219],[10.497714,53.081719],[10.499576,53.08359],[10.502222,53.084637],[10.503684,53.084351],[10.50421,53.084141],[10.506196,53.087026],[10.510646,53.086559],[10.51208,53.089992],[10.518336,53.090055],[10.517903,53.088886],[10.527409,53.088474],[10.531378,53.088866],[10.533433,53.089817],[10.542272,53.089761],[10.544232,53.093958],[10.548682,53.093921],[10.551801,53.092598],[10.555106,53.095976],[10.556433,53.094879],[10.559782,53.097206],[10.557185,53.098681],[10.559209,53.103031],[10.567796,53.103569],[10.567748,53.104501],[10.567116,53.105144],[10.571038,53.104518],[10.571434,53.105232],[10.573255,53.107958],[10.5776,53.108383],[10.58579,53.109182],[10.591971,53.107442],[10.588057,53.098412],[10.588782,53.097668],[10.589979,53.097475],[10.592622,53.097714],[10.59496,53.097926],[10.599211,53.097923],[10.609748,53.097651],[10.615841,53.098508]]]],"type":"MultiPolygon"}
+}

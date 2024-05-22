@@ -1,1 +1,429 @@
-{"id": 101760657, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_08118078", "eurostat:level_code": "lau", "eurostat:name_local": "Freiberg am Neckar, Stadt", "eurostat:nuts_2021_id": "08118078", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE1", "eurostat:nuts_2021_level_2": "DE11", "eurostat:nuts_2021_level_3": "DE115", "eurostat:nuts_2021_level_lau": "08118078", "eurostat:population": 15924, "eurostat:population_year": 2020, "geom:area": 0.001625, "geom:area_square_m": 13203829.502931, "geom:bbox": "9.151319,48.915224,9.228938,48.950446", "geom:latitude": 48.933579, "geom:longitude": 9.189637, "gn:country": null, "gn:fcode": "ADM4", "gn:population": 15782, "iso:country": "DE", "lbl:latitude": 48.931296, "lbl:longitude": 9.190986, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 48.931296, "mps:longitude": 9.190986, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:afr_x_preferred": ["Freiberg am Neckar"], "name:als_x_preferred": ["Freiberg am Neckar"], "name:ara_x_preferred": ["\u0641\u0631\u0627\u064a\u0628\u0631\u063a \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"], "name:arg_x_preferred": ["Freiberg am Neckar"], "name:arz_x_preferred": ["\u0641\u0631\u0627\u064a\u0628\u0631\u062c \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"], "name:ast_x_preferred": ["Freiberg am Neckar"], "name:bar_x_preferred": ["Freiberg am Neckar"], "name:bre_x_preferred": ["Freiberg am Neckar"], "name:cat_x_preferred": ["Freiberg am Neckar"], "name:ceb_x_preferred": ["Freiberg am Neckar"], "name:ces_x_preferred": ["Freiberg am Neckar"], "name:che_x_preferred": ["\u041d\u0435\u043a\u043a\u0430\u0440-\u0442\u04c0\u0435\u0440\u0430-\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433"], "name:cos_x_preferred": ["Freiberg am Neckar"], "name:cym_x_preferred": ["Freiberg am Neckar"], "name:dan_x_preferred": ["Freiberg am Neckar"], "name:deu_x_preferred": ["Freiberg am Neckar"], "name:deu_x_variant": ["Freiberg", "Freiberg (Neckar)", "Freiberg/Neckar"], "name:eng_x_preferred": ["Freiberg am Neckar"], "name:epo_x_preferred": ["Freiberg am Neckar"], "name:est_x_preferred": ["Freiberg am Neckar"], "name:eus_x_preferred": ["Freiberg am Neckar"], "name:fas_x_preferred": ["\u0641\u0631\u0627\u06cc\u0628\u0631\u06af \u0622\u0645 \u0646\u06a9\u0627\u0631"], "name:fas_x_variant": ["\u0641\u0631\u0627\u06cc\u0628\u0631\u06af \u0622\u0646 \u062f\u0631 \u0646\u06a9\u0627"], "name:fin_x_preferred": ["Freiberg am Neckar"], "name:fra_x_preferred": ["Freiberg am Neckar"], "name:frp_x_preferred": ["Freiberg am Neckar"], "name:fur_x_preferred": ["Freiberg am Neckar"], "name:gla_x_preferred": ["Freiberg am Neckar"], "name:gle_x_preferred": ["Freiberg am Neckar"], "name:glg_x_preferred": ["Freiberg am Neckar"], "name:gsw_x_preferred": ["Freiberg am Neckar"], "name:hbs_x_preferred": ["Freiberg am Neckar"], "name:hrv_x_preferred": ["Freiberg am Neckar"], "name:hun_x_preferred": ["Freiberg am Neckar"], "name:ido_x_preferred": ["Freiberg am Neckar"], "name:ile_x_preferred": ["Freiberg am Neckar"], "name:ina_x_preferred": ["Freiberg am Neckar"], "name:ind_x_preferred": ["Freiberg am Neckar"], "name:isl_x_preferred": ["Freiberg am Neckar"], "name:ita_x_preferred": ["Freiberg am Neckar"], "name:jpn_x_preferred": ["\u30d5\u30e9\u30a4\u30d9\u30eb\u30af\u30fb\u30a2\u30e0\u30fb\u30cd\u30c3\u30ab\u30fc"], "name:kaz_x_preferred": ["\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"], "name:kon_x_preferred": ["Freiberg am Neckar"], "name:kur_x_preferred": ["Freiberg am Neckar"], "name:lat_x_preferred": ["Freiberg am Neckar"], "name:lij_x_preferred": ["Freiberg am Neckar"], "name:lim_x_preferred": ["Freiberg am Neckar"], "name:lld_x_preferred": ["Freiberg am Neckar"], "name:lmo_x_preferred": ["Freiberg am Neckar"], "name:ltz_x_preferred": ["Freiberg am Neckar"], "name:min_x_preferred": ["Freiberg am Neckar"], "name:mkd_x_preferred": ["\u0424\u0440\u0430\u0458\u0431\u0435\u0440\u0433 \u043d\u0430 \u041d\u0435\u043a\u0430\u0440"], "name:mlg_x_preferred": ["Freiberg am Neckar"], "name:msa_x_preferred": ["Freiberg am Neckar"], "name:nap_x_preferred": ["Freiberg am Neckar"], "name:nds_x_preferred": ["Freiberg am Neckar"], "name:nld_x_preferred": ["Freiberg am Neckar"], "name:nno_x_preferred": ["Freiberg am Neckar"], "name:nob_x_preferred": ["Freiberg am Neckar"], "name:nrm_x_preferred": ["Freiberg am Neckar"], "name:oci_x_preferred": ["Freiberg am Neckar"], "name:pcd_x_preferred": ["Freiberg am Neckar"], "name:pms_x_preferred": ["Freiberg am Neckar"], "name:pol_x_preferred": ["Freiberg am Neckar"], "name:por_x_preferred": ["Freiberg"], "name:roh_x_preferred": ["Freiberg am Neckar"], "name:ron_x_preferred": ["Freiberg am Neckar"], "name:rus_x_preferred": ["\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"], "name:rus_x_variant": ["\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"], "name:scn_x_preferred": ["Freiberg am Neckar"], "name:sco_x_preferred": ["Freiberg am Neckar"], "name:slk_x_preferred": ["Freiberg am Neckar"], "name:slv_x_preferred": ["Freiberg am Neckar"], "name:spa_x_preferred": ["Freiberg am Neckar"], "name:srd_x_preferred": ["Freiberg am Neckar"], "name:srp_x_preferred": ["\u0424\u0440\u0430\u0458\u0431\u0435\u0440\u0433 \u0430\u043c \u041d\u0435\u043a\u0430\u0440"], "name:swa_x_preferred": ["Freiberg am Neckar"], "name:swe_x_preferred": ["Freiberg am Neckar"], "name:tat_x_preferred": ["\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"], "name:tum_x_preferred": ["Freiberg am Neckar"], "name:tur_x_preferred": ["Freiberg am Neckar"], "name:ukr_x_preferred": ["\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"], "name:uzb_x_preferred": ["Freiberg am Neckar"], "name:vec_x_preferred": ["Freiberg am Neckar"], "name:vie_x_preferred": ["Freiberg am Neckar"], "name:vls_x_preferred": ["Freiberg am Neckar"], "name:vol_x_preferred": ["Freiberg am Neckar"], "name:war_x_preferred": ["Freiberg am Neckar"], "name:wln_x_preferred": ["Freiberg am Neckar"], "name:wol_x_preferred": ["Freiberg am Neckar"], "name:zho_x_preferred": ["\u5185\u5361\u6cb3\u7554\u5f17\u8d56\u8d1d\u683c"], "name:zul_x_preferred": ["Freiberg am Neckar"], "nav:latitude": 48.931296, "nav:longitude": 9.190986, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Baden-W\u00fcrttemberg", "qs:a1r": "0", "qs:a2": "Ludwigsburg", "qs:a2r": "Stuttgart", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Pleidelsheim", "qs:la_lc": "*DE08101804063", "qs:level": "locality", "qs:loc": "Freiberg am Neckar", "qs:loc_alt": "Freiberg am Neckar", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": null, "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557966, "qs_pg:gn_pop": 15782, "qs_pg:name": "Gemeinde Freiberg am Neckar", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Baden-W\u00fcrttemberg", "qs_pg:photos": 137, "qs_pg:photos_1k": 28, "qs_pg:photos_9k": 3, "qs_pg:photos_9r": 5, "qs_pg:photos_all": 566, "qs_pg:photos_sr": 3, "qs_pg:pop_sr": 0, "qs_pg:qs_id": 1081280, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12623245, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:area": 13.14, "wd:latitude": 48.934722, "wd:longitude": 9.191667, "wd:population": 7024, "wd:wordcount": 2134, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Baden-W\u00fcrttemberg", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682567, 102191581, 85633111, 1377687385, 404227549, 102063373], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_08118078", "eurostat:nuts_2021_id": "08118078", "fct:id": "073edec0-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2925189, "gp:id": 650434, "qs_pg:id": 142577, "wd:id": "Q61840", "wk:page": "Freiberg am Neckar"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "bb1c2cd5c65b16d97f7846fb0a663746", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063373, "localadmin_id": 1377687385, "locality_id": 101760657, "macrocounty_id": 404227549, "region_id": 85682567}], "wof:id": 101760657, "wof:lang": ["ger"], "wof:lastmodified": 1690872808, "wof:name": "Freiberg am Neckar", "wof:parent_id": 1377687385, "wof:placetype": "locality", "wof:population": 15924, "wof:population_rank": 6, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125280671, 1125342777], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.151319, 48.915224, 9.228938, 48.950446], "geometry": {"coordinates": [[[[9.225512, 48.930036], [9.215276, 48.926861], [9.2088, 48.92245], [9.199241, 48.922582], [9.199617, 48.921804], [9.197904, 48.92155], [9.198441, 48.919865], [9.191588, 48.91786], [9.188114, 48.918134], [9.187052, 48.917024], [9.185972, 48.916398], [9.185318, 48.915224], [9.179325, 48.91651], [9.177339, 48.917819], [9.173416, 48.918554], [9.172006, 48.918731], [9.171313, 48.921605], [9.172051, 48.923053], [9.167976, 48.923832], [9.162307, 48.922991], [9.159369, 48.925564], [9.157283, 48.923506], [9.154754, 48.9246], [9.157875, 48.926257], [9.158398, 48.930545], [9.158475, 48.933181], [9.164211, 48.933115], [9.164218, 48.933853], [9.158135, 48.934644], [9.158216, 48.936623], [9.153373, 48.93697], [9.153346, 48.940415], [9.158319, 48.940304], [9.158388, 48.942266], [9.154001, 48.944345], [9.154016, 48.946738], [9.151319, 48.947982], [9.155762, 48.94684], [9.165553, 48.944897], [9.16928, 48.945409], [9.1692, 48.947828], [9.18034, 48.948005], [9.182161, 48.94782], [9.181608, 48.945052], [9.184952, 48.945136], [9.187031, 48.942316], [9.190044, 48.939924], [9.191016, 48.94085], [9.188957, 48.942871], [9.187927, 48.944695], [9.188738, 48.944506], [9.189894, 48.944187], [9.193997, 48.942931], [9.195801, 48.942385], [9.197383, 48.941954], [9.199258, 48.944315], [9.204952, 48.944345], [9.221588, 48.950446], [9.222648, 48.949613], [9.217538, 48.947629], [9.218027, 48.947194], [9.220808, 48.944798], [9.223911, 48.942116], [9.222556, 48.941192], [9.226258, 48.939067], [9.227568, 48.939604], [9.228938, 48.93424], [9.225275, 48.9323], [9.225512, 48.930036]]]], "type": "MultiPolygon"}}
+{
+  "id": 101760657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_08118078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freiberg am Neckar, Stadt",
+    "eurostat:nuts_2021_id":"08118078",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE1",
+    "eurostat:nuts_2021_level_2":"DE11",
+    "eurostat:nuts_2021_level_3":"DE115",
+    "eurostat:nuts_2021_level_lau":"08118078",
+    "eurostat:population":15924,
+    "eurostat:population_year":2020,
+    "geom:area":0.001625,
+    "geom:area_square_m":13203829.502931,
+    "geom:bbox":"9.151319,48.915224,9.228938,48.950446",
+    "geom:latitude":48.933579,
+    "geom:longitude":9.189637,
+    "gn:country":null,
+    "gn:fcode":"ADM4",
+    "gn:population":15782,
+    "iso:country":"DE",
+    "lbl:latitude":48.931296,
+    "lbl:longitude":9.190986,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":48.931296,
+    "mps:longitude":9.190986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:als_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0627\u064a\u0628\u0631\u063a \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"
+    ],
+    "name:arg_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:arz_x_preferred":[
+        "\u0641\u0631\u0627\u064a\u0628\u0631\u062c \u0622\u0645 \u0646\u064a\u0643\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:bar_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:bre_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:cat_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ceb_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ces_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0435\u043a\u043a\u0430\u0440-\u0442\u04c0\u0435\u0440\u0430-\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433"
+    ],
+    "name:cos_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:cym_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:dan_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:deu_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:deu_x_variant":[
+        "Freiberg",
+        "Freiberg (Neckar)",
+        "Freiberg/Neckar"
+    ],
+    "name:eng_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:epo_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:est_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:eus_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0627\u06cc\u0628\u0631\u06af \u0622\u0645 \u0646\u06a9\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0627\u06cc\u0628\u0631\u06af \u0622\u0646 \u062f\u0631 \u0646\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:fra_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:frp_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:fur_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:gla_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:gle_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:glg_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:gsw_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:hbs_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:hrv_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:hun_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ido_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ile_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ina_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ind_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:isl_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ita_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30a4\u30d9\u30eb\u30af\u30fb\u30a2\u30e0\u30fb\u30cd\u30c3\u30ab\u30fc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:kur_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:lat_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:lij_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:lim_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:lld_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:lmo_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ltz_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:min_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0440\u0430\u0458\u0431\u0435\u0440\u0433 \u043d\u0430 \u041d\u0435\u043a\u0430\u0440"
+    ],
+    "name:mlg_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:msa_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:nap_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:nds_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:nld_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:nno_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:nob_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:nrm_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:oci_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:pcd_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:pms_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:pol_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:por_x_preferred":[
+        "Freiberg"
+    ],
+    "name:roh_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ron_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u043d\u0430-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:sco_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:slk_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:slv_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:spa_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:srd_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0440\u0430\u0458\u0431\u0435\u0440\u0433 \u0430\u043c \u041d\u0435\u043a\u0430\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:swe_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440\u0435"
+    ],
+    "name:tum_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:tur_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0430\u0439\u0431\u0435\u0440\u0433-\u0430\u043c-\u041d\u0435\u043a\u043a\u0430\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:vec_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:vie_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:vls_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:vol_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:war_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:wln_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:wol_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u5361\u6cb3\u7554\u5f17\u8d56\u8d1d\u683c"
+    ],
+    "name:zul_x_preferred":[
+        "Freiberg am Neckar"
+    ],
+    "nav:latitude":48.931296,
+    "nav:longitude":9.190986,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Baden-W\u00fcrttemberg",
+    "qs:a1r":"0",
+    "qs:a2":"Ludwigsburg",
+    "qs:a2r":"Stuttgart",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Pleidelsheim",
+    "qs:la_lc":"*DE08101804063",
+    "qs:level":"locality",
+    "qs:loc":"Freiberg am Neckar",
+    "qs:loc_alt":"Freiberg am Neckar",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557966,
+    "qs_pg:gn_pop":15782,
+    "qs_pg:name":"Gemeinde Freiberg am Neckar",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Baden-W\u00fcrttemberg",
+    "qs_pg:photos":137,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":566,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1081280,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12623245,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:area":13.14,
+    "wd:latitude":48.934722,
+    "wd:longitude":9.191667,
+    "wd:population":7024,
+    "wd:wordcount":2134,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Baden-W\u00fcrttemberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        85633111,
+        1377687385,
+        404227549,
+        102063373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_08118078",
+        "eurostat:nuts_2021_id":"08118078",
+        "fct:id":"073edec0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2925189,
+        "gp:id":650434,
+        "qs_pg:id":142577,
+        "wd:id":"Q61840",
+        "wk:page":"Freiberg am Neckar"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"bb1c2cd5c65b16d97f7846fb0a663746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063373,
+            "localadmin_id":1377687385,
+            "locality_id":101760657,
+            "macrocounty_id":404227549,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":101760657,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690872808,
+    "wof:name":"Freiberg am Neckar",
+    "wof:parent_id":1377687385,
+    "wof:placetype":"locality",
+    "wof:population":15924,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125280671,
+        1125342777
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.151319,
+    48.915224,
+    9.228938,
+    48.950446
+],
+  "geometry": {"coordinates":[[[[9.225512,48.930036],[9.215276,48.926861],[9.2088,48.92245],[9.199241,48.922582],[9.199617,48.921804],[9.197904,48.92155],[9.198441,48.919865],[9.191588,48.91786],[9.188114,48.918134],[9.187052,48.917024],[9.185972,48.916398],[9.185318,48.915224],[9.179325,48.91651],[9.177339,48.917819],[9.173416,48.918554],[9.172006,48.918731],[9.171313,48.921605],[9.172051,48.923053],[9.167976,48.923832],[9.162307,48.922991],[9.159369,48.925564],[9.157283,48.923506],[9.154754,48.9246],[9.157875,48.926257],[9.158398,48.930545],[9.158475,48.933181],[9.164211,48.933115],[9.164218,48.933853],[9.158135,48.934644],[9.158216,48.936623],[9.153373,48.93697],[9.153346,48.940415],[9.158319,48.940304],[9.158388,48.942266],[9.154001,48.944345],[9.154016,48.946738],[9.151319,48.947982],[9.155762,48.94684],[9.165553,48.944897],[9.16928,48.945409],[9.1692,48.947828],[9.18034,48.948005],[9.182161,48.94782],[9.181608,48.945052],[9.184952,48.945136],[9.187031,48.942316],[9.190044,48.939924],[9.191016,48.94085],[9.188957,48.942871],[9.187927,48.944695],[9.188738,48.944506],[9.189894,48.944187],[9.193997,48.942931],[9.195801,48.942385],[9.197383,48.941954],[9.199258,48.944315],[9.204952,48.944345],[9.221588,48.950446],[9.222648,48.949613],[9.217538,48.947629],[9.218027,48.947194],[9.220808,48.944798],[9.223911,48.942116],[9.222556,48.941192],[9.226258,48.939067],[9.227568,48.939604],[9.228938,48.93424],[9.225275,48.9323],[9.225512,48.930036]]]],"type":"MultiPolygon"}
+}

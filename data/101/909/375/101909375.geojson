@@ -1,1 +1,155 @@
-{"id": 101909375, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 5.8e-05, "geom:area_square_m": 438340.262013, "geom:bbox": "12.674814,51.986518,12.692434,51.992006", "geom:latitude": 51.98922, "geom:longitude": 12.684389, "gn:population": 627, "iso:country": "DE", "lbl:latitude": 51.989277, "lbl:longitude": 12.683675, "lbl:max_zoom": 17.0, "lbl:min_zoom": 12.5, "mps:latitude": 51.989277, "mps:longitude": 12.683675, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 11.0, "name:bak_x_preferred": ["\u0411\u043e\u0441\u0434\u043e\u0440\u0444"], "name:ceb_x_preferred": ["Bo\u00dfdorf"], "name:che_x_preferred": ["\u0411\u043e\u0441\u0434\u043e\u0440\u0444"], "name:deu_x_preferred": ["Bo\u00dfdorf"], "name:eng_x_preferred": ["Bo\u00dfdorf"], "name:epo_x_preferred": ["Bo\u00dfdorf"], "name:fas_x_preferred": ["\u0628\u0648\u0633\u062f\u0648\u0631\u0641"], "name:fra_x_preferred": ["Bo\u00dfdorf"], "name:gle_x_preferred": ["Bo\u00dfdorf"], "name:kaz_x_preferred": ["\u0411\u043e\u0441\u0434\u043e\u0440\u0444"], "name:kir_x_preferred": ["\u0411\u043e\u0441\u0434\u043e\u0440\u0444"], "name:mkd_x_preferred": ["\u0411\u043e\u0441\u0434\u043e\u0440\u0444"], "name:nld_x_preferred": ["Bo\u00dfdorf"], "name:por_x_preferred": ["Bo\u00dfdorf"], "name:ron_x_preferred": ["Bo\u00dfdorf"], "name:rus_x_preferred": ["\u0411\u043e\u0441\u0434\u043e\u0440\u0444"], "name:tat_x_preferred": ["\u0411\u043e\u0441\u0434\u043e\u0440\u0444"], "name:und_x_variant": ["Bossdorf"], "name:uzb_x_preferred": ["Bo\u00dfdorf"], "name:vie_x_preferred": ["Bo\u00dfdorf"], "name:vol_x_preferred": ["Bo\u00dfdorf"], "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Sachsen-Anhalt", "qs:a1r": "0", "qs:a2": "Wittenberg", "qs:adm0": "Bundesrepublik Deutschland", "qs:id": 0, "qs:la": "Bo\u00dfdorf", "qs:la_lc": "*DE15009103030", "qs:level": "locality", "qs:loc": "Bo\u00dfdorf", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural hamlet single local_admin match", "src:geom": "quattroshapes", "src:geom_alt": ["quattroshapes_pg"], "src:lbl_centroid": "mapshaper", "src:population": "geonames", "wd:wordcount": 59, "wof:belongsto": [85682519, 102191581, 1377689309, 85633111, 102063859], "wof:breaches": [], "wof:concordances": {"gn:id": 2945850, "gp:id": 640494, "qs_pg:id": 1235039, "wd:id": "Q702089", "wk:page": "Bo\u00dfdorf"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg"], "wof:geomhash": "de91409d0020ae3397ab7ddb95031e8c", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063859, "localadmin_id": 1377689309, "locality_id": 101909375, "region_id": 85682519}], "wof:id": 101909375, "wof:lastmodified": 1690871455, "wof:name": "Bo\u00dfdorf", "wof:parent_id": 1377689309, "wof:placetype": "locality", "wof:population": 627, "wof:population_rank": 2, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.674814, 51.986518, 12.692434, 51.992006], "geometry": {"coordinates": [[[12.685213, 51.99194], [12.68516, 51.991042], [12.692434, 51.990876], [12.692327, 51.98908], [12.690872, 51.989113], [12.690764, 51.987317], [12.6864, 51.987416], [12.686346, 51.986518], [12.680527, 51.986651], [12.680634, 51.988447], [12.674814, 51.988579], [12.674868, 51.989477], [12.676323, 51.989444], [12.676376, 51.990342], [12.679286, 51.990276], [12.67934, 51.991174], [12.68225, 51.991108], [12.682303, 51.992006], [12.685213, 51.99194]]], "type": "Polygon"}}
+{
+  "id": 101909375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":438340.262013,
+    "geom:bbox":"12.674814,51.986518,12.692434,51.992006",
+    "geom:latitude":51.98922,
+    "geom:longitude":12.684389,
+    "gn:population":627,
+    "iso:country":"DE",
+    "lbl:latitude":51.989277,
+    "lbl:longitude":12.683675,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":51.989277,
+    "mps:longitude":12.683675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "name:bak_x_preferred":[
+        "\u0411\u043e\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:deu_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:eng_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:epo_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u062f\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:gle_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:por_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:ron_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:und_x_variant":[
+        "Bossdorf"
+    ],
+    "name:uzb_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "name:vol_x_preferred":[
+        "Bo\u00dfdorf"
+    ],
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Sachsen-Anhalt",
+    "qs:a1r":"0",
+    "qs:a2":"Wittenberg",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:id":0,
+    "qs:la":"Bo\u00dfdorf",
+    "qs:la_lc":"*DE15009103030",
+    "qs:level":"locality",
+    "qs:loc":"Bo\u00dfdorf",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet single local_admin match",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        85682519,
+        102191581,
+        1377689309,
+        85633111,
+        102063859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2945850,
+        "gp:id":640494,
+        "qs_pg:id":1235039,
+        "wd:id":"Q702089",
+        "wk:page":"Bo\u00dfdorf"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"de91409d0020ae3397ab7ddb95031e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063859,
+            "localadmin_id":1377689309,
+            "locality_id":101909375,
+            "region_id":85682519
+        }
+    ],
+    "wof:id":101909375,
+    "wof:lastmodified":1690871455,
+    "wof:name":"Bo\u00dfdorf",
+    "wof:parent_id":1377689309,
+    "wof:placetype":"locality",
+    "wof:population":627,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.674814,
+    51.986518,
+    12.692434,
+    51.992006
+],
+  "geometry": {"coordinates":[[[12.685213,51.99194],[12.68516,51.991042],[12.692434,51.990876],[12.692327,51.98908],[12.690872,51.989113],[12.690764,51.987317],[12.6864,51.987416],[12.686346,51.986518],[12.680527,51.986651],[12.680634,51.988447],[12.674814,51.988579],[12.674868,51.989477],[12.676323,51.989444],[12.676376,51.990342],[12.679286,51.990276],[12.67934,51.991174],[12.68225,51.991108],[12.682303,51.992006],[12.685213,51.99194]]],"type":"Polygon"}
+}

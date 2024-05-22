@@ -1,1 +1,430 @@
-{"id": 101807693, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_03241012", "eurostat:level_code": "lau", "eurostat:name_local": "Neustadt am R\u00fcbenberge, Stadt", "eurostat:nuts_2021_id": "03241012", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DE9", "eurostat:nuts_2021_level_2": "DE92", "eurostat:nuts_2021_level_3": "DE929", "eurostat:nuts_2021_level_lau": "03241012", "eurostat:population": 44386, "eurostat:population_year": 2020, "geom:area": 0.04761, "geom:area_square_m": 357930331.990001, "geom:bbox": "9.238117,52.438793,9.662448,52.677211", "geom:latitude": 52.555172, "geom:longitude": 9.465103, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 45237, "iso:country": "DE", "lbl:latitude": 52.50652, "lbl:longitude": 9.454438, "lbl:max_zoom": 14.0, "lbl:min_zoom": 10.0, "mps:latitude": 52.50652, "mps:longitude": 9.454438, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 9.0, "name:afr_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ara_x_preferred": ["\u0646\u0648\u064a\u0634\u062a\u0627\u062a \u0622\u0645 \u0631\u0648\u0628\u0646\u0628\u0631\u063a\u0647"], "name:ara_x_variant": ["\u0646\u0648\u064a\u0634\u062a\u0627\u062a \u0623\u0645 \u0631\u0648\u0628\u0646\u0628\u0631\u063a\u0647"], "name:arg_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ast_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:azb_x_preferred": ["\u0646\u0648\u06cc\u200c\u0627\u0634\u062a\u0627\u062a \u0622\u0645 \u0631\u0648\u0628\u0646\u0628\u0631\u0642\u0647"], "name:bar_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:bel_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0442-\u0430\u043c-\u0420\u0443\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u044d"], "name:bre_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:bul_x_preferred": ["\u041d\u043e\u0439\u0449\u0430\u0442 \u0430\u043c \u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"], "name:cat_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ceb_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ces_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:che_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0443\u044c\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"], "name:cos_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:cym_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:dan_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:deu_x_colloquial": ["Neustadt am Rubenberge", "Neustadt am Ruebenberge"], "name:deu_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:deu_x_variant": ["Neustadt"], "name:eng_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:epo_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:est_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:eus_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:fas_x_preferred": ["\u0646\u0648\u06cc\u200c\u0627\u0634\u062a\u0627\u062a \u0622\u0645 \u0631\u0648\u0628\u0646\u0628\u0631\u06af\u0647"], "name:fin_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:fra_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:frp_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:fur_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:gla_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:gle_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:glg_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:gsw_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:heb_x_preferred": ["\u05e0\u05d5\u05d9\u05e9\u05d8\u05d3\u05d8 \u05d0\u05dd \u05e8\u05d9\u05d1\u05e0\u05d1\u05e8\u05d2"], "name:hrv_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:hun_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ido_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ile_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ina_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ind_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:isl_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ita_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:jpn_x_preferred": ["\u30ce\u30a4\u30b7\u30e5\u30bf\u30c3\u30c8\u30fb\u30a2\u30e0\u30fb\u30ea\u30e5\u30fc\u30d9\u30f3\u30d9\u30eb\u30b2"], "name:kaz_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"], "name:kir_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"], "name:kon_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:kur_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:lat_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:lij_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:lim_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:lit_x_preferred": ["Niusta"], "name:lld_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ltz_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:min_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:mkd_x_preferred": ["\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u043d\u0430 \u0420\u0438\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"], "name:mlg_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:msa_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:nap_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:nds_x_preferred": ["Niestadt"], "name:nld_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:nno_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:nob_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:nrm_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:oci_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:pcd_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:pms_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:pol_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:por_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:roh_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ron_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:rus_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"], "name:scn_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:sco_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:slk_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:slv_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:spa_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:srd_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:srp_x_preferred": ["\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u0430\u043c \u0420\u0438\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"], "name:swa_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:swe_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:tat_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u04af\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"], "name:tur_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:ukr_x_preferred": ["\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"], "name:uzb_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:vec_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:vie_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:vls_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:vol_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:war_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:wln_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:wol_x_preferred": ["Neustadt am R\u00fcbenberge"], "name:zho_x_preferred": ["\u5415\u672c\u5c71\u9e93\u8bfa\u4f0a\u65bd\u5854\u7279"], "name:zho_x_variant": ["\u8bfa\u4f0a\u65af\u5854\u7279\u963f\u59c6\u5415\u672c\u8d1d\u5c14\u683c"], "name:zul_x_preferred": ["Neustadt am R\u00fcbenberge"], "nav:latitude": 52.50652, "nav:longitude": 9.454438, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Niedersachsen", "qs:a1r": "0", "qs:a2": "Hannover", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Neustadt am R\u00fcbenberge", "qs:la_lc": "*DE03024100012", "qs:level": "locality", "qs:loc": "Neustadt am R\u00fcbenberge", "qs:loc_alt": "Neustadt am Ruebenberge", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6557404, "qs_pg:gn_pop": 45237, "qs_pg:name": "Neustadt am R\u00fcbenberge, Stadt", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Niedersachsen", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 2, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 453, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 7, "qs_pg:qs_id": 637427, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12629464, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 100, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Niedersachsen", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682555, 102191581, 1377686361, 85633111, 102063941], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_03241012", "eurostat:nuts_2021_id": "03241012", "fct:id": "074f10c4-8f76-11e1-848f-cfd5bf3ef515", "gn:id": 2864058, "gp:id": 679056, "qs_pg:id": 142053, "wd:id": "Q7014", "wk:page": "Neustadt am R\u00fcbenberge"}, "wof:coterminous": [1377686361], "wof:country": "DE", "wof:geom_alt": ["quattroshapes_pg", "quattroshapes"], "wof:geomhash": "f73b456c042aa657b2fb9a201dd62a65", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063941, "localadmin_id": 1377686361, "locality_id": 101807693, "region_id": 85682555}], "wof:id": 101807693, "wof:lang": ["ger"], "wof:lastmodified": 1690873494, "wof:name": "Neustadt am R\u00fcbenberge", "wof:parent_id": 1377686361, "wof:placetype": "locality", "wof:population": 44386, "wof:population_rank": 7, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125362315, 1125415563], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [9.238117, 52.438793, 9.662448, 52.677211], "geometry": {"coordinates": [[[[9.591513, 52.675863], [9.591448, 52.675411], [9.59127, 52.675072], [9.590869, 52.674708], [9.590391, 52.674501], [9.589947, 52.674408], [9.588797, 52.674376], [9.588278, 52.674372], [9.587762, 52.674211], [9.587361, 52.673869], [9.586826, 52.672783], [9.586582, 52.672036], [9.586337, 52.67129], [9.586003, 52.669483], [9.585975, 52.669054], [9.586054, 52.668784], [9.586247, 52.668425], [9.586593, 52.667863], [9.58671, 52.667571], [9.586753, 52.667301], [9.586721, 52.66703], [9.586323, 52.666531], [9.585704, 52.665985], [9.585451, 52.665644], [9.585311, 52.665215], [9.585321, 52.664741], [9.585626, 52.664337], [9.586075, 52.664009], [9.586602, 52.663781], [9.587122, 52.663762], [9.587752, 52.663789], [9.588711, 52.664045], [9.590003, 52.664393], [9.590557, 52.664487], [9.591224, 52.664515], [9.592079, 52.664476], [9.592785, 52.664391], [9.593569, 52.664227], [9.594135, 52.664052], [9.594598, 52.663812], [9.595063, 52.663483], [9.595425, 52.663144], [9.595496, 52.66259], [9.595429, 52.662043], [9.595009, 52.66154], [9.594194, 52.661201], [9.593376, 52.661028], [9.589826, 52.660478], [9.589441, 52.660189], [9.589256, 52.659665], [9.589195, 52.658784], [9.589401, 52.658309], [9.589998, 52.65779], [9.590583, 52.657604], [9.591333, 52.657586], [9.591995, 52.657734], [9.593199, 52.658171], [9.594057, 52.658321], [9.594997, 52.65828], [9.599721, 52.656816], [9.60067, 52.656324], [9.602097, 52.655406], [9.602814, 52.654769], [9.603021, 52.654224], [9.603007, 52.652986], [9.602748, 52.652247], [9.602252, 52.651601], [9.601405, 52.650904], [9.600721, 52.6499], [9.600537, 52.649351], [9.600358, 52.648541], [9.600093, 52.648063], [9.599514, 52.647678], [9.600113, 52.647088], [9.601094, 52.646952], [9.602586, 52.646654], [9.602938, 52.646657], [9.603597, 52.646947], [9.604298, 52.647119], [9.605116, 52.647292], [9.607109, 52.647378], [9.607757, 52.646995], [9.608735, 52.646271], [9.60905, 52.646202], [9.609725, 52.646191], [9.610461, 52.646022], [9.612013, 52.6467], [9.612865, 52.647111], [9.613606, 52.647211], [9.614272, 52.647169], [9.614863, 52.646959], [9.616438, 52.646447], [9.617778, 52.645957], [9.619582, 52.645732], [9.62025, 52.645513], [9.620725, 52.645289], [9.620895, 52.644576], [9.62094, 52.644267], [9.620101, 52.643166], [9.619423, 52.641877], [9.619317, 52.641305], [9.619601, 52.640783], [9.620474, 52.640147], [9.621709, 52.638991], [9.626608, 52.639435], [9.634049, 52.638347], [9.63528, 52.638185], [9.639931, 52.635349], [9.645955, 52.634915], [9.662448, 52.633511], [9.657894, 52.632778], [9.655718, 52.63296], [9.646022, 52.633765], [9.643457, 52.633665], [9.641175, 52.633721], [9.639966, 52.632013], [9.638772, 52.630323], [9.635106, 52.625787], [9.636642, 52.625203], [9.637506, 52.625019], [9.638017, 52.624856], [9.639286, 52.623937], [9.640561, 52.622685], [9.638721, 52.620768], [9.641581, 52.616386], [9.642318, 52.614879], [9.64378, 52.612376], [9.646223, 52.608496], [9.642547, 52.607598], [9.643791, 52.605887], [9.645459, 52.605899], [9.647316, 52.60636], [9.649228, 52.606806], [9.650891, 52.607194], [9.651808, 52.606079], [9.652292, 52.605491], [9.653409, 52.604878], [9.658963, 52.601895], [9.658642, 52.600067], [9.650734, 52.60199], [9.643151, 52.595626], [9.642406, 52.595788], [9.641696, 52.596116], [9.641141, 52.59654], [9.640516, 52.597197], [9.628824, 52.590171], [9.626939, 52.591407], [9.619926, 52.589836], [9.617586, 52.588686], [9.617645, 52.587185], [9.608749, 52.585279], [9.607375, 52.58486], [9.606594, 52.582382], [9.605287, 52.581921], [9.604507, 52.580732], [9.600565, 52.579918], [9.600283, 52.579053], [9.601624, 52.577687], [9.600493, 52.577068], [9.598898, 52.576302], [9.595596, 52.574455], [9.591918, 52.572947], [9.58404, 52.575648], [9.583849, 52.57451], [9.583464, 52.572047], [9.584012, 52.570478], [9.587485, 52.56955], [9.588485, 52.568271], [9.590715, 52.567236], [9.591966, 52.566204], [9.591726, 52.564579], [9.588738, 52.56389], [9.58907, 52.558401], [9.589154, 52.55717], [9.589261, 52.555958], [9.589611, 52.550617], [9.593447, 52.551366], [9.595375, 52.550859], [9.595251, 52.549689], [9.592604, 52.546359], [9.593076, 52.542739], [9.596791, 52.536255], [9.596095, 52.53563], [9.597764, 52.531865], [9.601144, 52.528041], [9.599686, 52.525755], [9.601875, 52.522453], [9.601658, 52.521718], [9.600957, 52.520075], [9.600624, 52.519168], [9.600657, 52.51755], [9.607261, 52.516933], [9.607988, 52.517652], [9.61075, 52.516055], [9.612207, 52.515328], [9.614121, 52.513829], [9.613401, 52.506271], [9.612443, 52.504023], [9.609497, 52.503911], [9.600049, 52.501175], [9.594945, 52.501302], [9.586625, 52.498811], [9.585004, 52.498799], [9.579537, 52.498784], [9.580399, 52.496992], [9.571213, 52.49586], [9.572889, 52.493327], [9.573474, 52.492443], [9.574282, 52.491221], [9.570714, 52.49085], [9.566948, 52.490417], [9.562981, 52.490103], [9.558388, 52.489683], [9.557134, 52.489492], [9.554907, 52.488986], [9.539551, 52.488864], [9.537653, 52.488654], [9.535394, 52.488213], [9.534401, 52.4873], [9.53287, 52.487764], [9.530393, 52.487305], [9.5266, 52.488142], [9.523683, 52.487214], [9.521401, 52.488171], [9.51963, 52.487181], [9.517105, 52.486775], [9.515273, 52.486765], [9.515598, 52.486149], [9.521028, 52.476698], [9.521706, 52.474747], [9.50921, 52.471843], [9.513295, 52.465023], [9.507146, 52.464711], [9.504508, 52.460715], [9.503222, 52.460728], [9.504046, 52.45301], [9.504914, 52.453066], [9.505783, 52.453121], [9.504444, 52.449859], [9.503252, 52.446954], [9.502313, 52.447144], [9.502506, 52.446553], [9.497066, 52.447035], [9.497067, 52.448616], [9.496052, 52.448959], [9.495852, 52.446651], [9.49581, 52.445311], [9.48948, 52.443317], [9.487515, 52.443264], [9.485746, 52.4436], [9.484204, 52.44339], [9.485314, 52.442103], [9.485768, 52.441008], [9.487687, 52.440387], [9.488289, 52.442413], [9.489778, 52.442323], [9.492283, 52.442271], [9.491166, 52.438793], [9.48866, 52.43942], [9.487502, 52.43918], [9.486946, 52.439628], [9.486043, 52.439977], [9.484594, 52.440345], [9.483901, 52.440734], [9.483191, 52.441574], [9.482757, 52.441867], [9.482342, 52.442016], [9.481841, 52.442057], [9.481312, 52.442007], [9.480784, 52.441904], [9.48023, 52.441701], [9.47953, 52.44139], [9.478903, 52.441151], [9.478347, 52.44102], [9.477818, 52.440979], [9.477418, 52.441075], [9.477089, 52.441297], [9.476922, 52.441512], [9.476812, 52.441816], [9.476907, 52.442177], [9.477076, 52.442511], [9.477464, 52.442928], [9.478086, 52.44341], [9.47877, 52.44374], [9.479747, 52.444144], [9.480242, 52.4444], [9.480513, 52.444762], [9.480509, 52.444978], [9.480385, 52.445219], [9.480174, 52.445469], [9.479786, 52.4457], [9.479355, 52.445849], [9.478898, 52.44589], [9.478268, 52.445759], [9.477464, 52.445509], [9.476456, 52.445204], [9.475825, 52.445091], [9.475267, 52.445068], [9.47466, 52.445198], [9.474139, 52.445454], [9.473838, 52.445739], [9.473653, 52.446098], [9.473603, 52.446385], [9.473527, 52.447113], [9.473622, 52.447455], [9.47382, 52.447844], [9.474166, 52.448153], [9.474762, 52.448481], [9.475359, 52.448738], [9.475941, 52.449049], [9.476505, 52.449486], [9.476881, 52.449813], [9.477405, 52.450051], [9.478135, 52.450318], [9.479043, 52.450532], [9.479391, 52.450778], [9.479562, 52.450996], [9.479557, 52.451238], [9.479256, 52.451497], [9.478686, 52.451986], [9.477982, 52.452538], [9.477545, 52.452939], [9.477332, 52.453279], [9.477213, 52.453971], [9.477264, 52.454313], [9.477508, 52.454603], [9.477754, 52.454794], [9.478234, 52.455014], [9.478733, 52.455099], [9.479437, 52.455222], [9.480273, 52.455355], [9.480726, 52.455511], [9.481073, 52.455775], [9.48144, 52.456471], [9.481474, 52.456912], [9.48138, 52.457163], [9.481304, 52.457279], [9.480917, 52.457474], [9.480533, 52.457533], [9.479945, 52.457501], [9.479418, 52.457326], [9.478572, 52.456977], [9.476868, 52.456162], [9.47636, 52.455879], [9.476012, 52.455615], [9.475797, 52.455362], [9.475469, 52.454927], [9.474831, 52.454472], [9.474104, 52.454079], [9.473273, 52.453721], [9.472674, 52.453545], [9.472189, 52.453487], [9.471835, 52.45352], [9.471389, 52.453723], [9.471134, 52.453901], [9.470305, 52.454127], [9.46952, 52.454319], [9.468426, 52.454543], [9.467882, 52.455123], [9.467738, 52.455616], [9.467682, 52.456129], [9.46785, 52.456526], [9.46809, 52.456987], [9.468606, 52.457594], [9.468981, 52.457912], [9.4693, 52.458157], [9.46971, 52.458242], [9.470343, 52.458247], [9.471554, 52.458068], [9.473913, 52.457918], [9.475468, 52.458014], [9.476062, 52.45813], [9.476265, 52.458338], [9.476233, 52.458591], [9.475786, 52.458888], [9.474505, 52.45932], [9.473522, 52.459569], [9.472222, 52.459747], [9.471644, 52.45994], [9.471197, 52.460161], [9.470865, 52.460509], [9.470859, 52.46077], [9.470999, 52.461113], [9.471183, 52.461438], [9.471472, 52.461665], [9.464684, 52.462938], [9.463111, 52.463057], [9.461734, 52.461473], [9.460558, 52.460599], [9.458397, 52.461441], [9.451196, 52.464215], [9.448303, 52.464016], [9.442429, 52.463746], [9.441796, 52.464854], [9.440851, 52.465274], [9.440015, 52.468138], [9.437777, 52.46998], [9.440252, 52.472439], [9.437582, 52.473872], [9.432193, 52.477228], [9.43046, 52.478308], [9.42707, 52.480164], [9.419064, 52.484546], [9.417408, 52.485475], [9.410869, 52.489031], [9.407078, 52.486641], [9.399997, 52.490431], [9.391867, 52.485108], [9.389601, 52.483625], [9.388242, 52.483422], [9.38737, 52.485282], [9.383438, 52.48994], [9.381172, 52.490423], [9.379467, 52.49262], [9.375669, 52.496002], [9.371195, 52.498119], [9.368809, 52.497476], [9.366845, 52.498231], [9.361785, 52.500189], [9.355815, 52.49908], [9.346355, 52.495014], [9.328389, 52.491198], [9.325245, 52.491392], [9.324419, 52.491438], [9.323155, 52.490212], [9.32019, 52.490336], [9.318305, 52.489442], [9.312174, 52.488313], [9.307064, 52.487023], [9.305826, 52.485832], [9.304898, 52.485274], [9.302246, 52.483525], [9.300591, 52.482713], [9.299131, 52.483301], [9.2987, 52.482038], [9.295788, 52.481604], [9.295038, 52.481021], [9.294704, 52.480837], [9.294243, 52.480446], [9.29383, 52.47992], [9.292653, 52.479333], [9.290383, 52.478294], [9.287437, 52.476654], [9.285681, 52.475674], [9.283746, 52.474791], [9.282299, 52.474381], [9.281639, 52.473754], [9.281316, 52.473157], [9.280812, 52.47272], [9.280349, 52.472418], [9.279901, 52.472099], [9.279165, 52.471561], [9.277548, 52.470357], [9.277007, 52.469945], [9.27689, 52.469649], [9.277159, 52.468959], [9.27727, 52.468673], [9.277355, 52.467711], [9.277341, 52.466283], [9.277514, 52.464215], [9.277887, 52.461958], [9.274251, 52.461105], [9.273297, 52.462606], [9.270981, 52.46234], [9.27018, 52.464607], [9.268454, 52.463551], [9.263708, 52.464693], [9.26025, 52.464348], [9.259529, 52.465793], [9.259118, 52.465753], [9.258575, 52.465684], [9.258222, 52.465662], [9.257869, 52.46565], [9.257313, 52.465518], [9.256788, 52.46536], [9.256162, 52.465092], [9.255116, 52.464578], [9.254345, 52.464237], [9.253891, 52.464125], [9.253317, 52.464137], [9.252622, 52.464219], [9.251276, 52.46443], [9.249395, 52.464833], [9.248962, 52.465636], [9.244486, 52.46685], [9.240739, 52.468477], [9.239133, 52.469706], [9.24037, 52.47055], [9.241263, 52.473122], [9.242397, 52.475776], [9.251791, 52.474303], [9.257445, 52.472791], [9.258802, 52.475851], [9.261914, 52.476073], [9.266015, 52.475734], [9.267446, 52.476154], [9.265909, 52.478331], [9.265185, 52.479316], [9.260162, 52.488222], [9.262301, 52.488666], [9.261869, 52.490434], [9.26623, 52.490973], [9.265444, 52.493304], [9.263029, 52.493481], [9.263186, 52.49368], [9.261545, 52.501689], [9.260724, 52.503095], [9.262039, 52.505645], [9.269115, 52.50775], [9.268109, 52.508945], [9.263966, 52.508434], [9.261766, 52.508583], [9.259588, 52.508443], [9.259043, 52.509508], [9.258778, 52.510036], [9.257878, 52.512191], [9.259165, 52.512204], [9.258154, 52.514473], [9.256596, 52.515374], [9.255756, 52.516939], [9.255468, 52.517497], [9.248721, 52.517474], [9.248084, 52.51792], [9.240704, 52.52622], [9.239209, 52.527601], [9.238117, 52.52897], [9.238199, 52.529694], [9.239712, 52.529972], [9.240829, 52.530226], [9.241498, 52.530381], [9.242787, 52.531154], [9.243969, 52.531945], [9.244505, 52.532283], [9.245098, 52.532703], [9.246253, 52.533357], [9.246591, 52.533837], [9.24679, 52.53443], [9.247194, 52.53474], [9.247746, 52.535042], [9.248871, 52.535431], [9.249926, 52.535676], [9.25097, 52.535813], [9.251913, 52.53585], [9.252547, 52.535829], [9.253136, 52.535889], [9.253678, 52.536021], [9.254167, 52.536438], [9.254738, 52.536943], [9.255358, 52.537093], [9.257484, 52.53758], [9.257994, 52.537819], [9.259564, 52.538825], [9.259901, 52.539329], [9.26023, 52.540165], [9.260667, 52.540374], [9.261296, 52.540551], [9.262063, 52.540568], [9.262784, 52.54063], [9.263371, 52.540744], [9.263955, 52.540941], [9.264686, 52.541329], [9.266082, 52.541913], [9.268074, 52.543029], [9.269974, 52.544905], [9.270474, 52.545172], [9.270458, 52.545743], [9.273815, 52.547157], [9.277615, 52.548076], [9.28089, 52.548228], [9.281217, 52.547684], [9.287451, 52.548128], [9.289197, 52.548502], [9.292841, 52.549443], [9.295252, 52.549776], [9.302876, 52.550804], [9.304982, 52.550873], [9.305682, 52.550999], [9.307305, 52.551583], [9.310539, 52.552595], [9.312721, 52.553237], [9.314407, 52.55364], [9.316046, 52.554142], [9.31717, 52.554603], [9.318465, 52.555281], [9.321175, 52.555086], [9.329068, 52.555112], [9.332386, 52.55414], [9.335592, 52.553766], [9.33637, 52.554106], [9.339277, 52.553241], [9.339547, 52.553917], [9.336339, 52.55568], [9.339561, 52.557159], [9.346757, 52.558514], [9.347921, 52.558922], [9.348828, 52.558274], [9.347542, 52.557262], [9.351619, 52.555388], [9.359828, 52.560119], [9.363697, 52.559295], [9.368535, 52.56095], [9.369469, 52.56488], [9.369959, 52.566522], [9.37117, 52.567648], [9.373207, 52.568898], [9.370591, 52.571063], [9.365395, 52.573908], [9.358234, 52.574145], [9.354779, 52.576054], [9.352579, 52.575348], [9.344288, 52.58012], [9.342785, 52.58175], [9.345876, 52.585141], [9.34347, 52.585627], [9.343166, 52.586581], [9.341561, 52.587126], [9.341441, 52.588321], [9.342178, 52.590082], [9.344755, 52.590943], [9.34761, 52.591897], [9.3422, 52.593221], [9.342438, 52.595445], [9.342699, 52.597947], [9.343211, 52.602701], [9.34685, 52.602493], [9.348811, 52.601468], [9.350834, 52.602345], [9.353559, 52.605255], [9.354328, 52.606395], [9.352828, 52.607145], [9.354452, 52.608509], [9.356372, 52.607609], [9.367566, 52.610665], [9.38752, 52.612724], [9.388647, 52.611617], [9.39028, 52.611866], [9.389557, 52.614242], [9.389179, 52.615448], [9.389207, 52.618363], [9.390709, 52.618408], [9.398773, 52.617375], [9.410405, 52.616006], [9.423586, 52.617865], [9.425555, 52.617091], [9.427797, 52.619642], [9.428793, 52.620622], [9.432083, 52.620849], [9.435885, 52.621899], [9.438538, 52.623849], [9.437072, 52.624966], [9.437411, 52.626326], [9.437572, 52.627408], [9.439658, 52.629189], [9.439272, 52.630508], [9.441976, 52.630514], [9.441952, 52.632807], [9.447156, 52.633383], [9.449844, 52.633469], [9.450003, 52.636123], [9.451256, 52.637537], [9.453148, 52.636933], [9.456187, 52.638434], [9.456884, 52.63834], [9.458501, 52.638121], [9.459755, 52.63949], [9.460859, 52.640956], [9.462719, 52.640301], [9.465569, 52.639297], [9.467417, 52.641192], [9.471653, 52.639574], [9.471081, 52.638751], [9.470237, 52.637538], [9.470846, 52.637391], [9.473269, 52.636809], [9.478788, 52.635255], [9.481848, 52.633986], [9.484215, 52.633241], [9.490695, 52.632315], [9.49017, 52.631322], [9.491487, 52.631145], [9.493134, 52.633092], [9.494249, 52.635237], [9.49747, 52.632884], [9.497714, 52.632458], [9.497334, 52.630242], [9.496912, 52.629858], [9.502107, 52.627581], [9.504779, 52.626416], [9.507104, 52.625527], [9.509279, 52.624735], [9.50977, 52.624559], [9.510307, 52.624375], [9.512251, 52.624004], [9.516866, 52.623106], [9.520557, 52.62319], [9.522865, 52.623242], [9.520556, 52.626698], [9.525535, 52.628117], [9.530902, 52.629493], [9.533565, 52.631108], [9.534242, 52.632327], [9.534725, 52.633332], [9.535272, 52.635357], [9.535739, 52.637288], [9.536539, 52.640102], [9.536795, 52.640913], [9.537841, 52.645038], [9.537619, 52.646083], [9.537037, 52.648834], [9.536442, 52.651892], [9.535574, 52.654646], [9.535116, 52.6561], [9.534659, 52.660066], [9.534101, 52.661923], [9.534106, 52.662838], [9.534115, 52.664523], [9.537633, 52.665049], [9.53849, 52.663331], [9.542506, 52.663798], [9.541771, 52.666078], [9.537872, 52.665664], [9.537324, 52.667691], [9.541031, 52.668257], [9.539579, 52.671311], [9.544402, 52.670593], [9.546333, 52.670766], [9.548035, 52.670918], [9.548318, 52.672415], [9.552858, 52.673023], [9.5687, 52.675144], [9.569118, 52.675542], [9.570107, 52.676486], [9.585065, 52.677211], [9.588232, 52.675698], [9.591513, 52.675863]]]], "type": "MultiPolygon"}}
+{
+  "id": 101807693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_03241012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neustadt am R\u00fcbenberge, Stadt",
+    "eurostat:nuts_2021_id":"03241012",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DE9",
+    "eurostat:nuts_2021_level_2":"DE92",
+    "eurostat:nuts_2021_level_3":"DE929",
+    "eurostat:nuts_2021_level_lau":"03241012",
+    "eurostat:population":44386,
+    "eurostat:population_year":2020,
+    "geom:area":0.04761,
+    "geom:area_square_m":357930331.990001,
+    "geom:bbox":"9.238117,52.438793,9.662448,52.677211",
+    "geom:latitude":52.555172,
+    "geom:longitude":9.465103,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":45237,
+    "iso:country":"DE",
+    "lbl:latitude":52.50652,
+    "lbl:longitude":9.454438,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
+    "mps:latitude":52.50652,
+    "mps:longitude":9.454438,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0634\u062a\u0627\u062a \u0622\u0645 \u0631\u0648\u0628\u0646\u0628\u0631\u063a\u0647"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0648\u064a\u0634\u062a\u0627\u062a \u0623\u0645 \u0631\u0648\u0628\u0646\u0628\u0631\u063a\u0647"
+    ],
+    "name:arg_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ast_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u06cc\u200c\u0627\u0634\u062a\u0627\u062a \u0622\u0645 \u0631\u0648\u0628\u0646\u0628\u0631\u0642\u0647"
+    ],
+    "name:bar_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0442-\u0430\u043c-\u0420\u0443\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u044d"
+    ],
+    "name:bre_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0439\u0449\u0430\u0442 \u0430\u043c \u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ceb_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ces_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u0443\u044c\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:cos_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:cym_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:dan_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:deu_x_colloquial":[
+        "Neustadt am Rubenberge",
+        "Neustadt am Ruebenberge"
+    ],
+    "name:deu_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:deu_x_variant":[
+        "Neustadt"
+    ],
+    "name:eng_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:epo_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:est_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:eus_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u200c\u0627\u0634\u062a\u0627\u062a \u0622\u0645 \u0631\u0648\u0628\u0646\u0628\u0631\u06af\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:fra_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:frp_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:fur_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:gla_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:gle_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:glg_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:gsw_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d9\u05e9\u05d8\u05d3\u05d8 \u05d0\u05dd \u05e8\u05d9\u05d1\u05e0\u05d1\u05e8\u05d2"
+    ],
+    "name:hrv_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:hun_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ido_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ile_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ina_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ind_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:isl_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ita_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30a4\u30b7\u30e5\u30bf\u30c3\u30c8\u30fb\u30a2\u30e0\u30fb\u30ea\u30e5\u30fc\u30d9\u30f3\u30d9\u30eb\u30b2"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:kon_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:kur_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:lat_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:lij_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:lim_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:lit_x_preferred":[
+        "Niusta"
+    ],
+    "name:lld_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ltz_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:min_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u043d\u0430 \u0420\u0438\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:mlg_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:msa_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:nap_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:nds_x_preferred":[
+        "Niestadt"
+    ],
+    "name:nld_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:nno_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:nob_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:nrm_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:oci_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:pcd_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:pms_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:pol_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:por_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:roh_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ron_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:sco_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:slk_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:slv_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:spa_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:srd_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0458\u0448\u0442\u0430\u0442 \u0430\u043c \u0420\u0438\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:swe_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u04af\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0430\u0434\u0442-\u0430\u043c-\u0420\u044e\u0431\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:vec_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:vie_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:vls_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:vol_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:war_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:wln_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:wol_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "name:zho_x_preferred":[
+        "\u5415\u672c\u5c71\u9e93\u8bfa\u4f0a\u65bd\u5854\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u8bfa\u4f0a\u65af\u5854\u7279\u963f\u59c6\u5415\u672c\u8d1d\u5c14\u683c"
+    ],
+    "name:zul_x_preferred":[
+        "Neustadt am R\u00fcbenberge"
+    ],
+    "nav:latitude":52.50652,
+    "nav:longitude":9.454438,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Niedersachsen",
+    "qs:a1r":"0",
+    "qs:a2":"Hannover",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Neustadt am R\u00fcbenberge",
+    "qs:la_lc":"*DE03024100012",
+    "qs:level":"locality",
+    "qs:loc":"Neustadt am R\u00fcbenberge",
+    "qs:loc_alt":"Neustadt am Ruebenberge",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6557404,
+    "qs_pg:gn_pop":45237,
+    "qs_pg:name":"Neustadt am R\u00fcbenberge, Stadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Niedersachsen",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":453,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":637427,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12629464,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":100,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Niedersachsen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        1377686361,
+        85633111,
+        102063941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_03241012",
+        "eurostat:nuts_2021_id":"03241012",
+        "fct:id":"074f10c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2864058,
+        "gp:id":679056,
+        "qs_pg:id":142053,
+        "wd:id":"Q7014",
+        "wk:page":"Neustadt am R\u00fcbenberge"
+    },
+    "wof:coterminous":[
+        1377686361
+    ],
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"f73b456c042aa657b2fb9a201dd62a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063941,
+            "localadmin_id":1377686361,
+            "locality_id":101807693,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":101807693,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1690873494,
+    "wof:name":"Neustadt am R\u00fcbenberge",
+    "wof:parent_id":1377686361,
+    "wof:placetype":"locality",
+    "wof:population":44386,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125362315,
+        1125415563
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.238117,
+    52.438793,
+    9.662448,
+    52.677211
+],
+  "geometry": {"coordinates":[[[[9.591513,52.675863],[9.591448,52.675411],[9.59127,52.675072],[9.590869,52.674708],[9.590391,52.674501],[9.589947,52.674408],[9.588797,52.674376],[9.588278,52.674372],[9.587762,52.674211],[9.587361,52.673869],[9.586826,52.672783],[9.586582,52.672036],[9.586337,52.67129],[9.586003,52.669483],[9.585975,52.669054],[9.586054,52.668784],[9.586247,52.668425],[9.586593,52.667863],[9.58671,52.667571],[9.586753,52.667301],[9.586721,52.66703],[9.586323,52.666531],[9.585704,52.665985],[9.585451,52.665644],[9.585311,52.665215],[9.585321,52.664741],[9.585626,52.664337],[9.586075,52.664009],[9.586602,52.663781],[9.587122,52.663762],[9.587752,52.663789],[9.588711,52.664045],[9.590003,52.664393],[9.590557,52.664487],[9.591224,52.664515],[9.592079,52.664476],[9.592785,52.664391],[9.593569,52.664227],[9.594135,52.664052],[9.594598,52.663812],[9.595063,52.663483],[9.595425,52.663144],[9.595496,52.66259],[9.595429,52.662043],[9.595009,52.66154],[9.594194,52.661201],[9.593376,52.661028],[9.589826,52.660478],[9.589441,52.660189],[9.589256,52.659665],[9.589195,52.658784],[9.589401,52.658309],[9.589998,52.65779],[9.590583,52.657604],[9.591333,52.657586],[9.591995,52.657734],[9.593199,52.658171],[9.594057,52.658321],[9.594997,52.65828],[9.599721,52.656816],[9.60067,52.656324],[9.602097,52.655406],[9.602814,52.654769],[9.603021,52.654224],[9.603007,52.652986],[9.602748,52.652247],[9.602252,52.651601],[9.601405,52.650904],[9.600721,52.6499],[9.600537,52.649351],[9.600358,52.648541],[9.600093,52.648063],[9.599514,52.647678],[9.600113,52.647088],[9.601094,52.646952],[9.602586,52.646654],[9.602938,52.646657],[9.603597,52.646947],[9.604298,52.647119],[9.605116,52.647292],[9.607109,52.647378],[9.607757,52.646995],[9.608735,52.646271],[9.60905,52.646202],[9.609725,52.646191],[9.610461,52.646022],[9.612013,52.6467],[9.612865,52.647111],[9.613606,52.647211],[9.614272,52.647169],[9.614863,52.646959],[9.616438,52.646447],[9.617778,52.645957],[9.619582,52.645732],[9.62025,52.645513],[9.620725,52.645289],[9.620895,52.644576],[9.62094,52.644267],[9.620101,52.643166],[9.619423,52.641877],[9.619317,52.641305],[9.619601,52.640783],[9.620474,52.640147],[9.621709,52.638991],[9.626608,52.639435],[9.634049,52.638347],[9.63528,52.638185],[9.639931,52.635349],[9.645955,52.634915],[9.662448,52.633511],[9.657894,52.632778],[9.655718,52.63296],[9.646022,52.633765],[9.643457,52.633665],[9.641175,52.633721],[9.639966,52.632013],[9.638772,52.630323],[9.635106,52.625787],[9.636642,52.625203],[9.637506,52.625019],[9.638017,52.624856],[9.639286,52.623937],[9.640561,52.622685],[9.638721,52.620768],[9.641581,52.616386],[9.642318,52.614879],[9.64378,52.612376],[9.646223,52.608496],[9.642547,52.607598],[9.643791,52.605887],[9.645459,52.605899],[9.647316,52.60636],[9.649228,52.606806],[9.650891,52.607194],[9.651808,52.606079],[9.652292,52.605491],[9.653409,52.604878],[9.658963,52.601895],[9.658642,52.600067],[9.650734,52.60199],[9.643151,52.595626],[9.642406,52.595788],[9.641696,52.596116],[9.641141,52.59654],[9.640516,52.597197],[9.628824,52.590171],[9.626939,52.591407],[9.619926,52.589836],[9.617586,52.588686],[9.617645,52.587185],[9.608749,52.585279],[9.607375,52.58486],[9.606594,52.582382],[9.605287,52.581921],[9.604507,52.580732],[9.600565,52.579918],[9.600283,52.579053],[9.601624,52.577687],[9.600493,52.577068],[9.598898,52.576302],[9.595596,52.574455],[9.591918,52.572947],[9.58404,52.575648],[9.583849,52.57451],[9.583464,52.572047],[9.584012,52.570478],[9.587485,52.56955],[9.588485,52.568271],[9.590715,52.567236],[9.591966,52.566204],[9.591726,52.564579],[9.588738,52.56389],[9.58907,52.558401],[9.589154,52.55717],[9.589261,52.555958],[9.589611,52.550617],[9.593447,52.551366],[9.595375,52.550859],[9.595251,52.549689],[9.592604,52.546359],[9.593076,52.542739],[9.596791,52.536255],[9.596095,52.53563],[9.597764,52.531865],[9.601144,52.528041],[9.599686,52.525755],[9.601875,52.522453],[9.601658,52.521718],[9.600957,52.520075],[9.600624,52.519168],[9.600657,52.51755],[9.607261,52.516933],[9.607988,52.517652],[9.61075,52.516055],[9.612207,52.515328],[9.614121,52.513829],[9.613401,52.506271],[9.612443,52.504023],[9.609497,52.503911],[9.600049,52.501175],[9.594945,52.501302],[9.586625,52.498811],[9.585004,52.498799],[9.579537,52.498784],[9.580399,52.496992],[9.571213,52.49586],[9.572889,52.493327],[9.573474,52.492443],[9.574282,52.491221],[9.570714,52.49085],[9.566948,52.490417],[9.562981,52.490103],[9.558388,52.489683],[9.557134,52.489492],[9.554907,52.488986],[9.539551,52.488864],[9.537653,52.488654],[9.535394,52.488213],[9.534401,52.4873],[9.53287,52.487764],[9.530393,52.487305],[9.5266,52.488142],[9.523683,52.487214],[9.521401,52.488171],[9.51963,52.487181],[9.517105,52.486775],[9.515273,52.486765],[9.515598,52.486149],[9.521028,52.476698],[9.521706,52.474747],[9.50921,52.471843],[9.513295,52.465023],[9.507146,52.464711],[9.504508,52.460715],[9.503222,52.460728],[9.504046,52.45301],[9.504914,52.453066],[9.505783,52.453121],[9.504444,52.449859],[9.503252,52.446954],[9.502313,52.447144],[9.502506,52.446553],[9.497066,52.447035],[9.497067,52.448616],[9.496052,52.448959],[9.495852,52.446651],[9.49581,52.445311],[9.48948,52.443317],[9.487515,52.443264],[9.485746,52.4436],[9.484204,52.44339],[9.485314,52.442103],[9.485768,52.441008],[9.487687,52.440387],[9.488289,52.442413],[9.489778,52.442323],[9.492283,52.442271],[9.491166,52.438793],[9.48866,52.43942],[9.487502,52.43918],[9.486946,52.439628],[9.486043,52.439977],[9.484594,52.440345],[9.483901,52.440734],[9.483191,52.441574],[9.482757,52.441867],[9.482342,52.442016],[9.481841,52.442057],[9.481312,52.442007],[9.480784,52.441904],[9.48023,52.441701],[9.47953,52.44139],[9.478903,52.441151],[9.478347,52.44102],[9.477818,52.440979],[9.477418,52.441075],[9.477089,52.441297],[9.476922,52.441512],[9.476812,52.441816],[9.476907,52.442177],[9.477076,52.442511],[9.477464,52.442928],[9.478086,52.44341],[9.47877,52.44374],[9.479747,52.444144],[9.480242,52.4444],[9.480513,52.444762],[9.480509,52.444978],[9.480385,52.445219],[9.480174,52.445469],[9.479786,52.4457],[9.479355,52.445849],[9.478898,52.44589],[9.478268,52.445759],[9.477464,52.445509],[9.476456,52.445204],[9.475825,52.445091],[9.475267,52.445068],[9.47466,52.445198],[9.474139,52.445454],[9.473838,52.445739],[9.473653,52.446098],[9.473603,52.446385],[9.473527,52.447113],[9.473622,52.447455],[9.47382,52.447844],[9.474166,52.448153],[9.474762,52.448481],[9.475359,52.448738],[9.475941,52.449049],[9.476505,52.449486],[9.476881,52.449813],[9.477405,52.450051],[9.478135,52.450318],[9.479043,52.450532],[9.479391,52.450778],[9.479562,52.450996],[9.479557,52.451238],[9.479256,52.451497],[9.478686,52.451986],[9.477982,52.452538],[9.477545,52.452939],[9.477332,52.453279],[9.477213,52.453971],[9.477264,52.454313],[9.477508,52.454603],[9.477754,52.454794],[9.478234,52.455014],[9.478733,52.455099],[9.479437,52.455222],[9.480273,52.455355],[9.480726,52.455511],[9.481073,52.455775],[9.48144,52.456471],[9.481474,52.456912],[9.48138,52.457163],[9.481304,52.457279],[9.480917,52.457474],[9.480533,52.457533],[9.479945,52.457501],[9.479418,52.457326],[9.478572,52.456977],[9.476868,52.456162],[9.47636,52.455879],[9.476012,52.455615],[9.475797,52.455362],[9.475469,52.454927],[9.474831,52.454472],[9.474104,52.454079],[9.473273,52.453721],[9.472674,52.453545],[9.472189,52.453487],[9.471835,52.45352],[9.471389,52.453723],[9.471134,52.453901],[9.470305,52.454127],[9.46952,52.454319],[9.468426,52.454543],[9.467882,52.455123],[9.467738,52.455616],[9.467682,52.456129],[9.46785,52.456526],[9.46809,52.456987],[9.468606,52.457594],[9.468981,52.457912],[9.4693,52.458157],[9.46971,52.458242],[9.470343,52.458247],[9.471554,52.458068],[9.473913,52.457918],[9.475468,52.458014],[9.476062,52.45813],[9.476265,52.458338],[9.476233,52.458591],[9.475786,52.458888],[9.474505,52.45932],[9.473522,52.459569],[9.472222,52.459747],[9.471644,52.45994],[9.471197,52.460161],[9.470865,52.460509],[9.470859,52.46077],[9.470999,52.461113],[9.471183,52.461438],[9.471472,52.461665],[9.464684,52.462938],[9.463111,52.463057],[9.461734,52.461473],[9.460558,52.460599],[9.458397,52.461441],[9.451196,52.464215],[9.448303,52.464016],[9.442429,52.463746],[9.441796,52.464854],[9.440851,52.465274],[9.440015,52.468138],[9.437777,52.46998],[9.440252,52.472439],[9.437582,52.473872],[9.432193,52.477228],[9.43046,52.478308],[9.42707,52.480164],[9.419064,52.484546],[9.417408,52.485475],[9.410869,52.489031],[9.407078,52.486641],[9.399997,52.490431],[9.391867,52.485108],[9.389601,52.483625],[9.388242,52.483422],[9.38737,52.485282],[9.383438,52.48994],[9.381172,52.490423],[9.379467,52.49262],[9.375669,52.496002],[9.371195,52.498119],[9.368809,52.497476],[9.366845,52.498231],[9.361785,52.500189],[9.355815,52.49908],[9.346355,52.495014],[9.328389,52.491198],[9.325245,52.491392],[9.324419,52.491438],[9.323155,52.490212],[9.32019,52.490336],[9.318305,52.489442],[9.312174,52.488313],[9.307064,52.487023],[9.305826,52.485832],[9.304898,52.485274],[9.302246,52.483525],[9.300591,52.482713],[9.299131,52.483301],[9.2987,52.482038],[9.295788,52.481604],[9.295038,52.481021],[9.294704,52.480837],[9.294243,52.480446],[9.29383,52.47992],[9.292653,52.479333],[9.290383,52.478294],[9.287437,52.476654],[9.285681,52.475674],[9.283746,52.474791],[9.282299,52.474381],[9.281639,52.473754],[9.281316,52.473157],[9.280812,52.47272],[9.280349,52.472418],[9.279901,52.472099],[9.279165,52.471561],[9.277548,52.470357],[9.277007,52.469945],[9.27689,52.469649],[9.277159,52.468959],[9.27727,52.468673],[9.277355,52.467711],[9.277341,52.466283],[9.277514,52.464215],[9.277887,52.461958],[9.274251,52.461105],[9.273297,52.462606],[9.270981,52.46234],[9.27018,52.464607],[9.268454,52.463551],[9.263708,52.464693],[9.26025,52.464348],[9.259529,52.465793],[9.259118,52.465753],[9.258575,52.465684],[9.258222,52.465662],[9.257869,52.46565],[9.257313,52.465518],[9.256788,52.46536],[9.256162,52.465092],[9.255116,52.464578],[9.254345,52.464237],[9.253891,52.464125],[9.253317,52.464137],[9.252622,52.464219],[9.251276,52.46443],[9.249395,52.464833],[9.248962,52.465636],[9.244486,52.46685],[9.240739,52.468477],[9.239133,52.469706],[9.24037,52.47055],[9.241263,52.473122],[9.242397,52.475776],[9.251791,52.474303],[9.257445,52.472791],[9.258802,52.475851],[9.261914,52.476073],[9.266015,52.475734],[9.267446,52.476154],[9.265909,52.478331],[9.265185,52.479316],[9.260162,52.488222],[9.262301,52.488666],[9.261869,52.490434],[9.26623,52.490973],[9.265444,52.493304],[9.263029,52.493481],[9.263186,52.49368],[9.261545,52.501689],[9.260724,52.503095],[9.262039,52.505645],[9.269115,52.50775],[9.268109,52.508945],[9.263966,52.508434],[9.261766,52.508583],[9.259588,52.508443],[9.259043,52.509508],[9.258778,52.510036],[9.257878,52.512191],[9.259165,52.512204],[9.258154,52.514473],[9.256596,52.515374],[9.255756,52.516939],[9.255468,52.517497],[9.248721,52.517474],[9.248084,52.51792],[9.240704,52.52622],[9.239209,52.527601],[9.238117,52.52897],[9.238199,52.529694],[9.239712,52.529972],[9.240829,52.530226],[9.241498,52.530381],[9.242787,52.531154],[9.243969,52.531945],[9.244505,52.532283],[9.245098,52.532703],[9.246253,52.533357],[9.246591,52.533837],[9.24679,52.53443],[9.247194,52.53474],[9.247746,52.535042],[9.248871,52.535431],[9.249926,52.535676],[9.25097,52.535813],[9.251913,52.53585],[9.252547,52.535829],[9.253136,52.535889],[9.253678,52.536021],[9.254167,52.536438],[9.254738,52.536943],[9.255358,52.537093],[9.257484,52.53758],[9.257994,52.537819],[9.259564,52.538825],[9.259901,52.539329],[9.26023,52.540165],[9.260667,52.540374],[9.261296,52.540551],[9.262063,52.540568],[9.262784,52.54063],[9.263371,52.540744],[9.263955,52.540941],[9.264686,52.541329],[9.266082,52.541913],[9.268074,52.543029],[9.269974,52.544905],[9.270474,52.545172],[9.270458,52.545743],[9.273815,52.547157],[9.277615,52.548076],[9.28089,52.548228],[9.281217,52.547684],[9.287451,52.548128],[9.289197,52.548502],[9.292841,52.549443],[9.295252,52.549776],[9.302876,52.550804],[9.304982,52.550873],[9.305682,52.550999],[9.307305,52.551583],[9.310539,52.552595],[9.312721,52.553237],[9.314407,52.55364],[9.316046,52.554142],[9.31717,52.554603],[9.318465,52.555281],[9.321175,52.555086],[9.329068,52.555112],[9.332386,52.55414],[9.335592,52.553766],[9.33637,52.554106],[9.339277,52.553241],[9.339547,52.553917],[9.336339,52.55568],[9.339561,52.557159],[9.346757,52.558514],[9.347921,52.558922],[9.348828,52.558274],[9.347542,52.557262],[9.351619,52.555388],[9.359828,52.560119],[9.363697,52.559295],[9.368535,52.56095],[9.369469,52.56488],[9.369959,52.566522],[9.37117,52.567648],[9.373207,52.568898],[9.370591,52.571063],[9.365395,52.573908],[9.358234,52.574145],[9.354779,52.576054],[9.352579,52.575348],[9.344288,52.58012],[9.342785,52.58175],[9.345876,52.585141],[9.34347,52.585627],[9.343166,52.586581],[9.341561,52.587126],[9.341441,52.588321],[9.342178,52.590082],[9.344755,52.590943],[9.34761,52.591897],[9.3422,52.593221],[9.342438,52.595445],[9.342699,52.597947],[9.343211,52.602701],[9.34685,52.602493],[9.348811,52.601468],[9.350834,52.602345],[9.353559,52.605255],[9.354328,52.606395],[9.352828,52.607145],[9.354452,52.608509],[9.356372,52.607609],[9.367566,52.610665],[9.38752,52.612724],[9.388647,52.611617],[9.39028,52.611866],[9.389557,52.614242],[9.389179,52.615448],[9.389207,52.618363],[9.390709,52.618408],[9.398773,52.617375],[9.410405,52.616006],[9.423586,52.617865],[9.425555,52.617091],[9.427797,52.619642],[9.428793,52.620622],[9.432083,52.620849],[9.435885,52.621899],[9.438538,52.623849],[9.437072,52.624966],[9.437411,52.626326],[9.437572,52.627408],[9.439658,52.629189],[9.439272,52.630508],[9.441976,52.630514],[9.441952,52.632807],[9.447156,52.633383],[9.449844,52.633469],[9.450003,52.636123],[9.451256,52.637537],[9.453148,52.636933],[9.456187,52.638434],[9.456884,52.63834],[9.458501,52.638121],[9.459755,52.63949],[9.460859,52.640956],[9.462719,52.640301],[9.465569,52.639297],[9.467417,52.641192],[9.471653,52.639574],[9.471081,52.638751],[9.470237,52.637538],[9.470846,52.637391],[9.473269,52.636809],[9.478788,52.635255],[9.481848,52.633986],[9.484215,52.633241],[9.490695,52.632315],[9.49017,52.631322],[9.491487,52.631145],[9.493134,52.633092],[9.494249,52.635237],[9.49747,52.632884],[9.497714,52.632458],[9.497334,52.630242],[9.496912,52.629858],[9.502107,52.627581],[9.504779,52.626416],[9.507104,52.625527],[9.509279,52.624735],[9.50977,52.624559],[9.510307,52.624375],[9.512251,52.624004],[9.516866,52.623106],[9.520557,52.62319],[9.522865,52.623242],[9.520556,52.626698],[9.525535,52.628117],[9.530902,52.629493],[9.533565,52.631108],[9.534242,52.632327],[9.534725,52.633332],[9.535272,52.635357],[9.535739,52.637288],[9.536539,52.640102],[9.536795,52.640913],[9.537841,52.645038],[9.537619,52.646083],[9.537037,52.648834],[9.536442,52.651892],[9.535574,52.654646],[9.535116,52.6561],[9.534659,52.660066],[9.534101,52.661923],[9.534106,52.662838],[9.534115,52.664523],[9.537633,52.665049],[9.53849,52.663331],[9.542506,52.663798],[9.541771,52.666078],[9.537872,52.665664],[9.537324,52.667691],[9.541031,52.668257],[9.539579,52.671311],[9.544402,52.670593],[9.546333,52.670766],[9.548035,52.670918],[9.548318,52.672415],[9.552858,52.673023],[9.5687,52.675144],[9.569118,52.675542],[9.570107,52.676486],[9.585065,52.677211],[9.588232,52.675698],[9.591513,52.675863]]]],"type":"MultiPolygon"}
+}

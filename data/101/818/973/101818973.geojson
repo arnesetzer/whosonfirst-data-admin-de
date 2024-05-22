@@ -1,1 +1,263 @@
-{"id": 101818973, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01055042", "eurostat:level_code": "lau", "eurostat:name_local": "Timmendorfer Strand", "eurostat:nuts_2021_id": "01055042", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF08", "eurostat:nuts_2021_level_lau": "01055042", "eurostat:population": 8712, "eurostat:population_year": 2020, "geom:area": 0.002742, "geom:area_square_m": 19937528.712442, "geom:bbox": "10.740186,53.939434,10.84866,54.009191", "geom:latitude": 53.982198, "geom:longitude": 10.780369, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 8906, "iso:country": "DE", "lbl:latitude": 53.997027, "lbl:longitude": 10.777585, "lbl:max_zoom": 15.0, "lbl:min_zoom": 11.0, "mps:latitude": 53.997027, "mps:longitude": 10.777585, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "name:cat_x_preferred": ["Timmendorfer Strand"], "name:ceb_x_preferred": ["Timmendorfer Strand"], "name:che_x_preferred": ["\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"], "name:dan_x_preferred": ["Timmendorfer Strand"], "name:deu_x_preferred": ["Timmendorfer Strand"], "name:eng_x_preferred": ["Timmendorf Beach"], "name:eng_x_variant": ["Timmendorfer Strand"], "name:epo_x_preferred": ["Timmendorfer Strand"], "name:eus_x_preferred": ["Timmendorfer Strand"], "name:fas_x_preferred": ["\u062a\u06cc\u0645\u0646\u062f\u0648\u0631\u0641\u0631 \u0634\u062a\u0631\u0627\u0646\u062f"], "name:fra_x_preferred": ["Timmendorfer Strand"], "name:frr_x_preferred": ["Timmendorfer Strand"], "name:hbs_x_preferred": ["Timmendorfer Strand"], "name:hun_x_preferred": ["Timmendorfer Strand"], "name:ita_x_preferred": ["Timmendorfer Strand"], "name:kaz_x_preferred": ["\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"], "name:kir_x_preferred": ["\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"], "name:lit_x_preferred": ["Timendorfer Strendas"], "name:lld_x_preferred": ["Timmendorfer Strand"], "name:mkd_x_preferred": ["\u0422\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440 \u0428\u0442\u0440\u0430\u043d\u0434"], "name:msa_x_preferred": ["Timmendorfer Strand"], "name:nan_x_preferred": ["Timmendorfer Strand"], "name:nld_x_preferred": ["Timmendorfer Strand"], "name:nob_x_preferred": ["Timmendorfer Strand"], "name:nor_x_preferred": ["Timmendorfer Strand"], "name:pol_x_preferred": ["Timmendorfer Strand"], "name:por_x_preferred": ["Timmendorfer Strand"], "name:ron_x_preferred": ["Timmendorfer Strand"], "name:rus_x_preferred": ["\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"], "name:spa_x_preferred": ["Timmendorfer Strand"], "name:srp_x_preferred": ["\u0422\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440 \u0428\u0442\u0440\u0430\u043d\u0434"], "name:swe_x_preferred": ["Timmendorfer Strand"], "name:tat_x_preferred": ["\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"], "name:tur_x_preferred": ["Timmendorfer Strand"], "name:ukr_x_preferred": ["\u0422\u0456\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"], "name:uzb_x_preferred": ["Timmendorfer Strand"], "name:vie_x_preferred": ["Timmendorfer Strand"], "name:vol_x_preferred": ["Timmendorfer Strand"], "name:war_x_preferred": ["Timmendorfer Strand"], "name:zho_x_preferred": ["\u8482\u95e8\u591a\u5c14\u8d39\u5c14\u65af\u7279\u5170\u5fb7"], "name:zho_x_variant": ["\u8482\u95e8\u591a\u5f17\u65bd\u7279\u5170\u5fb7"], "nav:latitude": 53.997027, "nav:longitude": 10.777585, "qs:a0": "Bundesrepublik Deutschland", "qs:a1": "*Schleswig-Holstein", "qs:a1r": "0", "qs:a2": "Ostholstein", "qs:adm0": "Bundesrepublik Deutschland", "qs:la": "Ratekau", "qs:la_lc": "*DE01005500035", "qs:level": "locality", "qs:loc": "Timmendorfer Strand", "qs:loc_alt": "Timmendorfer Strand", "qs:pop": 0, "qs:source": "UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet", "qs:type": "rural point-in-poly", "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6551666, "qs_pg:gn_pop": 8906, "qs_pg:name": "Timmendorfer Strand", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Schleswig-Holstein", "qs_pg:photos": 1, "qs_pg:photos_1k": 1, "qs_pg:photos_9k": 8, "qs_pg:photos_9r": 0, "qs_pg:photos_all": 1842, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 5, "qs_pg:qs_id": 633051, "qs_pg:qs_pg_placetype": "localadmin", "qs_pg:qs_pg_placetype_gp": "LocalAdmin", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 12632321, "src:geom": "de-bkg", "src:geom_alt": ["quattroshapes_pg", "quattroshapes"], "src:lbl_centroid": "mapshaper", "src:population": "eurostat", "src:population_date": "2020", "wd:wordcount": 90, "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Schleswig-Holstein", "woe:placetype": "LocalAdmin", "wof:belongsto": [85682517, 102191581, 1377683801, 85633111, 102064123], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01055042", "eurostat:nuts_2021_id": "01055042", "gn:id": 2822160, "gp:id": 666636, "qs_pg:id": 141662, "wd:id": "Q541750", "wk:page": "Timmendorfer Strand"}, "wof:country": "DE", "wof:geom_alt": ["quattroshapes", "quattroshapes_pg"], "wof:geomhash": "f52dc0bc17ef9d41c0c81b4feb0c574b", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064123, "localadmin_id": 1377683801, "locality_id": 101818973, "region_id": 85682517}], "wof:id": 101818973, "wof:lastmodified": 1690871982, "wof:name": "Timmendorfer Strand", "wof:parent_id": 1377683801, "wof:placetype": "locality", "wof:population": 8712, "wof:population_rank": 5, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1125418909, 1125338681], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.740186, 53.939434, 10.84866, 54.009191], "geometry": {"coordinates": [[[[10.840886, 53.991894], [10.841426, 53.991292], [10.842046, 53.990483], [10.840971, 53.989381], [10.843175, 53.988683], [10.843518, 53.98773], [10.843919, 53.986427], [10.845992, 53.986421], [10.847442, 53.986695], [10.84866, 53.986512], [10.84771, 53.985868], [10.844402, 53.985734], [10.842569, 53.985218], [10.840194, 53.984203], [10.837445, 53.985337], [10.835726, 53.985201], [10.835241, 53.985651], [10.832256, 53.985848], [10.831932, 53.985399], [10.829453, 53.985981], [10.828362, 53.984825], [10.827558, 53.983988], [10.825021, 53.984394], [10.824066, 53.985043], [10.823137, 53.985162], [10.821002, 53.985024], [10.819802, 53.985476], [10.818764, 53.985254], [10.818217, 53.985552], [10.817503, 53.98585], [10.814201, 53.982337], [10.812627, 53.981677], [10.81125, 53.980989], [10.809702, 53.979708], [10.808855, 53.978913], [10.808326, 53.979029], [10.807347, 53.978618], [10.806186, 53.978163], [10.806074, 53.977364], [10.806372, 53.976456], [10.806746, 53.975431], [10.806737, 53.974227], [10.805862, 53.973259], [10.80459, 53.972238], [10.802751, 53.970707], [10.800512, 53.968539], [10.799281, 53.96802], [10.798373, 53.967637], [10.796635, 53.96747], [10.794697, 53.966954], [10.793804, 53.96559], [10.792445, 53.965136], [10.791482, 53.964626], [10.790609, 53.9639], [10.789444, 53.962753], [10.788178, 53.962523], [10.785952, 53.96224], [10.783724, 53.96168], [10.78343, 53.960998], [10.783621, 53.95991], [10.783509, 53.958994], [10.782436, 53.957919], [10.782535, 53.956778], [10.782615, 53.955062], [10.783005, 53.954091], [10.7828, 53.953122], [10.782882, 53.951702], [10.783366, 53.951126], [10.784425, 53.9501], [10.784417, 53.948842], [10.78459, 53.947414], [10.784004, 53.946274], [10.784103, 53.945133], [10.784279, 53.943992], [10.784177, 53.942465], [10.783495, 53.940572], [10.783108, 53.939665], [10.782133, 53.939434], [10.780674, 53.939841], [10.779918, 53.940643], [10.779437, 53.941722], [10.778576, 53.942756], [10.778005, 53.943952], [10.777433, 53.94487], [10.775797, 53.946185], [10.775223, 53.947039], [10.774076, 53.948641], [10.773109, 53.949721], [10.773313, 53.950753], [10.773702, 53.952064], [10.773908, 53.953312], [10.773916, 53.95457], [10.773924, 53.955827], [10.77451, 53.957083], [10.774009, 53.957309], [10.774135, 53.957875], [10.773529, 53.958424], [10.773169, 53.959287], [10.772048, 53.960233], [10.76959, 53.961891], [10.768431, 53.961561], [10.766556, 53.961322], [10.764484, 53.961255], [10.762748, 53.96142], [10.76135, 53.961854], [10.760394, 53.96253], [10.759545, 53.96316], [10.758815, 53.96336], [10.758251, 53.96328], [10.758364, 53.96434], [10.758673, 53.96512], [10.757451, 53.967072], [10.759172, 53.969503], [10.754858, 53.969161], [10.753277, 53.969685], [10.753039, 53.970629], [10.751714, 53.970722], [10.75095, 53.970463], [10.749005, 53.973907], [10.748171, 53.974609], [10.74746, 53.975598], [10.747376, 53.976811], [10.744313, 53.976745], [10.744979, 53.978648], [10.745046, 53.979825], [10.74506, 53.982295], [10.745279, 53.983273], [10.745075, 53.984828], [10.744466, 53.984964], [10.743599, 53.985226], [10.742737, 53.986521], [10.741926, 53.988723], [10.741181, 53.991733], [10.740186, 53.993774], [10.74324, 53.994694], [10.744548, 53.996811], [10.746877, 53.996312], [10.749685, 53.996845], [10.752384, 53.996975], [10.751576, 53.999482], [10.751948, 54.000568], [10.753871, 54.000924], [10.751921, 54.006335], [10.753522, 54.006332], [10.757106, 54.006477], [10.760064, 54.009049], [10.76718, 54.008315], [10.769682, 54.008435], [10.770995, 54.008657], [10.772864, 54.009191], [10.773587, 54.008486], [10.775708, 54.006416], [10.777494, 54.004679], [10.781125, 54.001912], [10.784626, 53.999321], [10.787249, 53.997439], [10.790744, 53.996], [10.795411, 53.994183], [10.799554, 53.992557], [10.801642, 53.992111], [10.803906, 53.992071], [10.805924, 53.992304], [10.807217, 53.992586], [10.808002, 53.992822], [10.80852, 53.992977], [10.809504, 53.993331], [10.809908, 53.993624], [10.810798, 53.993436], [10.81094, 53.992788], [10.81199, 53.992631], [10.812707, 53.993107], [10.813194, 53.99343], [10.812572, 53.993823], [10.810559, 53.994849], [10.809693, 53.994536], [10.809127, 53.99575], [10.810323, 53.995491], [10.812715, 53.994939], [10.814062, 53.994652], [10.814711, 53.99465], [10.817449, 53.994638], [10.818287, 53.99501], [10.81876, 53.995062], [10.820824, 53.994941], [10.823788, 53.994827], [10.825661, 53.994501], [10.829044, 53.993815], [10.831278, 53.99331], [10.831883, 53.993158], [10.833573, 53.992734], [10.835142, 53.99223], [10.837196, 53.99194], [10.838982, 53.991784], [10.839312, 53.991756], [10.840886, 53.991894]]]], "type": "MultiPolygon"}}
+{
+  "id": 101818973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01055042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Timmendorfer Strand",
+    "eurostat:nuts_2021_id":"01055042",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF08",
+    "eurostat:nuts_2021_level_lau":"01055042",
+    "eurostat:population":8712,
+    "eurostat:population_year":2020,
+    "geom:area":0.002742,
+    "geom:area_square_m":19937528.712442,
+    "geom:bbox":"10.740186,53.939434,10.84866,54.009191",
+    "geom:latitude":53.982198,
+    "geom:longitude":10.780369,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":8906,
+    "iso:country":"DE",
+    "lbl:latitude":53.997027,
+    "lbl:longitude":10.777585,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":53.997027,
+    "mps:longitude":10.777585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:ceb_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"
+    ],
+    "name:dan_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:deu_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:eng_x_preferred":[
+        "Timmendorf Beach"
+    ],
+    "name:eng_x_variant":[
+        "Timmendorfer Strand"
+    ],
+    "name:epo_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:eus_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0645\u0646\u062f\u0648\u0631\u0641\u0631 \u0634\u062a\u0631\u0627\u0646\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:frr_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:hbs_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:hun_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:ita_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"
+    ],
+    "name:lit_x_preferred":[
+        "Timendorfer Strendas"
+    ],
+    "name:lld_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440 \u0428\u0442\u0440\u0430\u043d\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:nan_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:nld_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:nob_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:nor_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:pol_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:por_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:ron_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440 \u0428\u0442\u0440\u0430\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0438\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"
+    ],
+    "name:tur_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043c\u043c\u0435\u043d\u0434\u043e\u0440\u0444\u0435\u0440-\u0428\u0442\u0440\u0430\u043d\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:vie_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:vol_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:war_x_preferred":[
+        "Timmendorfer Strand"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u95e8\u591a\u5c14\u8d39\u5c14\u65af\u7279\u5170\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u8482\u95e8\u591a\u5f17\u65bd\u7279\u5170\u5fb7"
+    ],
+    "nav:latitude":53.997027,
+    "nav:longitude":10.777585,
+    "qs:a0":"Bundesrepublik Deutschland",
+    "qs:a1":"*Schleswig-Holstein",
+    "qs:a1r":"0",
+    "qs:a2":"Ostholstein",
+    "qs:adm0":"Bundesrepublik Deutschland",
+    "qs:la":"Ratekau",
+    "qs:la_lc":"*DE01005500035",
+    "qs:level":"locality",
+    "qs:loc":"Timmendorfer Strand",
+    "qs:loc_alt":"Timmendorfer Strand",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6551666,
+    "qs_pg:gn_pop":8906,
+    "qs_pg:name":"Timmendorfer Strand",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Schleswig-Holstein",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1842,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":633051,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":12632321,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "wd:wordcount":90,
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Schleswig-Holstein",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377683801,
+        85633111,
+        102064123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01055042",
+        "eurostat:nuts_2021_id":"01055042",
+        "gn:id":2822160,
+        "gp:id":666636,
+        "qs_pg:id":141662,
+        "wd:id":"Q541750",
+        "wk:page":"Timmendorfer Strand"
+    },
+    "wof:country":"DE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"f52dc0bc17ef9d41c0c81b4feb0c574b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064123,
+            "localadmin_id":1377683801,
+            "locality_id":101818973,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":101818973,
+    "wof:lastmodified":1690871982,
+    "wof:name":"Timmendorfer Strand",
+    "wof:parent_id":1377683801,
+    "wof:placetype":"locality",
+    "wof:population":8712,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125418909,
+        1125338681
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.740186,
+    53.939434,
+    10.84866,
+    54.009191
+],
+  "geometry": {"coordinates":[[[[10.840886,53.991894],[10.841426,53.991292],[10.842046,53.990483],[10.840971,53.989381],[10.843175,53.988683],[10.843518,53.98773],[10.843919,53.986427],[10.845992,53.986421],[10.847442,53.986695],[10.84866,53.986512],[10.84771,53.985868],[10.844402,53.985734],[10.842569,53.985218],[10.840194,53.984203],[10.837445,53.985337],[10.835726,53.985201],[10.835241,53.985651],[10.832256,53.985848],[10.831932,53.985399],[10.829453,53.985981],[10.828362,53.984825],[10.827558,53.983988],[10.825021,53.984394],[10.824066,53.985043],[10.823137,53.985162],[10.821002,53.985024],[10.819802,53.985476],[10.818764,53.985254],[10.818217,53.985552],[10.817503,53.98585],[10.814201,53.982337],[10.812627,53.981677],[10.81125,53.980989],[10.809702,53.979708],[10.808855,53.978913],[10.808326,53.979029],[10.807347,53.978618],[10.806186,53.978163],[10.806074,53.977364],[10.806372,53.976456],[10.806746,53.975431],[10.806737,53.974227],[10.805862,53.973259],[10.80459,53.972238],[10.802751,53.970707],[10.800512,53.968539],[10.799281,53.96802],[10.798373,53.967637],[10.796635,53.96747],[10.794697,53.966954],[10.793804,53.96559],[10.792445,53.965136],[10.791482,53.964626],[10.790609,53.9639],[10.789444,53.962753],[10.788178,53.962523],[10.785952,53.96224],[10.783724,53.96168],[10.78343,53.960998],[10.783621,53.95991],[10.783509,53.958994],[10.782436,53.957919],[10.782535,53.956778],[10.782615,53.955062],[10.783005,53.954091],[10.7828,53.953122],[10.782882,53.951702],[10.783366,53.951126],[10.784425,53.9501],[10.784417,53.948842],[10.78459,53.947414],[10.784004,53.946274],[10.784103,53.945133],[10.784279,53.943992],[10.784177,53.942465],[10.783495,53.940572],[10.783108,53.939665],[10.782133,53.939434],[10.780674,53.939841],[10.779918,53.940643],[10.779437,53.941722],[10.778576,53.942756],[10.778005,53.943952],[10.777433,53.94487],[10.775797,53.946185],[10.775223,53.947039],[10.774076,53.948641],[10.773109,53.949721],[10.773313,53.950753],[10.773702,53.952064],[10.773908,53.953312],[10.773916,53.95457],[10.773924,53.955827],[10.77451,53.957083],[10.774009,53.957309],[10.774135,53.957875],[10.773529,53.958424],[10.773169,53.959287],[10.772048,53.960233],[10.76959,53.961891],[10.768431,53.961561],[10.766556,53.961322],[10.764484,53.961255],[10.762748,53.96142],[10.76135,53.961854],[10.760394,53.96253],[10.759545,53.96316],[10.758815,53.96336],[10.758251,53.96328],[10.758364,53.96434],[10.758673,53.96512],[10.757451,53.967072],[10.759172,53.969503],[10.754858,53.969161],[10.753277,53.969685],[10.753039,53.970629],[10.751714,53.970722],[10.75095,53.970463],[10.749005,53.973907],[10.748171,53.974609],[10.74746,53.975598],[10.747376,53.976811],[10.744313,53.976745],[10.744979,53.978648],[10.745046,53.979825],[10.74506,53.982295],[10.745279,53.983273],[10.745075,53.984828],[10.744466,53.984964],[10.743599,53.985226],[10.742737,53.986521],[10.741926,53.988723],[10.741181,53.991733],[10.740186,53.993774],[10.74324,53.994694],[10.744548,53.996811],[10.746877,53.996312],[10.749685,53.996845],[10.752384,53.996975],[10.751576,53.999482],[10.751948,54.000568],[10.753871,54.000924],[10.751921,54.006335],[10.753522,54.006332],[10.757106,54.006477],[10.760064,54.009049],[10.76718,54.008315],[10.769682,54.008435],[10.770995,54.008657],[10.772864,54.009191],[10.773587,54.008486],[10.775708,54.006416],[10.777494,54.004679],[10.781125,54.001912],[10.784626,53.999321],[10.787249,53.997439],[10.790744,53.996],[10.795411,53.994183],[10.799554,53.992557],[10.801642,53.992111],[10.803906,53.992071],[10.805924,53.992304],[10.807217,53.992586],[10.808002,53.992822],[10.80852,53.992977],[10.809504,53.993331],[10.809908,53.993624],[10.810798,53.993436],[10.81094,53.992788],[10.81199,53.992631],[10.812707,53.993107],[10.813194,53.99343],[10.812572,53.993823],[10.810559,53.994849],[10.809693,53.994536],[10.809127,53.99575],[10.810323,53.995491],[10.812715,53.994939],[10.814062,53.994652],[10.814711,53.99465],[10.817449,53.994638],[10.818287,53.99501],[10.81876,53.995062],[10.820824,53.994941],[10.823788,53.994827],[10.825661,53.994501],[10.829044,53.993815],[10.831278,53.99331],[10.831883,53.993158],[10.833573,53.992734],[10.835142,53.99223],[10.837196,53.99194],[10.838982,53.991784],[10.839312,53.991756],[10.840886,53.991894]]]],"type":"MultiPolygon"}
+}

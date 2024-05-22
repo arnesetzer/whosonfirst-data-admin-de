@@ -1,1 +1,79 @@
-{"id": 1377784399, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "geom:area": 0.0, "geom:area_square_m": 0.0, "geom:bbox": "12.60227,52.33469,12.60227,52.33469", "geom:latitude": 52.33469, "geom:longitude": 12.60227, "gn:admin1_code": "11", "gn:admin2_code": "0.0", "gn:admin3_code": "12069.0", "gn:admin4_code": "12069306.0", "gn:asciiname": "Rotscherlinde", "gn:country_code": "DE", "gn:dem": 65, "gn:feature_class": "P", "gn:feature_code": "PPL", "gn:geonameid": 2843825, "gn:latitude": 52.33469, "gn:longitude": 12.60227, "gn:modification_date": "2015-09-05", "gn:name": "Rotscherlinde", "gn:population": 0, "gn:timezone": "Europe/Berlin", "iso:country": "DE", "lbl:bbox": "12.59727,52.32969,12.60727,52.33969", "lbl:max_zoom": 18.0, "mz:hierarchy_label": 1, "mz:is_current": -1, "mz:min_zoom": 15.0, "src:geom": "geonames", "wof:belongsto": [102191581, 1377683787, 85633111, 101819751, 102063937, 85682553], "wof:breaches": [], "wof:concordances": {"gn:id": 2843825}, "wof:country": "DE", "wof:geomhash": "a87e0129f600eb09b9a07e8aeef8b079", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102063937, "localadmin_id": 1377683787, "locality_id": 101819751, "neighbourhood_id": 1377784399, "region_id": 85682553}], "wof:id": 1377784399, "wof:lastmodified": 1566717654, "wof:name": "Rotscherlinde", "wof:parent_id": 101819751, "wof:placetype": "neighbourhood", "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [1310488881], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [12.60227, 52.33469, 12.60227, 52.33469], "geometry": {"coordinates": [12.60227, 52.33469], "type": "Point"}}
+{
+  "id": 1377784399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.60227,52.33469,12.60227,52.33469",
+    "geom:latitude":52.33469,
+    "geom:longitude":12.60227,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0.0",
+    "gn:admin3_code":"12069.0",
+    "gn:admin4_code":"12069306.0",
+    "gn:asciiname":"Rotscherlinde",
+    "gn:country_code":"DE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2843825,
+    "gn:latitude":52.33469,
+    "gn:longitude":12.60227,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Rotscherlinde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Berlin",
+    "iso:country":"DE",
+    "lbl:bbox":"12.59727,52.32969,12.60727,52.33969",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1377683787,
+        85633111,
+        101819751,
+        102063937,
+        85682553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2843825
+    },
+    "wof:country":"DE",
+    "wof:geomhash":"a87e0129f600eb09b9a07e8aeef8b079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063937,
+            "localadmin_id":1377683787,
+            "locality_id":101819751,
+            "neighbourhood_id":1377784399,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":1377784399,
+    "wof:lastmodified":1566717654,
+    "wof:name":"Rotscherlinde",
+    "wof:parent_id":101819751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310488881
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.60227,
+    52.33469,
+    12.60227,
+    52.33469
+],
+  "geometry": {"coordinates":[12.60227,52.33469],"type":"Point"}
+}

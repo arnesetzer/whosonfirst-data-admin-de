@@ -1,1 +1,224 @@
-{"id": 1125951307, "type": "Feature", "properties": {"edtf:cessation": "uuuu", "edtf:inception": "uuuu", "eurostat:country_code": "DE", "eurostat:gisco_id": "DE_01053094", "eurostat:level_code": "lau", "eurostat:name_local": "Niendorf bei Berkenthin", "eurostat:nuts_2021_id": "01053094", "eurostat:nuts_2021_level_0": "DE", "eurostat:nuts_2021_level_1": "DEF", "eurostat:nuts_2021_level_2": "DEF0", "eurostat:nuts_2021_level_3": "DEF06", "eurostat:nuts_2021_level_lau": "01053094", "eurostat:population": 196, "eurostat:population_year": 2020, "geom:area": 0.000547, "geom:area_square_m": 4000569.269645, "geom:bbox": "10.600472,53.691596,10.644968,53.715369", "geom:latitude": 53.704338, "geom:longitude": 10.622234, "gn:country": "DE", "gn:fcode": "ADM4", "gn:population": 188, "iso:country": "DE", "lbl:latitude": 53.7, "lbl:longitude": 10.6333, "lbl:max_zoom": 18.0, "lbl:min_zoom": 13.0, "mz:hierarchy_label": 1, "mz:is_current": 1, "mz:min_zoom": 11.0, "mz:note": "Quattroshapes Point Gazetteer import 20170519", "name:cat_x_preferred": ["Niendorf bei Berkenthin"], "name:ceb_x_preferred": ["Niendorf bei Berkenthin"], "name:che_x_preferred": ["\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"], "name:dan_x_preferred": ["Niendorf bei Berkenthin"], "name:deu_x_preferred": ["Niendorf bei Berkenthin"], "name:eng_x_preferred": ["Niendorf bei Berkenthin"], "name:epo_x_preferred": ["Niendorf apud Berkenthin"], "name:eus_x_preferred": ["Niendorf bei Berkenthin"], "name:fas_x_preferred": ["\u0646\u06cc\u0646\u062f\u0648\u0631\u0641 \u0628\u0627\u06cc \u0628\u0631\u06a9\u0646\u062a\u06cc\u0646"], "name:fra_x_preferred": ["Niendorf bei Berkenthin"], "name:frr_x_preferred": ["Niendorf bei Berkenthin"], "name:hun_x_preferred": ["Niendorf bei Berkenthin"], "name:ita_x_preferred": ["Niendorf bei Berkenthin"], "name:kaz_x_preferred": ["\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"], "name:kir_x_preferred": ["\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"], "name:lld_x_preferred": ["Niendorf bei Berkenthin"], "name:mkd_x_preferred": ["\u041d\u0438\u043d\u0434\u043e\u0440\u0444 \u043a\u0430\u0458 \u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"], "name:msa_x_preferred": ["Niendorf bei Berkenthin"], "name:nan_x_preferred": ["Niendorf bei Berkenthin"], "name:nld_x_preferred": ["Niendorf bij Berkenthin"], "name:nob_x_preferred": ["Niendorf bei Berkenthin"], "name:pol_x_preferred": ["Niendorf bei Berkenthin"], "name:por_x_preferred": ["Niendorf bei Berkenthin"], "name:ron_x_preferred": ["Niendorf bei Berkenthin"], "name:rus_x_preferred": ["\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"], "name:spa_x_preferred": ["Niendorf bei Berkenthin"], "name:srp_x_preferred": ["\u041d\u0438\u043d\u0434\u043e\u0440\u0444 \u0431\u0430\u0458 \u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d\u0430"], "name:swe_x_preferred": ["Niendorf bei Berkenthin"], "name:tat_x_preferred": ["\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"], "name:tur_x_preferred": ["Niendorf bei Berkenthin"], "name:ukr_x_preferred": ["\u041d\u0456\u043d\u0434\u043e\u0440\u0444-\u0431\u0430\u0439-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0456\u043d"], "name:uzb_x_preferred": ["Niendorf bei Berkenthin"], "name:vie_x_preferred": ["Niendorf bei Berkenthin"], "name:vol_x_preferred": ["Niendorf bei Berkenthin"], "name:war_x_preferred": ["Niendorf bei Berkenthin"], "name:zho_x_preferred": ["\u5b81\u591a\u5c14\u592b\u62dc\u8d1d\u5c14\u80af\u5ef7"], "nav:latitude": 53.7, "nav:longitude": 10.6333, "qs_pg:aaroncc": "DE", "qs_pg:gn_country": "DE", "qs_pg:gn_fcode": "ADM4", "qs_pg:gn_id": 6558847, "qs_pg:gn_pop": 188, "qs_pg:name": "Niendorf bei Berkenthin", "qs_pg:name_adm0": "Deutschland", "qs_pg:name_adm1": "Schleswig-Holstein", "qs_pg:photos_9r": 0, "qs_pg:photos_sr": 0, "qs_pg:pop_sr": 1, "qs_pg:qs_id": 1241259, "qs_pg:qs_pg_placetype": "locality", "qs_pg:qs_pg_placetype_gp": "Town", "qs_pg:woe_adm0": 23424829, "qs_pg:woe_id": 680066, "src:geom": "de-bkg", "src:geom_alt": ["qs_pg"], "src:lbl_centroid": "qs_pg", "src:population": "eurostat", "src:population_date": "2020", "woe:adm0_id": 23424829, "woe:name_adm0": "Deutschland", "woe:name_adm1": "Schleswig-Holstein", "woe:placetype": "Town", "wof:belongsto": [85682517, 102191581, 1377683471, 85633111, 102064073], "wof:breaches": [], "wof:concordances": {"eg:gisco_id": "DE_01053094", "eurostat:nuts_2021_id": "01053094", "gn:id": 6558847, "gp:id": 680066, "qs_pg:id": 1241259, "wd:id": "Q555375"}, "wof:country": "DE", "wof:created": 1497297468, "wof:geom_alt": ["qs_pg"], "wof:geomhash": "756f647fd2ca9089eab1f8c58cf812c9", "wof:hierarchy": [{"continent_id": 102191581, "country_id": 85633111, "county_id": 102064073, "localadmin_id": 1377683471, "locality_id": 1125951307, "region_id": 85682517}], "wof:id": 1125951307, "wof:lastmodified": 1690874116, "wof:name": "Niendorf bei Berkenthin", "wof:parent_id": 1377683471, "wof:placetype": "locality", "wof:population": 196, "wof:population_rank": 1, "wof:repo": "whosonfirst-data-admin-de", "wof:superseded_by": [], "wof:supersedes": [], "wof:tags": [], "wof:lang_x_official": ["deu"]}, "bbox": [10.600472, 53.691596, 10.644968, 53.715369], "geometry": {"coordinates": [[[[10.644968, 53.708417], [10.643813, 53.707277], [10.643403, 53.706981], [10.641734, 53.705833], [10.640322, 53.704747], [10.639034, 53.704237], [10.637063, 53.703718], [10.635108, 53.702947], [10.633758, 53.702257], [10.632757, 53.701791], [10.631816, 53.700992], [10.631041, 53.699942], [10.630537, 53.698666], [10.630108, 53.696978], [10.630122, 53.696187], [10.630147, 53.694741], [10.63038, 53.691596], [10.618834, 53.692955], [10.618705, 53.695686], [10.617633, 53.696784], [10.614893, 53.696759], [10.61105, 53.69794], [10.600472, 53.6998], [10.601807, 53.701128], [10.601053, 53.702503], [10.60145, 53.703941], [10.60127, 53.704552], [10.600849, 53.70581], [10.604267, 53.704055], [10.612789, 53.70863], [10.60954, 53.711382], [10.608907, 53.712559], [10.614241, 53.713992], [10.617027, 53.713576], [10.61854, 53.713], [10.619964, 53.713133], [10.620569, 53.712953], [10.621705, 53.712916], [10.622916, 53.712663], [10.624158, 53.712662], [10.625673, 53.712732], [10.625628, 53.712921], [10.626142, 53.712875], [10.630224, 53.715369], [10.637476, 53.7144], [10.636912, 53.713439], [10.634747, 53.713657], [10.632892, 53.711269], [10.644968, 53.708417]]]], "type": "MultiPolygon"}}
+{
+  "id": 1125951307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "eurostat:country_code":"DE",
+    "eurostat:gisco_id":"DE_01053094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niendorf bei Berkenthin",
+    "eurostat:nuts_2021_id":"01053094",
+    "eurostat:nuts_2021_level_0":"DE",
+    "eurostat:nuts_2021_level_1":"DEF",
+    "eurostat:nuts_2021_level_2":"DEF0",
+    "eurostat:nuts_2021_level_3":"DEF06",
+    "eurostat:nuts_2021_level_lau":"01053094",
+    "eurostat:population":196,
+    "eurostat:population_year":2020,
+    "geom:area":0.000547,
+    "geom:area_square_m":4000569.269645,
+    "geom:bbox":"10.600472,53.691596,10.644968,53.715369",
+    "geom:latitude":53.704338,
+    "geom:longitude":10.622234,
+    "gn:country":"DE",
+    "gn:fcode":"ADM4",
+    "gn:population":188,
+    "iso:country":"DE",
+    "lbl:latitude":53.7,
+    "lbl:longitude":10.6333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:ceb_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:deu_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:eng_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:epo_x_preferred":[
+        "Niendorf apud Berkenthin"
+    ],
+    "name:eus_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0646\u062f\u0648\u0631\u0641 \u0628\u0627\u06cc \u0628\u0631\u06a9\u0646\u062a\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:frr_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:hun_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:ita_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:lld_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u043d\u0434\u043e\u0440\u0444 \u043a\u0430\u0458 \u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:nan_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:nld_x_preferred":[
+        "Niendorf bij Berkenthin"
+    ],
+    "name:nob_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:pol_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:por_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:ron_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u043d\u0434\u043e\u0440\u0444 \u0431\u0430\u0458 \u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u044d\u043d\u0434\u043e\u0440\u0444-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043d\u0434\u043e\u0440\u0444-\u0431\u0430\u0439-\u0411\u0435\u0440\u043a\u0435\u043d\u0442\u0456\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:vie_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:vol_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:war_x_preferred":[
+        "Niendorf bei Berkenthin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b81\u591a\u5c14\u592b\u62dc\u8d1d\u5c14\u80af\u5ef7"
+    ],
+    "nav:latitude":53.7,
+    "nav:longitude":10.6333,
+    "qs_pg:aaroncc":"DE",
+    "qs_pg:gn_country":"DE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6558847,
+    "qs_pg:gn_pop":188,
+    "qs_pg:name":"Niendorf bei Berkenthin",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Schleswig-Holstein",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1241259,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":680066,
+    "src:geom":"de-bkg",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Schleswig-Holstein",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682517,
+        102191581,
+        1377683471,
+        85633111,
+        102064073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DE_01053094",
+        "eurostat:nuts_2021_id":"01053094",
+        "gn:id":6558847,
+        "gp:id":680066,
+        "qs_pg:id":1241259,
+        "wd:id":"Q555375"
+    },
+    "wof:country":"DE",
+    "wof:created":1497297468,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"756f647fd2ca9089eab1f8c58cf812c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064073,
+            "localadmin_id":1377683471,
+            "locality_id":1125951307,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":1125951307,
+    "wof:lastmodified":1690874116,
+    "wof:name":"Niendorf bei Berkenthin",
+    "wof:parent_id":1377683471,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-de",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.600472,
+    53.691596,
+    10.644968,
+    53.715369
+],
+  "geometry": {"coordinates":[[[[10.644968,53.708417],[10.643813,53.707277],[10.643403,53.706981],[10.641734,53.705833],[10.640322,53.704747],[10.639034,53.704237],[10.637063,53.703718],[10.635108,53.702947],[10.633758,53.702257],[10.632757,53.701791],[10.631816,53.700992],[10.631041,53.699942],[10.630537,53.698666],[10.630108,53.696978],[10.630122,53.696187],[10.630147,53.694741],[10.63038,53.691596],[10.618834,53.692955],[10.618705,53.695686],[10.617633,53.696784],[10.614893,53.696759],[10.61105,53.69794],[10.600472,53.6998],[10.601807,53.701128],[10.601053,53.702503],[10.60145,53.703941],[10.60127,53.704552],[10.600849,53.70581],[10.604267,53.704055],[10.612789,53.70863],[10.60954,53.711382],[10.608907,53.712559],[10.614241,53.713992],[10.617027,53.713576],[10.61854,53.713],[10.619964,53.713133],[10.620569,53.712953],[10.621705,53.712916],[10.622916,53.712663],[10.624158,53.712662],[10.625673,53.712732],[10.625628,53.712921],[10.626142,53.712875],[10.630224,53.715369],[10.637476,53.7144],[10.636912,53.713439],[10.634747,53.713657],[10.632892,53.711269],[10.644968,53.708417]]]],"type":"MultiPolygon"}
+}
