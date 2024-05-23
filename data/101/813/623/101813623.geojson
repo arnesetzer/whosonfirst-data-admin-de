@@ -24,8 +24,8 @@
     "gn:country":null,
     "gn:population":6365,
     "iso:country":"DE",
-    "lbl:latitude":49.894427,
-    "lbl:longitude":9.779555,
+    "lbl:latitude":49.896333,
+    "lbl:longitude":9.818593,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":49.894427,
@@ -331,7 +331,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":662,
@@ -375,7 +375,7 @@
         }
     ],
     "wof:id":101813623,
-    "wof:lastmodified":1695367053,
+    "wof:lastmodified":1716413489,
     "wof:name":"Zellingen",
     "wof:parent_id":1377691603,
     "wof:placetype":"locality",

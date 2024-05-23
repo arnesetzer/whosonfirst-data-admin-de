@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4008,
     "iso:country":"DE",
-    "lbl:latitude":48.397332,
-    "lbl:longitude":12.620846,
+    "lbl:latitude":48.391629,
+    "lbl:longitude":12.609162,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.397332,
@@ -197,7 +197,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":33,
@@ -241,7 +241,7 @@
         }
     ],
     "wof:id":101785569,
-    "wof:lastmodified":1695366998,
+    "wof:lastmodified":1716413484,
     "wof:name":"Massing",
     "wof:parent_id":1377685247,
     "wof:placetype":"locality",

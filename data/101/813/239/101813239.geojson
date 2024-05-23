@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3988,
     "iso:country":"DE",
-    "lbl:latitude":49.837988,
-    "lbl:longitude":9.278546,
+    "lbl:latitude":49.819764,
+    "lbl:longitude":9.25697,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.837988,
@@ -323,7 +323,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":539,
@@ -366,7 +366,7 @@
         }
     ],
     "wof:id":101813239,
-    "wof:lastmodified":1695367052,
+    "wof:lastmodified":1716413481,
     "wof:name":"Eschau",
     "wof:parent_id":1377691287,
     "wof:placetype":"locality",

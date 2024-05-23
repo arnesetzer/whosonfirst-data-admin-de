@@ -40,8 +40,8 @@
     "gn:population":2242,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.181842,
-    "lbl:longitude":12.791523,
+    "lbl:latitude":48.180869,
+    "lbl:longitude":12.781753,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.181842,
@@ -344,7 +344,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":32,
@@ -391,7 +391,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366962,
+    "wof:lastmodified":1716413484,
     "wof:name":"Mehring",
     "wof:parent_id":1377690807,
     "wof:placetype":"locality",

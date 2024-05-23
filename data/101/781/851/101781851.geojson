@@ -45,8 +45,8 @@
     "geom:latitude":49.013029,
     "geom:longitude":11.495919,
     "iso:country":"DE",
-    "lbl:latitude":48.998553,
-    "lbl:longitude":11.50474,
+    "lbl:latitude":49.035153,
+    "lbl:longitude":11.474165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":48.998553,
@@ -198,7 +198,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":46,
@@ -241,7 +241,7 @@
         }
     ],
     "wof:id":101781851,
-    "wof:lastmodified":1695366968,
+    "wof:lastmodified":1716413477,
     "wof:name":"Beilngries",
     "wof:parent_id":1377691465,
     "wof:placetype":"locality",

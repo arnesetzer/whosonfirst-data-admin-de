@@ -23,8 +23,8 @@
     "geom:longitude":12.038476,
     "gn:population":7702,
     "iso:country":"DE",
-    "lbl:latitude":48.713673,
-    "lbl:longitude":12.021535,
+    "lbl:latitude":48.702455,
+    "lbl:longitude":12.02818,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.713673,
@@ -175,7 +175,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":62,
@@ -215,7 +215,7 @@
         }
     ],
     "wof:id":101782959,
-    "wof:lastmodified":1695366994,
+    "wof:lastmodified":1716413479,
     "wof:name":"Rottenburg a.d. Laaber",
     "wof:parent_id":1377684507,
     "wof:placetype":"locality",

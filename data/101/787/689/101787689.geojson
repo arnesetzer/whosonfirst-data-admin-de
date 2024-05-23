@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1999,
     "iso:country":"DE",
-    "lbl:latitude":47.825828,
-    "lbl:longitude":10.519021,
+    "lbl:latitude":47.817505,
+    "lbl:longitude":10.534351,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":47.825828,
@@ -197,7 +197,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":878,
@@ -244,7 +244,7 @@
         }
     ],
     "wof:id":101787689,
-    "wof:lastmodified":1695367069,
+    "wof:lastmodified":1716413479,
     "wof:name":"Aitrang",
     "wof:parent_id":1377693049,
     "wof:placetype":"locality",

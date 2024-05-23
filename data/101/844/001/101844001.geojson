@@ -26,8 +26,8 @@
     "gn:id":"2844829,2844844",
     "gn:population":2860,
     "iso:country":"DE",
-    "lbl:latitude":48.58099,
-    "lbl:longitude":12.922074,
+    "lbl:latitude":48.599602,
+    "lbl:longitude":12.935914,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.58099,
@@ -288,7 +288,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":150,
@@ -326,7 +326,7 @@
         }
     ],
     "wof:id":101844001,
-    "wof:lastmodified":1695366999,
+    "wof:lastmodified":1716413486,
     "wof:name":"Ro\u00dfbach",
     "wof:parent_id":1377685165,
     "wof:placetype":"locality",

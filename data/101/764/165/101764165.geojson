@@ -23,8 +23,8 @@
     "geom:longitude":10.258658,
     "gn:population":1852,
     "iso:country":"DE",
-    "lbl:latitude":47.904747,
-    "lbl:longitude":10.253047,
+    "lbl:latitude":47.893215,
+    "lbl:longitude":10.266075,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.904747,
@@ -167,7 +167,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":25,
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":101764165,
-    "wof:lastmodified":1695367072,
+    "wof:lastmodified":1716413489,
     "wof:name":"Wolfertschwenden",
     "wof:parent_id":1377693275,
     "wof:placetype":"locality",

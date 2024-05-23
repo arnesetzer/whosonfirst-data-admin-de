@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":925,
     "iso:country":"DE",
-    "lbl:latitude":50.374678,
-    "lbl:longitude":10.265897,
+    "lbl:latitude":50.376889,
+    "lbl:longitude":10.256366,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":50.374678,
@@ -170,7 +170,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":530,
@@ -210,7 +210,7 @@
         }
     ],
     "wof:id":101907349,
-    "wof:lastmodified":1695367047,
+    "wof:lastmodified":1716413488,
     "wof:name":"Unsleben",
     "wof:parent_id":1377690863,
     "wof:placetype":"locality",

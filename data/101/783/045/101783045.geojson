@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1382,
     "iso:country":"DE",
-    "lbl:latitude":48.687394,
-    "lbl:longitude":12.877531,
+    "lbl:latitude":48.68403,
+    "lbl:longitude":12.880489,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.687394,
@@ -182,7 +182,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -226,7 +226,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366988,
+    "wof:lastmodified":1716413488,
     "wof:name":"Wallerfing",
     "wof:parent_id":1377683943,
     "wof:placetype":"locality",

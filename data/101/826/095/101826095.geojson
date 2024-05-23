@@ -40,8 +40,8 @@
     "gn:population":1756,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":50.259399,
-    "lbl:longitude":10.410555,
+    "lbl:latitude":50.261614,
+    "lbl:longitude":10.404027,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":50.259399,
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":36,
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":101826095,
-    "wof:lastmodified":1695367047,
+    "wof:lastmodified":1716413487,
     "wof:name":"Sulzfeld",
     "wof:parent_id":1377690839,
     "wof:placetype":"locality",

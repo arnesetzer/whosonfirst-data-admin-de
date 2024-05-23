@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1019,
     "iso:country":"DE",
-    "lbl:latitude":49.409241,
-    "lbl:longitude":12.417409,
+    "lbl:latitude":49.414271,
+    "lbl:longitude":12.413712,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.409241,
@@ -189,7 +189,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":38,
@@ -237,7 +237,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367014,
+    "wof:lastmodified":1716413481,
     "wof:name":"Dieterskirchen",
     "wof:parent_id":1377686843,
     "wof:placetype":"locality",

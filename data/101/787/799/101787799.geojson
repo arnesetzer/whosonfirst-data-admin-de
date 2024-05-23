@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4837,
     "iso:country":"DE",
-    "lbl:latitude":47.821368,
-    "lbl:longitude":12.481213,
+    "lbl:latitude":47.819786,
+    "lbl:longitude":12.480188,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":47.821368,
@@ -196,7 +196,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":35,
@@ -246,7 +246,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366986,
+    "wof:lastmodified":1716413488,
     "wof:name":"\u00dcbersee",
     "wof:parent_id":1377683529,
     "wof:placetype":"locality",

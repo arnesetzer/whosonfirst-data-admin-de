@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4483,
     "iso:country":"DE",
-    "lbl:latitude":47.766146,
-    "lbl:longitude":12.761468,
+    "lbl:latitude":47.762754,
+    "lbl:longitude":12.747996,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":47.766146,
@@ -332,7 +332,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":604,
@@ -383,7 +383,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366985,
+    "wof:lastmodified":1716413483,
     "wof:name":"Inzell",
     "wof:parent_id":1377694507,
     "wof:placetype":"locality",

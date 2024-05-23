@@ -26,8 +26,8 @@
     "gn:id":"2861432,3274987",
     "gn:population":1271,
     "iso:country":"DE",
-    "lbl:latitude":49.842446,
-    "lbl:longitude":9.406898,
+    "lbl:latitude":49.824413,
+    "lbl:longitude":9.404766,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.842446,
@@ -180,7 +180,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":579,
@@ -220,7 +220,7 @@
         }
     ],
     "wof:id":101813255,
-    "wof:lastmodified":1695367051,
+    "wof:lastmodified":1716413479,
     "wof:name":"Altenbuch",
     "wof:parent_id":1377691453,
     "wof:placetype":"locality",

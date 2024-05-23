@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":6669,
     "iso:country":"DE",
-    "lbl:latitude":48.394739,
-    "lbl:longitude":10.461186,
+    "lbl:latitude":48.38803,
+    "lbl:longitude":10.43631,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.394739,
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":229,
@@ -228,7 +228,7 @@
         }
     ],
     "wof:id":101785475,
-    "wof:lastmodified":1695367064,
+    "wof:lastmodified":1716413483,
     "wof:name":"Jettingen-Scheppach",
     "wof:parent_id":1377692553,
     "wof:placetype":"locality",

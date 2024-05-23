@@ -38,8 +38,8 @@
     "gn:population":11870,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.688669,
-    "lbl:longitude":12.996799,
+    "lbl:latitude":48.701878,
+    "lbl:longitude":13.019251,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":48.688669,
@@ -152,7 +152,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -191,7 +191,7 @@
         }
     ],
     "wof:id":1310603781,
-    "wof:lastmodified":1695366989,
+    "wof:lastmodified":1716413478,
     "wof:name":"Osterhofen",
     "wof:parent_id":1377683897,
     "wof:placetype":"locality",

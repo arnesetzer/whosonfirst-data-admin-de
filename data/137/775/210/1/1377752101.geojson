@@ -48,8 +48,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3177,
     "iso:country":"DE",
-    "lbl:latitude":48.404111,
-    "lbl:longitude":10.280647,
+    "lbl:latitude":48.406756,
+    "lbl:longitude":10.272272,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.404111,
@@ -198,7 +198,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1695367064,
+    "wof:lastmodified":1716413483,
     "wof:name":"K\u00f6tz",
     "wof:parent_id":1377692611,
     "wof:placetype":"locality",
@@ -210,7 +210,8 @@
         1125273293,
         1125356273
     ],
-    "wof:tags":[]
+    "wof:tags":[],
+    "src:lbl_centroid":"wof"
 },
   "bbox": [
     10.232548,

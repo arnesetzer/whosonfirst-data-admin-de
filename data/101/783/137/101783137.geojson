@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2556,
     "iso:country":"DE",
-    "lbl:latitude":48.757265,
-    "lbl:longitude":10.950329,
+    "lbl:latitude":48.74285,
+    "lbl:longitude":10.945665,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.757265,
@@ -317,7 +317,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -360,7 +360,7 @@
         }
     ],
     "wof:id":101783137,
-    "wof:lastmodified":1695367074,
+    "wof:lastmodified":1716413484,
     "wof:name":"Marxheim",
     "wof:parent_id":1377693341,
     "wof:placetype":"locality",

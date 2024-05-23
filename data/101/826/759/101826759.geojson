@@ -40,8 +40,8 @@
     "gn:population":3082,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":49.531215,
-    "lbl:longitude":10.915216,
+    "lbl:latitude":49.531007,
+    "lbl:longitude":10.914432,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.531215,
@@ -212,7 +212,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -260,7 +260,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367034,
+    "wof:lastmodified":1716413485,
     "wof:name":"Obermichelbach",
     "wof:parent_id":1377689439,
     "wof:placetype":"locality",

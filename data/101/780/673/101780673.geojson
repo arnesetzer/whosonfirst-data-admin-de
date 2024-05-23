@@ -40,8 +40,8 @@
     "gn:population":1868,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.229036,
-    "lbl:longitude":12.611448,
+    "lbl:latitude":48.227044,
+    "lbl:longitude":12.610655,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.229036,
@@ -218,7 +218,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":186,
@@ -269,7 +269,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366962,
+    "wof:lastmodified":1716413487,
     "wof:name":"Teising",
     "wof:parent_id":1377690771,
     "wof:placetype":"locality",

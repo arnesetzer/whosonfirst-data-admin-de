@@ -25,8 +25,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":4812,
     "iso:country":"DE",
-    "lbl:latitude":48.201745,
-    "lbl:longitude":11.783185,
+    "lbl:latitude":48.195264,
+    "lbl:longitude":11.799616,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.201745,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":777,
@@ -242,7 +242,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366967,
+    "wof:lastmodified":1716413486,
     "wof:name":"Pliening",
     "wof:parent_id":1377691375,
     "wof:placetype":"locality",

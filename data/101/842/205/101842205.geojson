@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3652,
     "iso:country":"DE",
-    "lbl:latitude":49.597494,
-    "lbl:longitude":10.631963,
+    "lbl:latitude":49.595228,
+    "lbl:longitude":10.626649,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.597494,
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":29,
@@ -229,7 +229,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367039,
+    "wof:lastmodified":1716413481,
     "wof:name":"Diespeck",
     "wof:parent_id":1377689879,
     "wof:placetype":"locality",

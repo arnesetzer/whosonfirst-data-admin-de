@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":12321,
     "iso:country":"DE",
-    "lbl:latitude":49.512596,
-    "lbl:longitude":11.435853,
+    "lbl:latitude":49.508592,
+    "lbl:longitude":11.428969,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":49.512596,
@@ -347,7 +347,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:latitude":49.508056,
@@ -397,7 +397,7 @@
         }
     ],
     "wof:id":101826811,
-    "wof:lastmodified":1695367037,
+    "wof:lastmodified":1716413478,
     "wof:name":"Hersbruck",
     "wof:parent_id":1377689473,
     "wof:placetype":"locality",

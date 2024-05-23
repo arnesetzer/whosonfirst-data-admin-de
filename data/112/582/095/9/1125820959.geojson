@@ -25,8 +25,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":754,
     "iso:country":"DE",
-    "lbl:latitude":48.884771,
-    "lbl:longitude":13.659851,
+    "lbl:latitude":48.867973,
+    "lbl:longitude":13.680003,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":48.884771,
@@ -304,7 +304,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -342,7 +342,7 @@
         }
     ],
     "wof:id":1125820959,
-    "wof:lastmodified":1695366991,
+    "wof:lastmodified":1716413485,
     "wof:name":"Philippsreut",
     "wof:parent_id":1377684113,
     "wof:placetype":"locality",

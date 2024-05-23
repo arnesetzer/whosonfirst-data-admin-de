@@ -24,8 +24,8 @@
     "gn:country":null,
     "gn:population":1522,
     "iso:country":"DE",
-    "lbl:latitude":47.821577,
-    "lbl:longitude":10.449214,
+    "lbl:latitude":47.821509,
+    "lbl:longitude":10.438288,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.821577,
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -229,7 +229,7 @@
         }
     ],
     "wof:id":101787707,
-    "wof:lastmodified":1695367068,
+    "wof:lastmodified":1716413482,
     "wof:name":"G\u00fcnzach",
     "wof:parent_id":1377693067,
     "wof:placetype":"locality",

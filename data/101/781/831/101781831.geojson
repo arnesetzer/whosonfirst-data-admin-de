@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":5600,
     "iso:country":"DE",
-    "lbl:latitude":48.972763,
-    "lbl:longitude":11.692338,
+    "lbl:latitude":48.964834,
+    "lbl:longitude":11.687087,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.972763,
@@ -341,7 +341,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -387,7 +387,7 @@
         }
     ],
     "wof:id":101781831,
-    "wof:lastmodified":1695366992,
+    "wof:lastmodified":1716413479,
     "wof:name":"Riedenburg",
     "wof:parent_id":1377684291,
     "wof:placetype":"locality",

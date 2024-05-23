@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2412,
     "iso:country":"DE",
-    "lbl:latitude":49.255023,
-    "lbl:longitude":11.941966,
+    "lbl:latitude":49.267658,
+    "lbl:longitude":11.91984,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.255023,
@@ -275,7 +275,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -322,7 +322,7 @@
         }
     ],
     "wof:id":101782207,
-    "wof:lastmodified":1695367004,
+    "wof:lastmodified":1716413487,
     "wof:name":"Schmidm\u00fchlen",
     "wof:parent_id":1377685747,
     "wof:placetype":"locality",

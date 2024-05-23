@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1334,
     "iso:country":"DE",
-    "lbl:latitude":50.077647,
-    "lbl:longitude":12.240299,
+    "lbl:latitude":50.08102,
+    "lbl:longitude":12.228382,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":50.077647,
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":101825989,
-    "wof:lastmodified":1695367029,
+    "wof:lastmodified":1716413487,
     "wof:name":"Schirnding",
     "wof:parent_id":1377688735,
     "wof:placetype":"locality",

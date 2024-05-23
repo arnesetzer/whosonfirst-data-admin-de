@@ -23,8 +23,8 @@
     "geom:longitude":12.518347,
     "gn:population":17622,
     "iso:country":"DE",
-    "lbl:latitude":48.249455,
-    "lbl:longitude":12.528516,
+    "lbl:latitude":48.242376,
+    "lbl:longitude":12.523405,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":48.249455,
@@ -222,7 +222,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -265,7 +265,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366977,
+    "wof:lastmodified":1716413478,
     "wof:name":"M\u00fchldorf a. Inn",
     "wof:parent_id":1377692581,
     "wof:placetype":"locality",

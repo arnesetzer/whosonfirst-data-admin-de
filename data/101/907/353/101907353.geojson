@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":945,
     "iso:country":"DE",
-    "lbl:latitude":50.317506,
-    "lbl:longitude":10.277409,
+    "lbl:latitude":50.321229,
+    "lbl:longitude":10.277047,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":50.317506,
@@ -179,7 +179,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":101907353,
-    "wof:lastmodified":1695367047,
+    "wof:lastmodified":1716413486,
     "wof:name":"R\u00f6delmaier",
     "wof:parent_id":1377690853,
     "wof:placetype":"locality",

@@ -23,8 +23,8 @@
     "geom:longitude":10.575347,
     "gn:population":12448,
     "iso:country":"DE",
-    "lbl:latitude":49.575959,
-    "lbl:longitude":10.584573,
+    "lbl:latitude":49.580162,
+    "lbl:longitude":10.609111,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":49.575959,
@@ -218,7 +218,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":972,
@@ -258,7 +258,7 @@
         }
     ],
     "wof:id":101842201,
-    "wof:lastmodified":1695367039,
+    "wof:lastmodified":1716413479,
     "wof:name":"Neustadt a.d. Aisch",
     "wof:parent_id":1377689835,
     "wof:placetype":"locality",

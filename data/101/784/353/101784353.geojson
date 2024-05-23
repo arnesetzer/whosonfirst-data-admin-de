@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":7126,
     "iso:country":"DE",
-    "lbl:latitude":48.558615,
-    "lbl:longitude":13.217115,
+    "lbl:latitude":48.555108,
+    "lbl:longitude":13.208372,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.558615,
@@ -192,7 +192,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":101784353,
-    "wof:lastmodified":1695366995,
+    "wof:lastmodified":1716413485,
     "wof:name":"Ortenburg",
     "wof:parent_id":1377684767,
     "wof:placetype":"locality",

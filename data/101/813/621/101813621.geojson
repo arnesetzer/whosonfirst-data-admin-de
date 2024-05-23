@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1699,
     "iso:country":"DE",
-    "lbl:latitude":49.924516,
-    "lbl:longitude":9.786586,
+    "lbl:latitude":49.924137,
+    "lbl:longitude":9.800574,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.924516,
@@ -326,7 +326,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":485,
@@ -366,7 +366,7 @@
         }
     ],
     "wof:id":101813621,
-    "wof:lastmodified":1695367054,
+    "wof:lastmodified":1716413483,
     "wof:name":"Himmelstadt",
     "wof:parent_id":1377691603,
     "wof:placetype":"locality",

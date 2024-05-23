@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3044,
     "iso:country":"DE",
-    "lbl:latitude":48.9131,
-    "lbl:longitude":13.397124,
+    "lbl:latitude":48.891769,
+    "lbl:longitude":13.428691,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.9131,
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":29,
@@ -228,7 +228,7 @@
         }
     ],
     "wof:id":101783103,
-    "wof:lastmodified":1695366991,
+    "wof:lastmodified":1716413486,
     "wof:name":"Sankt Oswald-Riedlh\u00fctte",
     "wof:parent_id":1377684071,
     "wof:placetype":"locality",

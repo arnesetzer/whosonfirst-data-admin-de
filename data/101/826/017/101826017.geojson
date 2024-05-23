@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":26842,
     "iso:country":"DE",
-    "lbl:latitude":50.113884,
-    "lbl:longitude":11.445565,
+    "lbl:latitude":50.106756,
+    "lbl:longitude":11.45836,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mps:latitude":50.113884,
@@ -236,7 +236,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -282,7 +282,7 @@
         }
     ],
     "wof:id":101826017,
-    "wof:lastmodified":1695367027,
+    "wof:lastmodified":1716413478,
     "wof:name":"Kulmbach",
     "wof:parent_id":1377688435,
     "wof:placetype":"locality",

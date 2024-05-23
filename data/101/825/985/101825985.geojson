@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3525,
     "iso:country":"DE",
-    "lbl:latitude":50.203856,
-    "lbl:longitude":12.082937,
+    "lbl:latitude":50.19856,
+    "lbl:longitude":12.088069,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":50.203856,
@@ -197,7 +197,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":42,
@@ -239,7 +239,7 @@
         }
     ],
     "wof:id":101825985,
-    "wof:lastmodified":1695367029,
+    "wof:lastmodified":1716413478,
     "wof:name":"Sch\u00f6nwald",
     "wof:parent_id":1377688695,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1318,
     "iso:country":"DE",
-    "lbl:latitude":48.338526,
-    "lbl:longitude":12.550795,
+    "lbl:latitude":48.329423,
+    "lbl:longitude":12.550091,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.338526,
@@ -187,7 +187,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -231,7 +231,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366977,
+    "wof:lastmodified":1716413485,
     "wof:name":"Niedertaufkirchen",
     "wof:parent_id":1377692681,
     "wof:placetype":"locality",

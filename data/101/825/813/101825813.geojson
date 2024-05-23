@@ -25,8 +25,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":1374,
     "iso:country":"DE",
-    "lbl:latitude":49.947972,
-    "lbl:longitude":11.93631,
+    "lbl:latitude":49.94985,
+    "lbl:longitude":11.941176,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.947972,
@@ -195,7 +195,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":25,
@@ -243,7 +243,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367015,
+    "wof:lastmodified":1716413481,
     "wof:name":"Ebnath",
     "wof:parent_id":1377687005,
     "wof:placetype":"locality",

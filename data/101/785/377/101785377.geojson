@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4856,
     "iso:country":"DE",
-    "lbl:latitude":48.320765,
-    "lbl:longitude":11.550084,
+    "lbl:latitude":48.314357,
+    "lbl:longitude":11.551626,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.320765,
@@ -323,7 +323,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":117,
@@ -370,7 +370,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366965,
+    "wof:lastmodified":1716413482,
     "wof:name":"Haimhausen",
     "wof:parent_id":1377691185,
     "wof:placetype":"locality",

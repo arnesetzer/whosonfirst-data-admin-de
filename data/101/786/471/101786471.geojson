@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2626,
     "iso:country":"DE",
-    "lbl:latitude":48.105544,
-    "lbl:longitude":12.211123,
+    "lbl:latitude":48.105367,
+    "lbl:longitude":12.210594,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.105544,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -242,7 +242,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366981,
+    "wof:lastmodified":1716413487,
     "wof:name":"Soyen",
     "wof:parent_id":1377694223,
     "wof:placetype":"locality",

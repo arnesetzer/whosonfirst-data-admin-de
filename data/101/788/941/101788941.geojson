@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":14247,
     "iso:country":"DE",
-    "lbl:latitude":47.584145,
-    "lbl:longitude":10.686681,
+    "lbl:latitude":47.567003,
+    "lbl:longitude":10.699852,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":47.584145,
@@ -272,7 +272,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":991,
@@ -319,7 +319,7 @@
         }
     ],
     "wof:id":101788941,
-    "wof:lastmodified":1695367068,
+    "wof:lastmodified":1716413478,
     "wof:name":"F\u00fcssen",
     "wof:parent_id":1377692933,
     "wof:placetype":"locality",

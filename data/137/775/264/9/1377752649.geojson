@@ -48,8 +48,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":810,
     "iso:country":"DE",
-    "lbl:latitude":48.166939,
-    "lbl:longitude":12.515672,
+    "lbl:latitude":48.172691,
+    "lbl:longitude":12.522301,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":48.166939,
@@ -199,7 +199,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1695366977,
+    "wof:lastmodified":1716413485,
     "wof:name":"Oberneukirchen",
     "wof:parent_id":1377692673,
     "wof:placetype":"locality",
@@ -211,7 +211,8 @@
         1125385841,
         1125283601
     ],
-    "wof:tags":[]
+    "wof:tags":[],
+    "src:lbl_centroid":"wof"
 },
   "bbox": [
     12.475635,

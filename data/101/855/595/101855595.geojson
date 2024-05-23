@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1238,
     "iso:country":"DE",
-    "lbl:latitude":49.708118,
-    "lbl:longitude":10.40696,
+    "lbl:latitude":49.709278,
+    "lbl:longitude":10.430826,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.708118,
@@ -179,7 +179,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":29,
@@ -223,7 +223,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367039,
+    "wof:lastmodified":1716413485,
     "wof:name":"Oberscheinfeld",
     "wof:parent_id":1377689853,
     "wof:placetype":"locality",

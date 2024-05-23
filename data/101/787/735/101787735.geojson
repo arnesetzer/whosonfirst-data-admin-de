@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":10200,
     "iso:country":"DE",
-    "lbl:latitude":47.917192,
-    "lbl:longitude":11.858013,
+    "lbl:latitude":47.906613,
+    "lbl:longitude":11.846828,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":47.917192,
@@ -338,7 +338,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":73,
@@ -389,7 +389,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366981,
+    "wof:lastmodified":1716413481,
     "wof:name":"Feldkirchen-Westerham",
     "wof:parent_id":1377694049,
     "wof:placetype":"locality",

@@ -40,8 +40,8 @@
     "gn:population":1185,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.379097,
-    "lbl:longitude":12.089267,
+    "lbl:latitude":48.374953,
+    "lbl:longitude":12.079006,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.379097,
@@ -193,7 +193,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":35,
@@ -243,7 +243,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366969,
+    "wof:lastmodified":1716413487,
     "wof:name":"Steinkirchen",
     "wof:parent_id":1377691797,
     "wof:placetype":"locality",

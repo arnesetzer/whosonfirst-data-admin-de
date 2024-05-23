@@ -25,8 +25,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":1214,
     "iso:country":"DE",
-    "lbl:latitude":47.983435,
-    "lbl:longitude":12.253989,
+    "lbl:latitude":47.984167,
+    "lbl:longitude":12.24704,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.983435,
@@ -189,7 +189,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":90,
@@ -237,7 +237,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366983,
+    "wof:lastmodified":1716413487,
     "wof:name":"Schonstett",
     "wof:parent_id":1377694273,
     "wof:placetype":"locality",

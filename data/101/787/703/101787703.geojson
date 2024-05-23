@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1554,
     "iso:country":"DE",
-    "lbl:latitude":47.843589,
-    "lbl:longitude":10.367833,
+    "lbl:latitude":47.828231,
+    "lbl:longitude":10.379408,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.843589,
@@ -176,7 +176,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -216,7 +216,7 @@
         }
     ],
     "wof:id":101787703,
-    "wof:lastmodified":1695367069,
+    "wof:lastmodified":1716413488,
     "wof:name":"Untrasried",
     "wof:parent_id":1377693067,
     "wof:placetype":"locality",

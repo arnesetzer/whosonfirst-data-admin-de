@@ -40,8 +40,8 @@
     "gn:population":9908,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":47.855787,
-    "lbl:longitude":12.167458,
+    "lbl:latitude":47.858441,
+    "lbl:longitude":12.147621,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.855787,
@@ -209,7 +209,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":1175,
@@ -260,7 +260,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366981,
+    "wof:lastmodified":1716413487,
     "wof:name":"Stephanskirchen",
     "wof:parent_id":1377694229,
     "wof:placetype":"locality",

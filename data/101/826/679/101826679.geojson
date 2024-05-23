@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":7867,
     "iso:country":"DE",
-    "lbl:latitude":47.825495,
-    "lbl:longitude":10.29127,
+    "lbl:latitude":47.808728,
+    "lbl:longitude":10.289942,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.825495,
@@ -176,7 +176,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":33,
@@ -219,7 +219,7 @@
         }
     ],
     "wof:id":101826679,
-    "wof:lastmodified":1695367075,
+    "wof:lastmodified":1716413481,
     "wof:name":"Dietmannsried",
     "wof:parent_id":1377693515,
     "wof:placetype":"locality",

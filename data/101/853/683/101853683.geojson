@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1200,
     "iso:country":"DE",
-    "lbl:latitude":47.662587,
-    "lbl:longitude":10.000338,
+    "lbl:latitude":47.647658,
+    "lbl:longitude":9.985754,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.662587,
@@ -181,7 +181,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":428,
@@ -225,7 +225,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367067,
+    "wof:lastmodified":1716413482,
     "wof:name":"Gestratz",
     "wof:parent_id":1377692913,
     "wof:placetype":"locality",

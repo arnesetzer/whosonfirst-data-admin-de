@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2514,
     "iso:country":"DE",
-    "lbl:latitude":49.732605,
-    "lbl:longitude":10.541607,
+    "lbl:latitude":49.733291,
+    "lbl:longitude":10.598933,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.732605,
@@ -179,7 +179,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":202,
@@ -226,7 +226,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367039,
+    "wof:lastmodified":1716413481,
     "wof:name":"Burghaslach",
     "wof:parent_id":1377689785,
     "wof:placetype":"locality",

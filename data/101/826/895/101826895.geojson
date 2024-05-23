@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2315,
     "iso:country":"DE",
-    "lbl:latitude":49.603976,
-    "lbl:longitude":10.412985,
+    "lbl:latitude":49.602431,
+    "lbl:longitude":10.434816,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.603976,
@@ -173,7 +173,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":35,
@@ -217,7 +217,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367037,
+    "wof:lastmodified":1716413487,
     "wof:name":"Sugenheim",
     "wof:parent_id":1377689853,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2136,
     "iso:country":"DE",
-    "lbl:latitude":48.978568,
-    "lbl:longitude":13.02035,
+    "lbl:latitude":48.967522,
+    "lbl:longitude":12.999455,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.978568,
@@ -331,7 +331,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -375,7 +375,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366998,
+    "wof:lastmodified":1716413489,
     "wof:name":"Zachenberg",
     "wof:parent_id":1377685055,
     "wof:placetype":"locality",

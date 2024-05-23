@@ -40,8 +40,8 @@
     "gn:population":1180,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":47.60996,
-    "lbl:longitude":10.607598,
+    "lbl:latitude":47.612246,
+    "lbl:longitude":10.60343,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.60996,
@@ -318,7 +318,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -358,7 +358,7 @@
         }
     ],
     "wof:id":1242589587,
-    "wof:lastmodified":1695367068,
+    "wof:lastmodified":1716413481,
     "wof:name":"Eisenberg",
     "wof:parent_id":1377693087,
     "wof:placetype":"locality",

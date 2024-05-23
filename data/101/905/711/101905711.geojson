@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":895,
     "iso:country":"DE",
-    "lbl:latitude":48.12143,
-    "lbl:longitude":10.21589,
+    "lbl:latitude":48.120155,
+    "lbl:longitude":10.224319,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":48.12143,
@@ -179,7 +179,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":34,
@@ -219,7 +219,7 @@
         }
     ],
     "wof:id":101905711,
-    "wof:lastmodified":1695367072,
+    "wof:lastmodified":1716413489,
     "wof:name":"Winterrieden",
     "wof:parent_id":1377693195,
     "wof:placetype":"locality",

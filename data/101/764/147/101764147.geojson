@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1183,
     "iso:country":"DE",
-    "lbl:latitude":48.025913,
-    "lbl:longitude":10.246496,
+    "lbl:latitude":48.024693,
+    "lbl:longitude":10.258435,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.025913,
@@ -173,7 +173,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":33,
@@ -213,7 +213,7 @@
         }
     ],
     "wof:id":101764147,
-    "wof:lastmodified":1695367072,
+    "wof:lastmodified":1716413483,
     "wof:name":"Holzg\u00fcnz",
     "wof:parent_id":1377693249,
     "wof:placetype":"locality",

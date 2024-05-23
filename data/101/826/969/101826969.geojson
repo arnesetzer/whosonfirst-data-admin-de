@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2390,
     "iso:country":"DE",
-    "lbl:latitude":49.624345,
-    "lbl:longitude":10.875826,
+    "lbl:latitude":49.630451,
+    "lbl:longitude":10.87578,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.624345,
@@ -179,7 +179,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":93,
@@ -218,7 +218,7 @@
         }
     ],
     "wof:id":101826969,
-    "wof:lastmodified":1695367034,
+    "wof:lastmodified":1716413482,
     "wof:name":"Gro\u00dfenseebach",
     "wof:parent_id":1377689235,
     "wof:placetype":"locality",

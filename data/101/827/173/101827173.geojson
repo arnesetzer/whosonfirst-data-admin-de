@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4713,
     "iso:country":"DE",
-    "lbl:latitude":50.194587,
-    "lbl:longitude":10.258951,
+    "lbl:latitude":50.184449,
+    "lbl:longitude":10.275814,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":50.194587,
@@ -179,7 +179,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":201,
@@ -219,7 +219,7 @@
         }
     ],
     "wof:id":101827173,
-    "wof:lastmodified":1695367046,
+    "wof:lastmodified":1716413484,
     "wof:name":"Ma\u00dfbach",
     "wof:parent_id":1377690647,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":5042,
     "iso:country":"DE",
-    "lbl:latitude":49.169098,
-    "lbl:longitude":10.918397,
+    "lbl:latitude":49.175596,
+    "lbl:longitude":10.926558,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":49.169098,
@@ -338,7 +338,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":825,
@@ -389,7 +389,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367040,
+    "wof:lastmodified":1716413478,
     "wof:name":"Spalt",
     "wof:parent_id":1377690101,
     "wof:placetype":"locality",

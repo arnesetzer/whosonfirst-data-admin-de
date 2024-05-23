@@ -40,8 +40,8 @@
     "gn:population":5587,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.610093,
-    "lbl:longitude":11.544929,
+    "lbl:latitude":48.61362,
+    "lbl:longitude":11.562134,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.610093,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -243,7 +243,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366981,
+    "wof:lastmodified":1716413486,
     "wof:name":"Rohrbach",
     "wof:parent_id":1377693867,
     "wof:placetype":"locality",

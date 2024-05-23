@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4533,
     "iso:country":"DE",
-    "lbl:latitude":48.500683,
-    "lbl:longitude":11.433297,
+    "lbl:latitude":48.502075,
+    "lbl:longitude":11.455556,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.500683,
@@ -329,7 +329,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":40,
@@ -380,7 +380,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366981,
+    "wof:lastmodified":1716413487,
     "wof:name":"Scheyern",
     "wof:parent_id":1377693877,
     "wof:placetype":"locality",

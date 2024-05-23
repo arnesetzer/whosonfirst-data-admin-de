@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":7826,
     "iso:country":"DE",
-    "lbl:latitude":47.901962,
-    "lbl:longitude":12.30031,
+    "lbl:latitude":47.907826,
+    "lbl:longitude":12.298966,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.901962,
@@ -206,7 +206,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":157,
@@ -253,7 +253,7 @@
         }
     ],
     "wof:id":101787751,
-    "wof:lastmodified":1695366983,
+    "wof:lastmodified":1716413480,
     "wof:name":"Bad Endorf",
     "wof:parent_id":1377694031,
     "wof:placetype":"locality",

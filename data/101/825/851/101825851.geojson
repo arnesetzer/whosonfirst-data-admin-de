@@ -40,8 +40,8 @@
     "gn:population":1748,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":49.885463,
-    "lbl:longitude":10.727706,
+    "lbl:latitude":49.894156,
+    "lbl:longitude":10.726015,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.885463,
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":414,
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":101825851,
-    "wof:lastmodified":1695367017,
+    "wof:lastmodified":1716413484,
     "wof:name":"Lisberg",
     "wof:parent_id":1377687293,
     "wof:placetype":"locality",

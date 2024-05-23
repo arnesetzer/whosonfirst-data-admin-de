@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4979,
     "iso:country":"DE",
-    "lbl:latitude":49.310212,
-    "lbl:longitude":12.190397,
+    "lbl:latitude":49.31074,
+    "lbl:longitude":12.175271,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.310212,
@@ -323,7 +323,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":38,
@@ -371,7 +371,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367014,
+    "wof:lastmodified":1716413488,
     "wof:name":"Wackersdorf",
     "wof:parent_id":1377686857,
     "wof:placetype":"locality",

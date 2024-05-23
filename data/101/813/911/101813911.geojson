@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1625,
     "iso:country":"DE",
-    "lbl:latitude":49.856636,
-    "lbl:longitude":9.840355,
+    "lbl:latitude":49.859885,
+    "lbl:longitude":9.842526,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.856636,
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":492,
@@ -251,7 +251,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367058,
+    "wof:lastmodified":1716413481,
     "wof:name":"Erlabrunn",
     "wof:parent_id":1377692141,
     "wof:placetype":"locality",

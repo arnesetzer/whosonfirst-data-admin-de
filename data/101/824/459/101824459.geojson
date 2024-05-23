@@ -23,8 +23,8 @@
     "geom:longitude":10.324995,
     "gn:population":1469,
     "iso:country":"DE",
-    "lbl:latitude":50.325057,
-    "lbl:longitude":10.321363,
+    "lbl:latitude":50.329144,
+    "lbl:longitude":10.336689,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":50.325057,
@@ -154,7 +154,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":101824459,
-    "wof:lastmodified":1695367047,
+    "wof:lastmodified":1716413489,
     "wof:name":"W\u00fclfershausen a.d. Saale",
     "wof:parent_id":1377690881,
     "wof:placetype":"locality",

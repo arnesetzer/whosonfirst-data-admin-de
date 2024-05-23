@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3976,
     "iso:country":"DE",
-    "lbl:latitude":48.779216,
-    "lbl:longitude":12.533014,
+    "lbl:latitude":48.774851,
+    "lbl:longitude":12.514682,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.779216,
@@ -326,7 +326,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -373,7 +373,7 @@
         }
     ],
     "wof:id":101783285,
-    "wof:lastmodified":1695367002,
+    "wof:lastmodified":1716413484,
     "wof:name":"Leiblfing",
     "wof:parent_id":1377685351,
     "wof:placetype":"locality",

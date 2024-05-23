@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":7661,
     "iso:country":"DE",
-    "lbl:latitude":48.962446,
-    "lbl:longitude":12.152914,
+    "lbl:latitude":48.965993,
+    "lbl:longitude":12.167172,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.962446,
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":428,
@@ -254,7 +254,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367012,
+    "wof:lastmodified":1716413485,
     "wof:name":"Obertraubling",
     "wof:parent_id":1377686517,
     "wof:placetype":"locality",

@@ -23,8 +23,8 @@
     "geom:longitude":10.422072,
     "gn:population":2520,
     "iso:country":"DE",
-    "lbl:latitude":49.147449,
-    "lbl:longitude":10.425375,
+    "lbl:latitude":49.14728,
+    "lbl:longitude":10.424195,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.147449,
@@ -314,7 +314,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -357,7 +357,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367030,
+    "wof:lastmodified":1716413481,
     "wof:name":"Dentlein a. Forst",
     "wof:parent_id":1377689051,
     "wof:placetype":"locality",

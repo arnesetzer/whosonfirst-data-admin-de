@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1389,
     "iso:country":"DE",
-    "lbl:latitude":49.86449,
-    "lbl:longitude":9.648208,
+    "lbl:latitude":49.86801,
+    "lbl:longitude":9.637122,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.86449,
@@ -326,7 +326,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":357,
@@ -373,7 +373,7 @@
         }
     ],
     "wof:id":101813615,
-    "wof:lastmodified":1695367054,
+    "wof:lastmodified":1716413483,
     "wof:name":"Karbach",
     "wof:parent_id":1377691571,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1611,
     "iso:country":"DE",
-    "lbl:latitude":49.908796,
-    "lbl:longitude":9.887929,
+    "lbl:latitude":49.910739,
+    "lbl:longitude":9.880965,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.908796,
@@ -338,7 +338,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":432,
@@ -381,7 +381,7 @@
         }
     ],
     "wof:id":101813613,
-    "wof:lastmodified":1695367053,
+    "wof:lastmodified":1716413486,
     "wof:name":"Retzstadt",
     "wof:parent_id":1377691603,
     "wof:placetype":"locality",

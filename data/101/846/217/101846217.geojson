@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2071,
     "iso:country":"DE",
-    "lbl:latitude":49.727227,
-    "lbl:longitude":9.74426,
+    "lbl:latitude":49.728931,
+    "lbl:longitude":9.763916,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.727227,
@@ -188,7 +188,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":25,
@@ -228,7 +228,7 @@
         }
     ],
     "wof:id":101846217,
-    "wof:lastmodified":1695367058,
+    "wof:lastmodified":1716413480,
     "wof:name":"Altertheim",
     "wof:parent_id":1377692133,
     "wof:placetype":"locality",

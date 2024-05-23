@@ -48,8 +48,8 @@
     "gn:fcode":"ADM4",
     "gn:population":14001,
     "iso:country":"DE",
-    "lbl:latitude":48.000498,
-    "lbl:longitude":10.594026,
+    "lbl:latitude":48.005614,
+    "lbl:longitude":10.598599,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":48.000498,
@@ -228,7 +228,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1695367071,
+    "wof:lastmodified":1716413477,
     "wof:name":"Bad W\u00f6rishofen",
     "wof:parent_id":1377693115,
     "wof:placetype":"locality",
@@ -240,7 +240,8 @@
         1125370495,
         1125316757
     ],
-    "wof:tags":[]
+    "wof:tags":[],
+    "src:lbl_centroid":"wof"
 },
   "bbox": [
     10.544274,

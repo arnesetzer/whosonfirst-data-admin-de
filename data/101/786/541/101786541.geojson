@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1261,
     "iso:country":"DE",
-    "lbl:latitude":48.09018,
-    "lbl:longitude":10.414319,
+    "lbl:latitude":48.090902,
+    "lbl:longitude":10.4277,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.09018,
@@ -188,7 +188,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":722,
@@ -227,7 +227,7 @@
         }
     ],
     "wof:id":101786541,
-    "wof:lastmodified":1695367071,
+    "wof:lastmodified":1716413485,
     "wof:name":"Oberrieden",
     "wof:parent_id":1377693203,
     "wof:placetype":"locality",

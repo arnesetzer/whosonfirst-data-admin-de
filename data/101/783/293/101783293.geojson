@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2471,
     "iso:country":"DE",
-    "lbl:latitude":48.869714,
-    "lbl:longitude":12.781051,
+    "lbl:latitude":48.886138,
+    "lbl:longitude":12.795241,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.869714,
@@ -323,7 +323,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":35,
@@ -363,7 +363,7 @@
         }
     ],
     "wof:id":101783293,
-    "wof:lastmodified":1695367001,
+    "wof:lastmodified":1716413485,
     "wof:name":"Niederwinkling",
     "wof:parent_id":1377685473,
     "wof:placetype":"locality",

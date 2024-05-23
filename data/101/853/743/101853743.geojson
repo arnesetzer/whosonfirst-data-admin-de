@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1803,
     "iso:country":"DE",
-    "lbl:latitude":47.902045,
-    "lbl:longitude":10.15506,
+    "lbl:latitude":47.902439,
+    "lbl:longitude":10.124793,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.902045,
@@ -187,7 +187,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":25,
@@ -227,7 +227,7 @@
         }
     ],
     "wof:id":101853743,
-    "wof:lastmodified":1695367070,
+    "wof:lastmodified":1716413483,
     "wof:name":"Kronburg",
     "wof:parent_id":1377693267,
     "wof:placetype":"locality",

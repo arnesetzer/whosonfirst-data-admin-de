@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1456,
     "iso:country":"DE",
-    "lbl:latitude":48.903087,
-    "lbl:longitude":12.401122,
+    "lbl:latitude":48.893472,
+    "lbl:longitude":12.373024,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.903087,
@@ -190,7 +190,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -238,7 +238,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367012,
+    "wof:lastmodified":1716413484,
     "wof:name":"M\u00f6tzing",
     "wof:parent_id":1377686661,
     "wof:placetype":"locality",

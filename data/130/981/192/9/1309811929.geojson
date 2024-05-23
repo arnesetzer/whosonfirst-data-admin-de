@@ -40,8 +40,8 @@
     "gn:population":3626,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.592877,
-    "lbl:longitude":12.323625,
+    "lbl:latitude":48.607208,
+    "lbl:longitude":12.316179,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.592877,
@@ -162,7 +162,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1309811929,
-    "wof:lastmodified":1695366995,
+    "wof:lastmodified":1716413485,
     "wof:name":"Niederaichbach",
     "wof:parent_id":1377684489,
     "wof:placetype":"locality",

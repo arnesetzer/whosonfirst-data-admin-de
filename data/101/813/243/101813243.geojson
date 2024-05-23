@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2548,
     "iso:country":"DE",
-    "lbl:latitude":49.792666,
-    "lbl:longitude":9.279362,
+    "lbl:latitude":49.792253,
+    "lbl:longitude":9.266928,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.792666,
@@ -170,7 +170,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":590,
@@ -210,7 +210,7 @@
         }
     ],
     "wof:id":101813243,
-    "wof:lastmodified":1695367051,
+    "wof:lastmodified":1716413484,
     "wof:name":"M\u00f6nchberg",
     "wof:parent_id":1377691445,
     "wof:placetype":"locality",

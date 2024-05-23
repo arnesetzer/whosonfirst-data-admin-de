@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":12113,
     "iso:country":"DE",
-    "lbl:latitude":48.031007,
-    "lbl:longitude":10.734475,
+    "lbl:latitude":48.03706,
+    "lbl:longitude":10.728233,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":48.031007,
@@ -209,7 +209,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":440,
@@ -249,7 +249,7 @@
         }
     ],
     "wof:id":101786435,
-    "wof:lastmodified":1695367068,
+    "wof:lastmodified":1716413478,
     "wof:name":"Buchloe",
     "wof:parent_id":1377693021,
     "wof:placetype":"locality",

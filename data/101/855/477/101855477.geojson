@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3371,
     "iso:country":"DE",
-    "lbl:latitude":48.275912,
-    "lbl:longitude":12.48147,
+    "lbl:latitude":48.263501,
+    "lbl:longitude":12.466123,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.275912,
@@ -184,7 +184,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":37,
@@ -234,7 +234,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366977,
+    "wof:lastmodified":1716413484,
     "wof:name":"Mettenheim",
     "wof:parent_id":1377692571,
     "wof:placetype":"locality",

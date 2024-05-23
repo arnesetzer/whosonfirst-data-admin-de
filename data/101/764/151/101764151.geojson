@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":5192,
     "iso:country":"DE",
-    "lbl:latitude":48.146477,
-    "lbl:longitude":10.246735,
+    "lbl:latitude":48.143064,
+    "lbl:longitude":10.254076,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.146477,
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":219,
@@ -234,7 +234,7 @@
         }
     ],
     "wof:id":101764151,
-    "wof:lastmodified":1695367071,
+    "wof:lastmodified":1716413480,
     "wof:name":"Babenhausen",
     "wof:parent_id":1377693195,
     "wof:placetype":"locality",

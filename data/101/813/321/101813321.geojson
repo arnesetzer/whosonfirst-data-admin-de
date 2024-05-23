@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1518,
     "iso:country":"DE",
-    "lbl:latitude":49.815677,
-    "lbl:longitude":9.699216,
+    "lbl:latitude":49.804794,
+    "lbl:longitude":9.694593,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.815677,
@@ -182,7 +182,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -226,7 +226,7 @@
         }
     ],
     "wof:id":101813321,
-    "wof:lastmodified":1695367058,
+    "wof:lastmodified":1716413486,
     "wof:name":"Remlingen",
     "wof:parent_id":1377692115,
     "wof:placetype":"locality",

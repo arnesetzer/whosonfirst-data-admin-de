@@ -25,8 +25,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":687,
     "iso:country":"DE",
-    "lbl:latitude":49.500552,
-    "lbl:longitude":12.319747,
+    "lbl:latitude":49.497121,
+    "lbl:longitude":12.314244,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":49.500552,
@@ -163,7 +163,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":1125868789,
-    "wof:lastmodified":1695367014,
+    "wof:lastmodified":1716413482,
     "wof:name":"Gleiritsch",
     "wof:parent_id":1377686797,
     "wof:placetype":"locality",

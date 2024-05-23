@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3511,
     "iso:country":"DE",
-    "lbl:latitude":50.057944,
-    "lbl:longitude":11.608751,
+    "lbl:latitude":50.062633,
+    "lbl:longitude":11.59382,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":50.057944,
@@ -332,7 +332,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":36,
@@ -383,7 +383,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367026,
+    "wof:lastmodified":1716413483,
     "wof:name":"Himmelkron",
     "wof:parent_id":1377688429,
     "wof:placetype":"locality",

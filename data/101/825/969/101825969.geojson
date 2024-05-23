@@ -23,8 +23,8 @@
     "geom:longitude":10.590297,
     "gn:population":3181,
     "iso:country":"DE",
-    "lbl:latitude":49.977395,
-    "lbl:longitude":10.589838,
+    "lbl:latitude":49.989003,
+    "lbl:longitude":10.588227,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.977395,
@@ -175,7 +175,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":101825969,
-    "wof:lastmodified":1695367049,
+    "wof:lastmodified":1716413486,
     "wof:name":"Sand a. Main",
     "wof:parent_id":1377691027,
     "wof:placetype":"locality",

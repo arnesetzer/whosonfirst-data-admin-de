@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":12173,
     "iso:country":"DE",
-    "lbl:latitude":49.181261,
-    "lbl:longitude":10.312805,
+    "lbl:latitude":49.168758,
+    "lbl:longitude":10.330822,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":49.181261,
@@ -356,7 +356,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":1789,
@@ -403,7 +403,7 @@
         }
     ],
     "wof:id":101782121,
-    "wof:lastmodified":1695367032,
+    "wof:lastmodified":1716413478,
     "wof:name":"Feuchtwangen",
     "wof:parent_id":1377693143,
     "wof:placetype":"locality",

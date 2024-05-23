@@ -43,8 +43,8 @@
     "geom:latitude":49.267738,
     "geom:longitude":12.751883,
     "iso:country":"DE",
-    "lbl:latitude":49.271496,
-    "lbl:longitude":12.748122,
+    "lbl:latitude":49.262903,
+    "lbl:longitude":12.764837,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":49.271496,
@@ -155,7 +155,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1695367006,
+    "wof:lastmodified":1716413488,
     "wof:name":"Weiding",
     "wof:parent_id":1377685977,
     "wof:placetype":"locality",
@@ -164,7 +164,8 @@
     "wof:repo":"whosonfirst-data-admin-de",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
+    "wof:tags":[],
+    "src:lbl_centroid":"wof"
 },
   "bbox": [
     12.70004,

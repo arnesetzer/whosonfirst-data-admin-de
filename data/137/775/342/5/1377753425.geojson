@@ -48,8 +48,8 @@
     "gn:fcode":"ADM4",
     "gn:population":844,
     "iso:country":"DE",
-    "lbl:latitude":49.676593,
-    "lbl:longitude":10.13733,
+    "lbl:latitude":49.671155,
+    "lbl:longitude":10.142824,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":49.676593,
@@ -204,7 +204,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1695367051,
+    "wof:lastmodified":1716413487,
     "wof:name":"Segnitz",
     "wof:parent_id":1377691215,
     "wof:placetype":"locality",
@@ -216,7 +216,8 @@
         1125342147,
         1125325533
     ],
-    "wof:tags":[]
+    "wof:tags":[],
+    "src:lbl_centroid":"wof"
 },
   "bbox": [
     10.12094,

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":6388,
     "iso:country":"DE",
-    "lbl:latitude":47.790706,
-    "lbl:longitude":12.421669,
+    "lbl:latitude":47.779414,
+    "lbl:longitude":12.451816,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.790706,
@@ -324,7 +324,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":82,
@@ -375,7 +375,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366985,
+    "wof:lastmodified":1716413482,
     "wof:name":"Grassau",
     "wof:parent_id":1377694497,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1138,
     "iso:country":"DE",
-    "lbl:latitude":49.427479,
-    "lbl:longitude":11.535438,
+    "lbl:latitude":49.426366,
+    "lbl:longitude":11.546352,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.427479,
@@ -320,7 +320,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":329,
@@ -368,7 +368,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367036,
+    "wof:lastmodified":1716413479,
     "wof:name":"Alfeld",
     "wof:parent_id":1377689627,
     "wof:placetype":"locality",

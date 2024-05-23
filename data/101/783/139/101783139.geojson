@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2077,
     "iso:country":"DE",
-    "lbl:latitude":48.865564,
-    "lbl:longitude":10.574297,
+    "lbl:latitude":48.86231,
+    "lbl:longitude":10.570741,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.865564,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -231,7 +231,7 @@
         }
     ],
     "wof:id":101783139,
-    "wof:lastmodified":1695367073,
+    "wof:lastmodified":1716413481,
     "wof:name":"Deiningen",
     "wof:parent_id":1377693411,
     "wof:placetype":"locality",

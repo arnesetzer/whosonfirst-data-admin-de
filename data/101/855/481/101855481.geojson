@@ -40,8 +40,8 @@
     "gn:population":1350,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.137132,
-    "lbl:longitude":12.445035,
+    "lbl:latitude":48.148825,
+    "lbl:longitude":12.456441,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.137132,
@@ -142,7 +142,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":32,
@@ -185,7 +185,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366976,
+    "wof:lastmodified":1716413487,
     "wof:name":"Taufkirchen",
     "wof:parent_id":1377692645,
     "wof:placetype":"locality",

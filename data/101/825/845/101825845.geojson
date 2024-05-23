@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3981,
     "iso:country":"DE",
-    "lbl:latitude":49.990892,
-    "lbl:longitude":10.825526,
+    "lbl:latitude":49.98529,
+    "lbl:longitude":10.850704,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.990892,
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":1065,
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":101825845,
-    "wof:lastmodified":1695367017,
+    "wof:lastmodified":1716413477,
     "wof:name":"Baunach",
     "wof:parent_id":1377687257,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":18188,
     "iso:country":"DE",
-    "lbl:latitude":47.755137,
-    "lbl:longitude":10.620513,
+    "lbl:latitude":47.777508,
+    "lbl:longitude":10.615683,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":47.755137,
@@ -212,7 +212,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":183,
@@ -255,7 +255,7 @@
         }
     ],
     "wof:id":101787653,
-    "wof:lastmodified":1695367068,
+    "wof:lastmodified":1716413479,
     "wof:name":"Marktoberdorf",
     "wof:parent_id":1377692961,
     "wof:placetype":"locality",

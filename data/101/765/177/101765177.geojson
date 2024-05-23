@@ -40,8 +40,8 @@
     "gn:population":3984,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":47.704452,
-    "lbl:longitude":10.193837,
+    "lbl:latitude":47.696074,
+    "lbl:longitude":10.24002,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":47.704452,
@@ -347,7 +347,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":40,
@@ -394,7 +394,7 @@
         }
     ],
     "wof:id":101765177,
-    "wof:lastmodified":1695367075,
+    "wof:lastmodified":1716413480,
     "wof:name":"Buchenberg",
     "wof:parent_id":1377693493,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2403,
     "iso:country":"DE",
-    "lbl:latitude":49.102611,
-    "lbl:longitude":13.039613,
+    "lbl:latitude":49.107415,
+    "lbl:longitude":13.01067,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.102611,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":91,
@@ -242,7 +242,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366998,
+    "wof:lastmodified":1716413481,
     "wof:name":"Drachselsried",
     "wof:parent_id":1377684921,
     "wof:placetype":"locality",

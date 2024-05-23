@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4325,
     "iso:country":"DE",
-    "lbl:latitude":48.597934,
-    "lbl:longitude":13.061443,
+    "lbl:latitude":48.588816,
+    "lbl:longitude":13.085269,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.597934,
@@ -206,7 +206,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":42,
@@ -257,7 +257,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366996,
+    "wof:lastmodified":1716413479,
     "wof:name":"Aldersbach",
     "wof:parent_id":1377684617,
     "wof:placetype":"locality",

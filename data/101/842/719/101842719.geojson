@@ -40,8 +40,8 @@
     "gn:population":1110,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":49.296344,
-    "lbl:longitude":10.208775,
+    "lbl:latitude":49.309194,
+    "lbl:longitude":10.187618,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.296344,
@@ -341,7 +341,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -385,7 +385,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367030,
+    "wof:lastmodified":1716413481,
     "wof:name":"Diebach",
     "wof:parent_id":1377689023,
     "wof:placetype":"locality",

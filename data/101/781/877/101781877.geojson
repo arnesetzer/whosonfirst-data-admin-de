@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1534,
     "iso:country":"DE",
-    "lbl:latitude":48.992622,
-    "lbl:longitude":12.628967,
+    "lbl:latitude":48.998137,
+    "lbl:longitude":12.638346,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.992622,
@@ -323,7 +323,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -367,7 +367,7 @@
         }
     ],
     "wof:id":101781877,
-    "wof:lastmodified":1695367000,
+    "wof:lastmodified":1716413480,
     "wof:name":"Ascha",
     "wof:parent_id":1377685433,
     "wof:placetype":"locality",

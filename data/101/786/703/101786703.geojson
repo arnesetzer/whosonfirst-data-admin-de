@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3795,
     "iso:country":"DE",
-    "lbl:latitude":48.133833,
-    "lbl:longitude":10.75926,
+    "lbl:latitude":48.142163,
+    "lbl:longitude":10.759769,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.133833,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -239,7 +239,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367060,
+    "wof:lastmodified":1716413484,
     "wof:name":"Langerringen",
     "wof:parent_id":1377692417,
     "wof:placetype":"locality",

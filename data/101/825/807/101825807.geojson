@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":7075,
     "iso:country":"DE",
-    "lbl:latitude":50.019093,
-    "lbl:longitude":12.293029,
+    "lbl:latitude":50.003891,
+    "lbl:longitude":12.308101,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":50.019093,
@@ -341,7 +341,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":427,
@@ -388,7 +388,7 @@
         }
     ],
     "wof:id":101825807,
-    "wof:lastmodified":1695367015,
+    "wof:lastmodified":1716413479,
     "wof:name":"Waldsassen",
     "wof:parent_id":1377686981,
     "wof:placetype":"locality",

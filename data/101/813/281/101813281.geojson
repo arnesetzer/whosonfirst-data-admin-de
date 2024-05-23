@@ -23,8 +23,8 @@
     "geom:longitude":10.025768,
     "gn:population":2385,
     "iso:country":"DE",
-    "lbl:latitude":49.921439,
-    "lbl:longitude":10.022905,
+    "lbl:latitude":49.927504,
+    "lbl:longitude":10.028056,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.921439,
@@ -172,7 +172,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":50,
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":101813281,
-    "wof:lastmodified":1695367057,
+    "wof:lastmodified":1716413482,
     "wof:name":"Hausen b. W\u00fcrzburg",
     "wof:parent_id":1377691905,
     "wof:placetype":"locality",

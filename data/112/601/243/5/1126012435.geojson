@@ -25,8 +25,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":707,
     "iso:country":"DE",
-    "lbl:latitude":50.503387,
-    "lbl:longitude":10.243942,
+    "lbl:latitude":50.500814,
+    "lbl:longitude":10.242734,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":50.503387,
@@ -160,7 +160,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":1126012435,
-    "wof:lastmodified":1695367047,
+    "wof:lastmodified":1716413489,
     "wof:name":"Willmars",
     "wof:parent_id":1377690873,
     "wof:placetype":"locality",

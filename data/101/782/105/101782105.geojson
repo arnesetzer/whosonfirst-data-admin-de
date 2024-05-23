@@ -40,8 +40,8 @@
     "gn:population":2148,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":49.103067,
-    "lbl:longitude":10.4547,
+    "lbl:latitude":49.100996,
+    "lbl:longitude":10.453542,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.103067,
@@ -338,7 +338,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -388,7 +388,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367033,
+    "wof:lastmodified":1716413484,
     "wof:name":"Langfurth",
     "wof:parent_id":1377688891,
     "wof:placetype":"locality",

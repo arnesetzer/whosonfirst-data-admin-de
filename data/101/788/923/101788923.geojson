@@ -40,8 +40,8 @@
     "gn:population":1216,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":47.644414,
-    "lbl:longitude":11.307173,
+    "lbl:latitude":47.657438,
+    "lbl:longitude":11.315301,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.644414,
@@ -206,7 +206,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":38,
@@ -253,7 +253,7 @@
         }
     ],
     "wof:id":101788923,
-    "wof:lastmodified":1695366965,
+    "wof:lastmodified":1716413487,
     "wof:name":"Schlehdorf",
     "wof:parent_id":1377691117,
     "wof:placetype":"locality",

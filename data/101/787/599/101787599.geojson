@@ -40,8 +40,8 @@
     "gn:population":2765,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":47.709026,
-    "lbl:longitude":10.866486,
+    "lbl:latitude":47.702163,
+    "lbl:longitude":10.859448,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":47.709026,
@@ -228,7 +228,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":316,
@@ -273,7 +273,7 @@
         }
     ],
     "wof:id":101787599,
-    "wof:lastmodified":1695366987,
+    "wof:lastmodified":1716413487,
     "wof:name":"Steingaden",
     "wof:parent_id":1377683763,
     "wof:placetype":"locality",

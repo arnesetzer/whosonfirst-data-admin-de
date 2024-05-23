@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1959,
     "iso:country":"DE",
-    "lbl:latitude":48.759362,
-    "lbl:longitude":12.81579,
+    "lbl:latitude":48.76061,
+    "lbl:longitude":12.808553,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.759362,
@@ -335,7 +335,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -383,7 +383,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366990,
+    "wof:lastmodified":1716413485,
     "wof:name":"Otzing",
     "wof:parent_id":1377683943,
     "wof:placetype":"locality",

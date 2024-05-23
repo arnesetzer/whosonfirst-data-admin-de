@@ -25,8 +25,8 @@
     "gn:fcode":"PPL",
     "gn:population":1182,
     "iso:country":"DE",
-    "lbl:latitude":49.571001,
-    "lbl:longitude":10.342506,
+    "lbl:latitude":49.558127,
+    "lbl:longitude":10.298769,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.571001,
@@ -330,7 +330,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":30,
@@ -378,7 +378,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367038,
+    "wof:lastmodified":1716413484,
     "wof:name":"Markt Nordheim",
     "wof:parent_id":1377689863,
     "wof:placetype":"locality",

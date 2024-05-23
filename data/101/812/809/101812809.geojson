@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2305,
     "iso:country":"DE",
-    "lbl:latitude":50.300872,
-    "lbl:longitude":10.211399,
+    "lbl:latitude":50.310758,
+    "lbl:longitude":10.211386,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":50.300872,
@@ -173,7 +173,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":69,
@@ -216,7 +216,7 @@
         }
     ],
     "wof:id":101812809,
-    "wof:lastmodified":1695367047,
+    "wof:lastmodified":1716413486,
     "wof:name":"Salz",
     "wof:parent_id":1377690853,
     "wof:placetype":"locality",

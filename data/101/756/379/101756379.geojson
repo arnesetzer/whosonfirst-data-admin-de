@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3609,
     "iso:country":"DE",
-    "lbl:latitude":49.922968,
-    "lbl:longitude":10.752328,
+    "lbl:latitude":49.922693,
+    "lbl:longitude":10.776891,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.922968,
@@ -188,7 +188,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":712,
@@ -235,7 +235,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367018,
+    "wof:lastmodified":1716413488,
     "wof:name":"Viereth-Trunstadt",
     "wof:parent_id":1377687221,
     "wof:placetype":"locality",

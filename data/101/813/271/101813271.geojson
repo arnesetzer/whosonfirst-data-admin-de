@@ -46,8 +46,8 @@
     "geom:longitude":10.000997,
     "gn:population":2335,
     "iso:country":"DE",
-    "lbl:latitude":49.626679,
-    "lbl:longitude":9.995209,
+    "lbl:latitude":49.633266,
+    "lbl:longitude":9.999865,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.626679,
@@ -189,7 +189,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -236,7 +236,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367058,
+    "wof:lastmodified":1716413482,
     "wof:name":"Gauk\u00f6nigshofen",
     "wof:parent_id":1377691881,
     "wof:placetype":"locality",

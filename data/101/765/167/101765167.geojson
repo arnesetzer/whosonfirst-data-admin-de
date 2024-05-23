@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":9919,
     "iso:country":"DE",
-    "lbl:latitude":47.79662,
-    "lbl:longitude":10.169625,
+    "lbl:latitude":47.805394,
+    "lbl:longitude":10.213415,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.79662,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":36,
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":101765167,
-    "wof:lastmodified":1695367075,
+    "wof:lastmodified":1716413480,
     "wof:name":"Altusried",
     "wof:parent_id":1377693465,
     "wof:placetype":"locality",

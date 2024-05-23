@@ -23,8 +23,8 @@
     "geom:longitude":10.321367,
     "gn:population":1320,
     "iso:country":"DE",
-    "lbl:latitude":48.537631,
-    "lbl:longitude":10.32303,
+    "lbl:latitude":48.548478,
+    "lbl:longitude":10.309928,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.537631,
@@ -311,7 +311,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -350,7 +350,7 @@
         }
     ],
     "wof:id":101842089,
-    "wof:lastmodified":1695367064,
+    "wof:lastmodified":1716413480,
     "wof:name":"B\u00e4chingen a.d. Brenz",
     "wof:parent_id":1377692475,
     "wof:placetype":"locality",

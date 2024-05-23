@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":5300,
     "iso:country":"DE",
-    "lbl:latitude":48.45251,
-    "lbl:longitude":10.963692,
+    "lbl:latitude":48.458767,
+    "lbl:longitude":10.980425,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.45251,
@@ -204,7 +204,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":133,
@@ -255,7 +255,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367060,
+    "wof:lastmodified":1716413479,
     "wof:name":"Affing",
     "wof:parent_id":1377692239,
     "wof:placetype":"locality",

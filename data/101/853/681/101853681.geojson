@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2788,
     "iso:country":"DE",
-    "lbl:latitude":47.605022,
-    "lbl:longitude":9.807321,
+    "lbl:latitude":47.587967,
+    "lbl:longitude":9.746713,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":47.605022,
@@ -187,7 +187,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -231,7 +231,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367067,
+    "wof:lastmodified":1716413487,
     "wof:name":"Sigmarszell",
     "wof:parent_id":1377692903,
     "wof:placetype":"locality",

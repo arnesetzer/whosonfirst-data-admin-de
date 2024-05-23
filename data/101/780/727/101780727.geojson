@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1318,
     "iso:country":"DE",
-    "lbl:latitude":49.351371,
-    "lbl:longitude":10.691619,
+    "lbl:latitude":49.359603,
+    "lbl:longitude":10.698326,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.351371,
@@ -314,7 +314,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":49,
@@ -357,7 +357,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367030,
+    "wof:lastmodified":1716413480,
     "wof:name":"Bruckberg",
     "wof:parent_id":1377689033,
     "wof:placetype":"locality",

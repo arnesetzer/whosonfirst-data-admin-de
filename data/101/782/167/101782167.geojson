@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3293,
     "iso:country":"DE",
-    "lbl:latitude":49.104272,
-    "lbl:longitude":12.483545,
+    "lbl:latitude":49.098695,
+    "lbl:longitude":12.485906,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.104272,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -235,7 +235,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367006,
+    "wof:lastmodified":1716413481,
     "wof:name":"Falkenstein",
     "wof:parent_id":1377686003,
     "wof:placetype":"locality",

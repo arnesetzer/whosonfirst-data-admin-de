@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3849,
     "iso:country":"DE",
-    "lbl:latitude":50.088965,
-    "lbl:longitude":9.237128,
+    "lbl:latitude":50.084888,
+    "lbl:longitude":9.246516,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":50.088965,
@@ -317,7 +317,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":1226,
@@ -357,7 +357,7 @@
         }
     ],
     "wof:id":101811803,
-    "wof:lastmodified":1695367043,
+    "wof:lastmodified":1716413487,
     "wof:name":"Sch\u00f6llkrippen",
     "wof:parent_id":1377693159,
     "wof:placetype":"locality",

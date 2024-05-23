@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":12531,
     "iso:country":"DE",
-    "lbl:latitude":48.244069,
-    "lbl:longitude":10.378421,
+    "lbl:latitude":48.241942,
+    "lbl:longitude":10.359069,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":48.244069,
@@ -200,7 +200,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -239,7 +239,7 @@
         }
     ],
     "wof:id":101785447,
-    "wof:lastmodified":1695367064,
+    "wof:lastmodified":1716413478,
     "wof:name":"Krumbach (Schwaben)",
     "wof:parent_id":1377692565,
     "wof:placetype":"locality",

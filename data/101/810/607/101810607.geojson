@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":20845,
     "iso:country":"DE",
-    "lbl:latitude":49.73451,
-    "lbl:longitude":10.172923,
+    "lbl:latitude":49.738968,
+    "lbl:longitude":10.16129,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mps:latitude":49.73451,
@@ -230,7 +230,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":101810607,
-    "wof:lastmodified":1695367050,
+    "wof:lastmodified":1716413478,
     "wof:name":"Kitzingen",
     "wof:parent_id":1377691143,
     "wof:placetype":"locality",

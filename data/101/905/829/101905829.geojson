@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":788,
     "iso:country":"DE",
-    "lbl:latitude":48.875334,
-    "lbl:longitude":10.799905,
+    "lbl:latitude":48.872745,
+    "lbl:longitude":10.798028,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":48.875334,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":72,
@@ -231,7 +231,7 @@
         }
     ],
     "wof:id":101905829,
-    "wof:lastmodified":1695367073,
+    "wof:lastmodified":1716413485,
     "wof:name":"Otting",
     "wof:parent_id":1377693419,
     "wof:placetype":"locality",

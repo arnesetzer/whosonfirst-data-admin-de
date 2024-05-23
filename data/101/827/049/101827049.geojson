@@ -40,8 +40,8 @@
     "gn:population":1819,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":49.62122,
-    "lbl:longitude":12.179891,
+    "lbl:latitude":49.634616,
+    "lbl:longitude":12.164072,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.62122,
@@ -212,7 +212,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -260,7 +260,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367008,
+    "wof:lastmodified":1716413485,
     "wof:name":"Pirk",
     "wof:parent_id":1377686333,
     "wof:placetype":"locality",

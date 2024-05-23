@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1581,
     "iso:country":"DE",
-    "lbl:latitude":49.442205,
-    "lbl:longitude":10.366806,
+    "lbl:latitude":49.441654,
+    "lbl:longitude":10.36421,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.442205,
@@ -186,7 +186,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":29,
@@ -234,7 +234,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367038,
+    "wof:lastmodified":1716413484,
     "wof:name":"Marktbergel",
     "wof:parent_id":1377689959,
     "wof:placetype":"locality",

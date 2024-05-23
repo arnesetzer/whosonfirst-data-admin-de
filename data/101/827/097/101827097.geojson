@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1102,
     "iso:country":"DE",
-    "lbl:latitude":49.625299,
-    "lbl:longitude":11.270445,
+    "lbl:latitude":49.630268,
+    "lbl:longitude":11.254383,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.625299,
@@ -333,7 +333,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -381,7 +381,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367023,
+    "wof:lastmodified":1716413488,
     "wof:name":"Wei\u00dfenohe",
     "wof:parent_id":1377688039,
     "wof:placetype":"locality",

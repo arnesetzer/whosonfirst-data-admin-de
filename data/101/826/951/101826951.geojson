@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3037,
     "iso:country":"DE",
-    "lbl:latitude":49.572923,
-    "lbl:longitude":10.821781,
+    "lbl:latitude":49.575537,
+    "lbl:longitude":10.823241,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.572923,
@@ -188,7 +188,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -228,7 +228,7 @@
         }
     ],
     "wof:id":101826951,
-    "wof:lastmodified":1695367033,
+    "wof:lastmodified":1716413480,
     "wof:name":"Aurachtal",
     "wof:parent_id":1377689221,
     "wof:placetype":"locality",

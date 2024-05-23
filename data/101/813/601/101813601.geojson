@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1357,
     "iso:country":"DE",
-    "lbl:latitude":49.904558,
-    "lbl:longitude":9.677977,
+    "lbl:latitude":49.903343,
+    "lbl:longitude":9.674634,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.904558,
@@ -326,7 +326,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":445,
@@ -366,7 +366,7 @@
         }
     ],
     "wof:id":101813601,
-    "wof:lastmodified":1695367053,
+    "wof:lastmodified":1716413488,
     "wof:name":"Urspringen",
     "wof:parent_id":1377691571,
     "wof:placetype":"locality",

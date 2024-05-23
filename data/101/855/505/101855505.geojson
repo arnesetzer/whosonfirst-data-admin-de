@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2200,
     "iso:country":"DE",
-    "lbl:latitude":48.299369,
-    "lbl:longitude":12.867943,
+    "lbl:latitude":48.279154,
+    "lbl:longitude":12.869465,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.299369,
@@ -187,7 +187,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":452,
@@ -234,7 +234,7 @@
         }
     ],
     "wof:id":101855505,
-    "wof:lastmodified":1695366999,
+    "wof:lastmodified":1716413489,
     "wof:name":"Zeilarn",
     "wof:parent_id":1377685229,
     "wof:placetype":"locality",

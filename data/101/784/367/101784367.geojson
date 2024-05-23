@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":6703,
     "iso:country":"DE",
-    "lbl:latitude":48.635852,
-    "lbl:longitude":13.364676,
+    "lbl:latitude":48.624819,
+    "lbl:longitude":13.39873,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.635852,
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":273,
@@ -247,7 +247,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366996,
+    "wof:lastmodified":1716413488,
     "wof:name":"Tiefenbach",
     "wof:parent_id":1377684821,
     "wof:placetype":"locality",

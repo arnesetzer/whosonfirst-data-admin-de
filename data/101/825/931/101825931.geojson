@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":7901,
     "iso:country":"DE",
-    "lbl:latitude":50.071678,
-    "lbl:longitude":10.35016,
+    "lbl:latitude":50.051362,
+    "lbl:longitude":10.30579,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":50.071678,
@@ -188,7 +188,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":46,
@@ -239,7 +239,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367055,
+    "wof:lastmodified":1716413487,
     "wof:name":"Schonungen",
     "wof:parent_id":1377691715,
     "wof:placetype":"locality",

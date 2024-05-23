@@ -26,8 +26,8 @@
     "gn:fcode":"ADM4",
     "gn:population":6608,
     "iso:country":"DE",
-    "lbl:latitude":47.93749,
-    "lbl:longitude":12.896457,
+    "lbl:latitude":47.939819,
+    "lbl:longitude":12.934832,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.93749,
@@ -207,7 +207,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":381,
@@ -254,7 +254,7 @@
         }
     ],
     "wof:id":101833967,
-    "wof:lastmodified":1695366963,
+    "wof:lastmodified":1716413478,
     "wof:name":"Laufen",
     "wof:parent_id":1377690911,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1989,
     "iso:country":"DE",
-    "lbl:latitude":49.943762,
-    "lbl:longitude":10.339743,
+    "lbl:latitude":49.947817,
+    "lbl:longitude":10.336122,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.943762,
@@ -326,7 +326,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":13,
@@ -373,7 +373,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367056,
+    "wof:lastmodified":1716413487,
     "wof:name":"Sulzheim",
     "wof:parent_id":1377691793,
     "wof:placetype":"locality",

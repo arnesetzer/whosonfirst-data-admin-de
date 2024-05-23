@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1122,
     "iso:country":"DE",
-    "lbl:latitude":48.229123,
-    "lbl:longitude":10.58731,
+    "lbl:latitude":48.224792,
+    "lbl:longitude":10.589047,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.229123,
@@ -189,7 +189,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":122,
@@ -238,7 +238,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367061,
+    "wof:lastmodified":1716413488,
     "wof:name":"Walkertshofen",
     "wof:parent_id":1377693527,
     "wof:placetype":"locality",

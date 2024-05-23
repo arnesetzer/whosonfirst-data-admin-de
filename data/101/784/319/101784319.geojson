@@ -22,8 +22,8 @@
     "geom:latitude":48.442567,
     "geom:longitude":12.046175,
     "iso:country":"DE",
-    "lbl:latitude":48.440177,
-    "lbl:longitude":12.040339,
+    "lbl:latitude":48.447501,
+    "lbl:longitude":12.034262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":48.440177,
@@ -192,7 +192,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":101784319,
-    "wof:lastmodified":1695366994,
+    "wof:lastmodified":1716413480,
     "wof:name":"Buch a. Erlbach",
     "wof:parent_id":1377684417,
     "wof:placetype":"locality",

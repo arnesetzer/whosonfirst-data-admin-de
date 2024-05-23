@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1165,
     "iso:country":"DE",
-    "lbl:latitude":48.707072,
-    "lbl:longitude":10.874933,
+    "lbl:latitude":48.707687,
+    "lbl:longitude":10.8789,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.707072,
@@ -182,7 +182,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -222,7 +222,7 @@
         }
     ],
     "wof:id":101783129,
-    "wof:lastmodified":1695367073,
+    "wof:lastmodified":1716413482,
     "wof:name":"Genderkingen",
     "wof:parent_id":1377693437,
     "wof:placetype":"locality",

@@ -40,8 +40,8 @@
     "gn:population":18178,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.183798,
-    "lbl:longitude":12.836716,
+    "lbl:latitude":48.157935,
+    "lbl:longitude":12.83301,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":48.183798,
@@ -382,7 +382,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":61,
@@ -428,7 +428,7 @@
         }
     ],
     "wof:id":101786671,
-    "wof:lastmodified":1695366962,
+    "wof:lastmodified":1716413477,
     "wof:name":"Burghausen",
     "wof:parent_id":1377690717,
     "wof:placetype":"locality",

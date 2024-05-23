@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2058,
     "iso:country":"DE",
-    "lbl:latitude":48.25838,
-    "lbl:longitude":11.976645,
+    "lbl:latitude":48.259615,
+    "lbl:longitude":11.974118,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.25838,
@@ -180,7 +180,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -228,7 +228,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366969,
+    "wof:lastmodified":1716413488,
     "wof:name":"Walpertskirchen",
     "wof:parent_id":1377691771,
     "wof:placetype":"locality",

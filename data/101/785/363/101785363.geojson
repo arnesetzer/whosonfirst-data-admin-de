@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":6074,
     "iso:country":"DE",
-    "lbl:latitude":48.276466,
-    "lbl:longitude":12.363731,
+    "lbl:latitude":48.25612,
+    "lbl:longitude":12.414359,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.276466,
@@ -200,7 +200,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":188,
@@ -251,7 +251,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366976,
+    "wof:lastmodified":1716413480,
     "wof:name":"Ampfing",
     "wof:parent_id":1377692543,
     "wof:placetype":"locality",

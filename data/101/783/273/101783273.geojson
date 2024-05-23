@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":10135,
     "iso:country":"DE",
-    "lbl:latitude":48.906076,
-    "lbl:longitude":12.754955,
+    "lbl:latitude":48.905555,
+    "lbl:longitude":12.692026,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":48.906076,
@@ -212,7 +212,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":177,
@@ -258,7 +258,7 @@
         }
     ],
     "wof:id":101783273,
-    "wof:lastmodified":1695367000,
+    "wof:lastmodified":1716413477,
     "wof:name":"Bogen",
     "wof:parent_id":1377685283,
     "wof:placetype":"locality",

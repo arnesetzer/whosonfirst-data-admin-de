@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1218,
     "iso:country":"DE",
-    "lbl:latitude":49.975737,
-    "lbl:longitude":10.729357,
+    "lbl:latitude":49.970911,
+    "lbl:longitude":10.721917,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.975737,
@@ -182,7 +182,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":41,
@@ -222,7 +222,7 @@
         }
     ],
     "wof:id":101825947,
-    "wof:lastmodified":1695367049,
+    "wof:lastmodified":1716413487,
     "wof:name":"Stettfeld",
     "wof:parent_id":1377691049,
     "wof:placetype":"locality",

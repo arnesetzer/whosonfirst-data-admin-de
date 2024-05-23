@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4226,
     "iso:country":"DE",
-    "lbl:latitude":49.722746,
-    "lbl:longitude":9.286714,
+    "lbl:latitude":49.715503,
+    "lbl:longitude":9.266237,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.722746,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":1017,
@@ -235,7 +235,7 @@
         }
     ],
     "wof:id":101839925,
-    "wof:lastmodified":1695367051,
+    "wof:lastmodified":1716413481,
     "wof:name":"B\u00fcrgstadt",
     "wof:parent_id":1377691419,
     "wof:placetype":"locality",

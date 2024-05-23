@@ -40,8 +40,8 @@
     "gn:population":1294,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":47.953914,
-    "lbl:longitude":10.647571,
+    "lbl:latitude":47.943341,
+    "lbl:longitude":10.641306,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.953914,
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":51,
@@ -224,7 +224,7 @@
         }
     ],
     "wof:id":101787663,
-    "wof:lastmodified":1695367069,
+    "wof:lastmodified":1716413486,
     "wof:name":"Rieden",
     "wof:parent_id":1377693031,
     "wof:placetype":"locality",

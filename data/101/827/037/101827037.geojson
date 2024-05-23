@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1507,
     "iso:country":"DE",
-    "lbl:latitude":49.544768,
-    "lbl:longitude":12.32648,
+    "lbl:latitude":49.530087,
+    "lbl:longitude":12.325205,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.544768,
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -234,7 +234,7 @@
         }
     ],
     "wof:id":101827037,
-    "wof:lastmodified":1695367009,
+    "wof:lastmodified":1716413487,
     "wof:name":"T\u00e4nnesberg",
     "wof:parent_id":1377686341,
     "wof:placetype":"locality",

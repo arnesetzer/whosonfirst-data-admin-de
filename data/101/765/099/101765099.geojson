@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":7225,
     "iso:country":"DE",
-    "lbl:latitude":47.524544,
-    "lbl:longitude":10.070277,
+    "lbl:latitude":47.553699,
+    "lbl:longitude":10.020877,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.524544,
@@ -209,7 +209,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":104,
@@ -257,7 +257,7 @@
         }
     ],
     "wof:id":101765099,
-    "wof:lastmodified":1695367076,
+    "wof:lastmodified":1716413485,
     "wof:name":"Oberstaufen",
     "wof:parent_id":1377693571,
     "wof:placetype":"locality",

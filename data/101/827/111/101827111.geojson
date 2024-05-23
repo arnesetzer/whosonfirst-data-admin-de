@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4733,
     "iso:country":"DE",
-    "lbl:latitude":49.796859,
-    "lbl:longitude":10.33287,
+    "lbl:latitude":49.794433,
+    "lbl:longitude":10.34356,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.796859,
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":148,
@@ -247,7 +247,7 @@
         }
     ],
     "wof:id":101827111,
-    "wof:lastmodified":1695367050,
+    "wof:lastmodified":1716413489,
     "wof:name":"Wiesentheid",
     "wof:parent_id":1377691179,
     "wof:placetype":"locality",

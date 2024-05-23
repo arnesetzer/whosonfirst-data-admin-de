@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2746,
     "iso:country":"DE",
-    "lbl:latitude":50.43834,
-    "lbl:longitude":10.071759,
+    "lbl:latitude":50.44053,
+    "lbl:longitude":10.118965,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":50.43834,
@@ -332,7 +332,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -379,7 +379,7 @@
         }
     ],
     "wof:id":101812287,
-    "wof:lastmodified":1695367047,
+    "wof:lastmodified":1716413485,
     "wof:name":"Oberelsbach",
     "wof:parent_id":1377690811,
     "wof:placetype":"locality",

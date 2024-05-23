@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3586,
     "iso:country":"DE",
-    "lbl:latitude":50.319811,
-    "lbl:longitude":10.157107,
+    "lbl:latitude":50.315238,
+    "lbl:longitude":10.175247,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":50.319811,
@@ -176,7 +176,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -216,7 +216,7 @@
         }
     ],
     "wof:id":101812811,
-    "wof:lastmodified":1695367046,
+    "wof:lastmodified":1716413483,
     "wof:name":"Hohenroth",
     "wof:parent_id":1377690853,
     "wof:placetype":"locality",

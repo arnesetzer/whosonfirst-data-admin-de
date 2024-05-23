@@ -25,8 +25,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":1999,
     "iso:country":"DE",
-    "lbl:latitude":49.287741,
-    "lbl:longitude":12.669876,
+    "lbl:latitude":49.258773,
+    "lbl:longitude":12.663409,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.287741,
@@ -188,7 +188,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -239,7 +239,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367006,
+    "wof:lastmodified":1716413488,
     "wof:name":"Waffenbrunn",
     "wof:parent_id":1377685915,
     "wof:placetype":"locality",

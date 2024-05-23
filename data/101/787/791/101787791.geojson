@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4516,
     "iso:country":"DE",
-    "lbl:latitude":47.923218,
-    "lbl:longitude":12.523746,
+    "lbl:latitude":47.890743,
+    "lbl:longitude":12.536713,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":47.923218,
@@ -197,7 +197,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":83,
@@ -248,7 +248,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366984,
+    "wof:lastmodified":1716413481,
     "wof:name":"Chieming",
     "wof:parent_id":1377694461,
     "wof:placetype":"locality",

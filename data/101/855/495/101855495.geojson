@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2696,
     "iso:country":"DE",
-    "lbl:latitude":48.276806,
-    "lbl:longitude":10.223787,
+    "lbl:latitude":48.27428,
+    "lbl:longitude":10.228427,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.276806,
@@ -181,7 +181,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":44,
@@ -231,7 +231,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367066,
+    "wof:lastmodified":1716413486,
     "wof:name":"Roggenburg",
     "wof:parent_id":1377692707,
     "wof:placetype":"locality",

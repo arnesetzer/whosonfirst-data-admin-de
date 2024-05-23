@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2343,
     "iso:country":"DE",
-    "lbl:latitude":49.710334,
-    "lbl:longitude":10.214644,
+    "lbl:latitude":49.711068,
+    "lbl:longitude":10.217558,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.710334,
@@ -338,7 +338,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":259,
@@ -385,7 +385,7 @@
         }
     ],
     "wof:id":101813197,
-    "wof:lastmodified":1695367050,
+    "wof:lastmodified":1716413478,
     "wof:name":"Mainbernheim",
     "wof:parent_id":1377691151,
     "wof:placetype":"locality",

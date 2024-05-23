@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":980,
     "iso:country":"DE",
-    "lbl:latitude":48.675092,
-    "lbl:longitude":10.541863,
+    "lbl:latitude":48.645458,
+    "lbl:longitude":10.542974,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":48.675092,
@@ -183,7 +183,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":39,
@@ -231,7 +231,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367063,
+    "wof:lastmodified":1716413484,
     "wof:name":"Lutzingen",
     "wof:parent_id":1377692501,
     "wof:placetype":"locality",

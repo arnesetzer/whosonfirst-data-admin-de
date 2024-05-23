@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":23931,
     "iso:country":"DE",
-    "lbl:latitude":48.20475,
-    "lbl:longitude":12.405746,
+    "lbl:latitude":48.206503,
+    "lbl:longitude":12.401341,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mps:latitude":48.20475,
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":213,
@@ -250,7 +250,7 @@
         }
     ],
     "wof:id":101780677,
-    "wof:lastmodified":1695366976,
+    "wof:lastmodified":1716413478,
     "wof:name":"Waldkraiburg",
     "wof:parent_id":1377692601,
     "wof:placetype":"locality",

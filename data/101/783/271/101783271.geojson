@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":6764,
     "iso:country":"DE",
-    "lbl:latitude":48.816159,
-    "lbl:longitude":12.404997,
+    "lbl:latitude":48.825934,
+    "lbl:longitude":12.392496,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.816159,
@@ -179,7 +179,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":41,
@@ -222,7 +222,7 @@
         }
     ],
     "wof:id":101783271,
-    "wof:lastmodified":1695367000,
+    "wof:lastmodified":1716413478,
     "wof:name":"Geiselh\u00f6ring",
     "wof:parent_id":1377685299,
     "wof:placetype":"locality",

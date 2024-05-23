@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1675,
     "iso:country":"DE",
-    "lbl:latitude":49.409816,
-    "lbl:longitude":10.427306,
+    "lbl:latitude":49.413567,
+    "lbl:longitude":10.424696,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.409816,
@@ -337,7 +337,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -388,7 +388,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367031,
+    "wof:lastmodified":1716413485,
     "wof:name":"Oberdachstetten",
     "wof:parent_id":1377688945,
     "wof:placetype":"locality",

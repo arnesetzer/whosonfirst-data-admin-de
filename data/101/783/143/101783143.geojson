@@ -40,8 +40,8 @@
     "gn:population":1127,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.797098,
-    "lbl:longitude":10.465051,
+    "lbl:latitude":48.809235,
+    "lbl:longitude":10.464366,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.797098,
@@ -206,7 +206,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -249,7 +249,7 @@
         }
     ],
     "wof:id":101783143,
-    "wof:lastmodified":1695367073,
+    "wof:lastmodified":1716413481,
     "wof:name":"Ederheim",
     "wof:parent_id":1377693411,
     "wof:placetype":"locality",

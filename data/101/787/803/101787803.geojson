@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":7966,
     "iso:country":"DE",
-    "lbl:latitude":47.934103,
-    "lbl:longitude":10.315867,
+    "lbl:latitude":47.941742,
+    "lbl:longitude":10.300339,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.934103,
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":68,
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":101787803,
-    "wof:lastmodified":1695367071,
+    "wof:lastmodified":1716413485,
     "wof:name":"Ottobeuren",
     "wof:parent_id":1377693185,
     "wof:placetype":"locality",

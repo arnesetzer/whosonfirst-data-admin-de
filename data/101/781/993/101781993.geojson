@@ -23,8 +23,8 @@
     "geom:longitude":12.29431,
     "gn:population":1833,
     "iso:country":"DE",
-    "lbl:latitude":49.026183,
-    "lbl:longitude":12.306204,
+    "lbl:latitude":49.020939,
+    "lbl:longitude":12.30442,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.026183,
@@ -188,7 +188,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -231,7 +231,7 @@
         }
     ],
     "wof:id":101781993,
-    "wof:lastmodified":1695367010,
+    "wof:lastmodified":1716413480,
     "wof:name":"Bach a.d. Donau",
     "wof:parent_id":1377686643,
     "wof:placetype":"locality",

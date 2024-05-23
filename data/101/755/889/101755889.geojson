@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":20564,
     "iso:country":"DE",
-    "lbl:latitude":48.427795,
-    "lbl:longitude":10.817452,
+    "lbl:latitude":48.424589,
+    "lbl:longitude":10.877947,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mps:latitude":48.427795,
@@ -212,7 +212,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":66,
@@ -259,7 +259,7 @@
         }
     ],
     "wof:id":101755889,
-    "wof:lastmodified":1695367062,
+    "wof:lastmodified":1716413478,
     "wof:name":"Gersthofen",
     "wof:parent_id":1377693389,
     "wof:placetype":"locality",

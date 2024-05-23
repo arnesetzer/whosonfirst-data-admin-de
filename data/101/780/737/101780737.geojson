@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3470,
     "iso:country":"DE",
-    "lbl:latitude":49.344641,
-    "lbl:longitude":12.524409,
+    "lbl:latitude":49.34262,
+    "lbl:longitude":12.529141,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.344641,
@@ -198,7 +198,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":39,
@@ -245,7 +245,7 @@
         }
     ],
     "wof:id":101780737,
-    "wof:lastmodified":1695367005,
+    "wof:lastmodified":1716413479,
     "wof:name":"R\u00f6tz",
     "wof:parent_id":1377693025,
     "wof:placetype":"locality",

@@ -23,8 +23,8 @@
     "geom:longitude":12.50575,
     "gn:population":4171,
     "iso:country":"DE",
-    "lbl:latitude":48.007038,
-    "lbl:longitude":12.509264,
+    "lbl:latitude":48.00246,
+    "lbl:longitude":12.5359,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.007038,
@@ -178,7 +178,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":28,
@@ -221,7 +221,7 @@
         }
     ],
     "wof:id":101786493,
-    "wof:lastmodified":1695366984,
+    "wof:lastmodified":1716413480,
     "wof:name":"Altenmarkt a.d. Alz",
     "wof:parent_id":1377694453,
     "wof:placetype":"locality",

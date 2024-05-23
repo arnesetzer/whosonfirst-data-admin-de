@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1015,
     "iso:country":"DE",
-    "lbl:latitude":50.200162,
-    "lbl:longitude":11.455092,
+    "lbl:latitude":50.200658,
+    "lbl:longitude":11.465088,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":50.200162,
@@ -190,7 +190,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":33,
@@ -238,7 +238,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367027,
+    "wof:lastmodified":1716413486,
     "wof:name":"Rugendorf",
     "wof:parent_id":1377688505,
     "wof:placetype":"locality",

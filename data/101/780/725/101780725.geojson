@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2820,
     "iso:country":"DE",
-    "lbl:latitude":49.357065,
-    "lbl:longitude":10.625712,
+    "lbl:latitude":49.350099,
+    "lbl:longitude":10.619874,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.357065,
@@ -326,7 +326,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -370,7 +370,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367032,
+    "wof:lastmodified":1716413488,
     "wof:name":"Weihenzell",
     "wof:parent_id":1377689033,
     "wof:placetype":"locality",

@@ -38,8 +38,8 @@
     "gn:population":0,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":49.270389,
-    "lbl:longitude":12.171399,
+    "lbl:latitude":49.276812,
+    "lbl:longitude":12.181221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":49.270389,
@@ -325,7 +325,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -367,7 +367,7 @@
         }
     ],
     "wof:id":101782205,
-    "wof:lastmodified":1695367013,
+    "wof:lastmodified":1716413487,
     "wof:name":"Steinberg am See",
     "wof:parent_id":1377686857,
     "wof:placetype":"locality",

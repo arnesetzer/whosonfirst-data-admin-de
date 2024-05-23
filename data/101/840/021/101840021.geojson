@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2152,
     "iso:country":"DE",
-    "lbl:latitude":49.890299,
-    "lbl:longitude":9.303295,
+    "lbl:latitude":49.892748,
+    "lbl:longitude":9.29915,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.890299,
@@ -197,7 +197,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":769,
@@ -245,7 +245,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367042,
+    "wof:lastmodified":1716413482,
     "wof:name":"Heimbuchenthal",
     "wof:parent_id":1377690497,
     "wof:placetype":"locality",

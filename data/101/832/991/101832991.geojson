@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":26542,
     "iso:country":"DE",
-    "lbl:latitude":48.279614,
-    "lbl:longitude":11.572815,
+    "lbl:latitude":48.272906,
+    "lbl:longitude":11.570752,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mps:latitude":48.279614,
@@ -359,7 +359,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:latitude":48.283333,
@@ -408,7 +408,7 @@
         }
     ],
     "wof:id":101832991,
-    "wof:lastmodified":1695366978,
+    "wof:lastmodified":1716413488,
     "wof:name":"Unterschlei\u00dfheim",
     "wof:parent_id":1377693659,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":5022,
     "iso:country":"DE",
-    "lbl:latitude":49.467316,
-    "lbl:longitude":12.449577,
+    "lbl:latitude":49.460646,
+    "lbl:longitude":12.418049,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":49.467316,
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":86,
@@ -254,7 +254,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367013,
+    "wof:lastmodified":1716413478,
     "wof:name":"Oberviechtach",
     "wof:parent_id":1377686761,
     "wof:placetype":"locality",

@@ -23,8 +23,8 @@
     "geom:longitude":10.011495,
     "gn:population":862,
     "iso:country":"DE",
-    "lbl:latitude":50.169425,
-    "lbl:longitude":10.013905,
+    "lbl:latitude":50.162426,
+    "lbl:longitude":10.005779,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":50.169425,
@@ -181,7 +181,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":265,
@@ -221,7 +221,7 @@
         }
     ],
     "wof:id":101907257,
-    "wof:lastmodified":1695367044,
+    "wof:lastmodified":1716413480,
     "wof:name":"Aura a.d. Saale",
     "wof:parent_id":1377690639,
     "wof:placetype":"locality",

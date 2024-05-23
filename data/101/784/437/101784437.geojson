@@ -40,8 +40,8 @@
     "gn:population":7543,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.574398,
-    "lbl:longitude":12.641915,
+    "lbl:latitude":48.573516,
+    "lbl:longitude":12.62965,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.574398,
@@ -200,7 +200,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -246,7 +246,7 @@
         }
     ],
     "wof:id":101784437,
-    "wof:lastmodified":1695367002,
+    "wof:lastmodified":1716413486,
     "wof:name":"Reisbach",
     "wof:parent_id":1377685589,
     "wof:placetype":"locality",

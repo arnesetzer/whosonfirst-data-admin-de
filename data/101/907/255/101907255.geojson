@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":938,
     "iso:country":"DE",
-    "lbl:latitude":50.289918,
-    "lbl:longitude":9.90044,
+    "lbl:latitude":50.280226,
+    "lbl:longitude":9.895954,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":50.289918,
@@ -164,7 +164,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":101907255,
-    "wof:lastmodified":1695367046,
+    "wof:lastmodified":1716413482,
     "wof:name":"Geroda",
     "wof:parent_id":1377690621,
     "wof:placetype":"locality",

@@ -40,8 +40,8 @@
     "gn:population":7948,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":47.808601,
-    "lbl:longitude":12.67657,
+    "lbl:latitude":47.823115,
+    "lbl:longitude":12.646172,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.808601,
@@ -221,7 +221,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":25,
@@ -268,7 +268,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366985,
+    "wof:lastmodified":1716413487,
     "wof:name":"Siegsdorf",
     "wof:parent_id":1377694601,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":5777,
     "iso:country":"DE",
-    "lbl:latitude":49.871911,
-    "lbl:longitude":9.182931,
+    "lbl:latitude":49.873039,
+    "lbl:longitude":9.165543,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":49.871911,
@@ -182,7 +182,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":800,
@@ -222,7 +222,7 @@
         }
     ],
     "wof:id":101839927,
-    "wof:lastmodified":1695367052,
+    "wof:lastmodified":1716413483,
     "wof:name":"Kleinwallstadt",
     "wof:parent_id":1377691435,
     "wof:placetype":"locality",

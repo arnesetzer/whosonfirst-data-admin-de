@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":6552,
     "iso:country":"DE",
-    "lbl:latitude":49.903628,
-    "lbl:longitude":10.355933,
+    "lbl:latitude":49.900287,
+    "lbl:longitude":10.350576,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":49.903628,
@@ -341,7 +341,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":60,
@@ -385,7 +385,7 @@
         }
     ],
     "wof:id":101825921,
-    "wof:lastmodified":1695367055,
+    "wof:lastmodified":1716413478,
     "wof:name":"Gerolzhofen",
     "wof:parent_id":1377691793,
     "wof:placetype":"locality",

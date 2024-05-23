@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1726,
     "iso:country":"DE",
-    "lbl:latitude":48.126274,
-    "lbl:longitude":12.334666,
+    "lbl:latitude":48.119794,
+    "lbl:longitude":12.335632,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.126274,
@@ -199,7 +199,7 @@
         "de-bkg"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -247,7 +247,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366976,
+    "wof:lastmodified":1716413488,
     "wof:name":"Unterreit",
     "wof:parent_id":1377692619,
     "wof:placetype":"locality",

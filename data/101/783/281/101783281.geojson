@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2793,
     "iso:country":"DE",
-    "lbl:latitude":48.917674,
-    "lbl:longitude":12.831296,
+    "lbl:latitude":48.914169,
+    "lbl:longitude":12.811859,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.917674,
@@ -165,7 +165,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -204,7 +204,7 @@
         }
     ],
     "wof:id":101783281,
-    "wof:lastmodified":1695367001,
+    "wof:lastmodified":1716413487,
     "wof:name":"Schwarzach",
     "wof:parent_id":1377685473,
     "wof:placetype":"locality",

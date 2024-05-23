@@ -40,8 +40,8 @@
     "gn:population":3662,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.229737,
-    "lbl:longitude":10.200142,
+    "lbl:latitude":48.223354,
+    "lbl:longitude":10.179867,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.229737,
@@ -329,7 +329,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -375,7 +375,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367066,
+    "wof:lastmodified":1716413480,
     "wof:name":"Buch",
     "wof:parent_id":1377692765,
     "wof:placetype":"locality",

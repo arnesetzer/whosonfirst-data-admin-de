@@ -45,8 +45,8 @@
     "geom:latitude":49.000869,
     "geom:longitude":11.217549,
     "iso:country":"DE",
-    "lbl:latitude":49.006473,
-    "lbl:longitude":11.226673,
+    "lbl:latitude":48.997533,
+    "lbl:longitude":11.207872,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":49.006473,
@@ -186,7 +186,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":53,
@@ -229,7 +229,7 @@
         }
     ],
     "wof:id":101781857,
-    "wof:lastmodified":1695366967,
+    "wof:lastmodified":1716413488,
     "wof:name":"Titting",
     "wof:parent_id":1377691597,
     "wof:placetype":"locality",

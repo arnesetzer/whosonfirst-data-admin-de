@@ -41,8 +41,8 @@
     "gn:population":3623,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.056926,
-    "lbl:longitude":11.036186,
+    "lbl:latitude":48.067497,
+    "lbl:longitude":11.035139,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.056926,
@@ -207,7 +207,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":32,
@@ -247,7 +247,7 @@
         }
     ],
     "wof:id":101786583,
-    "wof:lastmodified":1695366975,
+    "wof:lastmodified":1716413489,
     "wof:name":"Windach",
     "wof:parent_id":1377692375,
     "wof:placetype":"locality",

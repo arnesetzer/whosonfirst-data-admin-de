@@ -26,8 +26,8 @@
     "gn:fcode":"ADM4",
     "gn:population":8507,
     "iso:country":"DE",
-    "lbl:latitude":48.67549,
-    "lbl:longitude":10.953353,
+    "lbl:latitude":48.690035,
+    "lbl:longitude":10.91499,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.67549,
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":101783163,
-    "wof:lastmodified":1710450541,
+    "wof:lastmodified":1716413479,
     "wof:name":"Rain",
     "wof:parent_id":1897332049,
     "wof:placetype":"locality",

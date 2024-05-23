@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1957,
     "iso:country":"DE",
-    "lbl:latitude":49.832743,
-    "lbl:longitude":10.925657,
+    "lbl:latitude":49.830692,
+    "lbl:longitude":10.925318,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.832743,
@@ -188,7 +188,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":627,
@@ -239,7 +239,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367017,
+    "wof:lastmodified":1716413485,
     "wof:name":"Pettstadt",
     "wof:parent_id":1377687175,
     "wof:placetype":"locality",

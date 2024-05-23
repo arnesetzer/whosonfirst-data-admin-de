@@ -23,8 +23,8 @@
     "geom:longitude":10.46186,
     "gn:population":2563,
     "iso:country":"DE",
-    "lbl:latitude":48.181922,
-    "lbl:longitude":10.467789,
+    "lbl:latitude":48.172735,
+    "lbl:longitude":10.474655,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.181922,
@@ -176,7 +176,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":1386,
@@ -215,7 +215,7 @@
         }
     ],
     "wof:id":101786523,
-    "wof:lastmodified":1695367070,
+    "wof:lastmodified":1716413483,
     "wof:name":"Kirchheim i. Schw.",
     "wof:parent_id":1377693213,
     "wof:placetype":"locality",

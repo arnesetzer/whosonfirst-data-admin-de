@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":8295,
     "iso:country":"DE",
-    "lbl:latitude":49.092777,
-    "lbl:longitude":12.916752,
+    "lbl:latitude":49.076716,
+    "lbl:longitude":12.888735,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":49.092777,
@@ -332,7 +332,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":48,
@@ -379,7 +379,7 @@
         }
     ],
     "wof:id":101781949,
-    "wof:lastmodified":1695366998,
+    "wof:lastmodified":1716413478,
     "wof:name":"Viechtach",
     "wof:parent_id":1377685037,
     "wof:placetype":"locality",

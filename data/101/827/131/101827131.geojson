@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3276,
     "iso:country":"DE",
-    "lbl:latitude":49.805575,
-    "lbl:longitude":12.410588,
+    "lbl:latitude":49.810875,
+    "lbl:longitude":12.429914,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.805575,
@@ -215,7 +215,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":162,
@@ -262,7 +262,7 @@
         }
     ],
     "wof:id":101827131,
-    "wof:lastmodified":1695367016,
+    "wof:lastmodified":1716413477,
     "wof:name":"B\u00e4rnau",
     "wof:parent_id":1377686873,
     "wof:placetype":"locality",

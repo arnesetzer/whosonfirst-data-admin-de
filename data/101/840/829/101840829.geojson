@@ -26,8 +26,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2558,
     "iso:country":"DE",
-    "lbl:latitude":49.785894,
-    "lbl:longitude":9.335814,
+    "lbl:latitude":49.77155,
+    "lbl:longitude":9.339719,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.785894,
@@ -189,7 +189,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":466,
@@ -229,7 +229,7 @@
         }
     ],
     "wof:id":101840829,
-    "wof:lastmodified":1710942845,
+    "wof:lastmodified":1716413481,
     "wof:name":"Collenberg",
     "wof:parent_id":1377691241,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2419,
     "iso:country":"DE",
-    "lbl:latitude":49.397061,
-    "lbl:longitude":10.516244,
+    "lbl:latitude":49.398577,
+    "lbl:longitude":10.510055,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.397061,
@@ -327,7 +327,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -370,7 +370,7 @@
         }
     ],
     "wof:id":101827429,
-    "wof:lastmodified":1695367032,
+    "wof:lastmodified":1716413481,
     "wof:name":"Flachslanden",
     "wof:parent_id":1377693149,
     "wof:placetype":"locality",

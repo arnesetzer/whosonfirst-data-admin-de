@@ -40,8 +40,8 @@
     "gn:population":1169,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":48.585175,
-    "lbl:longitude":10.970489,
+    "lbl:latitude":48.59105,
+    "lbl:longitude":10.96098,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.585175,
@@ -200,7 +200,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wof:belongsto":[
@@ -239,7 +239,7 @@
         }
     ],
     "wof:id":101784161,
-    "wof:lastmodified":1695367060,
+    "wof:lastmodified":1716413480,
     "wof:name":"Baar (Schwaben)",
     "wof:parent_id":1377692355,
     "wof:placetype":"locality",

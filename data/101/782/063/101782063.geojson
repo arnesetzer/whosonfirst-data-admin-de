@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2485,
     "iso:country":"DE",
-    "lbl:latitude":49.250203,
-    "lbl:longitude":11.384658,
+    "lbl:latitude":49.252361,
+    "lbl:longitude":11.398705,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.250203,
@@ -338,7 +338,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -386,7 +386,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367007,
+    "wof:lastmodified":1716413480,
     "wof:name":"Berngau",
     "wof:parent_id":1377686159,
     "wof:placetype":"locality",

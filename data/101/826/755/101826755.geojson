@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1296,
     "iso:country":"DE",
-    "lbl:latitude":49.530945,
-    "lbl:longitude":10.868859,
+    "lbl:latitude":49.530337,
+    "lbl:longitude":10.860103,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.530945,
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":208,
@@ -251,7 +251,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367035,
+    "wof:lastmodified":1716413488,
     "wof:name":"Tuchenbach",
     "wof:parent_id":1377689439,
     "wof:placetype":"locality",

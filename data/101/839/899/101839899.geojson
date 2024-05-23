@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":3599,
     "iso:country":"DE",
-    "lbl:latitude":49.648388,
-    "lbl:longitude":10.118585,
+    "lbl:latitude":49.66784,
+    "lbl:longitude":10.143749,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.648388,
@@ -365,7 +365,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":740,
@@ -409,7 +409,7 @@
         }
     ],
     "wof:id":101839899,
-    "wof:lastmodified":1695367050,
+    "wof:lastmodified":1716413478,
     "wof:name":"Marktbreit",
     "wof:parent_id":1377691215,
     "wof:placetype":"locality",

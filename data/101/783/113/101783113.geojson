@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":8607,
     "iso:country":"DE",
-    "lbl:latitude":48.849159,
-    "lbl:longitude":13.399586,
+    "lbl:latitude":48.855904,
+    "lbl:longitude":13.397952,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":48.849159,
@@ -338,7 +338,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":28,
@@ -384,7 +384,7 @@
         }
     ],
     "wof:id":101783113,
-    "wof:lastmodified":1695366990,
+    "wof:lastmodified":1716413478,
     "wof:name":"Grafenau",
     "wof:parent_id":1377683979,
     "wof:placetype":"locality",

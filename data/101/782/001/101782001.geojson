@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1549,
     "iso:country":"DE",
-    "lbl:latitude":49.093573,
-    "lbl:longitude":12.304437,
+    "lbl:latitude":49.092087,
+    "lbl:longitude":12.304026,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":49.093573,
@@ -182,7 +182,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -226,7 +226,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367010,
+    "wof:lastmodified":1716413480,
     "wof:name":"Altenthann",
     "wof:parent_id":1377686643,
     "wof:placetype":"locality",

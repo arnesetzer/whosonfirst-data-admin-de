@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2286,
     "iso:country":"DE",
-    "lbl:latitude":49.950682,
-    "lbl:longitude":9.65018,
+    "lbl:latitude":49.951328,
+    "lbl:longitude":9.670161,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.950682,
@@ -234,7 +234,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":151,
@@ -273,7 +273,7 @@
         }
     ],
     "wof:id":101813611,
-    "wof:lastmodified":1695367053,
+    "wof:lastmodified":1716413487,
     "wof:name":"Steinfeld",
     "wof:parent_id":1377691595,
     "wof:placetype":"locality",

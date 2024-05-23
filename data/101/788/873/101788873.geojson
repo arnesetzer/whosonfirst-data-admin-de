@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":1391,
     "iso:country":"DE",
-    "lbl:latitude":47.537759,
-    "lbl:longitude":11.272152,
+    "lbl:latitude":47.519891,
+    "lbl:longitude":11.282292,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":47.537759,
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":117,
@@ -254,7 +254,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366973,
+    "wof:lastmodified":1716413488,
     "wof:name":"Wallgau",
     "wof:parent_id":1377692189,
     "wof:placetype":"locality",

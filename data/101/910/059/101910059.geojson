@@ -40,8 +40,8 @@
     "gn:population":590,
     "gn:timezone":"Europe/Berlin",
     "iso:country":"DE",
-    "lbl:latitude":49.503996,
-    "lbl:longitude":12.625388,
+    "lbl:latitude":49.506162,
+    "lbl:longitude":12.613329,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":49.503996,
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":729,
@@ -238,7 +238,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367013,
+    "wof:lastmodified":1716413487,
     "wof:name":"Stadlern",
     "wof:parent_id":1377686833,
     "wof:placetype":"locality",

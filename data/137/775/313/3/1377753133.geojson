@@ -48,8 +48,8 @@
     "gn:fcode":"ADM4",
     "gn:population":886,
     "iso:country":"DE",
-    "lbl:latitude":50.073349,
-    "lbl:longitude":9.340915,
+    "lbl:latitude":50.070291,
+    "lbl:longitude":9.345886,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":50.073349,
@@ -207,7 +207,7 @@
     "wof:lang_x_spoken":[
         "deu"
     ],
-    "wof:lastmodified":1695367042,
+    "wof:lastmodified":1716413482,
     "wof:name":"Heinrichsthal",
     "wof:parent_id":1377690485,
     "wof:placetype":"locality",
@@ -219,7 +219,8 @@
         1125280151,
         1125270817
     ],
-    "wof:tags":[]
+    "wof:tags":[],
+    "src:lbl_centroid":"wof"
 },
   "bbox": [
     9.321364,

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":8337,
     "iso:country":"DE",
-    "lbl:latitude":49.20327,
-    "lbl:longitude":12.252594,
+    "lbl:latitude":49.195663,
+    "lbl:longitude":12.271327,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":49.20327,
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":52,
@@ -250,7 +250,7 @@
         }
     ],
     "wof:id":101782201,
-    "wof:lastmodified":1695367013,
+    "wof:lastmodified":1716413478,
     "wof:name":"Nittenau",
     "wof:parent_id":1377686743,
     "wof:placetype":"locality",

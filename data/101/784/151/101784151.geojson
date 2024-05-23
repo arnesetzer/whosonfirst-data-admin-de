@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4122,
     "iso:country":"DE",
-    "lbl:latitude":48.479026,
-    "lbl:longitude":10.356125,
+    "lbl:latitude":48.481386,
+    "lbl:longitude":10.364813,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.479026,
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":30,
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":101784151,
-    "wof:lastmodified":1695367065,
+    "wof:lastmodified":1716413485,
     "wof:name":"Offingen",
     "wof:parent_id":1377692597,
     "wof:placetype":"locality",

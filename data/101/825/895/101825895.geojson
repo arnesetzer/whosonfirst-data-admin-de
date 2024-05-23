@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2408,
     "iso:country":"DE",
-    "lbl:latitude":49.882771,
-    "lbl:longitude":11.503864,
+    "lbl:latitude":49.892382,
+    "lbl:longitude":11.508785,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.882771,
@@ -329,7 +329,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -369,7 +369,7 @@
         }
     ],
     "wof:id":101825895,
-    "wof:lastmodified":1695367019,
+    "wof:lastmodified":1716413483,
     "wof:name":"Hummeltal",
     "wof:parent_id":1377687547,
     "wof:placetype":"locality",

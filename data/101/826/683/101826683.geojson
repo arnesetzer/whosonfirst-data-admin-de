@@ -23,8 +23,8 @@
     "geom:longitude":10.27264,
     "gn:population":1135,
     "iso:country":"DE",
-    "lbl:latitude":48.088218,
-    "lbl:longitude":10.271969,
+    "lbl:latitude":48.089372,
+    "lbl:longitude":10.281374,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":48.088218,
@@ -175,7 +175,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":37,
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":101826683,
-    "wof:lastmodified":1695367071,
+    "wof:lastmodified":1716413481,
     "wof:name":"Egg a.d. G\u00fcnz",
     "wof:parent_id":1377693195,
     "wof:placetype":"locality",

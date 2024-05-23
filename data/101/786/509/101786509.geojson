@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2357,
     "iso:country":"DE",
-    "lbl:latitude":48.123515,
-    "lbl:longitude":10.447616,
+    "lbl:latitude":48.120448,
+    "lbl:longitude":10.456686,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.123515,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":40,
@@ -235,7 +235,7 @@
         }
     ],
     "wof:id":101786509,
-    "wof:lastmodified":1695367071,
+    "wof:lastmodified":1716413485,
     "wof:name":"Pfaffenhausen",
     "wof:parent_id":1377693203,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2104,
     "iso:country":"DE",
-    "lbl:latitude":48.980855,
-    "lbl:longitude":10.475585,
+    "lbl:latitude":48.972476,
+    "lbl:longitude":10.457848,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.980855,
@@ -191,7 +191,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":27,
@@ -234,7 +234,7 @@
         }
     ],
     "wof:id":101781823,
-    "wof:lastmodified":1695367073,
+    "wof:lastmodified":1716413482,
     "wof:name":"Fremdingen",
     "wof:parent_id":1377693311,
     "wof:placetype":"locality",

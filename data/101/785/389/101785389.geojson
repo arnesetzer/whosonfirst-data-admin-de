@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":4301,
     "iso:country":"DE",
-    "lbl:latitude":48.366373,
-    "lbl:longitude":11.461043,
+    "lbl:latitude":48.365742,
+    "lbl:longitude":11.460103,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.366373,
@@ -321,7 +321,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":34,
@@ -371,7 +371,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366966,
+    "wof:lastmodified":1716413488,
     "wof:name":"Vierkirchen",
     "wof:parent_id":1377691283,
     "wof:placetype":"locality",

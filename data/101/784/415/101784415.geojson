@@ -25,8 +25,8 @@
     "gn:fcode":"PPLA4",
     "gn:population":3782,
     "iso:country":"DE",
-    "lbl:latitude":48.633148,
-    "lbl:longitude":11.0826,
+    "lbl:latitude":48.640155,
+    "lbl:longitude":11.104811,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.633148,
@@ -200,7 +200,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":26,
@@ -251,7 +251,7 @@
         }
     ],
     "wof:id":101784415,
-    "wof:lastmodified":1695366979,
+    "wof:lastmodified":1716413481,
     "wof:name":"Ehekirchen",
     "wof:parent_id":1377693713,
     "wof:placetype":"locality",

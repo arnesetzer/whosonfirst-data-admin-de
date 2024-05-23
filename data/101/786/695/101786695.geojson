@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":13253,
     "iso:country":"DE",
-    "lbl:latitude":48.195314,
-    "lbl:longitude":10.722469,
+    "lbl:latitude":48.184168,
+    "lbl:longitude":10.757492,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":48.195314,
@@ -335,7 +335,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":1053,
@@ -382,7 +382,7 @@
         }
     ],
     "wof:id":101786695,
-    "wof:lastmodified":1695367061,
+    "wof:lastmodified":1716413479,
     "wof:name":"Schwabm\u00fcnchen",
     "wof:parent_id":1377693457,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2132,
     "iso:country":"DE",
-    "lbl:latitude":47.863565,
-    "lbl:longitude":11.029829,
+    "lbl:latitude":47.876229,
+    "lbl:longitude":11.024631,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":47.863565,
@@ -332,7 +332,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":854,
@@ -373,7 +373,7 @@
         }
     ],
     "wof:id":101787591,
-    "wof:lastmodified":1695366986,
+    "wof:lastmodified":1716413489,
     "wof:name":"Wessobrunn",
     "wof:parent_id":1377683691,
     "wof:placetype":"locality",

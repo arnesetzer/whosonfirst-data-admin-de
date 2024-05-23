@@ -23,8 +23,8 @@
     "geom:longitude":12.723065,
     "gn:population":6291,
     "iso:country":"DE",
-    "lbl:latitude":47.938933,
-    "lbl:longitude":12.704259,
+    "lbl:latitude":47.933647,
+    "lbl:longitude":12.734569,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":47.938933,
@@ -169,7 +169,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":485,
@@ -213,7 +213,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366986,
+    "wof:lastmodified":1716413488,
     "wof:name":"Waging a. See",
     "wof:parent_id":1377683573,
     "wof:placetype":"locality",

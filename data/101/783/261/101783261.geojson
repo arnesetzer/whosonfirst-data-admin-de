@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2796,
     "iso:country":"DE",
-    "lbl:latitude":48.937809,
-    "lbl:longitude":11.210115,
+    "lbl:latitude":48.948846,
+    "lbl:longitude":11.207755,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":48.937809,
@@ -183,7 +183,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":129,
@@ -226,7 +226,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366967,
+    "wof:lastmodified":1716413486,
     "wof:name":"Pollenfeld",
     "wof:parent_id":1377691621,
     "wof:placetype":"locality",

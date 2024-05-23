@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":2406,
     "iso:country":"DE",
-    "lbl:latitude":49.060905,
-    "lbl:longitude":13.294641,
+    "lbl:latitude":49.035798,
+    "lbl:longitude":13.254674,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.060905,
@@ -195,7 +195,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424829,
@@ -245,7 +245,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695366997,
+    "wof:lastmodified":1716413484,
     "wof:name":"Lindberg",
     "wof:parent_id":1377684983,
     "wof:placetype":"locality",

@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":22376,
     "iso:country":"DE",
-    "lbl:latitude":48.321489,
-    "lbl:longitude":10.064271,
+    "lbl:latitude":48.323988,
+    "lbl:longitude":10.043467,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":48.321489,
@@ -335,7 +335,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:latitude":48.316667,
@@ -384,7 +384,7 @@
         }
     ],
     "wof:id":101762897,
-    "wof:lastmodified":1695367066,
+    "wof:lastmodified":1716413479,
     "wof:name":"Senden",
     "wof:parent_id":1377692719,
     "wof:placetype":"locality",

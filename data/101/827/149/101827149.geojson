@@ -25,8 +25,8 @@
     "gn:fcode":"ADM4",
     "gn:population":6824,
     "iso:country":"DE",
-    "lbl:latitude":49.858802,
-    "lbl:longitude":10.847242,
+    "lbl:latitude":49.863625,
+    "lbl:longitude":10.843548,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":49.858802,
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "de-bkg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"wof",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "wd:wordcount":485,
@@ -236,7 +236,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1695367017,
+    "wof:lastmodified":1716413487,
     "wof:name":"Stegaurach",
     "wof:parent_id":1377687207,
     "wof:placetype":"locality",
