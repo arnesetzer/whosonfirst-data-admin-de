@@ -34,6 +34,9 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30fc\u30ea\u30f3\u6e29\u6cc9"
     ],
+    "name:deu_x_preferred":[
+        "P\u00f6ring"
+    ],
     "name:spa_x_preferred":[
         "Poring"
     ],
@@ -67,7 +70,7 @@
     ],
     "wof:id":1377819421,
     "wof:lastmodified":1566719307,
-    "wof:name":"Poring",
+    "wof:name":"P\u00f6ring",
     "wof:parent_id":101786627,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-de",
