@@ -4,7 +4,7 @@ jobs:
   install-cargo-stuff:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout
+      - uses: actions/checkout@v4
       - uses: baptiste0928/cargo-install@v3
         with:
           crate: wof
