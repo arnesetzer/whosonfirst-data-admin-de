@@ -8,7 +8,7 @@ jobs:
       - uses: baptiste0928/cargo-install@v3
         with:
           crate: wof
-          features: cli, with-gdal
+          features: cli
       - run: wof build sqlite --no-deprecated --preset --out whosonfirst-data-admin-de-latest.db ./data
       - uses: EndBug/add-and-commit@v9
         with:
