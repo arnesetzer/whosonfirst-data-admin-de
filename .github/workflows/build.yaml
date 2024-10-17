@@ -9,7 +9,7 @@ jobs:
         with:
           crate: wof
           features: cli
-      - run: wof build sqlite --no-deprecated --preset --out whosonfirst-data-admin-de-latest.db ./data
+      - run: wof build sqlite --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db ./data
       - uses: EndBug/add-and-commit@v9
         with:
           add: "whosonfirst-data-admin-de-latest.db"
