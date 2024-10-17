@@ -4,13 +4,12 @@ jobs:
   install-cargo-stuff:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@master
       - uses: baptiste0928/cargo-install@v3
         with:
           crate: wof
           features: cli
       - run: wof build sqlite --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db ./data
-      - uses: EndBug/add-and-commit@v9
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          add: "whosonfirst-data-admin-de-latest.db"
-          message: "Build WoF db on commit ${{ github.event.head_commit.message }}"
+          commit_message: "Build WoF db on commit ${{ github.event.head_commit.message }}"
