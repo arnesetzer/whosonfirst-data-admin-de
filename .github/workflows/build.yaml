@@ -9,7 +9,7 @@ jobs:
         with:
           crate: wof
           features: cli
-      - run: ls -al && wof build sqlite --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db ./data/
+      - run: wof install && wof build sqlite --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db data/
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Build WoF db on commit ${{ github.event.head_commit.message }}"
+          commit_message: "Build WoF db on commit \"${{ github.event.head_commit.message }}\""
