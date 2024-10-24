@@ -1,0 +1,22 @@
+name: Build WoF db
+on: [push]
+jobs:
+  install-cargo-stuff:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: baptiste0928/cargo-install@v3
+        with:
+          crate: wof
+          features: cli
+          locked: false
+      - name: Run wof build
+        shell: 'script -q -e -c "bash {0}"'
+        run: wof build sqlite -v --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db data
+      - name: Create a Release
+        uses: ncipollo/release-action@v1
+        with:
+          name: 'Build WoF db on commit "${{ github.event.head_commit.message }}"'
+          artifacts: "whosonfirst-data-admin-de-latest.db"
+          tag: "1.0.0"
+          allowUpdates: true
