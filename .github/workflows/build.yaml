@@ -11,8 +11,8 @@ jobs:
           features: cli
           locked: false
       - name: Run wof build
-        working-directory: ./data
-        run: wof build sqlite -v --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db 
+        shell: 'script -q -e -c "bash {0}"'
+        run: wof build sqlite -v --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db data
           
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
