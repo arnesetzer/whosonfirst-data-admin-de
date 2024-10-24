@@ -18,4 +18,4 @@ jobs:
         with:
           name: 'Build WoF db on commit "${{ github.event.head_commit.message }}"'
           artifacts: "whosonfirst-data-admin-de-latest.db"
-          commit: ${{GITHUB_SHA}}
+          commit: ${{ github.sha }}
