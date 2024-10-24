@@ -10,7 +10,7 @@ jobs:
           crate: wof
           features: cli
           locked: false
-      - run: wof build sqlite -v --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db $(pwd)/data
+      - run: wof build sqlite -v --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db ./data
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Build WoF db on commit \"${{ github.event.head_commit.message }}\""
