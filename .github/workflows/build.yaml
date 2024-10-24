@@ -9,6 +9,7 @@ jobs:
         with:
           crate: wof
           features: cli
+          locked: false
       - run: wof build sqlite --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
