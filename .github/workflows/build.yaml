@@ -19,3 +19,4 @@ jobs:
           name: 'Build WoF db on commit "${{ github.event.head_commit.message }}"'
           artifacts: "whosonfirst-data-admin-de-latest.db"
           tag: "1.0.0"
+          allowUpdates: true
