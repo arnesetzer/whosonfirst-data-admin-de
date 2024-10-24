@@ -16,4 +16,5 @@ jobs:
       - name: Create a Release
         uses: ncipollo/release-action@v1
         with:
-         artifacts: "whosonfirst-data-admin-de-latest.db"
+          name: 'Build WoF db on commit "${{ github.event.head_commit.message }}"'
+          artifacts: "whosonfirst-data-admin-de-latest.db"
