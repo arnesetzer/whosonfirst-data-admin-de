@@ -8,7 +8,7 @@ jobs:
       - uses: baptiste0928/cargo-install@v3
         with:
           crate: wof
-          features: cli with-gdal
+          features: cli
           locked: false
       - run: wof build sqlite -v --no-deprecated --preset pelias --out whosonfirst-data-admin-de-latest.db 
       - uses: stefanzweifel/git-auto-commit-action@v5
