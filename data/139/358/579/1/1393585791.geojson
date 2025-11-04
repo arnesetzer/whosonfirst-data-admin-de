@@ -38,7 +38,7 @@
         "Jitro"
     ],
     "name:deu_x_preferred":[
-        "Morgen"
+        "M\u00f6rgen"
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30eb\u30b2\u30f3"
@@ -103,7 +103,7 @@
     ],
     "wof:id":1393585791,
     "wof:lastmodified":1566716248,
-    "wof:name":"Morgen",
+    "wof:name":"M\u00f6rgen",
     "wof:parent_id":101786521,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-de",
