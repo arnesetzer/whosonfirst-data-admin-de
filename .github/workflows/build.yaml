@@ -4,6 +4,9 @@ jobs:
   install-cargo-stuff:
     runs-on: ubuntu-latest
     steps:
+      - name: Get current date
+        id: date
+        run: echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
       - uses: actions/checkout@master
       - uses: baptiste0928/cargo-install@v3
         with:
@@ -22,7 +25,7 @@ jobs:
       - name: Create a Release
         uses: ncipollo/release-action@v1
         with:
-          name: 'Build WoF db on commit "${{ github.event.head_commit.message }}"'
+          name: 'Build WoF db on commit "${{ github.event.head_commit.message }}" at ${{ env.NOW }}'
           artifacts: "whosonfirst-data-admin-de-latest.db, whosonfirst-data-admin-de-latest.db.sha256"
-          tag: "1.0.0"
+          tag: "{{github.ref_name }} - ${{ env.NOW }}"
           allowUpdates: true
