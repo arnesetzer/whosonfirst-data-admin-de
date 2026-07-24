@@ -27,5 +27,5 @@ jobs:
         with:
           name: 'Build WoF db on commit "${{ github.event.head_commit.message }}" at ${{ env.NOW }}'
           artifacts: "whosonfirst-data-admin-de-latest.db, whosonfirst-data-admin-de-latest.db.sha256"
-          tag: "{{github.ref_name }} - ${{ env.NOW }}"
+          tag: "${{ github.ref_name }}-${{ env.NOW }}"
           allowUpdates: true
